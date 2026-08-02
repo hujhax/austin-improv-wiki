@@ -22,42 +22,42 @@
 **Ruby Willmann** is an Austin improviser.
 
 ## History
-Ruby Willmann started taking improv classes after seeing a [[Troupes/Parallelogramophonograph]] show in September 2010. She became a Hideout Teacher in the summer of 2013. She started the Student Mainstage Production series in 2014.
+Ruby Willmann started taking improv classes after seeing a [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] show in September 2010. She became a Hideout Teacher in the summer of 2013. She started the Student Mainstage Production series in 2014.
 
 ## Troupes
-* [[Shows/False Matters]]
-* [[Troupes/The Escorts]]
-* [[Troupes/Three Hot Chicks]]
-* [[Troupes/Ball&Chain]]
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Troupes/Three Hot Chicks|Three Hot Chicks]]
+* [[Troupes/Ball&Chain|Ball&Chain]]
 
 ## Shows
-* *[[Shows/A Bedtime Gorey]]*
-* *[[Shows/False Matters]]*
-* *[[Shows/Flying Theater Machine]]*
-* *[[Shows/I Love You So Much]]*
-* *[[Shows/Kenjutsu]]*
+* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
+* *[[Shows/False Matters|False Matters]]*
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
+* *[[Shows/I Love You So Much|I Love You So Much]]*
+* *[[Shows/Kenjutsu|Kenjutsu]]*
 * *[[Live TV Tuesdays -  Buffy]]* (Assistant Director)
 * *[[Live TV Tuesdays -  My So-Called Life]]*
-* *[[Shows/Live Nude Improv]]*
+* *[[Shows/Live Nude Improv|Live Nude Improv]]*
 * *[[Magna Veritas]]*
-* *[[Shows/Not This American Life]]*
+* *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Only Three Will Survive]]*
-* *[[Shows/Pocketful of Posies]]*
-* *[[Shows/Process]]*
-* *[[Shows/Reform School For Wayward Girls]]*
-* *[[Shows/Start Trekkin']]*
+* *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
+* *[[Shows/Process|Process]]*
+* *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[The 45-Hour Improv Marathon]]*
-* *[[Shows/The Fancy-Pants Mashup]]* (Host, 2011-2012)
+* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]* (Host, 2011-2012)
 * *[[The Good Life]]* *(director)*
-* *[[Shows/The International Improv Experience]]*
-* *[[Shows/The New Game Project]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Twilight Zoned]]*
-* *[[Shows/Wanderlust]]* *(director)*
-* *[[Shows/What the F@$]]* *(director)*
+* *[[Shows/The International Improv Experience|The International Improv Experience]]*
+* *[[Shows/The New Game Project|The New Game Project]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
+* *[[Shows/Wanderlust|Wanderlust]]* *(director)*
+* *[[Shows/What the F@$|What the F@$]]* *(director)*
 
 ## More Information
-* [Interview](http://yesandrew.com/sunday-interview-ruby-willmann/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/sunday-interview-ruby-willmann/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Willmann]]
 [[Category/Teachers|Willmann]]

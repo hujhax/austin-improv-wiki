@@ -19,10 +19,10 @@
   --><li style=""><a class="internal-link" href="Ella Gale">Ella Gale</a></li><!--
   --><li style=""><a class="internal-link" href="Kevin Smith">Kevin Smith</a></li><!--
   --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mitch Mills">Performers/Mitch Mills</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mitch Mills">Mitch Mills</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Chiarello">Stephanie Chiarello</a></li><!--
   --><li style=""><a class="internal-link" href="Mike O'Connor">Mike O'Connor</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Ronn">Performers/David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:*This page refers to the 2014 musical-improv troupe.  For the 2012 improv show inspired by *Stomp'', see [[Shows/Racket]].
+:*This page refers to the 2014 musical-improv troupe.  For the 2012 improv show inspired by *Stomp'', see [[Shows/Racket|Racket]].
 **That Racket!** is a musical improv troupe.
 
 ## History

@@ -14,23 +14,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brandon Roesler">Brandon Roesler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Performers/Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
   --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Micallef">Jennifer Micallef</a></li><!--
   --><li style=""><a class="internal-link" href="Jono Gray">Jono Gray</a></li><!--
   --><li style=""><a class="internal-link" href="Justin Strackany">Justin Strackany</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Brockman">Performers/Michael Brockman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Brockman">Michael Brockman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,11 +82,11 @@
 	</table>
 </div>
 
-:*This page refers to the 2012 improv show inspired by *Stomp''.  For the 2014 musical-improv troupe, see [[Troupes/That Racket!]].
+:*This page refers to the 2012 improv show inspired by *Stomp''.  For the 2014 musical-improv troupe, see [[Troupes/That Racket!|That Racket!]].
 ***Racket*** (full title: ***RACKET: Rhythm-Based Improv***) was an improv show that alternated scenework with rhythmic improvisation using found objects.
 
 ## History
-After the run of the show, the cast performed a number of one-off shows in 2012, as well as a September run of shows with [[Troupes/Simply D-VINE]] called "Church of the D-Vine RACKET".
+After the run of the show, the cast performed a number of one-off shows in 2012, as well as a September run of shows with [[Troupes/Simply D-VINE|Simply D-VINE]] called "Church of the D-Vine RACKET".
 
 The cast also performed as a troupe for a number of one-off shows in 2012.
 

@@ -22,16 +22,16 @@
 **Erin Molson** is an improv performer.
 
 ## Troupes
-* [[Troupes/$10 Bourbon]]
+* [[Troupes/$10 Bourbon|$10 Bourbon]]
 
 ## Shows
-* *[[Shows/After School Improv]]*
-* *[[Troupes/ComedySportz]]*
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Troupes/ComedySportz|ComedySportz]]*
 * *[[The Family]]*
-* *[[Shows/Happily Ever After]]*
-* *[[Shows/A Deed So Dark]]*
+* *[[Shows/Happily Ever After|Happily Ever After]]*
+* *[[Shows/A Deed So Dark|A Deed So Dark]]*
 
 ## More Information
-* [The announcement of Erin's last show](http://forum.austinimprov.com/viewtopic.php?p=97131) with [[Troupes/Girls Girls Girls]], on [[The Austin Improv Forums]].
+* [The announcement of Erin's last show](http://forum.austinimprov.com/viewtopic.php?p=97131) with [[Troupes/Girls Girls Girls|Girls Girls Girls]], on [[The Austin Improv Forums]].
 
 [[Category/Performers|Molson]]

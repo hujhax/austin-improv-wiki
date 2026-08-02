@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3) by [[Roy Moore]] that includes their 9/16/10 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3) by [[Roy Moore]] that includes their 9/16/10 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's web site.](http://www.antiquelimax.com)

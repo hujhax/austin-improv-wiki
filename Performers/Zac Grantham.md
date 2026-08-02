@@ -25,12 +25,12 @@
 Zac started out as a [[Hideout]] student in 2009.
 
 ## Troupes
-* [[Troupes/Happy Butter]]
-* [[Troupes/Local Genius Society]]
+* [[Troupes/Happy Butter|Happy Butter]]
+* [[Troupes/Local Genius Society|Local Genius Society]]
 
 ## Shows
-* *[[Shows/Charles Dickens Unleashed]]*
-* *[[Shows/Holy 1960s Batman, Batman!]]* (tech)
-* *[[Shows/The Violet Underbelly]]*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]* (tech)
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 [[Category/Performers|Grantham]]

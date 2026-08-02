@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Then Say I Love You.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Then Say I Love You]].
+Publicity image for [[Troupes/Then Say I Love You|Then Say I Love You]].
 
 Photos by: unknown.
 ## Licensing

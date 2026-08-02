@@ -34,16 +34,16 @@
 ***The Hideout Holiday Super Special*** was an anthology of Christmas-themed performances of previous mainstage shows at [[The Hideout Theatre]].
 
 ## Schedule
-* 11/6/10: *[[Shows/Start Trekkin']]*
-* 11/13/10: *[[Shows/Hitchcocked!]]*
-* 11/27/10: *[[Shows/Austin Secrets]]*
-* 12/4/10: *[[Shows/Charles Dickens Unleashed]]*
-* 12/11/10: *[[Shows/Who is T. Henry Baudecliffe]]*
-* 12/18/10: *[[Shows/The Andersons]]*
+* 11/6/10: *[[Shows/Start Trekkin'|Start Trekkin']]*
+* 11/13/10: *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* 11/27/10: *[[Shows/Austin Secrets|Austin Secrets]]*
+* 12/4/10: *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
+* 12/11/10: *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
+* 12/18/10: *[[Shows/The Andersons|The Andersons]]*
 
 ## Media
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/snowflakesset/snowflakesset.jpg?disposition=download) of [[Performers/Kaci Beeler]]'s holiday set design for the run.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/snowflakesset/snowflakesset.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s holiday set design for the run.
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial)

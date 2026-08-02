@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Harrison Hammonds">Harrison Hammonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Performers/Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -129,7 +129,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>The Bare Minimum is James Bowie High School's comedy club. It's led by [[Performers/Jeremy Sweetlamb]], a Hideout regular, and [[Harrison Hammonds]], a kid. We try to go over improv and comedy writing and host open mics in the school's theatre once a month.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>The Bare Minimum is James Bowie High School's comedy club. It's led by [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], a Hideout regular, and [[Harrison Hammonds]], a kid. We try to go over improv and comedy writing and host open mics in the school's theatre once a month.</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We do a mix of stand-up, improv, and sketch. At the Hideout we'll probably just do improv and maybe some stand-up. In terms of improv we do short-form games. If we had a deal or gimmick it would probably be that we're in high school.</blockquote>

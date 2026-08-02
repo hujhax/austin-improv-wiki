@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,13 +74,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Performers/Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style=""><a class="internal-link" href="David Harper">David Harper</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Performers/Matt Pollock</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
   --><!--
   --><!--
@@ -143,7 +143,7 @@
 * 10/11/08
 * 10/25/08
 * 10/31/08
-	* This show (and this show only) was part of *[[Shows/The Double Barrel]]* at [[The Hideout Theatre]].
+	* This show (and this show only) was part of *[[Shows/The Double Barrel|The Double Barrel]]* at [[The Hideout Theatre]].
 * 12/20/08
 
 [[Category/Shows|Category:Shows]]

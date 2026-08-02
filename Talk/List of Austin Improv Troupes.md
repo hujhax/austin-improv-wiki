@@ -1,3 +1,3 @@
-I think that we should keep this list alphabetized, and using the convention that "The" doesn't count. -- [[Performers/Brad Hawkins]]
+I think that we should keep this list alphabetized, and using the convention that "The" doesn't count. -- [[Performers/Brad Hawkins|Brad Hawkins]]
 
-Sounds good -- and we may be able to generate this page automatically, if we create a "troupe" category. -- [[Performers/Peter Rogers]]
+Sounds good -- and we may be able to generate this page automatically, if we create a "troupe" category. -- [[Performers/Peter Rogers|Peter Rogers]]

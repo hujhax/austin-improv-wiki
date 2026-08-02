@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Brad Temple Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-"Trading card" picture of [[Performers/Brad Temple]] for [[Troupes/Journey To The Big Water]].
+"Trading card" picture of [[Performers/Brad Temple|Brad Temple]] for [[Troupes/Journey To The Big Water|Journey To The Big Water]].
 
 Photo by: Wylie Maercklien.
 

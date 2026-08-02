@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="SNAFU.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Snafu]].
+Publicity image for [[Troupes/Snafu|Snafu]].
 
 Photo by: unknown.
 

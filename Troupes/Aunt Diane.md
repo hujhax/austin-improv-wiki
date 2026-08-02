@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
   --><li style=""><a class="internal-link" href="Kate Trammell">Kate Trammell</a></li><!--
   --><li style=""><a class="internal-link" href="Kayla Newman">Kayla Newman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Performers/Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Wuthrich">Nick Wuthrich</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Aunt Diane** is a *[[Shows/Cagematch]]* team.
+**Aunt Diane** is a *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played in the 7/30/14 *Cagematch*.

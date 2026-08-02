@@ -14,26 +14,26 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Ryan Hill">Performers/Ryan Hill</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alexandria Ayala">Performers/Alexandria Ayala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexandria Ayala">Alexandria Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Hush">Andy Hush</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Performers/Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Performers/Clint Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Performers/Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Performers/Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><!--
   --><!--
@@ -149,23 +149,23 @@ In materials promoting this show, the Institution Theater's [[Wikipedia - View-M
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/91137418) by [[Performers/Brad Hawkins]] of the 4/4/14 show ("The Keebler Elves").
-* [Video](http://vimeo.com/92235221) by [[Performers/Brad Hawkins]] of the 4/11/14 show ("Orthodontists").
-* [Video](http://vimeo.com/93384305) by [[Performers/Brad Hawkins]] of the 4/18/14 show ("Milton Bradley").
-* [Video](http://vimeo.com/93541011) by [[Performers/Brad Hawkins]] of the 4/25/14 show ("Animal Shelters").
-* [Video](http://vimeo.com/94790723) by [[Performers/Brad Hawkins]] of the 5/2/14 show ("Clowns").
-* [Video](http://vimeo.com/96163000) by [[Performers/Brad Hawkins]] of the 5/9/14 show ("Oprah").
-* [Video](http://vimeo.com/97423820) by [[Performers/Brad Hawkins]] of the 5/16/14 show ("McDonald's").
-* [Video](http://vimeo.com/99802772) by [[Performers/Brad Hawkins]] of the 5/23/14 show ("The WWF").
-* [Video](http://vimeo.com/103899880) by [[Performers/Brad Hawkins]] of the 5/30/14 show ("Yoga").
+* [Video](http://vimeo.com/91137418) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 4/4/14 show ("The Keebler Elves").
+* [Video](http://vimeo.com/92235221) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 4/11/14 show ("Orthodontists").
+* [Video](http://vimeo.com/93384305) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 4/18/14 show ("Milton Bradley").
+* [Video](http://vimeo.com/93541011) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 4/25/14 show ("Animal Shelters").
+* [Video](http://vimeo.com/94790723) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/2/14 show ("Clowns").
+* [Video](http://vimeo.com/96163000) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/9/14 show ("Oprah").
+* [Video](http://vimeo.com/97423820) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/16/14 show ("McDonald's").
+* [Video](http://vimeo.com/99802772) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/23/14 show ("The WWF").
+* [Video](http://vimeo.com/103899880) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/30/14 show ("Yoga").
 * [Video](http://vimeo.com/108304056) of their performance in [[The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.821067607923726.1073741871.100000614831752&type=3) by [[Performers/Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.821067607923726.1073741871.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.631796130222403.1073741875.118587218209966&type=3) by [[Roy Moore]] of the 4/14/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.730270493703136.1073741996.221927764537414&type=3) by [[Steve Rogers]] of the 5/9/14 show.
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes the 5/30/14 finale.
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104756360422460.1073741867.7909117&type=3) by [[Performers/Heidi Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 5/30/14 finale.
+	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104756360422460.1073741867.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]]
 
 ### Publicity

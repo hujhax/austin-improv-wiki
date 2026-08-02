@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Your Terrific Neighbors.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image of [[Troupes/Your Terrific Neighbors]].
+Publicity image of [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]].
 
 Photo by: unknown.
 ## Licensing

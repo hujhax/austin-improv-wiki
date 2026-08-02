@@ -21,8 +21,8 @@
 
 [[Category/Performers|Morelli]]
 
-**Ron Morelli** is an improviser and sketch writer/performer. He is a founding member of [[Troupes/Bad Font]].
+**Ron Morelli** is an improviser and sketch writer/performer. He is a founding member of [[Troupes/Bad Font|Bad Font]].
 
 
 ## Troupes
-* [[Troupes/Bad Font]]
+* [[Troupes/Bad Font|Bad Font]]

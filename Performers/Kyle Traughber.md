@@ -25,21 +25,21 @@
 Kyle was a company member with [[Gnap! Theater Projects]].
 
 ## Troupes
-* [[Troupes/Blink]]
-* [[Troupes/The Dukes of Bedside Manor]]
-* [[Shows/False Matters]]
-* [[Troupes/GigglePants]]
-* [[Troupes/Quayle]]
-* [[Troupes/Rhinodino]]
-* [[Troupes/Senshi Sokkyo]]
+* [[Troupes/Blink|Blink]]
+* [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/GigglePants|GigglePants]]
+* [[Troupes/Quayle|Quayle]]
+* [[Troupes/Rhinodino|Rhinodino]]
+* [[Troupes/Senshi Sokkyo|Senshi Sokkyo]]
 
 ## Shows
 * *[[Dusk]]*
-* *[[Shows/Heist!]]*
+* *[[Shows/Heist!|Heist!]]*
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Daniel Desario)
 * *[[Live TV Tuesdays -  My So-Called Life]]* (Jordan Catalano)
-* *[[Shows/One More Night]]*
-* *[[Shows/Pocketful of Posies]]*
-* *[[Shows/The Sandbox]]* (creator)
+* *[[Shows/One More Night|One More Night]]*
+* *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
+* *[[Shows/The Sandbox|The Sandbox]]* (creator)
 
 [[Category/Performers|Traughber]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Tim Honker.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Tim Honker]] performing with [[Troupes/Nice Astronaut]] in the 12/27/12 [[Shows/Threefer]] at [[The Hideout Theatre]].
+[[Performers/Tim Honker|Tim Honker]] performing with [[Troupes/Nice Astronaut|Nice Astronaut]] in the 12/27/12 [[Shows/Threefer|Threefer]] at [[The Hideout Theatre]].
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/photo.php?fbid=4011992860959&set=a.4011964980262.140422.1315383518&type=3&theater).
 

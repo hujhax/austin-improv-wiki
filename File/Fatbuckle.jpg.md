@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Fatbuckle.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Fatbuckle]].
+Publicity image for [[Troupes/Fatbuckle|Fatbuckle]].
 
 Photo by: unknown.
 

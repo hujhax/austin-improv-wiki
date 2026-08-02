@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Paul Mahaffey">Paul Mahaffey</a></li><!--
   --><li style=""><a class="internal-link" href="Ross Puryear">Ross Puryear</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Mathews">Katie Mathews</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Performers/Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><!--
   --><!--
   --><!--

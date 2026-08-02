@@ -24,27 +24,27 @@
 **David Lampe** is an Austin improviser.
 
 ## Troupes
-* [[Troupes/The Heroes of Comedy]] 
-* [[Troupes/Your Dad's Friends]]
-* [[Troupes/¡ZARZAMORA!]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] 
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
+* [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 * [[The Oxymorons]]
 * [[The Stucco Iguanas]]
-* [[Troupes/Monks' Night Out]]
+* [[Troupes/Monks' Night Out|Monks' Night Out]]
 * [[Comedy Workshop Tour Company]]
 * [[Kevlar -  We Are Bulletproof]]
 
 ## Shows
-* *[[Shows/Cops & Lawyers]]*
-* *[[Shows/GrimmNoir]]* (cast/assistant director)
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Manson -  The Musical]]* (Beatle/Monkee/Beach Boy, Judge)
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Sci-Fi Saturdays]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/The Suitcase]]*
-* *[[Shows/Thinning The Herd]]*
-* *[[Shows/Twilight Zoned]]*
-* *[[Shows/The Violet Underbelly]]*
+* *[[Shows/Cops & Lawyers|Cops & Lawyers]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]* (cast/assistant director)
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (Beatle/Monkee/Beach Boy, Judge)
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/The Suitcase|The Suitcase]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 * ''[[Boy Howdy!]]'
 * ''[[Next Week on Game of Thrones]]'
 

@@ -76,7 +76,7 @@
 In 2012, Stephanie moved to New York City.
 
 ## Troupes
-* [[Troupes/Journey To The Big Water]]
+* [[Troupes/Journey To The Big Water|Journey To The Big Water]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Buffy]]* (Buffy Summers)

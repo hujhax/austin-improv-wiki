@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Performers/Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
   --><li style=""><a class="internal-link" href="Kim Lowery">Kim Lowery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Performers/Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
   --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Shirley">Matt Shirley</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Wuthrich">Nick Wuthrich</a></li><!--

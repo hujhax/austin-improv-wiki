@@ -14,17 +14,17 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Ellana Kelter">Ellana Kelter</a></li><!--
   --><li style=""><a class="internal-link" href="Espie Randolph">Espie Randolph</a></li><!--
   --><li style=""><a class="internal-link" href="Lauren Forman">Lauren Forman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Saved by the Bell*** refers to the [[Shows/Live TV Tuesdays]] presentation of the [[Wikipedia - Saved by the Bell|*Saved by the Bell*]] epiodes ["Jessie's Song"](http://www.imdb.com/title/tt0794963) and ["The Zack Tapes"](http://www.imdb.com/title/tt0695237).
+***Live TV Tuesdays: Saved by the Bell*** refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of the [[Wikipedia - Saved by the Bell|*Saved by the Bell*]] epiodes ["Jessie's Song"](http://www.imdb.com/title/tt0794963) and ["The Zack Tapes"](http://www.imdb.com/title/tt0695237).
 
 ## Summary
 This was the first production in what became the "Teen Angst Tuesdays" and subsequently the "Live TV Tuesdays" series.  At the time, this show was known only as "Staged by the Bell".
@@ -98,11 +98,11 @@ They concluded their run with a Sunday-night show featuring both episodes back-t
 All of these performances were at The United States Art Authority at [[The Spider House]].
 
 ## Cast
-* Zack Morris -- [[Performers/Patrick Daniel]]
+* Zack Morris -- [[Performers/Patrick Daniel|Patrick Daniel]]
 * Kelly Kapowski -- [[Lauren Forman]]
-* A. C. Slater -- [[Performers/Bryan Cruz]]
+* A. C. Slater -- [[Performers/Bryan Cruz|Bryan Cruz]]
 * Jessie Spano -- [[Ellana Kelter]]
-* Samuel 'Screech' Powers -- [[Performers/Bryan Roberts]]
+* Samuel 'Screech' Powers -- [[Performers/Bryan Roberts|Bryan Roberts]]
 * Lisa Turtle -- [[Espie Randolph]]
 * Principal Belding -- [[Terrill Fischer]]
  
@@ -114,7 +114,7 @@ All of these performances were at The United States Art Authority at [[The Spide
 
 ### Photos
 * [Publicity photos.](http://www.facebook.com/media/set/?set=a.115384631261.109524.685811261&type=3)
-* [Performance and casual photos](http://www.facebook.com/MadelineChauvin/media_set?set=a.952975911550.2727692.7944448&type=3) by [[Performers/Jo Chauvin]].
+* [Performance and casual photos](http://www.facebook.com/MadelineChauvin/media_set?set=a.952975911550.2727692.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]].
 
 ## Other Information
 * [Forum announcement of the August run.](http://forum.austinimprov.com/viewtopic.php?f=2&t=9512)

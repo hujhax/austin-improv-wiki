@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Performers/Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
   --><!--
   --><!--
   --><!--

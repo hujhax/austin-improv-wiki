@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Arthur Simone Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Headshot of [[Performers/Arthur Simone]].
+Headshot of [[Performers/Arthur Simone|Arthur Simone]].
 
 Photo by: unknown.
 ## Licensing

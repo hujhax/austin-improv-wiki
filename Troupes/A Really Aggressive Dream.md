@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Erika Bundy">Erika Bundy</a></li><!--
   --><li style=""><a class="internal-link" href="Jaci Kramer">Jaci Kramer</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Davis">Matt Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Performers/Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Richard Gentry">Richard Gentry</a></li><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/21/14 show at *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/21/14 show at *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Really Aggressive Dream]]
 [[Category/Auto-Generated Troupe Pages|Really Aggressive Dream]]

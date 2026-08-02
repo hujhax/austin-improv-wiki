@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Honeypot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/The Honeypot]] performing in the 3/5/12 *[[Shows/Monday Night Mash]]*.
+[[Troupes/The Honeypot|The Honeypot]] performing in the 3/5/12 *[[Shows/Monday Night Mash|Monday Night Mash]]*.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3).
 ## Licensing

@@ -22,14 +22,14 @@
   --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
   --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
   --><li style=""><a class="internal-link" href="Carla Goodman">Carla Goodman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Performers/Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
   --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Performers/Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Madeline Chauvin">Performers/Madeline Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Madeline Chauvin">Madeline Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Pedicano">Michael Pedicano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Performers/Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
   --><!--
   --><!--
@@ -88,7 +88,7 @@ The show ran Fridays and Saturdays in February 2012.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10101701326998930.3362663.7944448&type=3) by [[Performers/Madeline Jo Chauvin]] of the 2/23/12 rehearsal.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10101701326998930.3362663.7944448&type=3) by [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] of the 2/23/12 rehearsal.
 
 ## More Information
 * [Audition announcement](http://forum.austinimprov.com/viewtopic.php?p=114824) on [[The Austin Improv Forums]].

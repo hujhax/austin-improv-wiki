@@ -3,4 +3,4 @@ Hey [[User/Dax|Dax]], two notes for uploading photos: <br/>
 2. Pick something in the "licensing" dropdown.  Almost all the time, the first option should be appropriate.  If you don't know whose picture it is, then just say you don't know the license, and we can sort that out later.
 
 Hope this isn't too nitpicky -- thanks for adding so much content!  I know nothing of what's going on in ColdTowne land...
- -- [[Performers/Peter Rogers]]
+ -- [[Performers/Peter Rogers|Peter Rogers]]

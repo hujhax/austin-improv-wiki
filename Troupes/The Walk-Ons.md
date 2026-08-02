@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Laura Khalil">Laura Khalil</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Performers/Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Crocker">Scott Crocker</a></li><!--
   --><li style=""><a class="internal-link" href="Thomas Kelleher">Thomas Kelleher</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Walk-Ons** was a [[Gnap!]] house troupe, assembled and coached by [[Performers/Jason Vines]]. They played four performances in January of 2011.
+**The Walk-Ons** was a [[Gnap!]] house troupe, assembled and coached by [[Performers/Jason Vines|Jason Vines]]. They played four performances in January of 2011.
 
 
 [[Category/Troupes|Walk-Ons]]

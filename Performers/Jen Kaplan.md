@@ -27,16 +27,16 @@ Jen started taking improv classes at Merlin Works in 2007. She has been enjoying
 
 ## Troupes
 * [[Hugaday]]
-* [[Troupes/Bless This Mess]]
-* [[Troupes/Wait OK Now]]
+* [[Troupes/Bless This Mess|Bless This Mess]]
+* [[Troupes/Wait OK Now|Wait OK Now]]
 
 ## Shows
 * *[[The Good Life]]*
-* *[[Shows/Hurly Burly]]*
-* *[[Shows/I Love You So Much]]*
-* *[[Shows/Lola]]* (tech)
-* *[[Shows/The Suitcase]]*
-* *[[Shows/Totally Improvised, 90210]]*
-* *[[Shows/Trust No One]]*
+* *[[Shows/Hurly Burly|Hurly Burly]]*
+* *[[Shows/I Love You So Much|I Love You So Much]]*
+* *[[Shows/Lola|Lola]]* (tech)
+* *[[Shows/The Suitcase|The Suitcase]]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Shows/Trust No One|Trust No One]]*
 
 [[Category/Performers|Kaplan]]

@@ -22,20 +22,20 @@
 **Gloria Rabil Bankler** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
-Gloria is a founding member of both [[Troupes/Furiously Missing]] and [[Troupes/In Our Prime]].
+Gloria is a founding member of both [[Troupes/Furiously Missing|Furiously Missing]] and [[Troupes/In Our Prime|In Our Prime]].
 
-She has also produced segments based on the concept of fear, called *What Are You Afraid Of?* for [[Shows/The Free Fringe]] at [[The Hideout Theatre]].
+She has also produced segments based on the concept of fear, called *What Are You Afraid Of?* for [[Shows/The Free Fringe|The Free Fringe]] at [[The Hideout Theatre]].
 
 Gloria studied theater in college at the University of North Carolina at Greensboro. 
 In the summer of 2010 her sister-in-law, Faye Bankler Casell, talked her into taking classes at the Hideout Theatre after watching Gloria’s son, Quinn Rabil Bankler, perform in a student showcase.  
-Gloria started classes at the Hideout shortly after in a level one class with [[Performers/Valerie Ward]]. She took classes through level four with [[Performers/Andy Crouch]], the Hideout Education Director. 
-Gloria has performed at The Oklahoma Improv Festival, The Improvised Play Festival, Wafflefest, Out of Bounds and Improvaganza Hawaii with [[Troupes/In Our Prime]].  She has also performed at The [NYC Improv Festival](http://nycimprovfest.com/), [[The Improvised Play Festival]], [[Wafflefest]] and [[Out of Bounds]] with [[Troupes/Furiously Missing]].
+Gloria started classes at the Hideout shortly after in a level one class with [[Performers/Valerie Ward|Valerie Ward]]. She took classes through level four with [[Performers/Andy Crouch|Andy Crouch]], the Hideout Education Director. 
+Gloria has performed at The Oklahoma Improv Festival, The Improvised Play Festival, Wafflefest, Out of Bounds and Improvaganza Hawaii with [[Troupes/In Our Prime|In Our Prime]].  She has also performed at The [NYC Improv Festival](http://nycimprovfest.com/), [[The Improvised Play Festival]], [[Wafflefest]] and [[Out of Bounds]] with [[Troupes/Furiously Missing|Furiously Missing]].
 
 Gloria is also a wife, mother of two (boys), scripted actor, writer, director and filmmaker.
 
 ## Troupes
-* [[Troupes/In Our Prime]]
-* [[Troupes/Furiously Missing]]
+* [[Troupes/In Our Prime|In Our Prime]]
+* [[Troupes/Furiously Missing|Furiously Missing]]
 
 ## Shows
 ## Film

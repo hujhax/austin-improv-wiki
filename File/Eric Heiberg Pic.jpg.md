@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Eric Heiberg Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Eric Heiberg]], in the 1/19/13 (*Batman*) performance of *[[Shows/Fandom]]*.
+[[Performers/Eric Heiberg|Eric Heiberg]], in the 1/19/13 (*Batman*) performance of *[[Shows/Fandom|Fandom]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.477942988935889.114948.221927764537414&type=3).
 ## Licensing

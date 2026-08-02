@@ -42,17 +42,17 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 ## Classes
 ### The Hideout Theatre
 #### Student
-* Level 1 (11/2015) - [[Performers/Andy Crouch]]
+* Level 1 (11/2015) - [[Performers/Andy Crouch|Andy Crouch]]
 * Level 2 (1/2016) - Andy Crouch
-* Level 3 (3/2016) - [[Performers/Ryan Austin]]
+* Level 3 (3/2016) - [[Performers/Ryan Austin|Ryan Austin]]
 * Level 4 (5/2016) - Ryan Austin
 * Level 5 (7/2016) - Ryan Austin
-* Level 5 (6/2016) - [[Performers/Sarah Marie Curry]]
+* Level 5 (6/2016) - [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * Level 6 (9/2016) - Andy Crouch
 * Level 6 (8/2016) - Sarah Marie Curry
 
 #### Teaching Assistant
-* Levels 1-6 (7/2016 - 5/2017) - [[Performers/Courtney Hopkin]]
+* Levels 1-6 (7/2016 - 5/2017) - [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * Level 5 (5/2017) - Sarah Marie Curry
 
 ### Merlin Works
@@ -60,36 +60,36 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 
 ## Troupes
 ### Inactive Troupes
-[[Troupes/Twine]] - 12/2016 - 8/2017
+[[Troupes/Twine|Twine]] - 12/2016 - 8/2017
 
 ## One-off Shows
 ### The Hideout Theatre
-* [[Shows/Maestro]] - (10/1/2016, 11/5/2016, 2/11/2017, 10/14/2017)
-* [[Shows/Maestro Raw]] - (5/7/2016*, 7/16/2016, 9/10/2016)
-* [[Shows/Fancy Pants]] - (7/1/2016, 9/9/2016, 10/7/2016)
+* [[Shows/Maestro|Maestro]] - (10/1/2016, 11/5/2016, 2/11/2017, 10/14/2017)
+* [[Shows/Maestro Raw|Maestro Raw]] - (5/7/2016*, 7/16/2016, 9/10/2016)
+* [[Shows/Fancy Pants|Fancy Pants]] - (7/1/2016, 9/9/2016, 10/7/2016)
 * [[Student Appreciation Show]] - (5/28/2016, 9/24/2016)
-* [[Shows/Free Fringe]] - (11/10/2016, 1/19/2017, 10/12/2017)
+* [[Shows/Free Fringe|Free Fringe]] - (11/10/2016, 1/19/2017, 10/12/2017)
 
 ### ColdTowne Theater
 * [[Improv Fantasy League]] - (8/17/2016, 8/24/2016)
 
 ### The Institution Theater
-* [[Shows/Tarantula]] - (10/29/2016)
+* [[Shows/Tarantula|Tarantula]] - (10/29/2016)
 
 ### 616 Lavaca
 * [[Penalty Box]] - (12/8/2017)
 
 ## Extended Run Shows
 ### The Hideout Theatre
-* [[Shows/Story to the Death]] - (Actor, 8/2016)
-* [[Shows/Adventure PhD]] - (Stage Manager, 10/2016)
+* [[Shows/Story to the Death|Story to the Death]] - (Actor, 8/2016)
+* [[Shows/Adventure PhD|Adventure PhD]] - (Stage Manager, 10/2016)
 * [[Nozes Off]] - (Stage Manager, 1/2017)
-* [[Shows/Death By Musical]] - (Actor, 9/2017)
-* [[Shows/Dance Dreams]] - (Actor, 11/2017)
+* [[Shows/Death By Musical|Death By Musical]] - (Actor, 9/2017)
+* [[Shows/Dance Dreams|Dance Dreams]] - (Actor, 11/2017)
 * [[Orphans, the Musical]] - (Actor, 1/2018)
 
 ### The Institution Theater
-* [[Shows/Immigrants, The Musical! (Part One)]] - (Actor, 6/2017)
+* [[Shows/Immigrants, The Musical! (Part One)|Immigrants, The Musical! (Part One)]] - (Actor, 6/2017)
 
 ## Workshops
 * Trance Mask Workshop (6/2016)

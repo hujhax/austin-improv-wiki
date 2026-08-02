@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Performers/Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style=""><a class="internal-link" href="Alex Nixon">Alex Nixon</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Performers/Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><!--
   --><!--
   --><!--

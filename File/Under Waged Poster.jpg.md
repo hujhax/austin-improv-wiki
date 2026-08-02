@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Under Waged Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for the [[Troupes/Kosher Bacon]] show *Under Waged*.
+Poster for the [[Troupes/Kosher Bacon|Kosher Bacon]] show *Under Waged*.
 
 Photos by: unknown.
 
-Art by [[Performers/Ruby Willmann]].
+Art by [[Performers/Ruby Willmann|Ruby Willmann]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

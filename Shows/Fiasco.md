@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
@@ -27,18 +27,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Performers/Chuy Zarate</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Performers/Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">Performers/J. R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Performers/Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Monica Martinez Maher">Performers/Monica Martinez Maher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Monica Martinez Maher">Monica Martinez Maher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,13 +82,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a> (Scoring Lead/Sound Swing)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Performers/Jay Mahavier</a> (Sound Effects Lead)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Performers/Joy Parks</a> (Stage Manager)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Performers/Kelly Campbell</a> (Scoring Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (Scoring Lead/Sound Swing)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a> (Sound Effects Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a> (Stage Manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a> (Scoring Tech)</li><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (Light & Multimedia Lead)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Performers/Nichole Bennett</a> (Lighting Tech)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Performers/Thedward Blevins</a> (Multimedia Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a> (Lighting Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a> (Multimedia Tech)</li><!--
   --><!--
   --><!--
   --><!--
@@ -165,9 +165,9 @@ From the show announcement:<blockquote>A crime caper goes disastrously wrong in 
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10154176921787265.1073741875.588952264&type=3) by [[Performers/Peter Rogers]] of the 5/4/16 preview show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10154176921787265.1073741875.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/4/16 preview show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1188746147855566.1073742345.221927764537414&type=3) by [[Steve Rogers]] of the 5/7/16 premiere.
-* [Photoset](http://www.facebook.com/monkeyangst/media_set?set=a.10154219046236202.1073741845.579776201&type=3) by [[Performers/Brad Hawkins]] of the 5/21/16 performance.
+* [Photoset](http://www.facebook.com/monkeyangst/media_set?set=a.10154219046236202.1073741845.579776201&type=3) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/21/16 performance.
 
 ### Videos
 * [Video of the 5/7/16 premiere.](http://vimeo.com/165776101)

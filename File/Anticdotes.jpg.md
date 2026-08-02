@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Anticdotes.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Anticdotes]].
+Publicity image for [[Troupes/Anticdotes|Anticdotes]].
 
 Photo by: unknown.
 ## Licensing

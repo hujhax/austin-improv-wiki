@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Performers/Bob Apthorpe</a> (<a class="internal-link" href="Troupes/Improv For Evil">Troupes/Improv For Evil</a> runs)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a> (all runs)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a> (<a class="internal-link" href="Troupes/Improv For Evil">Improv For Evil</a> runs)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (all runs)</li><!--
   --><!--
   --><!--
   --><!--
@@ -69,23 +69,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Performers/Paul Normandin]] (student mainstage run)</td>
+			<td class="category">[[Performers/Paul Normandin|Paul Normandin]] (student mainstage run)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Performers/Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Ericka Bundy">Ericka Bundy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Performers/Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style="" ><a class="internal-link" href="Joshua Santo">Joshua Santo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Performers/Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
   --><li style=""><a class="internal-link" href="Matthew Davis">Matthew Davis</a></li><!--
   --><!--
   --><!--
@@ -188,7 +188,7 @@
 	</table>
 </div>
 
-***Cochise*** was a mainstage show at [[The Hideout Theatre]] based on late-70s cop shows.  It was originally produced and performed by [[Troupes/Improv For Evil]].
+***Cochise*** was a mainstage show at [[The Hideout Theatre]] based on late-70s cop shows.  It was originally produced and performed by [[Troupes/Improv For Evil|Improv For Evil]].
 
 ## Summary
 In each episode, two characters were pre-determined: "Cochise", a renegade cop, and his beleaguered police sergeant.  Everyone else played whatever characters were needed on the day.  Each performance introduced a villain committing some sort of crime, and showed Cochise gradually closing in on and defeating the villain.
@@ -203,23 +203,23 @@ The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran a
 It returned in 2014 for a June/July run as one of the first [[Hideout Student Mainstage]] shows.
 
 ### Casts
-#### [[Troupes/Improv For Evil]] Runs
-* [[Performers/Bob Apthorpe]]
-* [[Performers/Eric Heiberg]]
-* [[Performers/Jason Vines]]
-* [[Performers/Marc Majcher]]
-* [[Performers/Matt Pollock]]
-* [[Performers/Mike Kinald]]
+#### [[Troupes/Improv For Evil|Improv For Evil]] Runs
+* [[Performers/Bob Apthorpe|Bob Apthorpe]]
+* [[Performers/Eric Heiberg|Eric Heiberg]]
+* [[Performers/Jason Vines|Jason Vines]]
+* [[Performers/Marc Majcher|Marc Majcher]]
+* [[Performers/Matt Pollock|Matt Pollock]]
+* [[Performers/Mike Kinald|Mike Kinald]]
 
 #### Student Mainstage Run
 ![[Cochise2014.jpg|Poster for the student-mainstage run of *Cochise*.]]
 * [[Barrett Phelan]]
 * [[Emma Czarnecki]]
 * [[Ericka Bundy]]
-* [[Performers/Greg Blank]]
+* [[Performers/Greg Blank|Greg Blank]]
 * [[Haley Alea Erickson]]
 * [[Joshua Santo]]
-* [[Performers/Manuel Duran]]
+* [[Performers/Manuel Duran|Manuel Duran]]
 * [[Matthew Davis]]
 
 ### Frontera Fest Show Dates
@@ -245,7 +245,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [Video of the 1/31/09 performance: "Tag You're It".](http://youtu.be/tR3RSQkm1yM)
 
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download) of [[Performers/Kaci Beeler]]'s 2008 set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s 2008 set design.
 
 ## More Information
 * [The announcement of the dates](http://forum.austinimprov.com/viewtopic.php?p=72523) for [[Frontera Fest]] on [[The Austin Improv Forums]].

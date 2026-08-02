@@ -1,9 +1,9 @@
 **Current page count: {{NUMBEROFARTICLES}}.**
 
 ## Tasks
-* Upload [[Performers/Sara Farr]]'s AIC logo designs.
+* Upload [[Performers/Sara Farr|Sara Farr]]'s AIC logo designs.
 	* Also, re-save the Illustrator files as JPGs, and upload those.
-* Add bit about crediting photos to the [[Performers/AIC Wiki Style Guide]].
+* Add bit about crediting photos to the [[Performers/AIC Wiki Style Guide|AIC Wiki Style Guide]].
 * Infoboxes.
 	* Include more thorough information about each field.
 	* Make infobox field names link to the documentation about the field.

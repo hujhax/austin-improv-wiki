@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Aaron Saenz.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Picture of [[Performers/Aaron Saenz]].
+Picture of [[Performers/Aaron Saenz|Aaron Saenz]].
 
 Photo by: unknown.
 ## Licensing

@@ -70,10 +70,10 @@
 	</table>
 </div>
 
-**Mixed Company** was a one-off *[[Shows/Cagematch]]* team.
+**Mixed Company** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
-[[Joseph Dailey]] is also a member of [[Troupes/Nice Astronaut]].
+[[Joseph Dailey]] is also a member of [[Troupes/Nice Astronaut|Nice Astronaut]].
 
 [[Justin Soileau]] and Robert Moncreiff were in [[Lasagna]].
 

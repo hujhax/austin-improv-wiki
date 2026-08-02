@@ -23,22 +23,22 @@
 
 He teaches improv for kids at the Hideout Theatre on Saturday mornings during the school year and teaches Improv Summer Camps with Move Your Tale at Coldtowne Theater.
 
-He is a regular cast member of *[[Shows/Flying Theater Machine]]*.
+He is a regular cast member of *[[Shows/Flying Theater Machine|Flying Theater Machine]]*.
 
 ## Troupes
-* [[Troupes/Wait OK Now]]
-* [[Troupes/What's the Story, Steve]]
+* [[Troupes/Wait OK Now|Wait OK Now]]
+* [[Troupes/What's the Story, Steve|What's the Story, Steve]]
 
 ## Shows
-* *[[Shows/Danger!]]*
-* *[[Shows/Flying Theater Machine]]*
+* *[[Shows/Danger!|Danger!]]*
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
 * *[[The Good Life]]*
-* *[[Shows/GrimmNoir]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Key Party]]*
-* *[[Shows/The Next Chapter]]*
+* *[[Shows/The Next Chapter|The Next Chapter]]*
 * *[[Only Three Will Survive]]*
-* *[[Troupes/Taxi Cab Impressions]]*
-* *[[Troupes/Scrabbled]]*
+* *[[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]]*
+* *[[Troupes/Scrabbled|Scrabbled]]*
 
 [[Category/Performers|Wallens]]
 [[Category/Active|Category:Active]]

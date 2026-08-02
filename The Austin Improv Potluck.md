@@ -20,10 +20,10 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 ### Potluck Locations
 * 2005: [[The Hideout Theatre]], upstairs
 * 2006: [[Jen Cargill]] and [[Erin Plischke]]'s house.
-* 2007: [[Performers/Shannon McCormick]]'s house.
-* 2008: [[Performers/Julie Gillis]]'s house.
+* 2007: [[Performers/Shannon McCormick|Shannon McCormick]]'s house.
+* 2008: [[Performers/Julie Gillis|Julie Gillis]]'s house.
 * 2009: [[Café Caffeine]]
-* 2010: [[Performers/Julie Gillis]]'s house.
+* 2010: [[Performers/Julie Gillis|Julie Gillis]]'s house.
 * 2011: [[The Institution Theater]]
 * 2012: The Elks Lodge
 * 2013-2015: The Moose Lodge
@@ -33,8 +33,8 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 * [Brainstorming notes about the local improv scene](http://www.flickr.com/photos/austinimprov/sets/72157637709625706/) from the 2005 potluck.
 * [A photoset of the annual group photos from 2006 to the present.](http://www.facebook.com/hujhax/media_set?set=a.10152063720712265.1073741841.588952264&type=1)
 * [A photoset of the 2007 potluck](http://www.flickr.com/photos/austinimprov/sets/72157603231421564/). 
-* [A photoset](http://www.facebook.com/Jonbolden/media_set?set=a.511218956713.2022096.76200304&type=3) by [[Performers/Jon Bolden]] of the 2008 potluck.
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150324901280324.562392.503270323&type=3) by [[Performers/Kevin Miller]] of the 2010 potluck.
+* [A photoset](http://www.facebook.com/Jonbolden/media_set?set=a.511218956713.2022096.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] of the 2008 potluck.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150324901280324.562392.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of the 2010 potluck.
 * [Photoset](http://www.facebook.com/media/set/?set=a.223961494339204.53042.118587218209966&type=3) by [[Roy Moore]] of the 2011 potluck.
 * [The 2011 and 2012 group photos](http://www.steve-rogers-photography.com/Events/AIC2011/20191237_kpnsVB#!i=2223901020&k=HBbLV3r), as shot by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.637078753022311.1073741947.221927764537414&type=3) by [[Steve Rogers]] from the photobooth at the 2013 potluck.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Lola Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/Lola]]*.
+Publicity poster for *[[Shows/Lola|Lola]]*.
 
 Photo by: unknown.
 

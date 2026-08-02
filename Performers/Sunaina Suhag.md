@@ -22,12 +22,12 @@
 **Sunaina Suhag** is an improv performer.
 
 ## Troupes
-* [[Troupes/The Second Show]]
-* [[Troupes/SSHH!]]
-* [[Troupes/Teen Energy]]
+* [[Troupes/The Second Show|The Second Show]]
+* [[Troupes/SSHH!|SSHH!]]
+* [[Troupes/Teen Energy|Teen Energy]]
 
 ## Shows
-* *[[Shows/The Aftermath]]*
-* *[[Shows/Happily Ever After]]*
+* *[[Shows/The Aftermath|The Aftermath]]*
+* *[[Shows/Happily Ever After|Happily Ever After]]*
 
 [[Category/Performers|Suhag]]

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -23,20 +23,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
   --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
   --><li style=""><a class="internal-link" href="Jaukeem Jaydoire Balcom">Jaukeem Jaydoire Balcom</a></li><!--
   --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Performers/Tosin awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Performers/Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,7 +85,7 @@
 ***A Big Gay Musical*** was a Hideout mainstage musical featuring the lives and stories of queer people.
 
 ## Crew List
-* Lights - [[Performers/Cindy Page]], [[Brandi Davis]], [[Paul Ramöne Weiner]] 
+* Lights - [[Performers/Cindy Page|Cindy Page]], [[Brandi Davis]], [[Paul Ramöne Weiner]] 
 * Hair, Makeup, Costumes - [[Elizaveta Dovgish]]
 * Technical Director - [[Lindsey McGowen]]
 * Stage Manager - [[Mia Cisco]]

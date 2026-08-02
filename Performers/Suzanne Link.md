@@ -22,16 +22,16 @@
 **Suzanne Link** is an improv performer.
 
 ## Troupes
-* [[Troupes/Golden]]
-* [[Troupes/Boomerang]]
-* [[Shows/Flying Theater Machine]]
+* [[Troupes/Golden|Golden]]
+* [[Troupes/Boomerang|Boomerang]]
+* [[Shows/Flying Theater Machine|Flying Theater Machine]]
 
 ## Shows
 * *[[Shows/Golden (mainstage)|Golden]]*
-* *[[Shows/Close Up]]*
-* *[[Shows/Savage Swords]]*
-* *[[Shows/The Secret Life of Inanimate Objects]]*  (Assistant Director)
-* *[[Shows/Peter Pan and the Great Unknown]]*
+* *[[Shows/Close Up|Close Up]]*
+* *[[Shows/Savage Swords|Savage Swords]]*
+* *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*  (Assistant Director)
+* *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]*
 * *[[Nozes Off]]*
 * *[[Buddy Cop -  Metro City Nights]]* (Assistant Director)
 

@@ -22,14 +22,14 @@
 **Danielle Saar** is an improv performer in Austin, TX.
 
 ## History
-Danielle Saar performs regularly in *[[Shows/Maestro Raw]]* and *[[Shows/Maestro]]* (Austin’s longest-running improv show!). She can be seen in the upcoming Hideout student mainstage *[[Shows/Adventure PhD]]* in October. Previously, Danielle re-lived high school hell in the Hideout student mainstage *[[Shows/Teenage Wasteland]]*. Danielle started taking classes at the Hideout in Spring 2014; while she was still living in San Antonio! She'd make the trek up to Austin every Saturday for class. It was in her level one class where she met her future troupe-mate [[Beth Condra]]. Oh, yeah, Danielle is in a troupe! (but we'll get to that in a second.) She and Beth completed every class level at the Hideout together. Danielle graduated [[Performers/Roy Janik|Roy]]'s level 7 class in June 2015. Her classmates formed the troupe [[Troupes/Boomerang]]. They've performed in [[Wafflefest]], *[[Shows/The Threefer]]*, and even in San Antonio! Danielle thanks the AIC for making her feel at home.
+Danielle Saar performs regularly in *[[Shows/Maestro Raw|Maestro Raw]]* and *[[Shows/Maestro|Maestro]]* (Austin’s longest-running improv show!). She can be seen in the upcoming Hideout student mainstage *[[Shows/Adventure PhD|Adventure PhD]]* in October. Previously, Danielle re-lived high school hell in the Hideout student mainstage *[[Shows/Teenage Wasteland|Teenage Wasteland]]*. Danielle started taking classes at the Hideout in Spring 2014; while she was still living in San Antonio! She'd make the trek up to Austin every Saturday for class. It was in her level one class where she met her future troupe-mate [[Beth Condra]]. Oh, yeah, Danielle is in a troupe! (but we'll get to that in a second.) She and Beth completed every class level at the Hideout together. Danielle graduated [[Performers/Roy Janik|Roy]]'s level 7 class in June 2015. Her classmates formed the troupe [[Troupes/Boomerang|Boomerang]]. They've performed in [[Wafflefest]], *[[Shows/The Threefer|The Threefer]]*, and even in San Antonio! Danielle thanks the AIC for making her feel at home.
 
 ## Troupes
-* [[Troupes/Boomerang]]
-* [[Troupes/Golden]] (tech)
+* [[Troupes/Boomerang|Boomerang]]
+* [[Troupes/Golden|Golden]] (tech)
 
 ## Shows
-* *[[Shows/Adventure PhD]]*
-* *[[Shows/Teenage Wasteland]]*
+* *[[Shows/Adventure PhD|Adventure PhD]]*
+* *[[Shows/Teenage Wasteland|Teenage Wasteland]]*
 
 [[Category/Performers|Saar]]

@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
   --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Performers/Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Eric Rutherford">Eric Rutherford</a></li><!--
   --><li style=""><a class="internal-link" href="Jack Leahy">Jack Leahy</a></li><!--
   --><li style=""><a class="internal-link" href="Max Lipschitz">Max Lipschitz</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Texas Jim Crago** was a one-off *[[Shows/Cagematch]]* team.
+**Texas Jim Crago** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one exhibition Cagematch on 11/28/12.

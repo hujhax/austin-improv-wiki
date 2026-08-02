@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Performers/Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Now It Can Be Told!** was a one-off *[[Shows/Cagematch]]* team.
+**Now It Can Be Told!** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/7/14.

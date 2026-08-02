@@ -17,11 +17,11 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Audrey Alberthal">Audrey Alberthal</a></li><!--
   --><li style=""><a class="internal-link" href="Charlie Hoehn">Charlie Hoehn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Performers/Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Heather Hasselle</a></li><!--
   --><li style=""><a class="internal-link" href="John McConnel">John McConnel</a></li><!--
   --><li style=""><a class="internal-link" href="Lauren Chavarria">Lauren Chavarria</a></li><!--
   --><li style=""><a class="internal-link" href="Shamik Basu">Shamik Basu</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Performers/Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><li style=""><a class="internal-link" href="Tania Quintanilla">Tania Quintanilla</a></li><!--
   --><!--
   --><!--

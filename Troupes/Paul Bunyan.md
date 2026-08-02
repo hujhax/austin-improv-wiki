@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caitlin Sweetlamb">Performers/Caitlin Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Cargill">Jennifer Cargill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Performers/Mo Daviau</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Mo Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -76,7 +76,7 @@
 The ad-hoc troupe was thrown together the night of their only show.
 
 ## History
-They played one match against [[Troupes/You, Me, and Greg]] on 2/24/06.  They lost.
+They played one match against [[Troupes/You, Me, and Greg|You, Me, and Greg]] on 2/24/06.  They lost.
 
 ## More Information
 * [Team troupe list](http://forum.austinimprov.com/viewtopic.php?t=461) on [[The Austin Improv Forums]].

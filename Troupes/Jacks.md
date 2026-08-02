@@ -17,8 +17,8 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
   --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Performers/Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Jacks** is a *[[Shows/Cagematch]]* team.
+**Jacks** is a *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played in the 7/23/14 *Cagematch*.

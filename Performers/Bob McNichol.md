@@ -25,12 +25,12 @@
 Bob McNichol started doing improv in Chicago in 2000, and then moved to Austin in June 2005.
 
 ## Troupes
-* [[Troupes/The Frank Mills]]
-* [[Troupes/McNichol & May]]
-* [[Troupes/Tight]]
+* [[Troupes/The Frank Mills|The Frank Mills]]
+* [[Troupes/McNichol & May|McNichol & May]]
+* [[Troupes/Tight|Tight]]
 
 ## Shows
-* *[[Shows/Braised in Texas]]*
+* *[[Shows/Braised in Texas|Braised in Texas]]*
 
 ## Feud with Ja Rule
 Bob has not publicly commented on his feud with Ja Rule.

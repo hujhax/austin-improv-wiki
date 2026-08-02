@@ -22,20 +22,20 @@
 **Bridget Brewer** is an improv performer.
 
 ## Troupes
-* [[Troupes/BeauMoMa]]
-* [[Troupes/The Delightfuls]]
+* [[Troupes/BeauMoMa|BeauMoMa]]
+* [[Troupes/The Delightfuls|The Delightfuls]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (sound tech)
-* *[[Shows/Fandom]]*
-* *[[Shows/Flying Theater Machine]]*
-* *[[Shows/I Love You So Much]]*
+* *[[Shows/Fandom|Fandom]]*
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
+* *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Seance]]*
 * *[[The Tribunal]]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 
 ## More Information
-* [[List of Free Fringes#August 21.2C 2014 .28the 118th show.29|Info about her going-away show]] in *[[Shows/The Free Fringe]]* on 8/21/14.
+* [[List of Free Fringes#August 21.2C 2014 .28the 118th show.29|Info about her going-away show]] in *[[Shows/The Free Fringe|The Free Fringe]]* on 8/21/14.
 
 [[Category/Performers|Brewer]]

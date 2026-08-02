@@ -36,17 +36,17 @@ Making her home in Austin since 2005, she has studied improv comedy at Merlin-Wo
 She like miniature golf, odd people, and stinky cheese.
 
 ## Troupes
-* [[Troupes/DA Foundry]]
-* [[Troupes/The Dancy Street D'Orchestra]]
-* [[Troupes/My Friend Stripey]]
-* [[Troupes/Snap Snap Nation]]
-* [[Troupes/Umami]]
-* [[Troupes/The Wine Smugglers]]
+* [[Troupes/DA Foundry|DA Foundry]]
+* [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
+* [[Troupes/My Friend Stripey|My Friend Stripey]]
+* [[Troupes/Snap Snap Nation|Snap Snap Nation]]
+* [[Troupes/Umami|Umami]]
+* [[Troupes/The Wine Smugglers|The Wine Smugglers]]
 
 ## Shows
-* *[[Troupes/BatShyt Crazy]]*
-* *[[Shows/Heist!]]*
-* *[[Shows/Lola]]*
+* *[[Troupes/BatShyt Crazy|BatShyt Crazy]]*
+* *[[Shows/Heist!|Heist!]]*
+* *[[Shows/Lola|Lola]]*
 
 [[Category/Performers|Raulino]]
 [[Category/Directors|Raulino]]

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,17 +74,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Amy Averett">Performers/Amy Averett</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Performers/Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Avimaan Syam</a></li><!--
   --><li style=""><a class="internal-link" href="Howard L Katz">Howard L Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Performers/Madi Goff</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Performers/Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -136,7 +136,7 @@
 ***Heist!*** was an improv show based around heist capers.
 
 ## Summary
-This show ran in [[Shows/The Saturday Night Special]] at [[Salvage Vanguard Theater]] in March 2010.
+This show ran in [[Shows/The Saturday Night Special|The Saturday Night Special]] at [[Salvage Vanguard Theater]] in March 2010.
 
 It was made up of graduates of the 601 class offered by [[The Merlin Works Institute for Improvisation]], who also came up with the format.
 

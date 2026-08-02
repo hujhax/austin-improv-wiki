@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ann Potter">Ann Potter</a></li><!--
   --><li style=""><a class="internal-link" href="Ashley Franks">Ashley Franks</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Performers/Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
   --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
@@ -91,7 +91,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Performers/Peter Rogers]] that includes their 9/19/11 performance in *[[Shows/The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 9/19/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/#!/ScoutImprov)

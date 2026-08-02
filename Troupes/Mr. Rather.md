@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Christopher Orf">Performers/Christopher Orf</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christopher Orf">Christopher Orf</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,10 +73,10 @@
 **Mr. Rather** was an improv duo.
 
 ## Summary
-They described themselves thus:<blockquote>Mr. Rather is [[Performers/Christopher Orf]] and [[Performers/Justin Davis]] teaming up to present the dilemmas of life pitted against the dilemmas of life.</blockquote>
+They described themselves thus:<blockquote>Mr. Rather is [[Performers/Christopher Orf|Christopher Orf]] and [[Performers/Justin Davis|Justin Davis]] teaming up to present the dilemmas of life pitted against the dilemmas of life.</blockquote>
 
 ## History
-The troupe played a Cagematch on 1/10/08, and a number of other shows at [[Coldtowne Theater]] and [[The Hideout Theatre]], occasionally including guests such as [[Performers/Tom Booker]] and [[Performers/Kareem Badr]].
+The troupe played a Cagematch on 1/10/08, and a number of other shows at [[Coldtowne Theater]] and [[The Hideout Theatre]], occasionally including guests such as [[Performers/Tom Booker|Tom Booker]] and [[Performers/Kareem Badr|Kareem Badr]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

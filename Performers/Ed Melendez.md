@@ -24,7 +24,7 @@
 He is a graduate of the ColdTowne Conservatory at [[Coldtowne Theater]].
 
 ## Troupes
-* [[Troupes/Oh, Science!]]
+* [[Troupes/Oh, Science!|Oh, Science!]]
 
 
 [[Category/Performers|Melendez]]

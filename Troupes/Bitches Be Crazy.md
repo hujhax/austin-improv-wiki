@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Performers/Carissa McAtee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Performers/Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Bitches Be Crazy** is an improv-duo offshoot of [[Troupes/IScream Sandwich]].
+**Bitches Be Crazy** is an improv-duo offshoot of [[Troupes/IScream Sandwich|IScream Sandwich]].
 
 ## Summary
 ### Press Blurb

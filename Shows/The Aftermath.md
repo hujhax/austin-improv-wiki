@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -26,10 +26,10 @@
   --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
   --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
   --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Santo">Performers/Josh Santo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/JR Zambrano">Performers/JR Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Santo">Josh Santo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/JR Zambrano">JR Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Lori Hobbie">Lori Hobbie</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Performers/Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Allison Huston">Allison Huston</a> (lights)</li><!--
   --><li style=""><a class="internal-link" href="Robert Heil">Robert Heil</a> (sound effects)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Performers/Sarah Hutchins</a> (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a> (scoring)</li><!--
   --><!--
   --><!--
   --><!--
@@ -144,9 +144,9 @@
 
 The soundtrack was a mix of acoustic guitar and percussion.
 
-[[Performers/Kaci Beeler]] designed the show's set.
+[[Performers/Kaci Beeler|Kaci Beeler]] designed the show's set.
 
-In light of the announcements of *[[Shows/RISEN]]* and *[[Shows/The Organ Trail]]*, director [[Performers/Jordan T. Maxwell]] instituted a soft "no zombies" rule for the run.
+In light of the announcements of *[[Shows/RISEN|RISEN]]* and *[[Shows/The Organ Trail|The Organ Trail]]*, director [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] instituted a soft "no zombies" rule for the run.
 
 ### Publicity Blurbs
 From the show announcement:<blockquote>An improvised post-post-apocalyptic adventure, chronicling the lives of the survivors of a world ending cataclysm. Inspired by works like *[[Wikipedia - World War Z|World War Z]]*, *[[Wikipedia - Y the Last Man|Y the Last Man]]*, *[[Wikipedia - The Hunger Games|The Hunger Games]]*, *[[Wikipedia - Revolution (TV series)|Revolution]]*, and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.</blockquote>
@@ -157,7 +157,7 @@ From the show's web page:<blockquote><p>The world has ended. Something came and 
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers]] of the 11/1/14 show.
+* [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/1/14 show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.821236394606545.1073742087.221927764537414&type=3) by [[Steve Rogers]] of the 10/11/14 performance.

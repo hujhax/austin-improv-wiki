@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mark Carpenter Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Mark Carpenter]], in a publicity photo for *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
+[[Performers/Mark Carpenter|Mark Carpenter]], in a publicity photo for *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 
 Photo by: [[Roy Moore]].
 

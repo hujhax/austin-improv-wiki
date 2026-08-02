@@ -22,21 +22,21 @@
 **Luis Salinas** is an improv performer who is associated primarily with [[The Institution Theater]].
 
 ## History
-Luis began his improv journey in the Fall of 2009, with the Improv 101 course at [[Merlin Works]]. After completing the 601 course in December of 2010, and mounting the show run for *[[Shows/Bad Company]]*, he immediately enrolled in a second round of 401-601 classes at Merlin Works (culminating the show run of *[[Shows/The Trouble With Terry]]*) as he simultaneously began his studies with the 301 course at [[The Institution Theater]].  He has also studied at [[The Hideout Theatre]] (Level 7).
+Luis began his improv journey in the Fall of 2009, with the Improv 101 course at [[Merlin Works]]. After completing the 601 course in December of 2010, and mounting the show run for *[[Shows/Bad Company|Bad Company]]*, he immediately enrolled in a second round of 401-601 classes at Merlin Works (culminating the show run of *[[Shows/The Trouble With Terry|The Trouble With Terry]]*) as he simultaneously began his studies with the 301 course at [[The Institution Theater]].  He has also studied at [[The Hideout Theatre]] (Level 7).
 
 ## Troupes
-* [[Troupes/Dumbasses]] (2011-Present)
+* [[Troupes/Dumbasses|Dumbasses]] (2011-Present)
 
 ## Shows
-* *[[Shows/Not This American Life]]* (Season 1)
-* *[[Shows/The ReSet Project]]*
+* *[[Shows/Not This American Life|Not This American Life]]* (Season 1)
+* *[[Shows/The ReSet Project|The ReSet Project]]*
 * *[[Lovefest]]* (Season 2)
-* *[[Shows/Trust No One]]*
-* *[[Shows/One Small Step]]*
-* [[Shows/Buzz Band]]
-* *[[Shows/Close Up]]*
-* *[[Shows/183 Dewberry Lane]]*
-* *[[Shows/The Secret Life of Inanimate Objects]]*
+* *[[Shows/Trust No One|Trust No One]]*
+* *[[Shows/One Small Step|One Small Step]]*
+* [[Shows/Buzz Band|Buzz Band]]
+* *[[Shows/Close Up|Close Up]]*
+* *[[Shows/183 Dewberry Lane|183 Dewberry Lane]]*
+* *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
 
 
 

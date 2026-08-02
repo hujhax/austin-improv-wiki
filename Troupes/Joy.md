@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brent Unger">Performers/Brent Unger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brent Unger">Brent Unger</a></li><!--
   --><li style=""><a class="internal-link" href="Cathy">Cathy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Performers/Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,7 +84,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video from the 2/7/13 performance.](http://www.facebook.com/photo.php?v=484662451568819&set=vb.509410502414433&type=2&theater)
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3) by [[Michael Yew]] that includes their 2/7/13 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3) by [[Michael Yew]] that includes their 2/7/13 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/JOY-Improv/509410502414433)

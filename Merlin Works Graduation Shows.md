@@ -8,17 +8,17 @@ Beginning in 2013, Merlin Works moved to the ZACH Theatre and graduation perform
 {| class="wikitable"
 |**Start Date**||**End Date**||**Show**||**Directed by**
 |-
-|9/13/08||10/25/08||*[[Shows/Haunted]]*||[[Performers/Andy Crouch]], [[Performers/Shana Merlin]]
+|9/13/08||10/25/08||*[[Shows/Haunted|Haunted]]*||[[Performers/Andy Crouch|Andy Crouch]], [[Performers/Shana Merlin|Shana Merlin]]
 |-
-|10/9/10||10/30/10||*[[' ' or Bust!]]*||[[Performers/Shana Merlin]]
+|10/9/10||10/30/10||*[[' ' or Bust!]]*||[[Performers/Shana Merlin|Shana Merlin]]
 |-
-|12/4/10||12/18/10||*[[Shows/Bad Company]]*||[[Performers/Shana Merlin]], [[Performers/Ted Rutherford]]
+|12/4/10||12/18/10||*[[Shows/Bad Company|Bad Company]]*||[[Performers/Shana Merlin|Shana Merlin]], [[Performers/Ted Rutherford|Ted Rutherford]]
 |-
-|5/14/11||5/28/11||*[[Shows/Doctors Without Boundaries]]*||[[Performers/Shana Merlin]]
+|5/14/11||5/28/11||*[[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]*||[[Performers/Shana Merlin|Shana Merlin]]
 |-
-|7/23/11||8/6/11||*[[Shows/The Trouble With Terry]]*||[[Performers/Shana Merlin]]
+|7/23/11||8/6/11||*[[Shows/The Trouble With Terry|The Trouble With Terry]]*||[[Performers/Shana Merlin|Shana Merlin]]
 |-
-|12/3/11||12/17/11||*[[Shows/The Amazing Improvised Race]]*||[[Performers/Aden Kirschner]], [[Performers/Shana Merlin]]
+|12/3/11||12/17/11||*[[Shows/The Amazing Improvised Race|The Amazing Improvised Race]]*||[[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Shana Merlin|Shana Merlin]]
 |-
-|5/19/12||6/9/12||*[[Shows/The Sword of Merlin Works]]*||[[Performers/Michael Joplin]], [[Performers/Quinn Buckner]]
+|5/19/12||6/9/12||*[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]*||[[Performers/Michael Joplin|Michael Joplin]], [[Performers/Quinn Buckner|Quinn Buckner]]
 |}

@@ -22,7 +22,7 @@
 **Katie Van Winkle** is an improv performer.
 
 ## Shows
-* *[[Shows/Fakespeare]]* (Don John, Rosse)
-* *[[Shows/Showdown]]* (Clarinda, Marquesa/Adelaide)
+* *[[Shows/Fakespeare|Fakespeare]]* (Don John, Rosse)
+* *[[Shows/Showdown|Showdown]]* (Clarinda, Marquesa/Adelaide)
 
 [[Category/Performers|Van Winkle]]

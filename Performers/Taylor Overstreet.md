@@ -25,18 +25,18 @@
 In 2014, Taylor moved away to Chicago.
 
 ## Troupes
-* [[Troupes/There's Waldo]]
-* [[Troupes/Three on a Match]]
+* [[Troupes/There's Waldo|There's Waldo]]
+* [[Troupes/Three on a Match|Three on a Match]]
 
 ## Shows
-* *[[Shows/Beware of Female Spies]]*
-* *[[Troupes/Array]]*
-* *[[Shows/Braised in Texas]]*
-* *[[Shows/Holy 1960s Batman, Batman!]]*
+* *[[Shows/Beware of Female Spies|Beware of Female Spies]]*
+* *[[Troupes/Array|Array]]*
+* *[[Shows/Braised in Texas|Braised in Texas]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Penny)
 * *[[Live TV Tuesdays -  Party of Five]]* (Kirsten)
 * *[[Only Three Will Survive]]*
-* *[[Shows/Pulp Friction]]*
-* *[[Shows/Spirited]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]*
+* *[[Shows/Spirited|Spirited]]*
 
 [[Category/Performers|Overstreet]]

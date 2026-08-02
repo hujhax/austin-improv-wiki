@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Laugh Pack.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Still from episode 10 of "Three Guys Watching TV", by [[Troupes/Laugh Pack]].
+Still from episode 10 of "Three Guys Watching TV", by [[Troupes/Laugh Pack|Laugh Pack]].
 
 (Video [here](http://www.facebook.com/photo.php?v=597624568794&set=o.56180559060&type=2&theater).)
 ## Licensing

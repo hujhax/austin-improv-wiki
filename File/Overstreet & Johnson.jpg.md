@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Overstreet & Johnson.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Overstreet & Johnson]].
+Publicity photo of [[Troupes/Overstreet & Johnson|Overstreet & Johnson]].
 
 Photo by [[Steve Rogers]], from his photobooth at the 2013 [[Austin Improv Potluck]].
 ## Licensing

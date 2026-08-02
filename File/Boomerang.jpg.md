@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Boomerang.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Boomerang]], at the 11/13/15 photobooth for [[Troupes/Parallelogramophonograph]]'s 10th-anniversary bash.
+[[Troupes/Boomerang|Boomerang]], at the 11/13/15 photobooth for [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s 10th-anniversary bash.
 
 Photo by [[Steve Rogers]], from this [photoset](http://www.facebook.com/media/set/?set=a.1070860539644128.1073742278.221927764537414&type=3).
 ## Licensing

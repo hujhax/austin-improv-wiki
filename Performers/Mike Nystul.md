@@ -79,14 +79,14 @@ In 2010, Nystul founded [[The Lair]], an improv theater in Round Rock, Texas.
 
 ## Troupes
 * [[Big & Tall]]
-* [[Troupes/Fine, Thanks]]
-* [[Troupes/Happy Butter]]
-* [[Shows/The Professor]]
-* [[Troupes/Taxi Cab Impressions]]
+* [[Troupes/Fine, Thanks|Fine, Thanks]]
+* [[Troupes/Happy Butter|Happy Butter]]
+* [[Shows/The Professor|The Professor]]
+* [[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]]
 
 ## Shows
-* *[[Troupes/Epic]]* (performer, director)
-* *[[Shows/Flying Theater Machine]]*
+* *[[Troupes/Epic|Epic]]* (performer, director)
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
 * *[[Live TV Tuesdays -  South Park]]* (Randy Marsh)
 * *[[The Tribunal]]* (show #2)
 

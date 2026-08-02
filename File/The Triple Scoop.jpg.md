@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="The Triple Scoop.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Shows/The Triple Scoop]]*, featuring [[Troupes/IScream Sandwich]].
+Publicity image for *[[Shows/The Triple Scoop|The Triple Scoop]]*, featuring [[Troupes/IScream Sandwich|IScream Sandwich]].
 
-Art by [[Performers/Asaf Ronen]].
+Art by [[Performers/Asaf Ronen|Asaf Ronen]].
 
 Photo source unknown.
 ## Licensing

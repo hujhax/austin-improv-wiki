@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -23,18 +23,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Performers/Kimberly Cox</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Performers/Menelaos Prokos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -88,13 +88,13 @@
 This show had games and scenes performed using standard televised-puppetry techniques, where the performers hold the puppets above their heads, and video footage of the performance crops out the performers below the bottom of the frame.
 
 ## History
-This show headlined *[[Shows/The Threefer]]* in March 2011.
+This show headlined *[[Shows/The Threefer|The Threefer]]* in March 2011.
 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198554097265.346705.588952264&type=3) by [[Performers/Peter Rogers]] of their 3/31/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198554097265.346705.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/31/11 show.
 
 ## More Information
 * [The show announcement](http://forum.austinimprov.com/viewtopic.php?t=11652) on [[The Austin Improv Forums]].

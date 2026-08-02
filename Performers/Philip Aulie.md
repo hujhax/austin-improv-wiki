@@ -22,7 +22,7 @@
 **Philip "Phil" Aulie** (1986-2012) was an improv performer, musician, and slam poet.
 
 ## Summary
-Phil was a creator and founding member of [[Troupes/The PITS]], [[Troupes/Comedic Amoeba]], [[Troupes/Parallelogramophonograph]], and [[Troupes/You, Me, and Greg]]. The members of You, Me, and Greg (Phil Aulie, Greg Spencer, and Doug Pena) went on to form Superhouse, an indie pop rock band. Phil died unexpectedly of undisclosed causes at age 25 on January 30, 2012.
+Phil was a creator and founding member of [[Troupes/The PITS|The PITS]], [[Troupes/Comedic Amoeba|Comedic Amoeba]], [[Troupes/Parallelogramophonograph|Parallelogramophonograph]], and [[Troupes/You, Me, and Greg|You, Me, and Greg]]. The members of You, Me, and Greg (Phil Aulie, Greg Spencer, and Doug Pena) went on to form Superhouse, an indie pop rock band. Phil died unexpectedly of undisclosed causes at age 25 on January 30, 2012.
 
 ## Media
 ### Videos =

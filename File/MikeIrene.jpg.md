@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="MikeIrene.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Mike and Irene]], performing at [[The Hideout Theatre]].
+[[Troupes/Mike and Irene|Mike and Irene]], performing at [[The Hideout Theatre]].
 
 Photo by: unknown.
 

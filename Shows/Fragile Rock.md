@@ -1,6 +1,6 @@
 ![[Fragile Rock.jpg|Promotional photo of Fragile Rock.]]
 
-***Fragile Rock*** is an emo puppet band fronted by [[Performers/Brently Heilbron]].
+***Fragile Rock*** is an emo puppet band fronted by [[Performers/Brently Heilbron|Brently Heilbron]].
 
 ## History
 The band formed in 2014, following an indiegogo campaign.

@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Howard">Brian Howard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
   --><li style=""><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
   --><li style=""><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**I Don't Appreciate It When You Talk to Me Like That** was a one-off *[[Shows/Cagematch]]* team.
+**I Don't Appreciate It When You Talk to Me Like That** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They won the fall 2009 "War Forms of Dangerous Curves" Cagematch, and played in the summer 2010 "Tournament of Champions" on 6/5/10.

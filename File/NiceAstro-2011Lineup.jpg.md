@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="NiceAstro-2011Lineup.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Nice Astronaut]]'s 2011 lineup.
+Publicity photo of [[Troupes/Nice Astronaut|Nice Astronaut]]'s 2011 lineup.
 
 Photo by: unknown.
 

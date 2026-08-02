@@ -35,7 +35,7 @@ If you miss him, don't worry, he's biking home listening to weird electronic mus
 
 
 ## Troupes
-* [[Troupes/Deep Turtle]] (2014-2016)
-* [[Troupes/Tom Does The Good Work]] Duo, with Cagney Ortiz
+* [[Troupes/Deep Turtle|Deep Turtle]] (2014-2016)
+* [[Troupes/Tom Does The Good Work|Tom Does The Good Work]] Duo, with Cagney Ortiz
 
 [[Category/Performers|Addison]]

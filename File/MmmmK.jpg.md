@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="MmmmK.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/MmmmK]], playing in Honolulu's 2011 Improvaganza festival.
+[[Troupes/MmmmK|MmmmK]], playing in Honolulu's 2011 Improvaganza festival.
 
 Photo by: unknown, from [this photoset](http://www.facebook.com/media/set/?set=a.325258794217486.73391.151475938262440&type=3).
 ## Licensing

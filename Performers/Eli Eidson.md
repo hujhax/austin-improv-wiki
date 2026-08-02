@@ -26,12 +26,12 @@
 * [[Empty Promises]] 
 
 
-## *[[Shows/Cagematch]]* Teams
-* [[Troupes/Raw Power]] (2014)
+## *[[Shows/Cagematch|Cagematch]]* Teams
+* [[Troupes/Raw Power|Raw Power]] (2014)
 
 
 ## Shows
-* *[[Shows/Indy Movies]]*
+* *[[Shows/Indy Movies|Indy Movies]]*
 
 
 [[Category/Performers|Eidson]]

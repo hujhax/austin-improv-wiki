@@ -3,7 +3,7 @@
 ## Summary
 Preview image for *[[Shows/Theatresports (mainstage run)|TheatreSports]]*.
 
-Artwork by [[Performers/Kaci Beeler]].
+Artwork by [[Performers/Kaci Beeler|Kaci Beeler]].
 
 Taken from [the graphic](http://www.hideouttheatre.com/wp-content/uploads/2012/12/Hideout-Theatre-2013-Season-651x1024.jpg) for [the 2013 season](http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule) from [[The Hideout]].
 

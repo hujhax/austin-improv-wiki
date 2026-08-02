@@ -28,30 +28,30 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 
 ## Troupes
 * [[Badr & Janik]]
-* [[Troupes/BadWitt]]
-* [[Troupes/The Randy Meisner]]
-* [[Troupes/Parallelogramophonograph]]
+* [[Troupes/BadWitt|BadWitt]]
+* [[Troupes/The Randy Meisner|The Randy Meisner]]
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 * [[The Smoking Arm]]
-* [[Troupes/Straight Blades]]
+* [[Troupes/Straight Blades|Straight Blades]]
 
 ## Shows
-* *[[Shows/After School Improv]]* 
-* *[[Shows/The Andersons]]* (John Anderson)
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/Charles Dickens Unleashed]]*
-* *[[Shows/False Matters]]*
-* *[[Shows/Improvised Shakespeare]]* 
-* *[[Shows/Ka-Baam!!]]*
-* *[[Shows/Process]]* 
-* *[[Shows/Start Trekkin']]*
+* *[[Shows/After School Improv|After School Improv]]* 
+* *[[Shows/The Andersons|The Andersons]]* (John Anderson)
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
+* *[[Shows/False Matters|False Matters]]*
+* *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]* 
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
+* *[[Shows/Process|Process]]* 
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/Theatresports (mainstage run)|Theatresports]]* (director, 2010)
 * *[[This Week Tonight]]* 
-* *[[Shows/The Violet Underbelly]]* (director)
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]* (director)
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2441797) with Kareem on *[[The Theft Forum]]*.
 * [Interview](http://gybpodcast.libsyn.com/kareem-badr-ep-29-got-your-back) on *[[Got Your Back]]*.
-* [Interview](http://yesandrew.com/the-sunday-interview-kareem-badr/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-kareem-badr/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Badr]]
 [[Category/Teachers|Badr]]

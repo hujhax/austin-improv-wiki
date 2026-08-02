@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Nicole Oliver Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Performers/Nicole Oliver]].
+Photo of [[Performers/Nicole Oliver|Nicole Oliver]].
 
 Photo by: unknown.
 ## Licensing

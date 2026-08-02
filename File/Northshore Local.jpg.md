@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Northshore Local.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Northshore Local]] for their performance at the 2009 Del Close Marathon.
+Publicity photo of [[Troupes/Northshore Local|Northshore Local]] for their performance at the 2009 Del Close Marathon.
 
 Photo by: unknown.
 ## Licensing

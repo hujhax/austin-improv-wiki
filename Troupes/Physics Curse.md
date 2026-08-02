@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Performers/Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Performers/Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Physics Curse** is an improv troupe consisting of [[Performers/Rosemarie Frezza]], [[Performers/Ann Symmonds]], [[Performers/Aspen Webster]], and [[Performers/Rachel Posey Austin]].
+**Physics Curse** is an improv troupe consisting of [[Performers/Rosemarie Frezza|Rosemarie Frezza]], [[Performers/Ann Symmonds|Ann Symmonds]], [[Performers/Aspen Webster|Aspen Webster]], and [[Performers/Rachel Posey Austin|Rachel Posey Austin]].
 
 ## Summary
 Based out of Austin, Texas, Physics Curse explores the intricacies of relationships with a fast-paced sometimes absurd improv format that starts with a simple compliment between troupe members. Focused on positivity, meaningful character connections and high energy, Physics Curse has amazing chemistry and is not afraid to experiment.

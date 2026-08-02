@@ -25,15 +25,15 @@
 Aden has an extensive background in education. She has been teaching and facilitating using improv comedy skills since 1995. In addition to giving performance and communication skills training, she has also taught writing and conversational ESL. In 2000 she was published in the Fort Lewis College Freshman Writing Course book. Aden joined educational software powerhouse Compass Learning in 2006, where she spent nearly three years crafting topics like algebra and biology into fun, dynamic and engaging learning activities that retained 110% of their curricular importance. She holds a BA in European history from Fort Lewis College, and in 2002 she facilitated the creation of a brand new Leadership program for their students that explored the application of improv performance in professional skills areas like communication, customer service and entrepreneurship.
 
 ## Performer
-With nearly thirty years of experience on stage, Aden has been winning awards and recognition as a speaker, singer and performer since she was six years old. She is a fixture in the Austin improv community and is frequently sought out to play in shows with multiple theater companies in town; including world famous vaudeville revue: Esther’s Follies where she spent the majority of 2011 wearing huge wigs, singing big songs and getting massive laughs. She can be seen performing most regularly at Austin’s premier theater venue the ZACH, with Merlin Works faculty troupe, [[Troupes/The Known Wizards]]; or with B. Iden Payne Award winners, [[Troupes/Girls Girls Girls]] Improvised Musical Comedy.
+With nearly thirty years of experience on stage, Aden has been winning awards and recognition as a speaker, singer and performer since she was six years old. She is a fixture in the Austin improv community and is frequently sought out to play in shows with multiple theater companies in town; including world famous vaudeville revue: Esther’s Follies where she spent the majority of 2011 wearing huge wigs, singing big songs and getting massive laughs. She can be seen performing most regularly at Austin’s premier theater venue the ZACH, with Merlin Works faculty troupe, [[Troupes/The Known Wizards|The Known Wizards]]; or with B. Iden Payne Award winners, [[Troupes/Girls Girls Girls|Girls Girls Girls]] Improvised Musical Comedy.
 
 ## Coach
-Labeled as “The funniest person in Austin,” by improv giant, [[Performers/Tom Booker]], Aden joined the Merlin Works faculty in 2009 where her performance classes are in high demand. She now additionally promotes the Corporate Training side of the Institute as the Training and Events Coordinator, where she seeks to improve the way people communicate with each other, one business at a time.
+Labeled as “The funniest person in Austin,” by improv giant, [[Performers/Tom Booker|Tom Booker]], Aden joined the Merlin Works faculty in 2009 where her performance classes are in high demand. She now additionally promotes the Corporate Training side of the Institute as the Training and Events Coordinator, where she seeks to improve the way people communicate with each other, one business at a time.
 
 ## History
 Though Aden began improvising early, she joined the Austin Improv Collective in 2005 when she relocated to ATX following living two years of living in South Korea.
 
-She joined [[Troupes/Girls Girls Girls]] in 2007 and began teaching for [[Merlin Works]] in 2009.
+She joined [[Troupes/Girls Girls Girls|Girls Girls Girls]] in 2007 and began teaching for [[Merlin Works]] in 2009.
 
 A post from her about the first improv show she ever saw:<blockquote><p>The first improv show I saw was one I produced and directed in High School in February of 1995. Improv was so much a part of my theatrical training (which started at the age of 6), that I wanted to dedicate my senior project work to it. I even wrote my senior thesis on the use of improv as a teaching tool... and went on to teach improv for a couple of years.</p> 
 
@@ -41,30 +41,30 @@ A post from her about the first improv show she ever saw:<blockquote><p>The firs
 
 <p>In comparison the improv I see and participate in here in Austin is sooooo much simpler!</p></blockquote>
 
-In 2014, she moved away to Oregon, but visits Austin regularly and is still involved in several local projects, including [[Troupes/Girls Girls Girls]], [[The World Peace Project]] and [[Troupes/The Known Wizards]].
+In 2014, she moved away to Oregon, but visits Austin regularly and is still involved in several local projects, including [[Troupes/Girls Girls Girls|Girls Girls Girls]], [[The World Peace Project]] and [[Troupes/The Known Wizards|The Known Wizards]].
 
 ## Troupes
-* [[Troupes/ComedySportz]]
+* [[Troupes/ComedySportz|ComedySportz]]
 * [[Duck Duck Boom]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/The Known Wizards]]
-* [[Troupes/The Starter Kit]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/The Known Wizards|The Known Wizards]]
+* [[Troupes/The Starter Kit|The Starter Kit]]
 * [[The World Peace Project]]
 * [[The Extra-Ordinary League]]
 
 ## Shows
-* *[[Shows/The Andersons]]*
+* *[[Shows/The Andersons|The Andersons]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Esther's Follies]]*
-* *[[Shows/Fakespeare]]*
-* *[[Shows/Ka-Baam!!]]*
-* *[[Shows/Rock]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/Fakespeare|Fakespeare]]*
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
+* *[[Shows/Rock|Rock]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 
 ## More Information
-* ["In Praise Of..." post](http://yesandrew.com/2013/08/30/in-praise-of-aden-kirschner-by-eric-heiberg/) by [[Performers/Eric Heiberg]].
-* ["The Sunday Interview..." post](http://yesandrew.com/2014/06/01/the-sunday-interview-aden-kirschner/) by [[Performers/Andrew Buck]]
+* ["In Praise Of..." post](http://yesandrew.com/2013/08/30/in-praise-of-aden-kirschner-by-eric-heiberg/) by [[Performers/Eric Heiberg|Eric Heiberg]].
+* ["The Sunday Interview..." post](http://yesandrew.com/2014/06/01/the-sunday-interview-aden-kirschner/) by [[Performers/Andrew Buck|Andrew Buck]]
 
 [[Category/Performers|Kirschner]]
 [[Category/Teachers|Kirschner]]

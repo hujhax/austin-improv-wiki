@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Performers/Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,10 +77,10 @@
   --><li style=""><a class="internal-link" href="Abra Chusid">Abra Chusid</a></li><!--
   --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Wittenbrook">Brian Wittenbrook</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Wells">Performers/David Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Wells">David Wells</a></li><!--
   --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
   --><li style=""><a class="internal-link" href="Karina Dominguez">Karina Dominguez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Performers/Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -138,7 +138,7 @@
 It was one of the [[Merlin Works Graduation Shows]].
 
 ## History
-The show ran as part of *[[Shows/The Saturday Night Special]]* in December 2011, starting on 12/3/11 and continuing through to 12/17/11.
+The show ran as part of *[[Shows/The Saturday Night Special|The Saturday Night Special]]* in December 2011, starting on 12/3/11 and continuing through to 12/17/11.
 
 ## Media
 ### Videos

@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Performers/Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
   --><li style=""><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
   --><!--
   --><!--
@@ -73,11 +73,11 @@
 **Turn of the Century Paris** was a sketch troupe based at [[Coldtowne Theater]].
 
 ## History
-Turn of the Century Paris was a sketch troupe started by "The Boston Boys" (Matt, Chaz, Steve & later Ed) after their arrival in Austin. They wanted to bring their brand of fast paced sketch comedy to their new home after their experiences writing and performing at Emerson College in Boston. TCP focused on heavy workshopping to boil down their sketches and make them as short as possible, while still exploring the idea. Aside from its founding Boston contingent, the cast featured others over time including [[Performers/Cortnie Jones]], [[Brian Engravalle]], [[Performers/Kate Bojanek]], [[Danny Catlow]], and [[Sam Van Metre]].
+Turn of the Century Paris was a sketch troupe started by "The Boston Boys" (Matt, Chaz, Steve & later Ed) after their arrival in Austin. They wanted to bring their brand of fast paced sketch comedy to their new home after their experiences writing and performing at Emerson College in Boston. TCP focused on heavy workshopping to boil down their sketches and make them as short as possible, while still exploring the idea. Aside from its founding Boston contingent, the cast featured others over time including [[Performers/Cortnie Jones|Cortnie Jones]], [[Brian Engravalle]], [[Performers/Kate Bojanek|Kate Bojanek]], [[Danny Catlow]], and [[Sam Van Metre]].
 
 In May 2010, the troupe had a monthlong mainstage run at [[Coldtowne Theater]].
 
-The troupe hosted *[[Shows/The Speakeasy]]* from 2010 to 2013.
+The troupe hosted *[[Shows/The Speakeasy|The Speakeasy]]* from 2010 to 2013.
 
 ## Media
 ### Videos
@@ -87,7 +87,7 @@ The troupe hosted *[[Shows/The Speakeasy]]* from 2010 to 2013.
 * ["Antoine & Emilio Live 5/20/10"](http://youtu.be/yNm-Li8DnmA)
 * ["Turd Police"](http://youtu.be/UqNjMYj6Jtw)
 * ["Wife Swamp"](http://youtu.be/n6E9VLfj438)
-* [[Performers/Joshua Krilov]] interviews [[Performers/Ed Reed]] and [[Danny Catlow]] of Turn of the Century Paris: [part 1](https://vimeo.com/24273155), [part 2](http://vimeo.com/24273162).
+* [[Performers/Joshua Krilov|Joshua Krilov]] interviews [[Performers/Ed Reed|Ed Reed]] and [[Danny Catlow]] of Turn of the Century Paris: [part 1](https://vimeo.com/24273155), [part 2](http://vimeo.com/24273162).
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/6/11 performance at [[The Hideout Theatre]].

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -42,16 +42,16 @@ Finally, the cast plays the top-voted game.
 They then repeat this process with a new audience title.
 
 ## History
-The show began as a one-off for the premiere of *[[Shows/The Free Fringe]]* on 1/5/12
+The show began as a one-off for the premiere of *[[Shows/The Free Fringe|The Free Fringe]]* on 1/5/12
 
 It was part of [[The 44-Hour Improv Marathon]]
 
 ## Media
 ### Videos
-* [Their 8/16/12 performance](http://vimeo.com/47767437) in *[[Shows/The Free Fringe]]*.
+* [Their 8/16/12 performance](http://vimeo.com/47767437) in *[[Shows/The Free Fringe|The Free Fringe]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Performers/Peter Rogers]] of their 1/5/12 performance at *[[Shows/The Free Fringe]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/5/12 performance at *[[Shows/The Free Fringe|The Free Fringe]]*.
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3) by [[Michael Yew]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[The 43-Hour Improv Marathon]].
 

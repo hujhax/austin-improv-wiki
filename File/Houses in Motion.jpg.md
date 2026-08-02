@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Houses in Motion.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Troupes/Houses in Motion]].
+Photo of [[Troupes/Houses in Motion|Houses in Motion]].
 
 Photo by: unknown.
 ## Licensing

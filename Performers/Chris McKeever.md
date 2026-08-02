@@ -26,7 +26,7 @@ Chris McKeever studied improv and comedy at The Upright Citizens Brigade Theater
 
 ## Troupes
 * [[Double Tap]]
-* [[Troupes/Kingston]]
+* [[Troupes/Kingston|Kingston]]
 
 ## Shows
 * *[[Play by Play featuring Double Tap]]*

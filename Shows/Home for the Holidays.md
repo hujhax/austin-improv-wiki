@@ -14,24 +14,24 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Performers/Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Adam Mengesha</a></li><!--
   --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
   --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
   --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica T. Von Schramm">Performers/Jessica T. Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica T. Von Schramm">Jessica T. Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Patricia Harpst">Patricia Harpst</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Rob Yoho">Performers/Rob Yoho</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a></li><!--
   --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
   --><!--
   --><!--

@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Performers/Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
   --><!--
   --><!--
   --><!--

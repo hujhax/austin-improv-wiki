@@ -22,24 +22,24 @@
 **Cortnie Jones** is an improv performer.
 
 ## Troupes
-* [[Troupes/Kingston]]
-* [[Troupes/Echo Lake]]
-* [[Troupes/Three on a Match]]
+* [[Troupes/Kingston|Kingston]]
+* [[Troupes/Echo Lake|Echo Lake]]
+* [[Troupes/Three on a Match|Three on a Match]]
 
 ## Previous Troupes
-* [[Troupes/Elevator Action]]
-* [[Troupes/North Shore Local]]
-* [[Troupes/Sarah 7]]
-* [[Troupes/Turn of the Century Paris]]
+* [[Troupes/Elevator Action|Elevator Action]]
+* [[Troupes/North Shore Local|North Shore Local]]
+* [[Troupes/Sarah 7|Sarah 7]]
+* [[Troupes/Turn of the Century Paris|Turn of the Century Paris]]
 
 ## Shows
-* *[[Shows/After School Special Victims Unit]]*
-* *[[Shows/Boy Band]]*
-* *[[Shows/Braised in Texas]]*
-* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players]]*
-* *[[Shows/Cereal for Adults]]*
-* *[[Shows/Slaughter Your Shorts]]*
-* *[[Shows/Stool Pigeon]]*
+* *[[Shows/After School Special Victims Unit|After School Special Victims Unit]]*
+* *[[Shows/Boy Band|Boy Band]]*
+* *[[Shows/Braised in Texas|Braised in Texas]]*
+* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players|Bridgeport Women's Correctional Facility Short Form Players]]*
+* *[[Shows/Cereal for Adults|Cereal for Adults]]*
+* *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]*
+* *[[Shows/Stool Pigeon|Stool Pigeon]]*
 
 
 [[Category/Performers|Jones]]

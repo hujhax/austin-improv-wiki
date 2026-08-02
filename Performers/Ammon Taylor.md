@@ -26,18 +26,18 @@
 **Ammon Taylor** is an improv musician.
 
 ## Summary
-Pianist Ammon Taylor is best known as the current accompanist for [[Troupes/Girls Girls Girls]], but also accompanies many ongoing shows at [[The Hideout Theatre]].
+Pianist Ammon Taylor is best known as the current accompanist for [[Troupes/Girls Girls Girls|Girls Girls Girls]], but also accompanies many ongoing shows at [[The Hideout Theatre]].
 
 ## Troupes
-* [[Troupes/Girls Girls Girls]] (accompanist)
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]] (accompanist)
 
 ## Shows
 * *[[Shut Up and Sing]]* (accompanist)
-* *[[Shows/Maestro]]* (accompanist)
-* *[[Shows/TheatreSports]]* (accompanist)
+* *[[Shows/Maestro|Maestro]]* (accompanist)
+* *[[Shows/TheatreSports|TheatreSports]]* (accompanist)
 * *[[Trash]]* (composer)
-* *[[Shows/Happily Ever After]]* (Musical director)
-* *[[Shows/A Deed So Dark]]* (Musical director)
+* *[[Shows/Happily Ever After|Happily Ever After]]* (Musical director)
+* *[[Shows/A Deed So Dark|A Deed So Dark]]* (Musical director)
 
 [[Category/Performers|Taylor]]
 [[Category/Musicians|Taylor]]

@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Austen Silver">Austen Silver</a></li><!--
   --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
   --><li style=""><a class="internal-link" href="Evan Eggers">Evan Eggers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Performers/Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -83,8 +83,8 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=3) by [[Performers/Chad Wellington]] of their 5/29/14 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203172527696782.1073741921.1315383518&type=3) by [[Michael Yew]] that includes their 12/18/14 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of their 5/29/14 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203172527696782.1073741921.1315383518&type=3) by [[Michael Yew]] that includes their 12/18/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

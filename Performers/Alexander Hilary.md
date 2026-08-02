@@ -22,12 +22,12 @@
 **Alexander Hilary** is an actor and improv performer.
 
 ## Troupes
-* [[Troupes/Bad Font]]
-* [[Troupes/Goat]]
+* [[Troupes/Bad Font|Bad Font]]
+* [[Troupes/Goat|Goat]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Party of Five]]* (Charlie)
-* *[[Shows/Strange Worlds]]* (Nate Jester)
-* *[[Shows/The Suitcase]]*
+* *[[Shows/Strange Worlds|Strange Worlds]]* (Nate Jester)
+* *[[Shows/The Suitcase|The Suitcase]]*
 
 [[Category/Performers|Hilary]]

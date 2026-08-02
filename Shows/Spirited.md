@@ -14,36 +14,36 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers/David Zimmerman">Performers/David Zimmerman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Pish">Performers/Andrew Pish</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Performers/Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Performers/Menelaos Prokos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/John Buseman">Performers/John Buseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Performers/Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Performers/Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Pish">Andrew Pish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Neal Tibrewala]]</td>
+			<td class="category">[[Performers/Neal Tibrewala|Neal Tibrewala]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -96,11 +96,11 @@
 *Spirited* was [[The Hideout]]'s mainstage show in September and October of 2011.  It had subsequent performances at [[The Improvised Play Festival]] and [[The Out Of Bounds Comedy Festival]] the following year.
 
 ### Show Structure
-Each performance centered around a young girl, called "the Alice" in rehearsals (though the character could have any name), played by either [[Performers/Halyn Lee Erickson]] or [[Performers/Sarah Marie Curry]].  All the other performers in the show would wear all black, while the Alice would be dressed in a frilly, 19th-century dress.
+Each performance centered around a young girl, called "the Alice" in rehearsals (though the character could have any name), played by either [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]] or [[Performers/Sarah Marie Curry|Sarah Marie Curry]].  All the other performers in the show would wear all black, while the Alice would be dressed in a frilly, 19th-century dress.
 
 The show began with the actress who played the Alice getting a suggestion from the audience.  Then most of the cast would take the stage in a tableau.  This would become a scene that took place in 'the real world', wherein the Alice would explore different parts of the stage and interact with different groups of people.
 
-In this part of the story especially, performers would emphasize what director [[Performers/Asaf Ronen]] called "personal propaganda".  Instead of focusing on plot or relationship, one focussed particularly on the character's point of view -- a simple idea like "you can always trust everybody" -- and on working that idea into as much of the character's speech and actions as possible.
+In this part of the story especially, performers would emphasize what director [[Performers/Asaf Ronen|Asaf Ronen]] called "personal propaganda".  Instead of focusing on plot or relationship, one focussed particularly on the character's point of view -- a simple idea like "you can always trust everybody" -- and on working that idea into as much of the character's speech and actions as possible.
 
 At some point in the 'real world' scene (usually around the five-minute mark), an outside character would appear, termed in rehearsal "the White Rabbit", played by a pre-determined performer (though, of course, the character in performance needn't be a literal rabbit).  This character would lead Alice out of the real world, and into the surreal world we'd occupy for the rest of the show.  During that transition, tech would contribute trippy lighting and sound offers, and the performers might intersperse bits of the "personal propaganda" from the first scene.
 
@@ -133,10 +133,10 @@ After about an hour of these explorations, there would be a transition back to t
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/15 show in [[The 46-Hour Improv Marathon]].
 
 ### Other
-* Photos of [[Performers/Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_3/photo%201_3.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_4/photo%202_4.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/spirited_set/spirited_set.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205_1/photo%205_1.jpg?disposition=download), [5](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_3/photo%204_3.jpg?disposition=download).
+* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_3/photo%201_3.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_4/photo%202_4.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/spirited_set/spirited_set.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205_1/photo%205_1.jpg?disposition=download), [5](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_3/photo%204_3.jpg?disposition=download).
 
 ## More Information
-* [A post about playing in the show](http://www.hideouttheatre.com/spirus) by [[Performers/Kayla Lane Freeman]].
+* [A post about playing in the show](http://www.hideouttheatre.com/spirus) by [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]].
 * [Review of the show](http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/) by [[Wayne Allen Brenner]] in *The Austin Chronicle* (9/14/11).
 * [Review of the show](http://www.hideouttheatre.com/statesman-review-for-spirited) from *The Austin-American Statesman*.
 

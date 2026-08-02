@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -23,8 +23,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Performers/Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
   --><li style=""><a class="internal-link" href="Cyrus Lum">Cyrus Lum</a></li><!--
   --><li style=""><a class="internal-link" href="Evan T Atherton">Evan T Atherton</a></li><!--
   --><li style=""><a class="internal-link" href="Janice Kay Bech">Janice Kay Bech</a></li><!--
@@ -89,14 +89,14 @@ It was one the [[Merlin Works Graduation Shows]].
 ## History
 ### Guest Stars
 Each of the show's three performances included guest stars:
-* 5/14/11: [[Performers/Shana Merlin]] and [[Performers/Lauren Buck]]
-* 5/21/11: [[Performers/Shannon McCormick]]
-* 5/28/11: [[Performers/Ted Rutherford]]
+* 5/14/11: [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Lauren Buck|Lauren Buck]]
+* 5/21/11: [[Performers/Shannon McCormick|Shannon McCormick]]
+* 5/28/11: [[Performers/Ted Rutherford|Ted Rutherford]]
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.123886557692376.31397.100002130980897&type=3) by [[Performers/Peter Rogers]] of their 5/14/11 performance in *[[Shows/The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282392427265.375471.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/28/11 performance in *[[Shows/The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.123886557692376.31397.100002130980897&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/14/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282392427265.375471.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/28/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=11864) on [[The Austin Improv Forums]].

@@ -80,11 +80,11 @@ Dave is an avid photographer of improv. He also takes troupe photos.
 
 ## Shows
 ### Improvised
-* *[[Shows/The Fancy Pants Mashup]]*
-* *[[Shows/Maestro]]*
+* *[[Shows/The Fancy Pants Mashup|The Fancy Pants Mashup]]*
+* *[[Shows/Maestro|Maestro]]*
 
 ### Non-Improvised
-* *[[Shows/The Cherry Bowl]]*
+* *[[Shows/The Cherry Bowl|The Cherry Bowl]]*
 
 ## Media
 * 

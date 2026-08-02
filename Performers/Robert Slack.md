@@ -73,15 +73,15 @@
 **Robert Slack** is an improv performer.
 
 ## Troupes
-* [[Troupes/Character Explosion]]
-* [[Troupes/Golden]]
-* [[Troupes/Past Life Aggression]]
-* [[Troupes/The Special Features]]
-* [[Troupes/You Bet Your Life]]
+* [[Troupes/Character Explosion|Character Explosion]]
+* [[Troupes/Golden|Golden]]
+* [[Troupes/Past Life Aggression|Past Life Aggression]]
+* [[Troupes/The Special Features|The Special Features]]
+* [[Troupes/You Bet Your Life|You Bet Your Life]]
 
 ## Shows
-* *[[Shows/A Deed So Dark]]* (stage manager)
+* *[[Shows/A Deed So Dark|A Deed So Dark]]* (stage manager)
 * *[[Shows/Golden (mainstage)|Golden]]*
-* *[[Shows/Late Night Time Machine]]* (guest appearance: Groucho Marx)
+* *[[Shows/Late Night Time Machine|Late Night Time Machine]]* (guest appearance: Groucho Marx)
 
 [[Category/Performers|Slack]]

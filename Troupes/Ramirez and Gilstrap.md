@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Ramirez and Gilstrap** was a one-off *[[Shows/Cagematch]]* duo.
+**Ramirez and Gilstrap** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.
 
 ## History
 They played a Cagematch on 4/18/09.

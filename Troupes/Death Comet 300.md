@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Death Comet 300** was a one-off *[[Shows/Cagematch]]* duo.
+**Death Comet 300** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.
 
 ## History
 They played one exhibition Cagematch on 3/20/10.

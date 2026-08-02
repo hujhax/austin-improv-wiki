@@ -14,29 +14,29 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Benjamin Bazan">Benjamin Bazan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
   --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="KC HT">KC HT</a></li><!--
   --><li style=""><a class="internal-link" href="Ally Huston">Ally Huston</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Performers/Sarah Hutchins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a></li><!--
   --><li style="" ><a class="internal-link" href="Patrick Kail">Patrick Kail</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris McKeever">Performers/Chris McKeever</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris McKeever">Chris McKeever</a></li><!--
   --><li style=""><a class="internal-link" href="Lance Nealy">Lance Nealy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Performers/Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
   --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style=""><a class="internal-link" href="Richard Smith">Richard Smith</a></li><!--
   --><li style=""><a class="internal-link" href="Bobby Stover">Bobby Stover</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Logan Williams">Logan Williams</a></li><!--
   --><!--
   --><!--

@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Performers/Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Performers/Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Three Blondes** was a one-off *[[Shows/Cagematch]]* team.
+**Three Blondes** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 The troupe played a Cagematch on 10/3/12.

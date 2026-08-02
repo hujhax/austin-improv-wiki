@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Maria Morrow">Maria Morrow</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Ponder">Mike Ponder</a></li><!--
   --><li style=""><a class="internal-link" href="Ruzica Oldja">Ruzica Oldja</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Tosin awofeso">Performers/Tosin awofeso</a> (music)</li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a> (music)</li><!--
   --><!--
   --><!--
   --><!--
@@ -85,7 +85,7 @@ The rapping portion helps to create, paint, and explore the themes, story or cha
 
 ## Media
 ## Photos =
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208028066965899.1073741868.1425495839&type=3) by [[Performers/Jay Mahavier]] that includes their 9/7/15 performance at *[[The Knockout]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208028066965899.1073741868.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] that includes their 9/7/15 performance at *[[The Knockout]]*.
 
 ### Videos
 * [The troupe's February 2015 debut](http://vimeo.com/118703724) at [[The Institution Theater]].

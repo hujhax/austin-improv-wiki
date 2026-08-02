@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Humanz.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Humanz]].
+Publicity image for [[Troupes/Humanz|Humanz]].
 
 Photo by: unknown.
 

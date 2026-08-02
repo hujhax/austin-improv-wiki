@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Faerber">Mike Faerber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Livni">Performers/Nathan Livni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Livni">Nathan Livni</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**I'm With Genius** was a one-off *[[Shows/Cagematch]]* team.
+**I'm With Genius** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 11/28/09.

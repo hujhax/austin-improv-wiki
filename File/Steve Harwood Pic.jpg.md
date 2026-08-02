@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Steve Harwood Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Steve Harwood]], in the 7/27/13 performance of *[[Shows/Start Trekkin']]*.
+[[Performers/Steve Harwood|Steve Harwood]], in the 7/27/13 performance of *[[Shows/Start Trekkin'|Start Trekkin']]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.572351752828345.1073741903.221927764537414&type=1).
 ## Licensing

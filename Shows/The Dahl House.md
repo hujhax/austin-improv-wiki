@@ -14,22 +14,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Performers/Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Performers/Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Heather Hasselle</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Guy Bowman">Michael Guy Bowman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Performers/Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
   --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Rachel Posey Austin]] (sound)</td>
+			<td class="category">[[Performers/Rachel Posey Austin|Rachel Posey Austin]] (sound)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -112,8 +112,8 @@ The world can be a scary and flamboozled place for the good-at-heart, but Roald 
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.880565448640608.1073741880.100000614831752&type=3) by [[Performers/Warren Henderson]] of a show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152690164257265.1073741854.588952264&type=3) by [[Performers/Peter Rogers]] of the 8/16/14 show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.880565448640608.1073741880.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152690164257265.1073741854.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/16/14 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203901007388319.1073741933.1315383518&type=3) by [[Michael Yew]] of the 4/11/15 performance at [[The 2015 Improvised Play Festival]].
 
 ## More Information

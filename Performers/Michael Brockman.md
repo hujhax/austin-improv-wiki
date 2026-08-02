@@ -85,11 +85,11 @@ Note: all credits in Troupes and Shows are for improvised accompaniment, except 
 A post from him about the first improv show he ever saw:<blockquote>The first improv show I saw I was actually in. It was with [[GGG]] at [[LAFF]] some 3 or 4 years ago. I had no idea what I was doing and if I saw it on tape now I'd probably be yelling at myself through the screen. I do remember I felt that I'd overplayed, and so at my second show I made a point of hanging back. I got more criticism for that strategy than I did for my first show so I quickly abandoned that approach. It really wasn't until I'd amassed a little more knowledge about the process and the quirks and strengths of the ladies themselves that I began to get a bit comfortable. </blockquote>
 
 ## Troupes
-* [[Troupes/ComedySportz]]
-* [[Troupes/Danger! Warning! Improv!]] (composer)
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/Hell's Bells]]
-* [[Troupes/Indigo Shift]]
+* [[Troupes/ComedySportz|ComedySportz]]
+* [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]] (composer)
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/Hell's Bells|Hell's Bells]]
+* [[Troupes/Indigo Shift|Indigo Shift]]
 * [[Comedy Spartans]]
 
 ### Out-of-Town Troupes
@@ -101,28 +101,28 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 * Three Falling (w/ Muli Shulman & Inbal Lori)
 
 ## Shows
-* *[[Shows/The Big Bash]]*
-* *[[Shows/Boys of Summer]]*
+* *[[Shows/The Big Bash|The Big Bash]]*
+* *[[Shows/Boys of Summer|Boys of Summer]]*
 * *[[Campfire Songs]]*
 * *[[Crack]]*
-* *[[Shows/The Fancy-Pants Mashup]]*
+* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Gorilla Improv]]*  (w/ Greg Proops, Jill Bernard, Jeremy Lamb & Shana Merlin)
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Hurly Burly]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Hurly Burly|Hurly Burly]]*
 * *[[Jukebox Heroes]]*  (w/ Laura Hall)
 * *[[The Last Freak Show]]*
 * *[[Louder Than Words]]*
 * *[[Love Is a Funny Thing]]*
-* *[[Shows/Maestro]]*
-* *[[Shows/Process]]*
+* *[[Shows/Maestro|Maestro]]*
+* *[[Shows/Process|Process]]*
 * *[[Puppet Katamari]]* (composer)
-* *[[Shows/Racket]]* (performer)
-* *[[Troupes/Revlis]]*
-* *[[Shows/Rock]]* (co-director)
+* *[[Shows/Racket|Racket]]* (performer)
+* *[[Troupes/Revlis|Revlis]]*
+* *[[Shows/Rock|Rock]]* (co-director)
 * *[[Same Year's Eve]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/TheatreSports]]*
-* *[[Shows/The Trouble With Terry]]* (composer)
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/TheatreSports|TheatreSports]]*
+* *[[Shows/The Trouble With Terry|The Trouble With Terry]]* (composer)
 
 ## Festivals
 ### Local Festivals

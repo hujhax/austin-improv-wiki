@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Improv Anonymous.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for an *[[Shows/Improv Anonymous]]* performance in Oklahoma City.
+Publicity art for an *[[Shows/Improv Anonymous|Improv Anonymous]]* performance in Oklahoma City.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

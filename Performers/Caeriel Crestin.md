@@ -26,23 +26,23 @@ He's also taken classes at [[The Institution Theater]] as well as the UCB Theatr
 He is a regular cast member of the Flying Theater Machine.
 
 ## Troupes
-* [[Troupes/Stone Airplane]]
-* [[Troupes/Wait OK Now]]
+* [[Troupes/Stone Airplane|Stone Airplane]]
+* [[Troupes/Wait OK Now|Wait OK Now]]
 
 ## Shows
-* *[[Shows/History Under the Influence]]* (performer)
-* *[[Shows/The International Improv Experience]]*(performer)
+* *[[Shows/History Under the Influence|History Under the Influence]]* (performer)
+* *[[Shows/The International Improv Experience|The International Improv Experience]]*(performer)
 * *[[The Austin Improv Podcast]]*(creator, producer, performer)
-* *[[Shows/Fakespeare]]* (performer)
-* *[[Shows/Flying Theater Machine]]* (performer)
-* *[[Shows/Hurly Burly]]* (performer)
-* *[[Shows/Rock]]*(performer)
-* *[[Shows/Peter Pan and the Great Unknown]]* (performer)
-* *[[Shows/What the F@$]]* (co-director)
-* *[[Shows/Close Up]]* (creator, co-director)
-* *[[Shows/183 Dewberry Lane]]* (creator, director)
-* *[[Wizard School]]*-*[[Shows/Flying Theater Machine]]* (creator, director, performer)
-* *[[Three Wishes]]*-*[[Shows/Flying Theater Machine]]* (creator, director, performer)
-* *[[Spoonful of Sugar]]*-*[[Shows/Flying Theater Machine]]* (creator, director, performer)
+* *[[Shows/Fakespeare|Fakespeare]]* (performer)
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (performer)
+* *[[Shows/Hurly Burly|Hurly Burly]]* (performer)
+* *[[Shows/Rock|Rock]]*(performer)
+* *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]* (performer)
+* *[[Shows/What the F@$|What the F@$]]* (co-director)
+* *[[Shows/Close Up|Close Up]]* (creator, co-director)
+* *[[Shows/183 Dewberry Lane|183 Dewberry Lane]]* (creator, director)
+* *[[Wizard School]]*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
+* *[[Three Wishes]]*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
+* *[[Spoonful of Sugar]]*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
 
 [[Category/Performers|Crestin]]

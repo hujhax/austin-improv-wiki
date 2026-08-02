@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 ## Summary
 The PITS were based out of Westwood High School in North Austin.
 
-They formed in 2003 and became [[Troupes/Comedic Amoeba]] when they acquired new members in 2005.
+They formed in 2003 and became [[Troupes/Comedic Amoeba|Comedic Amoeba]] when they acquired new members in 2005.
 
 The PITS acronym stands for "The Premier Improvisational Theater Society".
 

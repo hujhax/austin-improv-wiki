@@ -28,47 +28,47 @@ By day, Rachel works in public relations at Bhava Communications [http://www.bha
 For a complete list of her performances, check out her performance calendar [https://rachel-austin.squarespace.com/performance-calendar/](https://rachel-austin.squarespace.com/performance-calendar/).
 
 ## Troupes
-* [[Troupes/A Really Aggressive Dream]] (former troupe member)
-* [[Troupes/Physics Curse]]
-* [[Shows/Control Issues]] (former troupe member)
+* [[Troupes/A Really Aggressive Dream|A Really Aggressive Dream]] (former troupe member)
+* [[Troupes/Physics Curse|Physics Curse]]
+* [[Shows/Control Issues|Control Issues]] (former troupe member)
 * [[Coyly Blunt]]
-* [[Troupes/Zarzamora]]
+* [[Troupes/Zarzamora|Zarzamora]]
 * [[Donut Patrol]]
 
 ## Shows
-* [[Shows/Dance Dreams]]
+* [[Shows/Dance Dreams|Dance Dreams]]
 * [[God vs. Devil]]
-* [[Shows/How I Saved the World Over Summer Vacation]]
+* [[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]
 * [[Damn Gina Presents The Nightwatch]]
-* [[Shows/Peter Pan and the Great Unknown]]
+* [[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]
 * [[Coven]]
-* [[Shows/I'll Take the Physical Challenge]]
-* [[Shows/Process]]
+* [[Shows/I'll Take the Physical Challenge|I'll Take the Physical Challenge]]
+* [[Shows/Process|Process]]
 * [[The 47-Hour Improv Marathon]]
-* [[Shows/Origins]]
-* [[Shows/Lonely Star]]
-* [[Shows/A Deed So Dark]] (sound tech)
+* [[Shows/Origins|Origins]]
+* [[Shows/Lonely Star|Lonely Star]]
+* [[Shows/A Deed So Dark|A Deed So Dark]] (sound tech)
 * [[The Tribunal]] (played Mouse)
 * [[The Beach Boys Solve A Mystery]]
-* [[Shows/Nothing And Everything]] (assistant director)
-* [[Shows/The Dahl House]] (sound tech)
-* *[[Shows/The Organ Trail]]* 
+* [[Shows/Nothing And Everything|Nothing And Everything]] (assistant director)
+* [[Shows/The Dahl House|The Dahl House]] (sound tech)
+* *[[Shows/The Organ Trail|The Organ Trail]]* 
 * *[[It's Saturday Night!]]*
-* *[[Shows/Camp Madeuponthespotta]]*
+* *[[Shows/Camp Madeuponthespotta|Camp Madeuponthespotta]]*
 
 ## Festivals
 * Out of Bounds 2017 (Austin, TX)
-	* With [[Troupes/Physics Curse]]
+	* With [[Troupes/Physics Curse|Physics Curse]]
 * Alaska Improv Festival 2017 (Juneau, Alaska)
-	* With [[Troupes/Physics Curse]]
+	* With [[Troupes/Physics Curse|Physics Curse]]
 * Improvised Play Festival(Austin, TX)
-	* With [[Troupes/Physics Curse]]
+	* With [[Troupes/Physics Curse|Physics Curse]]
 * Waffle Fest (Austin, TX)
-	* With [[Troupes/Physics Curse]]
+	* With [[Troupes/Physics Curse|Physics Curse]]
 * Out of Bounds 2016 (Austin, TX)
-	* With [[Troupes/Physics Curse]]
+	* With [[Troupes/Physics Curse|Physics Curse]]
 * Chicago Improv Festival 2016 (Chicago, IL)
-	* With [[Troupes/Physics Curse]]
+	* With [[Troupes/Physics Curse|Physics Curse]]
 
 [[Category/Performers|Austin]]
 [[Category/Techs|Austin]]

@@ -14,19 +14,19 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Performers/Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a> (2015-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a> (2015-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Performers/Robert Slack</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Performers/Suzanne Link</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Performers/Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -127,8 +127,8 @@ Faceless - Golden uses full neutral mask in a montage format.
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
-	* [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier]] of the same show.
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208132350132913.1073741876.1425495839&type=3) by [[Performers/Jay Mahavier]] of their 9/20/15 performance in *[[Shows/The Weekender]]*.
+	* [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the same show.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208132350132913.1073741876.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of their 9/20/15 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

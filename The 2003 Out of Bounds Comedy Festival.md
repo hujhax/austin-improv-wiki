@@ -5,17 +5,17 @@
 ## Acts
 ### Local Acts
 * [[Catch 24]]
-* [[Troupes/Ed 32]]
+* [[Troupes/Ed 32|Ed 32]]
 * [[Edmond Bulldogs]]
-* [[Troupes/First Round Draft]]
+* [[Troupes/First Round Draft|First Round Draft]]
 * [[Gag Reflex]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/Gravy]]
-* [[Troupes/Heroes of Comedy]]
-* [[Troupes/National Comedy Theatre]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/Gravy|Gravy]]
+* [[Troupes/Heroes of Comedy|Heroes of Comedy]]
+* [[Troupes/National Comedy Theatre|National Comedy Theatre]]
 * [[No Shame Theatre]]
 * [[One Night Band]]
-* [[Troupes/Well Hung Jury]]
+* [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ### Out-of-Town Acts
 * Freudian Slip (College Station)

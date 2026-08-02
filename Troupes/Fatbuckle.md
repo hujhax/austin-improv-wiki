@@ -21,7 +21,7 @@
   --><li style=""><a class="internal-link" href="Jarrad Apperson">Jarrad Apperson</a></li><!--
   --><li style=""><a class="internal-link" href="Jeffery Mills">Jeffery Mills</a></li><!--
   --><li style=""><a class="internal-link" href="Lee Eddy">Lee Eddy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><!--
   --><!--
   --><!--

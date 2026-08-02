@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Jenna Marie Carey">Jenna Marie Carey</a></li><!--
   --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--
   --><li style=""><a class="internal-link" href="Reagan Ward">Reagan Ward</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Performers/Yamina Khouane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/44573854) by [[Performers/Dave alley]] that includes their 6/21/12 performance in *[[Shows/The Threefer]]*.
+* [Video](http://vimeo.com/44573854) by [[Performers/Dave alley|Dave alley]] that includes their 6/21/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/checkbookimprov)

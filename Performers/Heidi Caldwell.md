@@ -29,16 +29,16 @@ She moved to Austin in 2009, and now performs regularly at [[The Institution The
 Heidi is currently studying to be a Certified Therapeutic Recreational Specialist, with an emphasis on Creative Arts Therapy.
 
 ## Troupes
-* [[Troupes/The Better Half]]
-* [[Troupes/Goat]]
-* [[Troupes/IScream Sandwich]]
+* [[Troupes/The Better Half|The Better Half]]
+* [[Troupes/Goat|Goat]]
+* [[Troupes/IScream Sandwich|IScream Sandwich]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Harmony)
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (director)
 * *[[Live TV Tuesdays -  Party of Five]]* (director)]
-* *[[Shows/Manson -  The Musical]]*  (Gypsy, Abigail Folger)
-* *[[Shows/Not This American Life]]*
-* *[[Shows/Thinning The Herd]]*
+* *[[Shows/Manson -  The Musical|Manson -  The Musical]]*  (Gypsy, Abigail Folger)
+* *[[Shows/Not This American Life|Not This American Life]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 [[Category/Performers|Caldwell]]

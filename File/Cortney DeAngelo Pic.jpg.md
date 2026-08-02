@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cortney DeAngelo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Cortney DeAngelo]], in the 10/28/11 performance of *[[Troupes/EPIC!]]*.
+[[Performers/Cortney DeAngelo|Cortney DeAngelo]], in the 10/28/11 performance of *[[Troupes/EPIC!|EPIC!]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.233907226672801.61526.221927764537414&type=3).
 ## Licensing

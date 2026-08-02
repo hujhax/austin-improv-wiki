@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Engrevalle">Brian Engrevalle</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
   --><li style=""><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
   --><!--
@@ -77,10 +77,10 @@
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We start each scene in gibberish to get to heighten the emotion, then we switch to English</blockquote>
 
 ## History
-The troupe played in the 2009 "Theater of Cruelty" *[[Shows/Cagematch]]*.
+The troupe played in the 2009 "Theater of Cruelty" *[[Shows/Cagematch|Cagematch]]*.
 
 ## More Information
-* [Thread listing the troupe](http://forum.austinimprov.com/viewtopic.php?t=10172) in the *[[Shows/Cagematch]]* roster on [[The Austin Improv Forums]].
+* [Thread listing the troupe](http://forum.austinimprov.com/viewtopic.php?t=10172) in the *[[Shows/Cagematch|Cagematch]]* roster on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

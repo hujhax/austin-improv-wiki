@@ -22,7 +22,7 @@
 **Madi Goff** is an actress and improv performer.
 
 ## History
-Madi started improvising in 2008 with [[Troupes/ComedySportz]].  Shortly afterwards, she started taking classes with [[Performers/Shana Merlin]] and [[The Hideout Theatre]].
+Madi started improvising in 2008 with [[Troupes/ComedySportz|ComedySportz]].  Shortly afterwards, she started taking classes with [[Performers/Shana Merlin|Shana Merlin]] and [[The Hideout Theatre]].
 
 Over the next few years, Madi performed in longform shows with [[Gnap! Theater Projects]].
 
@@ -31,16 +31,16 @@ In 2011, she moved to Los Angeles.  Since then, she's performed with Impro Theat
 She currently works as administrator for the Impro Theatre School in Los Angeles.
 
 ## Troupes
-* [[Troupes/ComedySportz]]
-* [[Troupes/The Dancy Street D'Orchestra]]
+* [[Troupes/ComedySportz|ComedySportz]]
+* [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 
 ## Shows
 * *[[69 Love Scenes]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Crack!]]*
 * *[[Dusk]]*
-* *[[Shows/Guilds Of Steel]]*
-* *[[Shows/Heist!]]*
-* *[[Shows/One More Night]]*
+* *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
+* *[[Shows/Heist!|Heist!]]*
+* *[[Shows/One More Night|One More Night]]*
 
 [[Category/Performers|Goff]]

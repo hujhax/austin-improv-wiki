@@ -3,25 +3,25 @@
 
 It will run from 4/14/15 through 4/16/15.
 
-It is produced by [[Performers/Thedward Blevins]].
+It is produced by [[Performers/Thedward Blevins|Thedward Blevins]].
 
 ## Acts
 ### Local Acts
-* *[[Shows/Austin Secrets]]*
-* [[Troupes/Austin-Austin]]
-* *[[Shows/Boy, Howdy!]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* [[Troupes/Austin-Austin|Austin-Austin]]
+* *[[Shows/Boy, Howdy!|Boy, Howdy!]]*
 * *[[Express Yourself]]*
 * *[[The Fitzgeralds Save the World]]*
-* The Half-Written Play, a Physical Plant Theater & [[Performers/Jon Bolden]] Project
-* *[[Shows/Origins]]*
-* [[Troupes/Parallelogramophonograph]] 
+* The Half-Written Play, a Physical Plant Theater & [[Performers/Jon Bolden|Jon Bolden]] Project
+* *[[Shows/Origins|Origins]]*
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
 * [[The Reason]]
-* *[[Shows/Teenage Wasteland]]*
+* *[[Shows/Teenage Wasteland|Teenage Wasteland]]*
 
 ### Out-of-Town Acts
 * Bunker 13 (Seattle)
 * Instant Theatre (Vancouver)
-* [[Troupes/An Englishman and a Belle]] - [[Performers/Mark Tindle]]/[[Performers/Aspen Webster]] (London/Austin)
+* [[Troupes/An Englishman and a Belle|An Englishman and a Belle]] - [[Performers/Mark Tindle|Mark Tindle]]/[[Performers/Aspen Webster|Aspen Webster]] (London/Austin)
 * Ten Thousand Million Love Stories (London)
 
 ## More Information

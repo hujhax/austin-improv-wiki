@@ -22,36 +22,36 @@
 **Brad Hawkins** is an improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
 
 ## History
-A native of Cedar Rapids, Iowa, Hawkins moved to Austin in 1999. He became interested in improv after watching a [[Troupes/Confidence Men]] show in mid-2010. He has taken classes at [[The Hideout Theatre]] and [[The Institution Theater]]. He took his first improv class on June 19, 2010, and performed in his first show on September 17, 2010.
-After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[Troupes/Three Hot Chicks]]. Since then, he has been a member of the troupes [[Troupes/The Walk-Ons]], [[Troupes/Franz & Dave]], [[Troupes/Who Dack]], [[Troupes/Epic]], [[Troupes/¡ZARZAMORA!]], and [[Troupes/Your Dad's Friends]], and was a founding member of [[Troupes/Goat]]. In 2014 he directed his first mainstage show, *[[Shows/Trust No One]]*, followed by *[[Shows/You Can't Stay Here]]* the following year.
+A native of Cedar Rapids, Iowa, Hawkins moved to Austin in 1999. He became interested in improv after watching a [[Troupes/Confidence Men|Confidence Men]] show in mid-2010. He has taken classes at [[The Hideout Theatre]] and [[The Institution Theater]]. He took his first improv class on June 19, 2010, and performed in his first show on September 17, 2010.
+After attending the [[Out of Bounds Comedy Festival]] in 2010, he co-founded [[Troupes/Three Hot Chicks|Three Hot Chicks]]. Since then, he has been a member of the troupes [[Troupes/The Walk-Ons|The Walk-Ons]], [[Troupes/Franz & Dave|Franz & Dave]], [[Troupes/Who Dack|Who Dack]], [[Troupes/Epic|Epic]], [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]], and [[Troupes/Your Dad's Friends|Your Dad's Friends]], and was a founding member of [[Troupes/Goat|Goat]]. In 2014 he directed his first mainstage show, *[[Shows/Trust No One|Trust No One]]*, followed by *[[Shows/You Can't Stay Here|You Can't Stay Here]]* the following year.
 
 ## Troupes
-* [[Troupes/¡ZARZAMORA!]]
-* [[Troupes/Franz & Dave]]
-* [[Troupes/Century]]
-* [[Troupes/Goat]]
-* [[Troupes/Three Hot Chicks]]
-* [[Troupes/The Walk-Ons]]
-* [[Troupes/Who Dack]]
-* [[Troupes/Your Dad's Friends]]
-* [[Troupes/Taxicab Impressions]]
+* [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
+* [[Troupes/Franz & Dave|Franz & Dave]]
+* [[Troupes/Century|Century]]
+* [[Troupes/Goat|Goat]]
+* [[Troupes/Three Hot Chicks|Three Hot Chicks]]
+* [[Troupes/The Walk-Ons|The Walk-Ons]]
+* [[Troupes/Who Dack|Who Dack]]
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
+* [[Troupes/Taxicab Impressions|Taxicab Impressions]]
 * [[Alpha Quest]]
 
 ## Shows
 ### Improvised
-* *[[Shows/Family Tides]]*
+* *[[Shows/Family Tides|Family Tides]]*
 * *[[Magna Veritas]]*
-* *[[Shows/Pocketful of Posies]]*
-* *[[Shows/The Black Vault]]*
-* *[[Shows/The Next Chapter]]*
-* *[[Shows/Trust No One]]* (directed)
-* *[[Shows/Kenjutsu]]*
-* *[[Shows/Grimm Noir]]*
-* *[[Shows/You Can't Stay Here]]* (directed)
-* *[[Shows/Tall Tales of the High Seas]]*
+* *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
+* *[[Shows/The Black Vault|The Black Vault]]*
+* *[[Shows/The Next Chapter|The Next Chapter]]*
+* *[[Shows/Trust No One|Trust No One]]* (directed)
+* *[[Shows/Kenjutsu|Kenjutsu]]*
+* *[[Shows/Grimm Noir|Grimm Noir]]*
+* *[[Shows/You Can't Stay Here|You Can't Stay Here]]* (directed)
+* *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]*
 * *[[All Hell Breaks Loose]]*
 
 ### Non-Improvised
 * *[[Live TV Tuesdays -  Felicity]]*
-* *[[Shows/The Cherry Bowl]]*
+* *[[Shows/The Cherry Bowl|The Cherry Bowl]]*
 [[Category/Performers|Hawkins]]

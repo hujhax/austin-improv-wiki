@@ -70,7 +70,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Performers/Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -129,7 +129,7 @@
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3) by [[Performers/Dave alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3) by [[Performers/Dave alley|Dave alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos
 * [Video](http://vimeo.com/117435963) by [[Kyle Sweeney]] of their 1/16/15 show.

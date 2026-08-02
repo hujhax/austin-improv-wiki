@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Glamazon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Glamazon]].
+Publicity image for [[Troupes/Glamazon|Glamazon]].
 
 Art by: unknown.
 ## Licensing

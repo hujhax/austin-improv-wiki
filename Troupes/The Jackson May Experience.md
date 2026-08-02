@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Performers/Erika May McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Jackson May Experience** was a one-off *[[Shows/Cagematch]]* duo.
+**The Jackson May Experience** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 4/3/10

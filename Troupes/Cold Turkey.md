@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Adam Sullivan">Adam Sullivan</a></li><!--
   --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Performers/Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style=""><a class="internal-link" href="Katherine Johnson">Katherine Johnson</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Bremen">Sam Bremen</a></li><!--
   --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Cold Turkey** was a one-off *[[Shows/Cagematch]]* team that did an "improvised intervention".
+**Cold Turkey** was a one-off *[[Shows/Cagematch|Cagematch]]* team that did an "improvised intervention".
 
 ## History
 They played one Cagematch on 5/11/12.

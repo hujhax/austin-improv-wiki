@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Christie Grace">Christie Grace</a></li><!--
   --><li style=""><a class="internal-link" href="Dan Grimm">Dan Grimm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Performers/Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah Price">Sarah Price</a></li><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote><p>Narwhal, [[Christie Grace]], [[Sarah Price]], [[Dan Grimm]] and [[Performers/Patrick Knisely]], formed in early 2011, deciding to make an official troupe after nearly two years worth of playing in various shows and ensembles together.</p> 
+Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote><p>Narwhal, [[Christie Grace]], [[Sarah Price]], [[Dan Grimm]] and [[Performers/Patrick Knisely|Patrick Knisely]], formed in early 2011, deciding to make an official troupe after nearly two years worth of playing in various shows and ensembles together.</p> 
 
 <p>A mixture of fast and slow paced comedy, Narwhal throws out a handful of scenes through their show and brings them all home together weaving the storylines together in the end.</p></blockquote>
 
@@ -88,7 +88,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [Performance video.](http://vimeo.com/21101180)
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/NarwhalImprov)

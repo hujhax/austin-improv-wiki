@@ -18,9 +18,9 @@
   --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
   --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
   --><li style=""><a class="internal-link" href="Kathleen McFerren">Kathleen McFerren</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Performers/Nichole Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Timothy Coyle">Performers/Timothy Coyle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Timothy Coyle">Timothy Coyle</a></li><!--
   --><li style=""><a class="internal-link" href="Zach Leos">Zach Leos</a></li><!--
   --><!--
   --><!--
@@ -93,13 +93,13 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 
 ### Shows
 [[Hideout Theatre]]
-* [[Shows/Free Fringe]] 2014
-* [[Shows/The Threefer]] 2014 - current
-* [[Shows/The Weekender]] 2015 - current
+* [[Shows/Free Fringe|Free Fringe]] 2014
+* [[Shows/The Threefer|The Threefer]] 2014 - current
+* [[Shows/The Weekender|The Weekender]] 2015 - current
 
 [[Coldtowne Theater]]
-* [[Shows/The Monday Night Mash]] 2015 - current
-* [[Shows/The Cagematch]] 2015 - current
+* [[Shows/The Monday Night Mash|The Monday Night Mash]] 2015 - current
+* [[Shows/The Cagematch|The Cagematch]] 2015 - current
 
 [[The Institution Theater]]
 * [[The Improv Mixtape]] 2015 - current
@@ -109,29 +109,29 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 * [[KNOCK-OUT]] 2016 - current
 
 ### Coaches
-* [[Performers/Robert Slack]] was an original member of the troupe and coach, bringing his Improv and acting experience to the troupe.
+* [[Performers/Robert Slack|Robert Slack]] was an original member of the troupe and coach, bringing his Improv and acting experience to the troupe.
 
-* [[Performers/Ceej Allen]] was instrumental of the concept used for the format, has been a member of the AIC since 2003 is also adding his own flavor and touch as a coach
+* [[Performers/Ceej Allen|Ceej Allen]] was instrumental of the concept used for the format, has been a member of the AIC since 2003 is also adding his own flavor and touch as a coach
 
 ### Troupe Members History
 Started as a Free Fringe :
-* *[[Ceej Character Explosion]]* ([[Performers/Ceej Allen]])
+* *[[Ceej Character Explosion]]* ([[Performers/Ceej Allen|Ceej Allen]])
 
 Debuted February 12, 2015 in the Threefer as a troupe
 
-Original Members of the troupe include [[Performers/Cagney Ortiz]], [[Performers/Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Performers/Robert Slack]], [[Performers/Tim Coyle]] and [[Sushant Sethi]].
+Original Members of the troupe include [[Performers/Cagney Ortiz|Cagney Ortiz]], [[Performers/Joy Parks|Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Performers/Robert Slack|Robert Slack]], [[Performers/Tim Coyle|Tim Coyle]] and [[Sushant Sethi]].
 
-The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Performers/Ceej Allen]].  
+The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Performers/Ceej Allen|Ceej Allen]].  
 
 ### Alumni
 Alumni
 <div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Performers/Chris Villafano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Performers/Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Performers/Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
   --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
@@ -180,7 +180,7 @@ Alumni
 
 ## Media
 ### Videos
-* [Video of the troupe's "plank-a-thon"](http://www.youtube.com/watch?v=Q4giLqTx2Rw) from the 2/12/15 *[[Shows/Free Fringe]]*.
+* [Video of the troupe's "plank-a-thon"](http://www.youtube.com/watch?v=Q4giLqTx2Rw) from the 2/12/15 *[[Shows/Free Fringe|Free Fringe]]*.
 * [Video of the troupe's "Improv Mixtape"](http://www.youtube.com/watch?v=6ltXQG2Ye-A) from the 4/13/15 *[[The Institution Theater]]*.
 * [Character Explosion's YouTube channel](https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw)
 

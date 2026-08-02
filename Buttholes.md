@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
   --><li style=""><a class="internal-link" href="John Carroll">John Carroll</a></li><!--
   --><li style=""><a class="internal-link" href="Hannah Monson">Hannah Monson</a></li><!--
   --><li style=""><a class="internal-link" href="Elena Martinez">Elena Martinez</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Buttholes** (often written in all caps: **BUTTHOLES**) is a group consisting of [[Performers/Mia Iseman]], [[Elena Martinez]], [[Hannah Monson]], and [[John Carroll]].
+**Buttholes** (often written in all caps: **BUTTHOLES**) is a group consisting of [[Performers/Mia Iseman|Mia Iseman]], [[Elena Martinez]], [[Hannah Monson]], and [[John Carroll]].
 
 ## Summary
 The quartet perform character-driven "butt" shows with a focus on pacing, heightening, and strong character relationships.

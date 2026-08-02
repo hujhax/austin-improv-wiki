@@ -16,7 +16,7 @@ __NOINDEX__
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
@@ -25,15 +25,15 @@ __NOINDEX__
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Ruby</a></li><!--
   --><!--
   --><!--
@@ -79,7 +79,7 @@ __NOINDEX__
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Cindy Page]]</td>
+			<td class="category">[[Performers/Cindy Page|Cindy Page]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -102,7 +102,7 @@ Prior to the show, the cast would mingle with the audience outside the box offic
 
 Then cast and audience alike would move to the upstairs theater, which had been reconfigured into a "theater in the round" arrangement, with bleachers arranged on all sides, and very few chairs to sit in.  Instead, pillows and cushions were strewn about on the bleachers.  The cast would seat themselves randomly around the room, alongside the audience.  Ideally, the audience would have no idea who was part of the cast and who was part of the audience.
 
-Then, the director for the evening ([[Performers/Andy Crouch]]) would enter and re-establish the basic conceit of the show: that they were all there for the final last rehearsal of a scripted show that the Hideout was putting up the following week.  (At this point, Andy would usually wink at the audience and whisper that it wasn't a real show.)  Then, he'd announce that he needed to warm up all the actors.  At this point, cast members (or, technically, anyone who wanted to, but in practice it was always only ever cast members) would lead the crowd in improv warm-ups like a rock-paper-scissors tournament.
+Then, the director for the evening ([[Performers/Andy Crouch|Andy Crouch]]) would enter and re-establish the basic conceit of the show: that they were all there for the final last rehearsal of a scripted show that the Hideout was putting up the following week.  (At this point, Andy would usually wink at the audience and whisper that it wasn't a real show.)  Then, he'd announce that he needed to warm up all the actors.  At this point, cast members (or, technically, anyone who wanted to, but in practice it was always only ever cast members) would lead the crowd in improv warm-ups like a rock-paper-scissors tournament.
 
 After ten or fifteen minutes of that, the director would brandish the "script" -- clearly a sheaf of blank pages -- solemnly announcing that they had their copy of the play.  The director would then hand of the pages to a member of the cast, who would then act as the show's "script supervisor" for the evening.
 
@@ -117,9 +117,9 @@ Finally, before the last stretch of the show, the director would announce we wou
 The director would finish the show, announcing to the audience that they'd had a great, productive rehearsal, and the show would open next week (with one last wink and nod that no, it really wouldn't).
 
 ## History
-[[Performers/Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of [[Wikipedia - Dionysus in '69 (theatrical production)|*Dionysus in '69*]] by the [[Wikipedia - Rude Mechanicals (theater company)|Rude Mechanicals]].  He was inspired to make something equally transgressive and raw in the world of improv.
+[[Performers/Andy Crouch|Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of [[Wikipedia - Dionysus in '69 (theatrical production)|*Dionysus in '69*]] by the [[Wikipedia - Rude Mechanicals (theater company)|Rude Mechanicals]].  He was inspired to make something equally transgressive and raw in the world of improv.
 
-Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Performers/Peter Rogers]] was the first of the cast to get completely naked onstage for the production, with [[Performers/Jordan T. Maxwell]] following soon after.
+Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Performers/Peter Rogers|Peter Rogers]] was the first of the cast to get completely naked onstage for the production, with [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] following soon after.
 
 The mainstage show ran through July and August in 2011, selling out often weeks in advance, and breaking all prior Hideout records for early sales.
 
@@ -144,18 +144,18 @@ Videography was expressly forbidden at *Live Nude Improv*, so there are no extan
 * [A SFW photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.143207455760286.39010.100002130980897&type=3) by [[Steve Rogers]] of the 7/16/11 show.
 * [A SFW photoset](http://www.facebook.com/michael.yew/media_set?set=a.1892337190892.93012.1315383518&type=3) by [[Michael Yew]] of the 7/30/11 show.
 * [A SFW photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.152074441540254.40967.100002130980897&type=3) by [[Steve Rogers]] of the 8/6/11 show.
-* [A SFW photoset](http://www.facebook.com/Jonbolden/media_set?set=a.557996094953.2045843.76200304&type=3) by [[Performers/Jon Bolden]] of the 8/20/11 show.
+* [A SFW photoset](http://www.facebook.com/Jonbolden/media_set?set=a.557996094953.2045843.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] of the 8/20/11 show.
 * [A SFW photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.162739760473722.43226.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show.
 * [A SFW photoset](http://www.facebook.com/media/set/?set=a.525820724148115.1073741858.221927764537414&type=3) by [[Steve Rogers]] of their 4/13/13 performance at [[The 2013 Improvised Play Festival]].
 
 ## More Information
 * [The show's web site.](http://www.hideouttheatre.com/shows/livenudeimprov)
 * ["Thoughts on Live Nude Improv"](http://www.hideouttheatre.com/thoughts-on-live-nude-improv): a blog post interviewing the cast on why they chose to participate in *Live Nude Improv*.
-* ["Nude Rangers: Assemble!"](http://www.hideouttheatre.com/nuderangersassemble): a blog post from [[Performers/Jordan T. Maxwell]] about the cast.
+* ["Nude Rangers: Assemble!"](http://www.hideouttheatre.com/nuderangersassemble): a blog post from [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] about the cast.
 * [An article from *The Austin Chronicle* about the show.](http://www.austinchronicle.com/blogs/arts/2011-08-11/live-nude-improv/)
 * [The "Best of Austin" award for the show.](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=1261035)
 * [An interview with Andy Crouch about the show.](http://theflintpodcast.com/2012/02/20/ep-17-live-nude-improv-with-andy-crouch/)
-* [A blog post about seeing the *Live Nude Improv* performance](http://yesandrew.com/2013/04/14/live-nude-improv/) at [[The Improvised Play Festival]] from [[Performers/Andrew Buck]].
+* [A blog post about seeing the *Live Nude Improv* performance](http://yesandrew.com/2013/04/14/live-nude-improv/) at [[The Improvised Play Festival]] from [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

@@ -22,12 +22,12 @@
 **Joy Parks** is an improv performer, and an instructor with [[Building Connections]].
 
 ## Troupes
-* [[Troupes/Character Explosion]]
+* [[Troupes/Character Explosion|Character Explosion]]
 
 ## Shows
-* *[[Shows/SongRunner]]*
-* *[[Shows/Fiasco]]* (stage manager)
-* *[[Shows/The Secret Life of Inanimate Objects]]*
+* *[[Shows/SongRunner|SongRunner]]*
+* *[[Shows/Fiasco|Fiasco]]* (stage manager)
+* *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
 
 [[Category/Performers|Parks]]
 [[Category/Teachers|Parks]]

@@ -22,30 +22,30 @@
 **Troy Miller** is an improv performer, director, and teacher.
 
 ## History
-Troy started taking improv classes at [[The Hideout Theatre]] in September 2001, and started performing in *[[Shows/Maestro]]* there in early 2002.
+Troy started taking improv classes at [[The Hideout Theatre]] in September 2001, and started performing in *[[Shows/Maestro|Maestro]]* there in early 2002.
 
 He was a core cast member in both [[The 40-Hour Improv Marathon]] and [[The 42-Hour Improv Marathon]].
 
 ## Troupes
-* [[Troupes/Brain Trust]]
-* [[Troupes/Confidence Men]]
-* [[Troupes/Danger! Warning! Improv!]]
-* [[Troupes/Foolish Mortals]]
-* [[Troupes/Junk]]
-* [[Troupes/We Could Be Heroes]]
-* [[Troupes/Ball&Chain]]
+* [[Troupes/Brain Trust|Brain Trust]]
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
+* [[Troupes/Foolish Mortals|Foolish Mortals]]
+* [[Troupes/Junk|Junk]]
+* [[Troupes/We Could Be Heroes|We Could Be Heroes]]
+* [[Troupes/Ball&Chain|Ball&Chain]]
 
 ## Shows
-* *[[Shows/Cops & Lawyers]]* (co-director)
-* *[[Shows/Fakespeare]]* (Conrade / Duncan)
-* *[[Shows/Hitchcocked!]]* (co-director)
-* *[[Shows/Improvised Shakespeare]]*
-* *[[Shows/Ka-Baam!!]]*
-* *[[Shows/Manhattan Stories]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]* (co-director)
-* *[[Shows/Start Trekkin']]* (co-director)
-* *[[Shows/Twilight Zoned]]* (co-director)
-* *[[Shows/The Violet Underbelly]]*
+* *[[Shows/Cops & Lawyers|Cops & Lawyers]]* (co-director)
+* *[[Shows/Fakespeare|Fakespeare]]* (Conrade / Duncan)
+* *[[Shows/Hitchcocked!|Hitchcocked!]]* (co-director)
+* *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
+* *[[Shows/Manhattan Stories|Manhattan Stories]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]* (co-director)
+* *[[Shows/Start Trekkin'|Start Trekkin']]* (co-director)
+* *[[Shows/Twilight Zoned|Twilight Zoned]]* (co-director)
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 [[Category/Performers|Miller]]
 [[Category/Directors|Miller]]

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
@@ -47,19 +47,19 @@ The premise is simple: two soldiers from your unit – private Magpie and corpor
 http://leavingmundania.com/2014/08/17/j-tuomas-harviainen-larp-collection/
 
 #### Cast
-* [[Performers/Chris Albano]]
+* [[Performers/Chris Albano|Chris Albano]]
 * [[Leonard Balsera]]
-* [[Performers/Jeff Britt]]
+* [[Performers/Jeff Britt|Jeff Britt]]
 * [[Ericka Bundy]]
 * [[Terra Chirieleison]]
-* [[Performers/Cat Drago]]
-* [[Performers/Heidi Penix]]
-* [[Performers/Lacy Shawn]]
-* [[Performers/Luke Wallens]]
-* [[Performers/Chris Villafano]]
-* [[Performers/David Lampe]]
-* [[Performers/Ryan Austin]]
-* [[Performers/Rachel Posey Austin]]
+* [[Performers/Cat Drago|Cat Drago]]
+* [[Performers/Heidi Penix|Heidi Penix]]
+* [[Performers/Lacy Shawn|Lacy Shawn]]
+* [[Performers/Luke Wallens|Luke Wallens]]
+* [[Performers/Chris Villafano|Chris Villafano]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Ryan Austin|Ryan Austin]]
+* [[Performers/Rachel Posey Austin|Rachel Posey Austin]]
 
 ### Previous Occupants
 This show played on May 16, 2015. 
@@ -72,9 +72,9 @@ http://scenariofestival.se/archive/scenarios-2013/previous-occupants/
 
 #### Cast
 * Husband: [[JM Specht]]
-* Wife: [[Performers/Jayme Ramsay]]
-* Boyfriend: [[Performers/Brandon Martin]]
-* Girlfriend: [[Performers/Aspen Webster]]
+* Wife: [[Performers/Jayme Ramsay|Jayme Ramsay]]
+* Boyfriend: [[Performers/Brandon Martin|Brandon Martin]]
+* Girlfriend: [[Performers/Aspen Webster|Aspen Webster]]
 
 ### Juggernaut
 "It is July third, 1950. The Korean War is eight days old. National Security Council Report 68 is sitting on Harry Truman’s desk, a grim outline of the Cold War that is to enfold the world for the next 40 years. Alan Turing’s paper “Computing Machinery and Intelligence” is circulating for review. Cinderella is a box office sensation.
@@ -88,14 +88,14 @@ http://www.bullypulpitgames.com/games/juggernaut/
 This show played on May 23, 2015. 
 #### Cast
 * Dr. Takahashi: [[Angie Alegria Smith]]
-* Dr. Dörflinger: [[Performers/Emily Breedlove]]
+* Dr. Dörflinger: [[Performers/Emily Breedlove|Emily Breedlove]]
 * Chandrakar: [[Sushant Sethi]]
-* Major Van Der Meer: [[Performers/Brad Hawkins]]
-* Simms: [[Performers/Peter Rogers]]
-* Brasseau: [[Performers/Ryan Hill]]
+* Major Van Der Meer: [[Performers/Brad Hawkins|Brad Hawkins]]
+* Simms: [[Performers/Peter Rogers|Peter Rogers]]
+* Brasseau: [[Performers/Ryan Hill|Ryan Hill]]
 
 ### Icebox
-This was a customized format written by [[Performers/Marc Majcher]] that told the story of a [[Wikipedia - Generation ship|generation ship]] whose mission went horribly awry.
+This was a customized format written by [[Performers/Marc Majcher|Marc Majcher]] that told the story of a [[Wikipedia - Generation ship|generation ship]] whose mission went horribly awry.
 
 http://www.drivethrucards.com/product/149806/Icebox-Decompression
 
@@ -103,13 +103,13 @@ This show played on May 30, 2015.
 
 #### Cast
 * [[Ripley Adams]]
-* [[Performers/Jessica Arjet]]
-* [[Performers/Chad Wellington]]
-* [[Performers/Heidi Rogers]]
-* [[Performers/JR Zambrano]]
-* [[Performers/Justin Davis]]
-* [[Performers/Jeanette Jones]]
-* [[Performers/Mike Kinald]]
+* [[Performers/Jessica Arjet|Jessica Arjet]]
+* [[Performers/Chad Wellington|Chad Wellington]]
+* [[Performers/Heidi Rogers|Heidi Rogers]]
+* [[Performers/JR Zambrano|JR Zambrano]]
+* [[Performers/Justin Davis|Justin Davis]]
+* [[Performers/Jeanette Jones|Jeanette Jones]]
+* [[Performers/Mike Kinald|Mike Kinald]]
 
 ## Media
 ### Videos

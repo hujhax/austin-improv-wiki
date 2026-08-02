@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -69,23 +69,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Performers/Tosin awofeso]]</td>
+			<td class="category">[[Performers/Tosin awofeso|Tosin awofeso]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Performers/Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Adriane Shown</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Brooke Beltane</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Eureka Smoke</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Foxy Cakes</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Performers/Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Lulu La Mer</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Performers/Paul Normandin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Rosie Dear</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Performers/Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Wilhelmina Wyldehart</a></li><!--
   --><!--
   --><!--
@@ -129,7 +129,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
@@ -208,10 +208,10 @@ It then ran Fridays in February and March of 2015, and was part of [[The 2015 Im
 * [An improvised song from one of the shows.](http://youtu.be/VWx0ht1g-9Y)
 
 ### Photos
-* [Photoset](http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3) by [[Performers/Peter Rogers]] of their show in [[The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their show in [[The 45-Hour Improv Marathon]].
 
 ## More Information
 * [Audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17121) in [[The Austin Improv Forums]].
-* [Review](http://yesandrew.com/2014/06/14/6305/) by [[Performers/Andrew Buck]].
+* [Review](http://yesandrew.com/2014/06/14/6305/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Shows|Category:Shows]]

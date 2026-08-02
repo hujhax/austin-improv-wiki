@@ -4,7 +4,7 @@ It was first held the weekend of May 1 - 3, 2015 where, over the course of three
 
 The fourth annual Excused Absence Improv Festival will be held August 11-12, 2018.
 
-[[Performers/Kristin Henn]] serves as Managing Director of the festival.
+[[Performers/Kristin Henn|Kristin Henn]] serves as Managing Director of the festival.
 
 <!-- site doesn't appear ready, so commenting out for now
 ## Links

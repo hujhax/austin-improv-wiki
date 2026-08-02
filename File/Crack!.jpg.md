@@ -3,7 +3,7 @@
 ## Summary
 Publicity image for [[Crack!]]
 
-Artwork by [[Performers/Sara Farr]].
+Artwork by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

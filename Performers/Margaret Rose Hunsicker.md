@@ -28,10 +28,10 @@ Margaret is from Orlando where she did improv at the SAK Comedy Lab.
 She is distantly related to American hero and patriot Francis Scott Key.
 
 ## Troupes
-[[Troupes/Channel 2]]
+[[Troupes/Channel 2|Channel 2]]
 
 ## Shows
-* *[[Shows/A Penny Dreadful]]*
-* *[[Shows/You Can't Stay Here]]*
-* *[[Shows/Teenage Wasteland]]*
+* *[[Shows/A Penny Dreadful|A Penny Dreadful]]*
+* *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
+* *[[Shows/Teenage Wasteland|Teenage Wasteland]]*
 [[Category/Performers|Hunsicker]]

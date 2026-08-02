@@ -30,44 +30,44 @@
 ***The Wheel*** is the rotating set of Friday 8pm shows at [[The Hideout Theatre]].
 
 ## History
-*The Wheel* was brought into the Hideout schedule in September 2010 as a replacement for *[[Shows/The Double Barrel]]*.
+*The Wheel* was brought into the Hideout schedule in September 2010 as a replacement for *[[Shows/The Double Barrel|The Double Barrel]]*.
 
 ## The Schedule
-*The Wheel* rotates through the same four shows every month, with show number n happening on the nth Friday of the month.  Sometimes this schedule is thrown off -- say, if SXSW is renting the theater on the 3rd Friday, then *[[Shows/2x4]]* and *[[Shows/Maestro|Maestro RAW]]* get bumped forward a week.  Occasionally, there's an empty "fifth Friday", which is then scheduled at the Hideout's discretion.
+*The Wheel* rotates through the same four shows every month, with show number n happening on the nth Friday of the month.  Sometimes this schedule is thrown off -- say, if SXSW is renting the theater on the 3rd Friday, then *[[Shows/2x4|2x4]]* and *[[Shows/Maestro|Maestro RAW]]* get bumped forward a week.  Occasionally, there's an empty "fifth Friday", which is then scheduled at the Hideout's discretion.
 
 ### 2010-2011 Schedule
 In its original incarnation, the Wheel's schedule looked like this:
-* Week 1: *[[Shows/The Fancy-Pants Mash-Up]]*
-* Week 2: *[[Shows/Pick Your Own Path]]*
-* Week 3: *[[Shows/The Nightmare Video Project]]*
-* Week 4: *[[Shows/Dubbed Indemnity]]*
+* Week 1: *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*
+* Week 2: *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
+* Week 3: *[[Shows/The Nightmare Video Project|The Nightmare Video Project]]*
+* Week 4: *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
 
-Weeks two through four were double-billed with *[[Shows/The Lottery]]*.
+Weeks two through four were double-billed with *[[Shows/The Lottery|The Lottery]]*.
 
 ### Early-2012 Schedule
 In January 2012, the Wheel was revamped to look like this:
-* Week 1: *[[Shows/The Fancy-Pants Mash-Up]]*
-* Week 2: *[[Shows/Pick Your Own Path]]*
-* Week 3: *[[Shows/The Narrative Improv Jam]]*
-* Week 4: *[[Shows/Maestro Raw]]*
+* Week 1: *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*
+* Week 2: *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
+* Week 3: *[[Shows/The Narrative Improv Jam|The Narrative Improv Jam]]*
+* Week 4: *[[Shows/Maestro Raw|Maestro Raw]]*
 
-*[[Shows/The Lottery]]* was retired from the schedule. *[[Shows/Pick Your Own Path]]* went to a double bill, with two consecutive stories in that performance slot.
+*[[Shows/The Lottery|The Lottery]]* was retired from the schedule. *[[Shows/Pick Your Own Path|Pick Your Own Path]]* went to a double bill, with two consecutive stories in that performance slot.
 
-In place of *[[Shows/The Lottery]]*, [[The Hideout]] added a dedicated night for newer improvisors with *[[Shows/Maestro|Maestro RAW]]*.
+In place of *[[Shows/The Lottery|The Lottery]]*, [[The Hideout]] added a dedicated night for newer improvisors with *[[Shows/Maestro|Maestro RAW]]*.
 
 ### 2012-2013 Schedule
-In July 2012, *[[Shows/The Narrative Improv Jam]]* was retired and replaced with *[[Shows/The TV Set]]*.
-* Week 1: *[[Shows/The Fancy-Pants Mash-Up]]*
-* Week 2: *[[Shows/Pick Your Own Path]]*
-* Week 3: *[[Shows/The TV Set]]*
-* Week 4: *[[Shows/Maestro Raw]]*
+In July 2012, *[[Shows/The Narrative Improv Jam|The Narrative Improv Jam]]* was retired and replaced with *[[Shows/The TV Set|The TV Set]]*.
+* Week 1: *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*
+* Week 2: *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
+* Week 3: *[[Shows/The TV Set|The TV Set]]*
+* Week 4: *[[Shows/Maestro Raw|Maestro Raw]]*
 
 ### 2013-Present Schedule
-In May 2013, *[[Shows/The TV Set]]* was retired and replaced with *[[Shows/2x4]]*, a performance slot devoted to duos.
-* Week 1: *[[Shows/The Fancy-Pants Mash-Up]]*
-* Week 2: *[[Shows/Pick Your Own Path]]*
-* Week 3: *[[Shows/2x4]]*
-* Week 4: *[[Shows/Maestro Raw]]*
+In May 2013, *[[Shows/The TV Set|The TV Set]]* was retired and replaced with *[[Shows/2x4|2x4]]*, a performance slot devoted to duos.
+* Week 1: *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*
+* Week 2: *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
+* Week 3: *[[Shows/2x4|2x4]]*
+* Week 4: *[[Shows/Maestro Raw|Maestro Raw]]*
 
 ## More Information
 * [The announcement of the early-2012 schedule.](http://www.hideouttheatre.com/announcing-the-2012-season-and-schedule)

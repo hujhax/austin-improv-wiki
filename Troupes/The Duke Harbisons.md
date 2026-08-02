@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Duke Harbisons** was a one-off *[[Shows/Cagematch]]* team.
+**The Duke Harbisons** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 7/17/10.  

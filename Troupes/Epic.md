@@ -16,22 +16,22 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alex Gray">Alex Gray</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Performers/Alexander Hilary</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brent Unger">Performers/Brent Unger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Performers/Cortney DeAngelo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brent Unger">Brent Unger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style=""><a class="internal-link" href="David C. Wells">David C. Wells</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Edwin Wise">Edwin Wise</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Performers/Jason Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Performers/Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Performers/Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Performers/Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></li><!--
   --><li style=""><a class="internal-link" href="Sophia Hoang">Sophia Hoang</a></li><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@ Our cast will provide the inhabitants of the game world - heroes, villains, mons
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.120952951319070.29866.100002130980897&type=3)  by [[Steve Rogers]] of their 5/1/11 show.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.155464437867921.41673.100002130980897&type=3) by [[Steve Rogers]] of the 8/14/11 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.233907226672801.61526.221927764537414&type=3)  by [[Steve Rogers]] of their 10/28/11 show.
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-29-Triple-Scoop/) by [[Performers/Chad Wellington]] that includes their performance in the 6/29/13 *[[Shows/Triple Scoop]]*.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-29-Triple-Scoop/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their performance in the 6/29/13 *[[Shows/Triple Scoop|Triple Scoop]]*.
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/pages/Epic/197063490307176)

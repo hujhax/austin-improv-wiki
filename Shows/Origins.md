@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Performers/Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
   --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
   --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
   --><li style=""><a class="internal-link" href="Judy Blackshear">Judy Blackshear</a></li><!--
@@ -78,8 +78,8 @@
   --><li style=""><a class="internal-link" href="Paül Ramone Weiner">Paül Ramone Weiner</a></li><!--
   --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a></li><!--
   --><li style=""><a class="internal-link" href="R Lance Hunter">R Lance Hunter</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Performers/Tosin awofeso</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -126,7 +126,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brianna Minks">Brianna Minks</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a> (tech director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (tech director)</li><!--
   --><li style=""><a class="internal-link" href="Monica Wells">Monica Wells</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
   --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a> (stage manager)</li><!--

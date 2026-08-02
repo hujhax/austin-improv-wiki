@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

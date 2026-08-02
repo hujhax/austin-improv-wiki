@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Performers/Mike Sullivan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
   --><!--
   --><!--
@@ -88,7 +88,7 @@ The troupe was founded in the fall of 2010 by all the original cast and disbande
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/11 performance at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1544315339706.2067468.1589679282&type=3) by [[Roy Moore]] that includes their 2/25/11 show at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show at *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show at *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1) by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Dukes of Bedside Manor]]

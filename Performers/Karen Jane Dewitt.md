@@ -32,20 +32,20 @@ She was a core cast member in [[The 42-Hour Improv Marathon]].
 In 2012, she attended the iO Summer Intensive in Chicago.
 
 ## Troupes
-* [[Troupes/BadWitt]]
-* [[Troupes/Bad Font]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/Happy Butter]]
-* [[Troupes/Local Genius Society]]
-* [[Shows/The Professor]]
-* [[Troupes/Sugarbakers]]
+* [[Troupes/BadWitt|BadWitt]]
+* [[Troupes/Bad Font|Bad Font]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/Happy Butter|Happy Butter]]
+* [[Troupes/Local Genius Society|Local Genius Society]]
+* [[Shows/The Professor|The Professor]]
+* [[Troupes/Sugarbakers|Sugarbakers]]
 
 ## Shows
-* *[[Shows/After School Improv]]*
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (Gabriella "Gabi" Romero)
-* *[[Shows/Danger!]]*
-* *[[Shows/I Love You So Much]]*
+* *[[Shows/Danger!|Danger!]]*
+* *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Live TV Tuesdays -  Party of Five]]* (Claudia)
 
 ## More Information

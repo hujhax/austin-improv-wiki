@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="No Chaser.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photos of [[Troupes/No Chaser]], from their web site.
+Publicity photos of [[Troupes/No Chaser|No Chaser]], from their web site.
 
 Photos by: unknown.
 ## Licensing

@@ -23,11 +23,11 @@
 
 ## Shows
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Shows/Totally Improvised, 90210]]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
 
 ## Troupes
-* [[Troupes/Opposites]]
-* [[Troupes/Snackers]]
+* [[Troupes/Opposites|Opposites]]
+* [[Troupes/Snackers|Snackers]]
 
 [[Category/Teachers|Carpenter]]
 [[Category/Performers|Carpenter]]

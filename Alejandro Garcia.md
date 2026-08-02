@@ -23,17 +23,17 @@
 
 
 ## Troupes
-* [[Troupes/Cheap Date]] (2013-2015)
+* [[Troupes/Cheap Date|Cheap Date]] (2013-2015)
 * [[Empty Promises]] (2014-Present)
-* [[Troupes/Lunch Pail]] (2014-2015)
-* [[Troupes/Matt & Alejandro's One Man Show]] (2014-2015)
+* [[Troupes/Lunch Pail|Lunch Pail]] (2014-2015)
+* [[Troupes/Matt & Alejandro's One Man Show|Matt & Alejandro's One Man Show]] (2014-2015)
 Brute Squad
 
-## *[[Shows/Cagematch]]* Teams
-* [[Troupes/Billy Shakes And All-Star Bards]] (2014)
-* [[Troupes/The Level Five]] (2012)
+## *[[Shows/Cagematch|Cagematch]]* Teams
+* [[Troupes/Billy Shakes And All-Star Bards|Billy Shakes And All-Star Bards]] (2014)
+* [[Troupes/The Level Five|The Level Five]] (2012)
 
 
 ## Shows
-* *[[Shows/Beware of Female Spies]]*
-* *[[Shows/The Organ Trail]]*
+* *[[Shows/Beware of Female Spies|Beware of Female Spies]]*
+* *[[Shows/The Organ Trail|The Organ Trail]]*

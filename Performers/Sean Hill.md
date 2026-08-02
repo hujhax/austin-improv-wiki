@@ -22,22 +22,22 @@
 **Sean Hill** is an improv performer, director, and teacher.  He is the founder of [[The Hideout Theatre]], and ran the theater until 2009.
 
 ## History
-A post from him about the first improv show he ever saw:<blockquote>First improv I ever saw was *[[Troupes/ComedySportz]]* at their location on 6th St in Austin. Late 80's.
+A post from him about the first improv show he ever saw:<blockquote>First improv I ever saw was *[[Troupes/ComedySportz|ComedySportz]]* at their location on 6th St in Austin. Late 80's.
 </blockquote>
 
 ## Troupes
-* [[Troupes/The Heroes of Comedy]] (director)
-* [[Troupes/Junk]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] (director)
+* [[Troupes/Junk|Junk]]
 
 ## Shows
-* *[[Shows/Hitchcocked]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]* (director)
-* *[[Shows/Start Trekkin']]* (director)
+* *[[Shows/Hitchcocked|Hitchcocked]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]* (director)
+* *[[Shows/Start Trekkin'|Start Trekkin']]* (director)
 * *[[Shows/Theatresports (mainstage run)|Theatresports]]*
-* *[[Shows/Twilight Zoned]]* (director)
+* *[[Shows/Twilight Zoned|Twilight Zoned]]* (director)
 
 ## More Information
-* [Interview](http://yesandrew.com/the-sunday-interview-sean-hill/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-sean-hill/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Hill]]
 [[Category/Teachers|Hill]]

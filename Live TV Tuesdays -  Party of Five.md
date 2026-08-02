@@ -14,20 +14,20 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Heidi Caldwell">Performers/Heidi Caldwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Performers/Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
   --><li style=""><a class="internal-link" href="Blaine Paradise">Blaine Paradise</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Performers/Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
   --><li style=""><a class="internal-link" href="Christian Huey">Christian Huey</a></li><!--
   --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
   --><li style=""><a class="internal-link" href="Fred Winkler">Fred Winkler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
   --><li style=""><a class="internal-link" href="Roanna Flowers">Roanna Flowers</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Taylor Overstreet">Performers/Taylor Overstreet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><li style=""><a class="internal-link" href="Tyler Reece Booker">Tyler Reece Booker</a></li><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Party of Five*** refers to the *[[Shows/Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode ["The Wedding"](http://www.imdb.com/title/tt0670372/).
+***Live TV Tuesdays: Party of Five*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode ["The Wedding"](http://www.imdb.com/title/tt0670372/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *Party of Five".
@@ -87,13 +87,13 @@ It played exclusively at [[The Highball]].
 
 ## Cast
 * Bailey -- [[Fred Winkler]]
-* Charlie -- [[Performers/Alexander Hilary]]
-* Claudia -- [[Performers/Karen Jane Dewitt]]
+* Charlie -- [[Performers/Alexander Hilary|Alexander Hilary]]
+* Claudia -- [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
 * Ellie -- [[Roanna Flowers]]
 * Gene -- [[Blaine Paradise]]
-* Julia -- [[Performers/Carissa McAtee]]
+* Julia -- [[Performers/Carissa McAtee|Carissa McAtee]]
 * Justin -- [[Christian Huey]]
-* Kirsten -- [[Performers/Taylor Overstreet]]
+* Kirsten -- [[Performers/Taylor Overstreet|Taylor Overstreet]]
 * Sarah -- [[Jessica Simmons]]
 * Will -- [[Cody Melcher]]/[[Tyler Reece Booker]]
 

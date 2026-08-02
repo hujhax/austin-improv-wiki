@@ -27,22 +27,22 @@ Liz Brammer was a company member of [[Gnap! Theater Projects]].
 In 2012, Liz moved to Seattle.
 
 ## Troupes
-* [[Shows/False Matters]]
-* [[Troupes/Sarah 7]]
-* [[Troupes/Total Panic]]
-* [[Troupes/Elevator Action]]
-* [[Troupes/Nesting Dolls]]
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/Sarah 7|Sarah 7]]
+* [[Troupes/Total Panic|Total Panic]]
+* [[Troupes/Elevator Action|Elevator Action]]
+* [[Troupes/Nesting Dolls|Nesting Dolls]]
 
 ## Shows
 * *[[69 Love Scenes]]*
 * *[[Dusk]]*
-* *[[Shows/Eye for an iPhone]]*
-* *[[Shows/Pocketful of Posies]]* (director)
-* *[[Shows/Showdown]]* (Elisabeth Peterson, Johnny Matthews, Angelica)
-* *[[Shows/Spirited]]*
-* *[[Shows/Steam]]* ("The Ingenue," Adelaide McKenna)
-* *[[Troupes/UpTowne]]*
-* *[[Shows/Who is T. Henry Baudecliffe]]*
+* *[[Shows/Eye for an iPhone|Eye for an iPhone]]*
+* *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (director)
+* *[[Shows/Showdown|Showdown]]* (Elisabeth Peterson, Johnny Matthews, Angelica)
+* *[[Shows/Spirited|Spirited]]*
+* *[[Shows/Steam|Steam]]* ("The Ingenue," Adelaide McKenna)
+* *[[Troupes/UpTowne|UpTowne]]*
+* *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
 * *[[ColdTowne Mainstage]]*
 
 ## More Information

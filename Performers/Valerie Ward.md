@@ -22,47 +22,47 @@
 **Valerie Ward** is an improv performer, teacher, coach, and director.
 
 ## History
-Valerie started doing improv in 2001 in college at UT as a member of [[Troupes/Ed 32]].  She then became involved with [[The Hideout Theatre]], and took level 2 there with [[Performers/Shana Merlin]] as her teacher.  She began attending jams and workshops regularly, and became a founding member of [[Troupes/Parallelogramophonograph]]. She has been very involved at The Hideout ever since, as well as participating in shows at various other theatres around town. She has been teaching all levels of adult classes at The Hideout since 2006 and began teaching as part of the Special Needs youth program in 2014. She also coaches groups around town and directs shows for The Hideout. Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
+Valerie started doing improv in 2001 in college at UT as a member of [[Troupes/Ed 32|Ed 32]].  She then became involved with [[The Hideout Theatre]], and took level 2 there with [[Performers/Shana Merlin|Shana Merlin]] as her teacher.  She began attending jams and workshops regularly, and became a founding member of [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]. She has been very involved at The Hideout ever since, as well as participating in shows at various other theatres around town. She has been teaching all levels of adult classes at The Hideout since 2006 and began teaching as part of the Special Needs youth program in 2014. She also coaches groups around town and directs shows for The Hideout. Valerie was one of the core performers in [[The 41-Hour Improv Marathon]].
 
 ## Troupes
 Current:
-* [[Troupes/Parallelogramophonograph]]
-* [[Troupes/Echo Lake]]
-* [[Troupes/Glamazon]]
-* [[Troupes/Pep!]]
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+* [[Troupes/Echo Lake|Echo Lake]]
+* [[Troupes/Glamazon|Glamazon]]
+* [[Troupes/Pep!|Pep!]]
 Past:
-* [[Troupes/Adventure Squad!]]
-* [[Troupes/Ed 32]]
-* [[Troupes/Girl Embassy World Team]]
-* [[Troupes/Rise & Shine]]
-* [[Troupes/Sarah 7]]
-* [[Troupes/The Nesting Dolls]]
+* [[Troupes/Adventure Squad!|Adventure Squad!]]
+* [[Troupes/Ed 32|Ed 32]]
+* [[Troupes/Girl Embassy World Team|Girl Embassy World Team]]
+* [[Troupes/Rise & Shine|Rise & Shine]]
+* [[Troupes/Sarah 7|Sarah 7]]
+* [[Troupes/The Nesting Dolls|The Nesting Dolls]]
 
 ## Shows
-* *[[Shows/I'll Be Home for Christmas]]* (director)
-* *[[Shows/A Deed So Dark]]* (director)
-* *[[Shows/Nothing And Everything]]*
-* *[[Shows/Reform School For Wayward Girls]]*
-* *[[Shows/The Dahl House]]* (director)
+* *[[Shows/I'll Be Home for Christmas|I'll Be Home for Christmas]]* (director)
+* *[[Shows/A Deed So Dark|A Deed So Dark]]* (director)
+* *[[Shows/Nothing And Everything|Nothing And Everything]]*
+* *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
+* *[[Shows/The Dahl House|The Dahl House]]* (director)
 * *[[F. Scott & Zelda Fitzgerald Save The World]]*
-* *[[Shows/A Bedtime Gorey]]* (director) 
-* *[[Shows/Braised in Texas]]*
-* *[[Shows/Manhattan Stories]]* (co-director)
-* *[[Shows/Who is T. Henry Baudecliffe]]*
+* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]* (director) 
+* *[[Shows/Braised in Texas|Braised in Texas]]*
+* *[[Shows/Manhattan Stories|Manhattan Stories]]* (co-director)
+* *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
 * *[[The Tribunal]]*
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * *[[Crack!]]*
-* *[[Shows/After School Improv]]*
-* *[[Shows/Improvised Shakespeare]]*
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
 
 ## Troupes Coached
-* [[Troupes/Escape Hatch]]
-* [[Troupes/Ratliff and Jackson]]
-* [[Troupes/Dudith]]
+* [[Troupes/Escape Hatch|Escape Hatch]]
+* [[Troupes/Ratliff and Jackson|Ratliff and Jackson]]
+* [[Troupes/Dudith|Dudith]]
 
 ## More Information
-* [Interview](http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [An interview](http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short) from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
 * In addition to her improv activities, Valerie is co-owner of [Sweet Ritual Vegan Ice Cream Parlor](http://www.sweetritual.com/).
 

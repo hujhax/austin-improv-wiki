@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -81,21 +81,21 @@
   --><li style=""><a class="internal-link" href="Aaron Seriff-Cullick">Aaron Seriff-Cullick</a></li><!--
   --><li style=""><a class="internal-link" href="Alex Bennett">Alex Bennett</a></li><!--
   --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Performers/Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
   --><li style=""><a class="internal-link" href="Annie Shortt">Annie Shortt</a></li><!--
   --><li style=""><a class="internal-link" href="Ashley Blom">Ashley Blom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Ronn">Performers/David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
   --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
   --><li style="" ><a class="internal-link" href="Espi Rivandeneira">Espi Rivandeneira</a></li><!--
   --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
   --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
   --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Performers/Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><li style=""><a class="internal-link" href="Tess Forneris">Tess Forneris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Performers/Tosin awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
   --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
   --><!--
@@ -135,7 +135,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Heather Coffee">Heather Coffee</a></li><!--
   --><li style=""><a class="internal-link" href="Laura Galan Wells">Laura Galan Wells</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Performers/Nichole Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
   --><li style=""><a class="internal-link" href="Peter Wilde">Peter Wilde</a></li><!--
   --><li style=""><a class="internal-link" href="Tori Haddox">Tori Haddox</a></li><!--
   --><!--
@@ -208,20 +208,20 @@ Every single element of Story To The Death is completely improvised based on aud
 ## Production Teams
 ### Aug 2016
 #### Cast
-* [[Performers/Ann Symmonds]]
+* [[Performers/Ann Symmonds|Ann Symmonds]]
 * [[Emily McDonald]]
 * [[Graham Snow]]
-* [[Performers/Heidi Rogers]]
+* [[Performers/Heidi Rogers|Heidi Rogers]]
 * [[Jessica Soos]]
 * [[Kay Krasin]]
-* [[Performers/Marc Jalandoon]]
+* [[Performers/Marc Jalandoon|Marc Jalandoon]]
 * [[Sushant Sethi]]
-* [[Performers/Tosin awofeso]]
+* [[Performers/Tosin awofeso|Tosin awofeso]]
 * [[Trent Symmonds]]
 #### Crew
 * [[Bob Halgren]] (Stage Manager)
 * [[Heather Coffee]]
-* [[Performers/Nichole Bennett]]
+* [[Performers/Nichole Bennett|Nichole Bennett]]
 ### Feb 2018
 #### Cast
 * [[Aaron Seriff-Cullick]]
@@ -229,7 +229,7 @@ Every single element of Story To The Death is completely improvised based on aud
 * [[Angelina Martin]]
 * [[Annie Shortt]]
 * [[Ashley Blom]]
-* [[Performers/David Ronn]]
+* [[Performers/David Ronn|David Ronn]]
 * [[Espi Rivandeneira]]
 * [[Ladislao Loera]]
 * [[Tess Forneris]]

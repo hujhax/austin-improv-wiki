@@ -16,12 +16,12 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Performers/Chris Albano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Schwartz">Performers/David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
   --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
   --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Performers/Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
   --><!--
   --><!--

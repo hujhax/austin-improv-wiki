@@ -25,15 +25,15 @@
 . 
 
 ## Troupes
-* [[Troupes/The Leading Brands]]
-* [[Troupes/IPhone the Musical]]
+* [[Troupes/The Leading Brands|The Leading Brands]]
+* [[Troupes/IPhone the Musical|IPhone the Musical]]
 * [[The Perfect Banana]]
 * [[Oscar's Flying Fish and Unicorn Minstrel Show]]
-* [[Troupes/Southern Hospitality's Cardboard Coffin]]
-* [[Troupes/Past Life Aggression]]
+* [[Troupes/Southern Hospitality's Cardboard Coffin|Southern Hospitality's Cardboard Coffin]]
+* [[Troupes/Past Life Aggression|Past Life Aggression]]
 
 ## Shows
-* *[[Shows/Maestro]]*
+* *[[Shows/Maestro|Maestro]]*
 * *[[Fancy Pants Mashup]]*
 * *[[Same Year's Eve]]*
 

@@ -22,14 +22,14 @@
 **Keegan Hines** is an improv performer who works primarily with [[The Hideout Theatre]].
 
 ## History
-Keegan began improv classes at [[The Hideout Theatre]] in 2009 after seeing a [[Shows/Maestro]] show. He has performed improv at the [[The Hideout Theatre]], [[Coldtowne Theater]], and [[The Institution Theater]].
+Keegan began improv classes at [[The Hideout Theatre]] in 2009 after seeing a [[Shows/Maestro|Maestro]] show. He has performed improv at the [[The Hideout Theatre]], [[Coldtowne Theater]], and [[The Institution Theater]].
 
 ## Troupes
-* [[Troupes/Phil]] (2010-2014)
+* [[Troupes/Phil|Phil]] (2010-2014)
 
 ## Shows
-* *[[Shows/Holy 1960s Batman, Batman!]]*
-* *[[Shows/After School Improv]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
+* *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/Theatresports (mainstage run)|Theatresports]]*
 
 [[Category/Performers|Hines]]

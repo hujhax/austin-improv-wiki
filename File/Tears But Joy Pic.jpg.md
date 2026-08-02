@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Tears But Joy Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Tears But Joy]].
+Publicity image for [[Troupes/Tears But Joy|Tears But Joy]].
 
 Photos by: unknown.
 

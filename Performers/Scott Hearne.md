@@ -25,9 +25,9 @@
 
 
 ## Troupes
-* [[Troupes/The Seven Eight Sevens]]
-* [[Troupes/Bad Font]]
+* [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
+* [[Troupes/Bad Font|Bad Font]]
 
 ## Shows
 * *[[Love Fest]]*
-* *[[Shows/The Source]]*
+* *[[Shows/The Source|The Source]]*

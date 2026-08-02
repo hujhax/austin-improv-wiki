@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Control Group.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image of [[Troupes/The Control Group]].
+Publicity image of [[Troupes/The Control Group|The Control Group]].
 
 Photo by: unknown.
 

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -24,10 +24,10 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Performers/Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
   --><li style=""><a class="internal-link" href="Jerry Akellian">Jerry Akellian</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Performers/Neal Tibrewala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Reid Jacobson">Reid Jacobson</a></li><!--
   --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
   --><li style=""><a class="internal-link" href="Valerie Nies">Valerie Nies</a></li><!--
@@ -89,7 +89,7 @@
 It was one of the [[Merlin Works Graduation Shows]].
 
 ## History
-The show ran as part of *[[Shows/The Saturday Night Special]]* in October 2010, starting on 10/9/10 and continuing through to 10/30/10.
+The show ran as part of *[[Shows/The Saturday Night Special|The Saturday Night Special]]* in October 2010, starting on 10/9/10 and continuing through to 10/30/10.
 
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=11189&p=98103) on [[The Austin Improv Forums]].

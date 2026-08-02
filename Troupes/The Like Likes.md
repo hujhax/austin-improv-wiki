@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>

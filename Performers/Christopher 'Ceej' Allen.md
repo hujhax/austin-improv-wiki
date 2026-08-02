@@ -38,19 +38,19 @@ I could tell she was nervous, but I loved that she played the scene anyway.</p>
 <p>Bob...and I think Andrea had a school principal's office scene...I loved it!</p> </blockquote>
 
 ## Troupes
-* [[Troupes/Confidence Men]]
-* [[Troupes/Franz & Dave]]
-* [[Troupes/My Best Fiend]]
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/Franz & Dave|Franz & Dave]]
+* [[Troupes/My Best Fiend|My Best Fiend]]
 
 ## Shows
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Pulp Friction]]*
-* *[[Shows/Thinning The Herd]]*
-* *[[Shows/Trust No One]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
+* *[[Shows/Trust No One|Trust No One]]*
 
 ## More Information
 * [Interview](http://archive.org/details/ScottHearneTheTheftForum-CeejAllen-Ep2/) with Ceej on *[[The Theft Forum]]*.
-* [Interview](http://yesandrew.com/the-sunday-interview-ceej-allen/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-ceej-allen/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Allen]]

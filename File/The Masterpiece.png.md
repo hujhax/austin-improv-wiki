@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="The Masterpiece.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/The Masterpiece]], performing in *[[Shows/The Threefer]]* on 4/26/12.
+[[Troupes/The Masterpiece|The Masterpiece]], performing in *[[Shows/The Threefer|The Threefer]]* on 4/26/12.
 
-Still from a video by [[Performers/Patrick Knisely]].
+Still from a video by [[Performers/Patrick Knisely|Patrick Knisely]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

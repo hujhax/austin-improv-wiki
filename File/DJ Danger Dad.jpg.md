@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="DJ Danger Dad.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/DJ Danger Dad]].
+Publicity image for [[Troupes/DJ Danger Dad|DJ Danger Dad]].
 
 Photos by: unknown.
 

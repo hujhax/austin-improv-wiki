@@ -23,11 +23,11 @@
 
 ## Troupes
 * [[Duck Duck Boom]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/The Intentions]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/The Intentions|The Intentions]]
 
 ## Shows
-* *[[Shows/Rock]]*
-* *[[Shows/Totally Improvised, 90210]]*
+* *[[Shows/Rock|Rock]]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
 
 [[Category/Performers|Cox]]

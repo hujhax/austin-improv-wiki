@@ -17,8 +17,8 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brandt Pileggi">Brandt Pileggi</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,14 +70,14 @@
 	</table>
 </div>
 
-**DJ Dubb and the Tripspinnaz** was a one-off *[[Shows/Cagematch]]* team.
+**DJ Dubb and the Tripspinnaz** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
 The cast had the following personas:
 * [[Brandt Pileggi]]: Dj Dubb 
 * [[Brian Engravalle]]: El Chiba Masta Cruel 
-* [[Performers/Elizabeth Brammer]]: Lil' One Eye 
-* [[Performers/Patrick Daniel]]: Shorty Bodega 
+* [[Performers/Elizabeth Brammer|Elizabeth Brammer]]: Lil' One Eye 
+* [[Performers/Patrick Daniel|Patrick Daniel]]: Shorty Bodega 
 
 ## History
 They played one Cagematch on 5/9/09.

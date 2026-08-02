@@ -22,19 +22,19 @@
 **Brently Heilbron** is an improv performer, director, teacher, and musician.
 
 ## History
-He has been performing improv and stand-up since the age of 15. At 17, he joined the original Austin improv troupes [[Troupes/Monks' Night Out]] and [[Troupes/Only 90% Effective]]. At 20, he won the very first *[[Shows/Maestro]]* in Austin. Since then, he has toured as a stand-up, emceed for Paul McCartney, Dr. John, and the Mighty Boosh and has worked with notables like Woody Allen, George Takei, Daniel Johnston, and Dolemite in his long, strange trip of a career.  He returned to Austin in 2010 and began teaching "Stand-Up for Improvisers" at [[The Institution Theater]].  He has written all three sold-out *[[Shows/Fuck It's Hot]]* shows.  The "Sex & Queso" run of *[[Shows/Fuck It's Hot]]* was  the first show he wrote and directed for the Institution.
+He has been performing improv and stand-up since the age of 15. At 17, he joined the original Austin improv troupes [[Troupes/Monks' Night Out|Monks' Night Out]] and [[Troupes/Only 90% Effective|Only 90% Effective]]. At 20, he won the very first *[[Shows/Maestro|Maestro]]* in Austin. Since then, he has toured as a stand-up, emceed for Paul McCartney, Dr. John, and the Mighty Boosh and has worked with notables like Woody Allen, George Takei, Daniel Johnston, and Dolemite in his long, strange trip of a career.  He returned to Austin in 2010 and began teaching "Stand-Up for Improvisers" at [[The Institution Theater]].  He has written all three sold-out *[[Shows/Fuck It's Hot|Fuck It's Hot]]* shows.  The "Sex & Queso" run of *[[Shows/Fuck It's Hot|Fuck It's Hot]]* was  the first show he wrote and directed for the Institution.
 
-He guested with [[Troupes/Girls Girls Girls]] during their *[[Shows/Boys of Summer]]* run in 2013.
+He guested with [[Troupes/Girls Girls Girls|Girls Girls Girls]] during their *[[Shows/Boys of Summer|Boys of Summer]]* run in 2013.
 
 ## Troupes
-* [[Troupes/Monks' Night Out]]
-* [[Troupes/Only 90% Effective]]
+* [[Troupes/Monks' Night Out|Monks' Night Out]]
+* [[Troupes/Only 90% Effective|Only 90% Effective]]
 * [[P.A.L.S]]
-* [[Troupes/Your Dad's Friends]]
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 
 ## Shows
-* *[[Shows/Fuck It's Hot]]* (writer/musician [2013], writer/musician/director [2014])
-* *[[Shows/Fuck It's Christmas]]* (writer/musician)
+* *[[Shows/Fuck It's Hot|Fuck It's Hot]]* (writer/musician [2013], writer/musician/director [2014])
+* *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]* (writer/musician)
 
 ## More Information
 * [Brently's wikipedia page.](http://en.wikipedia.org/wiki/Brently_Heilbron)

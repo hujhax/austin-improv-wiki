@@ -21,7 +21,7 @@
   --><li style=""><a class="internal-link" href="Bradford Hardie">Bradford Hardie</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Karydas">Jennifer Karydas</a></li><!--
   --><li style=""><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Performers/Stephanie Hagemeister</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Redding Hardie">Stephanie Redding Hardie</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Sparklepants** was a one-off *[[Shows/Cagematch]]* team.
+**Sparklepants** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 9/16/11.

@@ -14,26 +14,26 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Performers/Meghan Wolff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-:*This page refers to the 2008 and 2009 mainstage runs of improvised plays in the style of William Shakespeare.  For the 2013 mainstage run which had a more free-form format, and included scripted runs of *Much Ado About Nothing* and *Macbeth*, see *[[Shows/Fakespeare]]''.
+:*This page refers to the 2008 and 2009 mainstage runs of improvised plays in the style of William Shakespeare.  For the 2013 mainstage run which had a more free-form format, and included scripted runs of *Much Ado About Nothing* and *Macbeth*, see *[[Shows/Fakespeare|Fakespeare]]''.
 ***Improvised Shakespeare*** was a mainstage show at [[The Hideout Theatre]] of improvised plays in the style of [[Wikipedia - William Shakespeare|William Shakespeare]].
 
 ## History
@@ -96,44 +96,44 @@ The 6/13/09 show featured an all-female cast.
 
 ### Cast
 #### 2008 Run
-* [[Performers/Andy Crouch]]
-* [[Performers/Asaf Ronen]]
-* [[Performers/Curtis Luciani]]
-* [[Performers/Kacey Samiee]]
-* [[Performers/Kaci Beeler]]
+* [[Performers/Andy Crouch|Andy Crouch]]
+* [[Performers/Asaf Ronen|Asaf Ronen]]
+* [[Performers/Curtis Luciani|Curtis Luciani]]
+* [[Performers/Kacey Samiee|Kacey Samiee]]
+* [[Performers/Kaci Beeler|Kaci Beeler]]
 * [[Pseudonyms|Madeline M.]]
-* [[Performers/Roy Janik]]
-* [[Performers/Shana Merlin]]
-* [[Performers/Troy Miller]]
-* [[Performers/Valerie Ward]]
+* [[Performers/Roy Janik|Roy Janik]]
+* [[Performers/Shana Merlin|Shana Merlin]]
+* [[Performers/Troy Miller|Troy Miller]]
+* [[Performers/Valerie Ward|Valerie Ward]]
 
 #### 2009 Run
-* [[Performers/Audrey Rachel Sansom]]
-* [[Performers/Curtis Luciani]]
-* [[Performers/Kaci Beeler]]
-* [[Performers/Kareem Badr]]
-* [[Performers/Marc Majcher]]
-* [[Performers/Meghan Wolff]]
-* [[Performers/Peter Rogers]]
-* [[Performers/Roy Janik]]
-* [[Performers/Troy Miller]]
-* [[Performers/Valerie Ward]]
-* [[Performers/Jessica Arjet]]
+* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
+* [[Performers/Curtis Luciani|Curtis Luciani]]
+* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Performers/Kareem Badr|Kareem Badr]]
+* [[Performers/Marc Majcher|Marc Majcher]]
+* [[Performers/Meghan Wolff|Meghan Wolff]]
+* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Performers/Roy Janik|Roy Janik]]
+* [[Performers/Troy Miller|Troy Miller]]
+* [[Performers/Valerie Ward|Valerie Ward]]
+* [[Performers/Jessica Arjet|Jessica Arjet]]
 
 ## Media
 ### Videos
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/improvised-shakespeare-mon-8pm-svt-apples-stage-1235251)  of their 9/1/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.114136552264.110678.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/16/09 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.124348512264.117182.588952264&type=3) by [[Performers/Peter Rogers]] of their 6/13/09 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.127238547264.118948.588952264&type=1) by [[Performers/Peter Rogers]] of their 6/20/09 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.129979382264.120568.588952264&type=3) by [[Performers/Peter Rogers]] of their 6/27/09 performance in [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.114136552264.110678.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/16/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.124348512264.117182.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/13/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.127238547264.118948.588952264&type=1) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/20/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.129979382264.120568.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/27/09 performance in [[The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/11 show in [[The 42-Hour Improv Marathon]].
 
 ### Other
-* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2468047649_d0a190055c/2468047649_d0a190055c.jpg?disposition=download) by [[Performers/Kaci Beeler]] from the 2008 run.
-* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/DSCF2681/DSCF2681.jpg?disposition=download) by [[Performers/Kaci Beeler]] from the 2009 run.
+* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2468047649_d0a190055c/2468047649_d0a190055c.jpg?disposition=download) by [[Performers/Kaci Beeler|Kaci Beeler]] from the 2008 run.
+* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/DSCF2681/DSCF2681.jpg?disposition=download) by [[Performers/Kaci Beeler|Kaci Beeler]] from the 2009 run.
 
 ## More Information
 * [The announcement of the first run](http://forum.austinimprov.com/viewtopic.php?f=3&t=4930) on [[The AIC Forums]].

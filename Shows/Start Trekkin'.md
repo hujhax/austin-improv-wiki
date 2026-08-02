@@ -15,9 +15,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Performers/Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Performers/Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -142,9 +142,9 @@
 ## History
 *Start Trekkin*' was originated by Lawrence Wolf in San Francisco around 2000.  The show was very successful there, with a large number of performances and sci-fi-convention appearances.
 
-[[Performers/Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2003, [Richard Ross](http://www.facebook.com/richard.ross.102), a founding member of the original San Francisco show, taught a brief workshop in the format at [[The Hideout Theatre]].  A year later, [[Performers/Jay Michael]] and [[Performers/Troy Miller]] produced season one of *Start Trekkin' * there.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
+[[Performers/Sean Hill|Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2003, [Richard Ross](http://www.facebook.com/richard.ross.102), a founding member of the original San Francisco show, taught a brief workshop in the format at [[The Hideout Theatre]].  A year later, [[Performers/Jay Michael|Jay Michael]] and [[Performers/Troy Miller|Troy Miller]] produced season one of *Start Trekkin' * there.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
 
-Subsequent seasons followed almost once per year.  In early 2012, *Start Trekkin*' ran as half of *[[Shows/The Sci-Fi Comedy Double Feature]]*.
+Subsequent seasons followed almost once per year.  In early 2012, *Start Trekkin*' ran as half of *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*.
 
 Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theatre]].
 
@@ -170,117 +170,117 @@ Start Trekkin' has had several special performances outside of regular season ru
 *Start Trekkin*' performed at the [*Star Trek* Premiere Party](http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/) at the Bob Bullock State History Museum on May 8th, 2009.
 
 ## Casts
-[[Performers/David Lampe]], [[Performers/Jay Michael]] and [[Performers/Troy Miller]] are the only improvisors to appear in all seven seasons of the show.
+[[Performers/David Lampe|David Lampe]], [[Performers/Jay Michael|Jay Michael]] and [[Performers/Troy Miller|Troy Miller]] are the only improvisors to appear in all seven seasons of the show.
 
 ### Season 1
 *This list is incomplete*
-* [[Performers/Andy Crouch]]
-* [[Performers/David Lampe]]
-* [[Performers/Jay Michael]]
-* [[Performers/Kevin Miller]]
-* [[Performers/Sean Hill]]
+* [[Performers/Andy Crouch|Andy Crouch]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jay Michael|Jay Michael]]
+* [[Performers/Kevin Miller|Kevin Miller]]
+* [[Performers/Sean Hill|Sean Hill]]
 * [[Tim Giradot]] (Musical improviser)
-* [[Performers/Troy Miller]]
+* [[Performers/Troy Miller|Troy Miller]]
 
 ### Season 2
-* [[Performers/Andy Crouch]]
+* [[Performers/Andy Crouch|Andy Crouch]]
 * [[Ben Sterling]]
-* [[Performers/David Lampe]]
-* [[Performers/Jay Michael]]
-* [[Performers/Kacey Samiee]]
-* [[Performers/Kevin Miller]]
-* [[Performers/Shana Merlin]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jay Michael|Jay Michael]]
+* [[Performers/Kacey Samiee|Kacey Samiee]]
+* [[Performers/Kevin Miller|Kevin Miller]]
+* [[Performers/Shana Merlin|Shana Merlin]]
 * [[Tim Giradot]] (Musical improviser)
-* [[Performers/Troy Miller]]
+* [[Performers/Troy Miller|Troy Miller]]
 
 ### Season 3
 *This list is incomplete*
-* [[Performers/Andy Crouch]]
+* [[Performers/Andy Crouch|Andy Crouch]]
 * [[Ben Sterling]]
-* [[Performers/David Lampe]]
-* [[Performers/Jay Michael]]
-* [[Performers/Jordan T. Maxwell]]
-* [[Performers/Kareem Badr]]
-* [[Performers/Kacey Samiee]]
-* [[Performers/Kevin Miller]]
-* [[Performers/Shana Merlin]]
-* [[Performers/Troy Miller]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jay Michael|Jay Michael]]
+* [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
+* [[Performers/Kareem Badr|Kareem Badr]]
+* [[Performers/Kacey Samiee|Kacey Samiee]]
+* [[Performers/Kevin Miller|Kevin Miller]]
+* [[Performers/Shana Merlin|Shana Merlin]]
+* [[Performers/Troy Miller|Troy Miller]]
 
 ### Season 4
 *This list is incomplete*
 
 * [[Christina DeRoos]]
-* [[Performers/David Lampe]]
-* [[Performers/Jay Michael]]
-* [[Performers/Kacey Samiee]]
-* [[Performers/Kaci Beeler]]
-* [[Performers/Kareem Badr]]
-* [[Performers/Roy Janik]]
-* [[Performers/Sean Hill]]
-* [[Performers/Troy Miller]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jay Michael|Jay Michael]]
+* [[Performers/Kacey Samiee|Kacey Samiee]]
+* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Performers/Kareem Badr|Kareem Badr]]
+* [[Performers/Roy Janik|Roy Janik]]
+* [[Performers/Sean Hill|Sean Hill]]
+* [[Performers/Troy Miller|Troy Miller]]
 * [[Wesley Bain]]
 
 ### Season 5
-* [[Performers/Aden Kirschner]]
-* [[Performers/Andy Crouch]]
-* [[Performers/Audrey Rachel Sansom]]
-* [[Performers/Chris Allen]]
+* [[Performers/Aden Kirschner|Aden Kirschner]]
+* [[Performers/Andy Crouch|Andy Crouch]]
+* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
+* [[Performers/Chris Allen|Chris Allen]]
 * [[Dario Konjicija]]
-* [[Performers/David Lampe]]
-* [[Performers/Jay Michael]]
-* [[Performers/Jon Clinkenbeard]]
-* [[Performers/Justin Davis]]
-* [[Performers/Kacey Samiee]]
-* [[Performers/Kaci Beeler]]
-* [[Performers/Marc Majcher]]
-* [[Performers/Michael Brockman]] (musical improvisor)
-* [[Performers/Sean Hill]]
-* [[Performers/Topping Haggerty]]
-* [[Performers/Troy Miller]]
-* [[Performers/David Zimmerman]] (Sound FX)
-* [[Performers/Neal Tibrewala]] (Lights)
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jay Michael|Jay Michael]]
+* [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
+* [[Performers/Justin Davis|Justin Davis]]
+* [[Performers/Kacey Samiee|Kacey Samiee]]
+* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Performers/Marc Majcher|Marc Majcher]]
+* [[Performers/Michael Brockman|Michael Brockman]] (musical improvisor)
+* [[Performers/Sean Hill|Sean Hill]]
+* [[Performers/Topping Haggerty|Topping Haggerty]]
+* [[Performers/Troy Miller|Troy Miller]]
+* [[Performers/David Zimmerman|David Zimmerman]] (Sound FX)
+* [[Performers/Neal Tibrewala|Neal Tibrewala]] (Lights)
 
 ### Season 6
 *This list is incomplete.*
 
-* [[Performers/Aden Kirschner]]
-* [[Performers/David Lampe]]
-* [[Performers/Jay Michael]]
-* [[Performers/Kaci Beeler]]
-* [[Performers/Kareem Badr]]
-* [[Performers/Roy Danger]]
-* [[Performers/Troy Miller]]
+* [[Performers/Aden Kirschner|Aden Kirschner]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jay Michael|Jay Michael]]
+* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Performers/Kareem Badr|Kareem Badr]]
+* [[Performers/Roy Danger|Roy Danger]]
+* [[Performers/Troy Miller|Troy Miller]]
 
 ### Season 7
-* [[Performers/Alex Dobrenko]]
-* [[Performers/Andy Crouch]]
-* [[Performers/Chris Allen]]
-* [[Performers/Courtney Hopkin]]
-* [[Performers/David Lampe]]
-* [[Performers/Jay Michael]]
-* [[Performers/Lauren Buck]]
-* [[Performers/Nicole Beckley]]
-* [[Performers/Peter Rogers]]
-* [[Performers/Ruby Willmann]]
-* [[Performers/Sean Hill]] (co-director)
-* [[Performers/Steve Harwood]]
-* [[Performers/Troy Miller]] (co-director)
+* [[Performers/Alex Dobrenko|Alex Dobrenko]]
+* [[Performers/Andy Crouch|Andy Crouch]]
+* [[Performers/Chris Allen|Chris Allen]]
+* [[Performers/Courtney Hopkin|Courtney Hopkin]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jay Michael|Jay Michael]]
+* [[Performers/Lauren Buck|Lauren Buck]]
+* [[Performers/Nicole Beckley|Nicole Beckley]]
+* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Performers/Ruby Willmann|Ruby Willmann]]
+* [[Performers/Sean Hill|Sean Hill]] (co-director)
+* [[Performers/Steve Harwood|Steve Harwood]]
+* [[Performers/Troy Miller|Troy Miller]] (co-director)
 
 ### Season 8
-* [[Performers/Aaron Saenz]]
-* [[Performers/Ace Manning]]
-* [[Performers/Andy Crouch]] (co-director)
+* [[Performers/Aaron Saenz|Aaron Saenz]]
+* [[Performers/Ace Manning|Ace Manning]]
+* [[Performers/Andy Crouch|Andy Crouch]] (co-director)
 * [[Angie Epley]]
-* [[Performers/Aspen Webster]]
+* [[Performers/Aspen Webster|Aspen Webster]]
 * [[Ben Sterling]] (co-director)
-* [[Performers/Cat Drago]]
-* [[Performers/David Lampe]]
-* [[Performers/Jordan T. Maxwell]]
-* [[Performers/Kacey Samiee]]
-* [[Performers/Katie Dahm]] 
-* [[Performers/Kenny Madison]]
+* [[Performers/Cat Drago|Cat Drago]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
+* [[Performers/Kacey Samiee|Kacey Samiee]]
+* [[Performers/Katie Dahm|Katie Dahm]] 
+* [[Performers/Kenny Madison|Kenny Madison]]
 * [[Michelle Cook]] 
-* [[Performers/Monica Martinez Maher]]
+* [[Performers/Monica Martinez Maher|Monica Martinez Maher]]
 
 ## Media
 ### Videos
@@ -295,19 +295,19 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [Video of their 6/21/13 show](http://vimeo.com/76770049) in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.132316345323.219868.503270323&type=3) by [[Performers/Kevin Miller]] of their 2005 trip to Las Vegas.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.132316345323.219868.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their 2005 trip to Las Vegas.
 * [A photoset from season 5.](http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1)
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3) by [[Performers/Peter Rogers]] of their 6/26/09 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/26/09 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/3/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 11/6/10 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/28/10 performance at [[The Highball]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1449103279464.2057829.1589679282&type=3) by [[Roy Moore]] which includes their 12/5/10 performance at [[The Highball]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3) by [[Steve Rogers]] of their 6/4/11 performance in [[The 42-Hour Improv Marathon]].
-* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Performers/Peter Rogers]] of the 1/5/12 dress rehearsal.
-* [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Performers/Peter Rogers]] of the 1/8/12 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/5/12 dress rehearsal.
+* [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/8/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3) by [[Steve Rogers]] of the 1/14/12 performance.
 * [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] that includes the 2/25/12 performance.
-* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) from [[Steve Rogers]], [and another](http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3)  from [[Michael Yew]], of the 3/8/12 *[[Shows/Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) from [[Steve Rogers]], [and another](http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3)  from [[Michael Yew]], of the 3/8/12 *[[Shows/Free Fringe|Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
 * [A photoset](http://www.facebook.com/media/set/?set=a.415641555166033.100932.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/1/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.572351752828345.1073741903.221927764537414&type=3) by [[Steve Rogers]] of their 7/27/13 performance.
@@ -316,7 +316,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 ### Publicity
 * [Poster from the first season.](http://www.facebook.com/photo.php?fbid=10150909128745324&set=a.10150909128715324.748114.503270323&type=3&theater)
 * [Video of an audience-participation "Kobayashi Maru" scene](http://youtu.be/WoGBGHe9Cms) from their performance in [[The 2009 Out of Bounds Comedy Festival]].
-* Promo videos for season six by [[Performers/Troy Miller]]: ["Alien Love"](http://youtu.be/7cL_KoQWAns), ["Fight"](http://youtu.be/JLhH3VF_EJI), ["Sacrifices"](http://youtu.be/z9fCC3ZG2io), ["The Landing Party" (version 1)](http://youtu.be/jE3goOhutlQ), and ["The Landing Party" (version 2)](http://youtu.be/Apynw0GNH2o).
+* Promo videos for season six by [[Performers/Troy Miller|Troy Miller]]: ["Alien Love"](http://youtu.be/7cL_KoQWAns), ["Fight"](http://youtu.be/JLhH3VF_EJI), ["Sacrifices"](http://youtu.be/z9fCC3ZG2io), ["The Landing Party" (version 1)](http://youtu.be/jE3goOhutlQ), and ["The Landing Party" (version 2)](http://youtu.be/Apynw0GNH2o).
 * [A 2011 video compilation of *Start Trekkin*' fight scenes.](http://vimeo.com/20415485)
 
 ## More Information

@@ -20,15 +20,15 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><li style=""><a class="internal-link" href="Cynthia Oelkers">Cynthia Oelkers</a></li><!--
   --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Performers/Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Chester">Scott Chester</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Cargill">Jennifer Cargill</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Erika McNichol">Performers/Erika McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Erika McNichol">Erika McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
   --><!--
   --><!--
   --><!--

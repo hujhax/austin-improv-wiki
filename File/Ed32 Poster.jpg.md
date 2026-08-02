@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ed32 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for [[Troupes/Ed 32]].
+Poster for [[Troupes/Ed 32|Ed 32]].
 
 Art by: unknown.
 ## Licensing

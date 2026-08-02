@@ -25,14 +25,14 @@
 In 2011, Mike Sullivan moved to Chicago.
 
 ## Troupes
-* [[Troupes/Blink]]
+* [[Troupes/Blink|Blink]]
 * [[Continental Breakfast]]
-* [[Troupes/Ctrl-Alt-Delight]]
-* [[Troupes/The Walk-Ons]]
-* [[Troupes/The Dukes of Bedside Manor]]
+* [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]]
+* [[Troupes/The Walk-Ons|The Walk-Ons]]
+* [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/One More Night]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/One More Night|One More Night]]*
 
 [[Category/Performers|Sullivan]]

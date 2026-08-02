@@ -75,21 +75,21 @@
 **Emily Breedlove** is an opera singer and an improv performer.
 
 ## Troupes
-* [[Troupes/Blink]]
-* [[Shows/The Professor]]
-* [[Troupes/UpTowne]]
+* [[Troupes/Blink|Blink]]
+* [[Shows/The Professor|The Professor]]
+* [[Troupes/UpTowne|UpTowne]]
 
 ## Shows
-* *[[Shows/The Black Vault]]*
-* *[[Shows/The Cherry Bowl]]*
+* *[[Shows/The Black Vault|The Black Vault]]*
+* *[[Shows/The Cherry Bowl|The Cherry Bowl]]*
 * *[[Crack!]]*
-* *[[Shows/GrimmNoir]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Magna Veritas]]*
-* *[[Shows/One More Night]]*
+* *[[Shows/One More Night|One More Night]]*
 * *[[Seance]]*
-* *[[Shows/Spirited]]*
-* *[[Shows/Steam]]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/Spirited|Spirited]]*
+* *[[Shows/Steam|Steam]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 * *[[The Tribunal]]*
 
 [[Category/Performers|Breedlove]]

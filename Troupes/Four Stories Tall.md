@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jeremy Sweetlamb">Performers/Jeremy Sweetlamb</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>

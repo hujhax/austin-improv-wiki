@@ -3,7 +3,7 @@
 ## Summary
 Poster for *[[Sock Treatment]]*.
 
-Photo and art by [[Performers/Sara Farr]].
+Photo and art by [[Performers/Sara Farr|Sara Farr]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

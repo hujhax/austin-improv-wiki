@@ -22,16 +22,16 @@
 **Nicole McCracken** is an improv performer.
 
 ## Troupes
-* [[Troupes/Nice Astronaut]]
-* [[Troupes/Who Dack]]
+* [[Troupes/Nice Astronaut|Nice Astronaut]]
+* [[Troupes/Who Dack|Who Dack]]
 
 ## Shows
-* *[[Shows/Beware of Female Spies]]*
-* *[[Shows/Braised in Texas]]*
-* *[[Shows/Danger!]]*
+* *[[Shows/Beware of Female Spies|Beware of Female Spies]]*
+* *[[Shows/Braised in Texas|Braised in Texas]]*
+* *[[Shows/Danger!|Danger!]]*
 * *[[Live TV Tuesdays -  John Hughes Summer School]]*
 * *[[Live TV Tuesdays -  South Park]]*
-* *[[Shows/Sci-Fi Saturdays]]*
+* *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
 * *[[Townsville]]*
 
 

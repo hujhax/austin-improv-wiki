@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bob Olmstead Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Bob Olmstead]], performing in *[[Shows/The Free Fringe]]*.  Photo by [[Performers/Claudio Fox]].
+[[Performers/Bob Olmstead|Bob Olmstead]], performing in *[[Shows/The Free Fringe|The Free Fringe]]*.  Photo by [[Performers/Claudio Fox|Claudio Fox]].
 
 
 ## Licensing

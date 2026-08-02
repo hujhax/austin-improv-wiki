@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Hyena** was a one-off *[[Shows/Cagematch]]* duo.
+**Hyena** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.
 
 ## History
 They played in the Cagematch on 2/6/13 and 3/6/13.

@@ -28,7 +28,7 @@
 ## Summary
 Asaf Ronen is the creator and Editor-in-Chief of YESand.com, a website devoted to improvisation, and is the author of *Directing Improv: Show the Way By Getting Out of the Way*. He has been involved in improv since 1990, starting in college and working with Theatresports, ComedySportz and directing his own longform improv troupe, Hiatus, where he helped create original formats.
 
-Asaf has taught improvisation in Canada, Great Britain, Norway and in twenty-two of The United States. His directing credits include the all-girl group goga, the improvised comic book adventure show *[[Shows/Ka-Baam!!]]*, and *Death in the City*, a dramatic longform improv piece, at the NY Fringe Festival. He was a producer on *Trust Us, This Is All Made Up*, a documentary on legendary improvisers TJ & Dave that had its world premiere at Austin's South by Southwest Festival and was a writer on the soon-to-be-released Days of Delusion.
+Asaf has taught improvisation in Canada, Great Britain, Norway and in twenty-two of The United States. His directing credits include the all-girl group goga, the improvised comic book adventure show *[[Shows/Ka-Baam!!|Ka-Baam!!]]*, and *Death in the City*, a dramatic longform improv piece, at the NY Fringe Festival. He was a producer on *Trust Us, This Is All Made Up*, a documentary on legendary improvisers TJ & Dave that had its world premiere at Austin's South by Southwest Festival and was a writer on the soon-to-be-released Days of Delusion.
 
 Asaf has taught throughout NYC's public school system as a resident artist through LEAP and New Horizons and as part of Weist-Barron's ACTeen. In 2000, Asaf worked with Cirque du Soleil as a scout for improvisational talent.
 
@@ -43,24 +43,24 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 </blockquote>
 
 ## Troupes
-* [[Troupes/Baxter and Bernard]]
-* [[Troupes/Confidence Men]]
-* [[Troupes/The Plagiarists]]
+* [[Troupes/Baxter and Bernard|Baxter and Bernard]]
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/The Plagiarists|The Plagiarists]]
 
 ## Shows
-* *[[Shows/Flying Theater Machine]]* (touring performer)
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Holy 1960s Batman, Batman!]]* (director)
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (touring performer)
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]* (director)
 * *[[Hyperlinks]]* (director)
-* *[[Shows/Improvised Shakespeare]]*
+* *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
 * *[[The Joss Whedon Pajama Party]]* (director)
-* *[[Shows/Ka-Baam!!]]* (director)
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]* (director)
 * *[[Live TV Tuesdays -  Firefly]]* (director)
 * *[[Only Three Will Survive]]* (director)
-* *[[Shows/The Rubber Room]]* (director)
+* *[[Shows/The Rubber Room|The Rubber Room]]* (director)
 * *[[Sickest Fing Stories]]* (director)
-* *[[Shows/Spirited]]* (director)
-* *[[Shows/The Suitcase]]* (director)
+* *[[Shows/Spirited|Spirited]]* (director)
+* *[[Shows/The Suitcase|The Suitcase]]* (director)
 
 ## More Information
 * Interview with Asaf Ronen on *[[The Theft Forum]]*: [part 1 (Asaf's history with improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2215619), [part 2 (Asaf's thoughts about improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2225837).

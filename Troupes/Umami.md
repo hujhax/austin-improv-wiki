@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Dave Rosenbaum">Dave Rosenbaum</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Craighead">Matt Craighead</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Performers/Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
   --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Performers/Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

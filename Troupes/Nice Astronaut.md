@@ -18,10 +18,10 @@
   --><li style=""><a class="internal-link" href="Abby Lincoln">Abby Lincoln</a></li><!--
   --><li style=""><a class="internal-link" href="AJ McKeon">AJ McKeon</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Byrnes">Katie Byrnes</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
@@ -73,9 +73,9 @@
 **Nice Astronaut** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:30pm at [[Coldtowne Theater]]. The format of their monthly show is "Nice Astronaut Presents Improv Roulette", in which they and an opening team (usually from ColdTowne Conservatory's Level 5-6 classes) spin a wheel of improv formats and perform whichever one the wheel decides. 
 
 ## History
-Nice Astronaut was the first permanent, self-formed troupe from [[Coldtowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008, under the name *HJ Compromise*.  They were originally coached by [[Performers/Tom Booker]] (2008-2009) and were later coached by [[Performers/Dave Buckman]] (2009-2011, 2013) and then [[Performers/Cody Dearing]] (2013-).
+Nice Astronaut was the first permanent, self-formed troupe from [[Coldtowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008, under the name *HJ Compromise*.  They were originally coached by [[Performers/Tom Booker|Tom Booker]] (2008-2009) and were later coached by [[Performers/Dave Buckman|Dave Buckman]] (2009-2011, 2013) and then [[Performers/Cody Dearing|Cody Dearing]] (2013-).
 
-In 2011, [[Performers/Nicole McCracken]] and Tim formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
+In 2011, [[Performers/Nicole McCracken|Nicole McCracken]] and Tim formed a separate troupe named [[Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
 
 ## Teaching
 Nice Astronaut taught improv and sketch workshops in Austin, Phoenix, and Houston in 2013-2014.
@@ -103,7 +103,7 @@ A semi-narrative improv format that follows the potential dates and long term li
 
 ## Scripted Shows
 ### Back In Townsville: Townsville Community Center
-See full article: [[Shows/Back In Townsville -  Townsville Community Center]]
+See full article: [[Shows/Back In Townsville -  Townsville Community Center|Back In Townsville -  Townsville Community Center]]
 
 ### After Midnight
 After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2010.  Each show as themed and often had sketches "re-improvised" in the same style of Second City revues.  The show titles and themes included:
@@ -126,13 +126,13 @@ Nice Astronaut has performed at the following festivals
 ## Media
 ### Videos
 * [Video](http://youtu.be/Vih0JjV831I) by [[Brian Boyko]] of a 2009 show.
-* [Video](http://vimeo.com/21037196) by [[Performers/Lisa Jackson]] of their 3/12/11 "Improvioke" show.
+* [Video](http://vimeo.com/21037196) by [[Performers/Lisa Jackson|Lisa Jackson]] of their 3/12/11 "Improvioke" show.
 * [December 2011 "It's a Tolerable Existence" show.](http://vimeo.com/36009826)
 * [8/11/12 show: "Mattress Cover".](http://vimeo.com/50645379)
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/14 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/2/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
 
 ## Miscellaneous
@@ -140,9 +140,9 @@ Nice Astronaut also hosted the short lived ["Nomad Comedy Nights"](http://blog.c
 
 ## See Also
 * [[Townsville]]
-* [[Troupes/Who Dack]]
-* [[Troupes/Kingston]]
-* [[Troupes/First United Methodist Church of Plano's Youth Group Improv]]
+* [[Troupes/Who Dack|Who Dack]]
+* [[Troupes/Kingston|Kingston]]
+* [[Troupes/First United Methodist Church of Plano's Youth Group Improv|First United Methodist Church of Plano's Youth Group Improv]]
 
 ## More Information
 * [Nice Astronaut on Facebook](http://www.facebook.com/NiceAstronaut)

@@ -25,7 +25,7 @@
 Beth dabbles in improv and sketch, but spends most of her time producing short films.
 
 ## Troupes
-* [[Troupes/BatShyt Crazy]]
+* [[Troupes/BatShyt Crazy|BatShyt Crazy]]
 * [[The Moral Compass Rumpus]]
 
 

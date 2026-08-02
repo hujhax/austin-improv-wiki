@@ -3,7 +3,7 @@
 ## Summary
 A promotional image for the 2012 [[Wafflefest]].
 
-The photo, a close-up of [[Performers/Ted Rutherford]] staring at a waffle, has been part of the festival's promotional materials for years.
+The photo, a close-up of [[Performers/Ted Rutherford|Ted Rutherford]] staring at a waffle, has been part of the festival's promotional materials for years.
 
 Photo by: unknown.
 Art by: unknown.

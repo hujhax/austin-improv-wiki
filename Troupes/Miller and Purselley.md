@@ -72,7 +72,7 @@
 
 **Miller and Purselley** (originally **Nat and Pierce**) are an improv duo consisting of ColdTowne faculty members [[Nat Miller]] and [[Pierce Purselley]].  They perform improvised plays.
 
-They played a weekly show at [[Coldtowne Theater]] every Wednesday at 8:30pm for three years, performing their final regular show on March 25, 2015. [[Troupes/Patio Talk]] replaced them in the Wednesday-night slot.
+They played a weekly show at [[Coldtowne Theater]] every Wednesday at 8:30pm for three years, performing their final regular show on March 25, 2015. [[Troupes/Patio Talk|Patio Talk]] replaced them in the Wednesday-night slot.
 
 ## Summary
 ### Press Bio

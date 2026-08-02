@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="WHTDYD.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The Austin based Improv Troupe **[[Troupes/We're Here to Date Your Daughter]]**
+The Austin based Improv Troupe **[[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]]**
 
 
 ## Licensing

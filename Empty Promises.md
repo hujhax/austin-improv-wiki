@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Performers/Eli Eidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Eli Eidson</a></li><!--
   --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
   --><li style=""><a class="internal-link" href="Mathew Stoner">Mathew Stoner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Performers/Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style=""><a class="internal-link" href="Caitlin McNally">Caitlin McNally</a></li><!--
   --><li style="" ><a class="internal-link" href="Justin Linville">Justin Linville</a></li><!--

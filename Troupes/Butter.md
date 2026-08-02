@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
   --><!--
   --><!--

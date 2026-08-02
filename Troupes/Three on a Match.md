@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Performers/Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Performers/Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -87,7 +87,7 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 * [Video](https://vimeo.com/120640690) by [[Kyle Sweeney]] of their 2/20/15 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/14 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.851529264910591.1073742119.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/14 performance in [[WaffleFest 2014]].
 
 ## More Information

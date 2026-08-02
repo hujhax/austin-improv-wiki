@@ -22,26 +22,26 @@
 **Michael Joplin** is an improv performer, teacher, and director.
 
 ## Troupes
-* [[Troupes/Available Cupholders]]
-* [[Troupes/Brain Trust]]
+* [[Troupes/Available Cupholders|Available Cupholders]]
+* [[Troupes/Brain Trust|Brain Trust]]
 * [[Continental Breakfast]] (director)
-* [[Troupes/The Known Wizards]]
-* [[Troupes/The Knuckleball Now]]
-* [[Troupes/Well Hung Jury]]
+* [[Troupes/The Known Wizards|The Known Wizards]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+* [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ## Shows
-* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * *[[Dusk]]*
 * *[[The Family]]*
-* *[[Shows/Guilds Of Steel]]* (director)
-* *[[Shows/Heist!]]* (director)
-* *[[Shows/Lola]]*
-* *[[Shows/Process]]*
-* *[[Shows/Pulp Friction]]*
+* *[[Shows/Guilds Of Steel|Guilds Of Steel]]* (director)
+* *[[Shows/Heist!|Heist!]]* (director)
+* *[[Shows/Lola|Lola]]*
+* *[[Shows/Process|Process]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]*
 
 ## More Information
-* [Interview](http://yesandrew.com/2014/07/13/the-sunday-interview-michael-joplin/) by [[Performers/Andrew Buck]].
-* [Interview](http://yesandrew.com/the-sunday-interview-michael-joplin/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/07/13/the-sunday-interview-michael-joplin/) by [[Performers/Andrew Buck|Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-michael-joplin/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Teachers|Joplin]]
 [[Category/Performers|Joplin]]

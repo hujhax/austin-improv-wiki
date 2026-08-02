@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Drew Wesely Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Drew Wesely]] who likes cats.
+[[Performers/Drew Wesely|Drew Wesely]] who likes cats.
 
 Photo by, and thumb of, Liz Dykes 2011
 ## Licensing

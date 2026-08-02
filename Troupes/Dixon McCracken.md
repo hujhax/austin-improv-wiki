@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Joel Keith">Joel Keith</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Performers/Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Dixon McCracken** was an improv duo.
 
 ## History
-They played a *[[Shows/Cagematch]]* on 5/4/11.
+They played a *[[Shows/Cagematch|Cagematch]]* on 5/4/11.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

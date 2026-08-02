@@ -26,14 +26,14 @@ Jason started his improv career in Houston, where he performed with Scatter!  Af
 
 ## Troupes
 * [[Scatter!]]
-* [[Troupes/Baby Kick Baby]]
+* [[Troupes/Baby Kick Baby|Baby Kick Baby]]
 * [[Roosevelt's Legs]]
-* [[Troupes/Mother Fing Action Heroes!]]
-* [[Troupes/Mathematical!]]
-* [[Troupes/Epic]]
-* [[Troupes/Side Hugs]]
+* [[Troupes/Mother Fing Action Heroes!|Mother Fing Action Heroes!]]
+* [[Troupes/Mathematical!|Mathematical!]]
+* [[Troupes/Epic|Epic]]
+* [[Troupes/Side Hugs|Side Hugs]]
 
 ## Shows
-* *[[Shows/Sci-Fi Saturdays]]*
+* *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
 
 [[Category/Performers|Oliver]]

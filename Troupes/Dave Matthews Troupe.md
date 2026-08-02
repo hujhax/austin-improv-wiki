@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Performers/Brad Temple</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Performers/Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
   --><!--
   --><!--
@@ -83,7 +83,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3) by [[Roy Moore]] that includes their 3/5/12 performance in *[[Shows/The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3) by [[Roy Moore]] that includes their 3/5/12 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

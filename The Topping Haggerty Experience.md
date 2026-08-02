@@ -1,5 +1,5 @@
 
-**Topping Haggerty Experience** is the one-person improvised long form show performed by [[Performers/Topping Haggerty]].
+**Topping Haggerty Experience** is the one-person improvised long form show performed by [[Performers/Topping Haggerty|Topping Haggerty]].
 
 
 ## History

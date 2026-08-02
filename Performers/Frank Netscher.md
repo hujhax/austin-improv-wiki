@@ -26,19 +26,19 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 <blockquote>I've been performing and studying improv and sketch since 2009. I'm based out of [[Coldtowne Theater]], but I’ve studied with teachers from iO, Second City, Annoyance, BATS, UCB, ImproMelbourne, The Institution and The Hideout. I've performed in NYC, Melbourne, and on YouTube. I hate summer homework.</blockquote>
 
 ## Troupes
-* [[Troupes/Array]]
-* [[Troupes/Big Beautiful Warlock]]
-* [[Troupes/Delta Force of Venus]]
-* [[Troupes/Kingston]]
-* [[Troupes/Mustache]]
-* [[Troupes/Pasta with a Chat]]
-* [[Troupes/Secret Senate]]
-* [[Troupes/What's the Story, Steve]]
-* [[Troupes/Youth Group Improv]]
+* [[Troupes/Array|Array]]
+* [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]]
+* [[Troupes/Delta Force of Venus|Delta Force of Venus]]
+* [[Troupes/Kingston|Kingston]]
+* [[Troupes/Mustache|Mustache]]
+* [[Troupes/Pasta with a Chat|Pasta with a Chat]]
+* [[Troupes/Secret Senate|Secret Senate]]
+* [[Troupes/What's the Story, Steve|What's the Story, Steve]]
+* [[Troupes/Youth Group Improv|Youth Group Improv]]
 
 ## Shows
-* *[[Shows/Big Beautiful Warriors]]*
-* *[[Shows/Live From ColdTowne It's Saturday Night!]]*
+* *[[Shows/Big Beautiful Warriors|Big Beautiful Warriors]]*
+* *[[Shows/Live From ColdTowne It's Saturday Night!|Live From ColdTowne It's Saturday Night!]]*
 * *[[Townsville]]*
 
 ## More Information

@@ -3,12 +3,12 @@
 ![[Wafflefest Logo.png|The WaffleFest logo; a variation on the Hideout logo.]]
 ![[Wafflefest ad.jpg|A promotional image for WaffleFest 2012.]]
 ## Summary
-WaffleFest is a three-day festival that takes place the second weekend of November at [[The Hideout Theatre]].  It includes local acts from all the improv theaters in town, as well as an all-star *[[Shows/Maestro]]*.
+WaffleFest is a three-day festival that takes place the second weekend of November at [[The Hideout Theatre]].  It includes local acts from all the improv theaters in town, as well as an all-star *[[Shows/Maestro|Maestro]]*.
 
 WaffleFest also offers festival-goers all the free waffles they can eat, with a variety of toppings.  Thus their tagline, "all the waffles and improv comedy you can eat".
 
 ## History
-The first WaffleFest was organized by [[Performers/Sean Hill]], and it was just a two-day event, occurring on 11/8 and 11/9/02.
+The first WaffleFest was organized by [[Performers/Sean Hill|Sean Hill]], and it was just a two-day event, occurring on 11/8 and 11/9/02.
 
 ## List of Wafflefests
 * [[WaffleFest 2002]]
@@ -26,4 +26,4 @@ The first WaffleFest was organized by [[Performers/Sean Hill]], and it was just 
 * [[WaffleFest 2014]]
 
 ## More Information
-* [Post about the festival](http://www.hideouttheatre.com/waffles-improv-and-vicki) by [[Performers/Paul Normandin]] from the Hideout blog.
+* [Post about the festival](http://www.hideouttheatre.com/waffles-improv-and-vicki) by [[Performers/Paul Normandin|Paul Normandin]] from the Hideout blog.

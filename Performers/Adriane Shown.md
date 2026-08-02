@@ -23,26 +23,26 @@
 
 ## History
 Having been involved with The Institution Theater before it actually had a home of it's own, she became a House Manager while still a student, once it found it's home on Woodbury Drive. And has been involved in several shows in many capacities. 
-Hurly Burly : Improvised Burlesque Stories, won two B. Iden Payne Awards, invited to play at Out Of Bounds Comedy Festival & the Seattle Festival of Improvised Theater. She was one of the recipients of the [[Performers/Tom Booker]] Appreciation Awards, as well as Blind Side Award at [[The Institution Theater Awards]] 2014. Also nominated for Favorite Female Performer & her show, Hell & Back Cabaret was nominated for Favorite Variety Show.
+Hurly Burly : Improvised Burlesque Stories, won two B. Iden Payne Awards, invited to play at Out Of Bounds Comedy Festival & the Seattle Festival of Improvised Theater. She was one of the recipients of the [[Performers/Tom Booker|Tom Booker]] Appreciation Awards, as well as Blind Side Award at [[The Institution Theater Awards]] 2014. Also nominated for Favorite Female Performer & her show, Hell & Back Cabaret was nominated for Favorite Variety Show.
 
 ## Troupes
 * [[The Dark Sparkles]]
 
 ## Shows
 * *[[30 Trips in 60 Minutes]]* Lucky Chaos at SVT
-* *[[Shows/Hurly Burly]]* (Rose Bouquet) 2nd run
+* *[[Shows/Hurly Burly|Hurly Burly]]* (Rose Bouquet) 2nd run
 * *[[Risen!]]* (Monologist)
-* *[[Shows/Hurly Burly]]* (Lili Corsage) 1st run
+* *[[Shows/Hurly Burly|Hurly Burly]]* (Lili Corsage) 1st run
 * *[[Hell & Back Cabaret - Trois]]* (creator, director, host [as "Gentress Helena Back"])
-* *[[Shows/The Cherry Bowl]]* (Lyubov) at SVT 2013 run
+* *[[Shows/The Cherry Bowl|The Cherry Bowl]]* (Lyubov) at SVT 2013 run
 * *[[BitterFest]]*
 * *[[Hell & Back Cabaret - Redux]]* (creator, director, host [as "Gentress Helena Back" & "Sugarbabe Goodhue])
-* *[[Shows/Bad Girls in Plaid Skirts]]* (Mother Superior, Helena, Bad Girl)
-* *[[Shows/Hell & Back Cabaret]]* (creator, director, host [as "Gentress Helena Back" & "Sugarbabe Goodhue"])
+* *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (Mother Superior, Helena, Bad Girl)
+* *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]* (creator, director, host [as "Gentress Helena Back" & "Sugarbabe Goodhue"])
 * *[[Teen Angst Tuesdays -  Felicity  -  Gimmie an O]]* (Various Roles)
 * *[[Teen Angst Tuesdays -  Scrubs  -  My Musical]]* (Jordan / Ensemble)
-* *[[Shows/This American Live]]* (Set Design)
-* *[[Shows/The Suitcase]]* (Costume & Set Design)
+* *[[Shows/This American Live|This American Live]]* (Set Design)
+* *[[Shows/The Suitcase|The Suitcase]]* (Costume & Set Design)
 
 #### Additional Scripted Shows
 * "The Vagina Monologues" at North Door

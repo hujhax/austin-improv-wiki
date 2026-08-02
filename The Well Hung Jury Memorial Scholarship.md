@@ -1,4 +1,4 @@
-**The [[Troupes/Well Hung Jury]] Memorial Scholarship** was a contest associated with [[The Out Of Bounds Comedy Festival]] from 2006 to 2010.  In it, applicants would propose improv show ideas.  The best entrant would win an all-access pass to the Out of Bounds Festival.
+**The [[Troupes/Well Hung Jury|Well Hung Jury]] Memorial Scholarship** was a contest associated with [[The Out Of Bounds Comedy Festival]] from 2006 to 2010.  In it, applicants would propose improv show ideas.  The best entrant would win an all-access pass to the Out of Bounds Festival.
 
 ## Summary
 ### The Rules
@@ -7,21 +7,21 @@ These are the published rules from the 2008 contest[http://forum.austinimprov.co
 
 ## Winners
 * 2006:
-	* Winner: [[Performers/Kaci Beeler]] with *Opening Night at the Burton Community Theater*
+	* Winner: [[Performers/Kaci Beeler|Kaci Beeler]] with *Opening Night at the Burton Community Theater*
 	* Runners-up:
 		* [[Wesley Bain]] with *Final Moments* 
 		* [[Jesse Parent]] with *The Hook* 
-		* [[Performers/Andy Crouch]] with *The Vulnerable Show* 
+		* [[Performers/Andy Crouch|Andy Crouch]] with *The Vulnerable Show* 
 		* [[Wesley Bain]] with *You Again*
 * 2007: 
-	* Winner: [[Performers/Jeff Britt]] with *Wild Strawberries* [http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499](http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499)
-	* Runner-up: [[Performers/Roy Janik]] with *The Tesseract* [http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499](http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499)
+	* Winner: [[Performers/Jeff Britt|Jeff Britt]] with *Wild Strawberries* [http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499](http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499)
+	* Runner-up: [[Performers/Roy Janik|Roy Janik]] with *The Tesseract* [http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499](http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499)
 * 2008:
-	* Winner: [[Performers/Jordan T. Maxwell]] with *Our American Cousin*[http://forum.austinimprov.com/viewtopic.php?f=11&t=7304#p65547](http://forum.austinimprov.com/viewtopic.php?f=11&t=7304#p65547)
+	* Winner: [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] with *Our American Cousin*[http://forum.austinimprov.com/viewtopic.php?f=11&t=7304#p65547](http://forum.austinimprov.com/viewtopic.php?f=11&t=7304#p65547)
 * 2009:
-	* Winner: [[Performers/Valerie Ward]] with *Murder Mystery*[http://forum.austinimprov.com/viewtopic.php?f=4&t=9589](http://forum.austinimprov.com/viewtopic.php?f=4&t=9589)
+	* Winner: [[Performers/Valerie Ward|Valerie Ward]] with *Murder Mystery*[http://forum.austinimprov.com/viewtopic.php?f=4&t=9589](http://forum.austinimprov.com/viewtopic.php?f=4&t=9589)
 * 2010:
-	* Winner: [[Performers/Luis Salinas]] with *The Dream*[http://forum.austinimprov.com/viewtopic.php?f=11&t=10960#p96481](http://forum.austinimprov.com/viewtopic.php?f=11&t=10960#p96481)
+	* Winner: [[Performers/Luis Salinas|Luis Salinas]] with *The Dream*[http://forum.austinimprov.com/viewtopic.php?f=11&t=10960#p96481](http://forum.austinimprov.com/viewtopic.php?f=11&t=10960#p96481)
 
 ## More Information
 * [Forum thread for the 2006 contest.](http://forum.austinimprov.com/viewtopic.php?f=11&t=1187)

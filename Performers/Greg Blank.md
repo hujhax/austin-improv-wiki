@@ -80,14 +80,14 @@ Greg started doing improv in Washington DC in 2008.  He attended classes at Wash
 Upon moving to Austin he signed up for classes pronto.
 
 ## Troupes
-* [[Troupes/Peanut Berry]]
+* [[Troupes/Peanut Berry|Peanut Berry]]
 
 ## Shows
-* *[[Shows/Cochise]]* (2014)
-* *[[Shows/Song Runner]]* (2015) (Tech)
-* *[[Shows/The Untitled Avant-Garde Theater Project with a Really Long Title]]* (2016) (Tech)
-* *[[Shows/Buddy Cop]]* (2017) (Tech)
-* *[[Shows/Local on the Eights]]* (2017) (Tech)
-* *[[Shows/Orphans!]]* (2018) (Tech)
+* *[[Shows/Cochise|Cochise]]* (2014)
+* *[[Shows/Song Runner|Song Runner]]* (2015) (Tech)
+* *[[Shows/The Untitled Avant-Garde Theater Project with a Really Long Title|The Untitled Avant-Garde Theater Project with a Really Long Title]]* (2016) (Tech)
+* *[[Shows/Buddy Cop|Buddy Cop]]* (2017) (Tech)
+* *[[Shows/Local on the Eights|Local on the Eights]]* (2017) (Tech)
+* *[[Shows/Orphans!|Orphans!]]* (2018) (Tech)
 
 [[Category/Performers|Blank]]

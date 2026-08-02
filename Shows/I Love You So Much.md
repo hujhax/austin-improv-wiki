@@ -14,24 +14,24 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a>, <a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a>, <a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Performers/Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Performers/Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Performers/Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Dean Palm">Dean Palm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -139,7 +139,7 @@
 Each performance featured three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer played one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show emphasized honest, grounded scenes and vulnerability, similar to the style of British improv duo [Ten Thousand Million Love Stories](http://www.facebook.com/TenThousandMillionLoveStories).
 
 ## History
-At the end of opening night of *I Love You So Much*, improviser [[Performers/Ryan Hill]] proposed to improviser [[Performers/Jen Kaplan]], during a contrived "bonus scene" set up by [[Performers/Roy Janik]] and [[Performers/Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, [[Dean Palm]], was in the tech booth.
+At the end of opening night of *I Love You So Much*, improviser [[Performers/Ryan Hill|Ryan Hill]] proposed to improviser [[Performers/Jen Kaplan|Jen Kaplan]], during a contrived "bonus scene" set up by [[Performers/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, [[Dean Palm]], was in the tech booth.
 
 Later in the run, an audience member proposed to his girlfriend during a show (she also said yes).
 
@@ -160,8 +160,8 @@ Later in the run, an audience member proposed to his girlfriend during a show (s
 ## More Information
 * [Show announcement in the Hideout's 2014 season preview.](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule)
 * [Audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=16525) on [[The Austin Improv Forums]].
-* [Post about the show](http://yesandrew.com/2014/01/25/i-love-you-so-much/) by [[Performers/Andrew Buck]].
-* [Post about the show](http://www.hideouttheatre.com/trust-and-love) by [[Performers/Bridget Brewer]] on the Hideout blog.
+* [Post about the show](http://yesandrew.com/2014/01/25/i-love-you-so-much/) by [[Performers/Andrew Buck|Andrew Buck]].
+* [Post about the show](http://www.hideouttheatre.com/trust-and-love) by [[Performers/Bridget Brewer|Bridget Brewer]] on the Hideout blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

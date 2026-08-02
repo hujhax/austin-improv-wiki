@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Tyler Bryce Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Tyler Bryce]], in the season-one finale of *[[Shows/Thinning The Herd]]*, on 1/3/13.
+[[Performers/Tyler Bryce|Tyler Bryce]], in the season-one finale of *[[Shows/Thinning The Herd|Thinning The Herd]]*, on 1/3/13.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.480098265387028.115279.221927764537414&type=3). 
 ## Licensing

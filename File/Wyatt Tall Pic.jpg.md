@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Wyatt Tall Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Wyatt Tall]], performing in *[[Only Three Will Survive]]* on 8/17/12.
+[[Performers/Wyatt Tall|Wyatt Tall]], performing in *[[Only Three Will Survive]]* on 8/17/12.
 
-Photo by [[Performers/Claudio Fox]], from [this photoset](http://www.facebook.com/media/set/?set=a.459028210785346.103266.100000345135257&type=3).
+Photo by [[Performers/Claudio Fox|Claudio Fox]], from [this photoset](http://www.facebook.com/media/set/?set=a.459028210785346.103266.100000345135257&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Performers/Bob Apthorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Performers/Mike Kinald</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Performers/Mo Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Mo Daviau</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@ The troupe started their performance asking the audience for an unlikely locatio
 The troupe then played the crew of a German World War II tank, and the show conversing and driving the tank around the suggested location.
 
 ## History
-* The troupe played their show one time, in *[[Shows/The Cagematch]]*.
+* The troupe played their show one time, in *[[Shows/The Cagematch|The Cagematch]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

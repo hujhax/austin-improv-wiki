@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,9 +81,9 @@ The current rehearsed format is a loose attempt at a Harold, taking liberties wh
 #### Adventure Time
 ## Media
 ### Videos
-* [Video of their 12/11/10 show](http://vimeo.com/17953560) at *[[Shows/The Saturday Night Special]]*.
+* [Video of their 12/11/10 show](http://vimeo.com/17953560) at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.10150151634862265.328768.588952264&type=3) by [[Performers/Peter Rogers]] of their 2/5/11 performance in *[[Shows/The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10150151634862265.328768.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/5/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 
 ### Press/Audition Blurbs
 * **What Do We Do?**

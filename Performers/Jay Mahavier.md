@@ -22,11 +22,11 @@
 **Jay Mahavier** is an improv performer, photographer and tech.
 
 ## Shows
-* *[[Shows/Control Issues]]* (tech, swing)
-* *[[Shows/Boy, Howdy!]]* (tech, sound effects)
-* *[[Shows/Savage Swords]]* (tech, swing)
-* *[[Shows/Austin Secrets]]* (2016 run) (tech, scoring)
-* *[[Shows/Fiasco]]* (tech, sound effects)
+* *[[Shows/Control Issues|Control Issues]]* (tech, swing)
+* *[[Shows/Boy, Howdy!|Boy, Howdy!]]* (tech, sound effects)
+* *[[Shows/Savage Swords|Savage Swords]]* (tech, swing)
+* *[[Shows/Austin Secrets|Austin Secrets]]* (2016 run) (tech, scoring)
+* *[[Shows/Fiasco|Fiasco]]* (tech, sound effects)
 
 [[Category/Performers|Mahavier]]
 [[Category/Photographers|Mahavier]]

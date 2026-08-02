@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Dana Yanoshak Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Performers/Dana Yanoshak]] taken during the [[Apocalypse]] photo shoot.
+Photo of [[Performers/Dana Yanoshak|Dana Yanoshak]] taken during the [[Apocalypse]] photo shoot.
 
-Photo by [[Performers/Heidi Rogers]]
+Photo by [[Performers/Heidi Rogers|Heidi Rogers]]
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

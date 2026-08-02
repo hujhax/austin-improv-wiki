@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Werewolf Birthday** is an improv duo.
 
 ## History
-They played one *[[Shows/Cagematch]]* on 8/14/08, and one on 3/20/13.
+They played one *[[Shows/Cagematch|Cagematch]]* on 8/14/08, and one on 3/20/13.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

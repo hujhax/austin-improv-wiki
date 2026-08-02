@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
   --><li style=""><a class="internal-link" href="Dan Grimm">Dan Grimm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,10 +81,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/34043354) by [[Kyle Sweeney]] of their 11/28/11 performance in *[[Shows/The Monday Night Mash]]*.
+* [Video](http://vimeo.com/34043354) by [[Kyle Sweeney]] of their 11/28/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198549087265.346702.588952264&type=3) by [[Performers/Peter Rogers]] of their 3/31/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198549087265.346702.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/31/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

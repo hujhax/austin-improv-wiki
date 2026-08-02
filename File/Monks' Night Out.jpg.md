@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Monks' Night Out.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Monks' Night Out]], playing [[The Velveeta Room]] in 1999.
+[[Troupes/Monks' Night Out|Monks' Night Out]], playing [[The Velveeta Room]] in 1999.
 
 Photo from [this gallery](http://m.austin360.com/gallery/clark-howard/employment-military/austins-comedy-scene-042212/g4L4/).
 ## Licensing

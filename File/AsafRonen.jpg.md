@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="AsafRonen.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Performers/Asaf Ronen]] (who owns its copyright).
+Photo of [[Performers/Asaf Ronen|Asaf Ronen]] (who owns its copyright).
 
 Photo by: unknown.
 

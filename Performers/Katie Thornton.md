@@ -22,26 +22,26 @@
 **Katie Thornton** is an improv performer.
 
 ## History
-Katie started taking improv classes with [[Performers/Shana Merlin]] at [[The State Theater]] in 2007, with classmates [[Performers/Courtney Hopkin]] and [[Albert Im]].
+Katie started taking improv classes with [[Performers/Shana Merlin|Shana Merlin]] at [[The State Theater]] in 2007, with classmates [[Performers/Courtney Hopkin|Courtney Hopkin]] and [[Albert Im]].
 
 ## Troupes
-* [[Troupes/Snackers]]
-* [[Troupes/Sugarbakers]]
-* [[Troupes/Three on a Match]]
+* [[Troupes/Snackers|Snackers]]
+* [[Troupes/Sugarbakers|Sugarbakers]]
+* [[Troupes/Three on a Match|Three on a Match]]
 
 ## Shows
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Shows/The Andersons]]* (Mary-Alice Anderson)
+* *[[Shows/The Andersons|The Andersons]]* (Mary-Alice Anderson)
 * *[[Dusk]]*
-* *[[Shows/The Sandbox]]*
-* *[[Shows/Totally Improvised, 90210]]* (Kelly Taylor)
-* *[[Shows/The Professor -  Improv Inspired by Doctor Who]]*
+* *[[Shows/The Sandbox|The Sandbox]]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (Kelly Taylor)
+* *[[Shows/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
 * *[[Oscar Bait]]*
-* *[[Shows/Braised in Texas]]*
-* *[[Shows/Beware of Female Spies]]* (producer) 
-* ''[[Shows/Back In Townsville]]
-* ''[[Troupes/Bridgeport Women's Correctional Facility Short Form Players]]
+* *[[Shows/Braised in Texas|Braised in Texas]]*
+* *[[Shows/Beware of Female Spies|Beware of Female Spies]]* (producer) 
+* ''[[Shows/Back In Townsville|Back In Townsville]]
+* ''[[Troupes/Bridgeport Women's Correctional Facility Short Form Players|Bridgeport Women's Correctional Facility Short Form Players]]
 
 
 [[Category/Performers|Thornton]] 

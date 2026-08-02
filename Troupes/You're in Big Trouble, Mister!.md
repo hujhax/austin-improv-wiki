@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="'Mike S.'">'Mike S.'</a></li><!--
   --><li style=""><a class="internal-link" href="Delanie Liming">Delanie Liming</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**You're in Big Trouble, Mister!** was a *[[Shows/Cagematch]]* team.
+**You're in Big Trouble, Mister!** was a *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They won the "Feud of Fury" Cagematch tournament in summer 2009, as well as the Cagematch "Tournament of Champions" in summer 2010.

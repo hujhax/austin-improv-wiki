@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Steam.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional art for *[[Shows/Steam]]*.
+Promotional art for *[[Shows/Steam|Steam]]*.
 
 Art and photography by [[Steve Rogers]].
 ## Licensing

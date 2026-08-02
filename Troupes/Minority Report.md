@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Performers/Cristy Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
   --><!--

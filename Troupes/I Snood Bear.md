@@ -77,7 +77,7 @@
 From their web site: <blockquote>We specialize in improvised theater which explores atypical storytelling techniques, dramatic comedy, and realistic characters.  We believe that real life is fascinating, and honesty is one of the most compelling things to see on stage.  Our goal is to tell stories that resonate on an emotional level.</blockquote>
 
 ## History
-The troupe premiered in the 2007 *[[Shows/Cagematch]]*, under the name "A Bride Soon".
+The troupe premiered in the 2007 *[[Shows/Cagematch|Cagematch]]*, under the name "A Bride Soon".
 
 ## Media
 ### Photos

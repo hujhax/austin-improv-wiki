@@ -14,16 +14,16 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Delanie Liming">Delanie Liming</a></li><!--
   --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
   --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
   --><!--
@@ -74,12 +74,12 @@
 	</table>
 </div>
 
-**Maude** was a one-off *[[Shows/Cagematch]]* team.
+**Maude** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played two Cagematches on 9/19/09 and 10/10/09.
 
-Afterwards, the troupe morphed into [[Troupes/Sarah 7]].
+Afterwards, the troupe morphed into [[Troupes/Sarah 7|Sarah 7]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

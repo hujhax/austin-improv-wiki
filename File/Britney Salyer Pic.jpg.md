@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Britney Salyer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Britney Salyer]] performing in *[[Shows/The Sandbox]]* on 1/28/11.
+[[Performers/Britney Salyer|Britney Salyer]] performing in *[[Shows/The Sandbox|The Sandbox]]* on 1/28/11.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.1510218567308.2064271.1589679282&type=3).
 ## Licensing

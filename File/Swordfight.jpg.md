@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Swordfight.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Performance by [[Troupes/Swordfight]].
+Performance by [[Troupes/Swordfight|Swordfight]].
 
 Photo by: unknown.
 ## Licensing

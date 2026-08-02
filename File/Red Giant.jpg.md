@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Red Giant.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Red Giant]].
+Publicity image for [[Troupes/Red Giant|Red Giant]].
 
 Photo by: unknown.
 

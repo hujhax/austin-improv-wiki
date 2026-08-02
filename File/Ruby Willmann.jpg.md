@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ruby Willmann.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Ruby Willmann]] performing with [[Troupes/The Escorts]] on 8/24/12.
+[[Performers/Ruby Willmann|Ruby Willmann]] performing with [[Troupes/The Escorts|The Escorts]] on 8/24/12.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.412280975502091.99885.221927764537414&type=3).
 ## Licensing

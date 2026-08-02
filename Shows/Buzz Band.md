@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Performers/Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,17 +70,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Johnston">Performers/Andrew Johnston</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Ronn">Performers/David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan Maxwell">Performers/Jordan Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Performers/Mary Henderson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Performers/Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Johnston">Andrew Johnston</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan Maxwell">Jordan Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
   --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Performers/Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -124,7 +124,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Cortney DeAngelo]]</td>
+			<td class="category">[[Performers/Cortney DeAngelo|Cortney DeAngelo]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

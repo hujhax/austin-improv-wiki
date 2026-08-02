@@ -14,12 +14,12 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
   --><li style=""><a class="internal-link" href="Robin Goodfellow">Robin Goodfellow</a></li><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 	</table>
 </div>
 
-**Buddy Daddy** is an improv duo consisting of [[Performers/Arthur Simone]] and his dog.
+**Buddy Daddy** is an improv duo consisting of [[Performers/Arthur Simone|Arthur Simone]] and his dog.
 
 ## History
 The duo played [[The Out Of Bounds Comedy Festival]] from 2008 to 2011.

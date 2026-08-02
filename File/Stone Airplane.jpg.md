@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Stone Airplane.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Stone Airplane]].
+Publicity photo of [[Troupes/Stone Airplane|Stone Airplane]].
 
 Photo by: unknown.
 

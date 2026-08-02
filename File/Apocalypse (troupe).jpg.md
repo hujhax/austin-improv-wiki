@@ -3,7 +3,7 @@
 ## Summary
 Publicity photo for the troupe [[Troupes/Apocalypse (troupe)|Apocalypse]].
 
-Art by [[Performers/Andreas Fabis]].
+Art by [[Performers/Andreas Fabis|Andreas Fabis]].
 
 Photo by: unknown.
 ## Licensing

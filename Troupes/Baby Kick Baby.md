@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Performers/Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Bird">Michael Bird</a></li><!--
   --><!--
   --><!--
@@ -90,7 +90,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104471242264.104199.588952264&type=3) by [[Performers/Peter Rogers]] of their 4/16/09 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104471242264.104199.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/16/09 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Performers/Jeanette Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Performers/Justin Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></li><!--
   --><!--
   --><!--
   --><!--

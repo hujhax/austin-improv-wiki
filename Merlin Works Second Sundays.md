@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Troupes/The Known Wizards">Troupes/The Known Wizards</a>, guests</td>
+			<td class="category"><a class="internal-link" href="Troupes/The Known Wizards">The Known Wizards</a>, guests</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-**Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[Troupes/The Known Wizards]].
+**Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].
 
 {| class="wikitable"
 |**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
@@ -656,7 +656,7 @@
 |-
 |November 11, 2018||Singing 601||[[Better Than Dignity]]
 |-
-|October 21, 2018||Improv 301||[[Troupes/Kevlar -  We're Bulletproof]]
+|October 21, 2018||Improv 301||[[Troupes/Kevlar -  We're Bulletproof|Kevlar -  We're Bulletproof]]
 |-
 |September 9, 2018||Student showcase||[[Crossroads]]
 |-
@@ -664,7 +664,7 @@
 |-
 |July 8, 2018||Improv 201||[[The Morning After]]
 |-
-|June 10, 2018||Student showcase||[[Troupes/Soy Taco]] 
+|June 10, 2018||Student showcase||[[Troupes/Soy Taco|Soy Taco]] 
 |-
 |May 13, 2018||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -720,7 +720,7 @@
 --></ul></div>||N/A 
 
 |-
-|April 8, 2018||Student showcase||[[Troupes/Get Up]] 
+|April 8, 2018||Student showcase||[[Troupes/Get Up|Get Up]] 
 |-
 |March 4, 2018||<div class="plainlist"><ul style=""><!--
   --><li style="">Singing 301</li><!--
@@ -776,11 +776,11 @@
 --></ul></div>||N/A
 
 |-
-|February 11, 2018||Student showcase||[[Troupes/Girls Girls Girls]] 
+|February 11, 2018||Student showcase||[[Troupes/Girls Girls Girls|Girls Girls Girls]] 
 |-
 |January 7, 2018||N/A||<div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Dial 'I' for Improv">Dial 'I' for Improv</a></li><!--
-  --><li style=""><a class="internal-link" href="Troupes/Golden">Troupes/Golden</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Golden">Golden</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -896,7 +896,7 @@
 |-
 |July 9, 2017||Improv 201 recital||[[Donut Patrol]]
 |-
-|June 11, 2017||Student showcase||[[Troupes/Things We Don't Speak Of]]
+|June 11, 2017||Student showcase||[[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]]
 |-
 |May 14, 2017||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1010,19 +1010,19 @@
 |-
 |February 12, 2017||Student showcase||[[Sugar Water Purple]]
 |-
-|January 8, 2017||Student showcase||[[Troupes/Channel 2]]
+|January 8, 2017||Student showcase||[[Troupes/Channel 2|Channel 2]]
 |-
 |December 11, 2016||Merlin Works holiday party||N/A 
 |-
-|November 13, 2016||Improv 301||[[Troupes/JK]]
+|November 13, 2016||Improv 301||[[Troupes/JK|JK]]
 |-
-|October 16, 2016||Student showcase||[[Troupes/Minority Report]]
+|October 16, 2016||Student showcase||[[Troupes/Minority Report|Minority Report]]
 |-
 |September 11, 2016||Student showcase||[[Empty Promises]]
 |-
-|August 14, 2016||Improv 301||[[Troupes/Opposites]] 
+|August 14, 2016||Improv 301||[[Troupes/Opposites|Opposites]] 
 |-
-|July 10, 2016||Student showcase||[[Troupes/Loverboy]] 
+|July 10, 2016||Student showcase||[[Troupes/Loverboy|Loverboy]] 
 |-
 |June 12, 2016||Merlin Works student troupe||[[Damn Gina]] 
 |-
@@ -1080,7 +1080,7 @@
 --></ul></div>||N/A
 
 |-
-|April 10, 2016||Student showcase||[[Troupes/Physics Curse]] 
+|April 10, 2016||Student showcase||[[Troupes/Physics Curse|Physics Curse]] 
 |-
 |March 6, 2016||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1138,15 +1138,15 @@
 |-
 |February 7, 2016||Student showcase||[[Love Me Tinder]]
 |-
-|November 22, 2015||Student showcase||[[Troupes/Golden]] 
+|November 22, 2015||Student showcase||[[Troupes/Golden|Golden]] 
 |-
-|November 8, 2015||Student showcase||[[Troupes/Houses in Motion]] 
+|November 8, 2015||Student showcase||[[Troupes/Houses in Motion|Houses in Motion]] 
 |-
-|October 11, 2015||601 presents "The Big Event"||[[Troupes/MC Harold]] 
+|October 11, 2015||601 presents "The Big Event"||[[Troupes/MC Harold|MC Harold]] 
 |-
-|September 13, 2015||Student showcase||[[Troupes/In Our Prime]] 
+|September 13, 2015||Student showcase||[[Troupes/In Our Prime|In Our Prime]] 
 |-
-|August 9, 2015||Student showcase||[[Shows/History Under the Influence]] 
+|August 9, 2015||Student showcase||[[Shows/History Under the Influence|History Under the Influence]] 
 |-
 |July 12, 2015||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1202,7 +1202,7 @@
 --></ul></div>||N/A 
 
 |-
-|June 14, 2015||Student showcase||[[Troupes/The Escorts]]
+|June 14, 2015||Student showcase||[[Troupes/The Escorts|The Escorts]]
 |-
 |May 10, 2015||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1258,7 +1258,7 @@
 --></ul></div>||N/A
 
 |-
-|April 12, 2015||Student showcase||[[Troupes/Brain Trust]] 
+|April 12, 2015||Student showcase||[[Troupes/Brain Trust|Brain Trust]] 
 |-
 |March 8, 2015||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1314,11 +1314,11 @@
 --></ul></div>||N/A
 
 |-
-|February 8, 2015||Student showcase||[[Troupes/Miller & Purselley]] 
+|February 8, 2015||Student showcase||[[Troupes/Miller & Purselley|Miller & Purselley]] 
 |-
 |January 11, 2015||Student showcase||<div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="The New Kids">The New Kids</a></li><!--
-  --><li style=""><a class="internal-link" href="Troupes/Girls Girls Girls">Troupes/Girls Girls Girls</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -1370,9 +1370,9 @@
 --></ul></div>
 
 |-
-|November 23, 2014||Student showcase||[[Troupes/That Racket!]] 
+|November 23, 2014||Student showcase||[[Troupes/That Racket!|That Racket!]] 
 |-
-|November 9, 2014||Student showcase||[[Troupes/Get Up]]
+|November 9, 2014||Student showcase||[[Troupes/Get Up|Get Up]]
 |-
 |October 12, 2014||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1428,9 +1428,9 @@
 --></ul></div>||N/A
 
 |-
-|September 14, 2014||Student showcase||[[Shows/Hurly Burly]] 
+|September 14, 2014||Student showcase||[[Shows/Hurly Burly|Hurly Burly]] 
 |-
-|August 10, 2014||Student showcase||[[Troupes/Midnight Society]] 
+|August 10, 2014||Student showcase||[[Troupes/Midnight Society|Midnight Society]] 
 |-
 |July 13, 2014||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1486,11 +1486,11 @@
 --></ul></div>||N/A
 
 |-
-|June 8, 2014||Student showcase||[[Troupes/Bad Font]]
+|June 8, 2014||Student showcase||[[Troupes/Bad Font|Bad Font]]
 |-
-|May 11, 2014||Improv 301||[[Troupes/My Best Fiend]] 
+|May 11, 2014||Improv 301||[[Troupes/My Best Fiend|My Best Fiend]] 
 |-
-|April 13, 2014||Student showcase||[[Troupes/Available Cupholders]]
+|April 13, 2014||Student showcase||[[Troupes/Available Cupholders|Available Cupholders]]
 |-
 |March 9, 2014||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1546,9 +1546,9 @@
 --></ul></div>||N/A
 
 |-
-|February 9, 2014||Student showcase||[[Troupes/Shades of Brown]]
+|February 9, 2014||Student showcase||[[Troupes/Shades of Brown|Shades of Brown]]
 |-
-|January 19, 2014||Student showcase||[[Troupes/Bad Boys]]
+|January 19, 2014||Student showcase||[[Troupes/Bad Boys|Bad Boys]]
 |-
 |November 24, 2013||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -1604,27 +1604,27 @@
 --></ul></div>||N/A
 
 |-
-|November 10, 2013||Student showcase||[[Troupes/The Intentions]] 
+|November 10, 2013||Student showcase||[[Troupes/The Intentions|The Intentions]] 
 |-
-|October 13, 2013||Singing 301||[[Troupes/Junk]] 
+|October 13, 2013||Singing 301||[[Troupes/Junk|Junk]] 
 |-
-|September 8, 2013||Student showcase||[[Troupes/¡ZARZAMORA!]]
+|September 8, 2013||Student showcase||[[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 |-
-|August 11, 2013||Student showcase||[[Troupes/Rhinodino]]
+|August 11, 2013||Student showcase||[[Troupes/Rhinodino|Rhinodino]]
 |-
-|July 14, 2013||Improv 301||[[Troupes/The Frank Mills]]
+|July 14, 2013||Improv 301||[[Troupes/The Frank Mills|The Frank Mills]]
 |-
-|June 9, 2013||Student showcase||[[Troupes/The Knuckleball Now]]
+|June 9, 2013||Student showcase||[[Troupes/The Knuckleball Now|The Knuckleball Now]]
 |-
-|May 12, 2013||Improv 301||[[Troupes/Miller & Purselley]]
+|May 12, 2013||Improv 301||[[Troupes/Miller & Purselley|Miller & Purselley]]
 |-
-|April 14, 2013||Student showcase||[[Troupes/Confidence Men]]
+|April 14, 2013||Student showcase||[[Troupes/Confidence Men|Confidence Men]]
 |-
-|March 10, 2013||Improv 301||[[Troupes/Get Up]]
+|March 10, 2013||Improv 301||[[Troupes/Get Up|Get Up]]
 |-
-|February 10, 2013||Student showcase||[[Troupes/Parallelogramophonograph]]
+|February 10, 2013||Student showcase||[[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 |-
-|January 13, 2013||Student showcase||[[Troupes/Girls Girls Girls]] 
+|January 13, 2013||Student showcase||[[Troupes/Girls Girls Girls|Girls Girls Girls]] 
 |}
 
 ## Media

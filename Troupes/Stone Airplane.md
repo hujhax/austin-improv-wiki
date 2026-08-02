@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Performers/Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,10 +72,10 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="April Sanchez">April Sanchez</a></li><!--
   --><li style=""><a class="internal-link" href="Bryson Rushing">Bryson Rushing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Performers/Colin Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
   --><!--
   --><!--
@@ -136,6 +136,6 @@ Stone Airplane completed a run of shows at [[Salvage Vanguard Theater]] in the s
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 7/7/12 performance in *[[Shows/The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/7/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 
 [[Category/Troupes|Category:Troupes]]

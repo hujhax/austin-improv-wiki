@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Band of Liars.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Band of Liars]].
+Publicity image for [[Troupes/Band of Liars|Band of Liars]].
 
 Art by: unknown.
 ## Licensing

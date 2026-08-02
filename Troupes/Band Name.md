@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Caerial Crestin">Caerial Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Joe Ricks">Joe Ricks</a></li><!--
   --><li style=""><a class="internal-link" href="Marcus Hysmith">Marcus Hysmith</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Performers/Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

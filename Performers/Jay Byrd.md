@@ -22,21 +22,21 @@
 **Jay Byrd** is an improv performer.
 
 ## Troupes
-* [[Troupes/Beans Beans (the musical troupe)]]
-* [[Troupes/Buckets of Buckets]]
-* [[Troupes/ColorWheel]]
-* [[Troupes/Flowers for Algernon]]
-* [[Troupes/Harold & Maude]]
-* [[Troupes/The Masterpiece]]
-* [[Troupes/Pretty Jack Jaybird]]
+* [[Troupes/Beans Beans (the musical troupe)|Beans Beans (the musical troupe)]]
+* [[Troupes/Buckets of Buckets|Buckets of Buckets]]
+* [[Troupes/ColorWheel|ColorWheel]]
+* [[Troupes/Flowers for Algernon|Flowers for Algernon]]
+* [[Troupes/Harold & Maude|Harold & Maude]]
+* [[Troupes/The Masterpiece|The Masterpiece]]
+* [[Troupes/Pretty Jack Jaybird|Pretty Jack Jaybird]]
 
 ## Shows
-* *[[Shows/Holy 1960s Batman, Batman!]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
 * *[[Puppet Katamari]]*
-* *[[Shows/Who is T. Henry Baudecliffe]]*
+* *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
 
 ### Guest Appearances
-* *[[Shows/Boys of Summer]]* (2011 run)
+* *[[Shows/Boys of Summer|Boys of Summer]]* (2011 run)
 
 [[Category/Performers|Byrd]]
 [[Category/Active|Byrd]]

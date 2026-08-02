@@ -41,7 +41,7 @@ The Double Barrel originated as an [[Austin Improv Collective]]-branded show in 
 
 Later, the show was taken over by [[The Hideout]], which had always hosted the event.
 
-Finally, in April of 2010, the show was replaced by *[[Shows/The Spectacle]]*.
+Finally, in April of 2010, the show was replaced by *[[Shows/The Spectacle|The Spectacle]]*.
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/thedoublebarrel)

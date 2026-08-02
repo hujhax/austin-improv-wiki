@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Bobby Ford">Performers/Bobby Ford</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Bobby Ford">Bobby Ford</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
@@ -23,9 +23,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Performers/Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsey">Performers/Jayme Ramsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsey">Jayme Ramsey</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Mark Shoemaker]]</td>
+			<td class="category">[[Performers/Mark Shoemaker|Mark Shoemaker]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -106,7 +106,7 @@ The second act begins with Sam narrating and moving the cast into *Play* positio
 The third act begins with Sam standing and removing his scarf, the cast follows removing their costume scarves and moving to the front of the stage. One by one, director to actor, we seem them in a whole new light, transparent and vulnerable, a very unique tilt that shatters the fourth wall. As well, all of Act Three is spot lit.
 
 ## History
-***Breaking Beckett*** is the brainchild of [[Performers/Bobby Ford]]. He approached [[Performers/Ryan Hill]], [[Performers/Marc Majcher]], and [[Performers/Jayme Ramsey]] about it and began rehearsals without even knowing where their show might play. Rehearsals, covering some thirty hours of work, lasted several months at the end of 2013. Ford developed the core show format after the first rehearsal, turning the idea into a full length play. Over a period of three months, the cast then worked closely with Bob on locking down all of the detailed mechanics necessary to bring this vision to life. 
+***Breaking Beckett*** is the brainchild of [[Performers/Bobby Ford|Bobby Ford]]. He approached [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Marc Majcher|Marc Majcher]], and [[Performers/Jayme Ramsey|Jayme Ramsey]] about it and began rehearsals without even knowing where their show might play. Rehearsals, covering some thirty hours of work, lasted several months at the end of 2013. Ford developed the core show format after the first rehearsal, turning the idea into a full length play. Over a period of three months, the cast then worked closely with Bob on locking down all of the detailed mechanics necessary to bring this vision to life. 
 
 
 The robust collaboration process with the cast was comprehensive, constantly fine tuning elements that Ford would then incorporate into the overall vision. For example, the idea of the protagonist wearing a scarf came from the cast but then evolved multiple times into its current staging, the result of a back and forth between director and the cast, a great example of the kind of collaboration involved in developing the show. Another example is the stomp mechanics, which Ford had some very specific ideas about. Marc Majcher helped to refine the idea into key Act One transitions while Ryan Hill came up with the idea of using the three stomp pattern for all transitions. In watching Jayme Ramsey's amazing physicality, it hit Bob that the stomping in Act One was a march of daily drudgery and routine, which deeply informed how Act One plays out to the audience. The result is the look and feel that you see today, in Act One.
@@ -115,7 +115,7 @@ The robust collaboration process with the cast was comprehensive, constantly fin
 At the core of the show was a mantra taken directly from a Beckett quote, **"I pause to record that I feel in extraordinary form."**
 
 
-Bob also consulted with [[Performers/Kareem Badr]] and [[Performers/Kaci Danger]] about show structure, makeup, design, narration and more, which played a very key role in the polish of the show. Eventually [[Performers/Asaf Ronen]], Education Director of [[The Institution Theater]], and a Beckett enthusiast, agreed to put up the show, helping Bob nail down the last few elements of lighting. A preview show took place on January 24, 2014 and two more shows are planned for March 2014 at [[The Institution Theater]]. A longer run for later in the year at another theater is in the works.
+Bob also consulted with [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/Kaci Danger|Kaci Danger]] about show structure, makeup, design, narration and more, which played a very key role in the polish of the show. Eventually [[Performers/Asaf Ronen|Asaf Ronen]], Education Director of [[The Institution Theater]], and a Beckett enthusiast, agreed to put up the show, helping Bob nail down the last few elements of lighting. A preview show took place on January 24, 2014 and two more shows are planned for March 2014 at [[The Institution Theater]]. A longer run for later in the year at another theater is in the works.
 
 ## Media
 ### Videos
@@ -127,11 +127,11 @@ Bob also consulted with [[Performers/Kareem Badr]] and [[Performers/Kaci Danger]
 ### Photos
 * [Photoset](http://controlimages.zenfolio.com/breaking_beckett_reginald_39) by [[Roy Moore]] (Control Images) of the 1/24/14 preview performance.
 	* [The same set, on facebook.](http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=1)
-	* [Photoset](https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3) by [[Performers/Heidi Rogers]] of the same show.
+	* [Photoset](https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=3) by [[Roy Moore]] of the 1/25/14 show.
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes the 3/14/14 show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 3/14/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.707481239315395.1073741978.221927764537414&type=3) by [[Steve Rogers]] of the 3/28/14 show.
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers]] of the same show.
+	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
 
 ## More Information

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Rapture the Flag.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/Rapture The Flag]]*.
+Publicity poster for *[[Shows/Rapture The Flag|Rapture The Flag]]*.
 
 Photo by: unknown.
 

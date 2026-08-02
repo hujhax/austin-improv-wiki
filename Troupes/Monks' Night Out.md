@@ -22,9 +22,9 @@
   --><li style=""><a class="internal-link" href="Andy Cobb">Andy Cobb</a></li><!--
   --><li style=""><a class="internal-link" href="Becca Sadler">Becca Sadler</a></li><!--
   --><li style=""><a class="internal-link" href="Ben Prince">Ben Prince</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Performers/Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
   --><li style=""><a class="internal-link" href="Christie Ingram">Christie Ingram</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Eric Perry">Eric Perry</a></li><!--
   --><li style=""><a class="internal-link" href="G Cole Spainhour">G Cole Spainhour</a></li><!--
   --><li style="" ><a class="internal-link" href="Gabriel Folse">Gabriel Folse</a></li><!--
@@ -37,7 +37,7 @@
   --><li style=""><a class="internal-link" href="Marc Pruter">Marc Pruter</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Bearden">Matt Bearden</a></li><!--
   --><li style=""><a class="internal-link" href="Mervyn Burnett">Mervyn Burnett</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
   --><li style=""><a class="internal-link" href="Pamela Ribon">Pamela Ribon</a></li><!--
   --><li style=""><a class="internal-link" href="Paul Finley">Paul Finley</a></li><!--
   --><li style=""><a class="internal-link" href="Regina Reale">Regina Reale</a></li><!--
@@ -45,7 +45,7 @@
   --><li style=""><a class="internal-link" href="Scott Perry">Scott Perry</a></li><!--
   --><li style=""><a class="internal-link" href="Tim Bauer">Tim Bauer</a></li><!--
   --><li style=""><a class="internal-link" href="Tim Girardot">Tim Girardot</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Performers/Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@
 
 ![[Monks Ticket.jpg|A ticket to a Monks' Night Out show.]]
 ## History
-The troupe first splintered off from [[Troupes/ComedySportz]] in 1994, with the following cast:
+The troupe first splintered off from [[Troupes/ComedySportz|ComedySportz]] in 1994, with the following cast:
 * [[Gabriel Folse]]
 * [[Holly Simpson]]
 * [[Laura Estep]]

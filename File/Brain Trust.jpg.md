@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Brain Trust.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A performance by [[Troupes/Brain Trust]].
+A performance by [[Troupes/Brain Trust|Brain Trust]].
 
 Photo by: unknown.
 

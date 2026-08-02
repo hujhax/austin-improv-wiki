@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Performers/Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Performers/Mo Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Mo Daviau</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,13 +70,13 @@
 	</table>
 </div>
 
-**Battle Axe** was an improv duo which featured [[Performers/Aden Kirschner]] and [[Performers/Mo Daviau]] portraying two elderly friends.
+**Battle Axe** was an improv duo which featured [[Performers/Aden Kirschner|Aden Kirschner]] and [[Performers/Mo Daviau|Mo Daviau]] portraying two elderly friends.
 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1248422942581.2030635.1589679282&type=3) by [[Roy Moore]] that includes their 5/7/10 performance in [[The 2010 Ladies Are Funny Festival]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their performance in [[The 2011 Ladies Are Funny Festival]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3) by [[Roy Moore]] that includes their 8/4/11 performance in *[[Shows/The Weekender]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3) by [[Roy Moore]] that includes their 8/4/11 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

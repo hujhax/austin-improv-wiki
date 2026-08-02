@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Girl Embassy World Team.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The ladies of [[Troupes/Girl Embassy World Team]] perform at [[The 2011 Ladies Are Funny Festival]].
+The ladies of [[Troupes/Girl Embassy World Team|Girl Embassy World Team]] perform at [[The 2011 Ladies Are Funny Festival]].
 
 Photo by [[Roy Moore]].
 ## Licensing

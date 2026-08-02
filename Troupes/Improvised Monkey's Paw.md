@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Performers/Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
   --><!--
   --><!--
   --><!--

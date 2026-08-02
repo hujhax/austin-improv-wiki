@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,22 +70,22 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Performers/Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Angie Epley">Angie Epley</a></li><!--
   --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
   --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
   --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@ It’s summertime, somewhere in 1980s America. It’s a neighborhood like so man
 Inspired by suburban coming of age sci fi stories like *E.T.,  IT, Monster Squad, The Goonies*, and even modern homages like *Super 8* and *Stranger Things*, ***How I Saved the World Over Summer Vacation*** takes us all back to an age when it seemed like time went on forever, grown ups were the enemy, and all you needed to rule your neighborhood was a bike, a group of friends, and an imagination…all of which made you the best prepared to perceive any threat (even if those dumb old grown ups wouldn’t believe you), behold wonders (even if you had to hide them away from those dumb old grown ups), and save the world (because those dumb old grown ups sure aren’t gonna do it!).
 
 ## Awards
-2017 B. Iden Payne Award for Outstanding Improvised Technical Design ([[Performers/Nichole Bennett]], [[Paul Henderson]], [[Biz Gilmore]], [[Jason Hoppenworth]], [[Performers/Jay Mahavier]] and [[Lindsey McGowen]])
+2017 B. Iden Payne Award for Outstanding Improvised Technical Design ([[Performers/Nichole Bennett|Nichole Bennett]], [[Paul Henderson]], [[Biz Gilmore]], [[Jason Hoppenworth]], [[Performers/Jay Mahavier|Jay Mahavier]] and [[Lindsey McGowen]])
 
 
 ## Media

@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Performers/Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:''This page refers to the current, all-female [[ColdTowne]] troupe.  For the defunct all-male troupe consisting of ex-members of [[Continental Breakfast]], see [[Troupes/Ctrl-Alt-Delight]].
+:''This page refers to the current, all-female [[ColdTowne]] troupe.  For the defunct all-male troupe consisting of ex-members of [[Continental Breakfast]], see [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]].
 **Ctrl Alt Delete** is an improv troupe based out of [[Coldtowne Theater]].
 
 ## Media

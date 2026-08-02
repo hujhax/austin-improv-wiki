@@ -14,23 +14,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Performers/Shannon Dale Stott</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Performers/Zac Grantham</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -76,7 +76,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -168,17 +168,17 @@ The set design included a number of wooden boxes (and other shapes), which the c
 ## Media
 ### Videos
 * [Video](http://vimeo.com/100664265) of the 7/5/14 show, with embedded clips.
-	* ["Live" video](http://youtu.be/b5rFoMr0KFY) by [[Performers/Warren Henderson]] of the same show.
-* [Video](http://youtu.be/5-wu3sVFlL8) by [[Performers/Warren Henderson]] of the 7/12/14 show.
-* [Video](http://youtu.be/YlF80K9BtE4) by [[Performers/Warren Henderson]] of the 7/26/14 show.
-* [Video](http://youtu.be/-JBZk_zihgQ) by [[Performers/Warren Henderson]] of the 8/9/14 show.
+	* ["Live" video](http://youtu.be/b5rFoMr0KFY) by [[Performers/Warren Henderson|Warren Henderson]] of the same show.
+* [Video](http://youtu.be/5-wu3sVFlL8) by [[Performers/Warren Henderson|Warren Henderson]] of the 7/12/14 show.
+* [Video](http://youtu.be/YlF80K9BtE4) by [[Performers/Warren Henderson|Warren Henderson]] of the 7/26/14 show.
+* [Video](http://youtu.be/-JBZk_zihgQ) by [[Performers/Warren Henderson|Warren Henderson]] of the 8/9/14 show.
 * [Video](http://vimeo.com/107396423) of their performance in [[The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.862444820452671.1073741878.100000614831752&type=3) by [[Performers/Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.862444820452671.1073741878.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.770996482963870.1073742037.221927764537414&type=3) by [[Steve Rogers]]of the 7/19/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.781702681893250.1073742042.221927764537414&type=3) by [[Steve Rogers]]of the 7/26/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152690171907265.1073741855.588952264&type=3) by [[Performers/Peter Rogers]] of the 8/16/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152690171907265.1073741855.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/16/14 show.
 
 ### Sample Videos
 The cast recorded a number of example videos of the sort of video challenges they were looking for from the international troupes.
@@ -207,7 +207,7 @@ The cast recorded a number of example videos of the sort of video challenges the
 
 ## More Information
 * [Show announcement in the Hideout's 2014 season preview.](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule)
-* [Post about the premiere](http://www.hideouttheatre.com/the-first-night-off-of-caeriel-island) by [[Performers/Caeriel Crestin]] on the Hideout's blog.
+* [Post about the premiere](http://www.hideouttheatre.com/the-first-night-off-of-caeriel-island) by [[Performers/Caeriel Crestin|Caeriel Crestin]] on the Hideout's blog.
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

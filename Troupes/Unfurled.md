@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Beth Lebwohl">Beth Lebwohl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Hanna Woodruff">Hanna Woodruff</a></li><!--
   --><li style=""><a class="internal-link" href="Jason Cohen">Jason Cohen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
   --><li style="" ><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--

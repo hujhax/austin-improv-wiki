@@ -26,23 +26,23 @@
 **Andy Crouch** is an improviser and the Director of Education for [[The Hideout Theatre]].
 
 ## History
-A post from him about the first improv show he ever saw:<blockquote><p>I think mine was actually a [[Troupes/Monks' Night Out]] show at [[The Bad Dog Theater]] in the spring of 2001. I was taking the world's worst Improv for Non Majors class in the theater department at UT and we were supposed to go see shows during the semester. As awful as the class was, that show was fun, and then the ones I saw at the Hideout around the same time (*[[Shows/TheatreSports]]*, *[[Shows/Maestro]]*, and *[[Shows/Six Degrees]]*) got me hooked for good.</p> </blockquote>
+A post from him about the first improv show he ever saw:<blockquote><p>I think mine was actually a [[Troupes/Monks' Night Out|Monks' Night Out]] show at [[The Bad Dog Theater]] in the spring of 2001. I was taking the world's worst Improv for Non Majors class in the theater department at UT and we were supposed to go see shows during the semester. As awful as the class was, that show was fun, and then the ones I saw at the Hideout around the same time (*[[Shows/TheatreSports|TheatreSports]]*, *[[Shows/Maestro|Maestro]]*, and *[[Shows/Six Degrees|Six Degrees]]*) got me hooked for good.</p> </blockquote>
 
 ## Troupes
-* [[Troupes/Ed 32]]
-* [[Troupes/The Heroes of Comedy]] 
-* [[Troupes/Polite Society Presents]] 
-* [[Troupes/Junk]]
-* [[Troupes/Danger! Warning! Improv!]]
+* [[Troupes/Ed 32|Ed 32]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] 
+* [[Troupes/Polite Society Presents|Polite Society Presents]] 
+* [[Troupes/Junk|Junk]]
+* [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
 
 ## Shows
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/Live Nude Improv]]* (director)
-* *[[Shows/Fandom]]* (co-director)
-* *[[Shows/Fakespeare]]* (director)
-* *[[Shows/The Big Bash]]* (director)
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/Live Nude Improv|Live Nude Improv]]* (director)
+* *[[Shows/Fandom|Fandom]]* (co-director)
+* *[[Shows/Fakespeare|Fakespeare]]* (director)
+* *[[Shows/The Big Bash|The Big Bash]]* (director)
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786) with Andy on *[[The Theft Forum]]*.
 * [An 8/30/13 blogpost recommending improv classes](http://www.hideouttheatre.com/improv-classes-will-change-your-life) from the Hideout blog.
-* [Interview](http://yesandrew.com/sunday-interview-andy-crouch-2/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/sunday-interview-andy-crouch-2/) by [[Performers/Andrew Buck|Andrew Buck]].

@@ -28,14 +28,14 @@ Heidi was a film student and enthusiast. She started taking improv classes at th
 * [[The Secret Garden]] (2012) 
 
 ## Shows
-* *[[Shows/After School Improv]]*
-* *[[Shows/GrimmNoir]]*
-* *[[Shows/The Next Chapter]]*
-* *[[Shows/Not This American Life]]*
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]*
+* *[[Shows/The Next Chapter|The Next Chapter]]*
+* *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Only Three Will Survive]]*
-* *[[Shows/Pulp Friction]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]*
 * *[[Rock N Roll Purgatory]]*
-* *[[Shows/Strange Worlds]]*
+* *[[Shows/Strange Worlds|Strange Worlds]]*
 
 
 [[Category/Performers|Rogers]]

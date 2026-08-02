@@ -15,15 +15,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Performers/Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Performers/Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
   --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Faerber">Mike Faerber</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Nathan Livni">Performers/Nathan Livni</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Nathan Livni">Nathan Livni</a></li><!--
   --><li style=""><a class="internal-link" href="Tej Ludher">Tej Ludher</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**La Ronde** was a one-off *[[Shows/Cagematch]]* team.
+**La Ronde** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played Cagematches on 1/23/09 and 2/13/09.

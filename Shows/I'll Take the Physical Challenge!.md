@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

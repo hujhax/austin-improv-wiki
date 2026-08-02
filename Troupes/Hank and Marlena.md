@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Performers/Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><li style=""><a class="internal-link" href="Tyler Reece Booker">Tyler Reece Booker</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Hank and Marlena** was a musical duo that originated as part of [[Troupes/There's Waldo]].
+**Hank and Marlena** was a musical duo that originated as part of [[Troupes/There's Waldo|There's Waldo]].
 
 ## Summary
 ### Press Blurb

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ghetto Sketch Warlock.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Ghetto Sketch Warlock]].
+Publicity image for [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]].
 
 Art by: unknown.
 ## Licensing

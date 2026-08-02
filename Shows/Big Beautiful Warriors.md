@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Troupes/Big Beautiful Warlock">Troupes/Big Beautiful Warlock</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Big Beautiful Warlock">Big Beautiful Warlock</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -29,6 +29,6 @@
 
 **Big Beautiful Warriors** (full title ***Beautiful Warlock Presents: Big Beautiful Warriors***) is a monthly late-night show that is structured as a traditional game show, but with very non-traditional games.
 
-Created, produced and performed by [[Troupes/Big Beautiful Warlock]], the show is best known for "Frank Calls," improvised group prank calls.
+Created, produced and performed by [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]], the show is best known for "Frank Calls," improvised group prank calls.
 
 [[Category/Shows|Big]]

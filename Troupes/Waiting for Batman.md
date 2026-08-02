@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,29 +70,29 @@
 	</table>
 </div>
 
-**Waiting for Batman** was an improv duo consisting of [[Performers/Curtis Luciani]] and [[Performers/Eric Heiberg]].
+**Waiting for Batman** was an improv duo consisting of [[Performers/Curtis Luciani|Curtis Luciani]] and [[Performers/Eric Heiberg|Eric Heiberg]].
 
 ## Summary
 Luciani and Heiberg performed as Officer Commissioner Gordon and Chief O'Hara, respectively, in the 1960s *Batman* universe.  In the show, the two characters chat while waiting for Batman to show up at the office.
 
 ## History
-The two performers were part of the cast for the Hideout mainstage show *[[Shows/Holy 1960s Batman, Batman!]]*  The two enjoyed playing off of each other as Gordon and O'Hara, and decided to try making a whole show out of that interplay.
+The two performers were part of the cast for the Hideout mainstage show *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*  The two enjoyed playing off of each other as Gordon and O'Hara, and decided to try making a whole show out of that interplay.
 
-They performed the format as part of *[[Shows/The Free Fringe]]* on 2/28/13.  They then submitted that show video to [[The 2013 Out of Bounds Comedy Festival]], and were accepted as the interstitial act for the festival's Sunday-night headliner shows.
+They performed the format as part of *[[Shows/The Free Fringe|The Free Fringe]]* on 2/28/13.  They then submitted that show video to [[The 2013 Out of Bounds Comedy Festival]], and were accepted as the interstitial act for the festival's Sunday-night headliner shows.
 
 ## Media
 ### Videos
 * [Video of the 2/28/13 performance.](http://vimeo.com/60813845)
 * Video of their shows at [[The 2013 Out of Bounds Comedy Festival]]: [show #1](http://vimeo.com/74581061), [show #2](http://vimeo.com/74581060).
-* [Video](http://vimeo.com/75094440) by [[Performers/Dave alley]] of their 9/1/13 show at [[The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/75094440) by [[Performers/Dave alley|Dave alley]] of their 9/1/13 show at [[The 2013 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/124909203) of their 4/11/15 show at [[The 2015 Improvised Play Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200432765964451.1073741850.1315383518&type=3) by [[Michael Yew]] of their 9/1/13 performances.
 * [Photoset](http://www.facebook.com/media/set/?set=a.593709347359252.1073741934.221927764537414&type=3) by [[Steve Rogers]] of their 9/1/13 performances.
 * [Photoset](http://www.facebook.com/media/set/?set=a.530802303655120.1073741859.118587218209966&type=3) by [[Roy Moore]] of their 9/1/13 8pm performance.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers]] that includes their performances in [[The 2013 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152567251557107.1073741843.549002106&type=3) by [[Performers/Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their performances in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152567251557107.1073741843.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203909224273736.1073741937.1315383518&type=3) by [[Michael Yew]] of their performance at [[The 2015 Improvised Play Festival]].
 
 ### Publicity

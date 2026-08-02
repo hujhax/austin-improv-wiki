@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="BeauMoMa.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/BeauMoMa]] performing at [[The Institution Theater]].
+[[Troupes/BeauMoMa|BeauMoMa]] performing at [[The Institution Theater]].
 
-Photo by: [[Performers/Claudio Fox]]
+Photo by: [[Performers/Claudio Fox|Claudio Fox]]
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

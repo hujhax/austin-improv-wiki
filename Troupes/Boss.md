@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152575112492107.1073741844.549002106&type=3) by [[Performers/Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152575112492107.1073741844.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

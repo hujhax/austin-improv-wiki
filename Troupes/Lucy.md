@@ -89,7 +89,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/23/12 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/23/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/4LUCY)

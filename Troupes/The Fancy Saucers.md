@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Melendez">Performers/Ed Melendez</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Melendez">Ed Melendez</a></li><!--
   --><li style=""><a class="internal-link" href="Ethan Love">Ethan Love</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Performers/Frank Netscher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Kristen Henn">Kristen Henn</a></li><!--
   --><li style=""><a class="internal-link" href="Shea Scott">Shea Scott</a></li><!--
   --><li style=""><a class="internal-link" href="Wes Gandy">Wes Gandy</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Fancy Saucers** was a one-off  *[[Shows/Cagematch]]* team.
+**The Fancy Saucers** was a one-off  *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 1/2/09.

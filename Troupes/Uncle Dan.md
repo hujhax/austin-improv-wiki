@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Performers/Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style=""><a class="internal-link" href="Michael WIlliams">Michael WIlliams</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Uncle Dan** was a one-off *[[Shows/Cagematch]]* team.
+**Uncle Dan** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They made it to the championship match of the winter 2009 "Theater of Cruelty" Cagematch.

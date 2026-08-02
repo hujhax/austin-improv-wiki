@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kazillionaire.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Performance by [[Troupes/Kazillionaire]].
+Performance by [[Troupes/Kazillionaire|Kazillionaire]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Darth Brooks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Troupes/Darth Brooks]].
+Photo of [[Troupes/Darth Brooks|Darth Brooks]].
 
 Photo by: unknown.
 ## Licensing

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="GravyReunion.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo submitted for [[Troupes/Gravy]]'s 2014 reunion show.
+Photo submitted for [[Troupes/Gravy|Gravy]]'s 2014 reunion show.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

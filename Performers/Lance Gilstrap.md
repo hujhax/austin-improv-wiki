@@ -22,22 +22,22 @@
 **Lance Gilstrap** is an improv performer.
 
 ## Troupes
-* [[Troupes/Midnight Society]]
-* [[Troupes/Stag Comedy]]
+* [[Troupes/Midnight Society|Midnight Society]]
+* [[Troupes/Stag Comedy|Stag Comedy]]
 Mr. Oklahoma
 
 ## Shows
-* *[[Shows/Indy Movies]]*
-* *[[Shows/Late Night Down]]*
-* *[[Shows/Movie vs Movie]]*
-* *[[Shows/Sci-Fi Saturdays]]*
-* *[[Shows/Slam Team Six]]*
-* *[[Shows/Stool Pigeon]]*
-* *[[Shows/TGIS]]* (cast member, "Boy Greets World")
-* *[[Shows/Victrola]]*
+* *[[Shows/Indy Movies|Indy Movies]]*
+* *[[Shows/Late Night Down|Late Night Down]]*
+* *[[Shows/Movie vs Movie|Movie vs Movie]]*
+* *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
+* *[[Shows/Slam Team Six|Slam Team Six]]*
+* *[[Shows/Stool Pigeon|Stool Pigeon]]*
+* *[[Shows/TGIS|TGIS]]* (cast member, "Boy Greets World")
+* *[[Shows/Victrola|Victrola]]*
 
 ## More Information
-* [Interview](http://yesandrew.com/2014/05/11/the-sunday-interview-lance-gilstrap/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/05/11/the-sunday-interview-lance-gilstrap/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Interview](http://gybpodcast.libsyn.com/lance-gilstrap-ep-3-got-your-back) on the *[[Got Your Back]]* podcast.
 
 [[Category/Performers|Gilstrap]]

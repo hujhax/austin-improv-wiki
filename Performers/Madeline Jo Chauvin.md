@@ -32,28 +32,28 @@ Jo is excited that she was able to perform in London with C3467X in 2013.  Sure,
 A post from her about the first improv show she ever saw:<blockquote>I saw "Star Trick: The Musical" in Vancouver around 1990. Spock was played by Dean Haglund, who later played one of the Lone Gunmen on the X-files.</blockquote>
 
 ## Troupes
-* [[Troupes/The Better Half]]
-* [[Troupes/Church Potluck]]
+* [[Troupes/The Better Half|The Better Half]]
+* [[Troupes/Church Potluck|Church Potluck]]
 * [[The Cruise Ladies]]
-* [[Troupes/Grey Matters]]
+* [[Troupes/Grey Matters|Grey Matters]]
 * [[The Inmates]]
 * [[Tight Cookie]]
 
 ## Shows
-* *[[Shows/The Ladies Room]]* (improv) 2016
+* *[[Shows/The Ladies Room|The Ladies Room]]* (improv) 2016
 * *[[Will You Be My Tinderella]]*(improv)
-* *[[Shows/The Ladies Room]]* (improv)2015
-* *[[Shows/GrimmNoir]]*
+* *[[Shows/The Ladies Room|The Ladies Room]]* (improv)2015
+* *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Love Fest]]* (performer, improv, host)
 * *[[Christmas at the Cozy Mountain Inn]]* (improv)
 * *[[The Better Half Presents Date Night]]*(co-producer, co-director, host)
-* *[[Shows/Thinning The Herd]]* (producer, season three)
-* *[[Shows/Bad Girls in Plaid Skirts]]* (performer, scripted, "Juanita", 1-time fill in)
-* *[[Shows/Danger!]]* (performer, improv)
-* *[[Shows/Flying Theater Machine]]* (performer, improv 2013- 2015)
+* *[[Shows/Thinning The Herd|Thinning The Herd]]* (producer, season three)
+* *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (performer, scripted, "Juanita", 1-time fill in)
+* *[[Shows/Danger!|Danger!]]* (performer, improv)
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (performer, improv 2013- 2015)
 * *[[The Informal Pig Show]]* (host)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
-* *[[Shows/Manson -  The Musical]]* (performer, scripted, "Katie")
+* *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (performer, scripted, "Katie")
 * *[[The Moral Compass Rumpus]]* (performer, scripted, 1-time fill in)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)

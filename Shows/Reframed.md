@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -27,13 +27,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Performers/Craig Kotfas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Performers/Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -99,7 +99,7 @@ The show runs for three days in January -- 1/4/14, 1/10/14, and 1/11/14 -- at 8p
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.590197414382275.1073741865.118587218209966&type=1) by [[Roy Moore]] of the 1/4/14 premiere.
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.699919460029552.1073741878.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 1/10/14 and 1/11/14 performances.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.699919460029552.1073741878.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 1/10/14 and 1/11/14 performances.
 * [Photoset](http://www.facebook.com/media/set/?set=a.675866805810172.1073741956.221927764537414&type=3) by [[Steve Rogers]] of the 2/2/14 performance.
 
 ## More Information

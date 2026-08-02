@@ -1,4 +1,4 @@
-[[Performers/John Ratliff]] has performed with a number of duos.  The duos tend to favor slow, grounded scenework.
+[[Performers/John Ratliff|John Ratliff]] has performed with a number of duos.  The duos tend to favor slow, grounded scenework.
 
 ## Pages in category "John Ratliff Duos"
 

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3) by [[Michael Yew]] that includes their 1/17/14 performance in *[[Shows/2x4]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3) by [[Michael Yew]] that includes their 1/17/14 performance in *[[Shows/2x4|2x4]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

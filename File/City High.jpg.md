@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="City High.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Troupes/City High]].
+Logo for [[Troupes/City High|City High]].
 
 Art by: unknown.
 ## Licensing

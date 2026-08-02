@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Kenny Madison">Performers/Kenny Madison</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers/Paul Normandin">Performers/Paul Normandin</a> (host) and guests</td>
+			<td class="category"><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a> (host) and guests</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>

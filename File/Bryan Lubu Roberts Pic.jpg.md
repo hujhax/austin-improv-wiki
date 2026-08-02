@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bryan Lubu Roberts Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Bryan 'LuBu' Roberts]], playing with [[Troupes/Ghetto Sketch Warlock]] in the [[Austin Sketchfest]] on 5/25/12.
+[[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], playing with [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]] in the [[Austin Sketchfest]] on 5/25/12.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.369075023156020.88681.221927764537414&type=3).
 ## Licensing

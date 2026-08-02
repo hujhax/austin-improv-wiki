@@ -14,14 +14,14 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
   --><li style=""><a class="internal-link" href="Ann Armstrong">Ann Armstrong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Performers/Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
   --><li style=""><a class="internal-link" href="Jacob Ellenberg">Jacob Ellenberg</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Usher">Joel Usher</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
@@ -29,7 +29,7 @@
   --><li style=""><a class="internal-link" href="Meredith Newell">Meredith Newell</a></li><!--
   --><li style="" ><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Performers/Stephanie Hagemeister</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -97,9 +97,9 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/13/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/13/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3) by [[Steve Rogers]] that includes their 9/1/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.376374809050687.87193.100000345135257&type=3) by [[Performers/Claudio Fox]] of their performance in the 3/22/12 *[[Shows/Threefer]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.376374809050687.87193.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their performance in the 3/22/12 *[[Shows/Threefer|Threefer]]*.
 
 ### Videos
 * Video of their second show (11/18/10): [1](http://youtu.be/DwBEble15w4), [2](http://youtu.be/oxLOyQIYJfw).

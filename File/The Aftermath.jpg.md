@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="The Aftermath.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/The Aftermath]]*.
+Publicity poster for *[[Shows/The Aftermath|The Aftermath]]*.
 
 Photo by [[Steve Rogers]].
 
-Art by [[Performers/Kaci Beeler]].
+Art by [[Performers/Kaci Beeler|Kaci Beeler]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

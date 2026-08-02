@@ -14,22 +14,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Performers/Ash Nunley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Performers/Bryan Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Performers/Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
   --><li style=""><a class="internal-link" href="Duncan Coe">Duncan Coe</a></li><!--
   --><li style=""><a class="internal-link" href="Elena Weinberg">Elena Weinberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Performers/Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Sarah Swofford">Performers/Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Performers/Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,8 +74,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Performers/Bryan Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Performers/Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -191,38 +191,38 @@
 ***Fuck It's Hot*** was a series of Austin-themed sketch-comedy runs that ran as a mainstage show on Saturday nights at [[The Institution Theater]].
 
 ## Summary
-The show was directed by [[Performers/Tom Booker]] and written by [[Performers/Brently Heilbron]]. After the initial writing of the sketches they were further developed through improv.
+The show was directed by [[Performers/Tom Booker|Tom Booker]] and written by [[Performers/Brently Heilbron|Brently Heilbron]]. After the initial writing of the sketches they were further developed through improv.
 
-The show sometimes featured special guest ukulele player [[Performers/Ryan Hill]].
+The show sometimes featured special guest ukulele player [[Performers/Ryan Hill|Ryan Hill]].
 
 ## History
 The show had several runs with different titles.
 
 ### Fuck It's Hot
-The initial run ran through July and August of 2013.  It sold out every performance, and was held over for two additional performances in September.  [[Performers/Chelley Pyatt]] worked tech for this run.
+The initial run ran through July and August of 2013.  It sold out every performance, and was held over for two additional performances in September.  [[Performers/Chelley Pyatt|Chelley Pyatt]] worked tech for this run.
 
 #### Cast
-* [[Performers/Ash Nunley]]
-* [[Performers/Bryan 'LuBu' Roberts]]
-* [[Performers/Bryan Curry]]
-* [[Performers/Claudio Fox]]
-* [[Performers/Sam Schak]]
-* [[Performers/Sarah Swofford]]
-* [[Performers/Tyler Bryce]]
+* [[Performers/Ash Nunley|Ash Nunley]]
+* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
+* [[Performers/Bryan Curry|Bryan Curry]]
+* [[Performers/Claudio Fox|Claudio Fox]]
+* [[Performers/Sam Schak|Sam Schak]]
+* [[Performers/Sarah Swofford|Sarah Swofford]]
+* [[Performers/Tyler Bryce|Tyler Bryce]]
 
 ### Fuck It's Christmas
 ![[Fuck It's Christmas.jpg|Publicity banner for "Fuck It's Christmas".]]
 
-The show returned for a holiday run in November and December of 2013.  [[Performers/Bryan Curry]] worked tech for this run.
+The show returned for a holiday run in November and December of 2013.  [[Performers/Bryan Curry|Bryan Curry]] worked tech for this run.
 
 #### Cast
-* [[Performers/Ash Nunley]]
-* [[Performers/Bryan 'LuBu' Roberts]]
-* [[Performers/Claudio Fox]]
+* [[Performers/Ash Nunley|Ash Nunley]]
+* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
+* [[Performers/Claudio Fox|Claudio Fox]]
 * [[Duncan Coe]]
 * [[Elena Weinberg]]
-* [[Performers/Sarah Marie Curry]]
-* [[Performers/Tom Booker]]
+* [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
+* [[Performers/Tom Booker|Tom Booker]]
 
 #### Sketch List
 This was the running order for *Fuck It's Christmas*:
@@ -248,27 +248,27 @@ This was the running order for *Fuck It's Christmas*:
 A third run of the show happened in April and May of 2014.
 
 #### Cast
-* [[Performers/Ash Nunley]]
-* [[Performers/Bryan 'LuBu' Roberts]]
-* [[Performers/Bryan Curry]]
-* [[Performers/Claudio Fox]]
+* [[Performers/Ash Nunley|Ash Nunley]]
+* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
+* [[Performers/Bryan Curry|Bryan Curry]]
+* [[Performers/Claudio Fox|Claudio Fox]]
 * [[Duncan Coe]]
 * [[Elena Weinberg]]
-* [[Performers/Sam Schak]]
-* [[Performers/Sarah Swofford]]
-* [[Performers/Tyler Bryce]]
+* [[Performers/Sam Schak|Sam Schak]]
+* [[Performers/Sarah Swofford|Sarah Swofford]]
+* [[Performers/Tyler Bryce|Tyler Bryce]]
 
 ### Fuck It's Hot (2015)
 *Fuck It's Hot* returned in August 2015.
 
 #### Cast
-* [[Performers/Tyler Bryce]]
-* [[Performers/Bryan Curry]]
+* [[Performers/Tyler Bryce|Tyler Bryce]]
+* [[Performers/Bryan Curry|Bryan Curry]]
 * [[Tess Hermes]]
-* [[Performers/Lena Long]]
+* [[Performers/Lena Long|Lena Long]]
 * [[Mason Pitluk]]
-* [[Performers/Bryan 'LuBu' Roberts]]]
-* [[Performers/Sam Schak]]
+* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]]
+* [[Performers/Sam Schak|Sam Schak]]
 * [[Kim Stacy]]
 
 The run was directed by Tom Booker and featured musical accompaniment from Cynthia Ward.

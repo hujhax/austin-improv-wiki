@@ -20,10 +20,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Albert Im">Albert Im</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Performers/Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 	</table>
 </div>
 
-**Fort Knox** was a one-off *[[Shows/Cagematch]]* team.
+**Fort Knox** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
 The show featured improvised songs with the improvisers playing musical instruments on stage.

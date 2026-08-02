@@ -25,10 +25,10 @@
 He is originally from Connecticut.
 
 ## Shows
-* *[[Shows/Slaughter Your Shorts]]*
+* *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]*
 
 ## Troupes
-* [[Troupes/Bad Boys]]
-* [[Troupes/Turn of the Century Paris]]
+* [[Troupes/Bad Boys|Bad Boys]]
+* [[Troupes/Turn of the Century Paris|Turn of the Century Paris]]
 
 [[Category/Performers|Reed]]

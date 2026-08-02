@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Performers/Eli Eidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Eli Eidson</a></li><!--
   --><li style=""><a class="internal-link" href="Jack Leahy">Jack Leahy</a></li><!--
   --><li style=""><a class="internal-link" href="Tevix Paxton">Tevix Paxton</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Raw Power** is a *[[Shows/Cagematch]]* team.
+**Raw Power** is a *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played in the 7/9/14 *Cagematch*.

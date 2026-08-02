@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Performers/Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
   --><li style=""><a class="internal-link" href="Evan T. Atherton">Evan T. Atherton</a></li><!--
   --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
   --><li style=""><a class="internal-link" href="Linsdey Reeves">Linsdey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

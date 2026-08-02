@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,12 +74,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/David Wells">Performers/David Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Wells">David Wells</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Performers/Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Stacey Hopp">Stacey Hopp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Performers/Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
   --><li style=""><a class="internal-link" href="Zachary Palmer">Zachary Palmer</a></li><!--
   --><!--
@@ -142,9 +142,9 @@ The show ran for three performances: Saturday 10pm shows on 5/19/12, 6/2/12, and
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/42502670) by [[Performers/Paul Normandin]] of the 5/19/12 debut.
-* [Video](http://vimeo.com/43367764) by [[Performers/Paul Normandin]] of their second show, on 6/2/12.
-* [Video](http://vimeo.com/44360750) by [[Performers/Paul Normandin]] of their final show, on 6/9/12.
+* [Video](http://vimeo.com/42502670) by [[Performers/Paul Normandin|Paul Normandin]] of the 5/19/12 debut.
+* [Video](http://vimeo.com/43367764) by [[Performers/Paul Normandin|Paul Normandin]] of their second show, on 6/2/12.
+* [Video](http://vimeo.com/44360750) by [[Performers/Paul Normandin|Paul Normandin]] of their final show, on 6/9/12.
 
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=13461&p=120703) on [[The Austin Improv Forums]].

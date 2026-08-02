@@ -19,10 +19,10 @@
   --><li style=""><a class="internal-link" href="Eli Edison">Eli Edison</a></li><!--
   --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
   --><li style=""><a class="internal-link" href="Kasey Borger">Kasey Borger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Performers/Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Billy Shakes and All-Star Bards** was a one-off *[[Shows/Cagematch]]* team.
+**Billy Shakes and All-Star Bards** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/28/14.

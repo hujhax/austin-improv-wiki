@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Lena Long Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Lena Long]], in the 8/7/15 performance of *[[Shows/The Source]]*.
+[[Performers/Lena Long|Lena Long]], in the 8/7/15 performance of *[[Shows/The Source|The Source]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.1018279164902266.1073742229.221927764537414&type=3).
 ## Licensing

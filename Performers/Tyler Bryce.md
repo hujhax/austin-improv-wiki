@@ -11,7 +11,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes/ComedySportz">Troupes/ComedySportz</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/ComedySportz">ComedySportz</a></li><!--
   --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
@@ -76,16 +76,16 @@
 A post from him about the first improv show he ever saw:<blockquote>The first show I saw was in Dallas in 1990. My friend Greg Wilson was cast in ComedySportz Dallas (they later became Ad Libs). I went to the show and thought it was wonderfully crazy. Moved to Austin a year later and auditioned here. Never looked back. Perhaps I should get a rearview mirror.</blockquote>
 
 ## Troupes
-* [[Troupes/ComedySportz]] (Austin and NYC) 
+* [[Troupes/ComedySportz|ComedySportz]] (Austin and NYC) 
 * Red Dirt Improv (Oklahoma City)
 * The Cheese Pistols
-* [[Troupes/Your Dad's Friends]]
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * O.U. Improv (Oklahoma City)
-* [[Troupes/The Blah Blah Train]]
+* [[Troupes/The Blah Blah Train|The Blah Blah Train]]
 * Improv Asylum
 * National Comedy Theater (Austin and NYC)
 * Thingy
-* [[Troupes/Monks' Night Out]]
+* [[Troupes/Monks' Night Out|Monks' Night Out]]
 * Off the Top Of Our Heads
 * The Scenery. 
 * The Murky Doors
@@ -95,8 +95,8 @@ A post from him about the first improv show he ever saw:<blockquote>The first sh
 
 ## Shows
 * *[[The Joss Whedon Pajama Party]]*
-* *[[Shows/Thinning The Herd]]* (director)
-* *[[Shows/Fuck, It's Hot]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]* (director)
+* *[[Shows/Fuck, It's Hot|Fuck, It's Hot]]*
 
 [[Category/Performers|Bryce]]
 [[Category/Directors|Bryce]]

@@ -75,7 +75,7 @@
 ## History
 The Hilarions were the house troupe at [[The Comedy Workshop]].  They performed late-night shows at the Workshop on Tuesdays through Thursdays.  They were named after a little-known Greek Orthodox monastery on Mary Street called [[Wikipedia - Hilarion|St. Hilarion]].
 
-The troupe disbanded when the club folded.  Chris Bonno and Angela Davis went on to found [[Troupes/The Laff Staff]] at [[The Laff Stop]].
+The troupe disbanded when the club folded.  Chris Bonno and Angela Davis went on to found [[Troupes/The Laff Staff|The Laff Staff]] at [[The Laff Stop]].
 
 ## More Information
 * [A history of the Comedy Workshop](http://www.austinchronicle.com/arts/2001-01-26/80278/) by [[Angela Davis]], writing for *The Austin Chronicle*.

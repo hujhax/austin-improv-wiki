@@ -19,8 +19,8 @@
   --><li style=""><a class="internal-link" href="Content Knowles">Content Knowles</a></li><!--
   --><li style=""><a class="internal-link" href="Ed Collins">Ed Collins</a></li><!--
   --><li style=""><a class="internal-link" href="Justin Strackany">Justin Strackany</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ron Morelli">Performers/Ron Morelli</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stuart Feild">Performers/Stuart Feild</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ron Morelli">Ron Morelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stuart Feild">Stuart Feild</a></li><!--
   --><!--
   --><!--
   --><!--

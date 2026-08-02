@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@ There's an improv game called "Half Life", in which the cast performs (say) a tw
 Epic Telescope reverses and expands this game.  The cast performs (say) a one-minute scene, then stretches it out the same material to three minutes, seven minutes, then perhaps fifteen minutes.
 
 ## History
-The show began as a one-off for the premiere of *[[Shows/The Free Fringe]]* on 4/26/12.
+The show began as a one-off for the premiere of *[[Shows/The Free Fringe|The Free Fringe]]* on 4/26/12.
 
 It was part of [[The 44-Hour Improv Marathon]].
 

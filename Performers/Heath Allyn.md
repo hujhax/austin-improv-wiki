@@ -22,7 +22,7 @@
 **Heath Allyn** is an actor and musician who thus far has worked primarily with [[The Institution Theater]]
 
 ## History
-An actor and musician since around 1981, improvisation has always been present in some form in many of his creative endeavors from interactive children's theater, being a part of the Texas Renaissance Festival's acting troupe, Murder Mystery Dinner theater, to film and television. As a big Joss Whedon fan, he jumped at the chance to audition for the *[[Shows/Live TV Tuesdays]]* production of *[[Live TV Tuesdays -  Angel|Angel]]* but unfortunately he never heard back. Luckily, [[Kevin Machate]] got cast as Spike and referred Heath to director [[Performers/Chelley Pyatt]], who immediately cast him as Angel. Heath had known and worked with [[Performers/Tom Booker]] in the past and was soon after cast as Charles Manson in *[[Shows/Manson -  The Musical]]* as well as playing a few parts, playing guitar and understudying the lead in [[Live TV Tuesdays -  Firefly|a show that became known as "Untitled Space Western Musical."]] He has also performed in several pieces for various other sketch and variety shows.
+An actor and musician since around 1981, improvisation has always been present in some form in many of his creative endeavors from interactive children's theater, being a part of the Texas Renaissance Festival's acting troupe, Murder Mystery Dinner theater, to film and television. As a big Joss Whedon fan, he jumped at the chance to audition for the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* production of *[[Live TV Tuesdays -  Angel|Angel]]* but unfortunately he never heard back. Luckily, [[Kevin Machate]] got cast as Spike and referred Heath to director [[Performers/Chelley Pyatt|Chelley Pyatt]], who immediately cast him as Angel. Heath had known and worked with [[Performers/Tom Booker|Tom Booker]] in the past and was soon after cast as Charles Manson in *[[Shows/Manson -  The Musical|Manson -  The Musical]]* as well as playing a few parts, playing guitar and understudying the lead in [[Live TV Tuesdays -  Firefly|a show that became known as "Untitled Space Western Musical."]] He has also performed in several pieces for various other sketch and variety shows.
 
 He exists in a strange limbo in the AIC in that he is somewhat known for his improvisational skills in the film community, but is known more as an actor and musician in the AIC.
 
@@ -33,8 +33,8 @@ It is posited (but as of yet, scientifically unproven) that Heath is cool as hel
 * *[[Live TV Tuesdays -  Angel]]*
 * *[[Live TV Tuesdays -  Firefly]]*
 * *[[Love Fest]]*
-* *[[Shows/Manson -  The Musical]]*
-* *[[Shows/This American Live]]*
+* *[[Shows/Manson -  The Musical|Manson -  The Musical]]*
+* *[[Shows/This American Live|This American Live]]*
 
 ## External Links
 * [Heath's website](http://www.heathallyn.com)

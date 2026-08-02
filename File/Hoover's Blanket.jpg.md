@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Hoover's Blanket.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Hoover's Blanket]], for their "Rivals" show run.
+Publicity image for [[Troupes/Hoover's Blanket|Hoover's Blanket]], for their "Rivals" show run.
 
 Photo by: unknown.
 

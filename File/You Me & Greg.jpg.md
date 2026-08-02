@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="You Me & Greg.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/You, Me, and Greg]].
+Publicity photo of [[Troupes/You, Me, and Greg|You, Me, and Greg]].
 
 Photo by: unknown.
 

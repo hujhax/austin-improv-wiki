@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Abiggaymusicalplaceholder.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-(placeholder graphic for *[[Shows/A Big Gay Musical]]*
+(placeholder graphic for *[[Shows/A Big Gay Musical|A Big Gay Musical]]*
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

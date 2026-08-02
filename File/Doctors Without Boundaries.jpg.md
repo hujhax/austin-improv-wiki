@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Doctors Without Boundaries.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Shows/Doctors Without Boundaries]]*.
+Publicity image for *[[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]*.
 
 Photo by: unknown.
 

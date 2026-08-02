@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Niceastro-2013-04-10.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Nice Astronaut]] photo from DCM 2013.
+[[Troupes/Nice Astronaut|Nice Astronaut]] photo from DCM 2013.
 
 Photo by: Will Hines.
 

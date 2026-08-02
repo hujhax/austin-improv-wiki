@@ -14,15 +14,15 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Jay Mahavier">Performers/Jay Mahavier</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -31,7 +31,7 @@
   --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
   --><li style=""><a class="internal-link" href="Kendall Raymond">Kendall Raymond</a></li><!--
   --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Performers/Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
   --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--
   --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
   --><li style=""><a class="internal-link" href="Way Spurr-Chen">Way Spurr-Chen</a></li><!--
@@ -92,7 +92,7 @@
 Powered by newfangled inventions and a percussive soundtrack created by the cast on the spot, Click Click Whir brings a steampunk sensibility to never-before-seen completely improvised stories exploring Victorian London. Time, space, class and culture will collide in tales reminiscent of a quaint Dickens story or a cheeky Austen novel with a sci-fi slant – all made up in the moment. From its streets to its manors, our London is loud and rhythmic, its driving pulse cobbled from objects at hand. Wind your clocks up, load your hydraulic revolver and–for goodness sakes–ladies and gentlemen, do not forget your opera glasses.
 
 ## Full Crew List
-* Props and Costumes Master: [[Performers/Cindy Page]]
+* Props and Costumes Master: [[Performers/Cindy Page|Cindy Page]]
 * Props and Costumes: [[Rachel Collier]]
 * Stage Manager: [[Biz Gilmore]]
 * Lights: [[Max Kaufmann]]

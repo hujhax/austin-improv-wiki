@@ -14,27 +14,27 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Performers/Chris Albano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Performers/Melissa Patterson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ian Marcotte">Ian Marcotte</a> (stage manager)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a> (lights)</li><!--
   --><!--
   --><!--
   --><!--
@@ -170,7 +170,7 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/115893524) by [[Performers/Peter Rogers]] of the 1/3/15 premiere.
+* [Video](http://vimeo.com/115893524) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/3/15 premiere.
 	* [The corresponding playlist](http://eilanora.livejournal.com/11890.html) used by substitute tech [[Lindsey McGowen]].
 * [Video](http://vimeo.com/117755059) of the 1/24/15 show.
 * [Video](http://vimeo.com/118672454) of the 1/31/15 show.
@@ -189,13 +189,13 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
 * [The audition announcement.](http://www.facebook.com/groups/hideouttheatre/permalink/824995157523590/)
-* [Interview](http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing) by [[Performers/Scott Hearne]] with [[Performers/Ruby Willmann]], [[Performers/Aaron Saenz]] and [[Performers/Manuel Duran]] for *[[The Theft Forum]]*.
-* [Post about the show](http://yesandrew.com/wanderlust-and-the-audacity-of-vision/) by [[Performers/Andrew Buck]].
-* [Radio interview](http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3) with [[Performers/Aaron Saenz]], [[Performers/Jordan T. Maxwell]], [[Performers/Cat Drago]], and [[Performers/Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
-* [blogpost](http://www.hideouttheatre.com/the-journey-to-wanderlustHideout) by [[Performers/Ruby Willmann]] about the production.
-* [Hideout blogpost](http://www.hideouttheatre.com/reflectionsonwanderlust) by [[Performers/Ceej Allen]] about the production.
-* [Hideout blogpost](http://www.hideouttheatre.com/ryan_austin_onwanderlust) by [[Performers/Ryan Austin]] about the production.
-* [Hideout blogpost](http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback) by [[Performers/Nicole Oliver]] about the production.
-* [Hideout blogpost](http://www.hideouttheatre.com/cat-drago-bedtime-storytelling) by [[Performers/Cat Drago]] about the production.
+* [Interview](http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing) by [[Performers/Scott Hearne|Scott Hearne]] with [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Aaron Saenz|Aaron Saenz]] and [[Performers/Manuel Duran|Manuel Duran]] for *[[The Theft Forum]]*.
+* [Post about the show](http://yesandrew.com/wanderlust-and-the-audacity-of-vision/) by [[Performers/Andrew Buck|Andrew Buck]].
+* [Radio interview](http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3) with [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Cat Drago|Cat Drago]], and [[Performers/Chris Albano|Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
+* [blogpost](http://www.hideouttheatre.com/the-journey-to-wanderlustHideout) by [[Performers/Ruby Willmann|Ruby Willmann]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/reflectionsonwanderlust) by [[Performers/Ceej Allen|Ceej Allen]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/ryan_austin_onwanderlust) by [[Performers/Ryan Austin|Ryan Austin]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback) by [[Performers/Nicole Oliver|Nicole Oliver]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/cat-drago-bedtime-storytelling) by [[Performers/Cat Drago|Cat Drago]] about the production.
 
 [[Category/Shows|Category:Shows]]

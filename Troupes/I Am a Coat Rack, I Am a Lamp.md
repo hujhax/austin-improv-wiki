@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a></li><!--
   --><li style=""><a class="internal-link" href="Nadine Latief">Nadine Latief</a></li><!--
   --><li style=""><a class="internal-link" href="Tami Nelson">Tami Nelson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@
 From founder [[Tami Nelson]]: <blockquote>The concept here is that the majority of the players will be environment (ala lois caz) and there will only be 5-6 actual players.</blockquote> 
 
 ## History
-They played one match against [[Troupes/You, Me, and Greg]] on 3/31/06.  They lost.
+They played one match against [[Troupes/You, Me, and Greg|You, Me, and Greg]] on 3/31/06.  They lost.
 
 ## More Information
 * [Team announcement](http://forum.austinimprov.com/viewtopic.php?p=3526) on [[The Austin Improv Forums]].

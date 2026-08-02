@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Performers/Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Usher">Joel Usher</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Sons of Tiny Dinosaurs** was a one-off *[[Shows/Cagematch]]* team.
+**Sons of Tiny Dinosaurs** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/7/11.

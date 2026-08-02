@@ -25,10 +25,10 @@
 Megan trained at [[The Institution Theater]].
 
 ## Troupes
-* [[Troupes/No Frills]] (2013-Present)
-* [[Troupes/Bad Font]] (2013-Present)
+* [[Troupes/No Frills|No Frills]] (2013-Present)
+* [[Troupes/Bad Font|Bad Font]] (2013-Present)
 
 ## Shows
-* *[[Shows/The Next Chapter]]*
+* *[[Shows/The Next Chapter|The Next Chapter]]*
 
 [[Category/Performers|Venable]]

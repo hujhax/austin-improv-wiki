@@ -25,10 +25,10 @@
 Orf first performed sketch comedy in summer camp at age 6, and he began doing improvisation theater in high school. He trained with Chicago City Limits in New York City during the early to mid 1990s. He has performed with several troupes, at several theaters, and in several festivals in New York and elsewhere. He moved to Austin in 2006.
 
 ## Troupes
-* [[Troupes/Mr. Rather]] 
+* [[Troupes/Mr. Rather|Mr. Rather]] 
 
 ## Shows
-* *[[Shows/Cops and Lawyers]]*
-* *[[Shows/Stool Pigeon]]*
+* *[[Shows/Cops and Lawyers|Cops and Lawyers]]*
+* *[[Shows/Stool Pigeon|Stool Pigeon]]*
 
 [[Category/Performers|Orf]]

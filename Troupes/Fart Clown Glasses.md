@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
   --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
   --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><!--
   --><!--
   --><!--

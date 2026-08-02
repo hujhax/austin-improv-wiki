@@ -14,22 +14,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsey">Performers/Jayme Ramsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsey">Jayme Ramsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -88,7 +88,7 @@ The players then began a monoscene set among heightened, upper-class society typ
 After intermission, the show would restart with a choreographed dance, followed by another shadow scene, a return to the parlor monoscene, and a final shadow story.  The whole performance typically ran about ninety minutes.
 
 ### Tech
-The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from [[Wikipedia - Danny Elfman|Danny Elfman]], [[Wikipedia - Thomas Newman|Thomas Newman]], and [[Wikipedia - Rachel Portman|Rachel Portman]].  The choreographed dance featured a mix of songs chosen by [[Performers/Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [Gorey's opening sequence for PBS's *Mystery!*](http://youtu.be/rAmGsM4Dids)
+The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from [[Wikipedia - Danny Elfman|Danny Elfman]], [[Wikipedia - Thomas Newman|Thomas Newman]], and [[Wikipedia - Rachel Portman|Rachel Portman]].  The choreographed dance featured a mix of songs chosen by [[Performers/Kaci Beeler|Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [Gorey's opening sequence for PBS's *Mystery!*](http://youtu.be/rAmGsM4Dids)
 
 Sound effects were limited to environmental sound effects, with rare effects for actions like gunshots or breaking glass.
 
@@ -100,13 +100,13 @@ A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* 
 
 ## Media
 ### Videos
-* Video by [[Performers/Warren Henderson]] of a show: [1](http://youtu.be/JVXKyvqu0cw), [2](http://youtu.be/GNye_JJxLco), [3](http://youtu.be/NorltUxGLzQ).
-* [Video](http://youtu.be/WCZauHWmE0s) by [[Performers/Warren Henderson]] of the 12/28/13 show.
+* Video by [[Performers/Warren Henderson|Warren Henderson]] of a show: [1](http://youtu.be/JVXKyvqu0cw), [2](http://youtu.be/GNye_JJxLco), [3](http://youtu.be/NorltUxGLzQ).
+* [Video](http://youtu.be/WCZauHWmE0s) by [[Performers/Warren Henderson|Warren Henderson]] of the 12/28/13 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.718828708147617.1073741856.100000614831752&type=3) by [[Performers/Warren Henderson]] of a show.
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.711879688842519.1073741853.100000614831752&type=3) by [[Performers/Warren Henderson]] of the 11/2/13 premiere.
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/A-Bedtime-Gorey/20131130/) by [[Performers/Chad Wellington]] of the 11/30/13 show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.718828708147617.1073741856.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.711879688842519.1073741853.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of the 11/2/13 premiere.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/A-Bedtime-Gorey/20131130/) by [[Performers/Chad Wellington|Chad Wellington]] of the 11/30/13 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.644621752268011.1073741952.221927764537414&type=3) by [[Steve Rogers]] of the 12/7/13 performance.
 
 ### Publicity

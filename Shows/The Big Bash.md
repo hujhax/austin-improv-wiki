@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,18 +70,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caitlin Sweetlamb">Performers/Caitlin Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Performers/Chuy Zarate</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -142,7 +142,7 @@ Every show has exactly four performers, one host, one musician, and one technica
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/nLUzSGqYLZw) by [[Performers/Warren Henderson]] of the 5/30/14 show.
+* [Video](http://youtu.be/nLUzSGqYLZw) by [[Performers/Warren Henderson|Warren Henderson]] of the 5/30/14 show.
 
 ## More Information
 * [Article about the show](http://www.austinchronicle.com/arts/2013-12-27/the-big-bash/) by [[Robert Faires]] for *The Austin Chronicle*. (12/27/13)

@@ -22,20 +22,20 @@
 **Jay Michael** is an improv performer and director.
 
 ## Shows
-* *[[Shows/The Black Vault]]*
-* *[[Shows/Cops & Lawyers]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Reality Improv]]* (director)
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Start Trekkin']]* (director)
-* *[[Shows/Maestro]]* (director)
-* *[[Shows/TheatreSports]]*
-* *[[Shows/Trust No One]]*
-* *[[Shows/Twilight Zoned]]*
-* *[[Shows/The Violet Underbelly]]*
+* *[[Shows/The Black Vault|The Black Vault]]*
+* *[[Shows/Cops & Lawyers|Cops & Lawyers]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Reality Improv|Reality Improv]]* (director)
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]* (director)
+* *[[Shows/Maestro|Maestro]]* (director)
+* *[[Shows/TheatreSports|TheatreSports]]*
+* *[[Shows/Trust No One|Trust No One]]*
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 ## Troupes
-* [[Troupes/The Heroes of Comedy]] 
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] 
 
 [[Category/Performers|Michael]]
 [[Category/Directors|Michael]]

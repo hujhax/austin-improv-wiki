@@ -22,13 +22,13 @@
 **Melissa Patterson** is an improv performer. In 2015 she moved away to Chicago. 
 
 ## Troupes
-* [[Troupes/BeauMoMa]]
-* [[Troupes/Crimpz]]
+* [[Troupes/BeauMoMa|BeauMoMa]]
+* [[Troupes/Crimpz|Crimpz]]
 
 ## Shows
-* *[[Shows/History Under the Influence]]*
-* *[[Shows/Reform School For Wayward Girls]]*
-* *[[Shows/Wanderlust]]*
-* *[[Shows/What the F@$]]*
+* *[[Shows/History Under the Influence|History Under the Influence]]*
+* *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
+* *[[Shows/Wanderlust|Wanderlust]]*
+* *[[Shows/What the F@$|What the F@$]]*
 
 [[Category/Performers|Patterson]]

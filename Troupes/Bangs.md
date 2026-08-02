@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Bangs** was a one-off *[[Shows/Cagematch]]* team.
+**Bangs** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 1/2/13.

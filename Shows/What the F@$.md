@@ -14,23 +14,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Performers/Chris Albano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Schwartz">Performers/David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
   --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
   --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Performers/Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
   --><li style="" ><a class="internal-link" href="Michael Guy Bowman">Michael Guy Bowman</a></li><!--
   --><!--
   --><!--
@@ -93,20 +93,20 @@ The cast would then integrate that into the show's second half, when chaos would
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/ga6FUaqWaRA) by [[Performers/Warren Henderson]] of the 2/1/14 show.
-* [Video](http://youtu.be/O_fRR1yx4qA) by [[Performers/Warren Henderson]] of the 2/8/14 show.
-* [Video](http://vimeo.com/90447837) by [[Performers/Melissa Patterson]] of one of their shows.
+* [Video](http://youtu.be/ga6FUaqWaRA) by [[Performers/Warren Henderson|Warren Henderson]] of the 2/1/14 show.
+* [Video](http://youtu.be/O_fRR1yx4qA) by [[Performers/Warren Henderson|Warren Henderson]] of the 2/8/14 show.
+* [Video](http://vimeo.com/90447837) by [[Performers/Melissa Patterson|Melissa Patterson]] of one of their shows.
 * [Video](http://vimeo.com/91716580) of their 4/10/14 performance in [[The 2014 Improvised Play Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.679991005397752.1073741961.221927764537414&type=3) by [[Steve Rogers]] of the 2/8/14 show.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104277388036960.1073741853.7909117&type=3) by [[Performers/Heidi Rogers]] of the 3/1/14 show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104277388036960.1073741853.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the 3/1/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.714029118660607.1073741983.221927764537414&type=3) by [[Steve Rogers]] of their 4/10/14 performance in [[The 2014 Improvised Play Festival]].
 
 ## More Information
 * [The audition notice](http://forum.austinimprov.com/viewforum.php?f=3) on [[The Austin Improv Forums]], and [the audition form](http://docs.google.com/spreadsheet/viewform?formkey=dHpzNTQ4clBGV2JCUDZjWW9Idmp1VkE6MA#gid=1).
 * [Blog post about the rehearsal process](http://www.hideouttheatre.com/fun-at-first-sight) by cast member [[Judith Schomp]].
-* [Blog post about the premiere](http://www.hideouttheatre.com/i-heart-wtf) by cast member [[Performers/Chris Albano]].
+* [Blog post about the premiere](http://www.hideouttheatre.com/i-heart-wtf) by cast member [[Performers/Chris Albano|Chris Albano]].
 * [Blog post about the show](http://www.hideouttheatre.com/carefree-and-fearless) by cast member [[Lindsay Hejl]].
 
 [[Category/Shows|Category:Shows]]

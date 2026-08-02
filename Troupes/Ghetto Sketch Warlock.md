@@ -14,12 +14,12 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></td>
 		</tr>
 	</table>
 </div>
 
-**Ghetto Sketch Warlock** is an alter ego of [[Performers/Bryan 'LuBu' Roberts]] that he uses for sketch, music, and improv projects.
+**Ghetto Sketch Warlock** is an alter ego of [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]] that he uses for sketch, music, and improv projects.
 
 ## Media
 ### Videos

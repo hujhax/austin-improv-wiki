@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
   --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
   --><li style=""><a class="internal-link" href="Jonathan Euseppi">Jonathan Euseppi</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Performers/Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:''This page refers to the defunct all-male troupe consisting of ex-members of [[Continental Breakfast]].  For the current, all-female [[ColdTowne]] troupe, see [[Troupes/Ctrl Alt Delete]].
+:''This page refers to the defunct all-male troupe consisting of ex-members of [[Continental Breakfast]].  For the current, all-female [[ColdTowne]] troupe, see [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]].
 **Ctrl-Alt-Delight** was an improv troupe consisting of ex-members of [[Continental Breakfast]].
 
 ## Summary

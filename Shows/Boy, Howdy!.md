@@ -14,28 +14,28 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Performers/Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Performers/Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Performers/Kaci Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Performers/Megan Sherrod</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
   --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Danger">Performers/Roy Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Danger">Roy Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (lights)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Performers/Rob Yoho</a> (stage manager/dramaturg)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a> (stage manager/dramaturg)</li><!--
   --><!--
   --><!--
   --><!--

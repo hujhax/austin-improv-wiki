@@ -22,7 +22,7 @@
 **Taylor Flanagan** is an actress and  improv performer.
 
 ## Summary
-Taylor Flanagan is an experienced actress in scripted productions who improvised for the first time in *[[Shows/Fakespeare]]*.  *[[Shows/Fakespeare]]* was her first improvised show, but her fourteenth Shakespeare production.
+Taylor Flanagan is an experienced actress in scripted productions who improvised for the first time in *[[Shows/Fakespeare|Fakespeare]]*.  *[[Shows/Fakespeare|Fakespeare]]* was her first improvised show, but her fourteenth Shakespeare production.
 
 By day, she works as a Spanish teacher and reading tutor.
 
@@ -45,6 +45,6 @@ The highlight of her stage life so far has been performing in a dance-based show
 * Roughly 30 plays through Zach's Performing Art's School
 
 ### Improvised Shows
-* *[[Shows/Fakespeare]]* (Fleance/Malcolm/Friar)
+* *[[Shows/Fakespeare|Fakespeare]]* (Fleance/Malcolm/Friar)
 
 [[Category/Performers|Flanagan]]

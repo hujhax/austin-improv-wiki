@@ -25,15 +25,15 @@
 Ace was a company member of [[Gnap! Theater Projects]].
 
 ## Troupes
-* [[Troupes/Available Cupholders]]
-* [[Troupes/The Knuckleball Now]]
-* [[Troupes/Well Hung Jury]]
+* [[Troupes/Available Cupholders|Available Cupholders]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+* [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ## Shows
 * *[[Dusk]]*
-* *[[Shows/Guilds Of Steel]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Lola]]*
-* *[[Shows/Process]]*
+* *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Lola|Lola]]*
+* *[[Shows/Process|Process]]*
 
 [[Category/Performers|Manning]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Brick vs. Mongoose.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Troupes/Brick vs. Mongoose]].
+Photo of [[Troupes/Brick vs. Mongoose|Brick vs. Mongoose]].
 
 Photo by: unknown.
 ## Licensing

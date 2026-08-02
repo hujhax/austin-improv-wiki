@@ -14,19 +14,19 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Howard">Brian Howard</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Ed Reed IV">Ed Reed IV</a></li><!--
   --><li style=""><a class="internal-link" href="Grant Specht">Grant Specht</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Performers/Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style="" ><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
   --><li style=""><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
@@ -84,9 +84,9 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We're using our new form right now, The Slacker, which is based on the movie of the same name. It's a fun exploration of Austin, TX, and the wacky people that make it awesome.</blockquote>
 
 ## Media
-* [Photoset](http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3) that includes their 12/21/09 performance in *[[Shows/The Cagematch]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3) by [[Roy Moore]] that includes their 5/31/10 performance in *[[Shows/The Monday Night Mash]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show at *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3) that includes their 12/21/09 performance in *[[Shows/The Cagematch|The Cagematch]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1269552910817.2032388.1589679282&type=3) by [[Roy Moore]] that includes their 5/31/10 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show at *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/pages/Achatina-Achatina/198227579820)

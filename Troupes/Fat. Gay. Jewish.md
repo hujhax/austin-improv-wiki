@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Britain Spellings">Britain Spellings</a></li><!--
   --><li style=""><a class="internal-link" href="George Benedele">George Benedele</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Performers/Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,10 +70,10 @@
 	</table>
 </div>
 
-**Fat. Gay. Jewish.** was a one-off *[[Shows/Cagematch]]* team.
+**Fat. Gay. Jewish.** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
-Three good friends and 1990s-era-[[Troupes/ComedySportz]] almuni got together 15 years later and played one Cagematch on 5/18/12.
+Three good friends and 1990s-era-[[Troupes/ComedySportz|ComedySportz]] almuni got together 15 years later and played one Cagematch on 5/18/12.
 
 They had a great time and plan to do it again in another 15 years. 
 

@@ -15,11 +15,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Performers/Heath Allyn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Josephine McAdam">Josephine McAdam</a></li><!--
   --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,14 +77,14 @@
 ***Project 23A*** was a webseries set in a game-production company.
 
 ## Cast
-* Grayson - [[Performers/Heath Allyn]]
-* J. T. T. - [[Performers/Jordan T. Maxwell]]
-* LARP - [[Performers/Peter Rogers]]
+* Grayson - [[Performers/Heath Allyn|Heath Allyn]]
+* J. T. T. - [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
+* LARP - [[Performers/Peter Rogers|Peter Rogers]]
 * Mace - Josephine McAdam
 * New AP - [[Kevin Machate]]
 
 ## Crew
-* Producers/Creators - Mark Vittek, Jesse Scoble, [[Performers/Heath Allyn]]
+* Producers/Creators - Mark Vittek, Jesse Scoble, [[Performers/Heath Allyn|Heath Allyn]]
 * Camera operator - Mark Vittek
 * Music - Bobby Menkedick
 * Audio - Peter Hietman

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Performers/Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Two People, Nine Scenes, Endless Hilarity.  Nine Serpents is a two person improv troupe featuring [[Performers/Kristin Henn]] and [[Performers/Alex Baia]]. Weird offers, compelling replies. This two man Harold creates high energy, eccentric characters and explores unexpected new worlds. The energy is high and the turns unexpected. You should be a part of this!</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Two People, Nine Scenes, Endless Hilarity.  Nine Serpents is a two person improv troupe featuring [[Performers/Kristin Henn|Kristin Henn]] and [[Performers/Alex Baia|Alex Baia]]. Weird offers, compelling replies. This two man Harold creates high energy, eccentric characters and explores unexpected new worlds. The energy is high and the turns unexpected. You should be a part of this!</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We do a two man Harold. Alex and Kristin have played together in [[Troupes/Oh, Science!]] (a CT house troupe) for two years and decided to take the loose Harold structure used there to create a more concentrated format. Powerful energy and unexpected offers balanced by the unstoppable yes.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We do a two man Harold. Alex and Kristin have played together in [[Troupes/Oh, Science!|Oh, Science!]] (a CT house troupe) for two years and decided to take the loose Harold structure used there to create a more concentrated format. Powerful energy and unexpected offers balanced by the unstoppable yes.</blockquote>
 
 [[Category/Duos|Category:Duos]]
 [[Category/Troupes|Category:Troupes]]

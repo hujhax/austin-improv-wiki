@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mother Punch.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Mother Punch]].
+Publicity image for [[Troupes/Mother Punch|Mother Punch]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

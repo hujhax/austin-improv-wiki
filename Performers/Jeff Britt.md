@@ -22,18 +22,18 @@
 **Jeff Britt** is an improv performer.
 
 ## History
-Jeff's acting career had consisted only of scripted theatre until he started taking improv classes at The Hideout in 2007. His 101 instructor was [[Performers/Andy Crouch]], his 201 was future [[Troupes/Confidence Men]] troupe-mate [[Performers/Troy Miller]], and his 301 teacher was [[Performers/Shana Merlin]].
+Jeff's acting career had consisted only of scripted theatre until he started taking improv classes at The Hideout in 2007. His 101 instructor was [[Performers/Andy Crouch|Andy Crouch]], his 201 was future [[Troupes/Confidence Men|Confidence Men]] troupe-mate [[Performers/Troy Miller|Troy Miller]], and his 301 teacher was [[Performers/Shana Merlin|Shana Merlin]].
 
 ## Shows
-* *[[Shows/Not This American Life]]*
-* *[[Shows/Thinning The Herd]]*
-* ''[[Shows/Kenjutsu]]"
+* *[[Shows/Not This American Life|Not This American Life]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
+* ''[[Shows/Kenjutsu|Kenjutsu]]"
 
 ## Troupes
-* [[Troupes/Confidence Men]] (2009-Present)
-* [[Troupes/Happiness is a Choice]] (2009-Present)
-* [[Troupes/The JBs]]
-* [[Troupes/Two Man Polanski]] (2011)
-* [[Shows/The Professor]] (2013)
+* [[Troupes/Confidence Men|Confidence Men]] (2009-Present)
+* [[Troupes/Happiness is a Choice|Happiness is a Choice]] (2009-Present)
+* [[Troupes/The JBs|The JBs]]
+* [[Troupes/Two Man Polanski|Two Man Polanski]] (2011)
+* [[Shows/The Professor|The Professor]] (2013)
 
 [[Category/Performers|Britt]]

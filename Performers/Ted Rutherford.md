@@ -22,14 +22,14 @@
 **Ted Rutherford** is an improv performer and teacher.
 
 ## Troupes
-* [[Troupes/Foolish Mortals]]
-* [[Troupes/The Heroes of Comedy]] 
-* [[Troupes/Junk]]
-* [[Troupes/The Known Wizards]]
+* [[Troupes/Foolish Mortals|Foolish Mortals]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] 
+* [[Troupes/Junk|Junk]]
+* [[Troupes/The Known Wizards|The Known Wizards]]
 
 ## Shows
-* *[[Shows/Bad Company]]* (co-director)
-* *[[Shows/TheatreSports]]*
+* *[[Shows/Bad Company|Bad Company]]* (co-director)
+* *[[Shows/TheatreSports|TheatreSports]]*
 
 [[Category/Performers|Rutherford]]
 [[Category/Teachers|Rutherford]]

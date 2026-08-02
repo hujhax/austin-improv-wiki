@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alida Villatoro">Alida Villatoro</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
   --><li style=""><a class="internal-link" href="Jon Simmons">Jon Simmons</a></li><!--
   --><li style=""><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
@@ -25,7 +25,7 @@
   --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
   --><li style="" ><a class="internal-link" href="Sam VanMetre">Sam VanMetre</a></li><!--
   --><li style=""><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 ## History
 The troupe formed after being randomly grouped together in ColdTowne Conservatory classes in the summer of 2009.
 
-They won the "Frank Herbert's Dune" *[[Shows/Cagematch]]* in spring 2010, and followed it up with 5/8/10 and 6/12/10 performances in the Cagematch "Tournament of Champions".
+They won the "Frank Herbert's Dune" *[[Shows/Cagematch|Cagematch]]* in spring 2010, and followed it up with 5/8/10 and 6/12/10 performances in the Cagematch "Tournament of Champions".
 
 Soon after, they performed a run of their signature format, the "Pants Killstrap", for their level-six graduation.
 

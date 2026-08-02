@@ -24,25 +24,25 @@
 ## History
 Eric was a company member of [[Gnap! Theater Projects]].
 
-He was a core cast member in [[The 43-Hour Improv Marathon]] and a guest boy in *[[Shows/Boys of Summer]]*.
+He was a core cast member in [[The 43-Hour Improv Marathon]] and a guest boy in *[[Shows/Boys of Summer|Boys of Summer]]*.
 
-In 2013, he moved to Minneapolis.  Just before that, he had a special *[[Shows/Free Fringe]]* devoted to him.
+In 2013, he moved to Minneapolis.  Just before that, he had a special *[[Shows/Free Fringe|Free Fringe]]* devoted to him.
 
 ## Troupes
-* [[Troupes/ComedySportz]]
-* [[Troupes/Improv For Evil]]
+* [[Troupes/ComedySportz|ComedySportz]]
+* [[Troupes/Improv For Evil|Improv For Evil]]
 
 ## Shows
-* *[[Shows/Cover to Cover]]*
-* *[[Shows/The Derby]]* (producer/creator)
-* *[[Shows/Fandom]]*
-* *[[Shows/Holy 1960s Batman, Batman!]]*
+* *[[Shows/Cover to Cover|Cover to Cover]]*
+* *[[Shows/The Derby|The Derby]]* (producer/creator)
+* *[[Shows/Fandom|Fandom]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
 * *[[Hyperlinks]]*
-* *[[Shows/Ka-Baam!!]]*
-* *[[Shows/Lola]]*
-* *[[Shows/Myth Debunkers]]* (creator/Tory Belleci)
-* *[[Shows/Pulp Friction]]*
-* *[[Shows/The Sandbox]]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
+* *[[Shows/Lola|Lola]]*
+* *[[Shows/Myth Debunkers|Myth Debunkers]]* (creator/Tory Belleci)
+* *[[Shows/Pulp Friction|Pulp Friction]]*
+* *[[Shows/The Sandbox|The Sandbox]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 
 [[Category/Performers|Heiberg]]

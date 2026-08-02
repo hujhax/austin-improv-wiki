@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kate Bojanek Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Performers/Kate Bojanek]] for *[[Elf Employment]]*.
+Publicity photo of [[Performers/Kate Bojanek|Kate Bojanek]] for *[[Elf Employment]]*.
 
 Photo by Annie Ray, from [this photoset](http://www.facebook.com/media/set/?set=a.10150370094432291.352696.155494462290&type=3).
 ## Licensing

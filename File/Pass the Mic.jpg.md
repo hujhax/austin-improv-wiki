@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Pass the Mic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[Shows/Pass the Mic]]*.
+Publicity art for *[[Shows/Pass the Mic|Pass the Mic]]*.
 
 Art by: unknown.
 ## Licensing

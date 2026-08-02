@@ -25,29 +25,29 @@
 After doing improv in Chicago, Erika May McNichol moved to Austin in June 2005.
 
 ## Troupes
-* [[Troupes/The Frank Mills]]
-* [[Troupes/McNichol & May]]
-* [[Troupes/Sarah 7]]
-* [[Shows/Stool Pigeon]]
-* [[Troupes/Two Minute Brother]]
+* [[Troupes/The Frank Mills|The Frank Mills]]
+* [[Troupes/McNichol & May|McNichol & May]]
+* [[Troupes/Sarah 7|Sarah 7]]
+* [[Shows/Stool Pigeon|Stool Pigeon]]
+* [[Troupes/Two Minute Brother|Two Minute Brother]]
 * [[The Smoking Arm]]
-* [[Troupes/Tight]]
+* [[Troupes/Tight|Tight]]
 
 ## Shows
 * *[[Title Fine -  We Got Game]]* (Director/Producer)
 * *[[Tweet Dreams]]* (Director/Producer)
 * *[[Church of Indeterminate Divinity]]* (Ensemble)
-* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]]* (Director/Producer)
-* *[[Shows/Braised in Texas]]* (Director/Producer)
+* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players|Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]]* (Director/Producer)
+* *[[Shows/Braised in Texas|Braised in Texas]]* (Director/Producer)
 * *[[McNichol & May -  Breeders]]* (Writer/Performer)
-* *[[Shows/Pocketful of Posies]]* (Ensemble)
+* *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (Ensemble)
 * *[[Mortified - Austin]]* (Director/Producer, 2006-2007)
 * *[[The Frank Mills -  Classy-Ass Show]]* (Writer/Performer)
 * *[[McNichol & May -  Great Americans]]* (Writer/Performer)
-* *[[Shows/Whirled News Tonight]]* (Director/Producer, 2005-2006)
+* *[[Shows/Whirled News Tonight|Whirled News Tonight]]* (Director/Producer, 2005-2006)
 
 ## More Information
-* [Interview](http://yesandrew.com/2014/06/15/the-sunday-interview-erika-mcnichol/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/06/15/the-sunday-interview-erika-mcnichol/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Interview](http://gybpodcast.libsyn.com/erika-may-mcnichol-ep-12-got-your-back) on the *[[Got Your Back]]* podcast.
 
 [[Category/Performers|McNichol]]

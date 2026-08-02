@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Speakeasy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for the January 2013 performance of *[[Shows/The Speakeasy]]*.
+Publicity image for the January 2013 performance of *[[Shows/The Speakeasy|The Speakeasy]]*.
 
 Art by: unknown.
 

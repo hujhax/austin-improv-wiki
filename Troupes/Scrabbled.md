@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Performers/Jessie Pascarelli</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Megan Venable">Performers/Megan Venable</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Megan Venable">Megan Venable</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We do a scene throughout the show where we play the game Scrabble and we are characters in that scene, then when we play a word that inspired someone, we pop out into a montage of scenes, then when we're done, we pop back into playing the game. </blockquote>
 
 ## History
-This started as a *[[Shows/Free Fringe]]* show on [[List of Free Fringes#Scrabble .28Heidi Rogers.29|10/24/13]].
+This started as a *[[Shows/Free Fringe|Free Fringe]]* show on [[List of Free Fringes#Scrabble .28Heidi Rogers.29|10/24/13]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

@@ -23,10 +23,10 @@
 
 
 ## Troupes
-* [[Troupes/Bad Font]] (2013-Present)
-* [[Troupes/Houses in Motion]] (2015-Present)
-* [[Troupes/Kingz]] (2015-Present)
-* [[Troupes/Loverboy]] (2015-Present)
+* [[Troupes/Bad Font|Bad Font]] (2013-Present)
+* [[Troupes/Houses in Motion|Houses in Motion]] (2015-Present)
+* [[Troupes/Kingz|Kingz]] (2015-Present)
+* [[Troupes/Loverboy|Loverboy]] (2015-Present)
 
 
 ## Shows

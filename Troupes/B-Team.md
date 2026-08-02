@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="LeAnn Levering-Plant">LeAnn Levering-Plant</a></li><!--
   --><li style=""><a class="internal-link" href="Melissa Siele">Melissa Siele</a></li><!--
   --><li style=""><a class="internal-link" href="Molly Harris">Molly Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Pius Wong">Performers/Pius Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Pius Wong">Pius Wong</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.649123725109126.1073741866.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 10/5/13 performance in *[[Shows/The Triple Scoop]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.649123725109126.1073741866.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/5/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

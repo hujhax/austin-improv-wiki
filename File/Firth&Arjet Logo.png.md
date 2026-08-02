@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Firth&Arjet Logo.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The [[Troupes/Firth & Arjet]] logo.
+The [[Troupes/Firth & Arjet|Firth & Arjet]] logo.
 
 Art by: unknown.
 ## Licensing

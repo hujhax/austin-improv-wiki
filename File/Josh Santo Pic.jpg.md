@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Josh Santo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Josh Santo]], in the 10/11/14 performance of *[[Shows/The Aftermath]]*.
+[[Performers/Josh Santo|Josh Santo]], in the 10/11/14 performance of *[[Shows/The Aftermath|The Aftermath]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.821236394606545.1073742087.221927764537414&type=3).
 ## Licensing

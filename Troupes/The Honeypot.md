@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 * [Video](http://vimeo.com/46257999) of their 7/18/12 performance at [[Coldtowne Theater]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3) by [[Roy Moore]] that includes their 3/5/12 performance in *[[Shows/The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3) by [[Roy Moore]] that includes their 3/5/12 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/The-Honeypot/296185193774779)

@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Annette Cantu">Annette Cantu</a></li><!--
   --><li style=""><a class="internal-link" href="David Jara">David Jara</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Pedicano">Michael Pedicano</a></li><!--
   --><li style=""><a class="internal-link" href="Ximena Estrada">Ximena Estrada</a></li><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>The Box Social presents scenes based around an improvised reality dating show. Scenes and characters spiral and change before returning to the studio. Featuring members of [[Troupes/Midnight Society]], [[Stag]], [[Mascot Wedding]], Master Pancake Theater, and [[Troupes/Tears But Joy]].</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>The Box Social presents scenes based around an improvised reality dating show. Scenes and characters spiral and change before returning to the studio. Featuring members of [[Troupes/Midnight Society|Midnight Society]], [[Stag]], [[Mascot Wedding]], Master Pancake Theater, and [[Troupes/Tears But Joy|Tears But Joy]].</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We do an improvised dating game loosely based on the old TV show *Studs*.</blockquote>

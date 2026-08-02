@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Monks Ticket.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A ticket to a 5/14/96 [[Troupes/Monks' Night Out]] show.
+A ticket to a 5/14/96 [[Troupes/Monks' Night Out|Monks' Night Out]] show.
 
 (Scan by [[Christie Ingram]].)
 ## Licensing

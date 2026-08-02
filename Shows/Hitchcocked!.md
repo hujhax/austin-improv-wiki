@@ -14,13 +14,13 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Brockman">Performers/Michael Brockman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Brockman">Michael Brockman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,19 +74,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Performers/Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Performers/Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Performers/Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stacy Kaplowitz">Performers/Stacy Kaplowitz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -131,11 +131,11 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Anandhi Mani">Anandhi Mani</a></li><!--
   --><li style=""><a class="internal-link" href="Brianne Wilson">Brianne Wilson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Zimmerman">Performers/David Zimmerman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></li><!--
   --><li style=""><a class="internal-link" href="Josh Becker">Josh Becker</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Performers/Neal Tibrewala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Performers/Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -197,9 +197,9 @@ Each performance included "sceneographers" to re-create cinematic effects onstag
 
 ### Guest Performers
 The show included several guest performers who weren't part of the main cast:
-* [[Performers/Ace Manning]]
-* [[Performers/Craig Kotfas]]
-* [[Performers/Lauren Buck]]
+* [[Performers/Ace Manning|Ace Manning]]
+* [[Performers/Craig Kotfas|Craig Kotfas]]
+* [[Performers/Lauren Buck|Lauren Buck]]
 
 ## Media
 ### Videos
@@ -215,17 +215,17 @@ The show included several guest performers who weren't part of the main cast:
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 3/26/10 performance.
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100191585862270.2856707.7944448&type=3) by [[Performers/Jo Chauvin]] of the same show.
+	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100191585862270.2856707.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1215742685595.2027304.1589679282&type=1) by [[Roy Moore]] of the 3/27/10 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/2/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
 
 ### Other
-* Photos of [[Performers/Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2813%29/photo%2813%29.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2812%29/photo%2812%29.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2814%29/photo%2814%29.jpg?disposition=download).
+* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2813%29/photo%2813%29.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2812%29/photo%2812%29.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%2814%29/photo%2814%29.jpg?disposition=download).
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/hitchcocked)
 * [A post from Kaci about the set design.](http://www.hideouttheatre.com/saul-bass-inspired-set-design-for-hitchcocked)
-* [A podcast interview about the show](http://www.hideouttheatre.com/hitchcocked-podcast) with co-director [[Performers/Troy Miller]].
+* [A podcast interview about the show](http://www.hideouttheatre.com/hitchcocked-podcast) with co-director [[Performers/Troy Miller|Troy Miller]].
 * [The announcement of the show's premiere](http://forum.austinimprov.com/viewtopic.php?p=90840) on [[The AIC Forums]].
 * [The call for technical improvisors](http://forum.austinimprov.com/viewtopic.php?p=90441) on [[The AIC Forums]].
 

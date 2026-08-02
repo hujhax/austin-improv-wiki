@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ball&Chain.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Ball&Chain]].
+Publicity photo of [[Troupes/Ball&Chain|Ball&Chain]].
 
 Photo by: unknown.
 

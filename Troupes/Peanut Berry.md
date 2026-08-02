@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
   --><li style=""><a class="internal-link" href="Blake Reinhart">Blake Reinhart</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Performers/Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Brinlee">Jennifer Brinlee</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Tim Stiefler">Tim Stiefler</a></li><!--

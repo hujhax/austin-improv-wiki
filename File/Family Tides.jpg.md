@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Family Tides.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/Family Tides]]*.
+Publicity poster for *[[Shows/Family Tides|Family Tides]]*.
 
 Photos by: unknown.
 

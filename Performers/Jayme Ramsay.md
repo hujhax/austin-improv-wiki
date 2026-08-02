@@ -27,22 +27,22 @@ Jayme first started taking improv classes at [[The Hideout Theatre]] in early 20
 Since then, she's also studied at [[Coldtowne Theater]] and [[The Institution Theater]].
 
 ## Troupes
-* [[Troupes/Monster]]
+* [[Troupes/Monster|Monster]]
 
 ## Shows
-* *[[Shows/A Bedtime Gorey]]*
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/The Black Vault]]*
-* *[[Shows/The Cherry Bowl]]* (Anya)
-* *[[Shows/The Dahl House]]* (assistant director)
-* *[[Shows/The Fancy-Pants Mashup]]*
-* *[[Shows/Hurly Burly]]* (co-director)
-* *[[Shows/Kenjutsu]]* 
+* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/The Black Vault|The Black Vault]]*
+* *[[Shows/The Cherry Bowl|The Cherry Bowl]]* (Anya)
+* *[[Shows/The Dahl House|The Dahl House]]* (assistant director)
+* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
+* *[[Shows/Hurly Burly|Hurly Burly]]* (co-director)
+* *[[Shows/Kenjutsu|Kenjutsu]]* 
 * *[[Live TV Tuesdays -  Buffy]]* (Hellhound / Ensemble)
-* *[[Shows/Maestro]]*
-* *[[Shows/Pick Your Own Path]]*
-* *[[Shows/Steam]]* (Crank)
-* *[[Shows/Strange Worlds]]* (Bellwether Blue)
+* *[[Shows/Maestro|Maestro]]*
+* *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
+* *[[Shows/Steam|Steam]]* (Crank)
+* *[[Shows/Strange Worlds|Strange Worlds]]* (Bellwether Blue)
 * *[[The Tribunal]]*
 
 ## More Information

@@ -26,9 +26,9 @@ Aaron appeared in the early 1980s and continues to appear today.
 
 ## Troupes
 ### Austin Troupes
-* [[Troupes/The Awkwards]]
-* [[Troupes/The Escorts]]
-* [[Troupes/Well Hung Jury]]
+* [[Troupes/The Awkwards|The Awkwards]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ### Other Troupes
 * American Standard (New York City)
@@ -36,11 +36,11 @@ Aaron appeared in the early 1980s and continues to appear today.
 * Un-Scripted Theater (San Francisco)
 
 ## Shows
-* *[[Shows/Fandom]]*
-* *[[Shows/I Love You So Much]]*
-* *[[Troupes/Past Lives]]*
-* *[[Shows/A Bedtime Gorey]]*
-* *[[Shows/The International Improv Experience]]*
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/Fandom|Fandom]]*
+* *[[Shows/I Love You So Much|I Love You So Much]]*
+* *[[Troupes/Past Lives|Past Lives]]*
+* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
+* *[[Shows/The International Improv Experience|The International Improv Experience]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[The 44-Hour Improv Marathon]]*
 [[Category/Performers|Saenz]]

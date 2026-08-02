@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,18 +70,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Jordan T Maxwell">Jordan T Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Mallory Schlossburg">Mallory Schlossburg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Performers/Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style="" ><a class="internal-link" href="Marcone Cangassu">Marcone Cangassu</a></li><!--
   --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah Doering">Sarah Doering</a></li><!--
   --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
   --><!--

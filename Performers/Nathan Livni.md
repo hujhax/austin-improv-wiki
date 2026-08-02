@@ -23,11 +23,11 @@
 
 
 ## Troupes
-* [[Troupes/Magician vs. Clown]]
-* [[Troupes/Oh, Science!]]
+* [[Troupes/Magician vs. Clown|Magician vs. Clown]]
+* [[Troupes/Oh, Science!|Oh, Science!]]
 
 ## Shows
-* *[[Shows/Improvised Comedy with Oh, Science!]]*
+* *[[Shows/Improvised Comedy with Oh, Science!|Improvised Comedy with Oh, Science!]]*
 
 ## More Information
 [[Category/Performers|Livni]]

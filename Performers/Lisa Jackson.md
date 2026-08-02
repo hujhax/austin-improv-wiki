@@ -76,21 +76,21 @@
 Lisa appeared in [[The 42-Hour Improv Marathon]], and [[The 44-Hour Improv Marathon]], and the 2019 48-Hour Marathon at [[The Hideout Theatre]].
 
 ## Troupes
-* [[Troupes/Dervish]]
-* [[Troupes/Galactic]]
-* [[Troupes/Ratliff and Jackson]]
-* [[Shows/Stool Pigeon]]
-* [[Troupes/Nice Astronaut]] (former member)
-* [[Troupes/Faster, Robot! Kill! Kill!]]
+* [[Troupes/Dervish|Dervish]]
+* [[Troupes/Galactic|Galactic]]
+* [[Troupes/Ratliff and Jackson|Ratliff and Jackson]]
+* [[Shows/Stool Pigeon|Stool Pigeon]]
+* [[Troupes/Nice Astronaut|Nice Astronaut]] (former member)
+* [[Troupes/Faster, Robot! Kill! Kill!|Faster, Robot! Kill! Kill!]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Crack!]]*
-* *[[Shows/Family Tides]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Manhattan Stories]]*
-* *[[Shows/Not This American Life]]*
-* *[[Shows/Racket]]*
+* *[[Shows/Family Tides|Family Tides]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Manhattan Stories|Manhattan Stories]]*
+* *[[Shows/Not This American Life|Not This American Life]]*
+* *[[Shows/Racket|Racket]]*
 
 [[Category/Performers|Jackson]]
 [[Category/Teachers|Jackson]]

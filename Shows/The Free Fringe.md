@@ -34,12 +34,12 @@ The Free Fringe happens every Thursday at 10pm at the Hideout.  It is free to at
 
 The show is concept-driven, rather than troupe-driven.  The Hideout accepts online submissions for show concepts, and picks several to showcase each week.
 
-The show is hosted by [[Performers/Jessica Arjet]].   [[Troupes/Firth & Arjet]] was the *Free Fringe*'s headliner through 8/9/12.  Then, after [[Performers/Kristin Firth]] left Austin, a rotating set of Jessica's projects have occupied the headliner slot.
+The show is hosted by [[Performers/Jessica Arjet|Jessica Arjet]].   [[Troupes/Firth & Arjet|Firth & Arjet]] was the *Free Fringe*'s headliner through 8/9/12.  Then, after [[Performers/Kristin Firth|Kristin Firth]] left Austin, a rotating set of Jessica's projects have occupied the headliner slot.
 
 Many of the experiments put up for the Free Fringe have met with unexpected success and become recurring shows.
 
 ## History
-The Fringe premiered on 1/5/12, shortly after [[Troupes/Parallelogramophonograph]] travelled to the Edinburgh Fringe Festival, and is patterned after that festival's own Free Fringe.[http://freefringe.org.uk/](http://freefringe.org.uk/)
+The Fringe premiered on 1/5/12, shortly after [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] travelled to the Edinburgh Fringe Festival, and is patterned after that festival's own Free Fringe.[http://freefringe.org.uk/](http://freefringe.org.uk/)
 
 For a list of all formats performed in *The Free Fringe*, see the [[List of Free Fringes]], which also includes all posted media of the show.
 

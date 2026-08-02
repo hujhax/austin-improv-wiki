@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
@@ -24,14 +24,14 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ally Huston">Ally Huston</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
   --><li style=""><a class="internal-link" href="Brittany Flurry">Brittany Flurry</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Brooks">Jessica Brooks</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jo Chauvin">Performers/Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jo Chauvin">Jo Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Molly Mckee">Molly Mckee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Sam Schak">Performers/Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Asaf Ronen]]</td>
+			<td class="category">[[Performers/Asaf Ronen|Asaf Ronen]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Initial Run</th>
@@ -119,7 +119,7 @@ A second season of the show is planned for 2016.
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204458400402796.1073741957.1315383518&type=3) by [[Michael Yew]] of the 7/11/15 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.848505198559326.1073741860.473177099425473&type=3) by [[Performers/Chad Wellington]] of the 7/17/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.848505198559326.1073741860.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 7/17/15 performance.
 
 ## More Information
 * [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Institution Theater]] facebook page.

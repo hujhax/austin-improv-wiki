@@ -10,44 +10,44 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Mike Kinald">Performers/Mike Kinald</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></td>
+			<td class="category"><a class="internal-link" href="Performers/David Lampe">David Lampe</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">**Original Shows:**</li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Performers/Mike Kinald</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style="">**Mainstage Run:**</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Performers/Alex Ayala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Performers/Chuy Zarate</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Performers/Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Performers/Heidi Penix</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Performers/Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Performers/Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Performers/Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Performers/Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Heidi Penix</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,9 +74,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Performers/Sarah Hutchins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -197,19 +197,19 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 <p>In our play you get more of the "why" behind certain character motives and that could create a fuller plot and experience for the audience.</p></blockquote>
 
 ## History
-The show premiered as a *[[Shows/Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[The 2012 Improvised Play Festival]].
+The show premiered as a *[[Shows/Free Fringe|Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[The 2012 Improvised Play Festival]].
 
 It is returning as a mainstage show at [[The Institution Theater]], running on Friday and Saturday nights at 8pm from 2/20/15 to 3/7/15.
 
 ## Media
 ### Videos
 * [Video](http://vimeo.com/40916902) of their performance in [[The 2012 Improvised Play Festival]].
-* [Video](http://vimeo.com/120262675) by [[Performers/Peter Rogers]] of the 2/20/15 show.
-* [Video](http://vimeo.com/120315233) by [[Performers/Peter Rogers]] of the 2/21/15 show.
-* [Video](http://vimeo.com/120996265) by [[Performers/Peter Rogers]] of the 2/27/15 show.
-* [Video](http://vimeo.com/120987927) by [[Performers/Peter Rogers]] of the 2/28/15 show.
-* [Video](http://vimeo.com/121647280) by [[Performers/Peter Rogers]] of the 3/6/15 show.
-* [Video](http://vimeo.com/121647279) by [[Performers/Peter Rogers]] of the 3/7/15 show.
+* [Video](http://vimeo.com/120262675) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/20/15 show.
+* [Video](http://vimeo.com/120315233) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/21/15 show.
+* [Video](http://vimeo.com/120996265) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/27/15 show.
+* [Video](http://vimeo.com/120987927) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/28/15 show.
+* [Video](http://vimeo.com/121647280) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/6/15 show.
+* [Video](http://vimeo.com/121647279) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/7/15 show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their performance in [[The 2012 Improvised Play Festival]].

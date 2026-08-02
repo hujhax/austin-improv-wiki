@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andrew Grissom">Andrew Grissom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,13 +78,13 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 <p>Two men have a real dinner on stage at a small table off to the side. We have a conversation and whatever we find entertaining we stand up and do skits about. Once a skit is complete, we sit back down and continue the conversation.</p>
 
-<p>Kyle and I have been friends for a few years and have performed in a group called [[Troupes/GigglePants]] at UT, so we have a good chemistry and work very well together.</p></blockquote>
+<p>Kyle and I have been friends for a few years and have performed in a group called [[Troupes/GigglePants|GigglePants]] at UT, so we have a good chemistry and work very well together.</p></blockquote>
 
 ## History
-The troupe played in *[[Shows/The Cagematch]]* in 2009.
+The troupe played in *[[Shows/The Cagematch|The Cagematch]]* in 2009.
 
 ## More Information
-* [Thread](http://forum.austinimprov.com/viewtopic.php?f=2&t=9931) on [[The Austin Improv Forums]] listing the *[[Shows/Cagematch]]* schedule that includes the troupe.
+* [Thread](http://forum.austinimprov.com/viewtopic.php?f=2&t=9931) on [[The Austin Improv Forums]] listing the *[[Shows/Cagematch|Cagematch]]* schedule that includes the troupe.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

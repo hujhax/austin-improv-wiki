@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Dario Konjicija">Dario Konjicija</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Drinkies Galore** was a one-off *[[Shows/Cagematch]]* team.
+**Drinkies Galore** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 1/23/09.

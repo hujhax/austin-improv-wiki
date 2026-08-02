@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Performers/Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style=""><a class="internal-link" href="Eric A. Garcia">Eric A. Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="Will Oakley">Will Oakley</a></li><!--
   --><!--
@@ -73,7 +73,7 @@
 **Late Night Lunch Show** was a one-off Cagematch team turned YouTube webseries.
 
 ## Summary
-They described themselves thus:<blockquote>You have been invited to join [[Performers/Aden Kirschner]], [[Eric A. Garcia]], and [[Will Oakley]] for lunch.</blockquote>
+They described themselves thus:<blockquote>You have been invited to join [[Performers/Aden Kirschner|Aden Kirschner]], [[Eric A. Garcia]], and [[Will Oakley]] for lunch.</blockquote>
 
 ## History
 The troupe played a Cagematch on 1/10/08 -- they played a total of two matches in "Nightmare Forest" before getting knocked out in the semifinals.

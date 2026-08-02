@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Performers/Rob Yoho</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,20 +70,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
   --><li style=""><a class="internal-link" href="Tatiana Jitkoff">Tatiana Jitkoff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style="" ><a class="internal-link" href="Adrian Prado">Adrian Prado</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">Performers/J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--

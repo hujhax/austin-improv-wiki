@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
   --><li style=""><a class="internal-link" href="Isaac Smith">Isaac Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Raney">Scott Raney</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Redding Hardie">Stephanie Redding Hardie</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Hit and Rundberg** was a one-off *[[Shows/Cagematch]]* team.
+**Hit and Rundberg** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
 Their self-description: "Audiences will run away with laughter with they hit the characters with emotions."

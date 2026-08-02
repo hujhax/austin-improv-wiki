@@ -25,29 +25,29 @@
 From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/carlos-larotta):
 <blockquote><p>Carlos LaRotta used to be a filmmaker who liked to perform improv and sketch, but currently he identifies himself as an improv/sketch performer who likes to make films.</p>
 
-<p>As ColdTowne’s (arguably) hottest "Chubby Hispanic Guy", Carlos can be seen every Friday at 7pm with [[Shows/Movie Riot]], as well as frequently performing with such house troupes as [[Troupes/Precious Dads]], [[Troupes/Skutch]], [[Troupes/Whalehouse]], and [[Carlos and Chrissy are Twins]].</p>
+<p>As ColdTowne’s (arguably) hottest "Chubby Hispanic Guy", Carlos can be seen every Friday at 7pm with [[Shows/Movie Riot|Movie Riot]], as well as frequently performing with such house troupes as [[Troupes/Precious Dads|Precious Dads]], [[Troupes/Skutch|Skutch]], [[Troupes/Whalehouse|Whalehouse]], and [[Carlos and Chrissy are Twins]].</p>
 
 <p>Also, he is known to switch from third person to first person in one sentence, I think.</p></blockquote>
 
 ## Troupes
-* [[Troupes/Bad Font]]
+* [[Troupes/Bad Font|Bad Font]]
 * [[Carlos and Chrissy are Twins]]
-* [[Troupes/Cup]]
-* [[Troupes/Delta Force of Venus]]
-* [[Shows/Movie Riot]]
-* [[Troupes/Precious Dads]]
-* [[Troupes/Skutch]]
-* [[Troupes/Watergate]]
-* [[Troupes/Whalehouse]]
+* [[Troupes/Cup|Cup]]
+* [[Troupes/Delta Force of Venus|Delta Force of Venus]]
+* [[Shows/Movie Riot|Movie Riot]]
+* [[Troupes/Precious Dads|Precious Dads]]
+* [[Troupes/Skutch|Skutch]]
+* [[Troupes/Watergate|Watergate]]
+* [[Troupes/Whalehouse|Whalehouse]]
 
 ## Shows
-* *[[Shows/Braised in Texas]]*
-* *[[Shows/TGIS]]*
+* *[[Shows/Braised in Texas|Braised in Texas]]*
+* *[[Shows/TGIS|TGIS]]*
 
 ## More Information
 * [Carlos's bio page on the ColdTowne Theater site.](http://www.coldtownetheater.com/performer/carlos-larotta)
 * [Interview](http://gybpodcast.libsyn.com/carlos-larotta-ep-22-got-your-back) on *[[Got Your Back]]*.
-* [Interview](http://yesandrew.com/the-sunday-interview-carlos-larotta/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-carlos-larotta/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|LaRotta]]
 [[Category/Active|LaRotta]]

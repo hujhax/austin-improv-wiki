@@ -25,19 +25,19 @@
 Rachel is a core cast member in [[The 45-Hour Improv Marathon]].
 
 ## Troupes
-* [[Troupes/The Frank Mills]]
-* [[Troupes/Rachel and Dave]]
+* [[Troupes/The Frank Mills|The Frank Mills]]
+* [[Troupes/Rachel and Dave|Rachel and Dave]]
 * [[Yay with Rachel and Emma]]
-* [[Troupes/ComedySportz]]
+* [[Troupes/ComedySportz|ComedySportz]]
 
 ## Shows
-* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players]]*
-* *[[Shows/Shanty Town Lake]]*
-* *[[Troupes/3 2 1 Kill]]*
-* *[[Troupes/You're Fat]]*
+* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players|Bridgeport Women's Correctional Facility Short Form Players]]*
+* *[[Shows/Shanty Town Lake|Shanty Town Lake]]*
+* *[[Troupes/3 2 1 Kill|3 2 1 Kill]]*
+* *[[Troupes/You're Fat|You're Fat]]*
 
 ## More Information
-* [Her bio page](http://rachelanddave.com/rachelanddave.com/Rachel.html)  on the [[Troupes/Rachel and Dave]] website.
+* [Her bio page](http://rachelanddave.com/rachelanddave.com/Rachel.html)  on the [[Troupes/Rachel and Dave|Rachel and Dave]] website.
 * [Interview](http://gybpodcast.libsyn.com/rachel-madorsky-ep-31-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Madorsky]]

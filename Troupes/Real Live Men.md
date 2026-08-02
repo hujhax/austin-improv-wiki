@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style=""><a class="internal-link" href="Will Cleveland">Will Cleveland</a></li><!--
   --><!--

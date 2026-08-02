@@ -25,19 +25,19 @@
 **Estevan J. "Chuy" Zarate** is an Austin improviser, originally from San Antonio.
 
 ## History
-As a teenager in San Antonio, Zarate was coached in improv by [[Performers/David Lampe]].
+As a teenager in San Antonio, Zarate was coached in improv by [[Performers/David Lampe|David Lampe]].
 
 ## Troupes
-* [[Troupes/ChuTopp]]
+* [[Troupes/ChuTopp|ChuTopp]]
 * [[The Oxymorons]]
-* [[Troupes/Your Dad's Friends]]
-* [[Troupes/¡ZARZAMORA!]]
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
+* [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/GrimmNoir]]*
-* *[[Shows/Thinning The Herd]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 ## More Information
 * [Interview](http://archive.org/details/ScottHearneTheTheftForum-ChuyZarate-Episode4) with Chuy on *[[The Theft Forum]]*.
-* [Interview](http://yesandrew.com/the-sunday-interview-chuy-zarate/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-chuy-zarate/) by [[Performers/Andrew Buck|Andrew Buck]].

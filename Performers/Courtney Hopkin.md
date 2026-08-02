@@ -25,33 +25,33 @@
 Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of creating publicity images for the group.
 
 ## Troupes
-* [[Shows/False Matters]]
-* [[Troupes/Girl Embassy World Team]]
-* [[Troupes/Lady Couch]]
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/Girl Embassy World Team|Girl Embassy World Team]]
+* [[Troupes/Lady Couch|Lady Couch]]
 * [[Ratgirls]]
-* [[Troupes/Rhinodino]]
-* [[Troupes/Snackers]]
-* [[Troupes/Your Terrific Neighbors]]
-* [[Troupes/Nesting Dolls]]
-* [[Troupes/Do You Still Want to Do This]]
-* [[Troupes/Echo Lake]]
+* [[Troupes/Rhinodino|Rhinodino]]
+* [[Troupes/Snackers|Snackers]]
+* [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
+* [[Troupes/Nesting Dolls|Nesting Dolls]]
+* [[Troupes/Do You Still Want to Do This|Do You Still Want to Do This]]
+* [[Troupes/Echo Lake|Echo Lake]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (Samantha "Sam" Rogers)
-* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * *[[Dusk]]*
-* *[[Shows/Fandom]]*
-* *[[Shows/Myth Debunkers]]* (Kari Byron)
-* *[[Shows/Process]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/Totally Improvised, 90210]]*
-* *[[Shows/Twilight Zoned]]*
-* *[[Shows/Nothing And Everything]]*
+* *[[Shows/Fandom|Fandom]]*
+* *[[Shows/Myth Debunkers|Myth Debunkers]]* (Kari Byron)
+* *[[Shows/Process|Process]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
+* *[[Shows/Nothing And Everything|Nothing And Everything]]*
 * *[[F. Scott and Zelda Fitzgerald Save the World]]*
-* *[[Shows/Reform School For Wayward Girls]]*
-* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players]]*
+* *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
+* *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players|Bridgeport Women's Correctional Facility Short Form Players]]*
 
 ## More Information
 * [Courtney's self-introduction](http://forum.austinimprov.com/viewtopic.php?t=8595&p=74403) on the AIC Forums.

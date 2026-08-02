@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Space Earth** is a *[[Shows/Cagematch]]* team.
+**Space Earth** is a *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played in the 7/30/14 *Cagematch*.

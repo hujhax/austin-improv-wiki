@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adam Niederpruem">Adam Niederpruem</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Performers/Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,17 +90,17 @@ The show was rounded out by scripted performances.
 It was hosted by [[Wikipedia - KGSR|KGSR]]'s [Kristen Kurtis](http://www.kgsr.com/jocks/kristen.aspx).
 
 ### Guests
-* 2/28/14: Lectures from [[Performers/Tom Booker]], [[Adam Niederpruem]], [[Performers/Heidi Rogers]], and [[Performers/Katie Thornton]]; performances from [[David Howe]] and [[Thomas Nilan]].
-* 3/1/14: Lectures from [[Performers/John Buseman]], [[Performers/Justin Davidson]], [[Performers/Heidi Rogers]], and [[Performers/Katie Thornton]]; performances from [[Thomas Niland]] and [[Performers/Christina Parrish]].
-* 3/7/14: Lectures from [[Lindsay Hejl]], [[Performers/Emma Holder]], [[Performers/Ash Nunley]], [[Justin Strackany]], and [[Performers/Drew Wesely]]; performances from [[Performers/Justin Davidson]] and [[Thomas Niland]].
-* 3/8/14: Lectures from [[Performers/John Buseman]], [[Performers/Sarah Marie Curry]], [[Lindsay Hejl]], [[Justin Strackany]], and [[Performers/Drew Wesely]]; performances from [[Roxy Castillo]] and [[David Howe]].
-* 3/14/14: Lectures from [[Performers/John Buseman]], [[Performers/Sarah Marie Curry]], [[Performers/Michael Joplin]], [[Amy Jordan]], and [[Performers/Drew Wesely]]; a performance from [[Adam Niederpruem]].
-* 3/15/14: Lectures from [[Performers/Tom Booker]], [[Amy Jordan]], [[Performers/Ash Nunley]], and [[Performers/Drew Wesely]]; a performance from [[Adam Niederpruem]].
-* 3/21/14: Lectures from [[Performers/Justin Davidson]], [[Performers/Emma Holder]], [[Performers/Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen]],; performances from [[Thomas Niland]] and [[The Balance Brothers]].
-* 3/22/14: Lectures from [[Performers/Emma Holder]], [[Performers/Ash Nunley]], [[Performers/Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen]],; performances from [[Roxy Castillo]] and [[The Balance Brothers]].
+* 2/28/14: Lectures from [[Performers/Tom Booker|Tom Booker]], [[Adam Niederpruem]], [[Performers/Heidi Rogers|Heidi Rogers]], and [[Performers/Katie Thornton|Katie Thornton]]; performances from [[David Howe]] and [[Thomas Nilan]].
+* 3/1/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Justin Davidson|Justin Davidson]], [[Performers/Heidi Rogers|Heidi Rogers]], and [[Performers/Katie Thornton|Katie Thornton]]; performances from [[Thomas Niland]] and [[Performers/Christina Parrish|Christina Parrish]].
+* 3/7/14: Lectures from [[Lindsay Hejl]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Ash Nunley|Ash Nunley]], [[Justin Strackany]], and [[Performers/Drew Wesely|Drew Wesely]]; performances from [[Performers/Justin Davidson|Justin Davidson]] and [[Thomas Niland]].
+* 3/8/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], [[Lindsay Hejl]], [[Justin Strackany]], and [[Performers/Drew Wesely|Drew Wesely]]; performances from [[Roxy Castillo]] and [[David Howe]].
+* 3/14/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], [[Performers/Michael Joplin|Michael Joplin]], [[Amy Jordan]], and [[Performers/Drew Wesely|Drew Wesely]]; a performance from [[Adam Niederpruem]].
+* 3/15/14: Lectures from [[Performers/Tom Booker|Tom Booker]], [[Amy Jordan]], [[Performers/Ash Nunley|Ash Nunley]], and [[Performers/Drew Wesely|Drew Wesely]]; a performance from [[Adam Niederpruem]].
+* 3/21/14: Lectures from [[Performers/Justin Davidson|Justin Davidson]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen|Asaf Ronen]],; performances from [[Thomas Niland]] and [[The Balance Brothers]].
+* 3/22/14: Lectures from [[Performers/Emma Holder|Emma Holder]], [[Performers/Ash Nunley|Ash Nunley]], [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen|Asaf Ronen]],; performances from [[Roxy Castillo]] and [[The Balance Brothers]].
 
 ## TNM Runs
-The show ran during [[The Moontower Comedy Festival]] on April 23 and April 24, 2014 as TNM Talks at [[The New Movement Theater]]. It had another run there Friday evenings in November 2014. During that November TNM Talks performed on the Yellow Stage of Fun Fun Fun Fest on November 7th. The lectures at Fun Fun Fun Fest were from [[Performers/Drew Wesely]], [[Amy Jordan]], [[Performers/John Buseman]], and [[Performers/Justin Davidson]], with a musical-comedy performance from [[David Howe]]. 
+The show ran during [[The Moontower Comedy Festival]] on April 23 and April 24, 2014 as TNM Talks at [[The New Movement Theater]]. It had another run there Friday evenings in November 2014. During that November TNM Talks performed on the Yellow Stage of Fun Fun Fun Fest on November 7th. The lectures at Fun Fun Fun Fest were from [[Performers/Drew Wesely|Drew Wesely]], [[Amy Jordan]], [[Performers/John Buseman|John Buseman]], and [[Performers/Justin Davidson|Justin Davidson]], with a musical-comedy performance from [[David Howe]]. 
 
 ## Media
 ### Photos

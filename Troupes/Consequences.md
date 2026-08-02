@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
   --><li style=""><a class="internal-link" href="Ann Potter">Ann Potter</a></li><!--
   --><li style=""><a class="internal-link" href="Ashley Franks">Ashley Franks</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Performers/Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
   --><li style=""><a class="internal-link" href="Lizzi Leslie">Lizzi Leslie</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Hardie">Stephanie Hardie</a></li><!--

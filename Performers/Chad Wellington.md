@@ -79,27 +79,27 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 
 ## Troupes
 * [[Troupes/Apocalypse (troupe)|Apocalypse]]
-* [[Troupes/Huge In Japan]] / [[The Bystanders]]
-* [[Shows/Racket]]
-* [[Troupes/Stone Airplane]]
+* [[Troupes/Huge In Japan|Huge In Japan]] / [[The Bystanders]]
+* [[Shows/Racket|Racket]]
+* [[Troupes/Stone Airplane|Stone Airplane]]
 
 ## Shows
-* *[[Shows/Happily Ever After]]* (technical director, light tech)
-* *[[Shows/Buzz Band]]*
-* *[[Shows/Wanderlust]]* (light tech)
+* *[[Shows/Happily Ever After|Happily Ever After]]* (technical director, light tech)
+* *[[Shows/Buzz Band|Buzz Band]]*
+* *[[Shows/Wanderlust|Wanderlust]]* (light tech)
 * *[[Trash]]* (Phil, Mayor, Heap)
-* *[[Shows/The Dahl House]]*
-* *[[Shows/Hurly Burly]]*
-* *[[Shows/GrimmNoir]]*
-* *[[Shows/Racket]]*
+* *[[Shows/The Dahl House|The Dahl House]]*
+* *[[Shows/Hurly Burly|Hurly Burly]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]*
+* *[[Shows/Racket|Racket]]*
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Live TV Tuesdays -  Angel]]* (Groofus, Knox)
 * *[[Live TV Tuesdays -  Firefly]]* (sound tech)
-* *[[Shows/Strange Worlds]]* (light tech)
-* *[[Shows/Thinning The Herd]]* (tech)
+* *[[Shows/Strange Worlds|Strange Worlds]]* (light tech)
+* *[[Shows/Thinning The Herd|Thinning The Herd]]* (tech)
 * *[[The Tribunal]]*
-* *[[Shows/Live Nude Improv]]* (tech)
-* *[[Shows/Pocketful of Posies]]* (light tech)
+* *[[Shows/Live Nude Improv|Live Nude Improv]]* (tech)
+* *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (light tech)
 
 ## More Information
 * [Chad's photography website.](http://cwcreations.smugmug.com/)

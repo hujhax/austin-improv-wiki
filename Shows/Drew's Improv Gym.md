@@ -65,7 +65,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Performers/Drew Wesely]]</td>
+			<td class="category">[[Performers/Drew Wesely|Drew Wesely]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -81,7 +81,7 @@
 ***Drew's Improv Gym*** is a weekly improv jam at 7:00 pm Fridays, at ColdTowne Conservatory, 6929 Airport Blvd.  
 
 ## Summary
-Drew's Improv Gym was started in March 2015 by improv coach and instructor [[Performers/Drew Wesely]]. It took place at Austin Rec Center (1301 Shoal Creek Blvd. location), and occasionally the Northwest Rec Center. The goal of the jam is to enable improv students and performers to do long form improv scenes, with a focus each jam on targeting a particular aspect of scene-work,  and then receive brief notes on their improvising. 
+Drew's Improv Gym was started in March 2015 by improv coach and instructor [[Performers/Drew Wesely|Drew Wesely]]. It took place at Austin Rec Center (1301 Shoal Creek Blvd. location), and occasionally the Northwest Rec Center. The goal of the jam is to enable improv students and performers to do long form improv scenes, with a focus each jam on targeting a particular aspect of scene-work,  and then receive brief notes on their improvising. 
 
 The jam is open to any improv students or experienced improvisers who want to do long form scenes earlier in the evening and want brief notes on the scene-work. It is aimed at improv students who want to exercise what they have learned in class, or graduates who haven't found a troupe to rehearse regularly with, or any improvisers that wants to maintain skills at a jam that is not late at night or on the weekend. Each session starts with quick warmups, then scene-work exercises to target a specific improv skill, followed by wide open runs of scenes, with succinct and helpful notes at the end of each run.
 

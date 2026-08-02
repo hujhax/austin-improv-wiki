@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Precious Dads.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for the troupe [[Troupes/Precious Dads]].
+Logo for the troupe [[Troupes/Precious Dads|Precious Dads]].
 
 Art by: unknown.
 ## Licensing

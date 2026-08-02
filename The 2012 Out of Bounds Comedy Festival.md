@@ -9,70 +9,70 @@ The festival ran from Tuesday 8/28/12 to Monday 9/3/11.
 
 It included a performance of [[Blue Maestro]], as well as "ZEDTalks", a set of TEDTalks-like presentations on random subjects set to randomly-selected PowerPoint presentations.
 
-The festival roast featured [[Performers/David Lampe]].
+The festival roast featured [[Performers/David Lampe|David Lampe]].
 
 ## Acts
 ### Local Improv and Sketch Acts
-* *[[Shows/After School Improv]]*
-* [[Troupes/The Amazon and The Milksop]]
-* [[Troupes/Available Cupholders]]
-* [[Troupes/Bad Boys]]
-* [[Troupes/Baxter and Bernard]]
+* *[[Shows/After School Improv|After School Improv]]*
+* [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]]
+* [[Troupes/Available Cupholders|Available Cupholders]]
+* [[Troupes/Bad Boys|Bad Boys]]
+* [[Troupes/Baxter and Bernard|Baxter and Bernard]]
 * [[Ben Schave]]
-* [[Troupes/Big Beautiful Warlock]]
+* [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]]
 * [[Troupes/ColdTowne (Troupe)|ColdTowne]]
-* [[Troupes/Confidence Men]]
-* [[Troupes/Ctrl-Alt-Delight]]
-* [[Troupes/The Cubbies]]
-* [[Troupes/Danger! Warning! Improv!]]
-* [[Troupes/The Dukes of Bedside Manor]]
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]]
+* [[Troupes/The Cubbies|The Cubbies]]
+* [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
+* [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]
 * [[The Encyclopedia Show]]
-* [[Troupes/The Escorts]]
-* [[Shows/False Matters]]
-* [[Troupes/The Frank Mills]]
-* [[Troupes/Franz and Dave]]
-* [[Troupes/Furiously Missing]]
-* [[Troupes/Galactic]]
-* [[Troupes/Get Up]]
-* [[Troupes/GigglePants]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/Goat]]
-* [[Troupes/Improv For Evil]]
-* [[Troupes/In Our Prime]]
-* [[Troupes/Indigo Shift]]
-* [[Troupes/The Intentions]]
-* [[Troupes/Jorak and Jorak Do Movie]]
-* [[Troupes/Junk]]
-* [[Troupes/The Knuckleball Now]]
-* [[Troupes/Local Genius Society]]
-* [[Troupes/Magician vs. Clown]]
-* *[[Shows/Manhattan Stories]]*
-* [[Troupes/Midnight Society]]
-* [[Troupes/Miller and Purselley]]
-* [[Troupes/Monks' Night Out]] Reunion
-* [[Troupes/Nice Astronaut]]
-* [[Troupes/Oh, Science!]]
-* [[Troupes/Opposites]]
-* [[Troupes/Parallelogramophonograph]]
-* *[[Shows/Process]]*
-* [[Shows/The Professor]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/The Frank Mills|The Frank Mills]]
+* [[Troupes/Franz and Dave|Franz and Dave]]
+* [[Troupes/Furiously Missing|Furiously Missing]]
+* [[Troupes/Galactic|Galactic]]
+* [[Troupes/Get Up|Get Up]]
+* [[Troupes/GigglePants|GigglePants]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/Goat|Goat]]
+* [[Troupes/Improv For Evil|Improv For Evil]]
+* [[Troupes/In Our Prime|In Our Prime]]
+* [[Troupes/Indigo Shift|Indigo Shift]]
+* [[Troupes/The Intentions|The Intentions]]
+* [[Troupes/Jorak and Jorak Do Movie|Jorak and Jorak Do Movie]]
+* [[Troupes/Junk|Junk]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+* [[Troupes/Local Genius Society|Local Genius Society]]
+* [[Troupes/Magician vs. Clown|Magician vs. Clown]]
+* *[[Shows/Manhattan Stories|Manhattan Stories]]*
+* [[Troupes/Midnight Society|Midnight Society]]
+* [[Troupes/Miller and Purselley|Miller and Purselley]]
+* [[Troupes/Monks' Night Out|Monks' Night Out]] Reunion
+* [[Troupes/Nice Astronaut|Nice Astronaut]]
+* [[Troupes/Oh, Science!|Oh, Science!]]
+* [[Troupes/Opposites|Opposites]]
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+* *[[Shows/Process|Process]]*
+* [[Shows/The Professor|The Professor]]
 * [[Puppet Improv Project]]
-* [[Troupes/Rachel and Dave]]
-* [[Troupes/Ratliff and Jackson]]
-* [[Troupes/Sarah 7]]
-* [[Troupes/Shades of Brown]]
-* *[[Shows/Spirited]]*
-* [[Troupes/Squirrel Buddies]]
-* *[[Shows/Start Trekkin']]*
-* [[Shows/Stool Pigeon]]
-* [[Troupes/Tears But Joy]]
-* [[Troupes/There's Waldo]]
-* *[[Shows/Twilight Zoned]]*
-* [[Troupes/What's the Story, Steve]]
-* [[Troupes/Your Dad's Friends]]
-* [[Troupes/Your Terrific Neighbors]]
-* [[Troupes/You're Not My Real Dad]]
-* [[Troupes/¡ZARZAMORA!]]
+* [[Troupes/Rachel and Dave|Rachel and Dave]]
+* [[Troupes/Ratliff and Jackson|Ratliff and Jackson]]
+* [[Troupes/Sarah 7|Sarah 7]]
+* [[Troupes/Shades of Brown|Shades of Brown]]
+* *[[Shows/Spirited|Spirited]]*
+* [[Troupes/Squirrel Buddies|Squirrel Buddies]]
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* [[Shows/Stool Pigeon|Stool Pigeon]]
+* [[Troupes/Tears But Joy|Tears But Joy]]
+* [[Troupes/There's Waldo|There's Waldo]]
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
+* [[Troupes/What's the Story, Steve|What's the Story, Steve]]
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
+* [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
+* [[Troupes/You're Not My Real Dad|You're Not My Real Dad]]
+* [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 
 ### Out-of-Town Improv and Sketch Acts
 * 3 For All (San Francisco)
@@ -176,12 +176,12 @@ The festival roast featured [[Performers/David Lampe]].
 
 ## Media
 ### Videos
-* [Video](http://www.facebook.com/photo.php?v=10151033461051953) by [[Performers/Mitchell Deane]] of the roast of [[Performers/David Lampe]].
-* [Video](http://vimeo.com/48671066) by [[Performers/Dave alley]] of the show from Bearded Men.
-* [Video](http://vimeo.com/49552277) by [[Performers/Dave alley]] of the 8.31.12 show from Epic Adventure.
+* [Video](http://www.facebook.com/photo.php?v=10151033461051953) by [[Performers/Mitchell Deane|Mitchell Deane]] of the roast of [[Performers/David Lampe|David Lampe]].
+* [Video](http://vimeo.com/48671066) by [[Performers/Dave alley|Dave alley]] of the show from Bearded Men.
+* [Video](http://vimeo.com/49552277) by [[Performers/Dave alley|Dave alley]] of the 8.31.12 show from Epic Adventure.
 
 ### Photos
-* [Festival photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102314470853730.3455056.7909117&type=3) by [[Performers/Heidi Rogers]].
+* [Festival photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102314470853730.3455056.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]].
 
 ### Publicity
 * [Video promo.](http://vimeo.com/47916987)

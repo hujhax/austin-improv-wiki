@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Performers/Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
   --><li style=""><a class="internal-link" href="Dan Mateer">Dan Mateer</a></li><!--
   --><li style=""><a class="internal-link" href="Kevin Jacobson">Kevin Jacobson</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Prohaska">Michael Prohaska</a></li><!--

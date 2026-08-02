@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -22,12 +22,12 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers/Ammon Taylor">Performers/Ammon Taylor</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Performers/Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
   --><li style=""><a class="internal-link" href="Elizabeth Buchanan">Elizabeth Buchanan</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Bateman">Jennifer Bateman</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Reese">Joel Reese</a></li><!--
@@ -98,11 +98,11 @@ The show ran for two days, 7/5/13 and 7/6/13.  It was written by [[Joel Reese]].
 * [[Joel Reese]] as "Mrs. Green" & "Mayor".
 * [[Jennifer Bateman]] as "Carla".
 * [[Elizabeth Buchanan]] as "Alex" & "Ms. Great".
-* [[Performers/Chad Wellington]] as "Officer Phil" & "Heap".
+* [[Performers/Chad Wellington|Chad Wellington]] as "Officer Phil" & "Heap".
 
 ## Media
 ### Videos
-* Video by [[Performers/Sara Farr]] of a performance: [1](http://vimeo.com/87630421), [2](http://vimeo.com/86962957), [3](http://vimeo.com/86360196).
+* Video by [[Performers/Sara Farr|Sara Farr]] of a performance: [1](http://vimeo.com/87630421), [2](http://vimeo.com/86962957), [3](http://vimeo.com/86360196).
 
 ## More Information
 * [The show's web page.](http://puppetimprovproject.org/trash.html)

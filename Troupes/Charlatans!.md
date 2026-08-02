@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Performers/Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Performers/Christina Parrish</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
   --><li style=""><a class="internal-link" href="Will Cleveland">Will Cleveland</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Charlatans!** was a one-off *[[Shows/Cagematch]]* team.
+**Charlatans!** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 5/28/14.

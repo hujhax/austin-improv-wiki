@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Improv The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Placeholder image for *[[Shows/Improv -  The Musical]]*.
+Placeholder image for *[[Shows/Improv -  The Musical|Improv -  The Musical]]*.
 
-Art by [[Performers/Asaf Ronen]].
+Art by [[Performers/Asaf Ronen|Asaf Ronen]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

@@ -14,26 +14,26 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Performers/Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
   --><li style=""><a class="internal-link" href="Andrew Robinson">Andrew Robinson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Performers/Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Performers/Jeanette Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Performers/Kayla Lane Freeman</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Nicole Beckley">Performers/Nicole Beckley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Samantha schak">Performers/Samantha schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Performers/Wyatt Tall</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Samantha schak">Samantha schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,8 +78,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Performers/Adriane Shown</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Performers/Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -142,7 +142,7 @@
 ## Summary
 The show opened with a set of monologues, and then the story split up, with independent scenes happening in a number of locations in and around [[The Institution Theater]].  Each audience member would follow one particular set of performers to one particular location, and thus no audience member would get to see the whole story.  The performers re-convened in the theater for a more traditional narrative-improv section, and the story ended with a final act in 'purgatory', with all the characters having a discussion in the 'batting cages' part of the theater building.
 
-[[Performers/Cortney DeAngelo]] was the show's tech director, and [[Performers/Adriane Shown]] was in charge of mise-en-scene and costume design.
+[[Performers/Cortney DeAngelo|Cortney DeAngelo]] was the show's tech director, and [[Performers/Adriane Shown|Adriane Shown]] was in charge of mise-en-scene and costume design.
 
 ## Media
 ### Photos
@@ -152,6 +152,6 @@ The show opened with a set of monologues, and then the story split up, with inde
 * [Press photos for the show.](http://www.facebook.com/media/set/?set=a.10151560732329090.1073741825.273514734089&type=1)
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430) with director [[Performers/Asaf Ronen]], assistant director [[Performers/Jason Vines]], and cast members [[Performers/Nicole Beckley]] and [[Performers/Jeanette Jones]] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2314430) with director [[Performers/Asaf Ronen|Asaf Ronen]], assistant director [[Performers/Jason Vines|Jason Vines]], and cast members [[Performers/Nicole Beckley|Nicole Beckley]] and [[Performers/Jeanette Jones|Jeanette Jones]] on *[[The Theft Forum]]*.
 
 [[Category/Shows|Suitcase]]

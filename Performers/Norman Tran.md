@@ -25,11 +25,11 @@
 *This article is a stub. You can help the Austin Improv Wiki by editing it.*
 
 ## Shows
-* *[[Shows/Camp Madeupponaspotta]]* (2014)
-* *[[Shows/The Source]]* (2015)
+* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]* (2014)
+* *[[Shows/The Source|The Source]]* (2015)
 
 ## Troupes
-* [[Troupes/Northward]] (2014-Present)
-* [[Troupes/Duplex]] (2014-Present)
+* [[Troupes/Northward|Northward]] (2014-Present)
+* [[Troupes/Duplex|Duplex]] (2014-Present)
 
 [[Category/Performers|Tran]]

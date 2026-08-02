@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Opener.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[Shows/The Opener]]*.
+Publicity art for *[[Shows/The Opener|The Opener]]*.
 
 Art by: unknown.
 

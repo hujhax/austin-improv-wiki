@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ls cropped.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Performers/Luis Salinas]].
+Photo of [[Performers/Luis Salinas|Luis Salinas]].
 
 (Photo by: unknown.)
 

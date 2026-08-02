@@ -73,20 +73,20 @@
 **Cat Drago** is an improv performer.
 
 ## History
-Cat began doing improv after watching long stretches of [[The 42-Hour Improv Marathon]].  Since then she has successfully watched [[The 43-Hour Improv Marathon]], [[The 44-Hour Improv Marathon]] and [[The 45-Hour Improv Marathon]] in their entirety. She is a regular cast member of [[Shows/Control Issues]] at [[The Hideout]]. 
+Cat began doing improv after watching long stretches of [[The 42-Hour Improv Marathon]].  Since then she has successfully watched [[The 43-Hour Improv Marathon]], [[The 44-Hour Improv Marathon]] and [[The 45-Hour Improv Marathon]] in their entirety. She is a regular cast member of [[Shows/Control Issues|Control Issues]] at [[The Hideout]]. 
 
 ## Troupes
-* [[Troupes/Kosher Bacon]]
-* [[Troupes/The Seven Eight Sevens]]
-* [[Troupes/Cascade]]
+* [[Troupes/Kosher Bacon|Kosher Bacon]]
+* [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
+* [[Troupes/Cascade|Cascade]]
 
 ## Shows
-* *[[Shows/After School Improv]]*
-* *[[Shows/RISEN]]*
-* *[[Shows/Control Issues]]*
-* *[[Shows/Kenjutsu]]*
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Shows/RISEN|RISEN]]*
+* *[[Shows/Control Issues|Control Issues]]*
+* *[[Shows/Kenjutsu|Kenjutsu]]*
 * *[[Love Fest]]*
-* *[[Shows/Nothing And Everything]]*
+* *[[Shows/Nothing And Everything|Nothing And Everything]]*
 * *[[The Tribunal]]*
 
 ## More Information

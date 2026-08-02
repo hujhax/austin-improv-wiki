@@ -25,22 +25,22 @@
 ### Current
 * Yes, Anderson
 ### Disbanded
-* [[Troupes/Character Explosion]]
+* [[Troupes/Character Explosion|Character Explosion]]
 * Imaginary Friend
 
 ## Shows
-* "[[Shows/Maestro]]" (2015-)
-* *[[Shows/Fiasco]]* (lighting design)
-* *[[Shows/Process]]* (lighting design/run crew)
-* *[[Shows/The Secret Life of Inanimate Objects]]*
-* *[[Shows/Story to the Death]]* (scoring)
+* "[[Shows/Maestro|Maestro]]" (2015-)
+* *[[Shows/Fiasco|Fiasco]]* (lighting design)
+* *[[Shows/Process|Process]]* (lighting design/run crew)
+* *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
+* *[[Shows/Story to the Death|Story to the Death]]* (scoring)
 * *[[2017 Student Battle Royale]]* (director)
-* *[[Shows/How I Saved the World Over Summer Vacation]]* (lighting/media design)
+* *[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]* (lighting/media design)
 * *[[Gauntlet]]* 
-* *[[Shows/Death By Musical]]* (sound effects)
-* *[[Shows/Soundstage 23]]* (technical director)
+* *[[Shows/Death By Musical|Death By Musical]]* (sound effects)
+* *[[Shows/Soundstage 23|Soundstage 23]]* (technical director)
 * *[[Martini Ranch -  Queer and Now]]*
-* ''[[Troupes/Epic]]
+* ''[[Troupes/Epic|Epic]]
 * *[[Speak No More]]*
 * "[[Spoonful of Sugar]]"
 * "[[Well Made Play]]" (technical director)

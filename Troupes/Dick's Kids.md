@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
   --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
   --><li style=""><a class="internal-link" href="Jack Jeahy">Jack Jeahy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Max Lipchitz">Max Lipchitz</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Dick's Kids** was a one-off *[[Shows/Cagematch]]* team.
+**Dick's Kids** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 6/1/12.

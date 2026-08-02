@@ -28,9 +28,9 @@ Celena is an improviser, actor, artist, maker, seamstress, painter, designer, po
 * [[ALL CAPS]] (2012)
 
 ## Shows
-* *[[Shows/Thinning The Herd]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
 * ''[[How Improv Saved My Life-Free Fringe]]
-* ''[[Shows/Maestro]]
-* ''[[Shows/The Fancy-Pants Mashup]]
+* ''[[Shows/Maestro|Maestro]]
+* ''[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]
 
 [[Category/Performers|Diamond]]

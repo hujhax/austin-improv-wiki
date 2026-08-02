@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Secret Senate.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Secret Senate]].
+Publicity image for [[Troupes/Secret Senate|Secret Senate]].
 
 Photo by: unknown.
 

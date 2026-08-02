@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
   --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
   --><li style=""><a class="internal-link" href="Molly Moore">Molly Moore</a></li><!--

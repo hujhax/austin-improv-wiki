@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Performers/Jason Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Something About Sandwiches** was a one-off *[[Shows/Cagematch]]* duo.
+**Something About Sandwiches** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.
 
 ## Summary
 They did an improv montage while making sandwiches for the audience.

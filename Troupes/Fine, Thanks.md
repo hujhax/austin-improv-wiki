@@ -18,10 +18,10 @@
   --><li style=""><a class="internal-link" href="Alex Gray">Alex Gray</a></li><!--
   --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
   --><li style=""><a class="internal-link" href="Bradley Harrington">Bradley Harrington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Performers/Keegan Hines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Performers/Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,7 +79,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/24/11 performance at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes their 7/21/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes their 7/21/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Fine-Thanks-Improv-Comedy/119625574769715)

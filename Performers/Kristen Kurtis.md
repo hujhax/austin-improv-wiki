@@ -24,9 +24,9 @@
 **Kristen Kurtis** is an improviser, actor, stand-up, and sketch writer/performer. She has performed as Any Winehouse in both *Rock N Roll Purgatory* and *Late Night Time Machine*. In 2015 she moved to Philadelphia to host WXPN's Morning Show. 
 
 ## Troupes
-* [[Troupes/Bad Font]]
-* [[Troupes/Really Big Thumbs Up]]
+* [[Troupes/Bad Font|Bad Font]]
+* [[Troupes/Really Big Thumbs Up|Really Big Thumbs Up]]
 
 ## Shows
 * *[[Rock N Roll Purgatory]]*
-* *[[Shows/Late Night Time Machine]]*
+* *[[Shows/Late Night Time Machine|Late Night Time Machine]]*

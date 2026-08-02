@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="David Jara">David Jara</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
@@ -86,7 +86,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [Performance at ColdTowne Theater](http://vimeo.com/22529926).
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3) by [[Roy Moore]] that includes their 3/5/12 performance in *[[Shows/The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.288575427877810.65490.118587218209966&type=3) by [[Roy Moore]] that includes their 3/5/12 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.383608938369295.91499.221927764537414&type=3) by [[Steve Rogers]] of their 6/16/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.414658608597661.100647.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/30/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
 

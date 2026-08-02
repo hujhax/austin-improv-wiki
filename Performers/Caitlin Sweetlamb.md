@@ -23,12 +23,12 @@
 
 
 ## Troupes
-* [[Troupes/Ed 32]]
-* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Ed 32|Ed 32]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 
 ## Shows
-* *[[Shows/Fakespeare]]* (Beatrice/Second Witch)
-* *[[Shows/Manhattan Stories]]*
-* *[[Shows/Process]]*
+* *[[Shows/Fakespeare|Fakespeare]]* (Beatrice/Second Witch)
+* *[[Shows/Manhattan Stories|Manhattan Stories]]*
+* *[[Shows/Process|Process]]*
 
 [[Category/Performers|Sweetlamb]]

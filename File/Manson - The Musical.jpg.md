@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Manson - The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for *[[Shows/Manson -  The Musical]]*.
+Logo for *[[Shows/Manson -  The Musical|Manson -  The Musical]]*.
 
 Art by: unknown.
 ## Licensing

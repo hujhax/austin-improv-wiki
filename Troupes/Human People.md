@@ -17,12 +17,12 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
   --><li style=""><a class="internal-link" href="Erik McVicker">Erik McVicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Performers/Mary Henderson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kris Raab">Performers/Kris Raab</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Pius Wong">Performers/Pius Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kris Raab">Kris Raab</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Pius Wong">Pius Wong</a></li><!--
   --><li style=""><a class="internal-link" href="Sheri Soltes">Sheri Soltes</a></li><!--
   --><li style=""><a class="internal-link" href="Amy McClellan">Amy McClellan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Performers/Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><li style="" ><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
   --><li style=""><a class="internal-link" href="Sue Jordan">Sue Jordan</a></li><!--
   --><!--

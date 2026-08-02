@@ -25,14 +25,14 @@ He has studied improvised theatre at [[The Hideout Theatre|The Hideout]], [[The 
 
 Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [[Coldtowne Theater]],[Station Theater](http://www.stationtheater.com/) (Houston, TX), [Dive Bar](http://www.diveaustin.com/), [[The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[The Out Of Bounds Comedy Festival]], The [Houson Improv Festival](http://houstonimprovfestival.com/), The [Austin Scottish Rite Theater](http://scottishritetheater.org/), and the [Umlauf Sculpture Garden](http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum).
 
-Performing regularly since 2010, he was a regular cast member of *[[Shows/Flying Theater Machine]]* from 2012 until 2017 when it was rebranded as *[[Shows/Hideout Kids]]* and transitioned to a rotating cast per production.
+Performing regularly since 2010, he was a regular cast member of *[[Shows/Flying Theater Machine|Flying Theater Machine]]* from 2012 until 2017 when it was rebranded as *[[Shows/Hideout Kids|Hideout Kids]]* and transitioned to a rotating cast per production.
 
 He has been a regular performer in a number of ongoing shows, including
-*[[Shows/Maestro]]*,
-*[[Shows/The Derby]]*,
-*[[Shows/The Austin Improv Monologue Jam]]*,
-*[[Shows/The Free Fringe]]*,
-and *[[Shows/The Fancy-Pants Mashup]]*.
+*[[Shows/Maestro|Maestro]]*,
+*[[Shows/The Derby|The Derby]]*,
+*[[Shows/The Austin Improv Monologue Jam|The Austin Improv Monologue Jam]]*,
+*[[Shows/The Free Fringe|The Free Fringe]]*,
+and *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*.
 
 
 He has been teaching assistant for both adult and children's improv classes, and regularly leads the [[Wednesday Jams at Hideout Studios]].
@@ -48,28 +48,28 @@ He has been teaching assistant for both adult and children's improv classes, and
 * *[[Outrageous Holiday Tales]]* (2019)
 * *[[Once Upon A Wha!!]]* (2019)
 * *[[The Pirates of Hideout Cove]]* (2018)
-* *[[Shows/Start Trekkin']]* (Season 8 — 2017) (Technical Improviser)
+* *[[Shows/Start Trekkin'|Start Trekkin']]* (Season 8 — 2017) (Technical Improviser)
 * *[[The Fourth Wall is Behind You]]* (2017) (Sketch show with [[Inner Picnic]] at the Frontera Fest Short Fringe)
-* *[[Shows/Fiasco]]* (2016) (Technical Improviser — Multimedia)
+* *[[Shows/Fiasco|Fiasco]]* (2016) (Technical Improviser — Multimedia)
 * *[[It Came From Your Brain!]]* (2016) (Stage Manager/ Monster Crew)
-* *[[Shows/Adventure PhD]]* (2016)
-* *[[Shows/Camp Madeupponthaspotta]]* (2014)
-* *[[Shows/Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013–2015) (cohost)
+* *[[Shows/Adventure PhD|Adventure PhD]]* (2016)
+* *[[Shows/Camp Madeupponthaspotta|Camp Madeupponthaspotta]]* (2014)
+* *[[Shows/Mister Morbid’s Moonlight Movie Mayhem Madness Massacre|Mister Morbid’s Moonlight Movie Mayhem Madness Massacre]]* (2013–2015) (cohost)
 * *[[Lord Wensleydale’s Last High Tea]]* (2013)
-* *[[Shows/The ReSet Project]]* (2013) (Technical Improviser)
-* *[[Shows/Flying Theater Machine]]* (2012-2017)
-* *[[Shows/Pick Your Own Path]]* (2012-2014)
+* *[[Shows/The ReSet Project|The ReSet Project]]* (2013) (Technical Improviser)
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (2012-2017)
+* *[[Shows/Pick Your Own Path|Pick Your Own Path]]* (2012-2014)
 * *[[The Tribunal]]* (2012)
-* *[[Shows/The Sword of Merlin Works]]* (2012)
+* *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]* (2012)
 
 ## Troupes
-* [[Troupes/Happy Butter]] (2011) (defunct)
+* [[Troupes/Happy Butter|Happy Butter]] (2011) (defunct)
 * [[Candy Vampires]] (2014) (former member)
-* [[Troupes/Northward]] (2014-2016)
-* [[Shows/History Under the Influence]] (2014-2017)
+* [[Troupes/Northward|Northward]] (2014-2016)
+* [[Shows/History Under the Influence|History Under the Influence]] (2014-2017)
 
 ## More Information
-* ["In Praise Of..." post](https://web.archive.org/web/20160617202953/http://yesandrew.com/in-praise-of-thedward-blevins/) by [[Performers/Ryan Austin]].
+* ["In Praise Of..." post](https://web.archive.org/web/20160617202953/http://yesandrew.com/in-praise-of-thedward-blevins/) by [[Performers/Ryan Austin|Ryan Austin]].
 
 [[Category/Performers|Blevins]]
 [[Category/Techs|Blevins]]

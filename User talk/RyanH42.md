@@ -1,1 +1,1 @@
-Who made that [[Theft Forum]] image? -- [[Performers/Peter Rogers]]
+Who made that [[Theft Forum]] image? -- [[Performers/Peter Rogers|Peter Rogers]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Whalehouse.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Whalehouse]].
+Publicity image for [[Troupes/Whalehouse|Whalehouse]].
 
 Photo by: unknown.
 

@@ -22,11 +22,11 @@
 **J. R. Zambrano** is an improv performer.
 
 ## Shows
-* *[[Shows/A Deed So Dark]]*
-* *[[Shows/The Aftermath]]*
-* *[[Shows/Buzz Band]]*
-* *[[Shows/Four Chambers]]* ("The Icebox")
-* *[[Shows/SongRunner]]*
-* *[[Shows/The Secret Life of Inanimate Objects]]*  (Co-director)
+* *[[Shows/A Deed So Dark|A Deed So Dark]]*
+* *[[Shows/The Aftermath|The Aftermath]]*
+* *[[Shows/Buzz Band|Buzz Band]]*
+* *[[Shows/Four Chambers|Four Chambers]]* ("The Icebox")
+* *[[Shows/SongRunner|SongRunner]]*
+* *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*  (Co-director)
 
 [[Category/Performers|Zambrano]]

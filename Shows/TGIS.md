@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a> ("Buddies")</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a> ("Buddies")</li><!--
   --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a> ("Boy Greets World")</li><!--
   --><!--
   --><!--
@@ -71,18 +71,18 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Performers/Carlos Larotta</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
   --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
   --><li style=""><a class="internal-link" href="Jenna Marie Carey">Jenna Marie Carey</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Performers/Matt Needles</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -143,27 +143,27 @@ Each half of the bill had its own cast.
 
 #### "Boy Greets World"
 * [[Andrew Basile]]
-* [[Performers/Bryan 'LuBu' Roberts]]
-* [[Performers/Carlos Larotta]]
-* [[Performers/Emma Holder]]
+* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
+* [[Performers/Carlos Larotta|Carlos Larotta]]
+* [[Performers/Emma Holder|Emma Holder]]
 * [[Jeff Whitaker]]
 * [[Jenna Marie Carey]]
-* [[Performers/Lance Gilstrap]]
-* [[Performers/Matt Needles]]
+* [[Performers/Lance Gilstrap|Lance Gilstrap]]
+* [[Performers/Matt Needles|Matt Needles]]
 * [[Naomi Perryman]]
 
 #### "Buddies"
-* [[Performers/Cody Dearing]]
+* [[Performers/Cody Dearing|Cody Dearing]]
 * [[Gary Richardson]]
 * [[Meredith Mae Roberts]]
-* [[Performers/Nathan Sowell]]
+* [[Performers/Nathan Sowell|Nathan Sowell]]
 
 ## History
 The show included special guests every week, as follows:
-* 3/16 - Toby Keith & The French Guy (played by [[Performers/Chris Baldenhofer]] & [[Scott Moss]])
+* 3/16 - Toby Keith & The French Guy (played by [[Performers/Chris Baldenhofer|Chris Baldenhofer]] & [[Scott Moss]])
 * 3/23 - [[Stephanie Russo]] & Josh Krilov
-* 3/30 - [[Troupes/Parallelogramophonograph]] 
-* 4/6 - [[Performers/Valerie Ward]] & [[Performers/Michael Jastroch]]
+* 3/30 - [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
+* 4/6 - [[Performers/Valerie Ward|Valerie Ward]] & [[Performers/Michael Jastroch|Michael Jastroch]]
 * 4/13 - [[Mac Blake]] & [[Courtney Sevener]]
 * 4/20 - The original Buddies cast from Dallas
 * 4/27 - [[Mike Reikofski]], [[Jessica Hamilton]], & [[Brady James]]

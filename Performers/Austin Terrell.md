@@ -25,6 +25,6 @@
 Austin Terrell moved to Austin, Texas from Denver in 2012.
 
 ## Shows
-* *[[Shows/Fakespeare]]* (Claudio/Porter)
+* *[[Shows/Fakespeare|Fakespeare]]* (Claudio/Porter)
 
 [[Category/Performers|Terrell]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Box Social.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/The Box Social]].
+Publicity image for [[Troupes/The Box Social|The Box Social]].
 
 Photo by: unknown.
 

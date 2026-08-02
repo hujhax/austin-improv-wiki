@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Performers/Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Drew Lee">Drew Lee</a></li><!--
   --><li style=""><a class="internal-link" href="Michael James Williams">Michael James Williams</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><li style=""><a class="internal-link" href="Tami Nelson">Tami Nelson</a></li><!--
   --><!--
   --><!--

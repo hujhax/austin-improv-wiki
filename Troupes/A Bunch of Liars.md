@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Chris Kelley">Chris Kelley</a></li><!--
   --><li style=""><a class="internal-link" href="Daniel Rigney">Daniel Rigney</a></li><!--
   --><li style=""><a class="internal-link" href="Kelli Bland">Kelli Bland</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Performers/Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
   --><li style=""><a class="internal-link" href="Todd Mein">Todd Mein</a></li><!--
   --><!--

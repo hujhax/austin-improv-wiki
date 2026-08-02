@@ -14,23 +14,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Santo">Performers/Josh Santo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Performers/Kelly Campbell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lena Long">Performers/Lena Long</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Performers/Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Santo">Josh Santo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lena Long">Lena Long</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,10 +78,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (lights)</li><!--
   --><li style=""><a class="internal-link" href="Emily Cawood">Emily Cawood</a> (costume design)</li><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (scoring)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Performers/Sarah Hutchins</a> (sound effects)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a> (sound effects)</li><!--
   --><!--
   --><!--
   --><!--
@@ -141,12 +141,12 @@
 
 ## History
 ### Guest Stars
-* 11/5: [[Performers/Kareem Badr]]
+* 11/5: [[Performers/Kareem Badr|Kareem Badr]]
 * 11/6: [[Haley Alea Erickson]]
-* 11/13: [[Performers/Alexander Hilary]]
-* 11/14: [[Performers/Sarah Marie Curry]]
-* 11/20: [[Performers/Kacey Samiee]]
-* 11/21: [[Performers/Aspen Webster]]
+* 11/13: [[Performers/Alexander Hilary|Alexander Hilary]]
+* 11/14: [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
+* 11/20: [[Performers/Kacey Samiee|Kacey Samiee]]
+* 11/21: [[Performers/Aspen Webster|Aspen Webster]]
 
 ## Media
 ### Videos

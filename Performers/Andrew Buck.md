@@ -29,17 +29,17 @@ Before discovering improv, Andrew was a regular performer at the weekly Austin P
 Andrew also maintains an improv-related blog at [YesAndrew.com](http://www.yesandrew.com)
 
 ## Shows
-* *[[Shows/Manhattan Stories]]*
-* *[[Shows/Fandom]]*
-* *[[Shows/Not This American Life]]*
-* ''[[Shows/Braised in Texas]]
-* *[[Troupes/Array]]*
-* *[[Shows/I Love You So Much]]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/Manhattan Stories|Manhattan Stories]]*
+* *[[Shows/Fandom|Fandom]]*
+* *[[Shows/Not This American Life|Not This American Life]]*
+* ''[[Shows/Braised in Texas|Braised in Texas]]
+* *[[Troupes/Array|Array]]*
+* *[[Shows/I Love You So Much|I Love You So Much]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 
 ## Troupes
-* [[Troupes/The Seven Eight Sevens]]
-* [[Troupes/MANDINKA]]
-* [[Troupes/Past Lives]]
+* [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
+* [[Troupes/MANDINKA|MANDINKA]]
+* [[Troupes/Past Lives|Past Lives]]
 
 [[Category/Performers|Buck]]

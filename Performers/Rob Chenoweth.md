@@ -19,11 +19,11 @@
 	</table>
 </div>
 
-**Rob Chenoweth** is an improv performer and founding member of the musical troupe [[Troupes/Lazer Wolf]].
+**Rob Chenoweth** is an improv performer and founding member of the musical troupe [[Troupes/Lazer Wolf|Lazer Wolf]].
 
 ## History
 ## Troupes
-* [[Troupes/Lazer Wolf]] (2015-Present)
+* [[Troupes/Lazer Wolf|Lazer Wolf]] (2015-Present)
 
 
 ## Shows

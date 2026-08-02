@@ -25,25 +25,25 @@
 Audrey was a company member of [[Gnap! Theater Projects]], and directed several shows for that company.
 
 ## Troupes
-* [[Troupes/Junk]] (2007-2012)
-* [[Troupes/Lady Couch]]
-* [[Troupes/Well Hung Jury]]
+* [[Troupes/Junk|Junk]] (2007-2012)
+* [[Troupes/Lady Couch|Lady Couch]]
+* [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ## Shows
-* *[[Shows/After School Improv]]*
+* *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Shows/Cover to Cover]]* (director)
+* *[[Shows/Cover to Cover|Cover to Cover]]* (director)
 * *[[Dusk]]*
-* *[[Shows/Guilds Of Steel]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Improvised Shakespeare]]*
-* *[[Shows/Ka-Baam!!]]*
-* *[[Shows/Lola]]*
-* *[[Shows/One More Night]]* (director)
-* *[[Shows/The Sandbox]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/Steam]]* (director)
-* *[[Shows/The Violet Underbelly]]*
+* *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
+* *[[Shows/Lola|Lola]]*
+* *[[Shows/One More Night|One More Night]]* (director)
+* *[[Shows/The Sandbox|The Sandbox]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/Steam|Steam]]* (director)
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 [[Category/Performers|Sansom]]
 [[Category/Directors|Sansom]]

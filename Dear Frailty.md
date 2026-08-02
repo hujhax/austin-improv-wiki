@@ -18,12 +18,12 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,10 +82,10 @@
 	</table>
 </div>
 
-***Dear Frailty*** is a one-man show created by and starring [[Performers/Arthur Simone]].  Simone went on to win [Best Actor/Actress 2009](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=808768) in the Austin Chronicle shortly after Dear Frailty's run ended.
+***Dear Frailty*** is a one-man show created by and starring [[Performers/Arthur Simone|Arthur Simone]].  Simone went on to win [Best Actor/Actress 2009](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=808768) in the Austin Chronicle shortly after Dear Frailty's run ended.
 
 ## History
-Arthur Simone conceived Dear Frailty in the summer of 2009 and based it on new character monologues and some from a previous one man show of his in New Orleans.  Arthur hired Tim  as Director, and used  [[Performers/Josh Gill]] as tech.
+Arthur Simone conceived Dear Frailty in the summer of 2009 and based it on new character monologues and some from a previous one man show of his in New Orleans.  Arthur hired Tim  as Director, and used  [[Performers/Josh Gill|Josh Gill]] as tech.
 
 ## Development
 Simone had concepts of several new characters he wanted to use in the show and used Tim to interview those characters for up to 45 minutes at a time.  Tim took notes during the extended character interviews, then gave the notes to Simone who wrote the script for the show.

@@ -25,9 +25,9 @@
 Nancy has enjoyed performing at [[Coldtowne Theater]], [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], and in [[Frontera Fest]] 2012.
 
 ## Troupes
-* [[Troupes/BatShyt Crazy]]
-* [[Troupes/Umami]]
-* [[Troupes/The Wine Smugglers]]
+* [[Troupes/BatShyt Crazy|BatShyt Crazy]]
+* [[Troupes/Umami|Umami]]
+* [[Troupes/The Wine Smugglers|The Wine Smugglers]]
 
 ## Shows
 * *[[Off the Reef]]*

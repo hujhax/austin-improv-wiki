@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Ali Shepher">Ali Shepher</a></li><!--
   --><li style=""><a class="internal-link" href="Brandi Gist">Brandi Gist</a></li><!--
   --><li style=""><a class="internal-link" href="Dani Hendricks">Dani Hendricks</a></li><!--

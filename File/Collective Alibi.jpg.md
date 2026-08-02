@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Collective Alibi.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Collective Alibi]].
+Publicity photo of [[Troupes/Collective Alibi|Collective Alibi]].
 
 Photo by: unknown.
 ## Licensing

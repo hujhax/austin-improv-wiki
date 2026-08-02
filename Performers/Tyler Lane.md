@@ -22,17 +22,17 @@
 **Tyler Lane** is an improv performer. He is completely obsessed with the book [Impro](http://en.wikipedia.org/wiki/Impro:_Improvisation_and_the_Theatre). 
 
 ## History
-Tyler moved to Austin in the summer of 2013. He stumbled upon *[[Shows/Maestro]]* while exploring downtown and has been hooked ever since. 
+Tyler moved to Austin in the summer of 2013. He stumbled upon *[[Shows/Maestro|Maestro]]* while exploring downtown and has been hooked ever since. 
 
 ## Troupes
-* [[Troupes/Golden]]
-* [[Troupes/Channel 2]]
+* [[Troupes/Golden|Golden]]
+* [[Troupes/Channel 2|Channel 2]]
 
 ## Shows
 * *[[Shows/Golden (mainstage)|Golden]]*
 * *[[Rock N Roll Purgatory]]*
-* *[[Shows/A Penny Dreadful]]* (lighting)
-* *[[Shows/GrimmNoir]]*
-* *[[Shows/Maestro]]* (performer & director)
+* *[[Shows/A Penny Dreadful|A Penny Dreadful]]* (lighting)
+* *[[Shows/GrimmNoir|GrimmNoir]]*
+* *[[Shows/Maestro|Maestro]]* (performer & director)
 
 [[Category/Performers|Lane]]

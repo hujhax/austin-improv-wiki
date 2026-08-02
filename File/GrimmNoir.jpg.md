@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="GrimmNoir.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Shows/GrimmNoir]] performing in [[The 2012 Improvised Play Festival]].
+[[Shows/GrimmNoir|GrimmNoir]] performing in [[The 2012 Improvised Play Festival]].
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3).
 ## Licensing

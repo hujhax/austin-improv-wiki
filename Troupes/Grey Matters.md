@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Performers/Kathy Rose Center</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Performers/Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Performers/Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,11 +70,11 @@
 	</table>
 </div>
 
-**Grey Matters** was an improv troupe based at [[The Institution Theater]] from 2011 to 2012, created by [[Performers/Asaf Ronen]] to showcase the dark comedic chemistry of [[Performers/Kathy Rose Center]], [[Performers/Madeline Jo Chauvin]], and [[Performers/Todd Hart]].
+**Grey Matters** was an improv troupe based at [[The Institution Theater]] from 2011 to 2012, created by [[Performers/Asaf Ronen|Asaf Ronen]] to showcase the dark comedic chemistry of [[Performers/Kathy Rose Center|Kathy Rose Center]], [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]], and [[Performers/Todd Hart|Todd Hart]].
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/43371871) by [[Performers/Jo Chauvin]] of their 5/14/12 show at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/43371871) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 5/14/12 show at [[Coldtowne Theater]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1684724329843.2079936.1589679282&type=3) by [[Roy Moore]] that includes their 5/22/11 show at [[Hyde Park Theater]].

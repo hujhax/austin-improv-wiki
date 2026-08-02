@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Performers/Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Max Lipschitz">Max Lipschitz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style="" ><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
   --><!--
   --><!--
@@ -87,8 +87,8 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/23461580) by [[Performers/Lance Gilstrap]] of an April 2011 show at [[The Hideout Theatre]].
-* [Video](http://vimeo.com/29301143) by [[Performers/Liz Brammer]] of their September (or October?) 2011 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/23461580) by [[Performers/Lance Gilstrap|Lance Gilstrap]] of an April 2011 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/29301143) by [[Performers/Liz Brammer|Liz Brammer]] of their September (or October?) 2011 show at [[The Hideout Theatre]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].

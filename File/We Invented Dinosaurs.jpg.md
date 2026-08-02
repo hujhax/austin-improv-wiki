@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="We Invented Dinosaurs.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/We Invented Dinosaurs]].
+Publicity photo of [[Troupes/We Invented Dinosaurs|We Invented Dinosaurs]].
 
 Photo by: unknown.
 ## Licensing

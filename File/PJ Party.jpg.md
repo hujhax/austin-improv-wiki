@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="PJ Party.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/PJ Party]].
+Publicity photo of [[Troupes/PJ Party|PJ Party]].
 
 Photo by: unknown.
 ## Licensing

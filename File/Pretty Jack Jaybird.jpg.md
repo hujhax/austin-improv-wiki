@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Pretty Jack Jaybird.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Pretty Jack Jaybird]].
+Publicity photo of [[Troupes/Pretty Jack Jaybird|Pretty Jack Jaybird]].
 
 Photo by: unknown.
 ## Licensing

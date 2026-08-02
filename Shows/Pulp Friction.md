@@ -14,22 +14,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Performers/Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Performers/Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Joe Ricks">Joe Ricks</a></li><!--
   --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Performers/Taylor Overstreet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,8 +75,8 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Performers/Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Performers/Wyatt Tall</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -145,9 +145,9 @@ It was a mainstage show at [[The Institution Theater]].
 * [Video of their 6/23/13 show](http://vimeo.com/77031919) in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [Rehearsal, publicity, and performance photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102239324058510.3438913.7909117&type=3) by [[Performers/Heidi Rogers]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466675823353918.105342.100000345135257&type=3) by [[Performers/Claudio Fox]] of their 9/7/12 show.
+* [Rehearsal, publicity, and performance photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102239324058510.3438913.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466675823353918.105342.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 9/7/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.421587074571481.102701.221927764537414&type=3) by [[Steve Rogers]] of their 9/14/12 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151322055487265.525636.588952264&type=3) by [[Performers/Peter Rogers]] of their 10/26/12 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151322055487265.525636.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/26/12 show.
 
 [[Category/Shows|Pulp]]

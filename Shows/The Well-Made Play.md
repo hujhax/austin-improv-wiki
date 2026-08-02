@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">[[Performers/Marc Majcher]]</td>
+			<td class="category">[[Performers/Marc Majcher|Marc Majcher]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

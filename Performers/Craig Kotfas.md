@@ -26,19 +26,19 @@ Craig Kotfas has been an improvisor since 1994, and moved to Austin in 1998.
 
 He was a company member of [[Gnap! Theater Projects]].
 
-He has been a guest musician for [[Troupes/Indigo Shift]] and a guest boy for *[[Shows/Boys of Summer]]*.
+He has been a guest musician for [[Troupes/Indigo Shift|Indigo Shift]] and a guest boy for *[[Shows/Boys of Summer|Boys of Summer]]*.
 
 ## Troupes
 * [[Catch 24]]
-* [[Shows/False Matters]]
-* [[Troupes/Gravy]]
-* [[Troupes/We Could Be Heroes]]
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/Gravy|Gravy]]
+* [[Troupes/We Could Be Heroes|We Could Be Heroes]]
 
 ## Shows
-* *[[Shows/The Great Mundane]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Lola]]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/The Great Mundane|The Great Mundane]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Lola|Lola]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 * *[[Rock N Roll Purgatory]]*
 
 ## More Information

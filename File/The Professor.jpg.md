@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="The Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for the 2012 run of [[Shows/The Professor]].
+Publicity poster for the 2012 run of [[Shows/The Professor|The Professor]].
 
-Photo by [[Roy Moore]].  Poster art by [[Performers/Justin Davis]].
+Photo by [[Roy Moore]].  Poster art by [[Performers/Justin Davis|Justin Davis]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

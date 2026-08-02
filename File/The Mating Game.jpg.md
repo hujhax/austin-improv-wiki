@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Mating Game.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/The Mating Game]]*.
+Publicity poster for *[[Shows/The Mating Game|The Mating Game]]*.
 
 Art by: unknown.
 ## Licensing

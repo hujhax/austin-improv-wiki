@@ -22,19 +22,19 @@
 **Cagney Ortiz** is an improv performer. 
 
 ## Shows
-* *[[Shows/The Dahl House]]* (2014)
-* *[[Shows/One Small Step]]* (2015)
-* *[[Shows/You Can't Stay Here]]* (2015)
-* *[[Shows/Close Up]]* (2015)
-* *[[Shows/Boy, Howdy!]]* (2015)
-* *[[Shows/Tall Tales of the High Seas]]* (2016)
+* *[[Shows/The Dahl House|The Dahl House]]* (2014)
+* *[[Shows/One Small Step|One Small Step]]* (2015)
+* *[[Shows/You Can't Stay Here|You Can't Stay Here]]* (2015)
+* *[[Shows/Close Up|Close Up]]* (2015)
+* *[[Shows/Boy, Howdy!|Boy, Howdy!]]* (2015)
+* *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]* (2016)
 
 ## Troupes
-* [[Troupes/Deep Turtle]]
-* [[Troupes/Tom Does The Good Work]]
-* [[Troupes/Character Explosion]] (Former Member)
-* [[Troupes/Boomerang]]
+* [[Troupes/Deep Turtle|Deep Turtle]]
+* [[Troupes/Tom Does The Good Work|Tom Does The Good Work]]
+* [[Troupes/Character Explosion|Character Explosion]] (Former Member)
+* [[Troupes/Boomerang|Boomerang]]
 * [[Caspen]]
-* [[Troupes/Channel 2]]
+* [[Troupes/Channel 2|Channel 2]]
 
 [[Category/Performers|Ortiz]]

@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Performers/Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
   --><li style=""><a class="internal-link" href="Teresa York">Teresa York</a></li><!--
@@ -80,26 +80,26 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 <p>Sarah 7 has performed their monologue-inspired, character-driven improv at [[The Ladies Are Funny Festival]], [[The 42-Hour Improv Marathon]], 2010 and 2011 [[Wafflefest]]s, 2010 Frontera Fest, and the [[The 2010 Out of Bounds Comedy Festival|2010]] and [[The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]]. They have hosted several themed show runs, including 'Life Lessons Your Mother Never Taught You', 'Sarah 7: Your Worst Nightmare', 'Holidays are Terrible with Sarah 7' and 'Douchebags and Pantyliners: Commercial Deconstruction'."</p></blockquote>
 
 ## History
-Sarah 7 headlined *[[Shows/The Threefer]]* in October 2012.
+Sarah 7 headlined *[[Shows/The Threefer|The Threefer]]* in October 2012.
 
 ### Former Members
 * [[Jenny Carlson]]
-* [[Performers/Kate Bojanek]]
-* [[Performers/Valerie Ward]]
+* [[Performers/Kate Bojanek|Kate Bojanek]]
+* [[Performers/Valerie Ward|Valerie Ward]]
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/35555795) by [[Performers/Liz Brammer]] of their 1/22/12 show at [[The Hideout Theatre]].
-* [Video](http://vimeo.com/14846874) by [[Performers/Liz Brammer]] of their August 2011 show at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/35555795) by [[Performers/Liz Brammer|Liz Brammer]] of their 1/22/12 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/14846874) by [[Performers/Liz Brammer|Liz Brammer]] of their August 2011 show at [[Coldtowne Theater]].
 
 ### Photos
 * [A photoset](http://www.facebook.com/media/set/?set=a.394469047415.170839.332822362415&type=1) of their appearance at the 2010 [[Ladies Are Funny Festival]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.435022037139.215390.545242139&type=1) by [[Edison Carter]] of their appearance at [[The 2010 Out of Bounds Comedy Festival]] on 9/4/10.
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/12/12 performance at [[The 2012 Ladies Are Funny Festival]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Sarah-7/332822362415)
-* [Forum announcement](http://forum.austinimprov.com/viewtopic.php?t=11152) of their *[[Shows/Threefer]]* headlining gig.
+* [Forum announcement](http://forum.austinimprov.com/viewtopic.php?t=11152) of their *[[Shows/Threefer|Threefer]]* headlining gig.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

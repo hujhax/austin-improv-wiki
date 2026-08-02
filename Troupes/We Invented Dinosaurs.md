@@ -81,11 +81,11 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/31198200) of their 10/22/11 performance at *[[Shows/The Speakeasy]]*.
-* [Video](http://vimeo.com/34440294) of their 12/29/11 performance at *[[Shows/The Threefer]]*.
+* [Video](http://vimeo.com/31198200) of their 10/22/11 performance at *[[Shows/The Speakeasy|The Speakeasy]]*.
+* [Video](http://vimeo.com/34440294) of their 12/29/11 performance at *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3) by [[Roy Moore]] that includes their 4/11/11 performance in *[[Shows/The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3) by [[Roy Moore]] that includes their 4/11/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/weinventeddinosaurs)

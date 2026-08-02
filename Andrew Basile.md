@@ -23,20 +23,20 @@
 
 
 ## Troupes
-* [[Troupes/Cheap Date]] (2013-Present)
-* [[Troupes/Concrete]] (2012-Present)
-* [[Troupes/Golden Age]] (2012-2013)
-* [[Troupes/Lunch Pail]] (2014-Present)
-* [[Troupes/Price Check]] (2013)
+* [[Troupes/Cheap Date|Cheap Date]] (2013-Present)
+* [[Troupes/Concrete|Concrete]] (2012-Present)
+* [[Troupes/Golden Age|Golden Age]] (2012-2013)
+* [[Troupes/Lunch Pail|Lunch Pail]] (2014-Present)
+* [[Troupes/Price Check|Price Check]] (2013)
 
 
-## *[[Shows/Cagematch]]* Teams
-* [[Troupes/Charlatans!]] (2014)
-* [[Troupes/Cold Turkey]] (2012)
+## *[[Shows/Cagematch|Cagematch]]* Teams
+* [[Troupes/Charlatans!|Charlatans!]] (2014)
+* [[Troupes/Cold Turkey|Cold Turkey]] (2012)
 
 
 ## Shows
-* *[[Shows/Boy Band]]*
+* *[[Shows/Boy Band|Boy Band]]*
 * *[[Love Fest]]*
-* *[[Shows/Slam Team Six]]*
-* *[[Shows/TGIS]]*
+* *[[Shows/Slam Team Six|Slam Team Six]]*
+* *[[Shows/TGIS|TGIS]]*

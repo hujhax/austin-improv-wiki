@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes/Turn of the Century Paris">Troupes/Turn of the Century Paris</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Turn of the Century Paris">Turn of the Century Paris</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***The Speakeasy*** was a monthly open mic at [[Coldtowne Theater]] presented by [[Troupes/Turn of the Century Paris]].
+***The Speakeasy*** was a monthly open mic at [[Coldtowne Theater]] presented by [[Troupes/Turn of the Century Paris|Turn of the Century Paris]].
 
 
 [[Category/Shows|Speakeasy]]

@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Performers/Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Kazillionaire*** was an improv/sketch duo.
 
 ## Summary
-[[Performers/Jeremy Lamb]] described their summer 2006 run as "a combined sketch-dance-improv-puppet-nudist-video show with an overarching play-type storyline running through it".
+[[Performers/Jeremy Lamb|Jeremy Lamb]] described their summer 2006 run as "a combined sketch-dance-improv-puppet-nudist-video show with an overarching play-type storyline running through it".
 
 ## More Information
 * [The duo's myspace page.](http://myspace.com/kazillionaireprov)

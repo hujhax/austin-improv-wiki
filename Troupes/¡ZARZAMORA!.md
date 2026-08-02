@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Performers/Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
   --><li style=""><a class="internal-link" href="Cole Spainhour">Cole Spainhour</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,18 +73,18 @@
 **¡Zarzamora!** (often spelled all-caps: **¡ZARZAMORA!**) is an improv troupe that focuses on historically-themed improv shows.
 
 ## History
-¡Zarzamora! was conceived at the Dog and Duck Pub by [[Performers/David Lampe]] and [[Performers/Chuy Zarate]] in 2010. The original troupe lineup was Lampe, Zarate, and [[Performers/Jordan T. Maxwell]], with [[Performers/Peter Rogers]] sitting in for the first show.
+¡Zarzamora! was conceived at the Dog and Duck Pub by [[Performers/David Lampe|David Lampe]] and [[Performers/Chuy Zarate|Chuy Zarate]] in 2010. The original troupe lineup was Lampe, Zarate, and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], with [[Performers/Peter Rogers|Peter Rogers]] sitting in for the first show.
 
 The current members of ¡Zarzamora! are:
-* [[Performers/David Lampe]]
-* [[Performers/Chuy Zarate]]
-* [[Performers/Brad Hawkins]]
-* [[Performers/Kevin Miller]]
-* [[Performers/Topping Haggerty]]
+* [[Performers/David Lampe|David Lampe]]
+* [[Performers/Chuy Zarate|Chuy Zarate]]
+* [[Performers/Brad Hawkins|Brad Hawkins]]
+* [[Performers/Kevin Miller|Kevin Miller]]
+* [[Performers/Topping Haggerty|Topping Haggerty]]
 * [[Cole Spainhour]]
-* [[Performers/Patrick Daniel]] (member at large)
+* [[Performers/Patrick Daniel|Patrick Daniel]] (member at large)
 
-Here is [[Performers/Chuy Zarate]]'s explanation of the name's origin:<blockquote>Lampe and I had always wanted to try a duo together and we were discussing names while having some beers (go figure)... It is pretty common for The Oxymmorons to mention the street, Zarzamora when referencing San Antonio locales in shows. It has kind of become a running joke... Anyway, since we are both from SA and Oxy, we decided to name our duo, iZarzamora! Then we proceeded to invite other people to join. So much for our duo...  :D</blockquote>
+Here is [[Performers/Chuy Zarate|Chuy Zarate]]'s explanation of the name's origin:<blockquote>Lampe and I had always wanted to try a duo together and we were discussing names while having some beers (go figure)... It is pretty common for The Oxymmorons to mention the street, Zarzamora when referencing San Antonio locales in shows. It has kind of become a running joke... Anyway, since we are both from SA and Oxy, we decided to name our duo, iZarzamora! Then we proceeded to invite other people to join. So much for our duo...  :D</blockquote>
 
 ## Festivals
 ¡Zarzamora! has played the following festivals:
@@ -102,17 +102,17 @@ The following upcoming festival appearances are scheduled:
 ## Media
 ### Videos
 * [Video of a 2011 performance.](http://vimeo.com/21367828)
-* [Video](http://vimeo.com/44295246) by [[Performers/Brad Hawkins]] of their "Q-Tip" show (uploaded 4/2/12).
-* [Video](http://vimeo.com/44295246) by [[Performers/Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
-* [Video](http://vimeo.com/44444798) by [[Performers/Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
+* [Video](http://vimeo.com/44295246) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Q-Tip" show (uploaded 4/2/12).
+* [Video](http://vimeo.com/44295246) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
+* [Video](http://vimeo.com/44444798) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
 	* [Lower-res version of the video.](http://vimeo.com/44320993)
-* [Video](http://vimeo.com/116581981) by [[Performers/Brad Hawkins]] of their show at Trill Fest in Houston, Texas (the festival ran from 5/22/14 to 5/24/14).
+* [Video](http://vimeo.com/116581981) by [[Performers/Brad Hawkins|Brad Hawkins]] of their show at Trill Fest in Houston, Texas (the festival ran from 5/22/14 to 5/24/14).
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1) by [[Steve Rogers]] which includes their 8/30/11 show at [[The 2011 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 4/1/12 performance in *[[Shows/The Weekender]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200549618405689.1073741857.1315383518&type=3) by [[Michael Yew]] which includes their 9/24/13 performance in *[[Shows/The Weekender]]*.
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 10/5/13 performance with *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.382364731785028.88496.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 4/1/12 performance in *[[Shows/The Weekender|The Weekender]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200549618405689.1073741857.1315383518&type=3) by [[Michael Yew]] which includes their 9/24/13 performance in *[[Shows/The Weekender|The Weekender]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/5/13 performance with *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528881326025.1073741900.1315383518&type=3) by [[Michael Yew]] that includes their 8/26/14 show at [[The 2014 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.851529264910591.1073742119.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/14 performance in [[WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].

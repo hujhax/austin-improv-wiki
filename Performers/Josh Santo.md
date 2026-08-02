@@ -76,8 +76,8 @@
 Mr. Santo originally started improvising in 2004, with the Comedy Sportz High School League.  He started improvising in Austin at the Hideout in 2013.
 
 ## Shows
-* *[[Shows/The Aftermath]]*
-* *[[Shows/Cochise]]*
-* *[[Shows/Lonely Star]]*
+* *[[Shows/The Aftermath|The Aftermath]]*
+* *[[Shows/Cochise|Cochise]]*
+* *[[Shows/Lonely Star|Lonely Star]]*
 
 [[Category/Performers|Santo]]

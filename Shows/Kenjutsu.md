@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,18 +70,18 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Performers/Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -125,7 +125,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (lights)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
   --><!--
   --><!--
@@ -189,7 +189,7 @@
 ## Summary
 The show depicted epic tales of corruption, power, and betrayal set in feudal Japan, inspired by Japanese samurai films such as  *[[Wikipedia - Seven Samurai|Seven Samurai]]*, *[[Wikipedia - Harakiri (1962 film)|Harakiri]]*, and *[[Wikipedia - 13 Assassins|13 Assassins]]*.
 
-The cast trained with, and used on stage, actual *bokken* (wooden samurai swords). Combat was performed in slow motion.  (Somehow, every character [[Performers/Marc Majcher]] played survived almost every duel.)
+The cast trained with, and used on stage, actual *bokken* (wooden samurai swords). Combat was performed in slow motion.  (Somehow, every character [[Performers/Marc Majcher|Marc Majcher]] played survived almost every duel.)
 
 Generally, the cast eschewed non-stop action, focusing instead on patience and developing tension.
 
@@ -199,18 +199,18 @@ It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podca
 
 ## Media
 ### Video
-* [Video](http://youtu.be/CaNsGXHDKJ0) by [[Performers/Warren Henderson]] of the 3/29/14 show.
+* [Video](http://youtu.be/CaNsGXHDKJ0) by [[Performers/Warren Henderson|Warren Henderson]] of the 3/29/14 show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10151933330994786.1315383518&type=3) by [[Michael Yew]] of rehearsals.
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811773275519826.1073741870.100000614831752&type=3) by [[Performers/Warren Henderson]] of a show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811773275519826.1073741870.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.704541889609330.1073741973.221927764537414&type=3) by [[Steve Rogers]] of the 3/22/14 show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152265500112107.1073741829.549002106&type=3) by [[Performers/Chris Curl]] of the 4/12/14 show.
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104425662753240.1073741862.7909117&type=3) by [[Performers/Heidi Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152265500112107.1073741829.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the 4/12/14 show.
+	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104425662753240.1073741862.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 
 ## More Information
 * [Initial show announcement](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule) on the Hideout's web site.
-* [Hideout blog post about the show](http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa) by [[Performers/Kareem Badr]].
+* [Hideout blog post about the show](http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa) by [[Performers/Kareem Badr|Kareem Badr]].
 * [Interview with the directors](http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/) by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
 * [http://www.earwolf.com/episode/improvised-samurai-stories](http://www.earwolf.com/episode/improvised-samurai-stories) Discussion of the show on the Yo, Is This Racist? podcast 04/18/14
 * [http://earwolf.com/episode/left-wing-racism](http://earwolf.com/episode/left-wing-racism) Further discussion of the show on the Yo, Is This Racist? podcast 02/05/15

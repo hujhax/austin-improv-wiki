@@ -22,7 +22,7 @@
 **Stephen Robinson** is an improv performer.
 
 ## Troupes
-* [[Troupes/Ed 32]]
+* [[Troupes/Ed 32|Ed 32]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Firefly]]* (Wash)

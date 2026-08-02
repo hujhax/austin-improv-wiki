@@ -24,9 +24,9 @@
 ## Shows
 * *[[The Gauntlet]]*
 * *[[Award Winner]]*
-* *[[Shows/Fuck, It's Hot!]]*
+* *[[Shows/Fuck, It's Hot!|Fuck, It's Hot!]]*
 * *[[A Fine Affair]]*
-* *[[Shows/Lonely Star]]*
-* *[[Shows/The Source]]*
+* *[[Shows/Lonely Star|Lonely Star]]*
+* *[[Shows/The Source|The Source]]*
 
 [[Category/Performers|Long]]

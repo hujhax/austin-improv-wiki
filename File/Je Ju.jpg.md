@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Je Ju.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Je Ju]].
+Publicity image for [[Troupes/Je Ju|Je Ju]].
 
 Photo by: unknown.
 

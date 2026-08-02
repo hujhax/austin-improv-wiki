@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Dudith.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Dudith]].
+Publicity photo of [[Troupes/Dudith|Dudith]].
 
 Photo by: unknown (one of the usual Hideout photographers, no doubt).
 ## Licensing

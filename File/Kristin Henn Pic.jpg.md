@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kristin Henn Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Kristin Henn]], performing with [[Troupes/Oh, Science!]] at [[The 2012 Out of Bounds Comedy Festival]] on 8/28/12.
+[[Performers/Kristin Henn|Kristin Henn]], performing with [[Troupes/Oh, Science!|Oh, Science!]] at [[The 2012 Out of Bounds Comedy Festival]] on 8/28/12.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3).
 ## Licensing

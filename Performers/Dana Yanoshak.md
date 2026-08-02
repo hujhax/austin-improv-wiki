@@ -24,19 +24,19 @@
 ## Troupes
 * [[Troupes/Apocalypse (troupe)|Apocalypse]]
 * [[Bedfellows]]
-* [[Troupes/My Best Fiend]] (Guest Appearance as Marlene Dietrich)
-* [[Shows/Pick Your Own Path]] 
-* [[Troupes/Senshi Sokyo]]
+* [[Troupes/My Best Fiend|My Best Fiend]] (Guest Appearance as Marlene Dietrich)
+* [[Shows/Pick Your Own Path|Pick Your Own Path]] 
+* [[Troupes/Senshi Sokyo|Senshi Sokyo]]
 
 ## Shows
-* *[[Shows/The Derby]]*
+* *[[Shows/The Derby|The Derby]]*
 * *[[Dusk]]*
-* *[[Shows/The Fancy-Pants Mashup]]*
-* *[[Shows/Live Nude Improv]]*
+* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
+* *[[Shows/Live Nude Improv|Live Nude Improv]]*
 * *[[Love Fest]]*
-* *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
+* *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[Seance]]*
-* *[[Shows/Tall Tales of the High Seas]]* (Co-Director and Cast)
-* *[[Shows/You Can't Stay Here]]*
+* *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]* (Co-Director and Cast)
+* *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
 
 [[Category/Performers|Yanoshak]]

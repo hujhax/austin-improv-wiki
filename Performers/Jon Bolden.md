@@ -22,44 +22,44 @@
 Jon Bolden is an improv performer, instructor, director, and photographer who works primarily at [[The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
 
 ## Teaching
-Jon teaches all levels at [[The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[Performers/Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
+Jon teaches all levels at [[The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[Performers/Roy Janik|Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
 
 Jon has also taught workshops in Alaska, Seattle, Oklahoma, Ohio, Houston, Tokyo and Osaka Japan, and Washington DC.
 
 ## History
-Jon moved to downtown Austin in 2007, where he stumbled upon a Christmas performance of the [[Troupes/Available Cupholders]] at [[The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week and has been involved weekly since.
+Jon moved to downtown Austin in 2007, where he stumbled upon a Christmas performance of the [[Troupes/Available Cupholders|Available Cupholders]] at [[The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week and has been involved weekly since.
 
-Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He performs weekly with [[Troupes/Bad Boys]] and travels/teaches workshops with Roy Janik as [[Troupes/Squirrel Buddies]]
+Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He performs weekly with [[Troupes/Bad Boys|Bad Boys]] and travels/teaches workshops with Roy Janik as [[Troupes/Squirrel Buddies|Squirrel Buddies]]
 
 ## Troupes
-* [[Shows/The Big Bash]]
-* [[Troupes/Bad Boys]]
-* [[Troupes/Blink]]
-* [[Troupes/The Dukes of Bedside Manor]]
-* [[Troupes/Squirrel Buddies]]
-* [[Troupes/The JBs]]
-* [[Troupes/The Randy Meisner]]
-* [[Troupes/Rise & Shine]]
-* [[Troupes/RUSH]]
+* [[Shows/The Big Bash|The Big Bash]]
+* [[Troupes/Bad Boys|Bad Boys]]
+* [[Troupes/Blink|Blink]]
+* [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]
+* [[Troupes/Squirrel Buddies|Squirrel Buddies]]
+* [[Troupes/The JBs|The JBs]]
+* [[Troupes/The Randy Meisner|The Randy Meisner]]
+* [[Troupes/Rise & Shine|Rise & Shine]]
+* [[Troupes/RUSH|RUSH]]
 
 ## Shows
 * *[[The 43-Hour Improv Marathon]]*
-* *[[Shows/After School Improv]]*
-* *[[Shows/The Andersons]]*
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/Camp Madeupponaspotta]] (Director)*
-* *[[Shows/Charles Dickens Unleashed]]*
-* *[[Shows/False Matters]]*
-* *[[Shows/Heist]]*
-* *[[Shows/Lola]]* (tech)
-* *[[Shows/Process]]*
-* *[[Shows/Manhattan Stories]]* (Performed and Directed)
-* *[[Shows/Nothing And Everything]]* (Director)
-* *[[Shows/The New Game Project]]*
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Shows/The Andersons|The Andersons]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]] (Director)*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
+* *[[Shows/False Matters|False Matters]]*
+* *[[Shows/Heist|Heist]]*
+* *[[Shows/Lola|Lola]]* (tech)
+* *[[Shows/Process|Process]]*
+* *[[Shows/Manhattan Stories|Manhattan Stories]]* (Performed and Directed)
+* *[[Shows/Nothing And Everything|Nothing And Everything]]* (Director)
+* *[[Shows/The New Game Project|The New Game Project]]*
 * *[[Shows/Theatresports (mainstage run)|Theatresports]]*
 
 ## More Information
-* [Interview](http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Interview](http://gybpodcast.libsyn.com/john-bolden-ep18-got-your-back) on *[[Got Your Back]]*.
 
 [[Category/Performers|Bolden]]

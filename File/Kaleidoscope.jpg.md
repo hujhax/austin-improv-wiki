@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Kaleidoscope.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/Kaleidoscope]]*.
+Publicity poster for *[[Shows/Kaleidoscope|Kaleidoscope]]*.
 
 Art by: [[Julia Sweeney]].
 

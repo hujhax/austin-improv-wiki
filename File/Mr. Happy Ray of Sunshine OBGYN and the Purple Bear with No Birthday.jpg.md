@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual photo of [[Troupes/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday]].
+Casual photo of [[Troupes/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday|Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday]].
 
 Photo by: unknown.
 ## Licensing

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Jason Oliver Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Casual photo of [[Performers/Jason Oliver]].
+Casual photo of [[Performers/Jason Oliver|Jason Oliver]].
 
 Photo by: unknown.
 ## Licensing

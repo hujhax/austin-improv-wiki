@@ -14,25 +14,25 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Performers/Ash Nunley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Schwartz">Performers/David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Erickson">Performers/Halyn Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Performers/Melissa Patterson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Erickson">Halyn Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Performers/Chris Albano</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a> (lights)</li><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (sound)</li><!--
   --><!--
   --><!--
@@ -149,21 +149,21 @@ This began act two, which was an improvised narrative.  The cast improvised the 
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/105467462) by [[Performers/Peter Rogers]] of the 9/6/14 show.
-* [Video](http://vimeo.com/106088321) by [[Performers/Peter Rogers]] of the 9/13/14 show.
-* [Video](http://vimeo.com/106714467) by [[Performers/Peter Rogers]] of the 9/20/14 show.
-* [Video](http://vimeo.com/107374343) by [[Performers/Peter Rogers]] of the 9/27/14 show.
-* [Video](http://vimeo.com/108695163) by [[Performers/Peter Rogers]] of the 10/11/14 show.
-* [Video](http://vimeo.com/109359186) by [[Performers/Peter Rogers]] of the 10/18/14 show.
-* [Video](http://vimeo.com/110970909) by [[Performers/Peter Rogers]] of the 11/1/14 show.
+* [Video](http://vimeo.com/105467462) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/6/14 show.
+* [Video](http://vimeo.com/106088321) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/13/14 show.
+* [Video](http://vimeo.com/106714467) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/20/14 show.
+* [Video](http://vimeo.com/107374343) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/27/14 show.
+* [Video](http://vimeo.com/108695163) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/11/14 show.
+* [Video](http://vimeo.com/109359186) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/18/14 show.
+* [Video](http://vimeo.com/110970909) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/1/14 show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.799180693478782.1073742076.221927764537414&type=3) by [[Steve Rogers]] of the 9/6/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152761474162265.1073741857.588952264&type=3) by [[Performers/Peter Rogers]] of the 9/13/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152791349842265.1073741858.588952264&type=3) by [[Performers/Peter Rogers]] of the 9/27/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152831513107265.1073741859.588952264&type=3) by [[Performers/Peter Rogers]] of the 10/11/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152761474162265.1073741857.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/13/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152791349842265.1073741858.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/27/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152831513107265.1073741859.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/11/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.826869260709925.1073742093.221927764537414&type=3) by [[Steve Rogers]] of the 10/18/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152880557637265.1073741863.588952264&type=3) by [[Performers/Peter Rogers]] of the 11/1/14 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152880557637265.1073741863.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/1/14 performance.
 
 ## More Information
 * [Show announcement in the Hideout's 2014 season preview.](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule)

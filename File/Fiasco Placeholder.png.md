@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Fiasco Placeholder.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Placeholder icon for *[[Shows/Fiasco]]*.
+Placeholder icon for *[[Shows/Fiasco|Fiasco]]*.
 
-Art by Bully Pulpit Games, edited a bit by [[Performers/Peter Rogers]].
+Art by Bully Pulpit Games, edited a bit by [[Performers/Peter Rogers|Peter Rogers]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

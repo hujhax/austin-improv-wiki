@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Performers/Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
   --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
   --><li style="" ><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--

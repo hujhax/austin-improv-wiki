@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Rondon Martelli.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Performance photo of [[Troupes/Rondon Martelli]] from 2015.
+Performance photo of [[Troupes/Rondon Martelli|Rondon Martelli]] from 2015.
 
 Photo by: unknown.
 ## Licensing

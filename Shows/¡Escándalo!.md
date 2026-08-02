@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -31,8 +31,8 @@
   --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Gonzalez-Bendiksen">Andy Gonzalez-Bendiksen</a></li><!--
   --><li style=""><a class="internal-link" href="Cindy Brio">Cindy Brio</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Performers/Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Performers/Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--
   --><li style=""><a class="internal-link" href="Gabriela Vargas">Gabriela Vargas</a></li><!--
   --><li style="" ><a class="internal-link" href="Karlie Lemos">Karlie Lemos</a></li><!--

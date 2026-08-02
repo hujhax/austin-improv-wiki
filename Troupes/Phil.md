@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Jason Heffron">Jason Heffron</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Performers/Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
   --><li style=""><a class="internal-link" href="Tim Lewis">Tim Lewis</a></li><!--
   --><li style=""><a class="internal-link" href="Tyler Pratt">Tyler Pratt</a></li><!--
   --><!--
@@ -73,7 +73,7 @@
 **Phil** is an improv troupe.
 
 ## History
-Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The Hideout Theatre]] with Tyler as their TA. Phil has since performed regularly at [[The Hideout Theatre]] and [[Coldtowne Theater]]. In May 2014, Phil had [[Shows/Threefer]] run at [[The Hideout Theatre]].
+Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The Hideout Theatre]] with Tyler as their TA. Phil has since performed regularly at [[The Hideout Theatre]] and [[Coldtowne Theater]]. In May 2014, Phil had [[Shows/Threefer|Threefer]] run at [[The Hideout Theatre]].
 
 ## Media
 ### Videos
@@ -82,9 +82,9 @@ Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The H
 * [Video](http://youtu.be/_8fe2zrq5HM) of their 6/15/12 show at [[The Hideout Theatre]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes one of their shows. 
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198541347265.346700.588952264&type=3) by [[Performers/Peter Rogers]] that includes their 3/31/11 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/11 performance in *[[Shows/The Weekender]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes one of their shows. 
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198541347265.346700.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 3/31/11 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/11 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/philimprov)

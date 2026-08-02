@@ -22,23 +22,23 @@
 **Patrick Daniel** is an improv performer.
 
 ## History
-Patrick Daniel	began improvising in 1999 with [[Troupes/Fatbuckle]].
+Patrick Daniel	began improvising in 1999 with [[Troupes/Fatbuckle|Fatbuckle]].
 
 In 2012, he moved away to Los Angeles.
 
 ## Troupes
-* [[Troupes/Blink]]
-* [[Troupes/Fatbuckle]]
-* [[Troupes/Nice Astronaut]]
-* [[Troupes/Total Panic]]
-* [[Troupes/¡ZARZAMORA!]]
+* [[Troupes/Blink|Blink]]
+* [[Troupes/Fatbuckle|Fatbuckle]]
+* [[Troupes/Nice Astronaut|Nice Astronaut]]
+* [[Troupes/Total Panic|Total Panic]]
+* [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 
 ## Shows
-* *[[Shows/The Andersons]]* (director)
-* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/The Andersons|The Andersons]]* (director)
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * *[[Crack!]]*
-* *[[Shows/Ka-Baam!!]]*
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (Zack Morris)
-* *[[Shows/TheatreSports]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 
 [[Category/Performers|Daniel]]

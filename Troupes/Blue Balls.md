@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Performers/Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Blue Balls** was a one-off *[[Shows/Cagematch]]* team.
+**Blue Balls** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
 The show started with a set of six "hindrances" in a hat: donuts, alcohol, running shoes, cough syrup, an Ambien, and one other option.  Each performer then picked out two of the hindrances, ingested them (or smoked them, or, in the case of the running shoes, ran in them), and, thus hindered, started the show.

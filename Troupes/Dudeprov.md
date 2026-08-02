@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andy O'Meara">Andy O'Meara</a></li><!--
   --><li style=""><a class="internal-link" href="Ben McVey">Ben McVey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Performers/Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="John Chakales">John Chakales</a></li><!--
   --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Dudeprov** was a one-off *[[Shows/Cagematch]]* team.
+**Dudeprov** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one exhibition Cagematch on 7/3/10.

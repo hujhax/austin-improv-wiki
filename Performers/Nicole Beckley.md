@@ -22,19 +22,19 @@
 **Nicole Beckley** is an improviser and sketch writer/performer.
 
 ## Troupes
-* [[Troupes/Happy Butter]]
-* [[Troupes/The Library]]
-* [[Troupes/Local Genius Society]]
+* [[Troupes/Happy Butter|Happy Butter]]
+* [[Troupes/The Library|The Library]]
+* [[Troupes/Local Genius Society|Local Genius Society]]
 
 ## Shows
-* *[[Shows/Comedy Bazaar]]*
-* *[[Shows/Cover to Cover]]*
-* *[[Shows/Manhattan Stories]]*
-* *[[Shows/Not This American Life]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/The Suitcase]]*
-* *[[Shows/Trust No One]]*
-* *[[Shows/Twilight Zoned]]*
+* *[[Shows/Comedy Bazaar|Comedy Bazaar]]*
+* *[[Shows/Cover to Cover|Cover to Cover]]*
+* *[[Shows/Manhattan Stories|Manhattan Stories]]*
+* *[[Shows/Not This American Life|Not This American Life]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/The Suitcase|The Suitcase]]*
+* *[[Shows/Trust No One|Trust No One]]*
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
 
 [[Category/Performers|Beckley]]

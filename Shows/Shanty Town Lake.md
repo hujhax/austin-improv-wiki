@@ -14,21 +14,21 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Chris Baldenhofer">Performers/Chris Baldenhofer</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eizabeth Brammer">Performers/Eizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Performers/Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eizabeth Brammer">Eizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Performers/Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--

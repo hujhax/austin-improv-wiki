@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cheap Date.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Troupes/Cheap Date]].
+Publicity photo for [[Troupes/Cheap Date|Cheap Date]].
 
 Photo by: unknown.
 ## Licensing

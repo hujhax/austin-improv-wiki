@@ -25,9 +25,9 @@
 Lance began taking classes at [[The Hideout Theatre]] on 3/9/13.
 
 ## Troupes
-* *[[Troupes/Golden]]* (Technical Improviser)
-* [[Troupes/Worst First Date]]
-* [[Troupes/Super Sweet]]
+* *[[Troupes/Golden|Golden]]* (Technical Improviser)
+* [[Troupes/Worst First Date|Worst First Date]]
+* [[Troupes/Super Sweet|Super Sweet]]
 
 ## Shows
 * *[[Shows/Golden (mainstage)|Golden]]* (Technical Improviser)

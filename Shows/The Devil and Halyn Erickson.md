@@ -14,12 +14,12 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></td>
 		</tr>
 	</table>
 </div>
 
-**The Devil and Halyn Erickson** was a solo show that headlined *[[Shows/The Threefer]]* in June 2014.
+**The Devil and Halyn Erickson** was a solo show that headlined *[[Shows/The Threefer|The Threefer]]* in June 2014.
 
 ## Summary
 ### Press Blurb
@@ -29,15 +29,15 @@ The press blurb, taken from a 2014 application to perform at [[The Hideout Theat
 The answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>I do different versions of the game Demon Voice -- I don't constantly ask "What comes next", I interact with my demon (or angel) and let them rule my life.</blockquote>
 
 ## History
-The show headlined *[[Shows/The Threefer]]* in June 2014.
+The show headlined *[[Shows/The Threefer|The Threefer]]* in June 2014.
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/N4fpWQQVdwM) by [[Performers/Warren Henderson]] that includes her 6/12/14 performance in *[[Shows/The Threefer]]*.
+* [Video](http://youtu.be/N4fpWQQVdwM) by [[Performers/Warren Henderson|Warren Henderson]] that includes her 6/12/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes her 6/5/14 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes her 6/12/14 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes her 6/5/14 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes her 6/12/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Shows|Devil and Halyn Erickson]]
 [[Category/Auto-Generated Troupe Pages|Devil and Halyn Erickson]]

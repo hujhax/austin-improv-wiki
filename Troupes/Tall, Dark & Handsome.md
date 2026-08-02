@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style="">(<a class="internal-link" href="Performers/Clint Harris">Performers/Clint Harris</a>)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style="">(<a class="internal-link" href="Performers/Clint Harris">Clint Harris</a>)</li><!--
   --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Tall, Dark & Handsome** was a one-off *[[Shows/Cagematch]]* team.
+**Tall, Dark & Handsome** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
 Clint Harris is an unofficial member, as he joined the show on the god mic adding the line "Little did they know, (Brett's Character) was a vampire".

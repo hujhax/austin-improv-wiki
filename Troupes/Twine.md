@@ -19,7 +19,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
   --><li style=""><a class="internal-link" href="Amar Dev">Amar Dev</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Performers/Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
   --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
   --><!--

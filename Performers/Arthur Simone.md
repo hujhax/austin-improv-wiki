@@ -28,28 +28,28 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 <p>As a film and television actor, he's appeared in everything from *Big Momma's House 2* to *Parkland*. Arthur has been a sometime fixture on the annual East Austin Studio Tour and has been a finalist for the Hunting Art Prize.</p></blockquote>
 
 ## Troupes
-* [[Troupes/3, 2, 1, Kill!]]
-* [[Troupes/Array]]
+* [[Troupes/3, 2, 1, Kill!|3, 2, 1, Kill!]]
+* [[Troupes/Array|Array]]
 * [[Arthur Simone & Chris Trew Sing the Songs of]] 
-* [[Troupes/Boy Toy]]
-* [[Troupes/Buddy Daddy]]
+* [[Troupes/Boy Toy|Boy Toy]]
+* [[Troupes/Buddy Daddy|Buddy Daddy]]
 * [[Troupes/ColdTowne (Troupe)|ColdTowne]]
-* [[Troupes/Moondogg]]
-* [[Troupes/Roy, Roy, Roy]]
-* [[Troupes/Texas Giant]]
+* [[Troupes/Moondogg|Moondogg]]
+* [[Troupes/Roy, Roy, Roy|Roy, Roy, Roy]]
+* [[Troupes/Texas Giant|Texas Giant]]
 
 ## Shows
-* *[[Shows/Braised in Texas]]*
+* *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Dear Frailty]]*
 
 ### Guest Appearances
 * *[[Crack!]]* (8/7/10)
-* *[[Shows/Boys of Summer]]* (2006 run)
+* *[[Shows/Boys of Summer|Boys of Summer]]* (2006 run)
 
 ## More Information
 * [Arthur's bio page on the ColdTowne Theater site.](http://www.coldtownetheater.com/performer/arthur-simone)
 * [Interview](http://gybpodcast.libsyn.com/aurthur-simone-ep-5-got-your) on the *[[Got Your Back]]* podcast.
-* [Interview](http://yesandrew.com/the-sunday-interview-arthur-simone/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-arthur-simone/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Simone]]
 [[Category/Teachers|Simone]]

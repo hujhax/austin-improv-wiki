@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="AshleyNugent.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Head shot of [[Performers/Ashley Nugent]].
+Head shot of [[Performers/Ashley Nugent|Ashley Nugent]].
 
 Photo by: unknown.
 

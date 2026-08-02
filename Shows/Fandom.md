@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,19 +70,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Performers/Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Performers/Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Kaci Danger">Performers/Kaci Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -126,8 +126,8 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Performers/Cortney DeAngelo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Performers/Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -189,7 +189,7 @@
 ## Summary
 Dubbed 'improvised fanfiction', the show was an improv take on a different fan-beloved universe every week.  The show opened with an [invocation](http://wiki.improvresourcecenter.com/index.php?title=Invocation) on the subject of the show, and then moved into a half-hour of short-form games that riffed on that show's universe.  After a ten-minute intermission, the cast would return to perform a forty-minute narrative based on the fandom, perhaps drawing from successful elements in the first half's short-form games.
 
-In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* narrative at [[The Institution Theater]] on 1/25/13, and took over [[Shows/The Free Fringe]] for one night on 3/7/13.
+In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* narrative at [[The Institution Theater]] on 1/25/13, and took over [[Shows/The Free Fringe|The Free Fringe]] for one night on 3/7/13.
 
 ## List of Shows
 * 1/5/13: *Buffy the Vampire Slayer*
@@ -216,19 +216,19 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.470833459646842.113816.221927764537414&type=3) by [[Steve Rogers]] of the 1/5/13 show (*Buffy the Vampire Slayer*).
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.518225591532274.116030.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 1/12/13 show (*The Lord of the Rings*).
-	* [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers]] that includes the same show.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.518225591532274.116030.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 1/12/13 show (*The Lord of the Rings*).
+	* [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.477942988935889.114948.221927764537414&type=3) by [[Steve Rogers]] of the 1/19/13 show (*Batman*).
 * [Photoset](http://www.facebook.com/media/set/?set=a.486940854702769.115717.221927764537414&type=3) by [[Steve Rogers]] of the 2/2/13 show (Classic Nintendo).
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.4247734954364.142935.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.491315270931994.116331.221927764537414&type=3) by [[Steve Rogers]] of the 2/9/13 show (*Star Wars*).
-	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534632676558232.117948.100000345135257&type=3) by [[Performers/Claudio Fox]] of the same show.
+	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534632676558232.117948.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.491557640907757.116359.221927764537414&type=3) of [[Paul Marino]] as Boba Fett at the event.
 * [Photoset](http://www.facebook.com/media/set/?set=a.494601140603407.116693.221927764537414&type=3) by [[Steve Rogers]] of the 2/16/13 shows (*Harry Potter*).
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.540278589326974.118800.100000345135257&type=3) by [[Performers/Claudio Fox]] of the 2/23/13 show (*Firefly*).
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.540278589326974.118800.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 2/23/13 show (*Firefly*).
 
 ## More Information
-* Posts by [[Performers/Andrew Buck]]: ["Batman"](http://yesandrew.com/2013/01/19/fandom-batman/), ["The Hunger Games"](http://yesandrew.com/2013/01/27/fandom-the-hunger-games/), ["Harry Potter"](http://yesandrew.com/2013/02/17/my-personal-threefer/), [wrap-up](http://yesandrew.com/2013/02/17/fandom-wrap-up/), [further thoughts](http://yesandrew.com/2013/03/20/less-them-more-us/).
+* Posts by [[Performers/Andrew Buck|Andrew Buck]]: ["Batman"](http://yesandrew.com/2013/01/19/fandom-batman/), ["The Hunger Games"](http://yesandrew.com/2013/01/27/fandom-the-hunger-games/), ["Harry Potter"](http://yesandrew.com/2013/02/17/my-personal-threefer/), [wrap-up](http://yesandrew.com/2013/02/17/fandom-wrap-up/), [further thoughts](http://yesandrew.com/2013/03/20/less-them-more-us/).
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

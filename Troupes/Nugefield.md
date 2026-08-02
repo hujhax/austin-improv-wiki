@@ -1,7 +1,7 @@
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
-			<th class="infobox-header" colspan="2"><a class="internal-link" href="Troupes/Nugefield">Troupes/Nugefield</a></th>
+			<th class="infobox-header" colspan="2"><a class="internal-link" href="Troupes/Nugefield">Nugefield</a></th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Performers/Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,8 +79,8 @@ They reunited in Austin in 2013.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534099176611582.117854.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 2/8/13 performance in *[[Lovefest]]*.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577649842107.1073741851.549002106&type=3) by [[Performers/Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534099176611582.117854.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 2/8/13 performance in *[[Lovefest]]*.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577649842107.1073741851.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 [[Category/Active|Nugefield]]
 [[Category/Troupes|Category:Troupes]]

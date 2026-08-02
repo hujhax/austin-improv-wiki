@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -23,20 +23,20 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Performers/Aaron Walther</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Brady James">Brady James</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Gricelda Silva">Gricelda Silva</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Performers/Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style="" ><a class="internal-link" href="Jeff Mills">Jeff Mills</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Osborne">Joel Osborne</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Performers/Julie Gillis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,27 +84,27 @@
 
 ***Steam*** (full title: ***Steam, Rose-Colored Goggles, and the Flight of the Victoriana***) was a serialized narrative longform show that had set characters from week to week and took place in a steampunk-inspired universe.  Several cast members in *Steam* specialized in sceneography, scene-painting, and the use of abstract props to fill out the world of the Victoriana.
 
-Like *[[Shows/Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" telling a complete ten-part story. The primary cast members maintained the same characters throughout the run, 
+Like *[[Shows/Showdown|Showdown]]*, *Steam* was a serialized narrative, with ten "episodes" telling a complete ten-part story. The primary cast members maintained the same characters throughout the run, 
 
 
 ## Cast
-* [[Performers/Audrey Rachel Sansom]] as "The Wild Heart," Wilhemina Wyldeheart 
-* [[Performers/Julie Gillis]] as "The Duchess," Lady Electra Spencer
-* [[Performers/Emily Breedlove]] as "The Amazon," Yvette Cloud
-* [[Performers/Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
+* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as "The Wild Heart," Wilhemina Wyldeheart 
+* [[Performers/Julie Gillis|Julie Gillis]] as "The Duchess," Lady Electra Spencer
+* [[Performers/Emily Breedlove|Emily Breedlove]] as "The Amazon," Yvette Cloud
+* [[Performers/Elizabeth Brammer|Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
 * [[Gricelda Silva]] as "The Pixie," Leto
-* [[Performers/Aaron Walther]] as "The Rogue," Captain Hamwich Leon
+* [[Performers/Aaron Walther|Aaron Walther]] as "The Rogue," Captain Hamwich Leon
 * [[Brady James]] as "The Young Adventurer," Benjamin Cumberbatch
-* [[Performers/Marc Majcher]] as "The Veteran," Colonel Solomon Fitzgerald
+* [[Performers/Marc Majcher|Marc Majcher]] as "The Veteran," Colonel Solomon Fitzgerald
 * [[Jeff Mills]] as "The Reluctant Hero," Barnaby Jones
-* [[Performers/Kevin Miller]] as "The Engineer," Joshua Mew
+* [[Performers/Kevin Miller|Kevin Miller]] as "The Engineer," Joshua Mew
 
 ### "The Machine" (supporting cast)
 * [[Ashlee Medlin]] as Bolt
-* [[Performers/Howard Katz]] as Gear Shift
+* [[Performers/Howard Katz|Howard Katz]] as Gear Shift
 * [[Joel Osborne]] as Leather Strap
-* [[Performers/Jayme Ramsay]] as Crank
-* [[Performers/Leng Wong]] as Alloysia
+* [[Performers/Jayme Ramsay|Jayme Ramsay]] as Crank
+* [[Performers/Leng Wong|Leng Wong]] as Alloysia
 * [[Ashley Lowe]] as Lily Sabine
 
 ## Episode Summaries

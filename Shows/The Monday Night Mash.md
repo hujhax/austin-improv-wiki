@@ -66,7 +66,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes/Snackers">Troupes/Snackers</a> (2008-2009)</li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Snackers">Snackers</a> (2008-2009)</li><!--
   --><li style=""><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
   --><!--
   --><!--
@@ -132,7 +132,7 @@
 ***The Monday Night Mash*** is a performance slot at [[Coldtowne Theater]].  It's a pay-what-you-want triple bill featuring three different troupes, and runs every Monday at 8:30pm.
 
 ## History
-[[Troupes/Snackers]] founded the *Monday Night Mash* in 2008.  Troupe member [[Albert Im]] arranged it as a free, weekly triple bill at [[Kick Butt Coffee]].  In 2009, they lost their slot at the café.  The last *Monday Night Mash* played at the café on 2/23/09.  [[Coldtowne Theater]] brought the show over at their theater, to provide a slot for non-ColdTowne troupes.  The first *Monday Night Mash* at ColdTowne was on 5/11/09.
+[[Troupes/Snackers|Snackers]] founded the *Monday Night Mash* in 2008.  Troupe member [[Albert Im]] arranged it as a free, weekly triple bill at [[Kick Butt Coffee]].  In 2009, they lost their slot at the café.  The last *Monday Night Mash* played at the café on 2/23/09.  [[Coldtowne Theater]] brought the show over at their theater, to provide a slot for non-ColdTowne troupes.  The first *Monday Night Mash* at ColdTowne was on 5/11/09.
 
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/mondaynightmash)

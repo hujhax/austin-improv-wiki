@@ -26,12 +26,12 @@
 **Tosin Awofeso** is an improv musician.
 
 ## Summary
-Pianist Tosin Awofeso is an accompanist for [[Shows/Hurly Burly]], [[Troupes/Girls Girls Girls]], and accompanies many ongoing shows at [[The Hideout Theatre]]. He also scored a majority of [[The 46-Hour Improv Marathon]].
+Pianist Tosin Awofeso is an accompanist for [[Shows/Hurly Burly|Hurly Burly]], [[Troupes/Girls Girls Girls|Girls Girls Girls]], and accompanies many ongoing shows at [[The Hideout Theatre]]. He also scored a majority of [[The 46-Hour Improv Marathon]].
 
 ## Shows
-* *[[Shows/Hurly Burly]]* (accompanist)
-* *[[Shows/Maestro]]* (accompanist)
-* *[[Shows/You Can't Stay Here]]* (accompanist)
+* *[[Shows/Hurly Burly|Hurly Burly]]* (accompanist)
+* *[[Shows/Maestro|Maestro]]* (accompanist)
+* *[[Shows/You Can't Stay Here|You Can't Stay Here]]* (accompanist)
 
 [[Category/Performers|Awofeso]]
 [[Category/Musicians|Awofeso]]

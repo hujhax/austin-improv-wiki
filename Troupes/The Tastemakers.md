@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ben Masten">Ben Masten</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@ Their press blurb for [[The 2014 Out of Bounds Comedy Festival]]:<blockquote><p>
 * [Video](http://vimeo.com/128444005) of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.701276873227144.1073741879.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 1/31/14 show at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.701276873227144.1073741879.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 1/31/14 show at [[The Institution Theater]].
 
 [[Category/Troupes|Tastemakers]]
 [[Category/Active|Tastemakers]]

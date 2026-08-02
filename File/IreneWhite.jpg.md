@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="IreneWhite.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Irene White]], performing at [[The Hideout Theatre]].
+[[Performers/Irene White|Irene White]], performing at [[The Hideout Theatre]].
 
 Photo by: unknown.
 
-Taken from the [[Troupes/Mike and Irene]] [facebook page](http://www.facebook.com/mikeandireneimprov).
+Taken from the [[Troupes/Mike and Irene|Mike and Irene]] [facebook page](http://www.facebook.com/mikeandireneimprov).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

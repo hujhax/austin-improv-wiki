@@ -14,22 +14,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Sarah Hutchins">Performers/Sarah Hutchins</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Performers/Chris Villafano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Performers/Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Elizabeth Bradshaw">Elizabeth Bradshaw</a></li><!--
   --><li style=""><a class="internal-link" href="Michelle Dahlenburg">Michelle Dahlenburg</a></li><!--
   --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
@@ -82,7 +82,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Performers/Greg Blank</a> (scoring, from-the-booth effects)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a> (scoring, from-the-booth effects)</li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a> (stage manager)</li><!--
   --><!--
   --><!--

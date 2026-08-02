@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Tai Hovanky">Tai Hovanky</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Jimenez">Nick Jimenez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Performers/Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Performers/Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,16 +74,16 @@
 
 ## History
 Wait OK Now was formed in January 2012 as one of [[Gnap!]]'s student troupes and was cast at one of the
-[[Merlin Works Mixers]]. It originally consisted of [[Performers/Sam Schak]], [[Performers/Jen Kaplan]], [[Performers/Lacy Shawn]], [[Performers/Luke Wallens]], [[Tai Hovanky]], [[Nick Jimenez]], and [[Performers/Caeriel Crestin]], with [[Performers/Ruby Willmann]] as coach/director.
+[[Merlin Works Mixers]]. It originally consisted of [[Performers/Sam Schak|Sam Schak]], [[Performers/Jen Kaplan|Jen Kaplan]], [[Performers/Lacy Shawn|Lacy Shawn]], [[Performers/Luke Wallens|Luke Wallens]], [[Tai Hovanky]], [[Nick Jimenez]], and [[Performers/Caeriel Crestin|Caeriel Crestin]], with [[Performers/Ruby Willmann|Ruby Willmann]] as coach/director.
 The troupe did a run of shows at [[Salvage Vanguard Theater]] performing an improvised sitcom called *[[The Good Life]]*.
 
 They are currently on indefinite hiatus.
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/49554643) by [[Performers/Dave alley]] of their 9/15/12 show.
+* [Video](http://vimeo.com/49554643) by [[Performers/Dave alley|Dave alley]] of their 9/15/12 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 5/31/12 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.423932184294949.95441.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/31/12 performance at [[Salvage Vanguard Theater]].
 
 [[Category/Troupes|Category:Troupes]]

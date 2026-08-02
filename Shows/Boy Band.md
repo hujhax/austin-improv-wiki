@@ -19,7 +19,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ammon Taylor">Performers/Ammon Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></li><!--
   --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
   --><!--
@@ -74,9 +74,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Performers/Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="JenRaye Adams">JenRaye Adams</a></li><!--
   --><li style=""><a class="internal-link" href="Logan Williams">Logan Williams</a></li><!--
   --><li style=""><a class="internal-link" href="Matthew Stoner">Matthew Stoner</a></li><!--
@@ -144,7 +144,7 @@ The show will ran Saturdays in February 2014 at 8:30pm.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Performers/Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=16820) on [[The Austin Improv Forums]].

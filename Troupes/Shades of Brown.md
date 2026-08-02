@@ -14,15 +14,15 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Chuy Zarate">Performers/Chuy Zarate</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Adan Gutierrez">Adan Gutierrez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Performers/Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
   --><li style=""><a class="internal-link" href="Erica Sanchez">Erica Sanchez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style=""><a class="internal-link" href="Jiovani Galo">Jiovani Galo</a></li><!--
   --><li style=""><a class="internal-link" href="Luis Zertuche">Luis Zertuche</a></li><!--
   --><li style=""><a class="internal-link" href="Mateo Giles">Mateo Giles</a></li><!--
@@ -84,14 +84,14 @@ This is their bio from their facebook page:
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 6/27/10 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 8/19/10 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3) by [[Roy Moore]] that includes their 8/19/10 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 performance in *[[Shows/The Threefer]]*.
-* [Some 4/17/13 troupe photos](http://www.facebook.com/claudio.fox.5/media_set?set=a.561243300563836.1073741834.100000345135257&type=3) by [[Performers/Claudio Fox]].
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Performers/Chad Wellington]] that includes their performance in the 6/9/13 *[[Shows/Triple Scoop]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.882685965128254.1073742141.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/6/14 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/8/15 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 8/19/10 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1335337155382.2040417.1589679282&type=3) by [[Roy Moore]] that includes their 8/19/10 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Some 4/17/13 troupe photos](http://www.facebook.com/claudio.fox.5/media_set?set=a.561243300563836.1073741834.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Performers/Chad Wellington|Chad Wellington]] that includes their performance in the 6/9/13 *[[Shows/Triple Scoop|Triple Scoop]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.882685965128254.1073742141.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/6/14 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/8/15 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/SOBimprov)

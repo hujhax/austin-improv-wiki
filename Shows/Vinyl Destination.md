@@ -14,23 +14,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></td>
+			<td class="category"><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bill Stern">Performers/Bill Stern</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bill Stern">Bill Stern</a></li><!--
   --><li style=""><a class="internal-link" href="Christina de Roos">Christina de Roos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><li style=""><a class="internal-link" href="Karolyn McKenzie">Karolyn McKenzie</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

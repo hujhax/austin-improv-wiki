@@ -22,11 +22,11 @@
 **Claudio Fox** is an improv performer, technical improviser and photographer.
 
 ## Troupes
-* [[Troupes/Shades of Brown]]
+* [[Troupes/Shades of Brown|Shades of Brown]]
 
 ## Shows
-* *[[Shows/Fuck It's Christmas]]*
-* *[[Shows/GrimmNoir]]*
+* *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]*
 
 [[Category/Performers|Fox]]
 [[Category/Techs|Fox]]

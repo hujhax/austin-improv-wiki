@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Briana McKeague">Briana McKeague</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Performers/Jay Byrd</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Jay Byrd</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Nathan">Michael Nathan</a></li><!--
   --><li style=""><a class="internal-link" href="Rachel Myhill">Rachel Myhill</a></li><!--

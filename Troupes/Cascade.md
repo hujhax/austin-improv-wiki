@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,7 +84,7 @@ In January 2015 they began hosting *[[ImprompTwo]]* at [[The Institution Theater
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864071266109.1425495839&type=3) by [[Performers/Jay Mahavier]] of their 8/20/15 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864071266109.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of their 8/20/15 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos

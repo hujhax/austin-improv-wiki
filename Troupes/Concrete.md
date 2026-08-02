@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Performers/Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
   --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

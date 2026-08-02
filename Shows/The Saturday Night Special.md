@@ -34,7 +34,7 @@
 ***The Saturday Night Special*** was an improv double-bill that ran Saturday nights at [[Salvage Vanguard Theater]].
 
 ## Summary
-The acts were scheduled by [[Performers/Shannon McCormick]].
+The acts were scheduled by [[Performers/Shannon McCormick|Shannon McCormick]].
 
 Often, a single act would open a month of shows.
 
@@ -49,7 +49,7 @@ The Saturday Night Special's final performance was on 12/22/12.
 
 ## More Information
 * [The announcement](http://forum.austinimprov.com/viewtopic.php?p=54901) on [[The Austin Improv Forums]] of the show's debut.
-* [The announcement](http://forum.austinimprov.com/viewtopic.php?p=90812) on [[The Austin Improv Forums]] that *[[Shows/Heist!]]* was opening *The Saturday Night Special* in March 2010.
+* [The announcement](http://forum.austinimprov.com/viewtopic.php?p=90812) on [[The Austin Improv Forums]] that *[[Shows/Heist!|Heist!]]* was opening *The Saturday Night Special* in March 2010.
 
 [[Category/Shows|Saturday Night Special]]
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

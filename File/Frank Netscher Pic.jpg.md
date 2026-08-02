@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Frank Netscher Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Frank Netscher]] performing with [[Troupes/Big Beautiful Warlock]] in a May 2013 performance of *[[Shows/Big Beautiful Warriors]]*.
+[[Performers/Frank Netscher|Frank Netscher]] performing with [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]] in a May 2013 performance of *[[Shows/Big Beautiful Warriors|Big Beautiful Warriors]]*.
 
 Photo by [[Arian Brumby]], from [this photoset](http://www.facebook.com/cameraforaface/media_set?set=a.10151657572373086.1073741836.509318085&type=3).
 ## Licensing

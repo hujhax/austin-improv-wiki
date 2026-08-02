@@ -6,78 +6,78 @@ Its advertising was chemistry-themed.
 
 The festival ran from from Tuesday 8/26/13 to Monday 9/1/13.
 
-The festival roast featured [[Performers/Andy Crouch]].
+The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[Troupes/710 Split]]
-* [[Troupes/The Amazon & The Milksop]]
-* [[Shows/Austin Comedy Hour]]
-* [[Troupes/Available Cupholders]]
-* [[Troupes/Bad Boys]]
-* [[Troupes/Bad Font]]
-* [[Troupes/Ball&Chain]]
-* *[[Shows/Beware of Female Spies]]*
-* [[Troupes/Big Beautiful Warlock]]
+* [[Troupes/710 Split|710 Split]]
+* [[Troupes/The Amazon & The Milksop|The Amazon & The Milksop]]
+* [[Shows/Austin Comedy Hour|Austin Comedy Hour]]
+* [[Troupes/Available Cupholders|Available Cupholders]]
+* [[Troupes/Bad Boys|Bad Boys]]
+* [[Troupes/Bad Font|Bad Font]]
+* [[Troupes/Ball&Chain|Ball&Chain]]
+* *[[Shows/Beware of Female Spies|Beware of Female Spies]]*
+* [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]]
 * *[[Shows/Maestro|Blue Maestro]]*
-* [[Troupes/Boss]]
-* *[[Shows/Boy Band]]*
-* [[Troupes/Brain Trust]]
-* [[Troupes/Bridgeport Women's Correctional Facility Short Form Players]]
-* [[Troupes/Collective Alibi]]
-* [[Troupes/Confidence Men]]
-* [[Troupes/Ctrl Alt Delete]]
-* [[Troupes/Danger! Warning! Improv!]]
-* [[Troupes/Dervish]]
-* [[Troupes/Do You Still Want to Do This]]
-* [[Troupes/The Escorts]]
-* [[Troupes/The Frank Mills]]
-* [[Troupes/Franz & Dave]]
-* *[[Shows/Fuck It's Hot]]*
-* [[Troupes/Galactic]]
-* [[Troupes/Get Up]]
-* [[Troupes/Girls Girls Girls]]
-* [[Shows/The Hustle Show]]
-* [[Troupes/In Our Prime]]
-* [[Troupes/Indigo Shift]]
-* [[Troupes/IScream Sandwich]]
-* [[Troupes/Jorak and Jorak Do Movie]]
-* [[Troupes/Junk]]
-* [[Troupes/The Known Wizards]]
-* [[Troupes/The Knuckleball Now]]
-* [[Troupes/The Ladies]]
-* *[[Shows/Live Nude Improv]]*
-* [[Shows/The Lottery]]
-* [[Troupes/Magician vs. Clown]]
-* [[Troupes/MANDINKA]]
-* [[Troupes/Midnight Society]]
-* [[Troupes/Miller and Purselley]]
-* [[Shows/Movie Riot]]
-* [[Troupes/My Best Fiend]]
-* [[Troupes/Nice Astronaut]]
-* [[Troupes/Nugefield]]
-* [[Troupes/Oh, Science!]]
-* [[Troupes/Opposites]]
-* [[Troupes/Parallelogramophonograph]]
-* [[Troupes/Ratliff & Jackson]]
-* [[Troupes/Simply D-VINE]]
-* *[[Shows/Slam Team Six]]*
-* [[Troupes/Snafu]]
-* [[Troupes/Squirrel Buddies]]
-* [[Troupes/Stag Comedy]]
-* [[Troupes/The Starborn]]
-* [[Shows/Stool Pigeon]]
-* [[Troupes/The Tastemakers]]
+* [[Troupes/Boss|Boss]]
+* *[[Shows/Boy Band|Boy Band]]*
+* [[Troupes/Brain Trust|Brain Trust]]
+* [[Troupes/Bridgeport Women's Correctional Facility Short Form Players|Bridgeport Women's Correctional Facility Short Form Players]]
+* [[Troupes/Collective Alibi|Collective Alibi]]
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]]
+* [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
+* [[Troupes/Dervish|Dervish]]
+* [[Troupes/Do You Still Want to Do This|Do You Still Want to Do This]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Troupes/The Frank Mills|The Frank Mills]]
+* [[Troupes/Franz & Dave|Franz & Dave]]
+* *[[Shows/Fuck It's Hot|Fuck It's Hot]]*
+* [[Troupes/Galactic|Galactic]]
+* [[Troupes/Get Up|Get Up]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Shows/The Hustle Show|The Hustle Show]]
+* [[Troupes/In Our Prime|In Our Prime]]
+* [[Troupes/Indigo Shift|Indigo Shift]]
+* [[Troupes/IScream Sandwich|IScream Sandwich]]
+* [[Troupes/Jorak and Jorak Do Movie|Jorak and Jorak Do Movie]]
+* [[Troupes/Junk|Junk]]
+* [[Troupes/The Known Wizards|The Known Wizards]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+* [[Troupes/The Ladies|The Ladies]]
+* *[[Shows/Live Nude Improv|Live Nude Improv]]*
+* [[Shows/The Lottery|The Lottery]]
+* [[Troupes/Magician vs. Clown|Magician vs. Clown]]
+* [[Troupes/MANDINKA|MANDINKA]]
+* [[Troupes/Midnight Society|Midnight Society]]
+* [[Troupes/Miller and Purselley|Miller and Purselley]]
+* [[Shows/Movie Riot|Movie Riot]]
+* [[Troupes/My Best Fiend|My Best Fiend]]
+* [[Troupes/Nice Astronaut|Nice Astronaut]]
+* [[Troupes/Nugefield|Nugefield]]
+* [[Troupes/Oh, Science!|Oh, Science!]]
+* [[Troupes/Opposites|Opposites]]
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+* [[Troupes/Ratliff & Jackson|Ratliff & Jackson]]
+* [[Troupes/Simply D-VINE|Simply D-VINE]]
+* *[[Shows/Slam Team Six|Slam Team Six]]*
+* [[Troupes/Snafu|Snafu]]
+* [[Troupes/Squirrel Buddies|Squirrel Buddies]]
+* [[Troupes/Stag Comedy|Stag Comedy]]
+* [[Troupes/The Starborn|The Starborn]]
+* [[Shows/Stool Pigeon|Stool Pigeon]]
+* [[Troupes/The Tastemakers|The Tastemakers]]
 * [[Teen Showcase]]
-* [[Troupes/Three on a Match]]
-* [[Shows/Trust No One]]
-* [[Troupes/Waiting for Batman]]
-* [[Troupes/Water Park]]
-* [[Troupes/Wink Planet]]
-* [[Troupes/You're Not My Real Dad]]
-* [[Troupes/Your Dad's Friends]]
-* [[Troupes/Your Terrific Neighbors]]
-* [[Troupes/¡ZARZAMORA!]]
+* [[Troupes/Three on a Match|Three on a Match]]
+* [[Shows/Trust No One|Trust No One]]
+* [[Troupes/Waiting for Batman|Waiting for Batman]]
+* [[Troupes/Water Park|Water Park]]
+* [[Troupes/Wink Planet|Wink Planet]]
+* [[Troupes/You're Not My Real Dad|You're Not My Real Dad]]
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
+* [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
+* [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 
 ### Out-of-Town Improv and Sketch Acts
 * Aeropuerto
@@ -144,7 +144,7 @@ The festival roast featured [[Performers/Andy Crouch]].
 * Antonio Aguilar
 * Austen Silver
 * [[Brendan K. O'Grady]]
-* [[Performers/Brently Heilbron]]
+* [[Performers/Brently Heilbron|Brently Heilbron]]
 * Byron Stamps
 * Caroline Bassett
 * Casey Balsham
@@ -163,7 +163,7 @@ The festival roast featured [[Performers/Andy Crouch]].
 * Jake Sharon
 * Jami Campbell
 * Joann Schinderle
-* [[Performers/John Buseman]]
+* [[Performers/John Buseman|John Buseman]]
 * Jon Gnarr
 * [[Jonathan Euseppi]]
 * Katie Pengra
@@ -200,67 +200,67 @@ The festival roast featured [[Performers/Andy Crouch]].
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/108304009) of the 8/26/14 [[Troupes/Known Wizards]] show.
-* [Video](http://vimeo.com/109193870) of the 8/27/14 [[Troupes/In Our Prime]] show.
-* [Video](http://vimeo.com/108306676) of the 8/27/14 [[Shows/Beware of Female Spies]] show.
+* [Video](http://vimeo.com/108304009) of the 8/26/14 [[Troupes/Known Wizards|Known Wizards]] show.
+* [Video](http://vimeo.com/109193870) of the 8/27/14 [[Troupes/In Our Prime|In Our Prime]] show.
+* [Video](http://vimeo.com/108306676) of the 8/27/14 [[Shows/Beware of Female Spies|Beware of Female Spies]] show.
 * [Video](http://vimeo.com/106576604) of the 8/30/14 Rapid Fire Theatre show.
-* [Video](http://vimeo.com/106077526) of the [[Troupes/Parallelogramophonograph]] performance.
-* [Video](http://vimeo.com/105446582) of the *[[Shows/Stool Pigeon]]* performance.
-* [Video](http://vimeo.com/108304056) of the *[[Shows/Trust No One]]* performance.
-* [Video](http://vimeo.com/107396423) of the *[[Shows/International Improv Experience]]* performance.
-* [Video](http://vimeo.com/109193886) of the 8/27/14 [[Troupes/Oh, Science!]] performance.
+* [Video](http://vimeo.com/106077526) of the [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] performance.
+* [Video](http://vimeo.com/105446582) of the *[[Shows/Stool Pigeon|Stool Pigeon]]* performance.
+* [Video](http://vimeo.com/108304056) of the *[[Shows/Trust No One|Trust No One]]* performance.
+* [Video](http://vimeo.com/107396423) of the *[[Shows/International Improv Experience|International Improv Experience]]* performance.
+* [Video](http://vimeo.com/109193886) of the 8/27/14 [[Troupes/Oh, Science!|Oh, Science!]] performance.
 * [Video](http://vimeo.com/127561230) of the 8/29/14 "Key & Peele Writers" performance.
-* [Video](http://vimeo.com/128444005) of the 8/29/14 [[Troupes/Tastemakers]] performance.
-* [Video](http://vimeo.com/127561123) of the 8/29/14 [[Troupes/Bad Boys]] performance.
-* [Video](http://vimeo.com/128444006) of the 8/29/14 [[Troupes/Magician vs. Clown]] performance.
+* [Video](http://vimeo.com/128444005) of the 8/29/14 [[Troupes/Tastemakers|Tastemakers]] performance.
+* [Video](http://vimeo.com/127561123) of the 8/29/14 [[Troupes/Bad Boys|Bad Boys]] performance.
+* [Video](http://vimeo.com/128444006) of the 8/29/14 [[Troupes/Magician vs. Clown|Magician vs. Clown]] performance.
 * [Video](http://vimeo.com/128904700) of the 8/30/14 Idiot Kings performance.
 * [Video](http://vimeo.com/128904691) of the 8/31/14 Jon Gnárr performance.
 * [Video](http://vimeo.com/129579171) of the 8/31/14 Hill/Jones performance.
-* [Video](http://vimeo.com/106569749) of the 8/31/14 [[Troupes/Jorak and Jorak Do Movie]] performance.
+* [Video](http://vimeo.com/106569749) of the 8/31/14 [[Troupes/Jorak and Jorak Do Movie|Jorak and Jorak Do Movie]] performance.
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.792646800798838.1073742046.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Known Wizards]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.793165274080324.1073742049.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Oh, Science!]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.793161820747336.1073742048.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/In Our Prime]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of the *[[Shows/Trust No One]]* show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3) by [[Steve Rogers]] of the *[[Shows/Beware of Female Spies]]* show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.792646800798838.1073742046.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Known Wizards|Known Wizards]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.793165274080324.1073742049.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Oh, Science!|Oh, Science!]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.793161820747336.1073742048.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/In Our Prime|In Our Prime]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of the *[[Shows/Trust No One|Trust No One]]* show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3) by [[Steve Rogers]] of the *[[Shows/Beware of Female Spies|Beware of Female Spies]]* show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.795100780553440.1073742058.221927764537414&type=3) by [[Steve Rogers]] of the [[Bridgeport]] show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.796561237074061.1073742064.221927764537414&type=3) by [[Steve Rogers]] of the [[Starborn]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.797594956970689.1073742069.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Jorak and Jorak Do Movie]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.798601643536687.1073742071.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Bad Boys]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.794562937273891.1073742056.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Your Terrific Neighbors]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.794124310651087.1073742054.221927764537414&type=3) by [[Steve Rogers]] of the [[Shows/Fuck, It's Hot]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.794119580651560.1073742053.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Available Cupholders]] show.
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.888231717873981.1073741882.100000614831752&type=3) by [[Performers/Warren Henderson]].
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152560234517107.1073741837.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Brain Trust]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Bad Font]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Knuckleball Now]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152566583992107.1073741841.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/MANDINKA]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152566636717107.1073741842.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Ball and Chain]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152567251557107.1073741843.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Waiting for Batman]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152575112492107.1073741844.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Boss]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152576209432107.1073741846.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/My Best Fiend]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577366742107.1073741848.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Ratliff & Jackson]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577413992107.1073741849.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Do You Still Want to Do This]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577649842107.1073741851.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Nugefield]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578110862107.1073741852.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/You're Not My Real Dad]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578743157107.1073741853.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Dervish]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580414492107.1073741854.549002106&type=3) by [[Performers/Chris Curl]] of the [[Troupes/Get Up]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Performers/Chris Curl]] of the [[Shows/Boy Band]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152599009622107.1073741856.549002106&type=3) by [[Performers/Chris Curl]] of the [[Bridgeport]] show.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105003365262780.1073741869.7909117&type=3) by [[Performers/Heidi Rogers]] of the Thursday, 8/28, 8pm show at [[The Institution Theater]] (The Ladies/We Should Talk/Franz & Dave).
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers]] of the Thursday, 8/31, 7pm [[Troupes/My Best Fiend]] show.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018233072570.1073741872.7909117&type=3) by [[Performers/Heidi Rogers]] of the Thursday, 8/31, 7pm "Improv Nerd" show with Lauren Lapkus.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105022273440640.1073741874.7909117&type=3) by [[Performers/Heidi Rogers]] of the Friday, 8/29, 7pm show at [[Coldtowne Theater]].
-* [Miscellaneous festival photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105011824774850.1073741870.7909117&type=3) from [[Performers/Heidi Rogers]].
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers]] of the Friday, 8/29 show by [[Troupes/The Frank Mills]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3) by [[Michael Yew]] of the Friday, 8/27 show at the Hideout featuring [[Troupes/The Starborn]] and [[Troupes/Big Beautiful Warlock]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528881326025.1073741900.1315383518&type=3) by [[Michael Yew]] of the Thursday, 8/26 show at [[Coldtowne Theater]] featuring [[Troupes/Junk]], [[Troupes/¡ZARZAMORA!]] and [[Triple Threat]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.797594956970689.1073742069.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Jorak and Jorak Do Movie|Jorak and Jorak Do Movie]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.798601643536687.1073742071.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Bad Boys|Bad Boys]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.794562937273891.1073742056.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.794124310651087.1073742054.221927764537414&type=3) by [[Steve Rogers]] of the [[Shows/Fuck, It's Hot|Fuck, It's Hot]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.794119580651560.1073742053.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Available Cupholders|Available Cupholders]] show.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.888231717873981.1073741882.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152560234517107.1073741837.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Brain Trust|Brain Trust]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Bad Font|Bad Font]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Knuckleball Now|Knuckleball Now]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152566583992107.1073741841.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/MANDINKA|MANDINKA]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152566636717107.1073741842.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Ball and Chain|Ball and Chain]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152567251557107.1073741843.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Waiting for Batman|Waiting for Batman]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152575112492107.1073741844.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Boss|Boss]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152576209432107.1073741846.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/My Best Fiend|My Best Fiend]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577366742107.1073741848.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Ratliff & Jackson|Ratliff & Jackson]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577413992107.1073741849.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Do You Still Want to Do This|Do You Still Want to Do This]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577649842107.1073741851.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Nugefield|Nugefield]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578110862107.1073741852.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/You're Not My Real Dad|You're Not My Real Dad]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578743157107.1073741853.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Dervish|Dervish]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580414492107.1073741854.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Get Up|Get Up]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Shows/Boy Band|Boy Band]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152599009622107.1073741856.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Bridgeport]] show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105003365262780.1073741869.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Thursday, 8/28, 8pm show at [[The Institution Theater]] (The Ladies/We Should Talk/Franz & Dave).
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Thursday, 8/31, 7pm [[Troupes/My Best Fiend|My Best Fiend]] show.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018233072570.1073741872.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Thursday, 8/31, 7pm "Improv Nerd" show with Lauren Lapkus.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105022273440640.1073741874.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Friday, 8/29, 7pm show at [[Coldtowne Theater]].
+* [Miscellaneous festival photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105011824774850.1073741870.7909117&type=3) from [[Performers/Heidi Rogers|Heidi Rogers]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Friday, 8/29 show by [[Troupes/The Frank Mills|The Frank Mills]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3) by [[Michael Yew]] of the Friday, 8/27 show at the Hideout featuring [[Troupes/The Starborn|The Starborn]] and [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528881326025.1073741900.1315383518&type=3) by [[Michael Yew]] of the Thursday, 8/26 show at [[Coldtowne Theater]] featuring [[Troupes/Junk|Junk]], [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]] and [[Triple Threat]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528928567206.1073741901.1315383518&type=3) by [[Michael Yew]] of the Rorschach Pattern 9 show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528972488304.1073741902.1315383518&type=3) by [[Michael Yew]] of the [[Troupes/Indigo Shift]] show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202535417569427.1073741903.1315383518&type=3) by [[Michael Yew]] of the [[Troupes/Confidence Men]] show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528972488304.1073741902.1315383518&type=3) by [[Michael Yew]] of the [[Troupes/Indigo Shift|Indigo Shift]] show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202535417569427.1073741903.1315383518&type=3) by [[Michael Yew]] of the [[Troupes/Confidence Men|Confidence Men]] show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202535473330821.1073741904.1315383518&type=3) by [[Michael Yew]] of the Parisian Gentlemen of Paris show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202536012224293.1073741905.1315383518&type=3) by [[Michael Yew]] of the [[Shows/Stool Pigeon]] show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202536012224293.1073741905.1315383518&type=3) by [[Michael Yew]] of the [[Shows/Stool Pigeon|Stool Pigeon]] show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202540781743528.1073741906.1315383518&type=3) by [[Michael Yew]] of the Mayfly show.
 
 ## More Information

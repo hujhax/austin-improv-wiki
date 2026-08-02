@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Bobby Stover">Bobby Stover</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Performers/Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
   --><li style=""><a class="internal-link" href="Frances Nguyen">Frances Nguyen</a></li><!--
   --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--

@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alex Berry">Alex Berry</a></li><!--
   --><li style=""><a class="internal-link" href="Mandy Spivey">Mandy Spivey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaux Binder">Performers/Margaux Binder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaux Binder">Margaux Binder</a></li><!--
   --><li style=""><a class="internal-link" href="Micheal Foulk">Micheal Foulk</a></li><!--
   --><li style=""><a class="internal-link" href="Tom Niland">Tom Niland</a></li><!--
   --><!--
@@ -75,7 +75,7 @@
 ## Summary
 ### Press Blurb
 Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>
-<p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[The New Movement]], the members of TCG consist of [[Tom Niland]], [[Alex Berry]], [[Micheal Foulk]], [[Performers/Margaux Binder]], and [[Mandy Spivey]]. </p>
+<p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[The New Movement]], the members of TCG consist of [[Tom Niland]], [[Alex Berry]], [[Micheal Foulk]], [[Performers/Margaux Binder|Margaux Binder]], and [[Mandy Spivey]]. </p>
 <p>They came to know/adore/fear each other through the skillful crafting and assembling of [[Chris Trew|Chris]] and [[Tami Nelson|Tami]]. The world has never been the same since.</p>
 </blockquote>
 
@@ -89,7 +89,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/14/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/14/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/The-Control-Group/140017466035714)

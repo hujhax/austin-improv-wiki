@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Reality Improv.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/Reality Improv]]*.
+Publicity poster for *[[Shows/Reality Improv|Reality Improv]]*.
 
 Photos by: unknown.
 

@@ -25,8 +25,8 @@
 
 
 ## Troupes
-* [[Troupes/That Racket!]]
+* [[Troupes/That Racket!|That Racket!]]
 
 ## Shows
-* *[[Shows/Boys of Summer]]* (2013 Run)
-* *[[Shows/Camp Madeupponaspotta]]*
+* *[[Shows/Boys of Summer|Boys of Summer]]* (2013 Run)
+* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*

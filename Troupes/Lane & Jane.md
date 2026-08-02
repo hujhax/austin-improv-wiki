@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Performers/Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Performers/Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/66537083) of their 5/17/13 show in the *[[Shows/2x4]]*.
+* [Video](http://vimeo.com/66537083) of their 5/17/13 show in the *[[Shows/2x4|2x4]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

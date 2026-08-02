@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Heather Hasselle Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Heather Hasselle]] in the 3/7/15 performance of *[[Shows/Austin Secrets]]*.
+[[Performers/Heather Hasselle|Heather Hasselle]] in the 3/7/15 performance of *[[Shows/Austin Secrets|Austin Secrets]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.917842691612581.1073742162.221927764537414&type=3).
 ## Licensing

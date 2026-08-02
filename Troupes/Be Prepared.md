@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Performers/Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Be Prepared** was a one-off *[[Shows/Cagematch]]* team.
+**Be Prepared** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
 The group's format was a mono-scene around a group of Boy Scouts performing some scouting activity (camping, merit badge-thing, canoeing, etc.).

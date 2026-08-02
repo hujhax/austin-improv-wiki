@@ -24,14 +24,14 @@
 He is a graduate of the ColdTowne Conservatory at [[Coldtowne Theater]] and has also taken classes at [[The Hideout Theatre]].
 
 ## Troupes
-* [[Troupes/Oh, Science!]]
+* [[Troupes/Oh, Science!|Oh, Science!]]
 
 ## Shows
-* *[[Shows/The Fancy-Pants Mashup]]*
-* *[[Troupes/Array]]*
+* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
+* *[[Troupes/Array|Array]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
-* *[[Shows/Pick Your Own Path]]*
-* *[[Shows/Sci-Fi Saturdays]]*
-* *[[Shows/Slaughter Your Shorts]]*
+* *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
+* *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
+* *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]*
 
 [[Category/Performers|Baia]]

@@ -27,24 +27,24 @@ Nicole started doing improv with Massive Improv from Houston from 2005-2007. Wit
 She relocated to Austin in 2008 and got back into the improv scene in 2011.
 
 ## Troupes
-* [[Troupes/Catalyst]]
-* [[Troupes/Stone Airplane]]
-* [[Troupes/Honey Ladies]]
-* [[Shows/Flying Theater Machine]]
+* [[Troupes/Catalyst|Catalyst]]
+* [[Troupes/Stone Airplane|Stone Airplane]]
+* [[Troupes/Honey Ladies|Honey Ladies]]
+* [[Shows/Flying Theater Machine|Flying Theater Machine]]
 
 ## Shows
-* *[[Shows/After School Improv]]*
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 * *[[The Tribunal]]*
-* *[[Shows/A Bedtime Gorey]]*
-* *[[Shows/Reform School For Wayward Girls]]*
-* *[[Shows/Wanderlust]]*
-* *[[Shows/Scene of the Crime]]*
-* *[[Shows/The Ladies Room]]*
-* *[[Shows/Boy, Howdy!]]*
+* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
+* *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
+* *[[Shows/Wanderlust|Wanderlust]]*
+* *[[Shows/Scene of the Crime|Scene of the Crime]]*
+* *[[Shows/The Ladies Room|The Ladies Room]]*
+* *[[Shows/Boy, Howdy!|Boy, Howdy!]]*
 * *[[Shameless Dames]]*
-* *[[Shows/Fiasco]]*
+* *[[Shows/Fiasco|Fiasco]]*
 
 [[Category/Performers|Oliver]]
 [[Category/Active|Category:Active]]

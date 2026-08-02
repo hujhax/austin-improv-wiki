@@ -22,9 +22,9 @@
 **Stacy Kaplowitz** was an improv performer.
 
 ## Shows
-* *[[Shows/The Andersons]]*
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/TheatreSports]]*
+* *[[Shows/The Andersons|The Andersons]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
 
 [[Category/Performers|Kaplowitz]]

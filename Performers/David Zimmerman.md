@@ -75,21 +75,21 @@
 ## History
 David was nominated for "Favorite Tech Performer" in [[The 2013 Institution Theater Awards]].
 
-A post from him about the first improv show he ever saw:<blockquote>Winter of 2006, I saw [[Troupes/Parallelogramophonograph]]'s *[[Shows/After School Special]]* at [[Coldtowne Theater]] after hearing about it from [[Wesley Bain|Wesley]] from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up]] was also there, doing a sea epic. </blockquote>
+A post from him about the first improv show he ever saw:<blockquote>Winter of 2006, I saw [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s *[[Shows/After School Special|After School Special]]* at [[Coldtowne Theater]] after hearing about it from [[Wesley Bain|Wesley]] from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up|Get Up]] was also there, doing a sea epic. </blockquote>
 
 ## Troupes
-* [[Troupes/Midnight Society]]
+* [[Troupes/Midnight Society|Midnight Society]]
 
 ## Shows
-* *[[Shows/Hitchcocked!]]* (tech)
+* *[[Shows/Hitchcocked!|Hitchcocked!]]* (tech)
 * *[[The Joss Whedon Pajama Party]]* 
 * *[[Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (Bad Horse Chorus)
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (tech)
-* *[[Shows/The Sci-Fi Comedy Double Feature]]* (sound tech)
-* *[[Shows/Spirited]]* (music)
-* *[[Shows/Start Trekkin']]* (sound tech)
-* *[[Shows/Twilight Zoned]]* (sound tech)
-* *[[Shows/The Violet Underbelly]]* (tech)
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]* (sound tech)
+* *[[Shows/Spirited|Spirited]]* (music)
+* *[[Shows/Start Trekkin'|Start Trekkin']]* (sound tech)
+* *[[Shows/Twilight Zoned|Twilight Zoned]]* (sound tech)
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]* (tech)
 
 [[Category/Performers|Zimmerman]]
 [[Category/Techs|Zimmerman]]

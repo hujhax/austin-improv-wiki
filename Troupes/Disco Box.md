@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Performers/Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
   --><li style=""><a class="internal-link" href="Ariel Greenspoon">Ariel Greenspoon</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Performers/Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Christina Parrish</a></li><!--
   --><li style=""><a class="internal-link" href="G-su Paek">G-su Paek</a></li><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Disco Box** is an improv troupe that frequently plays at [[The New Movement]].
 
 ## Media
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3) by [[Michael Yew]] that includes their 5/10/12 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3) by [[Michael Yew]] that includes their 5/10/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Disco-Box/200949976641619)

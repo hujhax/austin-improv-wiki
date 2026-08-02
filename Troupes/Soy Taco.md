@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Angie Smith">Angie Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Performers/Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Monica Maher">Monica Maher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Performers/Rachel Creason</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
   --><li style=""><a class="internal-link" href="Robert Evans">Robert Evans</a></li><!--
   --><li style=""><a class="internal-link" href="Vijay Thakkar">Vijay Thakkar</a></li><!--
   --><!--
@@ -84,7 +84,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 ### Videos
 * [Video](http://vimeo.com/112549075) of a show.
 * [Video](http://vimeo.com/116787434) of their 1/11/15 graduation show.
-* [Video](http://vimeo.com/119615091) of their 2/12/15 show in *[[Shows/The Threefer]]*.
+* [Video](http://vimeo.com/119615091) of their 2/12/15 show in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/groups/soytaco/)

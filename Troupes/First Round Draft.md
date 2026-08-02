@@ -16,13 +16,13 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Performers/Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style=""><a class="internal-link" href="Chris R. B. Fay">Chris R. B. Fay</a></li><!--
   --><li style=""><a class="internal-link" href="Ed Piston">Ed Piston</a></li><!--
   --><li style=""><a class="internal-link" href="Griffin Mauser">Griffin Mauser</a></li><!--
   --><li style=""><a class="internal-link" href="Katy Shea">Katy Shea</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style="" ><a class="internal-link" href="Shelly Miller Bosse">Shelly Miller Bosse</a></li><!--
   --><li style=""><a class="internal-link" href="Suzie Mihalak">Suzie Mihalak</a></li><!--
   --><!--

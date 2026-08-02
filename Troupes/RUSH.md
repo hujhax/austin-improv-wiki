@@ -17,10 +17,10 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ashley Seibels">Ashley Seibels</a></li><!--
   --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
   --><li style=""><a class="internal-link" href="Kim Dilling">Kim Dilling</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Stoner">Matt Stoner</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Vaughn">Matt Vaughn</a></li><!--
   --><li style="" ><a class="internal-link" href="Ricky Oliphant">Ricky Oliphant</a></li><!--
@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/68171828) by [[Kyle Sweeney]] of the [[Troupes/RUSH]] set from *[[Shows/Movie vs. Movie]]* ("Bangalore", uploaded 6/11/13).
+* [Video](http://vimeo.com/68171828) by [[Kyle Sweeney]] of the [[Troupes/RUSH|RUSH]] set from *[[Shows/Movie vs. Movie|Movie vs. Movie]]* ("Bangalore", uploaded 6/11/13).
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

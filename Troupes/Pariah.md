@@ -79,7 +79,7 @@ They played in the 7/2/14 *Cagematch*.
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/120012509) by [[Performers/Peter Rogers]] of their 1/23/15 performance in the *[[Shows/2x4]]*.
+* [Video](http://vimeo.com/120012509) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/23/15 performance in the *[[Shows/2x4|2x4]]*.
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/pariahatx/photos/a.398582686951172.1073741825.398581913617916/398582693617838/?type=1&theater)

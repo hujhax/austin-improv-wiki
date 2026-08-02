@@ -31,11 +31,11 @@
 ***The TV Set*** was a performance slot at [[The Hideout Theatre]].
 
 ## Summary
-It occurred at 8pm on the third Friday of every month as part of [[Shows/The Wheel]], and featured TV-related improv shows.
+It occurred at 8pm on the third Friday of every month as part of [[Shows/The Wheel|The Wheel]], and featured TV-related improv shows.
 
-Troupes and shows included in *The TV Set* included [[Shows/The Professor]], *[[Shows/Totally Improvised, 90210]]*, and *[[Shows/Twilight Zoned]]*.
+Troupes and shows included in *The TV Set* included [[Shows/The Professor|The Professor]], *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*, and *[[Shows/Twilight Zoned|Twilight Zoned]]*.
 
-In May 2013, perhaps due to running out of TV-themed shows and troupes who hadn't yet performed in *The TV Set*, the slot was replaced by *[[Shows/2x4]]*.
+In May 2013, perhaps due to running out of TV-themed shows and troupes who hadn't yet performed in *The TV Set*, the slot was replaced by *[[Shows/2x4|2x4]]*.
 
 ## Media
 ### Videos

@@ -14,17 +14,17 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Ammon Taylor">Performers/Ammon Taylor</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Lindsey Verrill">Lindsey Verrill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Performers/Tosin awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,14 +78,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Performers/Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah Doering">Sarah Doering</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">Performers/J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -133,9 +133,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Performers/Robert Slack</a> (stage manager)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a> (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--
@@ -212,7 +212,7 @@ From the show announcement:<blockquote>We're digging in deep among the roots of 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.1043460369050812.1073742262.221927764537414&type=3) by [[Steve Rogers]] of the 9/19/2015 debut.
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208157766688311.1073741878.1425495839&type=3) by [[Performers/Jay Mahavier]] of the 9/26/15 performance ("Coal Mine").
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208157766688311.1073741878.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the 9/26/15 performance ("Coal Mine").
 * [Photoset](http://www.facebook.com/media/set/?set=a.1060232720706910.1073742270.221927764537414&type=3) by [[Steve Rogers]] of the 10/23/2015 performance.
 
 ## More Information

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,13 +75,13 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Chris Canada">Chris Canada</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Courtney Ray Goodson">Courtney Ray Goodson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Ronn">Performers/David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -226,9 +226,9 @@ From hilarious moments of triumph over everyday obstacles like eating in Zero G 
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.901098623286988.1073742152.221927764537414&type=3) by [[Steve Rogers]] of the 2/7/15 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.769051933171320.1073741852.473177099425473&type=3) by [[Performers/Chad Wellington]] of the 2/14/15 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.772191659524014.1073741854.473177099425473&type=3) by [[Performers/Chad Wellington]] of the 2/21/15 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.776713579071822.1073741855.473177099425473&type=3) by [[Performers/Chad Wellington]] of the 2/28/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.769051933171320.1073741852.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 2/14/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.772191659524014.1073741854.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 2/21/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.776713579071822.1073741855.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 2/28/15 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.10203692511416050.1073741930.1315383518&type=3) by [[Michael Yew]] of the 3/8/15 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203692511416050.1073741930.1315383518&type=3) by [[Michael Yew]] of the 3/8/15 performance.
 

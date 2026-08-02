@@ -4,18 +4,18 @@ It ran from 6/30/11 to 7/2/11.
 
 ## Acts
 ### Local Acts
-* [[Troupes/The Amazon and The Milksop]] present Fitzgeralds for Hire
-* [[Troupes/Confidence Men]]
-* [[Troupes/Danger! Warning! Improv!]] present Two to Beam Up
-* [[Shows/False Matters]]
-* [[Troupes/Furiously Missing]]
-* [[Troupes/Get Up]]
-* [[Troupes/Happy Butter]]
-* *[[Shows/Holy 1960s Batman, Batman!]]*
-* *[[Shows/The Narrative Improv Jam]]*
-* [[Troupes/Parallelogramophonograph]] presents French Farce
-* [[Troupes/The Plagiarists]]
-* *[[Shows/The Violet Underbelly]]*
+* [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]] present Fitzgeralds for Hire
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]] present Two to Beam Up
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/Furiously Missing|Furiously Missing]]
+* [[Troupes/Get Up|Get Up]]
+* [[Troupes/Happy Butter|Happy Butter]]
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
+* *[[Shows/The Narrative Improv Jam|The Narrative Improv Jam]]*
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] presents French Farce
+* [[Troupes/The Plagiarists|The Plagiarists]]
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 ### Out-of-Town Acts
 * Code Duello (Boston)

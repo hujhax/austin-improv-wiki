@@ -25,19 +25,19 @@
 Lauren was a company member of [[Gnap! Theater Projects]].
 
 ## Troupes
-* [[Troupes/Blink]]
-* [[Troupes/Double Dutch]]
-* [[Troupes/The Heroes of Comedy]] 
-* [[Troupes/The Known Wizards]]
-* [[Troupes/Lady Couch]]
+* [[Troupes/Blink|Blink]]
+* [[Troupes/Double Dutch|Double Dutch]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] 
+* [[Troupes/The Known Wizards|The Known Wizards]]
+* [[Troupes/Lady Couch|Lady Couch]]
 
 ## Shows
 * *[[Dusk]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/TheatreSports]]*
-* *[[Shows/Totally Improvised, 90210]]* (director/Brenda Walsh)
-* *[[Shows/Twilight Zoned]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/TheatreSports|TheatreSports]]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (director/Brenda Walsh)
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
 
 [[Category/Performers|Buck]]

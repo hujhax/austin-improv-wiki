@@ -71,7 +71,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Raney">Scott Raney</a></li><!--

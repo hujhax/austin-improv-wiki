@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Performers/Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,17 +74,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Performers/Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
   --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
   --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
   --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Performers/Julie Gillis</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Jimenez">Nick Jimenez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Performers/Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><li style=""><a class="internal-link" href="Odin Amador">Odin Amador</a></li><!--
   --><!--
   --><!--
@@ -150,7 +150,7 @@ The teacher would assign chapters to the students for a book report.  Then, each
 After its mainstage run with Gnap!, *Cover to Cover* had a special benefit show on 12/5/11 for the Austin Children's Shelter.
 
 ## Media
-* [Publicity photos](http://www.facebook.com/media/set/?set=a.10150336363103311.351864.16782108310&type=1) by [[Steve Rogers]], with art by [[Performers/Courtney Hopkin]].
+* [Publicity photos](http://www.facebook.com/media/set/?set=a.10150336363103311.351864.16782108310&type=1) by [[Steve Rogers]], with art by [[Performers/Courtney Hopkin|Courtney Hopkin]].
 	* [Variant publicity photos.](http://www.facebook.com/media/set/?set=a.229147383815452.60321.221927764537414&type=3)
 * [Photoset](http://www.facebook.com/media/set/?set=a.227557240641133.59929.221927764537414&type=3) by [[Steve Rogers]] of their 10/21/11 performance ("The Unknown Portrait").
 * [Photoset](http://www.facebook.com/media/set/?set=a.186346044779760.49438.100002130980897&type=1) by [[Steve Rogers]] of their 10/22/11 performance ("The Secret of Viking Cove").

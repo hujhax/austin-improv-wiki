@@ -15,16 +15,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Performers/Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Performers/Kristin Henn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
   --><li style="" ><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Performers/Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
   --><li style=""><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Sausage Party** was a one-off *[[Shows/Cagematch]]* team.
+**Sausage Party** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 4/3/10.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Guilds of Steel Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional art for the 2010 run of *[[Shows/Guilds Of Steel]]*.
+Promotional art for the 2010 run of *[[Shows/Guilds Of Steel|Guilds Of Steel]]*.
 
 Photo by: unknown.
 

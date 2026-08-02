@@ -129,19 +129,19 @@ In 2013, he moved away to Chicago.
 In 2014, he moved back.
 
 ## Troupes
-* [[Troupes/Golden]]
-* [[Troupes/Kosher Bacon]]
-* [[Troupes/The Seven Eight Sevens]]
+* [[Troupes/Golden|Golden]]
+* [[Troupes/Kosher Bacon|Kosher Bacon]]
+* [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
 
 ## Shows
-* *[[Shows/After School Improv]]*
-* *[[Shows/Bad Girls in Plaid Skirts]]* (Rico)
+* *[[Shows/After School Improv|After School Improv]]*
+* *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (Rico)
 * *[[Love Fest]]* (2013 run)
-* *[[Shows/Not This American Life]]*
+* *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Fresh Roasted]]*
 * *[[Shows/Golden (mainstage)|Golden]]*
 
 ## More Information
-* [Interview](http://yesandrew.com/the-sunday-interview-brandon-martin/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/the-sunday-interview-brandon-martin/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Martin]]

@@ -23,18 +23,18 @@
 **Lahari Samineni** is a new performer who performs primarily with [[The Hideout Theatre]] and [[The Institution Theatre]].  She began taking classes at the Hideout in January 2013, and began performing in November 2013.  
 
 ## Troupes
-* [[Troupes/Minority Report]]
-* [[Troupes/Worst First Date]] (Duo with [[R Lance Hunter]])
-* [[Troupes/Things We Don't Speak Of]]
+* [[Troupes/Minority Report|Minority Report]]
+* [[Troupes/Worst First Date|Worst First Date]] (Duo with [[R Lance Hunter]])
+* [[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]]
 <br>
 Past:<br>
-* [[Troupes/Character Explosion]] 
-* [[Troupes/Who Wants Attention!]]
+* [[Troupes/Character Explosion|Character Explosion]] 
+* [[Troupes/Who Wants Attention!|Who Wants Attention!]]
 
 ## Shows
-* '[[Shows/Immigrants, The Musical! (Part One)]]"
-* *[[Shows/The Source]]*
-* *[[Shows/Home for the Holidays]]* (aka *[[Shows/I'll Be Home for Christmas]]*)
-* *[[Shows/The Ladies Room]]*
-* *[[Shows/The Secret Life of Inanimate Objects]]*
-* *[[Shows/Teenage Wasteland]]* (tech: score)
+* '[[Shows/Immigrants, The Musical! (Part One)|Immigrants, The Musical! (Part One)]]"
+* *[[Shows/The Source|The Source]]*
+* *[[Shows/Home for the Holidays|Home for the Holidays]]* (aka *[[Shows/I'll Be Home for Christmas|I'll Be Home for Christmas]]*)
+* *[[Shows/The Ladies Room|The Ladies Room]]*
+* *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
+* *[[Shows/Teenage Wasteland|Teenage Wasteland]]* (tech: score)

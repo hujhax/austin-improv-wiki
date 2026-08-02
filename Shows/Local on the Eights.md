@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">Performers/J. R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,8 +74,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Dramaturg(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Performers/Danielle Saar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -189,7 +189,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Caroline Dinges">Caroline Dinges</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Performers/Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style=""><a class="internal-link" href="Daniel Ellsworth">Daniel Ellsworth</a></li><!--
   --><li style=""><a class="internal-link" href="Brad Geiger">Brad Geiger</a></li><!--
   --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--

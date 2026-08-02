@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Tender Nightmare.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Troupes/Tender Nightmare]].
+Logo for [[Troupes/Tender Nightmare|Tender Nightmare]].
 
 Art by: unknown.
 ## Licensing

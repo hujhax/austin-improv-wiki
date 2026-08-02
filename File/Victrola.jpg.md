@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Victrola.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[Shows/Victrola]]*.
+Publicity art for *[[Shows/Victrola|Victrola]]*.
 
 Art by: unknown.
 ## Licensing

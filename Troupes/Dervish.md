@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,11 +81,11 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/53717440) by [[Performers/Lisa Jackson]] of their 11/12/12 show ("Pffffffft").
+* [Video](http://vimeo.com/53717440) by [[Performers/Lisa Jackson|Lisa Jackson]] of their 11/12/12 show ("Pffffffft").
 ### Photos
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes their 6/6/13 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578743157107.1073741853.549002106&type=3) by [[Performers/Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152960056420793.1073741892.666390792&type=3) by [[Performers/Dave alley]] of their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes their 6/6/13 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578743157107.1073741853.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152960056420793.1073741892.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/dervishimprov)

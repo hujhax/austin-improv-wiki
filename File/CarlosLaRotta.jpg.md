@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="CarlosLaRotta.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Carlos Larotta]] performing with [[Troupes/Whalehouse]] in June 2013.
+[[Performers/Carlos Larotta|Carlos Larotta]] performing with [[Troupes/Whalehouse|Whalehouse]] in June 2013.
 
 Photo by [[Arian Brumby]], from [this photoset](https://www.facebook.com/cameraforaface/media_set?set=a.10151731620028086.1073741842.509318085&type=3).
 ## Licensing

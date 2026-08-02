@@ -25,17 +25,17 @@
 Jon moved to Austin in 2007, and then moved to New York City in 2011.
 
 ## Troupes
-* [[Troupes/Happiness is a Choice]]
-* [[Troupes/J-K]]
-* [[Shows/Ka-Baam!!]]
-* [[Troupes/The Plagiarists]]
-* [[Shows/Start Trekkin']]
+* [[Troupes/Happiness is a Choice|Happiness is a Choice]]
+* [[Troupes/J-K|J-K]]
+* [[Shows/Ka-Baam!!|Ka-Baam!!]]
+* [[Troupes/The Plagiarists|The Plagiarists]]
+* [[Shows/Start Trekkin'|Start Trekkin']]
 
 ## Shows
-* *[[Shows/Guilds Of Steel]]*
+* *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[Hyperlinks]]*
 * *[[Live TV Tuesdays -  Dawson's Creek]]* (Pacey Witter)
-* *[[Shows/The Violet Underbelly]]*
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 ## More Information
 * [Jon's self-introduction thread](http://forum.austinimprov.com/viewtopic.php?f=12&t=5758) on [[The Austin Improv Forums]].

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Laser Heart.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Laser Heart]].
+Publicity photo of [[Troupes/Laser Heart|Laser Heart]].
 
 Photo by: unknown.
 ## Licensing

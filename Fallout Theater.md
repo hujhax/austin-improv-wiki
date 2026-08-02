@@ -32,7 +32,7 @@ The theater was founded by the former staff, faculty, and performers of The New 
 ### Improv Shows
 * *[[Fuck This Week]]*
 * *[[Basement Brawl]]*
-* *[[Shows/The Megaphone Show]]*
+* *[[Shows/The Megaphone Show|The Megaphone Show]]*
 
 ### Sketch Shows
 * *[[The Neighborhood]]*
@@ -47,7 +47,7 @@ The theater was founded by the former staff, faculty, and performers of The New 
 #### Improv Teams
 * *[[Garage]]*
 * *[[Good Fight]]*
-* *[[Troupes/Lucky Billy]]*
+* *[[Troupes/Lucky Billy|Lucky Billy]]*
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.

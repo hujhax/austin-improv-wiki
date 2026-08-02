@@ -14,15 +14,15 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Andrew Buck">Performers/Andrew Buck</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Performers/Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Performers/Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@
 ***Past Lives*** is an improvised play.
 
 ## Summary
-*Past Lives* was created by [[Performers/Andrew Buck]].
+*Past Lives* was created by [[Performers/Andrew Buck|Andrew Buck]].
 
 The show explores a soul and all of its previous incarnations in reverse chronological order.
 
@@ -92,7 +92,7 @@ They played their last show at [[The 2014 Improvised Play Festival]] at [[The Hi
 ## Media
 ### Videos
 * [Video of their 4/11/13 debut performance](http://vimeo.com/63959273) in [[The 2013 Improvised Play Festival]].
-* [Video of their 5/24/13 performance](http://vimeo.com/67467225) in *[[Shows/The Spectacle]]*.
+* [Video of their 5/24/13 performance](http://vimeo.com/67467225) in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Video](http://vimeo.com/91778244) of their show in [[The 2014 Improvised Play Festival]].
 * [Video of their 6/22/13 show](http://vimeo.com/75798036) in [[The 44-Hour Improv Marathon]].
 
@@ -100,6 +100,6 @@ They played their last show at [[The 2014 Improvised Play Festival]] at [[The Hi
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[The Improvised Play Festival]].
 
 ## More Information
-* [Post about the show](http://yesandrew.com/2014/04/11/the-death-of-a-show/) by [[Performers/Andrew Buck]].
+* [Post about the show](http://yesandrew.com/2014/04/11/the-death-of-a-show/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Troupes|Category:Troupes]]

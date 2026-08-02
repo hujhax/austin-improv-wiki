@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Unfurled Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-2009 photo of [[Troupes/Unfurled]].
+2009 photo of [[Troupes/Unfurled|Unfurled]].
 
 Photo by: unknown.
 ## Licensing

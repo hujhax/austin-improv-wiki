@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Really Big Thumbs Up.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Really Big Thumbs Up]].
+Publicity image for [[Troupes/Really Big Thumbs Up|Really Big Thumbs Up]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

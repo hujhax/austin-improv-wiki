@@ -36,15 +36,15 @@ Chris moved to Round Rock in 2011, where he would frequently visit Austin. It wa
   
 ## Past Troupes
 * [[Weekly Liturgy-The Con]]
-* [[Troupes/Character Explosion]]
+* [[Troupes/Character Explosion|Character Explosion]]
 * [[Endless Breadsticks]]
 * [[The Giant]]
 
 ## Shows
-* *[[Shows/The Untitled Avant-Garde Theater Project with a Really Long Title]]*
-* *[[Shows/Fancy Pants]]*
-* *[[Shows/Maestro]]*
-* *[[Shows/Maestro Raw]]*
+* *[[Shows/The Untitled Avant-Garde Theater Project with a Really Long Title|The Untitled Avant-Garde Theater Project with a Really Long Title]]*
+* *[[Shows/Fancy Pants|Fancy Pants]]*
+* *[[Shows/Maestro|Maestro]]*
+* *[[Shows/Maestro Raw|Maestro Raw]]*
 * *[[The Tribunial]]*
 * *[[Say It Loud]]*
 * *[[The Neighborhood]]*

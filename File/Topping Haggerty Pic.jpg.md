@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Topping Haggerty Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Topping Haggerty]], during warm-ups for [[Same Year's Eve]] on 12/30/12.
+[[Performers/Topping Haggerty|Topping Haggerty]], during warm-ups for [[Same Year's Eve]] on 12/30/12.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.467317639998424.113152.221927764537414&type=3).
 ## Licensing

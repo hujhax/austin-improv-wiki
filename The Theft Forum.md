@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Scott Hearne">Performers/Scott Hearne</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -25,7 +25,7 @@
 
 **The Theft Forum** is a podcast about Austin improv.
 ## History
-[[Performers/Scott Hearne]], Austin improviser, started *The Theft Forum* in 2012. The name is taken from the assumption that all comedians "borrow" from each other's work.
+[[Performers/Scott Hearne|Scott Hearne]], Austin improviser, started *The Theft Forum* in 2012. The name is taken from the assumption that all comedians "borrow" from each other's work.
 ## Format
 The show is generally an interview with a well-known Austin improviser. Some episodes interview troupes or show casts. When a troupe or cast is interviewed there is usually a section of the podcast where they improvise in their format.
 

@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Performers/Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,24 +79,24 @@
 GEWT is comprised of some of Austin's top improvisational performers from all over the stylistic map. Individually they've toured to over 30 cities and have performed in such festivals as The Chicago Improv Fest, The Seattle Festival of Improvisation, and the Del Close Marathon, among many others. They have won FronteraFest Best of Fest, Austin Chronicle Best of Year, and B. Iden Payne award accolades. They all perform weekly in various shows at the Hideout Theatre, Salvage Vanguard Theater, and ColdTowne Theater."</blockquote>
 
 ## Cast
-* [[Performers/Courtney Hopkin]] - Blodeuwedd
-* [[Performers/Curtis Luciani]] -  Hampton Percival Suede
-* [[Performers/Kacey Samiee]] - Rosita
-* [[Performers/Kaci Beeler]] - Miloska
-* [[Performers/Sarah Marie Curry]] - Sarah Jo
-* [[Performers/Valerie Ward]] - Agnes
+* [[Performers/Courtney Hopkin|Courtney Hopkin]] - Blodeuwedd
+* [[Performers/Curtis Luciani|Curtis Luciani]] -  Hampton Percival Suede
+* [[Performers/Kacey Samiee|Kacey Samiee]] - Rosita
+* [[Performers/Kaci Beeler|Kaci Beeler]] - Miloska
+* [[Performers/Sarah Marie Curry|Sarah Marie Curry]] - Sarah Jo
+* [[Performers/Valerie Ward|Valerie Ward]] - Agnes
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/9954835) of their 2/28/10 performance in *[[Shows/The Weekender]]*.
-* [Video](http://vimeo.com/21056385) of their 2/25/11 performance in *[[Shows/The Spectacle]]*.
+* [Video](http://vimeo.com/9954835) of their 2/28/10 performance in *[[Shows/The Weekender|The Weekender]]*.
+* [Video](http://vimeo.com/21056385) of their 2/25/11 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/28/10 performance at *[[Shows/The Weekender]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/28/10 performance at *[[Shows/The Weekender|The Weekender]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[Wafflefest]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3) by [[Roy Moore]] of their 5/6/11 performance at [[The 2011 Ladies Are Funny Festival]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes the same show.
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150814632160324.728311.503270323&type=3) by [[Performers/Kevin Miller]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150814632160324.728311.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
 
 ### Publicity
 * [A teaser](http://youtu.be/nkzofyWOVVI) for their performance at [[WaffleFest 2010]] (11/11/10).

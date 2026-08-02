@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Wish You Were Beer.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Troupes/Wish You Were Beer]].
+Publicity photo for [[Troupes/Wish You Were Beer|Wish You Were Beer]].
 
 Photo by: unknown.
 ## Licensing

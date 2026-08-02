@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Daniel Rigney">Daniel Rigney</a></li><!--
   --><li style=""><a class="internal-link" href="Jackie Myers">Jackie Myers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Performers/Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><li style=""><a class="internal-link" href="Paul Wainwright">Paul Wainwright</a></li><!--
   --><li style=""><a class="internal-link" href="Petra Kelsey">Petra Kelsey</a></li><!--
   --><li style=""><a class="internal-link" href="Todd Mein">Todd Mein</a></li><!--
@@ -93,7 +93,7 @@ Funny songs, sad songs, happy songs, pretty songs, creepy songs, motivational so
 * [Video #2](http://www.viddler.com/explore/exquisitezombie/videos/10/)
 
 ### Photos
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[Shows/The Threefer]]*.
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Other
 * [Sample Audio](http://www.ferstenfeld.com/mp3s/prov/garageshow-bazzle.mp3)

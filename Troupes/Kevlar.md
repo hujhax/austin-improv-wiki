@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Performers/Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,17 +74,17 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>[[Performers/David Lampe]] and [[Performers/Kevin Miller]] have played improv together in various shows for over a decade. One day over a couple of Lone Stars, Lampe suggested to Kevin that they ditch all the other improvisers and go it alone. The result was Kevlar: We're Bulletproof, a two-man show with a rotating cast of characters and no other rules.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>[[Performers/David Lampe|David Lampe]] and [[Performers/Kevin Miller|Kevin Miller]] have played improv together in various shows for over a decade. One day over a couple of Lone Stars, Lampe suggested to Kevin that they ditch all the other improvisers and go it alone. The result was Kevlar: We're Bulletproof, a two-man show with a rotating cast of characters and no other rules.</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We do a two-man La Ronde. One of us begins a solo scene, then is joined onstage by the other, then the first person finds an excuse to leave and re-enters as a new character, and so on. </blockquote>
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/90777157) by [[Performers/Kevin Miller]] of their 3/30/14 "Kevlar: We're Shot!" performance at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/90777157) by [[Performers/Kevin Miller|Kevin Miller]] of their 3/30/14 "Kevlar: We're Shot!" performance at [[Coldtowne Theater]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes their 11/15/13 performance in the *[[Shows/2x4]]*.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.703672999663188.1073741850.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes their 11/15/13 performance in the *[[Shows/2x4|2x4]]*.
 
 
 ## More Information

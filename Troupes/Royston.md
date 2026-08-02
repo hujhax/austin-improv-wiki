@@ -19,8 +19,8 @@
   --><li style=""><a class="internal-link" href="Brady James">Brady James</a></li><!--
   --><li style=""><a class="internal-link" href="Jenna Carey">Jenna Carey</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Performers/Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--
   --><!--

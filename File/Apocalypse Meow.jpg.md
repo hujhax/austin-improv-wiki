@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Apocalypse Meow.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Troupes/Apocalypse Meow]].
+Logo for [[Troupes/Apocalypse Meow|Apocalypse Meow]].
 
 Art by: unknown.
 ## Licensing

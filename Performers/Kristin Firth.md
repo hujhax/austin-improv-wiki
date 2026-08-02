@@ -22,26 +22,26 @@
 **Kristin Firth** is a Canadian improv performer who lived in and performed regularly in Austin before moving to Philadelphia, Pennsylvania.
 
 ## Troupes
-* [[Troupes/The Dancy Street D'Orchestra]]
-* [[Troupes/Firth & Arjet]]
-* [[Troupes/MmmmK]]
-* [[Troupes/The Plagiarists]]
-* [[Troupes/Revlis]]
+* [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
+* [[Troupes/Firth & Arjet|Firth & Arjet]]
+* [[Troupes/MmmmK|MmmmK]]
+* [[Troupes/The Plagiarists|The Plagiarists]]
+* [[Troupes/Revlis|Revlis]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/Charles Dickens Unleashed]]*
-* *[[Shows/The Cherry Bowl]]*(Varya)
-* *[[Shows/False Matters]]*
-* *[[Shows/Flying Theater Machine]]*
-* *[[Shows/The Free Fringe]]*
-* *[[Shows/Haunted]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
+* *[[Shows/The Cherry Bowl|The Cherry Bowl]]*(Varya)
+* *[[Shows/False Matters|False Matters]]*
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
+* *[[Shows/The Free Fringe|The Free Fringe]]*
+* *[[Shows/Haunted|Haunted]]*
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Live TV Tuesdays -  Buffy]]* (sales manager/ensemble)
-* *[[Shows/Lola]]* (tech)
+* *[[Shows/Lola|Lola]]* (tech)
 * *[[Magna Veritas]]*
-* *[[Shows/Pocketful of Posies]]*
-* *[[Shows/TheatreSports]]*
-* *[[Shows/The Violet Underbelly]]*
+* *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
+* *[[Shows/TheatreSports|TheatreSports]]*
+* *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 
 [[Category/Performers|Firth]]

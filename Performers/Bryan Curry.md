@@ -23,8 +23,8 @@
 
 ## History
 ## Shows
-* *[[Shows/Fuck It's Christmas]]*
-* *[[Shows/RISEN]]* (tech)
+* *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]*
+* *[[Shows/RISEN|RISEN]]* (tech)
 
 
 [[Category/Performers|Curry]]

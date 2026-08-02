@@ -20,11 +20,11 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Performers/Carlos Larotta</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Performers/Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Kirk Johnson">Kirk Johnson</a></li><!--
   --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--
   --><!--

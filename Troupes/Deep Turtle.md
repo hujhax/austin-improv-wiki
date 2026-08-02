@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Addison">Performers/Alex Addison</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Addison">Alex Addison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Kathleen McFerren">Kathleen McFerren</a></li><!--
   --><li style=""><a class="internal-link" href="Ripley Adams">Ripley Adams</a></li><!--
   --><li style=""><a class="internal-link" href="Ryan Broussard">Ryan Broussard</a></li><!--
@@ -81,8 +81,8 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/8/15 debut in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864075466214.1425495839&type=3) by [[Performers/Jay Mahavier]] of their 8/20/15 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/8/15 debut in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864075466214.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of their 8/20/15 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's web site.](https://www.facebook.com/deepturtleimprov)

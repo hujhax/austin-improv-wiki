@@ -38,55 +38,55 @@ In 2013 Cody became the Artistic Director as well as the Education Director for 
 
 Throughout his life as a performer Cody has been involved in a number of shows in every aspect from performer, to director, to tech, to marketing... 
 
-Cody subbed in for [[Performers/Roy Janik]] as part of "Substitute Parallelogramophonograph" on 2/1/13.
+Cody subbed in for [[Performers/Roy Janik|Roy Janik]] as part of "Substitute Parallelogramophonograph" on 2/1/13.
 
 A post from him about the first improv show he ever saw:<blockquote><p>I saw Four Day Weekend in Fort Worth in 2002. I still remember laughing at the first scene.</p> 
 
 <p>They started with a world-news-type segment where they turned to a page of that day's paper and read a blurb from one of the stories. Then improvised a scene based off of it. Oliver Tull says to the Frank, "What is dat?"... Frank said, "My dog and my cat got fused together," and Oliver replied, "So when I said, 'What is dat?' I was right."</p></blockquote>
 
 ## Troupes
-* [[Troupes/Array]]
-* [[Troupes/Scout]]
-* [[Troupes/Skutch]]
-* [[Troupes/Two Minute Brother]]
-* [[Troupes/Awww, Shit!]]
-* [[Troupes/Jocks and Nerds]]
+* [[Troupes/Array|Array]]
+* [[Troupes/Scout|Scout]]
+* [[Troupes/Skutch|Skutch]]
+* [[Troupes/Two Minute Brother|Two Minute Brother]]
+* [[Troupes/Awww, Shit!|Awww, Shit!]]
+* [[Troupes/Jocks and Nerds|Jocks and Nerds]]
 * [[Let's Rock]]
-* [[Troupes/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday]]
+* [[Troupes/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday|Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday]]
 * [[Speedforce Go!]]
 * [[Patriot Actors]]
 * [[The Warm 'Em Ups]]
-* [[Troupes/Look Cookie]]
+* [[Troupes/Look Cookie|Look Cookie]]
 * [[The Crumbs]]
 * [[The Smoking Arm]]
 * [[McNeil deGrasse Tyson]]
 * [[Jc'sBM]]
-* [[Troupes/Array]] (director)
+* [[Troupes/Array|Array]] (director)
 
 ## Shows
-* *[[Shows/Family Tides]]*
-* *[[Shows/Indy Movies]]* (director)
-* *[[Shows/The Organ Trail]]* (director)
-* *[[Shows/Slam Team Six]]* (producer, director, performer)
-* *[[Shows/Slaughter Your Shorts]]* (director)
-* *[[Shows/TGIS]]* (cast member, "Buddies")
-* *[[Shows/Sci-Fi Saturdays]]* (super apocalypse) 
+* *[[Shows/Family Tides|Family Tides]]*
+* *[[Shows/Indy Movies|Indy Movies]]* (director)
+* *[[Shows/The Organ Trail|The Organ Trail]]* (director)
+* *[[Shows/Slam Team Six|Slam Team Six]]* (producer, director, performer)
+* *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]* (director)
+* *[[Shows/TGIS|TGIS]]* (cast member, "Buddies")
+* *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]* (super apocalypse) 
 * [[Cody and a Student]] 
 * [[No Astronauts Allowed]]
-* *[[Shows/Vinyl Destination]]*
+* *[[Shows/Vinyl Destination|Vinyl Destination]]*
 * [[Flipped Scripts]]
 * [[Rad Scientists]]
 * [[Like & Subscribe]]
 * [[The People's Sketch show]]
 * [[The Improvised Porno]] presented by PCI
 * [[ColdTowne's The Tuesday Night Jam]]
-* *[[Shows/Stool Pigeon]]*
+* *[[Shows/Stool Pigeon|Stool Pigeon]]*
 * [[Ingest]]
 * [[Winter Miracles Talent Show]]
 * *[[Got Your Back]]*
 
 ## More Information
-* [Interview](http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Dearing]]
 [[Category/Directors|Dearing]]

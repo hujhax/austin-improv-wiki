@@ -22,8 +22,8 @@
   --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
   --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
   --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style=""><a class="internal-link" href="Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
@@ -83,7 +83,7 @@
 ## Summary
 The show is inspired by the UCB show *Let's Have a Ball*.  Each show had a four-act structure: three long two-person scenes, followed by a montage based on that information.
 
-Each performance was double-billed with a set from [[Troupes/Collective Alibi]].
+Each performance was double-billed with a set from [[Troupes/Collective Alibi|Collective Alibi]].
 
 ### Press Blurb
 A press blurb from their facebook event page: <blockquote>Featuring a cast of six of ColdTowne Theater’s sharpest improvisers, *Kaleidoscope* is an improvised comedy show unlike any other currently playing in Austin. Inspired by a structure originated at the Upright Citizens Brigade Theater, Kaleidoscope blends three unique audience 

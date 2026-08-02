@@ -18,14 +18,14 @@
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
   --><li style=""><a class="internal-link" href="Becca Westerkom">Becca Westerkom</a></li><!--
   --><li style=""><a class="internal-link" href="Caitlin Bumgartner">Caitlin Bumgartner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Performers/Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
   --><li style=""><a class="internal-link" href="Jeremy Logan">Jeremy Logan</a></li><!--
   --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
   --><li style="" ><a class="internal-link" href="Kayla Freeman">Kayla Freeman</a></li><!--
   --><li style=""><a class="internal-link" href="Milo Smith">Milo Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

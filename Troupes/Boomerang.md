@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Performers/Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
   --><li style=""><a class="internal-link" href="Beth Condra">Beth Condra</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Performers/Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsey Marguerite">Lindsey Marguerite</a></li><!--
   --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Performers/Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
   --><!--
   --><!--
   --><!--

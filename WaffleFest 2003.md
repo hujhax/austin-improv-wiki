@@ -6,10 +6,10 @@
 The festival ran from 12/12/03 to 12/13/03.
 
 ## Acts
-* [[Troupes/ComedySportz]]
-* [[Troupes/Ed32]]
+* [[Troupes/ComedySportz|ComedySportz]]
+* [[Troupes/Ed32|Ed32]]
 * [[Gag Reflex]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/Gravy]]
-* [[Troupes/The Heroes of Comedy]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/Gravy|Gravy]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]]
 * [[Nothing Matters]]

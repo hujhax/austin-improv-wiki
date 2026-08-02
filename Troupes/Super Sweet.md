@@ -18,8 +18,8 @@
   --><li style=""><a class="internal-link" href="Craig Mcgreggor">Craig Mcgreggor</a></li><!--
   --><li style=""><a class="internal-link" href="Lori Hobbie">Lori Hobbie</a></li><!--
   --><li style=""><a class="internal-link" href="R. Lance Hunter">R. Lance Hunter</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Performers/Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Performers/Shannon Dale Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a></li><!--
   --><!--
   --><!--
   --><!--

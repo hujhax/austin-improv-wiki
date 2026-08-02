@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
   --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
   --><li style=""><a class="internal-link" href="Chris Sutphen">Chris Sutphen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gloria Rabil Bankler">Performers/Gloria Rabil Bankler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -88,7 +88,7 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [Video of their April 19th, 2011 show.](http://vimeo.com/40781767)
 * [Video of their show](http://vimeo.com/33157277) at [[Wafflefest]] 2011.
 * [Video of their show](http://vimeo.com/40901518) at the 2012 [[Improvised Play Festival]].
-* [Video](http://youtu.be/fd7C-Uld8vc#t=681) by [[Performers/Warren Henderson]] of their 9/23/12 performance in *[[Shows/The Weekender]]*.
+* [Video](http://youtu.be/fd7C-Uld8vc#t=681) by [[Performers/Warren Henderson|Warren Henderson]] of their 9/23/12 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].

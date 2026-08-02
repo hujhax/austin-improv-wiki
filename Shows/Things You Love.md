@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Rachel Creason">Performers/Rachel Creason</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -97,7 +97,7 @@ The Hideout Theatre presents our latest student mainstage production, *Things Yo
 
 *Things You Love* is inspired by the joy, wonder and delight of Pixar films and classic musicals but also by you! The cast of *Things You Love* will begin each performance by asking audience members about things they love and they will then create a full-length improvised musical narrative on the spot.
 
-The cast of *Things You Love* is gathered from some of the most talented musical improv students at Hideout Theatre. Things You Love is helmed by the director of the student mainstage program, [[Performers/Caeriel Crestin]] who has directed past shows *[[Shows/Soundstage 23]]*, *[[Shows/Close Up]]* and more. [[Ryan Fechter]] serves as musical director of *Things You Love*. He most recently served as musical director for last year’s runaway success at The Hideout *[[Shows/Death By Musical]]*.
+The cast of *Things You Love* is gathered from some of the most talented musical improv students at Hideout Theatre. Things You Love is helmed by the director of the student mainstage program, [[Performers/Caeriel Crestin|Caeriel Crestin]] who has directed past shows *[[Shows/Soundstage 23|Soundstage 23]]*, *[[Shows/Close Up|Close Up]]* and more. [[Ryan Fechter]] serves as musical director of *Things You Love*. He most recently served as musical director for last year’s runaway success at The Hideout *[[Shows/Death By Musical|Death By Musical]]*.
 
 “This cast is so talented,” says director Caeriel Crestin. “I get goosebumps and shed a couple joyful tears every single rehearsal.”
 

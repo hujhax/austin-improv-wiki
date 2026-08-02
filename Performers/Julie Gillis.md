@@ -22,22 +22,22 @@
 **Julie Gillis** is an improv performer.
 
 ## History
-Julie started doing improv in Austin in 2004, joined [[Troupes/Girls Girls Girls]] in 2005, and performed longform narrative with [[Gnap! Theater Projects]] and [[The Hideout Theatre]] from then until early 2012.
+Julie started doing improv in Austin in 2004, joined [[Troupes/Girls Girls Girls|Girls Girls Girls]] in 2005, and performed longform narrative with [[Gnap! Theater Projects]] and [[The Hideout Theatre]] from then until early 2012.
 
 She produced  [[The Ladies Are Funny Festival]] from its inception until 2012, and currently produces *[[Bedpost Confessions]]*.
 
 ## Troupes
-* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 
 ## Shows
 * *[[69 Love Scenes]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Shows/Cover to Cover]]* (co-director)
+* *[[Shows/Cover to Cover|Cover to Cover]]* (co-director)
 * *[[Dusk]]*
-* *[[Shows/One More Night]]*
-* *[[Shows/Showdown]]*
-* *[[Shows/Steam]]*
-* *[[Shows/Who is T. Henry Baudecliffe]]*
+* *[[Shows/One More Night|One More Night]]*
+* *[[Shows/Showdown|Showdown]]*
+* *[[Shows/Steam|Steam]]*
+* *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
 
 ## Festivals
 * The Dirty South Improv Festival

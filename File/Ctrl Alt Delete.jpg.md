@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ctrl Alt Delete.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Ctrl Alt Delete]].
+Publicity image for [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]].
 
 Photos by: unknown.
 

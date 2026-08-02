@@ -20,12 +20,12 @@
   --><li style=""><a class="internal-link" href="David Nayer">David Nayer</a></li><!--
   --><li style=""><a class="internal-link" href="Elly Van Laar">Elly Van Laar</a></li><!--
   --><li style=""><a class="internal-link" href="Jason Heffron">Jason Heffron</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Performers/Keegan Hines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Performers/Menelaos Prokos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Performers/Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
   --><li style="" >Tim</li><!--
   --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Tyler Pratt">Tyler Pratt</a></li><!--
   --><!--
   --><!--
@@ -87,12 +87,12 @@ We are excited to get another theater run.</blockquote>
 
 ## Media
 ### Videos
-* [Video of show #1 (3/6/11)](http://youtu.be/lsRGBACkrq0) at *[[Shows/The Weekender]]*.
-* [Video of show #2 (3/13/11)](http://youtu.be/KNanAuF_j7w) at *[[Shows/The Weekender]]*.
-* [Video of show #3 (3/20/11)](http://youtu.be/qeovJwMKdt4) at *[[Shows/The Weekender]]*.
-* [Video of show #4 (3/27/11)](http://youtu.be/rvLhHCbkvhA) at *[[Shows/The Weekender]]*.
-* [Video of show #5 (6/26/11)](http://youtu.be/fzvai-TtTP8) at *[[Shows/The Weekender]]*.
-* [Video of show #6 (7/10/11)](http://youtu.be/yGLob96Nx80) at *[[Shows/The Weekender]]*.
+* [Video of show #1 (3/6/11)](http://youtu.be/lsRGBACkrq0) at *[[Shows/The Weekender|The Weekender]]*.
+* [Video of show #2 (3/13/11)](http://youtu.be/KNanAuF_j7w) at *[[Shows/The Weekender|The Weekender]]*.
+* [Video of show #3 (3/20/11)](http://youtu.be/qeovJwMKdt4) at *[[Shows/The Weekender|The Weekender]]*.
+* [Video of show #4 (3/27/11)](http://youtu.be/rvLhHCbkvhA) at *[[Shows/The Weekender|The Weekender]]*.
+* [Video of show #5 (6/26/11)](http://youtu.be/fzvai-TtTP8) at *[[Shows/The Weekender|The Weekender]]*.
+* [Video of show #6 (7/10/11)](http://youtu.be/yGLob96Nx80) at *[[Shows/The Weekender|The Weekender]]*.
 
 ## More Information
 * [The troupe's facebook group.](https://www.facebook.com/home.php?sk=group_185063981507521&ap=1)

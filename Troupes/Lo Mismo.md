@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Lo Mismo** was a one-off *[[Shows/Cagematch]]* duo.
+**Lo Mismo** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 2/28/08.

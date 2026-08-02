@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alex Nixon">Alex Nixon</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Performers/Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
   --><li style=""><a class="internal-link" href="Erin Plischke">Erin Plischke</a></li><!--
   --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
   --><!--
@@ -73,7 +73,7 @@
 **$10 Bourbon** was an improv troupe.
 
 ## History
-The troupe formed after [[Troupes/Wooden Nickel]] broke up.
+The troupe formed after [[Troupes/Wooden Nickel|Wooden Nickel]] broke up.
 
 Their final show was on 8/27/08, at [[The 2008 Out of Bounds Comedy Festival]].
 

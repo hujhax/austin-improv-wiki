@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Movie Riot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[Shows/Movie Riot]]* by [[Performers/Carlos Larotta]].
+Publicity art for *[[Shows/Movie Riot|Movie Riot]]* by [[Performers/Carlos Larotta|Carlos Larotta]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

@@ -8,26 +8,26 @@ Its advertising and art were themed around Soviet Russia.
 ## Acts
 ### Local Acts
 * [[Troupes/ColdTowne (Troupe)|ColdTowne]]
-* [[Troupes/Get Up]]
-* [[Troupes/GigglePants]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/Hoover's Blanket]]
-* [[Troupes/Improv For Evil]]
-* [[Troupes/Junk]]
+* [[Troupes/Get Up|Get Up]]
+* [[Troupes/GigglePants|GigglePants]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/Hoover's Blanket|Hoover's Blanket]]
+* [[Troupes/Improv For Evil|Improv For Evil]]
+* [[Troupes/Junk|Junk]]
 * [[Latino Comedy Project]]
-* [[Troupes/Look Cookie]]
-* [[Troupes/Parallelogramophonograph]]
-* [[Troupes/The Frank Mills]]
-* [[Troupes/The Knuckleball Now]]
-* [[Troupes/The Leading Brands]]
-* [[Shows/Vinyl Destination]]
-* [[Troupes/You Me & Greg]]
+* [[Troupes/Look Cookie|Look Cookie]]
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+* [[Troupes/The Frank Mills|The Frank Mills]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+* [[Troupes/The Leading Brands|The Leading Brands]]
+* [[Shows/Vinyl Destination|Vinyl Destination]]
+* [[Troupes/You Me & Greg|You Me & Greg]]
 
 ### Out-of-Town Acts
 * 88improv (Omaha)
 * American Standard (New York)
-* [[Troupes/Available Cupholders]] (Austin, Chicago)
-* [[Troupes/Backpack Picnic]] (Austin, Los Angeles)
+* [[Troupes/Available Cupholders|Available Cupholders]] (Austin, Chicago)
+* [[Troupes/Backpack Picnic|Backpack Picnic]] (Austin, Los Angeles)
 * Cathcart & Olson (Chicago)
 * Curtis Needs a Ride (Ft. Worth)
 * F* squared (Houston)

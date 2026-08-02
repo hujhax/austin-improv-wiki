@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Performers/Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:*This page refers to the 2011 Pinter-themed improv duo.  For the 2015-founded high-energy duo, see [[Troupes/JK]].*
+:*This page refers to the 2011 Pinter-themed improv duo.  For the 2015-founded high-energy duo, see [[Troupes/JK|JK]].*
 
 **J/K** was an improv duo that presented improvised plays in the style of [[Wikipedia - Harold Pinter|Harold Pinter]].
 

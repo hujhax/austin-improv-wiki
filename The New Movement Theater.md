@@ -35,24 +35,24 @@ On March 3rd 2012, a second theater space opened in New Orleans, Louisiana. Trew
 In the Spring of 2018, Trew and Nelson transferred ownership of the Austin theater to members of the TNM ATX community, leaving them to solely run their New Orleans space as The New Movement. The theater in Austin rebranded itself as [[Fallout Theater]].
 
 ## Shows
-* *[[Shows/Austin Comedy Hour]]*
-* *[[Shows/Block Party]]*
-* *[[Shows/Fighting Spirit]]*
-* *[[Shows/The Franchise]]*
-* *[[Shows/The Lab]]*
-* *[[Shows/Lights Up!]]*
-* *[[Shows/The Megaphone Show]]*
-* *[[Shows/The Opener]]*
-* *[[Shows/Pass the Mic]]*
-* *[[Shows/Plugged]]*
-* *[[Shows/Rucker Park]]*
-* *[[Shows/Stoned vs. Drunk vs. Sober]]*
-* *[[Shows/Student Union]]* 
+* *[[Shows/Austin Comedy Hour|Austin Comedy Hour]]*
+* *[[Shows/Block Party|Block Party]]*
+* *[[Shows/Fighting Spirit|Fighting Spirit]]*
+* *[[Shows/The Franchise|The Franchise]]*
+* *[[Shows/The Lab|The Lab]]*
+* *[[Shows/Lights Up!|Lights Up!]]*
+* *[[Shows/The Megaphone Show|The Megaphone Show]]*
+* *[[Shows/The Opener|The Opener]]*
+* *[[Shows/Pass the Mic|Pass the Mic]]*
+* *[[Shows/Plugged|Plugged]]*
+* *[[Shows/Rucker Park|Rucker Park]]*
+* *[[Shows/Stoned vs. Drunk vs. Sober|Stoned vs. Drunk vs. Sober]]*
+* *[[Shows/Student Union|Student Union]]* 
 
 ## Media
 ### Videos
 * [The TNM TourCo playing in Oklahoma City in October 2011.](http://vimeo.com/35453849)
 
 ## More Information
-* [Post about the theater](http://yesandrew.com/2014/03/28/austin-improv-theaters-as-modern-american-humorists-day-5-the-new-movement/) by [[Performers/Andrew Buck]].
+* [Post about the theater](http://yesandrew.com/2014/03/28/austin-improv-theaters-as-modern-american-humorists-day-5-the-new-movement/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Article about TNM ATX](https://austinot.com/the-new-movement-shows/) by Kelli McDonald.

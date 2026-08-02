@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ammon Taylor">Performers/Ammon Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -69,11 +69,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Performers/Jordan T. Maxwell]]</td>
+			<td class="category">[[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Performers/Cindy Page]]</td>
+			<td class="category">[[Performers/Cindy Page|Cindy Page]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
@@ -85,11 +85,11 @@
   --><li style=""><a class="internal-link" href="Creighton Moench">Creighton Moench</a></li><!--
   --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
   --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">Performers/J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="John Mendell">John Mendell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Performers/Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Performers/Rachel Creason</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
   --><li style="" ><a class="internal-link" href="Steve Jaffe">Steve Jaffe</a></li><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Performers/Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style=""><a class="internal-link" href="Kyle Grier">Kyle Grier</a></li><!--
   --><!--
   --><!--

@@ -14,15 +14,15 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Suzanne Link">Performers/Suzanne Link</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Cindy Page">Performers/Cindy Page</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -32,7 +32,7 @@
   --><li style=""><a class="internal-link" href="Andrew Ancy">Andrew Ancy</a></li><!--
   --><li style=""><a class="internal-link" href="Beth Koenig">Beth Koenig</a></li><!--
   --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dave Ronn">Performers/Dave Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dave Ronn">Dave Ronn</a></li><!--
   --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--
   --><li style=""><a class="internal-link" href="Johnny Anzollitto">Johnny Anzollitto</a></li><!--
   --><li style="" ><a class="internal-link" href="Katie Mathews">Katie Mathews</a></li><!--

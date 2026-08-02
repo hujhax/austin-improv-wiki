@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Doran">Performers/Katie Doran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
   --><li style=""><a class="internal-link" href="Mitchell Shotts">Mitchell Shotts</a></li><!--
@@ -81,10 +81,10 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/83437984) by [[Performers/Melissa Patterson]] of their 1/2/14 performance in *[[Shows/The Threefer]]*.
+* [Video](http://vimeo.com/83437984) by [[Performers/Melissa Patterson|Melissa Patterson]] of their 1/2/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
-* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/GOOFS/) by [[Performers/Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/GOOFS/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

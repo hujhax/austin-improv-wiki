@@ -7,13 +7,13 @@ The festival ran from 5/9/12 to 5/12/12 at [[Salvage Vanguard Theater]] and (on 
 
 ## Acts
 ### Local Acts
-* [[Troupes/Adventure Squad!]]
-* [[Troupes/DA Foundry]]
-* [[Troupes/Galactic]]
-* [[Troupes/Girls Girls Girls]]
+* [[Troupes/Adventure Squad!|Adventure Squad!]]
+* [[Troupes/DA Foundry|DA Foundry]]
+* [[Troupes/Galactic|Galactic]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[It's Just Reilly]]
-* [[Troupes/Sarah 7]]
-* [[Troupes/There's Waldo]]
+* [[Troupes/Sarah 7|Sarah 7]]
+* [[Troupes/There's Waldo|There's Waldo]]
 
 ### Out-of-Town Acts
 * The Band Wreckers
@@ -48,8 +48,8 @@ The festival ran from 5/9/12 to 5/12/12 at [[Salvage Vanguard Theater]] and (on 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.358578824205640.86892.221927764537414&type=3) by [[Steve Rogers]] of 5/9/12 (stand-up).
-* [Photoset](http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3) by [[Roy Moore]] of 5/10/12 ([[Troupes/Galactic]], [[Troupes/Adventure Squad]], The Band of Wreckers, stand-up).
-* [Photoset](http://www.facebook.com/media/set/?set=a.363255750404614.87663.221927764537414&type=3) by [[Steve Rogers]] of 5/11/12 ([[Troupes/DA Foundry]], The Bennets, [[Troupes/Girls Girls Girls]]).
+* [Photoset](http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3) by [[Roy Moore]] of 5/10/12 ([[Troupes/Galactic|Galactic]], [[Troupes/Adventure Squad|Adventure Squad]], The Band of Wreckers, stand-up).
+* [Photoset](http://www.facebook.com/media/set/?set=a.363255750404614.87663.221927764537414&type=3) by [[Steve Rogers]] of 5/11/12 ([[Troupes/DA Foundry|DA Foundry]], The Bennets, [[Troupes/Girls Girls Girls|Girls Girls Girls]]).
 * [Photoset](http://www.facebook.com/media/set/?set=a.363289433734579.87673.221927764537414&type=3) by [[Steve Rogers]] of 5/11/12 (Reformed Whores).
 * [Photoset](http://www.facebook.com/media/set/?set=a.363274543736068.87671.221927764537414&type=3) by [[Steve Rogers]] of 5/12/12 (stand-up).
 * [Photoset](http://www.facebook.com/media/set/?set=a.363310977065758.87675.221927764537414&type=3) by [[Steve Rogers]] of 5/12/12 (Skinny Bitch Jesus Meeting).

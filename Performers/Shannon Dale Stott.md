@@ -22,11 +22,11 @@
 **Shannon Dale Stott** is an improv performer.
 
 ## Troupes
-* [[Troupes/The Escorts]]
-* [[Troupes/Super Sweet]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Troupes/Super Sweet|Super Sweet]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/The International Improv Experience]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/The International Improv Experience|The International Improv Experience]]*
 
 [[Category/Performers|Stott]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Revlis.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Troupes/Revlis]].
+Publicity photo for [[Troupes/Revlis|Revlis]].
 
 Photo by: unknown.
 ## Licensing

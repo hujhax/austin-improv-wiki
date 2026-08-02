@@ -19,12 +19,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
   --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Performers/Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Performers/Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
   --><li style=""><a class="internal-link" href="Rick Heineman">Rick Heineman</a></li><!--
   --><li style="" ><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
@@ -85,11 +85,11 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 ## Media
 ### Videos
-* [Video of their 12/9/10 show](http://vimeo.com/17767225)  at *[[Shows/The Threefer]]*.
+* [Video of their 12/9/10 show](http://vimeo.com/17767225)  at *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120821962265.308816.588952264&type=3) by [[Performers/Peter Rogers]] of their 12/9/10 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/12/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120821962265.308816.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/9/10 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/12/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Secret-Senate-Improv/114779638558764)

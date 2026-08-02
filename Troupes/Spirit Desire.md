@@ -81,8 +81,8 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/16/12 performance in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.446455175375983.99833.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 7/14/12 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/16/12 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.446455175375983.99833.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/14/12 performance at [[Salvage Vanguard Theater]].
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/spiritdesirecomedy)

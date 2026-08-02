@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Performers/Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Performers/Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,10 +81,10 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [Rehearsal, casual, and performance photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10101751552506610.3370965.7909117&type=3) by [[Performers/Heidi Rogers]].
+* [Rehearsal, casual, and performance photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10101751552506610.3370965.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]].
 
 ### Videos
-* [Video](http://vimeo.com/44573854) of their 6/21/12 performance in *[[Shows/The Threefer]]*.
+* [Video](http://vimeo.com/44573854) of their 6/21/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

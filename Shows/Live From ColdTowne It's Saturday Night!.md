@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Frank Netscher">Performers/Frank Netscher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -31,6 +31,6 @@
 
 ## More Information
 * [The blogpost announcing ColdTowne's 2014 mainstage season, including this show.](http://www.coldtownetheater.com/blog/announcing-2014-coldtowne-mainstage-season)
-* [Interview](http://thetheftforum.libsyn.com/episode-62-its-saturday-night) by [[Performers/Scott Hearne]] with [[Performers/Frank Netscher]] and [[Performers/Cene Hale]] for *[[The Theft Forum]]*.
+* [Interview](http://thetheftforum.libsyn.com/episode-62-its-saturday-night) by [[Performers/Scott Hearne|Scott Hearne]] with [[Performers/Frank Netscher|Frank Netscher]] and [[Performers/Cene Hale|Cene Hale]] for *[[The Theft Forum]]*.
 
 [[Category/Shows|Category:Shows]]

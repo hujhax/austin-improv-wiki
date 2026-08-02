@@ -25,7 +25,7 @@
 The troupe performs every two Friday, and has been the starting point for many local improvisors.  They rock.
 
 ## History
-Gigglepants was founded in the fall of 2003 by [[Performers/Bryan Cruz]], [[Thai Le]], and [[Tom Glinkowski]]. Alums of [[Troupes/ComedySportz]] High School League in Houston, the troupe is named after their mutual coach Chris "Chim Chim Gigglepants" Craig.
+Gigglepants was founded in the fall of 2003 by [[Performers/Bryan Cruz|Bryan Cruz]], [[Thai Le]], and [[Tom Glinkowski]]. Alums of [[Troupes/ComedySportz|ComedySportz]] High School League in Houston, the troupe is named after their mutual coach Chris "Chim Chim Gigglepants" Craig.
 
 The troupe started performing in the spring semester of 2004.
 
@@ -50,12 +50,12 @@ The troupe started performing in the spring semester of 2004.
 * [[Sarah Farris]]
 * [[William Hahn]]
 * [[Patrick Greer]]
-* [[Performers/Andrew Stier]]
+* [[Performers/Andrew Stier|Andrew Stier]]
 
 ## Original Cast
 * [[Brandon Stackhouse]]
-* [[Performers/Bryan 'LuBu' Roberts]]
-* [[Performers/Bryan Cruz]]
+* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
+* [[Performers/Bryan Cruz|Bryan Cruz]]
 * [[Connor McGee]]
 * [[David Toscano]]
 * [[Jason Dunkelberger]]
@@ -67,24 +67,24 @@ The troupe started performing in the spring semester of 2004.
 
 ## Notable Alums
 * [[Alex Hunt]]
-* [[Performers/Bryan Cruz]]
-* [[Performers/Bryan 'LuBu' Roberts]]
+* [[Performers/Bryan Cruz|Bryan Cruz]]
+* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Cody Melcher]]
-* [[Performers/Colin Thomas Bates]]
+* [[Performers/Colin Thomas Bates|Colin Thomas Bates]]
 * [[David Toscano]]
 * [[Jon Cozart]]
 * [[Kim Espinosa]]
-* [[Performers/Kyle Traughber]]
-* [[Performers/Meghan Wolff]]
+* [[Performers/Kyle Traughber|Kyle Traughber]]
+* [[Performers/Meghan Wolff|Meghan Wolff]]
 * [[Miachel Pruett]]
 * [[Michael Bird]]
 * [[Michael Domangue]]
 * [[Nicholas Marino]]
 * [[Patrick Creamer]]
-* [[Performers/Quinn Buckner]]
+* [[Performers/Quinn Buckner|Quinn Buckner]]
 * [[Thai Le]]
 * [[Tom Glinkowski]]
-* [[Performers/Yamina Khouane]]
+* [[Performers/Yamina Khouane|Yamina Khouane]]
 
 ## N00B clue
 You've worked so hard to get here,
@@ -97,12 +97,12 @@ is on the Noob Show FB event
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/N4fpWQQVdwM) by [[Performers/Warren Henderson]] that includes their 6/12/14 performance in *[[Shows/The Threefer]]*.
+* [Video](http://youtu.be/N4fpWQQVdwM) by [[Performers/Warren Henderson|Warren Henderson]] that includes their 6/12/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3) by [[Roy Moore]] that includes their 11/19/11 performance at [[Wafflefest]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
-* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3) by [[Performers/Warren Henderson]] that includes their 6/12/14 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
+* [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes their 6/12/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 

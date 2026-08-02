@@ -27,11 +27,11 @@ Mike was was one of the producers of [[The Out Of Bounds Comedy Festival]] from 
 In 2006, he moved away to Los Angeles.
 
 ## Troupes
-* [[Troupes/Gravy]]
-* [[Troupes/The Heroes of Comedy]]
-* [[Troupes/The Knuckleball Now]]
+* [[Troupes/Gravy|Gravy]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 
 ## More Information
-* [Interview](http://yesandrew.com/2013/06/16/the-sunday-interview-mike-dalonzo/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2013/06/16/the-sunday-interview-mike-dalonzo/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|D'Alonzo]]

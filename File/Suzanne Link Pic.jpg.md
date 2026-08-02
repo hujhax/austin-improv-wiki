@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Suzanne Link Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Suzanne Link]], in the 5/2/15 performance of *[[Shows/Golden (mainstage)|Golden]]*.
+[[Performers/Suzanne Link|Suzanne Link]], in the 5/2/15 performance of *[[Shows/Golden (mainstage)|Golden]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.954997724563744.1073742189.221927764537414).
 

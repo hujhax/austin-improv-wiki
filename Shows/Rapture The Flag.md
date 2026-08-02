@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
@@ -27,10 +27,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Performers/Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Performers/Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
   --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
   --><li style=""><a class="internal-link" href="Teresa Kubos York">Teresa Kubos York</a></li><!--
   --><!--

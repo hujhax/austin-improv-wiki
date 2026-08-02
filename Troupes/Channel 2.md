@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Performers/Margaret Rose Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Performers/Tyler Lane</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Mason Pitluk">Mason Pitluk</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Donna Rice">Performers/Donna Rice</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Donna Rice">Donna Rice</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Channel 2** is an improv troupe created by [[Performers/Tyler Lane]] in the Fall of 2015. 
+**Channel 2** is an improv troupe created by [[Performers/Tyler Lane|Tyler Lane]] in the Fall of 2015. 
 
 ## Summary
 Channel 2 creates a unique movie with each performance, drawing inspiration from a randomly generated Netflix micro-genre.
@@ -84,11 +84,11 @@ In Channel 2's debut performance, the gang created an "Underdog Mind-Bending Moc
 
 **Oct. 22, 2015 - Hideout Threefer**
 
-Channel 2 appeared in the Oct. 22nd Threefer alongside [[Troupes/Minority Report]] and [[Troupes/SSHH]], performing a "Mistaken Identity Vigilante Satire".
+Channel 2 appeared in the Oct. 22nd Threefer alongside [[Troupes/Minority Report|Minority Report]] and [[Troupes/SSHH|SSHH]], performing a "Mistaken Identity Vigilante Satire".
 
 **Nov. 1, 2015 - Hideout Weekender**
 
-Channel 2 headlined the Hideout Weekender performing an "Evil Kid Fairy Tale" in a show scored by [[Performers/Tosin awofeso]].
+Channel 2 headlined the Hideout Weekender performing an "Evil Kid Fairy Tale" in a show scored by [[Performers/Tosin awofeso|Tosin awofeso]].
 
 
 

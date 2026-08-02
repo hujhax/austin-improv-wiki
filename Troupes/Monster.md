@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -72,7 +72,7 @@
 
 *Monster* is an improv duo, focusing on working with silence, physicality, and clowning. They have performed at [[Salvage Vanguard Theater]] and the [[Institution Theater]]'s [[Impromp-Two]] show.
 
-The performers are Chum and Crumpet ([[Performers/Marc Majcher]] and [[Performers/Jayme Ramsay]]).
+The performers are Chum and Crumpet ([[Performers/Marc Majcher|Marc Majcher]] and [[Performers/Jayme Ramsay|Jayme Ramsay]]).
 
 
 [[Category/Troupes|Category:Troupes]]

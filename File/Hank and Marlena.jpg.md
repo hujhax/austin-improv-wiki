@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Hank and Marlena.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Photo of [[Tyler Reece Booker]] and [[Performers/Taylor Overstreet]] as [[Troupes/Hank and Marlena]].
+Photo of [[Tyler Reece Booker]] and [[Performers/Taylor Overstreet|Taylor Overstreet]] as [[Troupes/Hank and Marlena|Hank and Marlena]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

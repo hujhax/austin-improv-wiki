@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Performers/Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
   --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Dragons?** was a one-off *[[Shows/Cagematch]]* team.
+**Dragons?** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one exhibition Cagematch on 7/3/10 and a "King of the Hill"-style match on 9/25/10.

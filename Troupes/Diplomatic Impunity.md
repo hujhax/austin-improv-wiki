@@ -14,17 +14,17 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amber Shae">Amber Shae</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style=""><a class="internal-link" href="Dee Ann Asbury">Dee Ann Asbury</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Reid O'Conor">Reid O'Conor</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Performers/Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -113,7 +113,7 @@ The troupe played a few times at ColdTowne before disbanding.
 * [Photoset of a performance](http://www.facebook.com/leng.wong.94/media_set?set=a.1944666862538.119532.1418500568&type=3).
 * [Photoset](http://www.steve-rogers-photography.com/ImprovPerformances/Diplomatic-Impunity/Diplomatic-Impunity-April-9/) by [[Steve Rogers]] of their 4/9/11 show.
 * [http://www.facebook.com/SteveRogers1212/media_set?set=a.124227794324919.31566.100002130980897&type=3Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.124227794324919.31566.100002130980897&type=3Photoset) by [[Steve Rogers]] of their 5/16/11 show at [[Coldtowne Theater]].
-* [http://www.facebook.com/SteveRogers1212/media_set?set=a.155449507869414.41668.100002130980897&type=3Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.155449507869414.41668.100002130980897&type=3Photoset) by [[Steve Rogers]] of their 8/8/11 performance in *[[Shows/The Monday Night Mash]]*.
+* [http://www.facebook.com/SteveRogers1212/media_set?set=a.155449507869414.41668.100002130980897&type=3Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.155449507869414.41668.100002130980897&type=3Photoset) by [[Steve Rogers]] of their 8/8/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 ## More Information
 * [Casting announcement](http://forum.austinimprov.com/viewtopic.php?t=11668) on [[The Austin Improv Forums]].

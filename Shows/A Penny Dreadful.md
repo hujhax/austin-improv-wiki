@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/David Schwartz">Performers/David Schwartz</a></td>
+			<td class="category"><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -26,13 +26,13 @@
   --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
   --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
   --><li style=""><a class="internal-link" href="Charlie Hoehn">Charlie Hoehn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Performers/Jeremy Moran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Performers/Margaret Rose Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Performers/Rosemarie Frezza</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Seth Johnson">Performers/Seth Johnson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Theo Daley">Performers/Theo Daley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Theo Daley">Theo Daley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,9 +78,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Performers/Tyler Lane</a> (lighting)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a> (lighting)</li><!--
   --><li style=""><a class="internal-link" href="Paul Weiner">Paul Weiner</a> (sound)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Reed">Performers/Mike Reed</a> (music)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Reed">Mike Reed</a> (music)</li><!--
   --><!--
   --><!--
   --><!--
@@ -163,8 +163,8 @@ From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - B
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.861837887213062.1073742124.221927764537414&type=3) by [[Steve Rogers]] of the 12/13/14 performance.
-* [Photoset](http://cwcreations.smugmug.com/Improv-2014/A-Penny-Dreadful/20150110) by [[Performers/Chad Wellington]] of the 1/10/15 performance.
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208136399394142.1073741877.1425495839&type=3) by [[Performers/Jay Mahavier]] of their 9/24/15 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/A-Penny-Dreadful/20150110) by [[Performers/Chad Wellington|Chad Wellington]] of the 1/10/15 performance.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208136399394142.1073741877.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of their 9/24/15 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Videos
 * Video of their 12/6/15 show: [part 1](http://vimeo.com/148085939), [part 2](http://vimeo.com/148123314).
@@ -172,7 +172,7 @@ From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - B
 ## More Information
 * [The show announcement](http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014) on the Hideout's web site.
 * [The cast announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17711) on [[The Austin Improv Forums]].
-* [Hideout blogpost](http://www.hideouttheatre.com/a-penny) by [[Performers/Troy Miller]] detailing his inspirations for the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/a-penny) by [[Performers/Troy Miller|Troy Miller]] detailing his inspirations for the production.
 * [Hideout blogpost](http://www.keyetv.com/lifestyle/features/austin-lifestyle/stories/hideout-theater-722.shtml) advertising the final performance.
 
 [[Category/Shows|Penny Dreadful]]

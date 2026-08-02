@@ -25,9 +25,9 @@ Drew Wesely graduated from the University of California at Berkeley. He began cl
 
 From 2016 to 2017, Drew took classes at [[The New Movement Theater]] (Austin), and graduated in early 2018 as the first graduating class of Fallout Theater (TNM Austin transformed into Fallout in February 2018). In May 2018, he was hired as an improv teacher at the new [[Fallout Theater]] and has been on the faculty since. He currently teaches Fallout's weekly Intro to Improv Level 0 class every Thursday at 6pm. Since 2017 he has worked as a Front of House Manager on staff at Fallout Theater, including during SXSW and [[Austin Sketch Fest]]. As of 2022 Drew Wesely is one of the few improv instructors who have taught at both ColdTowne Conservatory and Fallout simultaneously.  
 
-He has attended improv workshops/received coaching from: UCB (including instruction from Matt Besser, Ian Walsh, Neil Casey, Brandon Gardner, Shannon O'Neill, Will Storie, Alan Starzinski, and Jonny Svarzbein), The Annoyance (Mark Sutton), iO (Liz Allen, Jet Eveleth, Craig Cackowski, Eric Hunicutt, Craig Uhlir, Karen Graci, Dave Hill, Matt Jones) and The New Movement ([[Chris Trew]], [[Tami Nelson]], and Anthony Ellison). He has been on improv troupes coached by [[Performers/Dave Buckman]] (Boom Chicago), [[Performers/Tom Booker]] (iO/The Annoyance/The Institution), [[Performers/Arthur Simone]], [[Performers/Michael Jastroch]], [[Performers/Cody Dearing]], [[Performers/Roy Janik]], [[Performers/Ashley Nugent]], [[Performers/Clifton Highfield]], [[Will Cleveland]], [[Performers/John Ratliff]], [[Brent Foshee]], [[Performers/Lance Gilstrap]], [[Performers/Aden Kirschner]], and [[Performers/Jericho Thorpe]]. He once performed standup in "The Mothup", delivering an impromptu monologue. 
+He has attended improv workshops/received coaching from: UCB (including instruction from Matt Besser, Ian Walsh, Neil Casey, Brandon Gardner, Shannon O'Neill, Will Storie, Alan Starzinski, and Jonny Svarzbein), The Annoyance (Mark Sutton), iO (Liz Allen, Jet Eveleth, Craig Cackowski, Eric Hunicutt, Craig Uhlir, Karen Graci, Dave Hill, Matt Jones) and The New Movement ([[Chris Trew]], [[Tami Nelson]], and Anthony Ellison). He has been on improv troupes coached by [[Performers/Dave Buckman|Dave Buckman]] (Boom Chicago), [[Performers/Tom Booker|Tom Booker]] (iO/The Annoyance/The Institution), [[Performers/Arthur Simone|Arthur Simone]], [[Performers/Michael Jastroch|Michael Jastroch]], [[Performers/Cody Dearing|Cody Dearing]], [[Performers/Roy Janik|Roy Janik]], [[Performers/Ashley Nugent|Ashley Nugent]], [[Performers/Clifton Highfield|Clifton Highfield]], [[Will Cleveland]], [[Performers/John Ratliff|John Ratliff]], [[Brent Foshee]], [[Performers/Lance Gilstrap|Lance Gilstrap]], [[Performers/Aden Kirschner|Aden Kirschner]], and [[Performers/Jericho Thorpe|Jericho Thorpe]]. He once performed standup in "The Mothup", delivering an impromptu monologue. 
 
-Drew Wesely created and operates [[Shows/Drew's Improv Gym]], a weekly coached improv jam, which is a hybrid of an open improv jam and a drop-in improv class. In 2016 a team called "Wreck Center", which took its name from the team members meeting at Drew's Gym at Austin Rec Center, was coached by Drew Wesely to victory in the ColdTowne Cagematch. Currently Drew's Gym Jam happens at 7pm every Friday at 2008 Justin Lane, immediately followed by the ColdTowne Jam which Drew Wesely also manages. 
+Drew Wesely created and operates [[Shows/Drew's Improv Gym|Drew's Improv Gym]], a weekly coached improv jam, which is a hybrid of an open improv jam and a drop-in improv class. In 2016 a team called "Wreck Center", which took its name from the team members meeting at Drew's Gym at Austin Rec Center, was coached by Drew Wesely to victory in the ColdTowne Cagematch. Currently Drew's Gym Jam happens at 7pm every Friday at 2008 Justin Lane, immediately followed by the ColdTowne Jam which Drew Wesely also manages. 
 
 He performed a minor role in a scene with Ashley Judd in the motion picture **High Crimes** as "Marine", and was a background actor/dancer in the film **Desert Bloom** with Jon Voight.
 
@@ -38,20 +38,20 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 
 
 ## Past Improv Troupes
-* [[Troupes/Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB five times, four times in UCBT's DCM, and Chicago Improv Festival)
-* [[Troupes/What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
-* [[Troupes/Lucky Billy]] - Fallout Theater improv troupe (Performed in UCBT's DCM)
-* *[[Shows/TIT Talks]]* - An improvised solo monologue performed in [[The Moontower Comedy Festival]] and Fun Fun Fun Fest
-* [[Troupes/Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
-* [[Troupes/Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
-* [[Troupes/Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
-* [[Troupes/Kingston]] - ColdTowne improv troupe (captain) 
+* [[Troupes/Nice Astronaut|Nice Astronaut]] - improv & sketchprov troupe  (Performed in OOB five times, four times in UCBT's DCM, and Chicago Improv Festival)
+* [[Troupes/What's the Story, Steve|What's the Story, Steve]] - improv and sketchprov troupe (Performed in OOB)
+* [[Troupes/Lucky Billy|Lucky Billy]] - Fallout Theater improv troupe (Performed in UCBT's DCM)
+* *[[Shows/TIT Talks|TIT Talks]]* - An improvised solo monologue performed in [[The Moontower Comedy Festival]] and Fun Fun Fun Fest
+* [[Troupes/Unfurled|Unfurled]] - improv troupe (Performed in TCIF, NCCAF, OOB and twice in NOIF)
+* [[Troupes/Achatina Achatina|Achatina Achatina]] - Cagematch Champion (Performed in OOB twice)
+* [[Troupes/Array|Array]] - JTS Brown format troupe (Coached by Craig Cackowski, Dave Buckman, and Cody Dearing)
+* [[Troupes/Kingston|Kingston]] - ColdTowne improv troupe (captain) 
 * [[Foreign Affairs]] - improv troupe (Cagematch Championship winning team Dec. 2015)
-* [[Troupes/Who Dack]] - improv troupe (captain)
-* [[Troupes/Delta Force of Venus]] - improv troupe (captain)
-* [[Shows/Stool Pigeon]] - performer
-* [[Troupes/UpTowne]] - sketch actor/writer
-* [[Troupes/Lifeboat]] - Cagematch champion
+* [[Troupes/Who Dack|Who Dack]] - improv troupe (captain)
+* [[Troupes/Delta Force of Venus|Delta Force of Venus]] - improv troupe (captain)
+* [[Shows/Stool Pigeon|Stool Pigeon]] - performer
+* [[Troupes/UpTowne|UpTowne]] - sketch actor/writer
+* [[Troupes/Lifeboat|Lifeboat]] - Cagematch champion
 * [[First United Methodist Church of Plano Youth Group Improv]] (Cagematch team)
 * [[The Draft]]
 * [[ColdTowne Allstars]]
@@ -60,11 +60,11 @@ He performed a minor role in a scene with Ashley Judd in the motion picture **Hi
 * *[[Austin Translation]]* (Assistant Director)
 * *[[Townsville]]* comedic play - actor, writer  (Performed in Frontera Fest)
 * *[[The Alamo Drewhouse presents Dinner & A Drewvie]]* (Director/Producer)
-* *[[Shows/TGIS]]*
-* *[[Shows/The Organ Trail]]*
-* *[[Shows/Late Night Down]]*
-* *[[Shows/Indy Movies]]*
-* *[[Shows/Victrola]]* (The Bat format) (Performed in Frontera Fest)
+* *[[Shows/TGIS|TGIS]]*
+* *[[Shows/The Organ Trail|The Organ Trail]]*
+* *[[Shows/Late Night Down|Late Night Down]]*
+* *[[Shows/Indy Movies|Indy Movies]]*
+* *[[Shows/Victrola|Victrola]]* (The Bat format) (Performed in Frontera Fest)
 
 ## External Links
 * [Drew's Gym Instagram](https://www.instagram.com/drewimprovgym/?hl=en) 

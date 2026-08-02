@@ -19,34 +19,34 @@
 	</table>
 </div>
 
-**Justin Bozied** (formerly Justin Davis) is an improv performer, director, and teacher. He first took classes at [[The Hideout Theatre]] from 2006 to 2007. Justin was a founding member of [[Troupes/The Starter Kit]], an improv troupe that lasted four and a half years before splitting up mainly due to multiple members moving away from Austin. A decided shift in his performing style happened around this time, and he pursued more opportunities behind the scenes as a director, producer, creator, and instructor.  
+**Justin Bozied** (formerly Justin Davis) is an improv performer, director, and teacher. He first took classes at [[The Hideout Theatre]] from 2006 to 2007. Justin was a founding member of [[Troupes/The Starter Kit|The Starter Kit]], an improv troupe that lasted four and a half years before splitting up mainly due to multiple members moving away from Austin. A decided shift in his performing style happened around this time, and he pursued more opportunities behind the scenes as a director, producer, creator, and instructor.  
 
 ## Troupes
-* [[Troupes/Je Ju]]
-* [[Troupes/The Library]]
-* [[Shows/The Professor]] (creator, director, 2011-2012)
-* [[Troupes/Century]]
-* [[Troupes/The Starter Kit]]
-* [[Troupes/The Asides]]
-* [[Troupes/Mr. Rather]]
+* [[Troupes/Je Ju|Je Ju]]
+* [[Troupes/The Library|The Library]]
+* [[Shows/The Professor|The Professor]] (creator, director, 2011-2012)
+* [[Troupes/Century|Century]]
+* [[Troupes/The Starter Kit|The Starter Kit]]
+* [[Troupes/The Asides|The Asides]]
+* [[Troupes/Mr. Rather|Mr. Rather]]
 
 ## Shows
-* *[[Shows/The Black Vault]]*
-* *[[Shows/Ka-Baam!!]]*
+* *[[Shows/The Black Vault|The Black Vault]]*
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Magna Veritas]]*
-* *[[Shows/The Next Chapter]]* (creator, director, and performer)
-* *[[Shows/You Think You're So Smart]]* (creator, director, and performer)
-* *[[Shows/Spirited]]*
-* *[[Shows/Start Trekkin']]*
+* *[[Shows/The Next Chapter|The Next Chapter]]* (creator, director, and performer)
+* *[[Shows/You Think You're So Smart|You Think You're So Smart]]* (creator, director, and performer)
+* *[[Shows/Spirited|Spirited]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[The Birthday Clusterfunk]]* (host and producer)
-* *[[Shows/The Rubber Room]]* (performer and producer)
-* *[[Shows/This American Live]]* (guest storyteller)
-* *[[Shows/Maestro]]* (2000-) (director, performer)
-* ''[[Shows/The Nightmare Video Project]]
-* ''[[Shows/Pick Your Own Path]]
+* *[[Shows/The Rubber Room|The Rubber Room]]* (performer and producer)
+* *[[Shows/This American Live|This American Live]]* (guest storyteller)
+* *[[Shows/Maestro|Maestro]]* (2000-) (director, performer)
+* ''[[Shows/The Nightmare Video Project|The Nightmare Video Project]]
+* ''[[Shows/Pick Your Own Path|Pick Your Own Path]]
 * ''[[The Tribunal]]
-* ''[[Shows/Holy 1960s Batman, Batman!]] (guest villain)
+* ''[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]] (guest villain)
 
 [[Category/Performers|Davis]]
 [[Category/Teachers|Davis]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Liz Brammer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Liz Brammer]], in the 2/3/12 performance of *[[Shows/Steam]]*.
+[[Performers/Liz Brammer|Liz Brammer]], in the 2/3/12 performance of *[[Shows/Steam|Steam]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.290146614382195.72625.221927764537414&type=3).
 ## Licensing

@@ -19,10 +19,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style=""><a class="internal-link" href="Matthew Arisheh Falkenberg">Matthew Arisheh Falkenberg</a></li><!--
   --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Performers/Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
   --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
   --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
   --><li style=""><a class="internal-link" href="Ripley Adams">Ripley Adams</a></li><!--
@@ -81,7 +81,7 @@
 The Special Features have played at [[The Hideout Theatre]] and [[Coldtowne Theater]].
 
 ## Media
-* [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Special Features]]
 [[Category/Active|Special Features]]

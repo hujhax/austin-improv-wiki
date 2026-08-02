@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Antique Limax.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Antique Limax]].
+Publicity image for [[Troupes/Antique Limax|Antique Limax]].
 
 Photo by: unknown.
 

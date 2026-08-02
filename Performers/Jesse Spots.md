@@ -38,7 +38,7 @@ Upon completion of that series, Jesse moved to New Orleans where he currently re
 ## Troupes
 * [[Deathbag]] (2011)
 * [[New Movement TourCo]] (2011)
-* [[Shows/Rucker Park]] (2013)
+* [[Shows/Rucker Park|Rucker Park]] (2013)
 * [[Remote Viewing]] (2013)
 
 

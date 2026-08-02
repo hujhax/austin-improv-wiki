@@ -76,25 +76,25 @@
 Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in March of 2012. Since then she has become a TA at the Hideout and has performed at all five improv theaters in Austin.
 
 ## Troupes
-* [[Troupes/Beach Ball Concussion]] (2013)
-* [[Troupes/Infotainment]] (2013)
-* [[Troupes/Golden]]
-* [[Troupes/Minority Report]]
-* [[Troupes/Things We Don't Speak Of]] (2015-2016)
+* [[Troupes/Beach Ball Concussion|Beach Ball Concussion]] (2013)
+* [[Troupes/Infotainment|Infotainment]] (2013)
+* [[Troupes/Golden|Golden]]
+* [[Troupes/Minority Report|Minority Report]]
+* [[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]] (2015-2016)
 * [[AJAR]]
 * [[Cupcake Compadres]]
 * [[Garage]]
 * [[MANIC PIXIE STIX]]
 
 ## Shows
-* *[[Shows/A Penny Dreadful]]*
-* *[[Shows/Fiasco]]*
+* *[[Shows/A Penny Dreadful|A Penny Dreadful]]*
+* *[[Shows/Fiasco|Fiasco]]*
 * *[[Shows/Golden (mainstage)|Golden]]*
-* *[[Shows/Happily Ever After]]* (stage manager)
-* *[[Shows/Home for the Holidays]]*
-* *[[Shows/Control Issues]]*
+* *[[Shows/Happily Ever After|Happily Ever After]]* (stage manager)
+* *[[Shows/Home for the Holidays|Home for the Holidays]]*
+* *[[Shows/Control Issues|Control Issues]]*
 * *[[2016 Student Appreciation Show]]* (director/producer)
-* *[[Shows/Process]]* (stage manager)
+* *[[Shows/Process|Process]]* (stage manager)
 * *[[Speak No More]]*
 
 ## Festivals

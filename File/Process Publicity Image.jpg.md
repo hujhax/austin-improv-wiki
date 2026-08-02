@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Process Publicity Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Shows/Process]]*, featuring [[Performers/Jeremy Sweetlamb]] (snarling).
+Publicity image for *[[Shows/Process|Process]]*, featuring [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] (snarling).
 
 Photos by: unknown.
 
-Art by: [[Performers/Kaci Beeler]].
+Art by: [[Performers/Kaci Beeler|Kaci Beeler]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

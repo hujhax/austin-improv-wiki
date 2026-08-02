@@ -19,11 +19,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Performers/Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 	</table>
 </div>
 
-: *This page refers to the narrative troupe in which each player improvised in the style of a particular playwright.  For the narrative troupe in which each player improvises in a particular genre, see [[Troupes/The Library]].*
+: *This page refers to the narrative troupe in which each player improvised in the style of a particular playwright.  For the narrative troupe in which each player improvises in a particular genre, see [[Troupes/The Library|The Library]].*
 
 **The Plagiarists** were a narrative improv troupe in which each participant adopted the style of a different playwright.
 
@@ -86,18 +86,18 @@ This is their bio from the web site for [[The 2011 Improvised Play Festival]]:
 ### The Cast's Styles
 Each cast member acted in the style of a particular playwright, as follows:
 
-* [[Performers/Asaf Ronen]] -- [[Wikipedia - Samuel Beckett|Samuel Beckett]]
-* [[Performers/Jon Clinkenbeard]] -- [[Wikipedia - Sam Shepard|Sam Shepard]]
-* [[Performers/Kacey Samiee]] -- [[Wikipedia - A. R. Gurney|A. R. Gurney]]
-* [[Performers/Kristin Firth]] -- [[Wikipedia - John Guare|John Guare]]
-* [[Performers/Marc Majcher]] -- [[Wikipedia - Eric Bogosian|Eric Bogosian]]
+* [[Performers/Asaf Ronen|Asaf Ronen]] -- [[Wikipedia - Samuel Beckett|Samuel Beckett]]
+* [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]] -- [[Wikipedia - Sam Shepard|Sam Shepard]]
+* [[Performers/Kacey Samiee|Kacey Samiee]] -- [[Wikipedia - A. R. Gurney|A. R. Gurney]]
+* [[Performers/Kristin Firth|Kristin Firth]] -- [[Wikipedia - John Guare|John Guare]]
+* [[Performers/Marc Majcher|Marc Majcher]] -- [[Wikipedia - Eric Bogosian|Eric Bogosian]]
 
 ## Media
 ### Videos
 * [Video of their performance](http://vimeo.com/26118195) at [[The 2011 Improvised Play Festival]].
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/7/10 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447239482264.218623.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/28/10 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447239482264.218623.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/28/10 show.
 
 ## More Information
 [[Category/Troupes|Plagiarists]]

@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christopher Allen">Performers/Christopher Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christopher Allen">Christopher Allen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,7 +79,7 @@ Their press blurb, taken from a 2011 application to perform at [[The Hideout The
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote><p>We brainstorm and rehearse all sorts of formats to find the ones we like.</p> 
 
-<p>For our first *[[Shows/Threefer]]*, we opened with a lipsynching of Elton John and Kee-Kee-Dee's "Don't Go Breaking My Heart" and then rolled into a series of improv games (without telling the audience) including a game we invented.</p> 
+<p>For our first *[[Shows/Threefer|Threefer]]*, we opened with a lipsynching of Elton John and Kee-Kee-Dee's "Don't Go Breaking My Heart" and then rolled into a series of improv games (without telling the audience) including a game we invented.</p> 
 
 <p>We ended with a lipsych of a Conway Twitty/Loretta Lynn song.</p></blockquote>
 

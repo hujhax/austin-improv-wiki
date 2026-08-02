@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Performers/Alex Dobrenko</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,12 +79,12 @@ When Alex moved away to Los Angeles in 2014, the duo went on hiatus.
 
 ## Media
 ### Videos
-* [Video of their 12/7/12 show](http://vimeo.com/56966436) at *[[Shows/The Threefer]]*.
+* [Video of their 12/7/12 show](http://vimeo.com/56966436) at *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3) by [[Michael Yew]] that includes a performance in *[[Shows/PGraph Presents]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3) by [[Michael Yew]] that includes a performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577413992107.1073741849.549002106&type=3) by [[Performers/Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577413992107.1073741849.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/doyoustillwanttodothis)

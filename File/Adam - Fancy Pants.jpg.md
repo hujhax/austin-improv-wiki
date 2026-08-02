@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Adam - Fancy Pants.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Adam Mengesha]] (waving), playing in the 12/7/12 performance of *[[Shows/The Fancy-Pants Mashup]]*.
+[[Performers/Adam Mengesha|Adam Mengesha]] (waving), playing in the 12/7/12 performance of *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*.
 
 Photo by [[Michael Yew]], from [this photoset](http://www.facebook.com/media/set/?set=a.3924513274024.138866.1315383518&type=1).
 ## Licensing

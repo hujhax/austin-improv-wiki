@@ -9,7 +9,7 @@ The mixers originally took place at the [[Salvage Vanguard Theater]], but since 
 
 They have always been a monthly event; currently, they take place on the first Saturday of the month at 2pm.
 
-A mixer usually lasts between 1½ and 2 hours.  For the first half-hour or so, a [[Merlin Works]] teacher (typically [[Performers/Shana Merlin]]) leads attendees in group warm-ups.  Then the attendees are split into mini ad-hoc troupes, and each such troupe performs a short montage set, with light direction from the teacher.
+A mixer usually lasts between 1½ and 2 hours.  For the first half-hour or so, a [[Merlin Works]] teacher (typically [[Performers/Shana Merlin|Shana Merlin]]) leads attendees in group warm-ups.  Then the attendees are split into mini ad-hoc troupes, and each such troupe performs a short montage set, with light direction from the teacher.
 
 Sometimes local improv directors scout for talent at the mixers, or announce projects to the attendees to connect with people interested in participating.
 
@@ -20,8 +20,8 @@ They went on hiatus through late 2012 and early 2013, as [[Merlin Works]] comple
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.441741597264.214518.588952264&type=3) by [[Performers/Peter Rogers]] of the 5/16/10 mixer.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150265172502265.371165.588952264&type=3) by [[Performers/Peter Rogers]] of the 5/15/11 mixer.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150344124197265.394763.588952264&type=3) by [[Performers/Peter Rogers]] of the 7/31/11 mixer.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.441741597264.214518.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/16/10 mixer.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150265172502265.371165.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/15/11 mixer.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150344124197265.394763.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/31/11 mixer.
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]

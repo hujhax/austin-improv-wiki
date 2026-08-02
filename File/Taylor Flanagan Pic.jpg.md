@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Taylor Flanagan Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Taylor Flanagan]], performing with *[[Shows/Fakespeare]]* in [[The 45-Hour Improv Marathon]].
+[[Performers/Taylor Flanagan|Taylor Flanagan]], performing with *[[Shows/Fakespeare|Fakespeare]]* in [[The 45-Hour Improv Marathon]].
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.756193911110794.1073742024.221927764537414&type=1).
 

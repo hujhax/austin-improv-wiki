@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The ReSet Project.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity poster for *[[Shows/The ReSet Project]]*.
+Publicity poster for *[[Shows/The ReSet Project|The ReSet Project]]*.
 
 Photos of [[Jessica Salinas]] by: unknown.
 

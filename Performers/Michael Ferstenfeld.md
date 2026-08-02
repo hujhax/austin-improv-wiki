@@ -25,29 +25,29 @@
 Michael is the co-founder and artistic director of [Dystheatre](http://dystheatre.com), co-creator of [The Exquisite Zombies](http://wiki.exquisitezombies.com), an [e-learning and digital media](http://www.pointandclickstudios.com) guy, and a teacher of Singing Improv at [[Merlin Works]], with the occasional elective at [[The Hideout Theatre]] and [[Institution Theater]].
 
 ## Active Troupes
-* [[Troupes/Confidence Men]]
-* [[Troupes/Happiness is a Choice]]
-* [[Troupes/A Bunch of Liars]]
-* [[Troupes/The Band of Liars]]
-* [[Shows/The Professor]]
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/Happiness is a Choice|Happiness is a Choice]]
+* [[Troupes/A Bunch of Liars|A Bunch of Liars]]
+* [[Troupes/The Band of Liars|The Band of Liars]]
+* [[Shows/The Professor|The Professor]]
 
 ## Inactive Troupes
-* [[Troupes/Double Dutch]]
-* [[Troupes/Ed 32]]
-* [[Troupes/Goat]]
+* [[Troupes/Double Dutch|Double Dutch]]
+* [[Troupes/Ed 32|Ed 32]]
+* [[Troupes/Goat|Goat]]
 * [[Short & Sweet]]
-* [[Troupes/The Polite Society]]
+* [[Troupes/The Polite Society|The Polite Society]]
 
 
 ## Shows
-* *[[Shows/Fakespeare]]* (Balthasar/Borachio/Banquo)
-* *[[Shows/Gorilla Theatre]]*
+* *[[Shows/Fakespeare|Fakespeare]]* (Balthasar/Borachio/Banquo)
+* *[[Shows/Gorilla Theatre|Gorilla Theatre]]*
 * *[[Key Party]]*
-* *[[Shows/Start Trekkin']]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[This Week Tonight]]*
-* *[[Shows/This American LIVE!]]* (Not Ira Glass)
-* *[[Shows/Late Night Time Machine]]* (Young Einstein)
-* *[[Shows/Tarantula]]*
+* *[[Shows/This American LIVE!|This American LIVE!]]* (Not Ira Glass)
+* *[[Shows/Late Night Time Machine|Late Night Time Machine]]* (Young Einstein)
+* *[[Shows/Tarantula|Tarantula]]*
 
 [[Category/Performers|Ferstenfeld]]
 [[Category/Directors|Ferstenfeld]]

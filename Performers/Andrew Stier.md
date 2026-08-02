@@ -77,13 +77,13 @@ Andrew Stier is an Austin improv performer and director. He moved to Austin in 2
 
 ## Troupes
 * [[Butterfly Defect]] (Director, co-founder)
-* [[Troupes/GigglePants]] (Vice Captain 2013-2014)
+* [[Troupes/GigglePants|GigglePants]] (Vice Captain 2013-2014)
 * [[Seltzer]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]* (2019)
+* *[[Shows/Austin Secrets|Austin Secrets]]* (2019)
 * *[[Super Team]]* (Director)
-* *[[Shows/Maestro]]* (Director)
+* *[[Shows/Maestro|Maestro]]* (Director)
 * *[[Silly Love Songs]]*
 
 ## Awards

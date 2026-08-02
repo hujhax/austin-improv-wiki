@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Michael Domangue">Michael Domangue</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Breese">Mike Breese</a></li><!--
   --><li style=""><a class="internal-link" href="Vanessa Gonzalez">Vanessa Gonzalez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Performers/Yamina Khouane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--
   --><!--

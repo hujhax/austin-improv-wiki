@@ -25,41 +25,41 @@
 Bryan (also referred to as "Lubu") performs regularly at [[Coldtowne Theater]] and occasionally at Austin's other improv theaters.
 He was additionally a company member of [[Gnap! Theater Projects]]. 
 
-Bryan originally began working as a contributor to Gnap!'s [[No Shame Theater]], regularly providing comedy sketches. Shortly afterward, he joined [[Troupes/GigglePants]] as a member of its inaugural cast and began performing shortform improv. In 2006, he began classes at Coldtowne Theater, eventually emerging as a member of its first graduating class of improvisers (along with [[Performers/Cody Dearing]], [[Michael Williams]], and [[Joel Keith]]). He was also a member of [[Troupes/Look Cookie]], Coldtowne's first student troupe, and is the only member of the [[Coldtowne Mainstage]] cast to appear in all five Mainstage revues. In 2009 and 2010, he directed *[[Shows/Guilds Of Steel]]*, a show he created for Gnap!, to critical acclaim.
+Bryan originally began working as a contributor to Gnap!'s [[No Shame Theater]], regularly providing comedy sketches. Shortly afterward, he joined [[Troupes/GigglePants|GigglePants]] as a member of its inaugural cast and began performing shortform improv. In 2006, he began classes at Coldtowne Theater, eventually emerging as a member of its first graduating class of improvisers (along with [[Performers/Cody Dearing|Cody Dearing]], [[Michael Williams]], and [[Joel Keith]]). He was also a member of [[Troupes/Look Cookie|Look Cookie]], Coldtowne's first student troupe, and is the only member of the [[Coldtowne Mainstage]] cast to appear in all five Mainstage revues. In 2009 and 2010, he directed *[[Shows/Guilds Of Steel|Guilds Of Steel]]*, a show he created for Gnap!, to critical acclaim.
 
-On December 1, 2007, a special "Maestro of Maestros" edition of the [[Hideout Theatre]]'s popular [[Shows/Maestro]] show was performed, directed by [[Performers/Shana Merlin]] and [[Performers/Andy Crouch]], and containing a cast of only previous Maestro winners. Bryan won the title, defeating [[Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
+On December 1, 2007, a special "Maestro of Maestros" edition of the [[Hideout Theatre]]'s popular [[Shows/Maestro|Maestro]] show was performed, directed by [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Andy Crouch|Andy Crouch]], and containing a cast of only previous Maestro winners. Bryan won the title, defeating [[Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
 
-Bryan currently maintains the comedy website ghettosketchwarlock.com and performs as [[Troupes/Ghetto Sketch Warlock]]. He additionally performs with [[Troupes/The Tastemakers]], [[Shows/Stool Pigeon]], and [[Troupes/Boss]].
+Bryan currently maintains the comedy website ghettosketchwarlock.com and performs as [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]]. He additionally performs with [[Troupes/The Tastemakers|The Tastemakers]], [[Shows/Stool Pigeon|Stool Pigeon]], and [[Troupes/Boss|Boss]].
 
 ### The First Improv Show He Saw
 A post from him about the first improv show he ever saw:<blockquote><p>I was in the first one I ever saw. UIL competition at Bryan High School in 2000. Group Improv was an optional event(you signed up when you got there) and so me and a few other guys from my Speech Team went for it.</p> 
 
-<p>If that doesn't count, then it's got to be [[Troupes/Ed32]]/*[[Shows/Gorilla Theatre]]* which I watched sometime in late 2003, when I was planning to audition for [[Troupes/Ed32]] (I was soon not able to). Good stuff, of course.</p> </blockquote>
+<p>If that doesn't count, then it's got to be [[Troupes/Ed32|Ed32]]/*[[Shows/Gorilla Theatre|Gorilla Theatre]]* which I watched sometime in late 2003, when I was planning to audition for [[Troupes/Ed32|Ed32]] (I was soon not able to). Good stuff, of course.</p> </blockquote>
 
 ## Troupes
-* [[Troupes/Boss]]
+* [[Troupes/Boss|Boss]]
 * [[Bubu Lubu]]
-* [[Shows/False Matters]] (assistant director, original run)
-* [[Troupes/Ghetto Sketch Warlock]]
-* [[Troupes/GigglePants]]
-* [[Troupes/Hoover's Blanket]]
-* [[Troupes/Look Cookie]]
-* [[Troupes/No Chaser]]
+* [[Shows/False Matters|False Matters]] (assistant director, original run)
+* [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]]
+* [[Troupes/GigglePants|GigglePants]]
+* [[Troupes/Hoover's Blanket|Hoover's Blanket]]
+* [[Troupes/Look Cookie|Look Cookie]]
+* [[Troupes/No Chaser|No Chaser]]
 
 ## Shows
-* *[[Shows/After School Special Victims Unit]]*
-* *[[Shows/Cereal for Adults]]*
-* *[[Shows/Eye for an iPhone]]*
-* *[[Shows/Fuck It's Christmas]]*
-* *[[Shows/Guilds Of Steel]]* (director)
+* *[[Shows/After School Special Victims Unit|After School Special Victims Unit]]*
+* *[[Shows/Cereal for Adults|Cereal for Adults]]*
+* *[[Shows/Eye for an iPhone|Eye for an iPhone]]*
+* *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]*
+* *[[Shows/Guilds Of Steel|Guilds Of Steel]]* (director)
 * *[[Hyperlinks]]*
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (Samuel "Screech" Powers)
-* *[[Shows/Maestro]]* (Maestro of Maestros)
-* *[[Shows/Rapture The Flag]]*
-* *[[Shows/Sci-Fi Saturdays]]*
-* *[[Shows/Shanty Town Lake]]*
-* *[[Shows/Stool Pigeon]]*
-* *[[Shows/TGIS]]* ("Boy Greets World")
+* *[[Shows/Maestro|Maestro]]* (Maestro of Maestros)
+* *[[Shows/Rapture The Flag|Rapture The Flag]]*
+* *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*
+* *[[Shows/Shanty Town Lake|Shanty Town Lake]]*
+* *[[Shows/Stool Pigeon|Stool Pigeon]]*
+* *[[Shows/TGIS|TGIS]]* ("Boy Greets World")
 
 ## More Information
 * [An episode](http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back) of *[[Got Your Back]]* that includes his lecture "You Suck Forever: Thoughts on Improv Nihilism".

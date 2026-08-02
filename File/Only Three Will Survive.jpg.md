@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Only Three Will Survive.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Only Three Will Survive]]*, featuring [[Performers/Heidi Rogers]], [[Performers/Lacy Shawn]], and [[Performers/Wyatt Tall]].
+Publicity image for *[[Only Three Will Survive]]*, featuring [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Lacy Shawn|Lacy Shawn]], and [[Performers/Wyatt Tall|Wyatt Tall]].
 
-Photo by [[Performers/Sarah Swofford]].
+Photo by [[Performers/Sarah Swofford|Sarah Swofford]].
 
-Art by [[Performers/Asaf Ronen]].
+Art by [[Performers/Asaf Ronen|Asaf Ronen]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

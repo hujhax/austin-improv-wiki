@@ -1,11 +1,11 @@
 <div style="text-align: center;"><img src="Spirited.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for [[Shows/Spirited]], depicting "Alices" [[Performers/Halyn Lee Erickson]] and [[Performers/Sarah Marie Curry]].
+Publicity art for [[Shows/Spirited|Spirited]], depicting "Alices" [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]] and [[Performers/Sarah Marie Curry|Sarah Marie Curry]].
 
-Photo by [[Performers/Jon Bolden]].
+Photo by [[Performers/Jon Bolden|Jon Bolden]].
 
-Art and design by [[Performers/Asaf Ronen]].
+Art and design by [[Performers/Asaf Ronen|Asaf Ronen]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Performers/Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
   --><li style=""><a class="internal-link" href="Beth Lebwohl">Beth Lebwohl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Performers/Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Delaney Liming">Delaney Liming</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Performers/Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
   --><!--
   --><!--
@@ -76,7 +76,7 @@
 They performed a monoscene in a lifeboat of castaways, inspired by [[Wikipedia - Lifeboat (film)|the Alfred Hitchcock movie of the same name]], which also is set entirely in a lifeboat.
 
 ## History
-They made it to the championship round of the "Slash of the Talons" Cagematch, losing to [[Troupes/LadyForms]] on 6/20/09.
+They made it to the championship round of the "Slash of the Talons" Cagematch, losing to [[Troupes/LadyForms|LadyForms]] on 6/20/09.
 
 The troupe performed a number of shows after the cagematch at ColdTowne Theater. 
 

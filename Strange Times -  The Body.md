@@ -1,7 +1,7 @@
-This was the first "Strange Times" story from [[Shows/Strange Worlds]].  It was improvised on March 2nd, 2013. 
+This was the first "Strange Times" story from [[Shows/Strange Worlds|Strange Worlds]].  It was improvised on March 2nd, 2013. 
 
 ## Episode Summary
-Morgan McNulty and Nate Jester investigate a body found floating in the lake, uncertain of if it’s a person or a bloated fish.  McNulty finds an ID on the body, identifying it as [[Performers/Jason Finkelman]].  
+Morgan McNulty and Nate Jester investigate a body found floating in the lake, uncertain of if it’s a person or a bloated fish.  McNulty finds an ID on the body, identifying it as [[Performers/Jason Finkelman|Jason Finkelman]].  
 
 They proceed to the address on the ID and meet Jason’s wife Susan and her nine cats.  McNulty callously tells her of her husband’s death.  Weeping, she confides in Jester that her husband was a fisherman who had recently started working for Johnny MacNaughton.  She gives them Jason’s journal and they leave her to her grief.
 

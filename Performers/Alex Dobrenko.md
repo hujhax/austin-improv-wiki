@@ -22,23 +22,23 @@
 **Alex Dobrenko** is an improv performer.
 
 ## History
-Alex first took classes at [[The Hideout Theatre]] with [[Performers/Andy Crouch]] in 2010.
+Alex first took classes at [[The Hideout Theatre]] with [[Performers/Andy Crouch|Andy Crouch]] in 2010.
 
 In 2014, Alex moved away to Los Angeles.
 
 ## Troupes
-* [[Troupes/Do You Still Want to Do This]]
-* [[Troupes/The Escorts]]
-* [[Troupes/The Foreign Legion]]
+* [[Troupes/Do You Still Want to Do This|Do You Still Want to Do This]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Troupes/The Foreign Legion|The Foreign Legion]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (James Kowalski)
-* *[[Shows/Cover to Cover]]*
-* *[[Shows/Manhattan Stories]]*
-* *[[Shows/Process]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/Twilight Zoned]]*
+* *[[Shows/Cover to Cover|Cover to Cover]]*
+* *[[Shows/Manhattan Stories|Manhattan Stories]]*
+* *[[Shows/Process|Process]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
 
 [[Category/Performers|Dobrenko]]

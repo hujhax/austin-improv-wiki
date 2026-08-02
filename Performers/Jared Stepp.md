@@ -25,21 +25,21 @@
 In 2012, he moved away to Milwaukee, Wisconsin.
 
 ## Troupes
-* [[Troupes/Achatina Achatina]]
-* [[Troupes/Boy Toy]]
-* [[Troupes/Escape Hatch]]
-* [[Troupes/Gang Bang]]
-* [[Troupes/Hellcats]]
-* [[Troupes/Improvised Robocop]]
-* [[Troupes/Mother Fing Action Heroes!]]
-* [[Troupes/Nice Astronaut]]
-* [[Troupes/Northshore Local]]
-* [[Troupes/The Varsity]]
+* [[Troupes/Achatina Achatina|Achatina Achatina]]
+* [[Troupes/Boy Toy|Boy Toy]]
+* [[Troupes/Escape Hatch|Escape Hatch]]
+* [[Troupes/Gang Bang|Gang Bang]]
+* [[Troupes/Hellcats|Hellcats]]
+* [[Troupes/Improvised Robocop|Improvised Robocop]]
+* [[Troupes/Mother Fing Action Heroes!|Mother Fing Action Heroes!]]
+* [[Troupes/Nice Astronaut|Nice Astronaut]]
+* [[Troupes/Northshore Local|Northshore Local]]
+* [[Troupes/The Varsity|The Varsity]]
 
 ## Shows
-* *[[Shows/The Andersons]]*
-* *[[Shows/Holy 1960s Batman, Batman!]]*
-* *[[Shows/Slaughter Your Shorts]]*
-* *[[Troupes/UpTowne]]*
+* *[[Shows/The Andersons|The Andersons]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
+* *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]*
+* *[[Troupes/UpTowne|UpTowne]]*
 
 [[Category/Performers|Stepp]]

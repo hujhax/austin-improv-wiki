@@ -29,27 +29,27 @@ Clay was a company member of [[Gnap! Theater Projects]].
 He passed away unexpectedly the morning of February 13, 2014.
 
 ## Troupes
-* [[Troupes/Dandy]]
+* [[Troupes/Dandy|Dandy]]
 * [[Duck Duck Boom]]
-* [[Shows/The Professor]]
+* [[Shows/The Professor|The Professor]]
 
 ## Shows
-* *[[Shows/The Black Vault]]*
-* *[[Shows/Charles Dickens Unleashed]]*
+* *[[Shows/The Black Vault|The Black Vault]]*
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * *[[Crack!]]*
-* *[[Shows/Doctors Without Boundaries]]*
-* *[[Shows/Guilds Of Steel]]*
+* *[[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]*
+* *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * *[[Puppet Fever]]*
 * *[[Seance]]* (director)
-* *[[Shows/Showdown]]* (Clement Merseault)
-* *[[Shows/Spirited]]*
+* *[[Shows/Showdown|Showdown]]* (Clement Merseault)
+* *[[Shows/Spirited|Spirited]]*
 
 ## Media
 ### Video
-* [Video](http://youtu.be/rfzc-XRZEvc) by [[Performers/Warren Henderson]] of Clay's memorial service.
+* [Video](http://youtu.be/rfzc-XRZEvc) by [[Performers/Warren Henderson|Warren Henderson]] of Clay's memorial service.
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3) by [[Steve Rogers]] of Clay's 7/21/12 *[[Shows/Boys of Summer]]* performance with [[Troupes/Girls Girls Girls]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3) by [[Steve Rogers]] of Clay's 7/21/12 *[[Shows/Boys of Summer|Boys of Summer]]* performance with [[Troupes/Girls Girls Girls|Girls Girls Girls]].
 
 ## More Information
 * [Clay's self-introduction thread](http://forum.austinimprov.com/viewtopic.php?p=100274) on [[The AIC Forums]].

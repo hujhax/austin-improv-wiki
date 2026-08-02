@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Shades of Brown.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Shades of Brown]].
+Publicity photo of [[Troupes/Shades of Brown|Shades of Brown]].
 
 Photo by: unknown.
 ## Licensing

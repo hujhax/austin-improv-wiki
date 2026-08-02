@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
   --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Performers/Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><li style=""><a class="internal-link" href="Cody Herring">Cody Herring</a></li><!--
   --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
   --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--

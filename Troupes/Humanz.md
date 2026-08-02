@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Performers/Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,7 +90,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3) by [[Michael Yew]] that includes their 1/17/14 performance in *[[Shows/2x4]]*.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201235855481187.1073741878.1315383518&type=3) by [[Michael Yew]] that includes their 1/17/14 performance in *[[Shows/2x4|2x4]]*.
 
 ## More Information
 * [The duo's facebook page.](https://www.facebook.com/pages/Humanz/647787488593916?ref=hl)

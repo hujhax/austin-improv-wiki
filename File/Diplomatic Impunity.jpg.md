@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Diplomatic Impunity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Diplomatic Impunity]], playing [[Coldtowne Theater]] on 4/9/11.
+[[Troupes/Diplomatic Impunity|Diplomatic Impunity]], playing [[Coldtowne Theater]] on 4/9/11.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.steve-rogers-photography.com/ImprovPerformances/Diplomatic-Impunity/Diplomatic-Impunity-April-9/).
 ## Licensing

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -96,7 +96,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 <p>Jake and Callie have both been training at [[The Institution Theater]] and other theaters. </p>
 <p>Jake has 5+ years of improv under his belt. </p>
 <p>Callie is in level 3 at the [[Institution Theater]]. </p>
-<p>The Couchsurfers coach with [[Performers/Asaf Ronen]] and recently debuted their show at [[The Insitution Theater]]'s *[[Shows/Triple Scoop]]* showcase.</p>
+<p>The Couchsurfers coach with [[Performers/Asaf Ronen|Asaf Ronen]] and recently debuted their show at [[The Insitution Theater]]'s *[[Shows/Triple Scoop|Triple Scoop]]* showcase.</p>
 </blockquote>
 
 ## More Information

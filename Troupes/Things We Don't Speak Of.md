@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Performers/Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
   --><li style=""><a class="internal-link" href="Frank Sanchez">Frank Sanchez</a></li><!--
   --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Performers/Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Performers/Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
   --><!--
   --><!--
@@ -136,7 +136,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Videos
-* Video of their 1/15/15 *[[Shows/Free Fringe]]* debut: [Part 1](http://drive.google.com/file/d/0B_o2jDA_ge9RMEotYWRlNlo4bzg/view), [Part 2](http://docs.google.com/file/d/0B_o2jDA_ge9RbUVmN1o4cmZid1k/edit?usp=docslist_api)
+* Video of their 1/15/15 *[[Shows/Free Fringe|Free Fringe]]* debut: [Part 1](http://drive.google.com/file/d/0B_o2jDA_ge9RMEotYWRlNlo4bzg/view), [Part 2](http://docs.google.com/file/d/0B_o2jDA_ge9RbUVmN1o4cmZid1k/edit?usp=docslist_api)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

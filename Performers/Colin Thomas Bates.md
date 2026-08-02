@@ -25,15 +25,15 @@
 Colin moved away to Houston in 2012.
 
 ## Troupes
-* [[Troupes/GigglePants]]
-* [[Shows/The Professor]]
-* [[Troupes/Rhinodino]]
-* [[Troupes/Senshi Sokyo]]
-* [[Troupes/Stone Airplane]]
+* [[Troupes/GigglePants|GigglePants]]
+* [[Shows/The Professor|The Professor]]
+* [[Troupes/Rhinodino|Rhinodino]]
+* [[Troupes/Senshi Sokyo|Senshi Sokyo]]
+* [[Troupes/Stone Airplane|Stone Airplane]]
 
 ## Shows
 * *[[Dusk]]*
-* *[[Shows/Not This American Life]]*
-* *[[Shows/Totally Improvised, 90210]]* (David Silver)
+* *[[Shows/Not This American Life|Not This American Life]]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (David Silver)
 
 [[Category/Performers|Bates]]

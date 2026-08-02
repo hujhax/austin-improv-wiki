@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Performers/Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -127,8 +127,8 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a> (piano)</li><!--
   --><li style=""><a class="internal-link" href="Allen Fisher">Allen Fisher</a> (piano/drums)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Performers/Tosin awofeso</a> (piano)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a> (drums)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a> (piano)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a> (drums)</li><!--
   --><!--
   --><!--
   --><!--
@@ -242,7 +242,7 @@
 ***The Jukebox Musical Project*** is a series of original comedy mini-musicals at [[The Institution Theater]]. 
 
 ## Summary
-Each show is written by [[Performers/Courtney Hopkin]] and leverages a different music artist's songs as well as time/location for each show. 
+Each show is written by [[Performers/Courtney Hopkin|Courtney Hopkin]] and leverages a different music artist's songs as well as time/location for each show. 
 
 The individual musicals run for two performances each, every other month.
 
@@ -250,43 +250,43 @@ The individual musicals run for two performances each, every other month.
 ### The Black Death
 Set during The Black Plague and featuring music by [[Wikipedia - The Smashing Pumpkins|the Smashing Pumpkins]] (March 2015)
 #### Cast
-* [[Performers/Jordan T. Maxwell]]
+* [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * [[Emily Cawood]]
-* [[Performers/Jason Vines]]
-* [[Performers/Sarah Marie Curry]]
+* [[Performers/Jason Vines|Jason Vines]]
+* [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * [[Kim Stacy]]
-* [[Performers/Luke Wallens]]
+* [[Performers/Luke Wallens|Luke Wallens]]
 
 ### In the Air Tonight
 Set during the USA/USSR space race of the 1970s and featuring music by [[Wikipedia - Phil Collins|Phil Collins]] (May 2015)
 #### Cast
-* [[Performers/Clint Harris]]
-* [[Performers/Jordan T. Maxwell]]
+* [[Performers/Clint Harris|Clint Harris]]
+* [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * [[John Mendell]]
-* [[Performers/Donna Rice]]
-* [[Performers/Dave Ronn]]
-* [[Performers/Jill Summar]]
+* [[Performers/Donna Rice|Donna Rice]]
+* [[Performers/Dave Ronn|Dave Ronn]]
+* [[Performers/Jill Summar|Jill Summar]]
 
 ### Karma Police
 Set during the Salem Witch Trials and featuring music by [[Wikipedia - Radiohead|Radiohead]] (July 2015)
 #### Cast
-* [[Performers/Jordan T. Maxwell]]
-* [[Performers/Sarah Marie Curry]]
+* [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
+* [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * [[Emily Cawood]]
-* [[Performers/Michael Ferstenfeld]]
+* [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]
 * [[Kim Stacy]]
-* [[Performers/Megan Sherrod]]
-* [[Performers/Jill Summar]]
-* [[Performers/Kelly Campbell]]
+* [[Performers/Megan Sherrod|Megan Sherrod]]
+* [[Performers/Jill Summar|Jill Summar]]
+* [[Performers/Kelly Campbell|Kelly Campbell]]
 
 ### Renaissance Queen
 Set during the Italian Renaissance and featuring music by [[Wikipedia - Queen (band)|Queen]] (October 2015)
 #### Cast
-* [[Performers/Peter Rogers]] - Leonardo
-* [[Performers/Bryan Curry]] - Michelangelo
+* [[Performers/Peter Rogers|Peter Rogers]] - Leonardo
+* [[Performers/Bryan Curry|Bryan Curry]] - Michelangelo
 * [[Nicholaus Weindel]] - Rafael 
 * [[Kim Stacy]] - Chorus/Teacher
-* [[Performers/Cené Hale]] - Chorus/Margharita/Father
+* [[Performers/Cené Hale|Cené Hale]] - Chorus/Margharita/Father
 * [[Lindsey McGowen]] - Chorus/Mother/Medici
 
 ### Home Again: The Story of Passover
@@ -295,20 +295,20 @@ The story of Passover as told through the music of [[Wikipedia - The Cure|The Cu
 * [[Nicholaus Weindel]] - Aaron
 * [[Kim Stacy]] - Shana
 * [[Sarah Doering]] - Rachel
-* [[Performers/Jillian Summar]] - Deborah
-* [[Performers/Luke Wallens]] - Adam
-* [[Performers/Robert Slack]] - Mica/Moses
+* [[Performers/Jillian Summar|Jillian Summar]] - Deborah
+* [[Performers/Luke Wallens|Luke Wallens]] - Adam
+* [[Performers/Robert Slack|Robert Slack]] - Mica/Moses
 
 ### Women of the Wild West
 The story of Annie Oakley and Calamity Jane as told through the music of [[Wikipedia - Beyoncé|Beyoncé]] (January 2016).
 #### Cast
 * [[Emily Cawood]] - May Lillie
 * [[Kim Stacy]] - Lillian Smith
-* [[Performers/Cene Hale]] - Annie Oakley
+* [[Performers/Cene Hale|Cene Hale]] - Annie Oakley
 * [[Brittni Cocchiara]] - Calamity Jane
-* [[Performers/Tosin awofeso]] - Buffalo Bill
+* [[Performers/Tosin awofeso|Tosin awofeso]] - Buffalo Bill
 * [[Allen Fisher]] - Frank Butler
-* [[Performers/Courtney Hopkin]] - Sheriff Bechdel
+* [[Performers/Courtney Hopkin|Courtney Hopkin]] - Sheriff Bechdel
 
 ## Media
 ### Videos
@@ -323,8 +323,8 @@ The story of Annie Oakley and Calamity Jane as told through the music of [[Wikip
 
 ### Other
 * Promos for "Renaissance Queen":
-	* [Video](http://vimeo.com/142341649) by [[Performers/Peter Rogers]].
-	* [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Performers/Tom Booker]].
+	* [Video](http://vimeo.com/142341649) by [[Performers/Peter Rogers|Peter Rogers]].
+	* [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Performers/Tom Booker|Tom Booker]].
 
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/JukeboxBway)

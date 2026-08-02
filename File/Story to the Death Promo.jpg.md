@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Story to the Death Promo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promo banner image for the February 2018 run of *[[Shows/Story to the Death]]*.
+Promo banner image for the February 2018 run of *[[Shows/Story to the Death|Story to the Death]]*.
 
-Design by [[Performers/Kaci Beeler]].
+Design by [[Performers/Kaci Beeler|Kaci Beeler]].
 
 Photos by [[Steve Rogers]].
 ## Licensing

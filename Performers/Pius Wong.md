@@ -23,7 +23,7 @@
 Pius Wong is an improv player in musical improv.  He also is interested in applied improv, particularly for developing design skills in engineers and engineering teams.
 
 ## Troupe
-* [[Troupes/Human People]]
+* [[Troupes/Human People|Human People]]
 
 ## Webpage
 Website: [http://www.piuswong.com](http://www.piuswong.com)

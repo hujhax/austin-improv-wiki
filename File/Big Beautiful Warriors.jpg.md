@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Big Beautiful Warriors.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Shows/Big Beautiful Warriors]].
+Publicity image for [[Shows/Big Beautiful Warriors|Big Beautiful Warriors]].
 
 Photo by: unknown.
 

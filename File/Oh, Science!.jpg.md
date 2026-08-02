@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Oh, Science!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional art for [[Troupes/Oh, Science!]].
+Promotional art for [[Troupes/Oh, Science!|Oh, Science!]].
 
-Art by [[Performers/Nathan Livni]].
+Art by [[Performers/Nathan Livni|Nathan Livni]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

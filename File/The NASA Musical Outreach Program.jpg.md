@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The NASA Musical Outreach Program.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Patrick Daniel]] and [[Ryan Thomas]], performing in character as [[Troupes/The NASA Musical Outreach Program]], at a 2011 Nerd Nite.
+[[Performers/Patrick Daniel|Patrick Daniel]] and [[Ryan Thomas]], performing in character as [[Troupes/The NASA Musical Outreach Program|The NASA Musical Outreach Program]], at a 2011 Nerd Nite.
 
 Still from [this video](http://vimeo.com/21631970).
 

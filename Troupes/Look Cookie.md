@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Eric Seufert">Eric Seufert</a></li><!--
   --><li style=""><a class="internal-link" href="Jerry Bilbo">Jerry Bilbo</a></li><!--
   --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
@@ -78,7 +78,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/lTqFxtviEZc) by [[Performers/Cody Dearing]] of their first show in April 2007.
+* [Video](http://youtu.be/lTqFxtviEZc) by [[Performers/Cody Dearing|Cody Dearing]] of their first show in April 2007.
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/look-cookie-wed-10pm-apples-stage-1236752) of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ## More Information

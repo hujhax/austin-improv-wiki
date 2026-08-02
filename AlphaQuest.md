@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Laura Galan Wells">Laura Galan Wells</a></li><!--
   --><li style=""><a class="internal-link" href="Denise Hudson">Denise Hudson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Performers/Chris Casey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Jerrad Lindenmuth">Jerrad Lindenmuth</a></li><!--
   --><li style=""><a class="internal-link" href="Zachariah Rollins">Zachariah Rollins</a></li><!--
   --><li style=""><a class="internal-link" href="Cindy Brio">Cindy Brio</a></li><!--
@@ -73,7 +73,7 @@
 **AlphaQuest** is a troupe that performs narratives while playing the Alphabet Game.
 
 ## History
-Laura invited everyone to do a [[Shows/Free Fringe]] with the crazy idea of doing the Alphabet Game on top of a narrative. Everyone had so much fun that we just kept doing shows. 
+Laura invited everyone to do a [[Shows/Free Fringe|Free Fringe]] with the crazy idea of doing the Alphabet Game on top of a narrative. Everyone had so much fun that we just kept doing shows. 
 
 ## More Information
 * The troupe's [Facebook page.](https://www.facebook.com/alphaquestimprov/)

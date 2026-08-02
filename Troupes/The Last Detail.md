@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">Performers/John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The Last Detail** was a one-off *[[Shows/Cagematch]]* duo.
+**The Last Detail** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.
 
 ## History
 They played one Cagematch on 3/6/10.

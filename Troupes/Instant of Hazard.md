@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Milo Smith">Milo Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -93,7 +93,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/50905999) by [[Performers/Dave alley]] of their 10/4/12 performance.
+* [Video](http://vimeo.com/50905999) by [[Performers/Dave alley|Dave alley]] of their 10/4/12 performance.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

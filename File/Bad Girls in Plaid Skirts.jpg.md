@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Bad Girls in Plaid Skirts.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity banner for *[[Shows/Bad Girls in Plaid Skirts]]*.
+Publicity banner for *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*.
 
 Photo by: unknown.
 

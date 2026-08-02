@@ -27,17 +27,17 @@ Avimaan was a company member of [[Gnap! Theater Projects]].
 In 2012, he moved away to Los Angeles.
 
 ## Troupes
-* [[Troupes/Double Dutch]]
-* [[Troupes/The Love Notes]]
+* [[Troupes/Double Dutch|Double Dutch]]
+* [[Troupes/The Love Notes|The Love Notes]]
 
 ## Shows
 * *[[69 Love Scenes]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Dusk]]*
-* *[[Shows/Heist!]]*
-* *[[Shows/One More Night]]*
-* *[[Shows/Showdown]]* (director)
-* *[[Shows/Who is T. Henry Baudecliffe]]*
+* *[[Shows/Heist!|Heist!]]*
+* *[[Shows/One More Night|One More Night]]*
+* *[[Shows/Showdown|Showdown]]* (director)
+* *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
 
 [[Category/Performers|Syam]]
 [[Category/Directors|Syam]]

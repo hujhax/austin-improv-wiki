@@ -21,8 +21,8 @@
   --><li style=""><a class="internal-link" href="Dave Michaels">Dave Michaels</a></li><!--
   --><li style=""><a class="internal-link" href="Jake Milward">Jake Milward</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Performers/Matt Needles</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style="" ><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
   --><!--
   --><!--
@@ -87,7 +87,7 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We dress science-y (most of us own Saganesque sport jackets), and do 3 short scene paintings then move into grounded mono scenes with side support in the form of sound effects, music, etc. Some popping out but we try to keep that to a minimum or until the run towards the end.</blockquote>
 
 ## History
-The troupe won one of ColdTowne's *[[Shows/Cagematch]]* tournaments in late 2012.
+The troupe won one of ColdTowne's *[[Shows/Cagematch|Cagematch]]* tournaments in late 2012.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/goldenageimprov)

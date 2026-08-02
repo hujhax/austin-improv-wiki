@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Narwhal.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Narwhal]].
+Publicity image for [[Troupes/Narwhal|Narwhal]].
 
 Photo by: unknown.
 

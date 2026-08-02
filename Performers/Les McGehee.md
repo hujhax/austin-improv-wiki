@@ -29,16 +29,16 @@ Les has helped create a strong network of improv performers that extends well be
 Les is happily engaged to Kim Lane, and is a proud father of two teenaged daughters (Lucia and Marina) with whom he performs improv regularly.
 
 ## History
-Les owned and operated [[Troupes/ComedySportz]] Austin from 1990 until 2012.
+Les owned and operated [[Troupes/ComedySportz|ComedySportz]] Austin from 1990 until 2012.
 
-He was a guest boy with *[[Shows/Boys of Summer]]* in 2007.
+He was a guest boy with *[[Shows/Boys of Summer|Boys of Summer]]* in 2007.
 
 ## Troupes
-* [[Troupes/ComedySportz]]
+* [[Troupes/ComedySportz|ComedySportz]]
 * [[The Pie and Ear Show]]
 
 ## Shows
-* *[[Shows/Thinning The Herd]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 [[Category/Performers|McGehee]]
 [[Category/Teachers|McGehee]]

@@ -26,6 +26,6 @@ Chris started his improvisational training at Merlin Works while living in Austi
 
 ## Troupes
 ## Shows
-* *[[Shows/Adventure PhD]]*
+* *[[Shows/Adventure PhD|Adventure PhD]]*
 
 [[Category/Performers|Curl]]

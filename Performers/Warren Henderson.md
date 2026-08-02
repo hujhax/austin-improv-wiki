@@ -22,12 +22,12 @@
 **Warren Henderson** is an improv performer, technical improvisor, and photographer.
 
 ## Shows
-* *[[Shows/Austin Secrets]]* (tech, 2012 run)
-* *[[Shows/TheatreSports]]* (tech, 2013 run)
-* *[[Shows/Austin Secrets]]* (tech, 2013 run)
-* *[[Shows/Reframed]]* (tech, 2013 run)
-* *[[Shows/The Big Bash]]* (tech, 2014 run)
-* *[[Shows/TheatreSports]]* (tech, 2014 run)
+* *[[Shows/Austin Secrets|Austin Secrets]]* (tech, 2012 run)
+* *[[Shows/TheatreSports|TheatreSports]]* (tech, 2013 run)
+* *[[Shows/Austin Secrets|Austin Secrets]]* (tech, 2013 run)
+* *[[Shows/Reframed|Reframed]]* (tech, 2013 run)
+* *[[Shows/The Big Bash|The Big Bash]]* (tech, 2014 run)
+* *[[Shows/TheatreSports|TheatreSports]]* (tech, 2014 run)
 
 
 

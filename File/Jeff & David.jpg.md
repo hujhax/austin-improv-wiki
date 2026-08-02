@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Jeff & David.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/Jeff & David]].
+Publicity image for [[Troupes/Jeff & David|Jeff & David]].
 
 Picture by: unknown.
 

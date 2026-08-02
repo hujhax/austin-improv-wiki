@@ -22,16 +22,16 @@
 **Rosemarie Frezza** is an improv performer.
 
 ## Troupes
-* [[Troupes/Physics Curse]]
-* [[Troupes/Teen Energy]]
+* [[Troupes/Physics Curse|Physics Curse]]
+* [[Troupes/Teen Energy|Teen Energy]]
 
 ## Shows
-* *[[Shows/A Penny Dreadful]]*
-* *[[Shows/The Dahl House]]*
-* *[[Shows/The Fancy-Pants Mash-Up]]*
-* *[[Shows/Maestro]]*
-* *[[Shows/Maestro Raw]]*
+* *[[Shows/A Penny Dreadful|A Penny Dreadful]]*
+* *[[Shows/The Dahl House|The Dahl House]]*
+* *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*
+* *[[Shows/Maestro|Maestro]]*
+* *[[Shows/Maestro Raw|Maestro Raw]]*
 
-She has also appeared in a *[[Shows/TheatreSports]]* student bout, and was part of "Yuri's Human Cat Circus" in [[The 2014 Out of Bounds Comedy Festival]].
+She has also appeared in a *[[Shows/TheatreSports|TheatreSports]]* student bout, and was part of "Yuri's Human Cat Circus" in [[The 2014 Out of Bounds Comedy Festival]].
 
 [[Category/Performers|Frezza]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="You're Fat.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/You're Fat]].
+Publicity image for [[Troupes/You're Fat|You're Fat]].
 
 Photo by: unknown.
 

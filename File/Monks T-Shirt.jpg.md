@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Monks T-Shirt.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A [[Troupes/Monks' Night Out]] t-shirt.
+A [[Troupes/Monks' Night Out|Monks' Night Out]] t-shirt.
 
 Art by [[Greg Dorchak]].
 ## Licensing

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Golden Age.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Troupes/Golden Age]].
+Logo for [[Troupes/Golden Age|Golden Age]].
 
 Art by: unknown.
 ## Licensing

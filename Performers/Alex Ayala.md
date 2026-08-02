@@ -23,12 +23,12 @@
 
 ## History
 ## Troupes
-[[Troupes/Bad Font]]
+[[Troupes/Bad Font|Bad Font]]
 
 ## Shows
-* *[[Shows/Trust No One]]*
-* *[[Shows/Late Night Time Machine]]*
-* *[[Shows/GrimmNoir]]*
-* *[[Shows/You Can't Stay Here]]*
+* *[[Shows/Trust No One|Trust No One]]*
+* *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
+* *[[Shows/GrimmNoir|GrimmNoir]]*
+* *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
 * [[Dorm Daze]]
 [[Category/Performers|Ayala]]

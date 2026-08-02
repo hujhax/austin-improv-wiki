@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Performers/Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
   --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a> (music)</li><!--
   --><!--
@@ -76,18 +76,18 @@
 Two Guys doing improv together. Hopefully they occasionally break out in song. While doing improv. Not during normal business hours. That would be weird.
 
 ## History
-Greg and Chris met during level two music class at [[The Hideout Theatre]]. Later Chris took an improv workshop from [[Performers/Curtis Luciani]] who recommended Chris form a duo in order to work through some of his trust issues. Thus Two Shy Guys was born.
+Greg and Chris met during level two music class at [[The Hideout Theatre]]. Later Chris took an improv workshop from [[Performers/Curtis Luciani|Curtis Luciani]] who recommended Chris form a duo in order to work through some of his trust issues. Thus Two Shy Guys was born.
 
 ## Shows
-* *[[Shows/2x4]]*
+* *[[Shows/2x4|2x4]]*
 * *[[Musical Night at Indra's]]*
 * *[[Impromp-Two]]*
 * *[[Alamo City Improv]]*
 * *Duo Night at [Station Theatre](http://www.stationtheater.com/)*
-* *[[Shows/Free Fringe]]* (with special guest [[Performers/Aspen Webster]])
+* *[[Shows/Free Fringe|Free Fringe]]* (with special guest [[Performers/Aspen Webster|Aspen Webster]])
 * *[[Dual Reality]]*
 * *Alternative Comedy Theatre's 10th Annual Big Weekend of Improv*
-* *[[Shows/Threefer]]*
+* *[[Shows/Threefer|Threefer]]*
 
 ## Media
 ### Videos

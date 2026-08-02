@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="BOSS.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Boss]].
+Publicity photo of [[Troupes/Boss|Boss]].
 
 Photo by: unknown.
 ## Licensing

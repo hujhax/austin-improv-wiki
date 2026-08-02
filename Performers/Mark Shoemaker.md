@@ -24,7 +24,7 @@
 ## History
 ## Shows
 * *[[Breaking Beckett]]* (Tech)
-* *[[Shows/RISEN]]* (Tech)
-* *[[Shows/Thinning The Herd]]*
+* *[[Shows/RISEN|RISEN]]* (Tech)
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 [[Category/Performers|Shoemaker]]

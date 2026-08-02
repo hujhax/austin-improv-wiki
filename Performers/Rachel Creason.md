@@ -23,11 +23,11 @@
 
 ## History
 ## Troupes
-* [[Troupes/Lazer Wolf]] (2015-Present)
-* [[Troupes/Soy Taco]] (2014-2015)
+* [[Troupes/Lazer Wolf|Lazer Wolf]] (2015-Present)
+* [[Troupes/Soy Taco|Soy Taco]] (2014-2015)
 
 
 ## Shows
-* [[Shows/SongRunner]]
+* [[Shows/SongRunner|SongRunner]]
 
 [[Category/Performers|Creason]]

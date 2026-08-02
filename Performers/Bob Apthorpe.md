@@ -23,8 +23,8 @@
 
 
 ## Troupes
-* [[Troupes/First Round Draft]]
-* [[Troupes/The Heroes of Comedy]] 
-* [[Troupes/Improv For Evil]]
+* [[Troupes/First Round Draft|First Round Draft]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] 
+* [[Troupes/Improv For Evil|Improv For Evil]]
 
 [[Category/Performers|Apthorpe]]

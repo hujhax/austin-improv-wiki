@@ -25,14 +25,14 @@
 Chris started improvising while living in Boston in 2005, and moved to Austin in 2013.
 
 ## Troupes
-* [[Troupes/Doin' Maintenance]]
-* [[Troupes/Field Day]]
+* [[Troupes/Doin' Maintenance|Doin' Maintenance]]
+* [[Troupes/Field Day|Field Day]]
 
 ## Shows
 * [[Troupes/The Amazon and The Milksop|"The Fitzgeralds Save the World"]] (tech)
-* *[[Shows/Reform School For Wayward Girls]]* (tech)
-* *[[Shows/Wanderlust]]*
-* *[[Shows/What the F@$]]*
+* *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]* (tech)
+* *[[Shows/Wanderlust|Wanderlust]]*
+* *[[Shows/What the F@$|What the F@$]]*
 
 [[Category/Performers|Albano]]
 [[Category/Techs|Albano]]

@@ -25,32 +25,32 @@
 Aspen started taking classes at the [[Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. She is a former kids' improv teacher at the Hideout.
 
 ## Shows
-* *[[Shows/Flying Theater Machine]]* (2014-2016)
-* *[[Shows/One Small Step]]* (2015)
-* *[[Shows/The Ladies Room]]* (2015)
-* *[[Shows/Four Chambers]]* (2015)
-* *[[Shows/Close Up]]* (2015)
-* *[[Shows/Lonely Star]]* (2015) (Assistant Director)
-* *[[Shows/183 Dewberry Lane]]* (2016)
-* *[[Shows/Fiasco]]* (2016)
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (2014-2016)
+* *[[Shows/One Small Step|One Small Step]]* (2015)
+* *[[Shows/The Ladies Room|The Ladies Room]]* (2015)
+* *[[Shows/Four Chambers|Four Chambers]]* (2015)
+* *[[Shows/Close Up|Close Up]]* (2015)
+* *[[Shows/Lonely Star|Lonely Star]]* (2015) (Assistant Director)
+* *[[Shows/183 Dewberry Lane|183 Dewberry Lane]]* (2016)
+* *[[Shows/Fiasco|Fiasco]]* (2016)
 * *[[Shameless Dames]]* (2016)
-* ''[[Shows/Story to the Death]] (2016) (Assistant Director)
+* ''[[Shows/Story to the Death|Story to the Death]] (2016) (Assistant Director)
 * *[[Fool's Well]]* (2016)
-* ''[[Shows/Start Trekkin]] (2017)
-* ''[[Shows/How I Saved the World Over Summer Vacation]] (2017)
-* *[[Shows/Soundstage 23]]* (2017) (Co-Director)
+* ''[[Shows/Start Trekkin|Start Trekkin]] (2017)
+* ''[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]] (2017)
+* *[[Shows/Soundstage 23|Soundstage 23]]* (2017) (Co-Director)
 * *[[Big Gay Musical]]* (2018)
 * *[[Mischief Managed]]* (2018)
 * *[[Silly Love Songs]]* (2019) (Co-Director)
-* *[[Shows/The Black Vault]]* (2019)
+* *[[Shows/The Black Vault|The Black Vault]]* (2019)
 * *[[Escape the Zoom]]* (2020)
 * *[[#Found]]* (2020)
 * *[[In a Galaxy a Farce Farce Away]]* (2021)
 
 ## Troupes
-* [[Troupes/Physics Curse]] 
+* [[Troupes/Physics Curse|Physics Curse]] 
 * [[Sparkle Cat]]
-* [[Troupes/An Englishman and a Belle]]
-* [[Shows/History Under the Influence]] 
+* [[Troupes/An Englishman and a Belle|An Englishman and a Belle]]
+* [[Shows/History Under the Influence|History Under the Influence]] 
 
 [[Category/Performers|Webster]]

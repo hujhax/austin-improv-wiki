@@ -22,14 +22,14 @@
 **Amy Averett** is an improv performer.
 
 ## Troupes
-* [[Troupes/ComedySportz]]
-* [[Troupes/The Dancy Street D'Orchestra]]
-* [[Troupes/Girls Girls Girls]]
+* [[Troupes/ComedySportz|ComedySportz]]
+* [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 
 ## Shows
-* *[[Shows/Heist!]]*
-* *[[Shows/Rock]]*
-* *[[Shows/Thinning The Herd]]*
-* *[[Shows/Totally Improvised, 90210]]* (flex cast)
+* *[[Shows/Heist!|Heist!]]*
+* *[[Shows/Rock|Rock]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
+* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (flex cast)
 
 [[Category/Performers|Averett]]

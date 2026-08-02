@@ -19,12 +19,12 @@
 	</table>
 </div>
 
-**Seth Johnson** is an Austin improviser who began taking classes a [[The Hideout Theatre]] in 2012. He has performed in [[Shows/The Fancy Pants Mashup]].
+**Seth Johnson** is an Austin improviser who began taking classes a [[The Hideout Theatre]] in 2012. He has performed in [[Shows/The Fancy Pants Mashup|The Fancy Pants Mashup]].
 
 ## Troupes
 ## Shows
-* *[[Shows/Beware of Female Spies]]* (producer)
-* *[[Shows/Indy Movies]]*
+* *[[Shows/Beware of Female Spies|Beware of Female Spies]]* (producer)
+* *[[Shows/Indy Movies|Indy Movies]]*
 
 
 [[Category/Performers|Johnson]]

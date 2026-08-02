@@ -22,21 +22,21 @@
 **Manuel Duran** is an improv performer, director, and teacher.
 
 ## Troupes
-* [[Troupes/Duran & Johnson]]
+* [[Troupes/Duran & Johnson|Duran & Johnson]]
 * [[FOLKS]]
-* [[Troupes/Mirage Machine]]
+* [[Troupes/Mirage Machine|Mirage Machine]]
 
 ## Shows
-* *[[Shows/Cochise]]*
-* *[[Shows/What the F@$]]*
-* *[[Shows/Wanderlust]]*
-* *[[Shows/Buzz Band]]*
-* *[[Shows/Lonely Star]]*
-* *[[Shows/Savage Swords]]*
+* *[[Shows/Cochise|Cochise]]*
+* *[[Shows/What the F@$|What the F@$]]*
+* *[[Shows/Wanderlust|Wanderlust]]*
+* *[[Shows/Buzz Band|Buzz Band]]*
+* *[[Shows/Lonely Star|Lonely Star]]*
+* *[[Shows/Savage Swords|Savage Swords]]*
 
 ## Directing
-* *[[Shows/Home for the Holidays]]* - Assistant Director
-* *[[Shows/Origins]]* - Co-director
+* *[[Shows/Home for the Holidays|Home for the Holidays]]* - Assistant Director
+* *[[Shows/Origins|Origins]]* - Co-director
 
 [[Category/Performers|Duran]]
 [[Category/Directors|Duran]]

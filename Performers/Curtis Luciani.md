@@ -25,27 +25,27 @@
 Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
 
 ## Troupes
-* [[Troupes/The Amazon and The Milksop]]
-* [[Troupes/Ed 32]]
-* [[Troupes/Girl Embassy World Team]]
-* [[Troupes/Rise & Shine]]
-* [[Troupes/Your Terrific Neighbors]]
+* [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]]
+* [[Troupes/Ed 32|Ed 32]]
+* [[Troupes/Girl Embassy World Team|Girl Embassy World Team]]
+* [[Troupes/Rise & Shine|Rise & Shine]]
+* [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
 
 ## Shows
-* *[[Shows/The Andersons]]* (ensemble)
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/The Andersons|The Andersons]]* (ensemble)
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Blood, Sweat, and Cheers]]* (Jason Flipp [Coach Jay])
-* *[[Shows/Charles Dickens Unleashed]]*
-* *[[Shows/Hitchcocked!]]*
-* *[[Shows/Holy 1960s Batman, Batman!]]*
-* *[[Shows/The Hustle Show]]*
-* *[[Shows/Improvised Shakespeare]]*
-* *[[Shows/One More Night]]*
-* *[[Shows/Victrola]]*
-* *[[Shows/Who is T. Henry Baudecliffe]]* (co-director)
+* *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
+* *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
+* *[[Shows/The Hustle Show|The Hustle Show]]*
+* *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
+* *[[Shows/One More Night|One More Night]]*
+* *[[Shows/Victrola|Victrola]]*
+* *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]* (co-director)
 
 ## Media
-* [A video](http://youtu.be/buYJ8CoEZPQ) of Curtis roasting [[Performers/Tom Booker]] at [[The 2011 Out of Bounds Comedy Festival]].
+* [A video](http://youtu.be/buYJ8CoEZPQ) of Curtis roasting [[Performers/Tom Booker|Tom Booker]] at [[The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Performers|Luciani]]
 [[Category/Directors|Luciani]]

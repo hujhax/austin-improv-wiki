@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Beach Ball Concussion.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Troupes/Beach Ball Concussion]].
+Publicity photo for [[Troupes/Beach Ball Concussion|Beach Ball Concussion]].
 
 Photo by: unknown.
 ## Licensing

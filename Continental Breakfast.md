@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -23,10 +23,10 @@
   --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
   --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
   --><li style=""><a class="internal-link" href="Jonathan Euseppi">Jonathan Euseppi</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Performers/Meghan Wolff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Performers/Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
   --><li style=""><a class="internal-link" href="Tiffany Grady">Tiffany Grady</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style="" ><a class="internal-link" href="Will Slayton">Will Slayton</a></li><!--
   --><!--
   --><!--

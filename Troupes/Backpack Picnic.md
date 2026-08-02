@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="David Bewley">David Bewley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Performers/Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
   --><li style=""><a class="internal-link" href="Mitch Baker">Mitch Baker</a></li><!--
   --><li style=""><a class="internal-link" href="René Pinnell">René Pinnell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -92,7 +92,7 @@ After going dormant in 2008, the troupe performed several reunion shows for [[Th
 
 ### Photos
 * [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947626225) that includes their performance in [[The 2008 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322) by [[Performers/Peter Rogers]] of their 8/30/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/30/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The duo's wikipedia page.](http://en.wikipedia.org/wiki/Backpack_Picnic)

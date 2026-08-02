@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,25 +74,25 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Performers/Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Performers/Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
   --><li style=""><a class="internal-link" href="Clay Towrey">Clay Towrey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Performers/Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Jon Clinkenbeard">Performers/Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Performers/Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
   --><li style=""><a class="internal-link" href="Liz Bigger">Liz Bigger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Performers/Madi Goff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Performers/Mike Kinald</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Performers/Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style=""><a class="internal-link" href="Zach Palmer">Zach Palmer</a></li><!--
   --><!--
   --><!--
@@ -142,38 +142,38 @@
 ## History
 There were two runs of *Guilds of Steel*.
 
-The first was in May and June of 2009, and was directed by [[Performers/Bryan Roberts]] and [[Performers/Michael Joplin]].
+The first was in May and June of 2009, and was directed by [[Performers/Bryan Roberts|Bryan Roberts]] and [[Performers/Michael Joplin|Michael Joplin]].
 
-The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010, and was directed solely by [[Performers/Bryan Roberts]].
+The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010, and was directed solely by [[Performers/Bryan Roberts|Bryan Roberts]].
 
 ### 2009 Cast
-* [[Performers/Ace Manning]]
-* [[Performers/Audrey Rachel Sansom]]
-* [[Performers/Bryan Roberts]]
-* [[Performers/Jason Vines]]
-* [[Performers/Jon Clinkenbeard]]
+* [[Performers/Ace Manning|Ace Manning]]
+* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
+* [[Performers/Bryan Roberts|Bryan Roberts]]
+* [[Performers/Jason Vines|Jason Vines]]
+* [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
 * [[Leah Moss]]
-* [[Performers/Marc Majcher]]
-* [[Performers/Michael Joplin]]
-* [[Performers/Mike Kinald]]
-* [[Performers/Sarah Marie Curry]]
-* [[Performers/Topping Haggerty]]
+* [[Performers/Marc Majcher|Marc Majcher]]
+* [[Performers/Michael Joplin|Michael Joplin]]
+* [[Performers/Mike Kinald|Mike Kinald]]
+* [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
+* [[Performers/Topping Haggerty|Topping Haggerty]]
 * [[Zach Palmer]]
 
 ### 2010 Cast
-* [[Performers/Audrey Rachel Sansom]]
-* [[Performers/Bryan Cruz]]
-* [[Performers/Bryan Roberts]]
-* [[Performers/Chelsea Gilman]]
-* [[Performers/Clay Towery]]
-* [[Performers/Emily Breedlove]]
-* [[Performers/Kyle Traughber]]
+* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
+* [[Performers/Bryan Cruz|Bryan Cruz]]
+* [[Performers/Bryan Roberts|Bryan Roberts]]
+* [[Performers/Chelsea Gilman|Chelsea Gilman]]
+* [[Performers/Clay Towery|Clay Towery]]
+* [[Performers/Emily Breedlove|Emily Breedlove]]
+* [[Performers/Kyle Traughber|Kyle Traughber]]
 * [[Liz Bigger]]
-* [[Performers/Madi Goff]]
-* [[Performers/Marc Majcher]]
-* [[Performers/Mike Kinald]]
-* [[Performers/Quinn Buckner]]
-* [[Performers/Topping Haggerty]]
+* [[Performers/Madi Goff|Madi Goff]]
+* [[Performers/Marc Majcher|Marc Majcher]]
+* [[Performers/Mike Kinald|Mike Kinald]]
+* [[Performers/Quinn Buckner|Quinn Buckner]]
+* [[Performers/Topping Haggerty|Topping Haggerty]]
 * [[Zach Palmer]]
 
 ## Media
@@ -187,7 +187,7 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [Photoset of the 7/24/10 performance](http://www.facebook.com/media/set/?set=a.1312211897265.2037682.1589679282&type=3) by [[Roy Moore]].
 * [Photoset of the 7/30/10 performance](http://www.facebook.com/media/set/?set=a.1318253328297.2039065.1589679282&type=3) by [[Roy Moore]].
 * [Photoset of the 7/31/10 performance](http://www.facebook.com/media/set/?set=a.1322083704054.2039353.1589679282&type=3) by [[Roy Moore]].
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Performers/Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
 
 ### Publicity
 * [Promotional photos for the 2010 run.](http://www.facebook.com/media/set/?set=a.405946063310.181500.16782108310&type=3)

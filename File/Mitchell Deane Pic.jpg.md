@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Mitchell Deane Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Mitchell Deane]] talks to a snake during the 12/20/12 [[Shows/Free Fringe]] at [[The Hideout Theatre]].
+[[Performers/Mitchell Deane|Mitchell Deane]] talks to a snake during the 12/20/12 [[Shows/Free Fringe|Free Fringe]] at [[The Hideout Theatre]].
 
-Photo by [[Performers/Claudio Fox]], from [this photoset](http://www.facebook.com/media/set/?set=a.509951649026335.114518.100000345135257&type=3).
+Photo by [[Performers/Claudio Fox|Claudio Fox]], from [this photoset](http://www.facebook.com/media/set/?set=a.509951649026335.114518.100000345135257&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

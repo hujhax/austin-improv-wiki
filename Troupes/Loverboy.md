@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cene Hale">Performers/Cene Hale</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Performers/Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
   --><li style=""><a class="internal-link" href="Kim Lowery">Kim Lowery</a></li><!--
   --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Thoreson">Stephanie Thoreson</a></li><!--

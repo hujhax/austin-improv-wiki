@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Mundane** was a one-off *[[Shows/Cagematch]]* team.
+**Mundane** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
 The troupe took a place as their opening suggestion, and then played a show similar to an episode of *[[Wikipedia - The Real World|The Real World]]*.

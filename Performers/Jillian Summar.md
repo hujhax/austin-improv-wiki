@@ -25,15 +25,15 @@ Jillian Summar is an improv performer, singing improv teacher, and vocal perform
 In ancient Egypt the sorceress Jillatep first heard the stirrings of improv inspiration...
 
 ## Troupes
-* [[Troupes/JK]]
-* [[Troupes/Doin' Maintenance]] (defunct)
-* [[Troupes/The Known Wizards]]
-* [[Troupes/Your Dad's Friends]]
+* [[Troupes/JK|JK]]
+* [[Troupes/Doin' Maintenance|Doin' Maintenance]] (defunct)
+* [[Troupes/The Known Wizards|The Known Wizards]]
+* [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 
 ## Shows
-* *[[Shows/Camp Madeupponathaspotta]]*
-* *[[Shows/History Under the Influence]]*
-* [[Shows/Hurly Burly]] 
+* *[[Shows/Camp Madeupponathaspotta|Camp Madeupponathaspotta]]*
+* *[[Shows/History Under the Influence|History Under the Influence]]*
+* [[Shows/Hurly Burly|Hurly Burly]] 
 
 [[Category/Performers|Summar]]
 [[Category/Teachers|Summar]]

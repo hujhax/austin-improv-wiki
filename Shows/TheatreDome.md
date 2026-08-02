@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -32,7 +32,7 @@
 ## Summary
 Every performance of *TheatreDome* pits two troupes against each other. 
 
-The winner (decided by audience vote) returns the next week to face a new challenger.  It is part of *[[Shows/The Wheel]]*.
+The winner (decided by audience vote) returns the next week to face a new challenger.  It is part of *[[Shows/The Wheel|The Wheel]]*.
 
 ## List of Bouts Featured
 *(**Bold text** denotes winner of bout)*
@@ -51,7 +51,7 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | **[[Run the Fools]]**
 |-
 | 1/26/2018
-| [[Troupes/¡ZARZAMORA!]]
+| [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 | **[[Yes Anderson]]**
 |-
 |2/2/2018
@@ -71,7 +71,7 @@ The winner (decided by audience vote) returns the next week to face a new challe
 | **[[Eenie Meanie Beanie Babies]]**
 |-
 |3/2/2018
-|  [[Troupes/The Library]]
+|  [[Troupes/The Library|The Library]]
 | **[[Eenie Meanie Beanie Babies]]**
 |-
 |3/23/2018
@@ -88,43 +88,43 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |-
 |4/13/2018
 |  [[RUN THE FOOLS]]
-| **[[Troupes/Three on a Match]]**
+| **[[Troupes/Three on a Match|Three on a Match]]**
 |-
 |4/20/2018
-|  **[[Shows/Soundstage 23]]**
-| [[Troupes/Three on a Match]]
+|  **[[Shows/Soundstage 23|Soundstage 23]]**
+| [[Troupes/Three on a Match|Three on a Match]]
 |-
 |4/27/2018
-|  **[[Shows/Soundstage 23]]**
+|  **[[Shows/Soundstage 23|Soundstage 23]]**
 | [[Manic Pixie Stix]]
 |-
 |5/4/2018
-|  **[[Shows/Soundstage 23]]**
+|  **[[Shows/Soundstage 23|Soundstage 23]]**
 | [[Frootopia]]
 |-
 |5/11/2018
-|  **[[Shows/Soundstage 23]]**
+|  **[[Shows/Soundstage 23|Soundstage 23]]**
 | [[Empty Promises]]
 |-
 |5/18/2018
-|  **[[Shows/Soundstage 23]]**
+|  **[[Shows/Soundstage 23|Soundstage 23]]**
 | [[Stevie Dicks]]
 |-
 |5/25/2018
-|  **[[Shows/Soundstage 23]]**
+|  **[[Shows/Soundstage 23|Soundstage 23]]**
 | [[Rough Ian]]
 |-
 |6/2/2018
-|  [[Shows/Soundstage 23]]
-| **[[Troupes/Soy Taco]]**
+|  [[Shows/Soundstage 23|Soundstage 23]]
+| **[[Troupes/Soy Taco|Soy Taco]]**
 |-
 |6/16/2018
 |  **[[Dixon]]**
-| [[Troupes/Soy Taco]]
+| [[Troupes/Soy Taco|Soy Taco]]
 |-
 |6/30/2018
 |  **[[Dixon]]**
-| [[Troupes/Channel 2]]
+| [[Troupes/Channel 2|Channel 2]]
 |-
 |7/6/2018
 |  **[[Dixon]]**

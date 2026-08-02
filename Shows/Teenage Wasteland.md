@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -24,9 +24,9 @@
   --><li style=""><a class="internal-link" href="Jason Burnett">Jason Burnett</a></li><!--
   --><li style=""><a class="internal-link" href="Rachel Denton">Rachel Denton</a></li><!--
   --><li style=""><a class="internal-link" href="Kyle Grier">Kyle Grier</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Performers/Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><li style=""><a class="internal-link" href="Chase Pritchett">Chase Pritchett</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Performers/Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
   --><li style="" ><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
   --><!--
   --><!--

@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Alessandra Manon">Alessandra Manon</a></li><!--
   --><li style=""><a class="internal-link" href="Bloom Davis">Bloom Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Cassadie Petersen">Cassadie Petersen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Performers/Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Fitzgerald">Matt Fitzgerald</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah Vasilas">Sarah Vasilas</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Seussed Up** was a one-off *[[Shows/Cagematch]]* team.
+**Seussed Up** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 4/30/14.

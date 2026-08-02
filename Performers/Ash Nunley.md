@@ -76,10 +76,10 @@
 Ms. Nunley moved away from Austin in 2015.
 
 ## Troupes
-* [[Troupes/No Frills]]
+* [[Troupes/No Frills|No Frills]]
 
 ## Shows
-* *[[Shows/Fuck It's Hot]]*
-* *[[Shows/Reform School For Wayward Girls]]*
+* *[[Shows/Fuck It's Hot|Fuck It's Hot]]*
+* *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
 
 [[Category/Performers|Nunley]]

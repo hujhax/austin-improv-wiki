@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ames and James.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image of [[Troupes/Ames and James]].
+Publicity image of [[Troupes/Ames and James|Ames and James]].
 
 Photo by: unknown.
 ## Licensing

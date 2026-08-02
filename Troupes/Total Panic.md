@@ -19,10 +19,10 @@
   --><li style=""><a class="internal-link" href="Brandt Pileggi">Brandt Pileggi</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
   --><li style=""><a class="internal-link" href="Brian Howard">Brian Howard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Performers/Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style=""><a class="internal-link" href="Jenny Calrson">Jenny Calrson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Performers/Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><li style="" ><a class="internal-link" href="Shyla Ray">Shyla Ray</a></li><!--
   --><!--
   --><!--
@@ -77,16 +77,16 @@
 * [Photoset](https://www.flickr.com/photos/coldtowne/sets/72157619852025521) of their 6/14/09 premiere.
 
 ## History
-Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 after the debut in December 2008 of the previous ColdTowne Student Troupe [[Troupes/Northshore Local]].  The cast was announced on 1/12/2009 with [[ColdTowne Faculty]] member [[Tami Nelson]] as the coach.  The following ColdTowne students were cast in "Troupe Six":
+Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 after the debut in December 2008 of the previous ColdTowne Student Troupe [[Troupes/Northshore Local|Northshore Local]].  The cast was announced on 1/12/2009 with [[ColdTowne Faculty]] member [[Tami Nelson]] as the coach.  The following ColdTowne students were cast in "Troupe Six":
 
 * [[Aaron Parker Fasel]]
 * [[Brandt Pileggi]]
 * [[Brian Engravalle]]
 * [[Brian Howard]]
-* [[Performers/Bryan Cruz]]
+* [[Performers/Bryan Cruz|Bryan Cruz]]
 * [[Jenny Calrson]]
-* [[Performers/Liz Brammer]]
-* [[Performers/Patrick Daniel]]
+* [[Performers/Liz Brammer|Liz Brammer]]
+* [[Performers/Patrick Daniel|Patrick Daniel]]
 * [[Shyla Ray]]
 
 

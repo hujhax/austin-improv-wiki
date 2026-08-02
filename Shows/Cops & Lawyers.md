@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,16 +70,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
   --><li style=""><a class="internal-link" href="Christina Bain">Christina Bain</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christopher Orf">Performers/Christopher Orf</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">Performers/David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Performers/Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christopher Orf">Christopher Orf</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><li style="" ><a class="internal-link" href="Sean Cooper">Sean Cooper</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Wesley Bain">Wesley Bain</a></li><!--
   --><!--
   --><!--
@@ -139,9 +139,9 @@ Like its source material, a *Cops & Lawyers* performance followed one crime, and
 The show ran from 7/29/06 to 9/30/06.
 
 ## Media
-* [Photoset of the 7/29/06 performance](http://www.facebook.com/media/set/?set=a.10151697338427265.1073741827.588952264&type=3) by [[Performers/Marc Majcher]].
-* [A one-minute video excerpt from the 7/29/06 performance](http://vimeo.com/66367260), shot by [[Performers/Marc Majcher]].
-* [Photoset of the 8/12/06 performance](http://www.facebook.com/media/set/?set=a.10151697344967265.1073741828.588952264&type=3) by [[Performers/Marc Majcher]].
+* [Photoset of the 7/29/06 performance](http://www.facebook.com/media/set/?set=a.10151697338427265.1073741827.588952264&type=3) by [[Performers/Marc Majcher|Marc Majcher]].
+* [A one-minute video excerpt from the 7/29/06 performance](http://vimeo.com/66367260), shot by [[Performers/Marc Majcher|Marc Majcher]].
+* [Photoset of the 8/12/06 performance](http://www.facebook.com/media/set/?set=a.10151697344967265.1073741828.588952264&type=3) by [[Performers/Marc Majcher|Marc Majcher]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

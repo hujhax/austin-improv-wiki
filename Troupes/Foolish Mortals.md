@@ -17,10 +17,10 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Perreira">Andy Perreira</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christopher 'Ceej' Allen">Performers/Christopher 'Ceej' Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Performers/Ted Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Performers/Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,12 +73,12 @@
 **Foolish Mortals** was an improv troupe.
 
 ## History
-The troupe formed with a large number of improvisors, but quickly reduced down to a core cast of [[Andrea Young]], [[Andy Perreira]], [[Performers/Christopher 'Ceej' Allen]], [[Ed Piston]], [[Jill Morris]], [[Performers/Ted Rutherford]], and [[Performers/Troy Miller]].
+The troupe formed with a large number of improvisors, but quickly reduced down to a core cast of [[Andrea Young]], [[Andy Perreira]], [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], [[Ed Piston]], [[Jill Morris]], [[Performers/Ted Rutherford|Ted Rutherford]], and [[Performers/Troy Miller|Troy Miller]].
 
-[[Ed Piston]] quit the troupe shortly before [[Jill Morris]] and [[Andy Perreira]] both moved away from Austin.  After that, the troupe dissolved, with several of the remaining members regrouping in [[Troupes/Junk]] that same year.
+[[Ed Piston]] quit the troupe shortly before [[Jill Morris]] and [[Andy Perreira]] both moved away from Austin.  After that, the troupe dissolved, with several of the remaining members regrouping in [[Troupes/Junk|Junk]] that same year.
 
 ### Former Members
-* [[Performers/Kevin Miller]] (2003-2004)
+* [[Performers/Kevin Miller|Kevin Miller]] (2003-2004)
 * [[Ed Piston]] (2003-2006)
 
 ## More Information

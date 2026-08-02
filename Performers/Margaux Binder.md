@@ -25,9 +25,9 @@
 
 
 ## Troupes
-* [[Troupes/The Control Group]]
+* [[Troupes/The Control Group|The Control Group]]
 
 ## Shows
-* *[[Shows/The Fancy-Pants Mashup]]*
+* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 
 [[Category/Performers|Binder]]

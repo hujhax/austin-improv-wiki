@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -23,16 +23,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Performers/Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Performers/Craig Kotfas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Performers/Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Performers/Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Performers/Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,12 +79,12 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brandon Salinas">Brandon Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Performers/Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Performers/Sara Farr</a> (sound design)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Performers/Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a> (sound design)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -143,11 +143,11 @@
 The show improvised the same narrative three times, with three radically different outcomes based on slight changes in causal incidents. 
 
 ## History
-*[[Shows/Lola]]* was the first 8pm show put on by [[Gnap! Theater Projects]].  It ran on Fridays and Saturdays from 2/6/09 to 3/14/09, and comprised one of the hours of [[The 40-Hour Improv Marathon]] on 6/27/09.
+*[[Shows/Lola|Lola]]* was the first 8pm show put on by [[Gnap! Theater Projects]].  It ran on Fridays and Saturdays from 2/6/09 to 3/14/09, and comprised one of the hours of [[The 40-Hour Improv Marathon]] on 6/27/09.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Performers/Peter Rogers]] of the 6/27/09 performance during [[The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 6/27/09 performance during [[The 40-Hour Improv Marathon]].
 
 ### Publicity
 * [Trailer for the show.](http://youtu.be/xyBEnvbJx_Y)

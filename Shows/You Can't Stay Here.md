@@ -14,29 +14,29 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers/Tosin awofeso">Performers/Tosin awofeso</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Performers/Alex Ayala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Performers/Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Performers/Clint Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="Jessy Schwartz">Jessy Schwartz</a></li><!--
   --><li style="" ><a class="internal-link" href="Letty Tomlinson">Letty Tomlinson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Performers/Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Performers/Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -155,9 +155,9 @@ From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad
 
 ### Tom's Place
 ![[Toms-place.jpg|Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)]]
-*You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Performers/Asaf Ronen]], [[Performers/Kenny Madison]], and [[Will Cleveland]] served as quizmasters.
+*You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Kenny Madison|Kenny Madison]], and [[Will Cleveland]] served as quizmasters.
 
-Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director [[Performers/Brad Hawkins]] announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.
+Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director [[Performers/Brad Hawkins|Brad Hawkins]] announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.
 <div style="clear: both"></div>
 
 ## Media
@@ -167,7 +167,7 @@ Following the quiz, the first scene of the show began in Tom's Place. The four c
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.961898103873706.1073742197.221927764537414&type=3) by [[Steve Rogers]] of their 5/15/15 debut.
-* [Photoset](http://www.facebook.com/media/set/?set=a.842131695863343.1073741859.473177099425473&type=3) by [[Performers/Chad Wellington]] of the 6/12/15 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.842131695863343.1073741859.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 6/12/15 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.986488161414700.1073742215.221927764537414&type=3) by [[Steve Rogers]] of their 6/19/15 closing night.
 
 ## More Information

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Performers/Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -69,22 +69,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
-			<td class="category">[[Performers/Ammon Taylor]]</td>
+			<td class="category">[[Performers/Ammon Taylor|Ammon Taylor]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Schwartz">Performers/David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Performers/Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Performers/Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Performers/Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
   --><li style="" ><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Performers/Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Performers/Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -128,7 +128,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Jessica T. Von Schramm]] (stage manager)</td>
+			<td class="category">[[Performers/Jessica T. Von Schramm|Jessica T. Von Schramm]] (stage manager)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -147,7 +147,7 @@ From the show announcement:<blockquote>Improvised musicals inspired by Disney ch
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.999529213443928.1073742220.221927764537414&type=3) by [[Steve Rogers]] of the 7/11/2015 Opening Night performance.
-* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152875594400793.1073741885.666390792&type=3) by [[Performers/Dave alley]] of the 7/25/2015 performance.
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152875594400793.1073741885.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of the 7/25/2015 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204592804282809.1073741960.1315383518&type=3) by [[Michael Yew]] of the 8/1/2015 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204627104700298.1073741961.1315383518&type=3) by [[Michael Yew]] of the 8/8/2015 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1021281541268695.1073742231.221927764537414&type=3) by [[Steve Rogers]] of the 8/15/2015 performance.

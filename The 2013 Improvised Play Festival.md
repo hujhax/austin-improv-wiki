@@ -4,22 +4,22 @@ It ran from 4/11/13 to 4/13/13.
 
 ## Acts
 ### Local Acts
-* [[Troupes/The Amazon and The Milksop]] present Fitzgeralds for Hire
-* [[Troupes/Available Cupholders]]
-* *[[Shows/The Black Vault]]*
-* [[Troupes/Confidence Men]]
-* [[Troupes/The Escorts]]
-* [[Shows/False Matters]]
-* [[Troupes/Get Up]]
-* [[Troupes/Goat]]
-* [[Troupes/In Our Prime]]
-* *[[Shows/Live Nude Improv]]*
-* [[Troupes/Local Genius Society]]
-* [[Troupes/Miller and Purselley]]
-* [[Troupes/Parallelogramophonograph]] 
-* *[[Troupes/Past Lives]]*
-* *[[Shows/Pulp Friction]]*
-* *[[Shows/Strange Worlds]]*
+* [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]] present Fitzgeralds for Hire
+* [[Troupes/Available Cupholders|Available Cupholders]]
+* *[[Shows/The Black Vault|The Black Vault]]*
+* [[Troupes/Confidence Men|Confidence Men]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Shows/False Matters|False Matters]]
+* [[Troupes/Get Up|Get Up]]
+* [[Troupes/Goat|Goat]]
+* [[Troupes/In Our Prime|In Our Prime]]
+* *[[Shows/Live Nude Improv|Live Nude Improv]]*
+* [[Troupes/Local Genius Society|Local Genius Society]]
+* [[Troupes/Miller and Purselley|Miller and Purselley]]
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
+* *[[Troupes/Past Lives|Past Lives]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]*
+* *[[Shows/Strange Worlds|Strange Worlds]]*
 * *[[The Tribunal]]*
 
 ### Out-of-Town Acts

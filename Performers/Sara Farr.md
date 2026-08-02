@@ -73,32 +73,32 @@
 **Sara Farr** is an improv performer and technical improvisor.  She is the woman behind the [[Puppet Improv Project]].
 
 ## History
-Sara started performing in 2005 with [[Troupes/Wooden Nickel]]; that same year, she organized [[The Tuesday Night Jam]] at [[The Hideout Theatre]].  Her first improv-scoring was for [[Troupes/Get Up]] at [[The 2005 Out of Bounds Comedy Festival]].  The following year, she started performing with [[Troupes/The Leading Brands]] and regularly scoring [[Troupes/Get Up]].
+Sara started performing in 2005 with [[Troupes/Wooden Nickel|Wooden Nickel]]; that same year, she organized [[The Tuesday Night Jam]] at [[The Hideout Theatre]].  Her first improv-scoring was for [[Troupes/Get Up|Get Up]] at [[The 2005 Out of Bounds Comedy Festival]].  The following year, she started performing with [[Troupes/The Leading Brands|The Leading Brands]] and regularly scoring [[Troupes/Get Up|Get Up]].
 
-In 2009, she founded the [[Puppet Improv Project]], which has since had several show runs, and festival appearances at [[The Out Of Bounds Comedy Festival]] and the Twin Cities Fest.  She began performing with [[Troupes/ComedySportz]] in 2010, but its Austin chapter dissolved in 2012 (she still makes guest appearances in San Antonio).
+In 2009, she founded the [[Puppet Improv Project]], which has since had several show runs, and festival appearances at [[The Out Of Bounds Comedy Festival]] and the Twin Cities Fest.  She began performing with [[Troupes/ComedySportz|ComedySportz]] in 2010, but its Austin chapter dissolved in 2012 (she still makes guest appearances in San Antonio).
 
-She's scored many shows at [[The Hideout Theatre]], and in 2013 started teching occasionally for [[Troupes/Girls Girls Girls]].
+She's scored many shows at [[The Hideout Theatre]], and in 2013 started teching occasionally for [[Troupes/Girls Girls Girls|Girls Girls Girls]].
 
 Sara also designed the [[Austin Improv Collective]]'s "kitchen sink" logo.
 
-A post from her about the first improv show she ever saw:<blockquote><p>A stand-up show at a comedy club in Santa Monica (early 1990s; not Laugh Factory, not Comedy Store, hm...) while attending college at USC. The last set, after all the other stand-ups, was a group of LA character actors (whose names I can't remember, but who I distinctly remember were staring in sitcoms or playing secondary rolls in films). It was shockingly fun. I remember thinking, "Why weren't these guys the opening act???!!" The one game they played that I remember was "Directed Story". A year later, [[Performers/Tom Booker]] and I unknowingly ALMOST crossed paths when my friends and I discussed going to see his production of "The Brady Bunch".</p> 
+A post from her about the first improv show she ever saw:<blockquote><p>A stand-up show at a comedy club in Santa Monica (early 1990s; not Laugh Factory, not Comedy Store, hm...) while attending college at USC. The last set, after all the other stand-ups, was a group of LA character actors (whose names I can't remember, but who I distinctly remember were staring in sitcoms or playing secondary rolls in films). It was shockingly fun. I remember thinking, "Why weren't these guys the opening act???!!" The one game they played that I remember was "Directed Story". A year later, [[Performers/Tom Booker|Tom Booker]] and I unknowingly ALMOST crossed paths when my friends and I discussed going to see his production of "The Brady Bunch".</p> 
 
 <p>Also, saw some USC Theater students doing improv on the grass in the "quad". Only thing I remember was them doing an improvised "Death By..." scene. Fav was "Death By Admissions" where the players grew old and died while waiting in line.</p></blockquote>
 
 ## Troupes
-* [[Troupes/ComedySportz]]
-* [[Troupes/Get Up]] (tech)
-* [[Troupes/Girls Girls Girls]] (tech)
-* [[Troupes/The Leading Brands]]
-* [[Troupes/Wooden Nickel]]
+* [[Troupes/ComedySportz|ComedySportz]]
+* [[Troupes/Get Up|Get Up]] (tech)
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]] (tech)
+* [[Troupes/The Leading Brands|The Leading Brands]]
+* [[Troupes/Wooden Nickel|Wooden Nickel]]
 
 ## Shows
 * *[[Dusk]]*
-* *[[Shows/Haunted]]*
-* *[[Shows/Heist!]]*
-* *[[Shows/Hitchcocked!]]*
+* *[[Shows/Haunted|Haunted]]*
+* *[[Shows/Heist!|Heist!]]*
+* *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * [[Live TV Tuesdays -  Angel]] (assistant director)
-* *[[Shows/Lola]]* (tech, sound design)
+* *[[Shows/Lola|Lola]]* (tech, sound design)
 * [[Puppet Improv Project]] productions:
 	* *[[Crack]]*
 	* *[[Elf Employment]]*

@@ -14,11 +14,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Monica Martinez Maher">Performers/Monica Martinez Maher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Monica Martinez Maher">Monica Martinez Maher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
@@ -34,7 +34,7 @@
   --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
   --><li style=""><a class="internal-link" href="Jerrad Lindenmuth">Jerrad Lindenmuth</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Michelle Dahlenberg">Michelle Dahlenberg</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Rose">Scott Rose</a></li><!--
   --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--

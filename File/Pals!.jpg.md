@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Pals!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for [[Troupes/Pals!]].
+Publicity art for [[Troupes/Pals!|Pals!]].
 
 Art by: unknown.
 ## Licensing

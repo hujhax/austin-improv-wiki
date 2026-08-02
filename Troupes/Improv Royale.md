@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Performers/Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Performers/Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Performers/Jericho Thorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Jericho Thorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><li style=""><a class="internal-link" href="Todd Schaenbacher">Todd Schaenbacher</a></li><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:*This page refers to the 2011 improv troupe based around pro-wrestler persona-prov.  For the 2014 [[ColdTowne]] mainstage run based on pro-wrestling-based Saturday morning cartoons, see *[[Shows/Slam Team Six]]''.
+:*This page refers to the 2011 improv troupe based around pro-wrestler persona-prov.  For the 2014 [[ColdTowne]] mainstage run based on pro-wrestling-based Saturday morning cartoons, see *[[Shows/Slam Team Six|Slam Team Six]]''.
 **Improv Royale** was an improv troupe with pro-wrestling-style persona-prov.
 
 ## Summary
@@ -84,11 +84,11 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ### Cast
 * [[Brent Foshee]] as The Texecutioner
-* [[Performers/Brett Tribe]] as El Tribe Loco
-* [[Performers/Bryan Roberts]] as The Natural Boy
-* [[Performers/Dave Buckman]] as Baby Bob Buckland
-* [[Performers/Jericho Thorpe]] as Psychobilly
-* [[Performers/Lance Gilstrap]] as Harrison Mack, The Business Maniac
+* [[Performers/Brett Tribe|Brett Tribe]] as El Tribe Loco
+* [[Performers/Bryan Roberts|Bryan Roberts]] as The Natural Boy
+* [[Performers/Dave Buckman|Dave Buckman]] as Baby Bob Buckland
+* [[Performers/Jericho Thorpe|Jericho Thorpe]] as Psychobilly
+* [[Performers/Lance Gilstrap|Lance Gilstrap]] as Harrison Mack, The Business Maniac
 * [[Nick Ramierez]] as Stone Cold Nick Ramirez
 * [[Todd Schanbacher]] as The Ultimate Midwesterner
 

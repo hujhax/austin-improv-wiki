@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

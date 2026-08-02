@@ -27,13 +27,13 @@ David has studied primarily with [[Merlin Works]] and [[The Institution Theater]
 * Institution Theater Improv 601 graduate, 2018
 
 ## Troupes
-* *[[Troupes/Epic]]* (Core cast member, 2017 - present)
+* *[[Troupes/Epic|Epic]]* (Core cast member, 2017 - present)
 
 ## Shows
-* *[[Troupes/Epic]]* (2012, 2014, 2015)
-* *[[Shows/The Sword of Merlin Works]]* (2012)
-* *[[Shows/The Amazing Improvised Race]]* (2012)
-* *[[Shows/The Trouble With Terry]]* (2011)
+* *[[Troupes/Epic|Epic]]* (2012, 2014, 2015)
+* *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]* (2012)
+* *[[Shows/The Amazing Improvised Race|The Amazing Improvised Race]]* (2012)
+* *[[Shows/The Trouble With Terry|The Trouble With Terry]]* (2011)
 
 
 [[Category/Performers|Wells]]

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Performers/Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,10 +70,10 @@
 	</table>
 </div>
 
-**Faster, Robot! Kill! Kill!** is an improv duo consisting of [[Performers/Brett Tribe]] and [[Performers/Lisa Jackson]].
+**Faster, Robot! Kill! Kill!** is an improv duo consisting of [[Performers/Brett Tribe|Brett Tribe]] and [[Performers/Lisa Jackson|Lisa Jackson]].
 
 ## History
-Here is [[Performers/Brett Tribe]]'s explanation of the name's origin:<blockquote><p>Brett Tribe posted to Lisa Michelle Jackson<br>
+Here is [[Performers/Brett Tribe|Brett Tribe]]'s explanation of the name's origin:<blockquote><p>Brett Tribe posted to Lisa Michelle Jackson<br>
 June 20, 2011<br>
 When are we going to get to play together? Two person troupe? "Faster Robot Kill Kill"?</p>
 

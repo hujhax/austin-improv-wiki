@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Emily Breedlove - Tribunal.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Emily Breedlove]], performing in *[[The Tribunal]]* on 9/8/12.
+[[Performers/Emily Breedlove|Emily Breedlove]], performing in *[[The Tribunal]]* on 9/8/12.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3).
 ## Licensing

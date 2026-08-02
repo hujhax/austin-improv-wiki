@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Umami.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Umami]].
+Publicity photo of [[Troupes/Umami|Umami]].
 
 Photo by: unknown.
 ## Licensing

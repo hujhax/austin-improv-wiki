@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mister Morbid.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]], featuring [[Performers/Tom Booker]] as Mister Morbid.
+Publicity image for [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]], featuring [[Performers/Tom Booker|Tom Booker]] as Mister Morbid.
 
 Photo by: unknown.
 

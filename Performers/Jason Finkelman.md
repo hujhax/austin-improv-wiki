@@ -25,20 +25,20 @@ __NOINDEX__
 ## History
 Jason began performing improv after taking classes at the University of Florida in 2000.  After college, he performed improv as a member of Just The Funny and Model Citizens in Miami, Florida and festivals throughout the country.
 
-Since moving to Austin in 2010, he has appeared in *[[Shows/Rock]]* and was the show director for [[Troupes/The Seven Eight Sevens]].
+Since moving to Austin in 2010, he has appeared in *[[Shows/Rock|Rock]]* and was the show director for [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]].
 
-He is a member of Austin troupes [[Troupes/The Intentions]], [[Troupes/Array]], [[Newsical]], and [[Troupes/The Wombmates]].
+He is a member of Austin troupes [[Troupes/The Intentions|The Intentions]], [[Troupes/Array|Array]], [[Newsical]], and [[Troupes/The Wombmates|The Wombmates]].
 
 ## Troupes
-* [[Troupes/The Intentions]] (2010)
-* [[Troupes/The Seven Eight Sevens]] (director) (2012)
+* [[Troupes/The Intentions|The Intentions]] (2010)
+* [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]] (director) (2012)
 * [[Duck Duck Boom]] (2011)
-* [[Troupes/Array]] (2013)
+* [[Troupes/Array|Array]] (2013)
 * [[Newsical]] (2013)
-* [[Troupes/The Wombmates]] (2013)
+* [[Troupes/The Wombmates|The Wombmates]] (2013)
 
 ## Shows
-* *[[Shows/Rock]]*
+* *[[Shows/Rock|Rock]]*
 
 [[Category/Performers|Finkelman]]
 [[Category/Directors|Finkelman]]

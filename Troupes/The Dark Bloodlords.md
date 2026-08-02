@@ -16,14 +16,14 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Performers/Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Performers/Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Performers/Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Performers/Mike Kinald</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Performers/Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **The Dark Bloodlords** was an improv troupe.
 
 ## History
-The troupe originated the Choose-Your-Own-Adventure-based format that would become *[[Shows/Pick Your Own Path]]*.
+The troupe originated the Choose-Your-Own-Adventure-based format that would become *[[Shows/Pick Your Own Path|Pick Your Own Path]]*.
 
 [[Category/Troupes|Dark Bloodlords]]
 

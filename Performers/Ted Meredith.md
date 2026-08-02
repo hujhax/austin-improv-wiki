@@ -80,10 +80,10 @@ Ted's biography on the web site for [[The Institution Theater]] is as follows:<b
 
 <P>Ted has a BFA, cum laude, in Acting for Theater from Southwestern University, where he studied Viewpoints, Alexander Technique, Directing, Dance, Voice, etc. Upon graduating he joined the company of Austin Shakespeare, performed with Zilker Hillside Musical, and was one of the founding members of the Austiner Ensemble. He has been nominated for B. Iden Payne and Austin Critic's Table awards, and was winner of of his High School's Mr. PHS Theater award! He is also a frequent performer for [[ZACH Theater]]'s children shows and Austin Shakespeare's roaming production of the World's Fastest Hamlet.</P>
 
-<P>Ted can be seen in the web series *Freelancers*, on which Ted is a co-writer/creator/director/actor with Erica Lies. Ted has also been cast in several commercials and films, including Austin-set film *The Two Bobs* and the upcoming *Days of Delusion*. You can watch Ted perform in real life with [[Troupes/Church Potluck]] (The Institution house team), [[Esther's Follies]] (every Thurs, Fri, & Sat), and *[[The Best of Everything]]* (once a month at the Highball).</P></blockquote>
+<P>Ted can be seen in the web series *Freelancers*, on which Ted is a co-writer/creator/director/actor with Erica Lies. Ted has also been cast in several commercials and films, including Austin-set film *The Two Bobs* and the upcoming *Days of Delusion*. You can watch Ted perform in real life with [[Troupes/Church Potluck|Church Potluck]] (The Institution house team), [[Esther's Follies]] (every Thurs, Fri, & Sat), and *[[The Best of Everything]]* (once a month at the Highball).</P></blockquote>
 
 ## Troupes
-* [[Troupes/Church Potluck]]
+* [[Troupes/Church Potluck|Church Potluck]]
 * [[Esther's Follies]]
 
 ## Shows

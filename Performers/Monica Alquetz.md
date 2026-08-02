@@ -27,24 +27,24 @@ Monica loves teaching improv because of how it reshapes people’s thinking when
 ![[Performance Photo.jpg]]
 
 ## Troupes
-* [[Troupes/Mother Punch]]
-* [[Troupes/Soy Taco]]
+* [[Troupes/Mother Punch|Mother Punch]]
+* [[Troupes/Soy Taco|Soy Taco]]
 * [[Gal Pals]]
 * [[The Association]]
 
 ![[Performance Pic 3.jpg]]
 
 ## Shows
-* *[[Shows/Fiasco]]*
+* *[[Shows/Fiasco|Fiasco]]*
 * *[[Coven]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/Sexy Future Space Lady]]*
-* *[[Shows/I'll Take the Physical Challenge]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/Sexy Future Space Lady|Sexy Future Space Lady]]*
+* *[[Shows/I'll Take the Physical Challenge|I'll Take the Physical Challenge]]*
 * *[[Silk Pajamas]]*
-* *[[Shows/The Black Vault]]*
+* *[[Shows/The Black Vault|The Black Vault]]*
 * *[[Small Town Girl]]*
 * *[[Hallmark Holiday Musical]]*
-* *[[Shows/The Big Bash]]*
+* *[[Shows/The Big Bash|The Big Bash]]*
 * *[[Hideout Theatre's 48-Hour Marathon]]*
 
 [[Category/Performers|Alquetz]]

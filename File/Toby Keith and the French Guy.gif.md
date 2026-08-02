@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Toby Keith and the French Guy.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Troupes/Toby Keith and the French Guy]].
+Logo for [[Troupes/Toby Keith and the French Guy|Toby Keith and the French Guy]].
 
 Art by: unknown.
 ## Licensing

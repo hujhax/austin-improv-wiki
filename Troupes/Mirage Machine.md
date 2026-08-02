@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="David Moses Fruchter">David Moses Fruchter</a></li><!--
   --><li style=""><a class="internal-link" href="Juese Cutler">Juese Cutler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Performers/Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
   --><li style=""><a class="internal-link" href="Amanda Smith">Amanda Smith</a></li><!--
   --><!--
   --><!--
@@ -84,7 +84,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 ## Media
 ### Photoset
 * [Photoset](http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/14/15 performance at *[[The Knockout]]*.
-	* [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier]] of the same show.
+	* [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the same show.
 
 ## More Information
 * [The troupe's web site.](http://www.miragemachineimprov.com/)

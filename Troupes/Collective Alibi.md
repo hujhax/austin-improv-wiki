@@ -74,7 +74,7 @@
 	</table>
 </div>
 
-**Collective Alibi** was an improv troupe.  They animorphed into [[Troupes/Kinkade]].
+**Collective Alibi** was an improv troupe.  They animorphed into [[Troupes/Kinkade|Kinkade]].
 
 ## Summary
 ### Press Blurb

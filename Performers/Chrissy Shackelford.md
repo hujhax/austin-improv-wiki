@@ -27,14 +27,14 @@ Before coming to improv, Chrissy Shackelford attended the University of Texas at
 (1) Austin Critic's Table Award for Best Production of a Drama
 
 ## Troupes
-* [[Troupes/Nice Astronaut]] (April 2012- January 2013)
-* [[Troupes/Men In Chrissy's Life]] (2013-present)
-* [[Troupes/Cheap Date]] (2013-present)
-* [[Shows/Stool Pigeon]] (2013-present)
+* [[Troupes/Nice Astronaut|Nice Astronaut]] (April 2012- January 2013)
+* [[Troupes/Men In Chrissy's Life|Men In Chrissy's Life]] (2013-present)
+* [[Troupes/Cheap Date|Cheap Date]] (2013-present)
+* [[Shows/Stool Pigeon|Stool Pigeon]] (2013-present)
 * [[Powerball]] (2013-present)
 
 ## Shows
-* *[[Shows/Indy Movies]]*
+* *[[Shows/Indy Movies|Indy Movies]]*
 
 ## More Information
 * [Interview](http://gybpodcast.libsyn.com/chrissy-shackelford-ep-19-got-your-back) on *[[Got Your Back]]*.

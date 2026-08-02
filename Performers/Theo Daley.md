@@ -22,11 +22,11 @@
 **Theo Daley** is an improv performer.
 
 ## Troupes
-* [[Troupes/Bad Font]]
-* [[Troupes/Mirage Machine]]
+* [[Troupes/Bad Font|Bad Font]]
+* [[Troupes/Mirage Machine|Mirage Machine]]
 
 ## Shows
-* *[[Shows/A Penny Dreadful]]*
-* *[[Shows/Austin Secrets]]*
+* *[[Shows/A Penny Dreadful|A Penny Dreadful]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
 
 [[Category/Performers|Daley]]

@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="'Joel'">'Joel'</a></li><!--
   --><li style=""><a class="internal-link" href="'Nicole'">'Nicole'</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Fred Bothwell">Fred Bothwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Performers/Jericho Thorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Jericho Thorpe</a></li><!--
   --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**FredProv** was a one-off *[[Shows/Cagematch]]* team.
+**FredProv** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 7/11/09.

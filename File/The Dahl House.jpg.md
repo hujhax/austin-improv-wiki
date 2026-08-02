@@ -1,13 +1,13 @@
 <div style="text-align: center;"><img src="The Dahl House.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Shows/The Dahl House]]*.
+Publicity image for *[[Shows/The Dahl House|The Dahl House]]*.
 
-Photo concept by [[Performers/Valerie Ward]].
+Photo concept by [[Performers/Valerie Ward|Valerie Ward]].
 
 Photo by [[Tania Quintanilla]].
 
-Art by [[Performers/Kaci Beeler]].
+Art by [[Performers/Kaci Beeler|Kaci Beeler]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

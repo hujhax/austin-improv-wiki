@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jason Oliver">Performers/Jason Oliver</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -22,11 +22,11 @@
   --><li style=""><a class="internal-link" href="Aaron Roxby">Aaron Roxby</a></li><!--
   --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
   --><li style=""><a class="internal-link" href="Chris Sebilia">Chris Sebilia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Performers/Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Performers/Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
   --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
   --><li style=""><a class="internal-link" href="Steve Jaffe">Steve Jaffe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Performers/Zac Grantham</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -89,7 +89,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 7/20/12 performance in *[[Shows/The TV Set]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/20/12 performance in *[[Shows/The TV Set|The TV Set]]*.
 
 ## More Information
 * [Notice for the 5/26/12 auditions](http://forum.austinimprov.com/viewtopic.php?t=13457) on [[The Austin Improv Forums]].

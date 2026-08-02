@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Whirled News Tonight.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Framed poster for *[[Shows/Whirled News Tonight]]*.
+Framed poster for *[[Shows/Whirled News Tonight|Whirled News Tonight]]*.
 
 Art by: unknown.
 ## Licensing

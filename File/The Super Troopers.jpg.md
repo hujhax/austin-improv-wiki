@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Super Troopers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/The Super Troupers]], in their 7/22/12 student show at [[Coldtowne Theater]].
+[[Troupes/The Super Troupers|The Super Troupers]], in their 7/22/12 student show at [[Coldtowne Theater]].
 
 Still from a video.
 

@@ -22,14 +22,14 @@
 **Ann Symmonds** (formerly **Ann Nelson**) is an improv performer. She's studied at the Hideout and Institution Theatres and tries to perform as often as she can with her troupes, Physics Curse and Boomerang, or in weekly shows like Maestro. To support her improv habit she's a fundraiser for the Food Bank. 
 
 ## Shows
-* *[[Shows/The Dahl House]]*
-* *[[Shows/Origins]]*
-* *[[Shows/Story to the Death]]*
-* *[[Shows/I'll Take the Physical Challenge!]]*
+* *[[Shows/The Dahl House|The Dahl House]]*
+* *[[Shows/Origins|Origins]]*
+* *[[Shows/Story to the Death|Story to the Death]]*
+* *[[Shows/I'll Take the Physical Challenge!|I'll Take the Physical Challenge!]]*
 
 ## Troupes
-* [[Troupes/Physics Curse]] 
-* [[Troupes/Boomerang]] 
+* [[Troupes/Physics Curse|Physics Curse]] 
+* [[Troupes/Boomerang|Boomerang]] 
 
 ## More Information
 [[Category/Performers|Symmonds]]

@@ -60,25 +60,25 @@
 
 ## Improv Troupes
 * [[Troupes/Apocalypse (troupe)|Apocalypse]] (2012)
-* [[Troupes/In Our Prime]] (2011 - 2025)
-* [[Troupes/Two Guys from Yonkers]] (2011 - 2013)
-* [[Troupes/We're Here to Date Your Daughter]] (2012 - 2016)
-* [[Troupes/The Known Wizards]] (2020 - Present)
+* [[Troupes/In Our Prime|In Our Prime]] (2011 - 2025)
+* [[Troupes/Two Guys from Yonkers|Two Guys from Yonkers]] (2011 - 2013)
+* [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]] (2012 - 2016)
+* [[Troupes/The Known Wizards|The Known Wizards]] (2020 - Present)
 * [[We're Moving]] (2025 - Present)
 
 ## Improv Shows
-* *[[Troupes/EPIC!]]* (Season 1 & 2 - 2011)
-* *[[Shows/The Sword of Merlin Works]]* (2012)
-* *[[Shows/The Black Vault]]* (2012-)
-* *[[Shows/Austin Secrets]]* (2012)
-* *[[Shows/The Next Chapter]]* (2013)
-* *[[Shows/The ReSet Project]]* (2013)
-* *[[Shows/Pick Your Own Path]]* (2013-)
+* *[[Troupes/EPIC!|EPIC!]]* (Season 1 & 2 - 2011)
+* *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]* (2012)
+* *[[Shows/The Black Vault|The Black Vault]]* (2012-)
+* *[[Shows/Austin Secrets|Austin Secrets]]* (2012)
+* *[[Shows/The Next Chapter|The Next Chapter]]* (2013)
+* *[[Shows/The ReSet Project|The ReSet Project]]* (2013)
+* *[[Shows/Pick Your Own Path|Pick Your Own Path]]* (2013-)
 * *[[Elf Employment]]* (2013 Guest)
-* *[[Shows/Thinning The Herd]]* (2013-2014)
-* *[[Shows/Hurly Burly]]* (2014-2017)
-* *[[Shows/Improv Anonymous]]* (2014 - )
-* *[[Shows/Grimm Noir]]* (2015)
+* *[[Shows/Thinning The Herd|Thinning The Herd]]* (2013-2014)
+* *[[Shows/Hurly Burly|Hurly Burly]]* (2014-2017)
+* *[[Shows/Improv Anonymous|Improv Anonymous]]* (2014 - )
+* *[[Shows/Grimm Noir|Grimm Noir]]* (2015)
 * ''["Austin Playback Theatre"](https://austinplaybacktheatre.wordpress.com/) (2015 - 2018)
 * *[[Shattered]]* (2019) 
 
@@ -101,26 +101,26 @@
 * ''[Cochise: Student Mainstage Run](http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run) Assistant Director (2014)
 
 ## Improv History
-Paul decided to take Improv classes after seeing a [[Troupes/Firth & Arjet]] show at [[The Hideout Theatre]]. He completed the classes at [[The Hideout Theatre]] and [[Merlin Works Institute for Improvisation]]. And is now the dean of the [[Merlin Works Institute for Improvisation]]. Paul is a teacher and performer with a focus on narrative Improvisation and true, personal Storytelling.   
+Paul decided to take Improv classes after seeing a [[Troupes/Firth & Arjet|Firth & Arjet]] show at [[The Hideout Theatre]]. He completed the classes at [[The Hideout Theatre]] and [[Merlin Works Institute for Improvisation]]. And is now the dean of the [[Merlin Works Institute for Improvisation]]. Paul is a teacher and performer with a focus on narrative Improvisation and true, personal Storytelling.   
 
-Paul completed classes at [[The Hideout Theatre]] with his friend and classmate, [[Performers/Bobby Ford]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Troupes/Two Guys from Yonkers]]" on October 31, 2011.  
+Paul completed classes at [[The Hideout Theatre]] with his friend and classmate, [[Performers/Bobby Ford|Bobby Ford]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Troupes/Two Guys from Yonkers|Two Guys from Yonkers]]" on October 31, 2011.  
 
-Other classmates included [[Performers/Brad Hawkins]], [[Performers/Chad Wellington]], [[Katherine Greco]], and [[Performers/Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
+Other classmates included [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Chad Wellington|Chad Wellington]], [[Katherine Greco]], and [[Performers/Cindy Page|Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
-Paul conceived of and started a dramedy focused troupe [[Troupes/In Our Prime]] in 2011 with [[Performers/Gloria Rabil-Bankler]], [[Performers/Ryan Hill]], and [[Performers/Jessica Arjet]].
+Paul conceived of and started a dramedy focused troupe [[Troupes/In Our Prime|In Our Prime]] in 2011 with [[Performers/Gloria Rabil-Bankler|Gloria Rabil-Bankler]], [[Performers/Ryan Hill|Ryan Hill]], and [[Performers/Jessica Arjet|Jessica Arjet]].
 
-Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[Shows/The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[Troupes/We're Here to Date Your Daughter]] founded in 2012. 
+Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]] founded in 2012. 
 
-He has also produced one off shows for [[Shows/The Free Fringe]] at [[The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Prairie.
+He has also produced one off shows for [[Shows/The Free Fringe|The Free Fringe]] at [[The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Prairie.
 
-Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Performers/Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the ["2017 Texas Storytelling Festival StorySlam"](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf) in March.
+Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Performers/Ryan Hill|Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the ["2017 Texas Storytelling Festival StorySlam"](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf) in March.
 
 Paul was a teaching assistant at [[The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[The Hideout Theatre]]'s annual [[Wafflefest]] from 2014 to 2018. 
 
 Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul took on the Role of Dean of [[Merlin Works Institute for Improvisation]] in 2021 and left the role in 2024. Paul continues to teach to include Improv and Storytelling classes and workshops. In his spare time, he lives to play ["Ultimate"](http://https://austinultimate.org/), run weekly ["Tabletop Role-Playing Game"](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) Campaigns, and write speculative fiction.
 
 ## More Information
-* ["In Praise Of..." post](http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/) by [[Performers/Mia Iseman]].
+* ["In Praise Of..." post](http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/) by [[Performers/Mia Iseman|Mia Iseman]].
 * ["Twisting Tales"](http://www.dentonrc.com/local-news/local-news/2017/03/12/twisting-tales-32nd-annual-texas-storytelling-festival-comes-end#ssStory3048322/) by Harrison Long.
 
 

@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
   --><!--
   --><!--
@@ -74,9 +74,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>Malk is the two person troupe mashing up [[Performers/Lance Gilstrap]] and [[Mac Blake]].</p> 
+Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>Malk is the two person troupe mashing up [[Performers/Lance Gilstrap|Lance Gilstrap]] and [[Mac Blake]].</p> 
 
-<p>Between them, half of Austin's comedy has been covered... [[Troupes/Midnight Society]], KOOP's Mascot Wedding, Master Pancake Theater, *[[Shows/The Hustle Show]]*, [[Troupes/Stag Comedy]], [[Troupes/Hot Property]], and a finalist in the Funniest Person in Austin.</p></blockquote>
+<p>Between them, half of Austin's comedy has been covered... [[Troupes/Midnight Society|Midnight Society]], KOOP's Mascot Wedding, Master Pancake Theater, *[[Shows/The Hustle Show|The Hustle Show]]*, [[Troupes/Stag Comedy|Stag Comedy]], [[Troupes/Hot Property|Hot Property]], and a finalist in the Funniest Person in Austin.</p></blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>In the past we've done shows based on a topic one of us knows a lot about, and then other is a novice. We've also just taken a suggestion, talked about what we think of with that and then dive right in.</blockquote>

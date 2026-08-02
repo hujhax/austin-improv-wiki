@@ -22,13 +22,13 @@
 **Heather Hasselle** is an improv performer.
 
 ## Troupes
-* [[Troupes/The Second Show]]
-* [[Troupes/SSHH!]]
-* [[Troupes/Teen Energy]]
+* [[Troupes/The Second Show|The Second Show]]
+* [[Troupes/SSHH!|SSHH!]]
+* [[Troupes/Teen Energy|Teen Energy]]
 
 ## Shows
-* *[[Shows/Austin Secrets]]* (2015)
-* *[[Shows/The Dahl House]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]* (2015)
+* *[[Shows/The Dahl House|The Dahl House]]*
 
 
 [[Category/Performers|Hasselle]]

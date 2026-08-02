@@ -29,33 +29,33 @@
 
 ## Summary
 ## Super Apocalypse Cast
-* [[Performers/Alex Baia]]
+* [[Performers/Alex Baia|Alex Baia]]
 * [[Jenna Marie Carey]]
 * [[Max Lipchitz]]
-* [[Performers/Bryan Roberts]]
+* [[Performers/Bryan Roberts|Bryan Roberts]]
 * [[Adam Trabka]]
-* [[Performers/Jason Oliver]]
-* [[Performers/Nicole McCracken]]
-* [[Performers/Brett Tribe]]
+* [[Performers/Jason Oliver|Jason Oliver]]
+* [[Performers/Nicole McCracken|Nicole McCracken]]
+* [[Performers/Brett Tribe|Brett Tribe]]
 * [[Jeff Whitaker]]
 * [[Clinton Harris]]
 
 ## Starforce Cast
 * [[Calam Lambert]]
 * [[Danny Catlow]]
-* [[Performers/David Lampe]]
+* [[Performers/David Lampe|David Lampe]]
 * [[Eric Rutherford]]
-* [[Performers/Jericho Thorp]]
+* [[Performers/Jericho Thorp|Jericho Thorp]]
 * [[Katie Moore]]
 * [[Kyle Sweeney]]
-* [[Performers/Lacy Shawn]]
-* [[Performers/Lance Gilstrap]]
+* [[Performers/Lacy Shawn|Lacy Shawn]]
+* [[Performers/Lance Gilstrap|Lance Gilstrap]]
 
 ## Media
 ### Videos
 * [Video](http://vimeo.com/58664449) by [[Kyle Sweeney]] of the "Super Apocalyspe" preview show, "Solar Flare" (uploaded 1/31/13).
 * [Video](http://vimeo.com/58748075) by [[Kyle Sweeney]] of the "Star Force" preview show, "Solar Flare" (uploaded 2/1/13).
-* [Video](http://vimeo.com/58898184) by [[Kyle Sweeney]] of their preview show at *[[Shows/The Cagematch]]*.
+* [Video](http://vimeo.com/58898184) by [[Kyle Sweeney]] of their preview show at *[[Shows/The Cagematch|The Cagematch]]*.
 * [Video](http://vimeo.com/59171447) by [[Kyle Sweeney]] of the 2/2/13 show, "Continuum" (for "Star Force") and "Singularity" (for "Super Apocalypse").
 	* [A video of just the "Star Force" show.](http://vimeo.com/58936727)
 	* [A video of just the "Super Apocalypse" show.](http://vimeo.com/59171448)

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Justin Davis Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Justin Davis]], performing in "The Return of the Five Families" at [[The Institution Theater]] on 1/4/13.
+[[Performers/Justin Davis|Justin Davis]], performing in "The Return of the Five Families" at [[The Institution Theater]] on 1/4/13.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.469771939752994.113604.221927764537414&type=3).
 ## Licensing

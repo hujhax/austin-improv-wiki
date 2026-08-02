@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Performers/Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Melendez">Performers/Ed Melendez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Performers/Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Melendez">Ed Melendez</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Kristen Henn">Kristen Henn</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Faerber">Mike Faerber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Livni">Performers/Nathan Livni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Livni">Nathan Livni</a></li><!--
   --><li style=""><a class="internal-link" href="Tej Ludher">Tej Ludher</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**NewPort Hen** was a one-off *[[Shows/Cagematch]]* team.
+**NewPort Hen** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played one Cagematch on 10/3/09.

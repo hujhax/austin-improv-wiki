@@ -19,6 +19,6 @@
 	</table>
 </div>
 
-**Katey Mushlin** was an improv performer and member of [[Troupes/Monks Night Out]].
+**Katey Mushlin** was an improv performer and member of [[Troupes/Monks Night Out|Monks Night Out]].
 
 *This article is a stub. You can help the Austin Improv Wiki by editing it.*

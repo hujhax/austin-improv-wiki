@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,17 +70,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Performers/Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Performers/Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Kelly Hasandras">Kelly Hasandras</a></li><!--
   --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Performers/Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
   --><li style=""><a class="internal-link" href="Nicholas Marino">Nicholas Marino</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Quinn Buckner">Performers/Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Performers/Rachel Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Performers/Rosemarie Frezza</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
   --><li style=""><a class="internal-link" href="Way Spurr-Chen">Way Spurr-Chen</a></li><!--
   --><!--
   --><!--

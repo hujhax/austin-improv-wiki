@@ -6,11 +6,11 @@
 Its festival dates are unknown.
 
 ## Acts
-* [[Troupes/Bedridden]]
-* [[Troupes/ComedySportz]]
+* [[Troupes/Bedridden|Bedridden]]
+* [[Troupes/ComedySportz|ComedySportz]]
 * [[Edmond Bulldogs]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/The Heroes of Comedy]]
-* [[Troupes/The Knuckleball Now]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/The Heroes of Comedy|The Heroes of Comedy]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * [[Latino Comedy Project]]
-* [[Troupes/The Polite Society]]
+* [[Troupes/The Polite Society|The Polite Society]]

@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="K.C. Harvey Taylor">K.C. Harvey Taylor</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**IDKY** is a *[[Shows/Cagematch]]* team.
+**IDKY** is a *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
 They played in the 7/23/14 *Cagematch*.

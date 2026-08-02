@@ -22,15 +22,15 @@
 **Howard Katz** is an improv performer.
 
 ## Troupes
-* [[Troupes/The Dancy Street D'Orchestra]]
+* [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 
 ## Shows
 * *[[Crack!]]*
 * *[[Elf Employment]]*
-* *[[Shows/Heist!]]*
+* *[[Shows/Heist!|Heist!]]*
 * *[[Live TV Tuesdays -  Scrubs]]* ("The Janitor")
 * *[[Off the Reef]]*
 * *[[Puppet Katamari]]*
-* *[[Shows/Steam]]* ("Gear Shift")
+* *[[Shows/Steam|Steam]]* ("Gear Shift")
 
 [[Category/Performers|Katz]]

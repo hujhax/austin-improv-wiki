@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Dervish.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Troupes/Dervish]].
+Publicity photo of [[Troupes/Dervish|Dervish]].
 
 Photo by: unknown.
 ## Licensing

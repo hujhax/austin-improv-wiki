@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -69,22 +69,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Performers/Tosin awofeso]]</td>
+			<td class="category">[[Performers/Tosin awofeso|Tosin awofeso]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Performers/Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Performers/Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Performers/Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Performers/Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Performers/Ellen Pizarek</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Mary Henderson">Performers/Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
   --><li style=""><a class="internal-link" href="Megan Moten">Megan Moten</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Performers/Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
@@ -129,7 +129,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Mark Shoemaker">Performers/Mark Shoemaker</a> (lights, sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mark Shoemaker">Mark Shoemaker</a> (lights, sound)</li><!--
   --><li style=""><a class="internal-link" href="Zoe Jaye">Zoe Jaye</a> (stage manager)</li><!--
   --><li style=""><a class="internal-link" href="Victoria Hawthorne">Victoria Hawthorne</a> (costumes)</li><!--
   --><!--
@@ -213,9 +213,9 @@ The show was sponsored by Treaty Oak Rum and The Crow Bar.
 ### Photos
 #### Performances
 * [2/5/16 performance](http://www.facebook.com/michael.yew/media_set?set=a.10205561492499409.1073741980.1315383518&type=3) shot by [[Michael Yew]].
-* [2/12/16 performance](http://www.facebook.com/jay.mahavier/media_set?set=a.10209070012253880.1073741911.1425495839&type=3) shot by [[Performers/Jay Mahavier]].
+* [2/12/16 performance](http://www.facebook.com/jay.mahavier/media_set?set=a.10209070012253880.1073741911.1425495839&type=3) shot by [[Performers/Jay Mahavier|Jay Mahavier]].
 * [2/19/16 performance](http://www.facebook.com/media/set/?set=a.1129208623809319.1073742315.221927764537414&type=3) shot by [[Steve Rogers]].
-* [2/26/16 performance](http://www.facebook.com/jay.mahavier/media_set?set=a.10209175299405993.1073741913.1425495839&type=3&pnref=story) shot by [[Performers/Jay Mahavier]].
+* [2/26/16 performance](http://www.facebook.com/jay.mahavier/media_set?set=a.10209175299405993.1073741913.1425495839&type=3&pnref=story) shot by [[Performers/Jay Mahavier|Jay Mahavier]].
 * [3/4/16 performance](http://www.facebook.com/media/set/?set=a.1140151336048381.1073742322.221927764537414&type=3) shot by [[Steve Rogers]].
 
 #### Promotions

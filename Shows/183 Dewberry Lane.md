@@ -14,22 +14,22 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Performers/Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/J. R. Zambrano">Performers/J. R. Zambrano</a></td>
+			<td class="category"><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Performers/Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
   --><li style=""><a class="internal-link" href="Carolina A. Andrade">Carolina A. Andrade</a></li><!--
   --><li style=""><a class="internal-link" href="Eric Peterson">Eric Peterson</a></li><!--
   --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
   --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
   --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Performers/Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Sue Woodka Jordan">Sue Woodka Jordan</a></li><!--
   --><li style="" ><a class="internal-link" href="Tamara Warton">Tamara Warton</a></li><!--
   --><li style=""><a class="internal-link" href="Zachariah Rollins">Zachariah Rollins</a></li><!--

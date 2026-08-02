@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Jam with Oh, Science!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promotional image for [[Shows/The Jam with Oh, Science!]].
+Promotional image for [[Shows/The Jam with Oh, Science!|The Jam with Oh, Science!]].
 
 Photo by: unknown.
 

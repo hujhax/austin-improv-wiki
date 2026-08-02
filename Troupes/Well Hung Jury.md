@@ -15,18 +15,18 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Performers/Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Performers/Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
   --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
   --><li style=""><a class="internal-link" href="Andrei Haq">Andrei Haq</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Ben Sterling">Ben Sterling</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bill Stern">Performers/Bill Stern</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bill Stern">Bill Stern</a></li><!--
   --><li style=""><a class="internal-link" href="James Aldredge">James Aldredge</a></li><!--
   --><li style="" ><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Performers/Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
   --><li style=""><a class="internal-link" href="Jonathan Benner">Jonathan Benner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@ Over the course of their run, they performed Austin's first improv marathon with
 
 They performed in [[The 2005 Out of Bounds Comedy Festival]], and did a one-off "ten-year reunion" show on 4/30/09 at [[The Hideout Theatre]].
 
-Here is [[Performers/Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>The legend has always held that Jeremy heard the phrase "hung jury" in Mr. Smiley's economics class (because it's impossible to actually pay attention to anything pertinent in Mr. Smiley's economics class), and the synaptic reflex to a dick joke was instantaneous. The origins of our troupe pseudonyms, Mad Ezekiel and the Oedipus Freaks and Free Falling Malfactors, have been lost to the sands of time...</blockquote>
+Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>The legend has always held that Jeremy heard the phrase "hung jury" in Mr. Smiley's economics class (because it's impossible to actually pay attention to anything pertinent in Mr. Smiley's economics class), and the synaptic reflex to a dick joke was instantaneous. The origins of our troupe pseudonyms, Mad Ezekiel and the Oedipus Freaks and Free Falling Malfactors, have been lost to the sands of time...</blockquote>
 
 ## Formats
 ### Conceptual Improv Formats
@@ -122,7 +122,7 @@ Here is [[Performers/Jordan T. Maxwell]]'s explanation of the name's origin:<blo
 * Musical - This is just what it says. Except of course, it's improvised.
 * Fortune Cookie - This borrowed format involves six characters that are all finishing up their meals at a Chinese restaurant. They each grab a fortune cookie and read it out to the rest of the table. This fortune is supposed to be their inspiration and guidance throughout the narrative to follow. We have done this incorrectly twice and are now scared of it.
 * Restaurant Booth - This one specifies that all the action must take place in one location, not necessarily a restaurant booth. Worked okay.
-* The Play Format - This took the audience through the production process of a (fictional) play, showing audiences parts of the table read, a rehearsal, and opening night.  This would eventually evolve into the show *[[Shows/Process]]*.
+* The Play Format - This took the audience through the production process of a (fictional) play, showing audiences parts of the table read, a rehearsal, and opening night.  This would eventually evolve into the show *[[Shows/Process|Process]]*.
 
 ### Shortform Improv Formats
 * Giant 4 Year Anniversary show - A hugely massive show that included a murder mystery longform (format chosen by the audience), our first shot at Proxy Improv, and Ace singing a lovely tribute to the troupe in the key of Rod Stewart. The first 1,000 fans received a friendship bracelet, the second 1,000 fans received a car. 

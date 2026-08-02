@@ -21,13 +21,13 @@
 
 [[Category/Performers|Davidson]]
 
-**Justin Davidson** is an improviser and musician. He is a founding member of [[Troupes/Bad Font]].
+**Justin Davidson** is an improviser and musician. He is a founding member of [[Troupes/Bad Font|Bad Font]].
 
 
 ## Troupes
-* [[Troupes/Water Park]]
-* [[Troupes/Bad Font]]
+* [[Troupes/Water Park|Water Park]]
+* [[Troupes/Bad Font|Bad Font]]
 
 ## Shows
-* *[[Shows/TIT Talks]]*
+* *[[Shows/TIT Talks|TIT Talks]]*
 * *[[Rock N Roll Purgatory]]*

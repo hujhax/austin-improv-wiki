@@ -26,18 +26,18 @@ A post from her about the first improv show she ever saw:<blockquote><p>The firs
 
 <p>But the first live show was actually at New Years this year. I went to the ring in the midnight show at the hideout and saw the [[Performers/Kacey Samiee|two]] [[Performers/Kaci Beeler|Kacies]], [[Performers/Kareem Badr|Kareem]] and [[Performers/Bill Stern|another guy]] (can't remember his name) with [[Performers/Roy Janik|Roy]] directing. It was fantastic and the perfect way to ring in a new year. Definitely better than most drunken dramas that most of my friends went through that night.</p> 
 
-<p>Funnily enough I was already taking classes at the Hideout when I went to this show. Never seen a show live but wanted to take classes anyway b/c my friend [[Performers/Kevin Miller]] always talked about his days in improv and it always seemed fun.</p></blockquote>
+<p>Funnily enough I was already taking classes at the Hideout when I went to this show. Never seen a show live but wanted to take classes anyway b/c my friend [[Performers/Kevin Miller|Kevin Miller]] always talked about his days in improv and it always seemed fun.</p></blockquote>
 
 ## Shows
-* *[[Shows/Bad Girls in Plaid Skirts]]* (tech)
+* *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (tech)
 * *[[The Joss Whedon Pajama Party]]*
 * *[[Live TV Tuesdays -  Angel]]* (director)
 * *[[Live TV Tuesdays -  Buffy]]* (stage manager/prop master)
 * *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]* (assistant director/co-musical director/groupie 1)
 * *[[Live TV Tuesdays -  Firefly]]* (vocal coach)
 * *[[Only Three Will Survive]]* (tech)
-* *[[Shows/Racket]]*
-* *[[Shows/Thinning The Herd]]*
-* *[[Shows/Trust No One]]*
+* *[[Shows/Racket|Racket]]*
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
+* *[[Shows/Trust No One|Trust No One]]*
 
 [[Category/Performers|Pyatt]]

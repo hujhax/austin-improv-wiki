@@ -5,34 +5,34 @@
 ## Summary
 The festival ran from 11/21/13 to 11/23/13.
 
-It included an all-star *[[Shows/Maestro]]* and a teen showcase.
+It included an all-star *[[Shows/Maestro|Maestro]]* and a teen showcase.
 
 ## Acts
-* [[Troupes/The Amazon and The Milksop]]
-* [[Troupes/Array]]
-* [[Troupes/Available Cupholders]]
-* [[Troupes/Bad Boys]]
-* *[[Shows/A Bedtime Gorey]]*
-* [[Troupes/BeauMoMa]]
-* [[Troupes/Do You Still Want to Do This]]
-* [[Troupes/The Escorts]]
-* [[Troupes/Firth&Arjet]]
-* [[Troupes/The Frank Mills]]
-* [[Troupes/Get Up]]
-* [[Troupes/GigglePants]]
-* [[Troupes/Girls Girls Girls]]
-* [[Troupes/In Our Prime]]
-* [[Troupes/Junk]]
-* [[Troupes/The Known Wizards]]
-* [[Troupes/The Knuckleball Now]]
-* [[Troupes/Local Genius Society]]
-* [[Troupes/Midnight Society]]
-* [[Troupes/Parallelogramophonograph]]
-* [[Troupes/Past Lives]]
-* [[Troupes/Simply D-VINE]]
-* [[Troupes/Squirrel Buddies]]
-* [[Troupes/Water Park]]
-* [[Troupes/¡ZARZAMORA!]]
+* [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]]
+* [[Troupes/Array|Array]]
+* [[Troupes/Available Cupholders|Available Cupholders]]
+* [[Troupes/Bad Boys|Bad Boys]]
+* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
+* [[Troupes/BeauMoMa|BeauMoMa]]
+* [[Troupes/Do You Still Want to Do This|Do You Still Want to Do This]]
+* [[Troupes/The Escorts|The Escorts]]
+* [[Troupes/Firth&Arjet|Firth&Arjet]]
+* [[Troupes/The Frank Mills|The Frank Mills]]
+* [[Troupes/Get Up|Get Up]]
+* [[Troupes/GigglePants|GigglePants]]
+* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+* [[Troupes/In Our Prime|In Our Prime]]
+* [[Troupes/Junk|Junk]]
+* [[Troupes/The Known Wizards|The Known Wizards]]
+* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+* [[Troupes/Local Genius Society|Local Genius Society]]
+* [[Troupes/Midnight Society|Midnight Society]]
+* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+* [[Troupes/Past Lives|Past Lives]]
+* [[Troupes/Simply D-VINE|Simply D-VINE]]
+* [[Troupes/Squirrel Buddies|Squirrel Buddies]]
+* [[Troupes/Water Park|Water Park]]
+* [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 
 ## More Information
 * [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?t=11204) on [[The Austin Improv Forums]].

@@ -19,7 +19,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Performers/Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
   --><li style=""><a class="internal-link" href="Gsu Paek">Gsu Paek</a></li><!--
   --><li style=""><a class="internal-link" href="Karen Early">Karen Early</a></li><!--
   --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--

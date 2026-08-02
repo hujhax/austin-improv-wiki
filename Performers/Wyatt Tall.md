@@ -22,13 +22,13 @@
 **Wyatt Tall** is an improv performer.
 
 ## Troupes
-* [[Troupes/IScream Sandwich]]
+* [[Troupes/IScream Sandwich|IScream Sandwich]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Bill Haverchuck)
 * *[[Only Three Will Survive]]*
-* *[[Shows/Pulp Friction]]*
-* *[[Shows/The Suitcase]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]*
+* *[[Shows/The Suitcase|The Suitcase]]*
 
 [[Category/Performers|Tall]]
 [[Category/Active|Category:Active]]

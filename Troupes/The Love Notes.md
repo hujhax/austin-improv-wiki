@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Performers/Avimaan Syam</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Adland">Performers/Chelsea Adland</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Performers/Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Adland">Chelsea Adland</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
   --><li style=""><a class="internal-link" href="Paul Wainwright">Paul Wainwright</a></li><!--
   --><!--
   --><!--
@@ -73,20 +73,20 @@
 **The Love Notes** was an improv troupe.
 
 ## History
-The first iteration of the troupe consisted of [[Performers/Avimaan Syam]], [[Paul Wainwright]], and a third member.  Upon her departure from Austin, the two men auditioned for new members, eventually adding [[Performers/Chelsea Adland]], [[Performers/Kristin Firth]], and [[Performers/Meghan Wolff]] in mid-2009, and performing in that incarnation for the first time on 8/27/09.
+The first iteration of the troupe consisted of [[Performers/Avimaan Syam|Avimaan Syam]], [[Paul Wainwright]], and a third member.  Upon her departure from Austin, the two men auditioned for new members, eventually adding [[Performers/Chelsea Adland|Chelsea Adland]], [[Performers/Kristin Firth|Kristin Firth]], and [[Performers/Meghan Wolff|Meghan Wolff]] in mid-2009, and performing in that incarnation for the first time on 8/27/09.
 
-In November 2009, they presented "Where in the World?", a show format based on *[[Wikipedia - Where in the World is Carmen Sandiego|Where in the World is Carmen Sandiego?]]* as the regular opener for *[[Shows/The Saturday Night Special]]*.
+In November 2009, they presented "Where in the World?", a show format based on *[[Wikipedia - Where in the World is Carmen Sandiego|Where in the World is Carmen Sandiego?]]* as the regular opener for *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 
 The troupe performed in [[WaffleFest 2009]], [[The 40-Hour Improv Marathon]], and  [[The 41-Hour Improv Marathon]].
 
 ## Media
 ### Photos
 * [Several photos of the original 2009 incarnation of the Love Notes.](http://www.flickr.com/photos/austinimprov/3507384655/in/photostream/)
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.164964842264.141044.588952264&type=3) by [[Performers/Peter Rogers]] of their 8/27/09 show at [[The Hideout Theatre]] (their first show with their revamped lineup).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242748657264.168273.588952264&type=3) by [[Performers/Peter Rogers]] of their 12/11/09 "Where in the World?" show at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.437930922264.211725.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/6/10 longform show in *[[Shows/The Threefer]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447241697264.218626.588952264&type=3) by [[Performers/Peter Rogers]] of their 5/29/10 longform show in *[[Shows/The Saturday Night Special]]*, their last show with [[Performers/Meghan Wolff]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 reunion show in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.164964842264.141044.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/27/09 show at [[The Hideout Theatre]] (their first show with their revamped lineup).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242748657264.168273.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/11/09 "Where in the World?" show at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.437930922264.211725.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/6/10 longform show in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447241697264.218626.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/29/10 longform show in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*, their last show with [[Performers/Meghan Wolff|Meghan Wolff]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 reunion show in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [Facebook group for the troupe.](http://www.facebook.com/groups/137197575746/)

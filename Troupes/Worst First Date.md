@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864073426163.1425495839&type=3) by [[Performers/Jay Mahavier]] of their 8/20/15 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864073426163.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of their 8/20/15 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/worstfirstdate)

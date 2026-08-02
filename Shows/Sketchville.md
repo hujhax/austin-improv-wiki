@@ -20,23 +20,23 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andy Fleming</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Performers/Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style="">Brit Reese</li><!--
   --><li style="">Chibbi Orduna</li><!--
   --><li style="">Erick Anderson</li><!--
   --><li style="">Jake Pool</li><!--
   --><li style="">Jason Yackov</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Performers/Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
   --><li style="" >Jeremy Dozier</li><!--
   --><li style=""><a class="internal-link" href="JM Specht">JM Specht</a></li><!--
   --><li style="">John Daws</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Performers/Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Karin L. Kross</li><!--
   --><li style="">Kirk Landson</li><!--
   --><li style="">Lani Steffens</li><!--
   --><li style="">Miguel Jimenez</li><!--
   --><li style="">Mike Dunlop</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style="">Philip Emanuel</li><!--
   --><!--
   --><!--
@@ -88,7 +88,7 @@
   --><li style="">Micah Sampson</li><!--
   --><li style="">Nancy Smith</li><!--
   --><li style="">Nick Fang</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -194,7 +194,7 @@ The series was projected to eventually zero in on a botched robbery in the middl
 ### Cast
 * College Kid: Brit Reese
 * Detective Rutherford: [[JM Specht]]
-* Fish Thief: [[Performers/Jeff Britt]]
+* Fish Thief: [[Performers/Jeff Britt|Jeff Britt]]
 * Hans: Kirk Landson
 * Innana: Karin L. Kross
 * Josh: Peter Rogers
@@ -209,8 +209,8 @@ The series was projected to eventually zero in on a botched robbery in the middl
 * Phone Company Employee #1: Miguel Jimenez
 * Phone Company Employee #2: Chibbi Orduna
 * Ruthven: Andy Fleming
-* Ted: [[Performers/Bob Apthorpe]]
-* Tiffany: [[Performers/Kacey Samiee]]
+* Ted: [[Performers/Bob Apthorpe|Bob Apthorpe]]
+* Tiffany: [[Performers/Kacey Samiee|Kacey Samiee]]
 
 ### Crew
 * Director: Amy Leland
@@ -222,17 +222,17 @@ The series was projected to eventually zero in on a botched robbery in the middl
 * Assistant Cameraman: Kyle Osburn
 * Grip/Electric: Chris Chang
 * Sound Engineers: Nick Fang, Martin Pederson
-* Props: [[Performers/Peter Rogers]]
+* Props: [[Performers/Peter Rogers|Peter Rogers]]
 * Locations Manager: Brandy Retzolk
 * Crafts/Catering: Karin L. Kross
-* Editor: Amy Leland & [[Performers/Peter Rogers]]
+* Editor: Amy Leland & [[Performers/Peter Rogers|Peter Rogers]]
 * Music: Jonathan Van Matre
 * Sound Mixer: Greg Armstrong
 * Title Graphics: Howard Des Chenes
-* Written by [[Performers/Peter Rogers]] & Karin L. Kross
+* Written by [[Performers/Peter Rogers|Peter Rogers]] & Karin L. Kross
 
 ## History
-The series was written and shot in 2006-2008, completing primary filming on fourteen episodes out of a projected thirty.  After that, the project went dormant in post-production until 2014, when [[Performers/Peter Rogers]] completed the editing process and put all the completed episodes online.
+The series was written and shot in 2006-2008, completing primary filming on fourteen episodes out of a projected thirty.  After that, the project went dormant in post-production until 2014, when [[Performers/Peter Rogers|Peter Rogers]] completed the editing process and put all the completed episodes online.
 
 ## Media
 ### Videos

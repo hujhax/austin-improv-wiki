@@ -25,11 +25,11 @@
 In early 2014, Steve moved away from Austin.
 
 ## Troupes
-* [[Shows/The Professor]]
+* [[Shows/The Professor|The Professor]]
 
 ## Shows
-* *[[Shows/The Sci-Fi Comedy Double Feature]]*
-* *[[Shows/Start Trekkin']]*
-* *[[Shows/Twilight Zoned]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
+* *[[Shows/Start Trekkin'|Start Trekkin']]*
+* *[[Shows/Twilight Zoned|Twilight Zoned]]*
 
 [[Category/Performers|Harwood]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="SciFiSaturdays-Duo-v2.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for [[Shows/Sci-Fi Saturdays]] at [[Coldtowne Theater]].
+Poster for [[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]] at [[Coldtowne Theater]].
 
 Poster art by: unknown.
 

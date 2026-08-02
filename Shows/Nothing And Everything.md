@@ -14,13 +14,13 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jon Bolden">Performers/Jon Bolden</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Dave Yakubik">Dave Yakubik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Performers/Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,17 +74,17 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Performers/Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Performers/Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Performers/Kaci Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Performers/Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Performers/Megan Sherrod</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Performers/Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy A. Miller">Performers/Troy A. Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Performers/Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy A. Miller">Troy A. Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -129,7 +129,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Performers/Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><!--
@@ -228,12 +228,12 @@ It was part of [[The 2015 Improvised Play Festival]].
 ## Media
 ### Videos
 * 2014 [[Hideout Theatre]] Run:
-	* [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers]] of the 11/6/14 preview (incomplete).
-	* [Video](http://vimeo.com/111329177) by [[Performers/Peter Rogers]] of the 11/8/14 show.
-	* [Video](http://vimeo.com/111990343) by [[Performers/Peter Rogers]] of the 11/15/14 show.
-	* [Video](http://vimeo.com/113191194) by [[Performers/Peter Rogers]] of the 11/29/14 show.
-	* [Video](http://vimeo.com/114520138) by [[Performers/Peter Rogers]] of the 12/13/14 show.
-	* [Video](http://vimeo.com/115144124) by [[Performers/Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
+	* [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/6/14 preview (incomplete).
+	* [Video](http://vimeo.com/111329177) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/8/14 show.
+	* [Video](http://vimeo.com/111990343) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/15/14 show.
+	* [Video](http://vimeo.com/113191194) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/29/14 show.
+	* [Video](http://vimeo.com/114520138) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/13/14 show.
+	* [Video](http://vimeo.com/115144124) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
 * 2015 [[Long Center]] run:
 	* [Video](http://vimeo.com/137272124) of the 8/21/15 performance.
 		* [Video](http://vimeo.com/138711711) of the following audience Q&A.
@@ -243,7 +243,7 @@ It was part of [[The 2015 Improvised Play Festival]].
 ### Photos
 * 2014 [[Hideout Theatre]] Run:
 	* [Photoset](http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3) by [[Steve Rogers]] of the 11/6/14 preview.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3) by [[Performers/Chad Wellington]] of the 11/22/14 show.
+	* [Photoset](http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 11/22/14 show.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3) by [[Michael Yew]] of the 12/20/14 show.
 * 2015 [[Long Center]] run:
 * [Photos](http://www.facebook.com/michael.yew/media_set?set=a.10204706711010406.1073741962.1315383518&type=3) by [[Michael Yew]] from the run.
@@ -253,8 +253,8 @@ It was part of [[The 2015 Improvised Play Festival]].
 ## More Information
 * [Show announcement in the Hideout's 2014 season preview.](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule)
 * [The show's web page.](http://www.hideouttheatre.com/shows/NothingAndEverything)
-* Thoughts on the show from [[Performers/Andrew Buck]]: [1](http://yesandrew.com/threethoughtsonchekhov/), [2](http://yesandrew.com/3-things-about-improvising-chekhov/), [3](http://yesandrew.com/the-yall-boner/).
-* [A faux interview](http://yesandrew.com/the-sunday-interview-anton-chekhov/) with Chekhov by [[Performers/Andrew Buck]].
+* Thoughts on the show from [[Performers/Andrew Buck|Andrew Buck]]: [1](http://yesandrew.com/threethoughtsonchekhov/), [2](http://yesandrew.com/3-things-about-improvising-chekhov/), [3](http://yesandrew.com/the-yall-boner/).
+* [A faux interview](http://yesandrew.com/the-sunday-interview-anton-chekhov/) with Chekhov by [[Performers/Andrew Buck|Andrew Buck]].
 * [Admiring quotes about the show](http://www.hideouttheatre.com/audiences-are-raving-about-nothing-and-everything) from the Hideout's blog.
 
 [[Category/Shows|Category:Shows]]

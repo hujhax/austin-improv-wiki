@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Lisa Jackson">Performers/Lisa Jackson</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -23,8 +23,8 @@
   --><li style=""><a class="internal-link" href="Aden Pennington">Aden Pennington</a></li><!--
   --><li style=""><a class="internal-link" href="Alex Biasci">Alex Biasci</a></li><!--
   --><li style=""><a class="internal-link" href="Ana Ward">Ana Ward</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Performers/Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Performers/Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><!--
   --><!--
   --><!--

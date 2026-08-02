@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ann Wilson">Ann Wilson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403688032265.410059.588952264&type=3) by [[Performers/Peter Rogers]] of their 9/19/11 performance in *[[Shows/The Monday Night Mash]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403688032265.410059.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/19/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

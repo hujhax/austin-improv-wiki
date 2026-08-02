@@ -1,4 +1,4 @@
-***Showdown* – Sixth Episode: "Death and Texas"** refers to the sixth and final performance of *[[Shows/Showdown]]*, which was improvised on 4/9/11.
+***Showdown* – Sixth Episode: "Death and Texas"** refers to the sixth and final performance of *[[Shows/Showdown|Showdown]]*, which was improvised on 4/9/11.
 
 ## Episode Summary
 * Sheriff Solomon squares off with Caleb. The Texas Ranger offers his help against Clement. Solomon turns him down and suggests that Caleb leaves town.

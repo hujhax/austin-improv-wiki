@@ -25,14 +25,14 @@
 Jeanette trained at [[The Institution Theater]].
 
 ## Troupes
-* [[Troupes/Je Ju]]
-* [[Troupes/Honey Ladies]]
-* [[Troupes/No Frills]] (2013-2015)
+* [[Troupes/Je Ju|Je Ju]]
+* [[Troupes/Honey Ladies|Honey Ladies]]
+* [[Troupes/No Frills|No Frills]] (2013-2015)
 
 ## Shows
-* *[[Shows/The Next Chapter]]*
-* *[[Shows/Austin Secrets]]*
-* *[[Shows/The Suitcase]]*
-* *[[Shows/Bad Girls in Plaid Skirts]]* (Mary Jane)
+* *[[Shows/The Next Chapter|The Next Chapter]]*
+* *[[Shows/Austin Secrets|Austin Secrets]]*
+* *[[Shows/The Suitcase|The Suitcase]]*
+* *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (Mary Jane)
 
 [[Category/Performers|Jones]]

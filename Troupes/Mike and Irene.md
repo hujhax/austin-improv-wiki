@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Performers/Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Irene White">Performers/Irene White</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Irene White">Irene White</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -76,7 +76,7 @@
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.416279815060186.94189.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their 5/18/12 performance in *[[Shows/The Spectacle]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.416279815060186.94189.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/18/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.593334920730028.1073741931.221927764537414&type=3) by [[Steve Rogers]] of their 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information

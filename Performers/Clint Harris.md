@@ -23,8 +23,8 @@
 
 ## Shows
 ### Improvised
-* *[[Shows/Trust No One]]*
-* *[[Shows/You Can't Stay Here]]*
+* *[[Shows/Trust No One|Trust No One]]*
+* *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
 
 ### Non-Improvised
 * *[[South Park Live]]*

@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -64,55 +64,55 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 	* [[Elizabeth Hack]]
 	* [[Jen Spencer]]
 	* [[Jessica Salinas]]
-	* [[Performers/Jon Bolden]]
-	* Hosted by [[Performers/Shana Merlin]].
+	* [[Performers/Jon Bolden|Jon Bolden]]
+	* Hosted by [[Performers/Shana Merlin|Shana Merlin]].
 	* Sound by [[Joshua Bush]].
 * 9/11/09:
 	* [[David Harper]]
-	* [[Performers/Ed Melendez]]
-	* [[Performers/Eric Heiberg]]
-	* [[Performers/Jon Bolden]]
+	* [[Performers/Ed Melendez|Ed Melendez]]
+	* [[Performers/Eric Heiberg|Eric Heiberg]]
+	* [[Performers/Jon Bolden|Jon Bolden]]
 	* [[Katie Gill]]
-	* [[Performers/Meghan Wolff]]
-	* Hosted by [[Performers/Erin Molson]].
-	* Coached by [[Performers/Shana Merlin]].
+	* [[Performers/Meghan Wolff|Meghan Wolff]]
+	* Hosted by [[Performers/Erin Molson|Erin Molson]].
+	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
 	* Sound by [[Joshua Bush]].
 * 9/25/09:
 	* [[Andrew Grissom]]
-	* [[Performers/Bryan 'LuBu' Roberts]]
+	* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 	* [[Elizabeth Hack]]
-	* [[Performers/Eric Heiberg]]
-	* [[Performers/Jen Kaplan]]
-	* [[Performers/Kristin Firth]]
+	* [[Performers/Eric Heiberg|Eric Heiberg]]
+	* [[Performers/Jen Kaplan|Jen Kaplan]]
+	* [[Performers/Kristin Firth|Kristin Firth]]
 	* Sound by [[Joshua Bush]].
 * 10/9/09:
 	* [[David Harper]]
 	* [[Gary Richardson]]
-	* [[Performers/Gene Joe]]
-	* [[Performers/Jen Kaplan]]
-	* [[Performers/Jon Bolden]]
-	* [[Performers/Lindsey Reeves]]
-	* Hosted by [[Performers/Erin Molson]].
-	* Coached by [[Performers/Shana Merlin]].
+	* [[Performers/Gene Joe|Gene Joe]]
+	* [[Performers/Jen Kaplan|Jen Kaplan]]
+	* [[Performers/Jon Bolden|Jon Bolden]]
+	* [[Performers/Lindsey Reeves|Lindsey Reeves]]
+	* Hosted by [[Performers/Erin Molson|Erin Molson]].
+	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
 * 11/13/09:
 	* [[Abbas Amirabadi]]
-	* [[Performers/Ed Melendez]]
+	* [[Performers/Ed Melendez|Ed Melendez]]
 	* [[Jonathan Euseppi]]
-	* [[Performers/Justin Davis]]
+	* [[Performers/Justin Davis|Justin Davis]]
 	* [[Katie Gill]]
-	* [[Performers/Lindsey Reeves]]
-	* Hosted by [[Performers/Erin Molson]].
-	* Coached by [[Performers/Shana Merlin]].
-	* Sound by [[Performers/Chelsea Gilman]].
+	* [[Performers/Lindsey Reeves|Lindsey Reeves]]
+	* Hosted by [[Performers/Erin Molson|Erin Molson]].
+	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
+	* Sound by [[Performers/Chelsea Gilman|Chelsea Gilman]].
 * 12/11/09:
 	* [[Cody Melcher]]
-	* [[Performers/Eric Heiberg]]
-	* [[Performers/Gene Joe]]
-	* [[Performers/Howard Katz]]
-	* [[Performers/Lindsey Reeves]]
-	* [[Performers/Meghan Wolff]]
-	* Hosted by [[Performers/Erin Molson]].
-	* Coached by [[Performers/Shana Merlin]].
+	* [[Performers/Eric Heiberg|Eric Heiberg]]
+	* [[Performers/Gene Joe|Gene Joe]]
+	* [[Performers/Howard Katz|Howard Katz]]
+	* [[Performers/Lindsey Reeves|Lindsey Reeves]]
+	* [[Performers/Meghan Wolff|Meghan Wolff]]
+	* Hosted by [[Performers/Erin Molson|Erin Molson]].
+	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
 
 ## More Information
 * [A call for show taglines](http://forum.austinimprov.com/viewtopic.php?t=7973) on [[The Austin Improv Forums]].

@@ -33,21 +33,21 @@ He has appeared in several television shows, a few movies and nearly a hundred c
 He's a really nice guy. You should meet him.
 
 ## Troupes
-* [[Troupes/Baxter and Bernard]]
-* [[Troupes/Confidence Men]]
+* [[Troupes/Baxter and Bernard|Baxter and Bernard]]
+* [[Troupes/Confidence Men|Confidence Men]]
 
 ## Shows
-* *[[Shows/Bad Girls in Plaid Skirts]]* (writer, director, performer [The Bishop])
-* *[[Shows/Fuck It's Christmas]]* (director, performer)
-* *[[Shows/Fuck It's Hot]]* (director)
+* *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (writer, director, performer [The Bishop])
+* *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]* (director, performer)
+* *[[Shows/Fuck It's Hot|Fuck It's Hot]]* (director)
 * *[[Live TV Tuesdays -  Beverly Hills, 90210]]* (director)
 * *[[Live TV Tuesdays -  John Hughes Summer School]]* (director)
 * *[[Live TV Tuesdays -  My So-Called Life]]* (director)
 * *[[Live TV Tuesdays -  Saved by the Bell]]* (director)
-* *[[Shows/Manson -  The Musical]]* (director/Vincent Bugliosi)
-* *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
-* *[[Shows/Pulp Friction]]* (director)
-* *[[Shows/Thinning The Herd]]*
+* *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (director/Vincent Bugliosi)
+* *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]* (director)
+* *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 ## Media
 ### Photos
@@ -55,7 +55,7 @@ He's a really nice guy. You should meet him.
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2424971) with Tom on *[[The Theft Forum]]*.
-* [Interview](http://yesandrew.com/2014/06/22/the-sunday-interview-tom-booker/) by [[Performers/Andrew Buck]].
+* [Interview](http://yesandrew.com/2014/06/22/the-sunday-interview-tom-booker/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Booker]]
 [[Category/Directors|Booker]]

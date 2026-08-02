@@ -14,13 +14,13 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Avimaan Syam">Performers/Avimaan Syam</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Avimaan Syam">Avimaan Syam</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Performers/Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,16 +74,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Performers/Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Performers/Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Performers/Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style=""><a class="internal-link" href="Jesse Bertron">Jesse Bertron</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Performers/Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Performers/Julie Gillis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Van Winkle">Performers/Katie Van Winkle</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Liz Brammer">Performers/Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Performers/Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Van Winkle">Katie Van Winkle</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -141,23 +141,23 @@ The show was set in the fictional town of Showdown in the Republic of Texas in t
 Its story was characterized by brutal violence, civic instability, and near-constant tension.
 
 ## Cast
-* Tobias, Sam Johnson, Jonathan Peterson -- [[Performers/Andreas Fabis]]
-* Clement Merseault -- [[Performers/Clay Towery]]
-* Doc Parish, George, Jebidiah, Jacob -- [[Performers/Jason Vines]]
-* Sheriff Robert Solomon, Bertram -- [[Performers/Jericho Thorp]]
+* Tobias, Sam Johnson, Jonathan Peterson -- [[Performers/Andreas Fabis|Andreas Fabis]]
+* Clement Merseault -- [[Performers/Clay Towery|Clay Towery]]
+* Doc Parish, George, Jebidiah, Jacob -- [[Performers/Jason Vines|Jason Vines]]
+* Sheriff Robert Solomon, Bertram -- [[Performers/Jericho Thorp|Jericho Thorp]]
 * Hank, Judge Thomas Clancy -- [[Jesse Bertron]]
-* Zeke Preston, Caleb Forsythe, Sam Houston, Reverend -- [[Performers/Jordan T. Maxwell]]
-* Fancy, Miss Jessie -- [[Performers/Julie Gillis]]
-* Clarinda, Marquesa/Adelaide -- [[Performers/Katie Van Winkle]]
-* Elisabeth Peterson, Johnny Matthews, Angelica -- [[Performers/Liz Brammer]]
-* Celia, Delilah Prudence -- [[Performers/Shana Merlin]]
+* Zeke Preston, Caleb Forsythe, Sam Houston, Reverend -- [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
+* Fancy, Miss Jessie -- [[Performers/Julie Gillis|Julie Gillis]]
+* Clarinda, Marquesa/Adelaide -- [[Performers/Katie Van Winkle|Katie Van Winkle]]
+* Elisabeth Peterson, Johnny Matthews, Angelica -- [[Performers/Liz Brammer|Liz Brammer]]
+* Celia, Delilah Prudence -- [[Performers/Shana Merlin|Shana Merlin]]
 
 ## Crew
-* Directed by: [[Performers/Avimaan Syam]] 
+* Directed by: [[Performers/Avimaan Syam|Avimaan Syam]] 
 * Lighting: [[Jerry Fugit]] 
-* Sound/Stage Manager: [[Performers/Katie Dahm]] 
-* PR: [[Performers/Andreas Fabis]] 
-* Producer: [[Performers/Shannon McCormick]]
+* Sound/Stage Manager: [[Performers/Katie Dahm|Katie Dahm]] 
+* PR: [[Performers/Andreas Fabis|Andreas Fabis]] 
+* Producer: [[Performers/Shannon McCormick|Shannon McCormick]]
 
 ## Episode Summaries
 * [[Showdown – First Episode -  'Pilot']]

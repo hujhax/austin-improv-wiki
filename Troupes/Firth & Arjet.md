@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Performers/Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,9 +73,9 @@
 **Firth & Arjet** (frequently written with no spaces: **Firth&Arjet**) was an improv duo.
 
 ## History
-They duo started in January 2007, winning a series of *[[Shows/Cagematch]]* competition shows with a signature half-scripted format.  Later, they started working with [[Performers/Asaf Ronen]] as their director and coach, and worked on character-focused formats.
+They duo started in January 2007, winning a series of *[[Shows/Cagematch|Cagematch]]* competition shows with a signature half-scripted format.  Later, they started working with [[Performers/Asaf Ronen|Asaf Ronen]] as their director and coach, and worked on character-focused formats.
 
-Firth and Arjet headlined *[[Shows/The Free Fringe]]* from its premiere on 1/5/12 until their last performance, on 8/9/12.
+Firth and Arjet headlined *[[Shows/The Free Fringe|The Free Fringe]]* from its premiere on 1/5/12 until their last performance, on 8/9/12.
 
 The troupe went on hiatus in 2012, when Kristin moved to Philadelphia.
 
@@ -103,23 +103,23 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 
 ## Media
 ### Photos
-* [A photoset](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1) by [[Michael Yew]] that includes their 2/5/10 *[[Shows/Double Barrel]]* show.
-* [A photoset](http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1) by [[Michael Yew]] that includes their 11/5/10 show in *[[Shows/The Spectacle]]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1) by [[Michael Yew]] that includes their 2/5/10 *[[Shows/Double Barrel|Double Barrel]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1) by [[Michael Yew]] that includes their 11/5/10 show in *[[Shows/The Spectacle|The Spectacle]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes their 1/23/11 show at [[The Hideout Theatre]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1) by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
 * A [photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their 5/8/11 show at [[The Ladies Are Funny Festival]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1) by [[Steve Rogers]] that includes their 9/2/11 show at [[The 2011 Out of Bounds Comedy Festival]].
-* A [photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Performers/Peter Rogers]] of their 1/5/12 "Bridesmaids" performance in the premiere of *[[Shows/The Free Fringe]]*.
-* [A photoset](http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1) by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[Shows/The Free Fringe]]*.
-* [A photoset](http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1) by [[Performers/Sam Schak]] that includes their 2/2/12 *[[Shows/Free Fringe]]* show.
-* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/8/12 *[[Shows/Free Fringe]]* show.
+* A [photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/5/12 "Bridesmaids" performance in the premiere of *[[Shows/The Free Fringe|The Free Fringe]]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1) by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[Shows/The Free Fringe|The Free Fringe]]*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1) by [[Performers/Sam Schak|Sam Schak]] that includes their 2/2/12 *[[Shows/Free Fringe|Free Fringe]]* show.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/8/12 *[[Shows/Free Fringe|Free Fringe]]* show.
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3) by [[Michael Yew]] of that same show.
-* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe]]* show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/12 performance in *[[Shows/The Free Fringe]]*.
-* Their final *[[Shows/Free Fringe]]* performance on 8/9/12.
+* [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe|Free Fringe]]* show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/12 performance in *[[Shows/The Free Fringe|The Free Fringe]]*.
+* Their final *[[Shows/Free Fringe|Free Fringe]]* performance on 8/9/12.
 	* [A photoset](http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1) by [[Michael Yew]].
 	* [A photoset](http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1) by [[Steve Rogers]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
 
 ### Videos
 * [Video of their 12/26/08 show.](http://youtu.be/wFvyMaIUtms)
@@ -130,7 +130,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [Video of their 12/9/11 show.](http://vimeo.com/33455567)
 * [Video of their 3/8/12 "Tomboys" show.](http://vimeo.com/39019302)
 * [Video of their 3/22/12 "Tomboys" show.](http://vimeo.com/39305541)
-* [Video](http://vimeo.com/39465848) by [[Performers/Brad Hawkins]] of their 3/29/12 "Tomboys" performance in *[[Shows/The Free Fringe]]*.
+* [Video](http://vimeo.com/39465848) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 3/29/12 "Tomboys" performance in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [Video of their 4/19/12 "Tomboys" show.](http://vimeo.com/40801623)
 * [Video of their 5/17/12 "Tomboys" show.](http://vimeo.com/42431879)
 

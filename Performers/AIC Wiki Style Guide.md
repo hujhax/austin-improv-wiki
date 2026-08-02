@@ -9,7 +9,7 @@ The AIC Wiki follows the [[Wikipedia - Wikipedia - Manual of Style|Wikipedia Man
 * Note that these standards may overlap. For example, there may be a show name in italics that is also a link.
 * Finally, show formats are capitalized in a normal font: The Harold; The Living Room.
 
-Example: [[Troupes/Parallelogramophonograph]] has a regular show on Friday evenings at [[The Hideout Theatre|The Hideout Theater]] called *[[Shows/The Spectacle]]*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
+Example: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] has a regular show on Friday evenings at [[The Hideout Theatre|The Hideout Theater]] called *[[Shows/The Spectacle|The Spectacle]]*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
 
 ## Adding Categories
 Categories can be added for the following:
@@ -29,7 +29,7 @@ This would put the page (presumably for someone named Smith) into the Performers
 * Try and use the canonical name of a page if possible. For example, the canonical name for that festival we all call "OOB" is [[The Out Of Bounds Comedy Festival]].
 * If you wish to refer to a page using a non-canonical name, you can add it to the link as:
  <nowiki>[[The Out Of Bounds Comedy Festival|OOB]]</nowiki>
-* When creating a page, try and keep in mind what non-canonical names might be used to search for that page. For examples, the troupe [[Troupes/The Seven Eight Sevens]] might be referred to as:
+* When creating a page, try and keep in mind what non-canonical names might be used to search for that page. For examples, the troupe [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]] might be referred to as:
 	* The Seven Eight Sevens
 	* Seven Eight Sevens
 	* The 787s
@@ -38,5 +38,5 @@ This would put the page (presumably for someone named Smith) into the Performers
 	* The 787's
 	* The 7-8-7s
 	* etc.
-When creating your page, please create Redirect pages for each variant you can think of. In the abovementioned example, you could create a page called [[Troupes/The 787s]] and its content would simply be:
- <nowiki>#redirect [[Troupes/The Seven Eight Sevens]]</nowiki>
+When creating your page, please create Redirect pages for each variant you can think of. In the abovementioned example, you could create a page called [[Troupes/The 787s|The 787s]] and its content would simply be:
+ <nowiki>#redirect [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]</nowiki>

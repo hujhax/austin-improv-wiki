@@ -14,24 +14,24 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Performers/Cody Dearing</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Performers/Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><li style=""><a class="internal-link" href="Daniel Erving">Daniel Erving</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Performers/Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Performers/Eli Eidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Eli Eidson</a></li><!--
   --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
   --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Performers/Lance Gilstrap</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Performers/Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Performers/Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
   --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
   --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
   --><!--
@@ -105,7 +105,7 @@ The show included stage-blood effects and fight choreography.
 ## More Information
 * [Audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=15381) on [[The Austin Improv Forums]].
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=15497) on [[The Austin Improv Forums]].
-* [A review of the show](http://yesandrew.com/2013/08/21/there-will-be-fake-blood/comment-page-1) by [[Performers/Andrew Buck]] on his blog.
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2461457) with director [[Performers/Cody Dearing]] and cast member [[Performers/Chrissy Shackelford]] on *[[The Theft Forum]]*.
+* [A review of the show](http://yesandrew.com/2013/08/21/there-will-be-fake-blood/comment-page-1) by [[Performers/Andrew Buck|Andrew Buck]] on his blog.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2461457) with director [[Performers/Cody Dearing|Cody Dearing]] and cast member [[Performers/Chrissy Shackelford|Chrissy Shackelford]] on *[[The Theft Forum]]*.
 
 [[Category/Shows|Category:Shows]]

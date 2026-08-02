@@ -25,7 +25,7 @@
 Carissa moved from Dallas to Austin in 2011.
 
 ## Troupes
-* [[Troupes/IScream Sandwich]]
+* [[Troupes/IScream Sandwich|IScream Sandwich]]
 
 ## Shows
 * *[[Live TV Tuesdays -  Angel]]* (Nina)
@@ -33,6 +33,6 @@ Carissa moved from Dallas to Austin in 2011.
 * *[[Live TV Tuesdays -  Party of Five]]* (Julia)
 * *[[Live TV Tuesdays -  Scrubs]]* (choreographer)
 * *[[Live TV Tuesdays -  South Park]]* (Wendy)
-* *[[Shows/Manson -  The Musical]]* (choreographer)
+* *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (choreographer)
 
 [[Category/Performers|McAtee]]

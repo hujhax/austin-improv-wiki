@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Batman.cast.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The cast of *[[Shows/Holy 1960s Batman, Batman!]]*
+The cast of *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*
 
 Photo by: Niki Jones.
 

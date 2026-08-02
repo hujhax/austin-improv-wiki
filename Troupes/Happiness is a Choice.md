@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Performers/Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Performers/Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Performers/Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
   --><!--
   --><!--
@@ -77,8 +77,8 @@ Happiness is a Choice use improvisation and their unique style of meta-theater t
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183527366560.2849442.7944448&type=3) by [[Performers/Jo Chauvin]] of their 3/15/10 show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/14/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183527366560.2849442.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 3/15/10 show.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/14/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Audio
 * [Audio of their 10/6/10 performance, in which they spent forty minutes taking a suggestion.](http://choosehappiness.info/wordpress/?p=412)

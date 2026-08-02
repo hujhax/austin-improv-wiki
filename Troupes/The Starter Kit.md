@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Performers/Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Zach Palmer">Zach Palmer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Performers/Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,9 +73,9 @@
 **The Starter Kit** was an improv troupe.
 
 ## History
-In late 2006, [[Performers/Justin Davis]], [[Eric Garcia]], and [[Performers/Brad Temple]] met while taking improv classes at [[The Hideout Theatre]]. Wanting to continue on performing with each other, the three of them decided to form a troupe. The three then asked [[Performers/Aden Kirschner]], [[Zach Palmer]], and [[Ann Wilson]] to join this troupe after meeting and playing with them in the [[Tuesday Night Jam]]. After a few rehearsals, the nameless troupe signed up to play the *[[Shows/Cagematch]]* at [[Coldtowne Theater]]. Before the first show, Davis received a phone call by someone (possibly [[Performers/Andy Crouch]] or [[Performers/Michael Jastroch]]) looking for a name to call this team. Without thinking, he instantly said the words The Starter Kit. The troupe went on to win that *Cagematch* tournament. Troupe members discussed coming up with a different name, but after performing several shows and being introduced by this name, the troupe decided that the name had stuck.  
+In late 2006, [[Performers/Justin Davis|Justin Davis]], [[Eric Garcia]], and [[Performers/Brad Temple|Brad Temple]] met while taking improv classes at [[The Hideout Theatre]]. Wanting to continue on performing with each other, the three of them decided to form a troupe. The three then asked [[Performers/Aden Kirschner|Aden Kirschner]], [[Zach Palmer]], and [[Ann Wilson]] to join this troupe after meeting and playing with them in the [[Tuesday Night Jam]]. After a few rehearsals, the nameless troupe signed up to play the *[[Shows/Cagematch|Cagematch]]* at [[Coldtowne Theater]]. Before the first show, Davis received a phone call by someone (possibly [[Performers/Andy Crouch|Andy Crouch]] or [[Performers/Michael Jastroch|Michael Jastroch]]) looking for a name to call this team. Without thinking, he instantly said the words The Starter Kit. The troupe went on to win that *Cagematch* tournament. Troupe members discussed coming up with a different name, but after performing several shows and being introduced by this name, the troupe decided that the name had stuck.  
 
-Known for their playful and adventurous style, The Starter Kit quickly went on to perform regular shows at The Hideout and ColdTowne Theater, often being the opening act for [[Troupes/Parallelogramophonograph]]'s weekly Thursday night slot at ColdTowne. For the first three anniversary shows, The Starter Kit handed out water guns to the audience and performed montage scenes while audience members soaked them with water. 
+Known for their playful and adventurous style, The Starter Kit quickly went on to perform regular shows at The Hideout and ColdTowne Theater, often being the opening act for [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s weekly Thursday night slot at ColdTowne. For the first three anniversary shows, The Starter Kit handed out water guns to the audience and performed montage scenes while audience members soaked them with water. 
 
 Kirschner, Garcia, and Wilson eventually left the troupe to pursue other interests. [[Erik Adams]] was brought on in 2008 as a full-time member. This new, four-member troupe went on to create shows with more structured formats (a murder mystery show and a flashback sitcom-based show) that emphasized character interactions and unexpected choices, while continuing the sense of fun play they had become known for. 
 
@@ -87,8 +87,8 @@ The Starter Kit split up in mid-2011 due to creative differences.
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/the-starter-kit-wed-8pm-svt-apples-stage-1235991) of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Performers/Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/14/11 performance in *[[Shows/The Threefer]]*.
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/14/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 
 [[Category/Troupes|Starter Kit]]

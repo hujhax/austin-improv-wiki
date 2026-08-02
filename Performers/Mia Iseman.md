@@ -22,20 +22,20 @@
 **Mia Iseman** left Austin, and improvises in Seattle now.
 
 ## Troupes
-* [[Troupes/MANDINKA]]
-* [[Troupes/The Starborn]]
-* [[Troupes/Three on a Match]]
-* [[Troupes/Past Lives]]
+* [[Troupes/MANDINKA|MANDINKA]]
+* [[Troupes/The Starborn|The Starborn]]
+* [[Troupes/Three on a Match|Three on a Match]]
+* [[Troupes/Past Lives|Past Lives]]
 * [[Buttholes]]
 
 ## Shows
-* *[[Shows/Pulp Friction]]*
-* *[[Shows/Fandom]]*
+* *[[Shows/Pulp Friction|Pulp Friction]]*
+* *[[Shows/Fandom|Fandom]]*
 * *[[Lord Wensleydale’s Last High Tea]]*
-* *[[Shows/TheatreSports]]* (2013)
-* *[[Shows/A Bedtime Gorey]]*
-* *[[Shows/Slam Team Six]]*
-* *[[Shows/TheatreSports]]* (2014)
+* *[[Shows/TheatreSports|TheatreSports]]* (2013)
+* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
+* *[[Shows/Slam Team Six|Slam Team Six]]*
+* *[[Shows/TheatreSports|TheatreSports]]* (2014)
 
 [[Category/Performers|Iseman]]
 [[Category/Active|Iseman]]

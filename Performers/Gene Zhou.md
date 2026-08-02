@@ -22,30 +22,30 @@
 **Gene Zhou** is an improv performer.
 
 ## History
-Gene Zhou started improv in 2010 when he got thirsty walking downtown and wandered into [[The Hideout Theatre]] looking for refreshment.  He saw *[[Shows/Start Trekkin']]* and *[[Shows/Maestro]]* and signed up for classes afterwards.  Since then, he's graduated from the improv programs at [[Coldtowne Theater]], [[The Hideout Theatre]], and [[Merlin Works]]. 
+Gene Zhou started improv in 2010 when he got thirsty walking downtown and wandered into [[The Hideout Theatre]] looking for refreshment.  He saw *[[Shows/Start Trekkin'|Start Trekkin']]* and *[[Shows/Maestro|Maestro]]* and signed up for classes afterwards.  Since then, he's graduated from the improv programs at [[Coldtowne Theater]], [[The Hideout Theatre]], and [[Merlin Works]]. 
 
 ## Troupes
-* [[Troupes/Diplomatic Impunity]]
-* [[Troupes/The Foreign Legion]]
-* [[Troupes/IPhone the Musical]]
-* [[Troupes/The Leading Brands]]
-* [[Troupes/Lifeboat]]
-* [[Troupes/The Metropolitan Collection]]
+* [[Troupes/Diplomatic Impunity|Diplomatic Impunity]]
+* [[Troupes/The Foreign Legion|The Foreign Legion]]
+* [[Troupes/IPhone the Musical|IPhone the Musical]]
+* [[Troupes/The Leading Brands|The Leading Brands]]
+* [[Troupes/Lifeboat|Lifeboat]]
+* [[Troupes/The Metropolitan Collection|The Metropolitan Collection]]
 * [[The Perfect Banana]]
-* [[Troupes/Southern Hospitality's Cardboard Coffin]]
-* [[Troupes/Shades of Brown]]
-* [[Troupes/Unfurled]]
-* [[Troupes/We're Here to Date Your Daughter]]
+* [[Troupes/Southern Hospitality's Cardboard Coffin|Southern Hospitality's Cardboard Coffin]]
+* [[Troupes/Shades of Brown|Shades of Brown]]
+* [[Troupes/Unfurled|Unfurled]]
+* [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]]
 
 ## Shows
-* *[[Shows/Austin's Next Top Improviser]]*
-* *[[Shows/Haunted]]*
-* *[[Shows/Not This American Life]]*
+* *[[Shows/Austin's Next Top Improviser|Austin's Next Top Improviser]]*
+* *[[Shows/Haunted|Haunted]]*
+* *[[Shows/Not This American Life|Not This American Life]]*
 * *[[PIP on TV]]*
 * *[[Puppet Fever]]*
-* *[[Shows/The Sci-Fi Comedy Double Feature]]* (tech)
-* *[[Shows/Start Trekkin']]* (tech)
-* *[[Shows/Twilight Zoned]]* (tech)
-* *[[Shows/Victrola]]*
+* *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]* (tech)
+* *[[Shows/Start Trekkin'|Start Trekkin']]* (tech)
+* *[[Shows/Twilight Zoned|Twilight Zoned]]* (tech)
+* *[[Shows/Victrola|Victrola]]*
 
 [[Category/Performers|Zhou]]

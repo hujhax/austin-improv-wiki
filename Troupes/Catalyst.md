@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ashley Jayne Carlisle">Ashley Jayne Carlisle</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Performers/Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Performers/Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -83,7 +83,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/50891411) of their 10/4/12 performance in *[[Shows/The Threefer]]*.
+* [Video](http://vimeo.com/50891411) of their 10/4/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Publicity
 * [Publicity photos.](http://www.facebook.com/media/set/?set=a.359625984123827.86102.335173679902391&type=1)

@@ -32,7 +32,7 @@ You can do the same thing with different category names to make a page show up i
 **How do I get my troupe to show up in [[List of Austin Improv Troupes|the troupes category]]?**<br/>
 Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Category:Troupes]]</nowiki>.
 
-If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[Troupes/The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.
+If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[Troupes/The Frank Mills|The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.
 
 (If the troupe is currently active, also add this: <nowiki>[[Category/Active|Category:Active]]</nowiki>.)
 
@@ -40,14 +40,14 @@ If your troupe begins with an article such as "the" or "a", you will want to tel
 **How do I upload a picture?**<br/>
 [Here is a quick video that explains how to do it.](http://screencast.com/t/OhasuYtz)
 
-[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Performers/Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Performers/Menelaos Prokos]], [[Performers/Dave alley]], and [[Performers/Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
+[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Performers/Jon Bolden|Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Performers/Menelaos Prokos|Menelaos Prokos]], [[Performers/Dave alley|Dave alley]], and [[Performers/Claudio Fox|Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
 * Credit them in the picture's description.
 * Link back to the original photoset if you can.
 * In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
 
 For an example of following these three rules, look at [this photo](http://wiki.austinimprov.com/wiki/File:Peter_Rogers_Pic.jpg).
 
-(Also, [[Performers/Courtney Hopkin]], [[Performers/Asaf Ronen]] and [[Performers/Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
+(Also, [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Asaf Ronen|Asaf Ronen]] and [[Performers/Kaci Beeler|Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
 
 
 **I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information -- does this mean I need to make two copies of the Hideout page?**<br/>
@@ -57,6 +57,6 @@ That means that all the [[Hideout Theatre]] page does is "redirect" to [[The Hid
 
 
 **I have a problem with the site! Who do I call?**<br/>
-Either [[Performers/Kevin Miller]], [[Performers/Brad Hawkins]], or [[Performers/Peter Rogers]] can probably handle your issue.
+Either [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Brad Hawkins|Brad Hawkins]], or [[Performers/Peter Rogers|Peter Rogers]] can probably handle your issue.
 
 As site administrators, they can do things like delete files, protect pages (meaning nobody can edit them), and even grant other people admin privileges, should you be interested in that.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="TGIS.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for the finale of *[[Shows/TGIS]]*.
+Publicity art for the finale of *[[Shows/TGIS|TGIS]]*.
 
 Art by: unknown.
 ## Licensing

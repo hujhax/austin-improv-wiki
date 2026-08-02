@@ -22,21 +22,21 @@
 **Leng Wong** is an improv performer and producer.
 
 ## Troupes
-* [[Troupes/Shades of Brown]]
-* [[Troupes/The Foreign Legion]]
-* [[Troupes/Senshi Sokyo]]
-* [[Troupes/Diplomatic Impunity]]
-* [[Troupes/The Walk-Ons]]
+* [[Troupes/Shades of Brown|Shades of Brown]]
+* [[Troupes/The Foreign Legion|The Foreign Legion]]
+* [[Troupes/Senshi Sokyo|Senshi Sokyo]]
+* [[Troupes/Diplomatic Impunity|Diplomatic Impunity]]
+* [[Troupes/The Walk-Ons|The Walk-Ons]]
 
 ## Shows
-* *[[Shows/GrimmNoir]]*
-* *[[Shows/RISEN]]*
-* *[[Shows/Reframed]]*  (Producer)
+* *[[Shows/GrimmNoir|GrimmNoir]]*
+* *[[Shows/RISEN|RISEN]]*
+* *[[Shows/Reframed|Reframed]]*  (Producer)
 * *[[Project ReSet]]*
-* *[[Shows/False Matters]]* (stage manager)
+* *[[Shows/False Matters|False Matters]]* (stage manager)
 * *[[Magna Veritas]]*
-* *[[Shows/Spirited]]*
-* *[[Shows/Steam]]*
-* *[[Shows/The Trouble With Terry]]*
+* *[[Shows/Spirited|Spirited]]*
+* *[[Shows/Steam|Steam]]*
+* *[[Shows/The Trouble With Terry|The Trouble With Terry]]*
 
 [[Category/Performers|Wong]]

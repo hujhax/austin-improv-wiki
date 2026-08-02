@@ -22,12 +22,12 @@
 **David Ronn** is an improv performer and musician. 
 
 ## Shows
-* *[[Shows/Camp Madeupponaspotta]]*
-* *[[Shows/Flying Theater Machine]]*
-* *[[Shows/One Small Step]]*
+* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
+* *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
+* *[[Shows/One Small Step|One Small Step]]*
 
 ## Troupes
-* [[Troupes/Doin' Maintenance]]
-* [[Troupes/That Racket!]]
+* [[Troupes/Doin' Maintenance|Doin' Maintenance]]
+* [[Troupes/That Racket!|That Racket!]]
 
 [[Category/Performers|Ronn]]

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Block Party.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Shows/Block Party]]*.
+Publicity image for *[[Shows/Block Party|Block Party]]*.
 
 Art by: unknown.
 ## Licensing

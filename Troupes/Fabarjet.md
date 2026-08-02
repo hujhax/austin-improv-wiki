@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Performers/Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Performers/Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Fabarjet** is a duo consisting of [[Performers/Andreas Fabis]] and [[Performers/Jessica Arjet]], focusing on long-form genre stories.
+**Fabarjet** is a duo consisting of [[Performers/Andreas Fabis|Andreas Fabis]] and [[Performers/Jessica Arjet|Jessica Arjet]], focusing on long-form genre stories.
 
 ## Format
 The current format is "Gnome Noir", a detective story based in the world of cute gnomes.

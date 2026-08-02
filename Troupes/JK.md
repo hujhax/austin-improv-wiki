@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jillian Summar">Performers/Jillian Summar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Doran">Performers/Katie Doran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:*This page refers to the 2015-founded high-energy duo.  For the 2011 Pinter-themed improv duo, see [[Troupes/J-K]].*
+:*This page refers to the 2015-founded high-energy duo.  For the 2011 Pinter-themed improv duo, see [[Troupes/J-K|J-K]].*
 
 **JK** is an improv duo.
 

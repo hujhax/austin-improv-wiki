@@ -22,20 +22,20 @@
 **Kate Bojanek** is an improv performer.
 
 ## Troupes
-* [[Troupes/Achatina Achatina]]
-* [[Troupes/Mustache]]
-* [[Troupes/The Nesting Dolls]]
-* [[Troupes/Pasta with a Chat]]
-* [[Troupes/Sarah 7]]
-* [[Troupes/Secret Senate]]
-* [[Troupes/Tender Nightmare]]
-* [[Troupes/Turn of the Century Paris]]
-* [[Troupes/The Varsity]]
+* [[Troupes/Achatina Achatina|Achatina Achatina]]
+* [[Troupes/Mustache|Mustache]]
+* [[Troupes/The Nesting Dolls|The Nesting Dolls]]
+* [[Troupes/Pasta with a Chat|Pasta with a Chat]]
+* [[Troupes/Sarah 7|Sarah 7]]
+* [[Troupes/Secret Senate|Secret Senate]]
+* [[Troupes/Tender Nightmare|Tender Nightmare]]
+* [[Troupes/Turn of the Century Paris|Turn of the Century Paris]]
+* [[Troupes/The Varsity|The Varsity]]
 
 ## Shows
 * *[[Elf Employment]]*
-* *[[Shows/Family Tides]]*
-* *[[Troupes/UpTowne]]*
+* *[[Shows/Family Tides|Family Tides]]*
+* *[[Troupes/UpTowne|UpTowne]]*
 
 [[Category/Performers|Bojanek]]
 [[Category/Active|Bojanek]]

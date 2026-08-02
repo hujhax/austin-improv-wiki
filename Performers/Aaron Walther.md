@@ -27,14 +27,14 @@ Aaron Walther started studying improv at [[The New Movement Theater]] in 2009 an
 In 2012, Aaron attended [[The iO Summer Intensive]].
 
 ## Troupes
-* [[Troupes/City High]]
-* [[Troupes/Disco Box]]
-* [[Troupes/DJ Danger Dad]]
+* [[Troupes/City High|City High]]
+* [[Troupes/Disco Box|Disco Box]]
+* [[Troupes/DJ Danger Dad|DJ Danger Dad]]
 * [[Humordy]]
 * [[The Sticky Boys]]
 
 ## Shows
-* *[[Shows/The Cherry Bowl]]* (Yasha)
-* *[[Shows/Steam]]*
+* *[[Shows/The Cherry Bowl|The Cherry Bowl]]* (Yasha)
+* *[[Shows/Steam|Steam]]*
 
 [[Category/Performers|Walther]]

@@ -29,13 +29,13 @@ He took his first improv class at [[The Institution Theater]] with the intention
 ## Shows
 ![[Adam - Fancy Pants.jpg|Adam is a frequent cast member of *The Fancy-Pants Mashup*.]]
 
-* *[[Shows/The Fancy-Pants Mashup]]*
-* *[[Shows/Ka-Baam!!]]*
+* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
+* *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Live TV Tuesdays -  Angel]]* (Gunn)
 * *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]* (Bad Horse Chorus)
 * *[[Live TV Tuesdays -  Firefly]]* (Book)
 * *[[Live TV Tuesdays -  Scrubs]]* (Turk)
-* *[[Shows/The Rubber Room]]*
+* *[[Shows/The Rubber Room|The Rubber Room]]*
 
 
 [[Category/Performers|Mengesha]]

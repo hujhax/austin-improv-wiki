@@ -22,7 +22,7 @@
 **Sarah Swofford** is an improv performer who works primarily with [[The Institution Theater]].
 
 ## Troupes
-* [[Troupes/The Seven Eight Sevens]]
+* [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
 
 ## Shows
 * *[[The Joss Whedon Pajama Party]]*

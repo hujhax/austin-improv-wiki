@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Performers/Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Performers/Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -71,10 +71,10 @@
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Hanna AbuZayed">Hanna AbuZayed</a> (saxophone)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a> (drums)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a> (drums)</li><!--
   --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a> (bass)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a> (<a class="internal-link" href="Wikipedia - theremin">theremin</a>)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Performers/Scott Hearne</a> (guitar)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (<a class="internal-link" href="Wikipedia - theremin">theremin</a>)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a> (guitar)</li><!--
   --><!--
   --><!--
   --><!--
@@ -126,16 +126,16 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Celena A Diamond">Celena A Diamond</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Performers/Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style=""><a class="internal-link" href="Hanna AbuZayed">Hanna AbuZayed</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Performers/Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Tran">Joseph Tran</a></li><!--
   --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
   --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lena Long">Performers/Lena Long</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Performers/Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lena Long">Lena Long</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Sammy Boss">Sammy Boss</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Performers/Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></li><!--
   --><!--
   --><!--
   --><!--

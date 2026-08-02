@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Duran & Johsnon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for [[Troupes/Duran & Johnson]]'s October 2013 run at [[Coldtowne Theater]].
+Publicity art for [[Troupes/Duran & Johnson|Duran & Johnson]]'s October 2013 run at [[Coldtowne Theater]].
 
 Photo by: unknown.
 

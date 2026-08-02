@@ -1,9 +1,9 @@
 <div style="text-align: center;"><img src="Showdown.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for *[[Shows/Showdown]]*.
+Publicity art for *[[Shows/Showdown|Showdown]]*.
 
-Art by [[Performers/Courtney Hopkin]].
+Art by [[Performers/Courtney Hopkin|Courtney Hopkin]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 
