@@ -10,7 +10,7 @@ Beginning in 2013, Merlin Works moved to the ZACH Theatre and graduation perform
 |-
 |9/13/08||10/25/08||*[[Shows/Haunted|Haunted]]*||[[Performers/Andy Crouch|Andy Crouch]], [[Performers/Shana Merlin|Shana Merlin]]
 |-
-|10/9/10||10/30/10||*[[' ' or Bust!]]*||[[Performers/Shana Merlin|Shana Merlin]]
+|10/9/10||10/30/10||*[[Shows/' ' or Bust!|' ' or Bust!]]*||[[Performers/Shana Merlin|Shana Merlin]]
 |-
 |12/4/10||12/18/10||*[[Shows/Bad Company|Bad Company]]*||[[Performers/Shana Merlin|Shana Merlin]], [[Performers/Ted Rutherford|Ted Rutherford]]
 |-

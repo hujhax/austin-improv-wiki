@@ -7,7 +7,7 @@ This **List of Gnap! Theater Projects Shows** is designed to be transcluded into
 * *[[Shows/The Saturday Night Special|The Saturday Night Special]]*
 
 ### Mainstage Productions
-* *[[' ' or Bust!]]*
+* *[[Shows/' ' or Bust!|' ' or Bust!]]*
 * *[[Shows/The Amazing Improvised Race|The Amazing Improvised Race]]*
 * *[[Shows/Bad Company|Bad Company]]*
 * *[[Shows/The Cherry Bowl|The Cherry Bowl]]* (2012, 2013)

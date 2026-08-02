@@ -44,7 +44,7 @@ In 2008 while attending UT Quinn saw some [[Troupes/GigglePants|GigglePants]] sh
 
 ## Shows
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
-* *[[Blank or Bust]]*
+* *[[Shows/Blank or Bust|Blank or Bust]]*
 * *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/Theatresports (mainstage run)|TheatreSports]]*

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Blank or Bust.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[' ' or Bust!]]
+Publicity image for [[Shows/' ' or Bust!|' ' or Bust!]]
 
 Art by: unknown.
 ## Licensing

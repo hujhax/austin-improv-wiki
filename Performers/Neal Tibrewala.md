@@ -90,7 +90,7 @@ The first improv show he ever saw was *[[Shows/After School Improv|After School 
 * [[Troupes/My Friend Stripey|My Friend Stripey]]
 
 ## Shows
-* [[' ' or Bust!]] (performer)
+* [[Shows/' ' or Bust!|' ' or Bust!]] (performer)
 * [[Shows/After School Improv|After School Improv]] (tech)
 * [[Shows/Austin Secrets|Austin Secrets]] (tech)
 * [[Shows/The Black Vault|The Black Vault]] (tech)
