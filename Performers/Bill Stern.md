@@ -39,6 +39,6 @@ I became a member of Well Hung Jury by April of that year.</p>  </blockquote>
 * [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ## More Information
-* [Interview](http://gybpodcast.libsyn.com/bill-stern-ep-37-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/bill-stern-ep-37-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Performers|Stern]]

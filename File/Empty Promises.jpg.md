@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Empty Promises.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[Empty Promises]].
+Publicity photo of [[Troupes/Empty Promises|Empty Promises]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

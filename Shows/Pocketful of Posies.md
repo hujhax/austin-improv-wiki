@@ -144,6 +144,6 @@
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151211225352265.507819.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/18/12 performance.
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2035639) with cast members [[Performers/Kristin Firth|Kristin Firth]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Ruby Willmann|Ruby Willmann]], and [[Performers/Ryan Austin|Ryan Austin]] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2035639) with cast members [[Performers/Kristin Firth|Kristin Firth]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Ruby Willmann|Ruby Willmann]], and [[Performers/Ryan Austin|Ryan Austin]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Shows|Pocketful]]

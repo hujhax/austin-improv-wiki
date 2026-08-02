@@ -143,7 +143,7 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 
 ## More Information
 * [Indigo Shift's Facebook page](http://www.facebook.com/#!/shiftindigo?fref=ts)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844) with the troupe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Played Their Last Show at Out of Bounds|Category:Played Their Last Show at Out of Bounds]]

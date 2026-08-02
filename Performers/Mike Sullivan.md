@@ -26,7 +26,7 @@ In 2011, Mike Sullivan moved to Chicago.
 
 ## Troupes
 * [[Troupes/Blink|Blink]]
-* [[Continental Breakfast]]
+* [[Troupes/Continental Breakfast|Continental Breakfast]]
 * [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]]
 * [[Troupes/The Walk-Ons|The Walk-Ons]]
 * [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]

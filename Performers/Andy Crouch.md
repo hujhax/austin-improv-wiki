@@ -43,6 +43,6 @@ A post from him about the first improv show he ever saw:<blockquote><p>I think m
 * *[[Shows/The Big Bash|The Big Bash]]* (director)
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786) with Andy on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2389786) with Andy on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [An 8/30/13 blogpost recommending improv classes](http://www.hideouttheatre.com/improv-classes-will-change-your-life) from the Hideout blog.
 * [Interview](http://yesandrew.com/sunday-interview-andy-crouch-2/) by [[Performers/Andrew Buck|Andrew Buck]].

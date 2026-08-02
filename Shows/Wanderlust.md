@@ -189,7 +189,7 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
 * [The audition announcement.](http://www.facebook.com/groups/hideouttheatre/permalink/824995157523590/)
-* [Interview](http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing) by [[Performers/Scott Hearne|Scott Hearne]] with [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Aaron Saenz|Aaron Saenz]] and [[Performers/Manuel Duran|Manuel Duran]] for *[[The Theft Forum]]*.
+* [Interview](http://thetheftforum.libsyn.com/episode-66-wanderlust-improvised-tales-of-travel-love-and-longing) by [[Performers/Scott Hearne|Scott Hearne]] with [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Aaron Saenz|Aaron Saenz]] and [[Performers/Manuel Duran|Manuel Duran]] for *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [Post about the show](http://yesandrew.com/wanderlust-and-the-audacity-of-vision/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Radio interview](http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3) with [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Cat Drago|Cat Drago]], and [[Performers/Chris Albano|Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
 * [blogpost](http://www.hideouttheatre.com/the-journey-to-wanderlustHideout) by [[Performers/Ruby Willmann|Ruby Willmann]] about the production.

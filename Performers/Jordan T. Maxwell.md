@@ -30,7 +30,7 @@ In October 2010, Jordan gave up on Los Angeles and moved back to Austin where he
 
 In October of 2011, Jordan took a brief hiatus from Austin to film the Hulu original series *[Battleground](http://en.wikipedia.org/wiki/Battleground_(TV_series))*, written and directed by his former Ultimate Improv coach J.D. Walsh, in Madison, Wisconsin.  In 2012, he returned to Austin improv in *[[Shows/Process|Process]]*, *[[Shows/Rock|Rock]]*, and *[[Shows/Pocketful of Posies|Pocketful of Posies]]*.  In 2013, he was cast in *[[Shows/Fandom|Fandom]]* and directed *[[Shows/Strange Worlds|Strange Worlds]]*, an improvised pulp hero anthology he first envisioned during his time in Los Angeles.  He then directed *Macbeth* and played Dogberry in *Much Ado About Nothing* leading up to the run of *[[Shows/Fakespeare|Fakespeare]]* at [[The Hideout Theatre]], and debuted his new troupe [[Troupes/The Awkwards|The Awkwards]] with [[Performers/Kacey Samiee|Kacey Samiee]] and [[Performers/Aaron Saenz|Aaron Saenz]]. 
 
-After returning to *[[Shows/The Professor|The Professor]]* during Doctor Who's 50th anniversary, and in the midst of touring to New York, Hawaii, and Alaska with [[Troupes/Indigo Shift|Indigo Shift]] and [[Shows/Strange Worlds|Strange Worlds]], he performed in *[[Shows/I Love You So Much|I Love You So Much]]*, *[[Shows/Kenjutsu|Kenjutsu]]*, and *[[Shows/Nothing And Everything|Nothing And Everything]]*.  He also directed the Hideout Student Mainstage Show, *[[Shows/The Aftermath|The Aftermath]]*.   
+After returning to *[[Troupes/The Professor|The Professor]]* during Doctor Who's 50th anniversary, and in the midst of touring to New York, Hawaii, and Alaska with [[Troupes/Indigo Shift|Indigo Shift]] and [[Shows/Strange Worlds|Strange Worlds]], he performed in *[[Shows/I Love You So Much|I Love You So Much]]*, *[[Shows/Kenjutsu|Kenjutsu]]*, and *[[Shows/Nothing And Everything|Nothing And Everything]]*.  He also directed the Hideout Student Mainstage Show, *[[Shows/The Aftermath|The Aftermath]]*.   
 
 His written stage works include *Icons: a pop fantasy* and *The Appointment.*  He has tried teaching improv, in Austin and Los Angeles, but isn't very good at it.
 
@@ -64,7 +64,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>Other tha
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/Process|Process]]*
-* *[[Shows/The Professor|The Professor]]*
+* *[[Troupes/The Professor|The Professor]]*
 * *[[Shows/Rock|Rock]]*
 * *[[Shows/Savage Swords|Savage Swords]]*
 * *[[Shows/Showdown|Showdown]]*

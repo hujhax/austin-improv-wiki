@@ -27,7 +27,7 @@
 ## Troupes
 * [[Troupes/The Leading Brands|The Leading Brands]]
 * [[Troupes/IPhone the Musical|IPhone the Musical]]
-* [[The Perfect Banana]]
+* [[Troupes/The Perfect Banana|The Perfect Banana]]
 * [[Oscar's Flying Fish and Unicorn Minstrel Show]]
 * [[Troupes/Southern Hospitality's Cardboard Coffin|Southern Hospitality's Cardboard Coffin]]
 * [[Troupes/Past Life Aggression|Past Life Aggression]]

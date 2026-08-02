@@ -48,6 +48,6 @@ I met them after the show. [[Performers/Tyler Bryce|Tyler Bryce]], now of Obviou
 * [[The 40-Hour Improv Marathon]]
 
 ## More Information
-* [Interview](http://gybpodcast.libsyn.com/jeremy-sweetlamb-ep17-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/jeremy-sweetlamb-ep17-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Performers|Sweetlamb]]

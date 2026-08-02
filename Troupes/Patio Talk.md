@@ -136,7 +136,7 @@
 
 ## More Information
 * [The troupe's Facebook page.](http://www.facebook.com/patiotalk)
-* [Interview](http://gybpodcast.libsyn.com/patio-talk-ep23-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/patio-talk-ep23-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

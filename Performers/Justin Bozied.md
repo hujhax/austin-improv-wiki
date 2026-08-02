@@ -24,7 +24,7 @@
 ## Troupes
 * [[Troupes/Je Ju|Je Ju]]
 * [[Troupes/The Library|The Library]]
-* [[Shows/The Professor|The Professor]] (creator, director, 2011-2012)
+* [[Troupes/The Professor|The Professor]] (creator, director, 2011-2012)
 * [[Troupes/Century|Century]]
 * [[Troupes/The Starter Kit|The Starter Kit]]
 * [[Troupes/The Asides|The Asides]]

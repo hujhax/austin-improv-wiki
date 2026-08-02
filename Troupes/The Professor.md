@@ -252,8 +252,9 @@ The run featured tech by [[Michael Yew]].
 * [Cast announcement for season one.](http://forum.austinimprov.com/viewtopic.php?p=110925)
 * [Cast announcement for season two.](http://forum.austinimprov.com/viewtopic.php?t=12879)
 * [Show announcement for season two.](http://forum.austinimprov.com/viewtopic.php?t=13189)
-* [2012 Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041810) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Emily Breedlove|Emily Breedlove]], [[Performers/Colin Thomas Bates|Colin Thomas Bates]], and [[Performers/Peter Rogers|Peter Rogers]]. on *[[The Theft Forum]]*.
+* [2012 Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041810) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Emily Breedlove|Emily Breedlove]], [[Performers/Colin Thomas Bates|Colin Thomas Bates]], and [[Performers/Peter Rogers|Peter Rogers]]. on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [A 2012 Tor.com blog story about season two.](http://www.tor.com/blogs/2012/04/time-and-relative-dimensions-in-improv-the-professor)
 * [Facebook event for the third season.](http://www.facebook.com/events/1424792731066029/)
 
 [[Category/Shows|Professor]]
+[[Category/Troupes|Category:Troupes]]

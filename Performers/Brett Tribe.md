@@ -46,6 +46,6 @@ A post from him about the first improv show he ever saw:<blockquote><p>Aside fro
 * National Academy of Sports Medicine Certified Personal Trainer 2013
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2178013) with Brett on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2178013) with Brett on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Performers|Tribe]]

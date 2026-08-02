@@ -49,4 +49,4 @@
 * ''[[Next Week on Game of Thrones]]'
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2246910) with Lampe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2246910) with Lampe on *[[Troupes/The Theft Forum|The Theft Forum]]*.

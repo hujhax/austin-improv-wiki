@@ -58,8 +58,8 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
 
 ## More Information
-* [Interview](http://gybpodcast.libsyn.com/roy-janik-ep-24-got-your-back) on *[[Got Your Back]]*.
-* [An episode](http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back) of *[[Got Your Back]]* that includes his lecture "Finding, Feeding, and Chasing Inspiration".
+* [Interview](http://gybpodcast.libsyn.com/roy-janik-ep-24-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
+* [An episode](http://gybpodcast.libsyn.com/comedy-nerd-out-2815-ep32-got-your-back) of *[[Troupes/Got Your Back|Got Your Back]]* that includes his lecture "Finding, Feeding, and Chasing Inspiration".
 * [Interview](http://yesandrew.com/sunday-improv-interview-roy-janik-2/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Janik]]

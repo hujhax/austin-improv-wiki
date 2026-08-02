@@ -35,7 +35,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>My first
 ## Troupes
 * [[Troupes/Anticdotes|Anticdotes]]
 * [[Troupes/The Escorts|The Escorts]]
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 * [[Troupes/Sugarbakers|Sugarbakers]]
 
 ## Shows

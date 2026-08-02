@@ -38,7 +38,7 @@ He guested with [[Troupes/Girls Girls Girls|Girls Girls Girls]] during their *[[
 
 ## More Information
 * [Brently's wikipedia page.](http://en.wikipedia.org/wiki/Brently_Heilbron)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2650441) on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2650441) on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Performers|Heilbron]]
 [[Category/Directors|Heilbron]]

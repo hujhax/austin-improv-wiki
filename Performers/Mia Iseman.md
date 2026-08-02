@@ -26,7 +26,7 @@
 * [[Troupes/The Starborn|The Starborn]]
 * [[Troupes/Three on a Match|Three on a Match]]
 * [[Troupes/Past Lives|Past Lives]]
-* [[Buttholes]]
+* [[Troupes/Buttholes|Buttholes]]
 
 ## Shows
 * *[[Shows/Pulp Friction|Pulp Friction]]*

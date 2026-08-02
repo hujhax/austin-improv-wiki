@@ -69,6 +69,6 @@ Hurly Burly : Improvised Burlesque Stories, won two B. Iden Payne Awards, invite
 * "Cat Fight" (Short)
 
 ## More Information
-* [Interview with Adriane Shown](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2323283) on *[[The Theft Forum]]*.
+* [Interview with Adriane Shown](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2323283) on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Performers|Shown]]

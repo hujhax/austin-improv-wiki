@@ -22,7 +22,7 @@
 **Halyn Lee Erickson** is an improv performer.
 
 ## History
-She began watching shows at [[The Hideout Theatre]] when she was in 6th grade, and started taking improv classes there in 2009. Her first mainstage show at the Hideout was Season 2 of *[[Shows/Austin Secrets|Austin Secrets]]* in January/February of 2011. After that she was in Season 2 of *[[Shows/Austin Secrets|Austin Secrets]]*, LNI, *[[Shows/Spirited|Spirited]]* (as Alice), *[[Shows/Charles Dickens Unleashed!|Charles Dickens Unleashed!]]*, *[[Shows/Process|Process]]*, *[[Shows/Rock|Rock]]* (during this run she was one of the main cast members of [[The 43-Hour Improv Marathon]]) *[[Shows/Fandom|Fandom]]*, Season 4 of *[[Shows/Austin Secrets|Austin Secrets]]*, *[[Shows/Hurly Burly|Hurly Burly]]*, and *[[Shows/TheatreSports|TheatreSports]]*. In June 2014 she headlined *[[Shows/The Threefer|The Threefer]]* at [[The Hideout Theatre|the Hideout]] with her solo show, *[[Shows/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*, based on the classic *[[Shows/Maestro|Maestro]]* game Demon Voice.
+She began watching shows at [[The Hideout Theatre]] when she was in 6th grade, and started taking improv classes there in 2009. Her first mainstage show at the Hideout was Season 2 of *[[Shows/Austin Secrets|Austin Secrets]]* in January/February of 2011. After that she was in Season 2 of *[[Shows/Austin Secrets|Austin Secrets]]*, LNI, *[[Shows/Spirited|Spirited]]* (as Alice), *[[Shows/Charles Dickens Unleashed!|Charles Dickens Unleashed!]]*, *[[Shows/Process|Process]]*, *[[Shows/Rock|Rock]]* (during this run she was one of the main cast members of [[The 43-Hour Improv Marathon]]) *[[Shows/Fandom|Fandom]]*, Season 4 of *[[Shows/Austin Secrets|Austin Secrets]]*, *[[Shows/Hurly Burly|Hurly Burly]]*, and *[[Shows/TheatreSports|TheatreSports]]*. In June 2014 she headlined *[[Shows/The Threefer|The Threefer]]* at [[The Hideout Theatre|the Hideout]] with her solo show, *[[Troupes/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*, based on the classic *[[Shows/Maestro|Maestro]]* game Demon Voice.
 
 A post from her about the first improv show she ever saw:<blockquote><p>My dad took me to see a *[[Shows/Maestro|Maestro]]* when I was in the 6th grade. The drive down I was super skeptical, and I thought it was going to be some weird lame one-off type thing. I think I thought it was like a play/performance art piece.</p> 
 
@@ -43,7 +43,7 @@ In 2015 she moved to Paris.
 * *[[Shows/Austin Secrets|Austin Secrets]]* (seasons 2 and 4)
 * *[[Blood, Sweat, and Cheers]]* (Kennedy Campbell, choreographer)
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]* (season 2)
-* *[[Shows/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*
+* *[[Troupes/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/Hurly Burly|Hurly Burly]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*

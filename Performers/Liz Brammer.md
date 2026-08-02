@@ -46,6 +46,6 @@ In 2012, Liz moved to Seattle.
 * *[[ColdTowne Mainstage]]*
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041256) with Liz on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041256) with Liz on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Performers|Brammer]]

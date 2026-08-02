@@ -93,7 +93,7 @@ They had a one-time run of Thursday shows in May 2013 at [[Coldtowne Theater]] w
 * [The casting call for the workshop](http://forum.austinimprov.com/viewtopic.php?f=3&t=14803) on [[The Austin Improv Forums]]
 * [The show-run announcement](http://forum.austinimprov.com/viewtopic.php?t=15249&p=131289) on [[The Austin Improv Forums]]
 * [A 2006 interview with Craig Cackowski about the JTS Brown format.](http://www.improvinterviews.com/2006/11/jts-brown-description-by-craig.html)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2330421) with co-director [[Performers/Cody Dearing|Cody Dearing]] and producer/cast member [[Joshua Phillips]] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2330421) with co-director [[Performers/Cody Dearing|Cody Dearing]] and producer/cast member [[Joshua Phillips]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

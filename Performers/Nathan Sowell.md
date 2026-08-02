@@ -38,6 +38,6 @@
 
 ## More Information
 * [Interview](http://yesandrew.com/2014/07/06/the-sunday-interview-nathan-sowell/) by [[Performers/Andrew Buck|Andrew Buck]].
-* [Interview](http://gybpodcast.libsyn.com/nathan-sowell-ep-36-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/nathan-sowell-ep-36-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Performers|Sowell]]

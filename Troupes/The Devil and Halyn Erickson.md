@@ -42,3 +42,4 @@ The show headlined *[[Shows/The Threefer|The Threefer]]* in June 2014.
 [[Category/Shows|Devil and Halyn Erickson]]
 [[Category/Auto-Generated Troupe Pages|Devil and Halyn Erickson]]
 [[Category/Solo Acts|Devil and Halyn Erickson]]
+[[Category/Troupes|Category:Troupes]]

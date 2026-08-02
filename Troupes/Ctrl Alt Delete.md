@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:''This page refers to the current, all-female [[ColdTowne]] troupe.  For the defunct all-male troupe consisting of ex-members of [[Continental Breakfast]], see [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]].
+:''This page refers to the current, all-female [[ColdTowne]] troupe.  For the defunct all-male troupe consisting of ex-members of [[Troupes/Continental Breakfast|Continental Breakfast]], see [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]].
 **Ctrl Alt Delete** is an improv troupe based out of [[Coldtowne Theater]].
 
 ## Media

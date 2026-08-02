@@ -40,4 +40,4 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 * [Photoset](http://www.facebook.com/media/set/?set=a.637078753022311.1073741947.221927764537414&type=3) by [[Steve Rogers]] from the photobooth at the 2013 potluck.
 
 ## More Information
-* Interviews conducted by *[[Got Your Back]]* at the 2014 potluck: [1](http://gybpodcast.libsyn.com/ep-25-the-aic-potluck-sessions-part-1of-3), [2](http://gybpodcast.libsyn.com/ep-26-the-aic-potluck-sessions-part-2-of-3), [3](http://gybpodcast.libsyn.com/the-aic-potluck-sessions-part-2-of-3).
+* Interviews conducted by *[[Troupes/Got Your Back|Got Your Back]]* at the 2014 potluck: [1](http://gybpodcast.libsyn.com/ep-25-the-aic-potluck-sessions-part-1of-3), [2](http://gybpodcast.libsyn.com/ep-26-the-aic-potluck-sessions-part-2-of-3), [3](http://gybpodcast.libsyn.com/the-aic-potluck-sessions-part-2-of-3).

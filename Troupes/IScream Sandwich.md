@@ -102,7 +102,7 @@ They perform a Harold.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/iScreamSandwich)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2191988) with the troupe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2191988) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

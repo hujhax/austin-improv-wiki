@@ -25,7 +25,7 @@
 In early 2014, Steve moved away from Austin.
 
 ## Troupes
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 
 ## Shows
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*

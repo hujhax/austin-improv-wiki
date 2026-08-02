@@ -43,7 +43,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Troupes/Past Lives|Past Lives]]* (2013 - 2014)
 
 ## Shows
-* *[[Shows/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
+* *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/Strange Worlds|Strange Worlds]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*

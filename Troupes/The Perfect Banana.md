@@ -27,7 +27,7 @@
 </div>
 
 ## History
-[[The Perfect Banana]] was a 2008 cagematch team consisting of:
+[[Troupes/The Perfect Banana|The Perfect Banana]] was a 2008 cagematch team consisting of:
 
 * [[Phil Wilhelm]]
 * [[Performers/Gene Zhou|Gene Zhou]]
@@ -37,3 +37,4 @@
 * [[Performers/Frank Willmore|Frank Willmore]]
 
 Advanced to 3rd round (?) and known primarily for 'the teacup scene'.
+[[Category/Troupes|Category:Troupes]]

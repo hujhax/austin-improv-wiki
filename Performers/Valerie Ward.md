@@ -63,7 +63,7 @@ Past:
 
 ## More Information
 * [Interview](http://yesandrew.com/2014/06/29/the-sunday-interview-valerie-ward/) by [[Performers/Andrew Buck|Andrew Buck]].
-* [An interview](http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short) from *[[Got Your Back]]* on the topic of "Audition Advice for Improvisors".
+* [An interview](http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short) from *[[Troupes/Got Your Back|Got Your Back]]* on the topic of "Audition Advice for Improvisors".
 * In addition to her improv activities, Valerie is co-owner of [Sweet Ritual Vegan Ice Cream Parlor](http://www.sweetritual.com/).
 
 [[Category/Performers|Ward]]

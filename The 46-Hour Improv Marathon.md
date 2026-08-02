@@ -48,12 +48,12 @@
 * Saturday 6am (hour 14): *[[Shows/Cochise|Cochise]]*
 * Saturday 7am (hour 15): "The Marathon Alumni Show"
 	* "A blast from the past. Marathon Alumni come to support and advise the 2014 participants."
-* Saturday 8am (hour 16): [[Empty Promises]]
+* Saturday 8am (hour 16): [[Troupes/Empty Promises|Empty Promises]]
 * Saturday 9am (hour 17): "Building Connections"
 	* "Students from the Building Connections improv classes join the Marathoners."
 * Saturday 10am (hour 18): *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
 * Saturday 11am (hour 19): *[[Shows/Control Issues|Control Issues]]*
-* Saturday 12pm (hour 20): *[[Shows/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*
+* Saturday 12pm (hour 20): *[[Troupes/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*
 * Saturday 1pm (hour 21): *[[Shows/History Under the Influence|History Under the Influence]]*
 * Saturday 2pm (hour 22): [[Troupes/What's the Story, Steve|What's the Story, Steve]]
 * Saturday 3pm (hour 23): "The Eye of the Storm" (free-form improv from the core cast)

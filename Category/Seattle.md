@@ -1,3 +1,3 @@
 ## Pages in category "Seattle"
 
-* [[Buttholes]]
+* [[Troupes/Buttholes]]

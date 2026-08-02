@@ -104,7 +104,7 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |-
 |5/11/2018
 |  **[[Shows/Soundstage 23|Soundstage 23]]**
-| [[Empty Promises]]
+| [[Troupes/Empty Promises|Empty Promises]]
 |-
 |5/18/2018
 |  **[[Shows/Soundstage 23|Soundstage 23]]**

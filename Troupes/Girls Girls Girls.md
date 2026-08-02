@@ -232,7 +232,7 @@ This section lists media specifically for their *[[Shows/Boys of Summer|Boys of 
 
 ## More Information
 * [The troupe's web page.](http://www.gggimprov.com/cast/the-girls-of-girls-girls-girls/)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2398141) with cast members [[Performers/Aden Kirschner|Aden Kirschner]] and [[Performers/Shana Merlin|Shana Merlin]] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2398141) with cast members [[Performers/Aden Kirschner|Aden Kirschner]] and [[Performers/Shana Merlin|Shana Merlin]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

@@ -29,7 +29,7 @@ Michael is the co-founder and artistic director of [Dystheatre](http://dystheatr
 * [[Troupes/Happiness is a Choice|Happiness is a Choice]]
 * [[Troupes/A Bunch of Liars|A Bunch of Liars]]
 * [[Troupes/The Band of Liars|The Band of Liars]]
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 
 ## Inactive Troupes
 * [[Troupes/Double Dutch|Double Dutch]]

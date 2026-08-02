@@ -22,7 +22,7 @@
 **Matt Needles** is a writer, director and improviser.
 
 ## Troupes
-* [[Empty Promises]]
+* [[Troupes/Empty Promises|Empty Promises]]
 * [[Troupes/Array|Array]]
 * [[Troupes/Cheap Date|Cheap Date]]
 * [[The Comedy Bazaar]]

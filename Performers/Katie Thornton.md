@@ -35,7 +35,7 @@ Katie started taking improv classes with [[Performers/Shana Merlin|Shana Merlin]
 * *[[Dusk]]*
 * *[[Shows/The Sandbox|The Sandbox]]*
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (Kelly Taylor)
-* *[[Shows/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*
+* *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
 * *[[Oscar Bait]]*
 * *[[Shows/Braised in Texas|Braised in Texas]]*

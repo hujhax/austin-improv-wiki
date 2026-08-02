@@ -42,5 +42,5 @@ His novel, *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*, was fe
 * [[Troupes/Simply D-VINE|Simply D-VINE]]
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/id/2816451) on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/id/2816451) on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 [[Category/Performers|Category:Performers]]

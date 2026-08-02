@@ -55,7 +55,7 @@ The festival roast featured [[Performers/David Lampe|David Lampe]].
 * [[Troupes/Opposites|Opposites]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 * *[[Shows/Process|Process]]*
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 * [[Puppet Improv Project]]
 * [[Troupes/Rachel and Dave|Rachel and Dave]]
 * [[Troupes/Ratliff and Jackson|Ratliff and Jackson]]

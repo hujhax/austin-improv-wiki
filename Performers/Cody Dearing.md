@@ -83,7 +83,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I saw Fou
 * *[[Shows/Stool Pigeon|Stool Pigeon]]*
 * [[Ingest]]
 * [[Winter Miracles Talent Show]]
-* *[[Got Your Back]]*
+* *[[Troupes/Got Your Back|Got Your Back]]*
 
 ## More Information
 * [Interview](http://yesandrew.com/2014/05/18/the-sunday-interview-cody-dearing/) by [[Performers/Andrew Buck|Andrew Buck]].

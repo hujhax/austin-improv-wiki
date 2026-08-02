@@ -26,7 +26,7 @@ Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
 * *[[Shows/Not This American Life|Not This American Life]]* (2012)
 * *[[Shows/One More Night|One More Night]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (2012)
-* *[[Shows/The Professor|The Professor]]* (2012)
+* *[[Troupes/The Professor|The Professor]]* (2012)
 * *[[Shows/The Sandbox|The Sandbox]]*
 * *[[Seance]]* (2012)
 * *[[Shows/Showdown|Showdown]]* (2011)

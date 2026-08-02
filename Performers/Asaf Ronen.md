@@ -63,4 +63,4 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Shows/The Suitcase|The Suitcase]]* (director)
 
 ## More Information
-* Interview with Asaf Ronen on *[[The Theft Forum]]*: [part 1 (Asaf's history with improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2215619), [part 2 (Asaf's thoughts about improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2225837).
+* Interview with Asaf Ronen on *[[Troupes/The Theft Forum|The Theft Forum]]*: [part 1 (Asaf's history with improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2215619), [part 2 (Asaf's thoughts about improv)](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2225837).

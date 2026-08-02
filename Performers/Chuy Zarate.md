@@ -39,5 +39,5 @@ As a teenager in San Antonio, Zarate was coached in improv by [[Performers/David
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
 
 ## More Information
-* [Interview](http://archive.org/details/ScottHearneTheTheftForum-ChuyZarate-Episode4) with Chuy on *[[The Theft Forum]]*.
+* [Interview](http://archive.org/details/ScottHearneTheTheftForum-ChuyZarate-Episode4) with Chuy on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [Interview](http://yesandrew.com/the-sunday-interview-chuy-zarate/) by [[Performers/Andrew Buck|Andrew Buck]].

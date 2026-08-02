@@ -1,3 +1,3 @@
 ## Pages in category "Buttholes"
 
-* [[Buttholes]]
+* [[Troupes/Buttholes]]

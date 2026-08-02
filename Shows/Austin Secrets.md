@@ -351,7 +351,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [A post about preparing for the 2011 run](http://www.hideouttheatre.com/honor-the-secret-by-jordan-t-maxwell) by [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]].
 * [A 5/23/11 post about curating the show](http://www.hideouttheatre.com/the-curators-secret) by [[Performers/Roy Janik|Roy Janik]].
 * [A call for secrets for the 2011 run.](http://www.hideouttheatre.com/desperately-seeking-secrets)
-* [2013 interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2199716) with director [[Performers/Roy Janik|Roy Janik]] and cast members [[Performers/Alex Dobrenko|Alex Dobrenko]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Paul Normandin|Paul Normandin]], [[Performers/Jayme Ramsay|Jayme Ramsay]], and [[Performers/Peter Rogers|Peter Rogers]] on *[[The Theft Forum]]*.
+* [2013 interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2199716) with director [[Performers/Roy Janik|Roy Janik]] and cast members [[Performers/Alex Dobrenko|Alex Dobrenko]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Paul Normandin|Paul Normandin]], [[Performers/Jayme Ramsay|Jayme Ramsay]], and [[Performers/Peter Rogers|Peter Rogers]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 ## Notes
 <references/>

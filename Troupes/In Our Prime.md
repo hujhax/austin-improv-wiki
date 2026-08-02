@@ -159,7 +159,7 @@ Here is [[Performers/Paul Normandin|Paul Normandin]]'s explanation of the name's
 ## More Information
 * [In Our Prime facebook page](http://www.facebook.com/InOurPrime)
 * [In Our Prime website](http://www.inourprimeimprov.com/)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2089910) with the troupe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2089910) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

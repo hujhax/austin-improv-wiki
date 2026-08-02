@@ -31,7 +31,7 @@ Gene Zhou started improv in 2010 when he got thirsty walking downtown and wander
 * [[Troupes/The Leading Brands|The Leading Brands]]
 * [[Troupes/Lifeboat|Lifeboat]]
 * [[Troupes/The Metropolitan Collection|The Metropolitan Collection]]
-* [[The Perfect Banana]]
+* [[Troupes/The Perfect Banana|The Perfect Banana]]
 * [[Troupes/Southern Hospitality's Cardboard Coffin|Southern Hospitality's Cardboard Coffin]]
 * [[Troupes/Shades of Brown|Shades of Brown]]
 * [[Troupes/Unfurled|Unfurled]]

@@ -55,7 +55,7 @@ A post from him about the first improv show he ever saw:<blockquote> <p>I'm sure
 * *[[Shows/Lola|Lola]]* (director)
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2494652) with Shannon on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2494652) with Shannon on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Performers|McCormick]]
 [[Category/Directors|McCormick]]

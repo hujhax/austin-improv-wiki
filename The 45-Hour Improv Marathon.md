@@ -45,7 +45,7 @@
 * Saturday 6pm (hour 26): *[[Cochise (Student Mainstage)|Cochise]]*
 * Saturday 7pm (hour 27): TBA
 * Saturday 8pm (hour 28): *[[Shows/TheatreSports|TheatreSports]]*
-* Saturday 9pm (hour 29): [[Shows/The Professor|The Professor]]
+* Saturday 9pm (hour 29): [[Troupes/The Professor|The Professor]]
 * Saturday 10pm (hours 30 & 31): *[[Shows/Maestro|Maestro]]*
 * Sunday 12am (hour 32): [[Troupes/Franz & Dave|Franz & Dave]]
 * Sunday 1am (hour 33): [[Puppet Improv Project]]
@@ -64,7 +64,7 @@
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/99388847) by [[Performers/Peter Rogers|Peter Rogers]] of hour 29 ([[Shows/The Professor|The Professor]]).
+* [Video](http://vimeo.com/99388847) by [[Performers/Peter Rogers|Peter Rogers]] of hour 29 ([[Troupes/The Professor|The Professor]]).
 * [Video](http://vimeo.com/99443000) by [[Performers/Peter Rogers|Peter Rogers]] of hour 33 ([[Puppet Improv Project]]).
 * [Video](http://vimeo.com/99422633) by [[Performers/Peter Rogers|Peter Rogers]] of hour 35 (*[[Shows/Tech Nightmare|Tech Nightmare]]*).
 

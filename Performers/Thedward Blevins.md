@@ -49,7 +49,7 @@ He has been teaching assistant for both adult and children's improv classes, and
 * *[[Once Upon A Wha!!]]* (2019)
 * *[[The Pirates of Hideout Cove]]* (2018)
 * *[[Shows/Start Trekkin'|Start Trekkin']]* (Season 8 — 2017) (Technical Improviser)
-* *[[The Fourth Wall is Behind You]]* (2017) (Sketch show with [[Inner Picnic]] at the Frontera Fest Short Fringe)
+* *[[The Fourth Wall is Behind You]]* (2017) (Sketch show with [[Troupes/Inner Picnic|Inner Picnic]] at the Frontera Fest Short Fringe)
 * *[[Shows/Fiasco|Fiasco]]* (2016) (Technical Improviser — Multimedia)
 * *[[It Came From Your Brain!]]* (2016) (Stage Manager/ Monster Crew)
 * *[[Shows/Adventure PhD|Adventure PhD]]* (2016)

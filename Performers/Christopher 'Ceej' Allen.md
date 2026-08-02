@@ -50,7 +50,7 @@ I could tell she was nervous, but I loved that she played the scene anyway.</p>
 * *[[Shows/Trust No One|Trust No One]]*
 
 ## More Information
-* [Interview](http://archive.org/details/ScottHearneTheTheftForum-CeejAllen-Ep2/) with Ceej on *[[The Theft Forum]]*.
+* [Interview](http://archive.org/details/ScottHearneTheTheftForum-CeejAllen-Ep2/) with Ceej on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [Interview](http://yesandrew.com/the-sunday-interview-ceej-allen/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Allen]]

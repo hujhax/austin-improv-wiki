@@ -60,7 +60,7 @@ Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He
 
 ## More Information
 * [Interview](http://yesandrew.com/2014/06/08/the-sunday-interview-jon-bolden-2/) by [[Performers/Andrew Buck|Andrew Buck]].
-* [Interview](http://gybpodcast.libsyn.com/john-bolden-ep18-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/john-bolden-ep18-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Performers|Bolden]]
 [[Category/Teachers|Bolden]]

@@ -7,7 +7,7 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 * *[[Shows/Movie Riot|Movie Riot]]*
 * *[[Nice Astronaut Presents Improv Roulette]]*
 * *[[Play By Play]]*
-* *[[Shows/All Ages Improv Night|All Ages Improv Night]]*
+* *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*
 * *[[Troupes/What's the Story Steve|What's the Story Steve]]*
 
 ### Mainstage Productions
@@ -103,7 +103,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * *[[Shows/Not This American Life|Not This American Life]]* (2012)
 * *[[Shows/One More Night|One More Night]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (2012)
-* *[[Shows/The Professor|The Professor]]* (2012)
+* *[[Troupes/The Professor|The Professor]]* (2012)
 * *[[Shows/The Sandbox|The Sandbox]]*
 * *[[Seance]]* (2012)
 * *[[Shows/Showdown|Showdown]]* (2011)

@@ -26,7 +26,7 @@ Colin moved away to Houston in 2012.
 
 ## Troupes
 * [[Troupes/GigglePants|GigglePants]]
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 * [[Troupes/Rhinodino|Rhinodino]]
 * [[Troupes/Senshi Sokyo|Senshi Sokyo]]
 * [[Troupes/Stone Airplane|Stone Airplane]]

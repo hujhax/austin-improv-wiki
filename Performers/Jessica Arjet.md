@@ -49,7 +49,7 @@ She was a core cast member of [[The 41-Hour Improv Marathon]] and [[The 44-Hour 
 * "[[Shows/I Love You So Much|I Love You So Much]]" (Director)
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012) with Jessica on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2628012) with Jessica on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [Interview](http://yesandrew.com/sunday-interview-jessica-arjet/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Arjet]]

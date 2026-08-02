@@ -49,8 +49,8 @@ On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That sam
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]* (director)
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2441797) with Kareem on *[[The Theft Forum]]*.
-* [Interview](http://gybpodcast.libsyn.com/kareem-badr-ep-29-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2441797) with Kareem on *[[Troupes/The Theft Forum|The Theft Forum]]*.
+* [Interview](http://gybpodcast.libsyn.com/kareem-badr-ep-29-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 * [Interview](http://yesandrew.com/the-sunday-interview-kareem-badr/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Badr]]

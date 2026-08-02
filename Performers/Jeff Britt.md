@@ -34,6 +34,6 @@ Jeff's acting career had consisted only of scripted theatre until he started tak
 * [[Troupes/Happiness is a Choice|Happiness is a Choice]] (2009-Present)
 * [[Troupes/The JBs|The JBs]]
 * [[Troupes/Two Man Polanski|Two Man Polanski]] (2011)
-* [[Shows/The Professor|The Professor]] (2013)
+* [[Troupes/The Professor|The Professor]] (2013)
 
 [[Category/Performers|Britt]]

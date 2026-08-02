@@ -38,6 +38,6 @@ Mr. Oklahoma
 
 ## More Information
 * [Interview](http://yesandrew.com/2014/05/11/the-sunday-interview-lance-gilstrap/) by [[Performers/Andrew Buck|Andrew Buck]].
-* [Interview](http://gybpodcast.libsyn.com/lance-gilstrap-ep-3-got-your-back) on the *[[Got Your Back]]* podcast.
+* [Interview](http://gybpodcast.libsyn.com/lance-gilstrap-ep-3-got-your-back) on the *[[Troupes/Got Your Back|Got Your Back]]* podcast.
 
 [[Category/Performers|Gilstrap]]

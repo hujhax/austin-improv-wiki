@@ -79,7 +79,7 @@ PREVIOUS
 
 ## More Information
 * [Interview](http://yesandrew.com/2013/07/28/the-sunday-interview-dave-buckman/) by [[Performers/Andrew Buck|Andrew Buck]].
-* [Interview](http://gybpodcast.libsyn.com/dave-buckman-ep-34-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/dave-buckman-ep-34-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Performers|Buckman]]
 [[Category/Directors|Buckman]]

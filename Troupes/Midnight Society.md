@@ -109,7 +109,7 @@ Their bio, from their web site:
 ## More Information
 * [The troupe's website.](http://midnightsociety.org/)
 * [The troupe's facebook page.](http://www.facebook.com/midnightsocietyatx)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2639408) with the troupe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2639408) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

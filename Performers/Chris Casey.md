@@ -24,7 +24,7 @@ Chris is a dad from Austin, TX. He sometimes improvises at [[The Hideout Theatre
 He was inspired to try improv by his kids who also took classes at [[The Hideout Theatre]]. He won his first Maestro RAW in 2015 and is making plans for his second.
 
 ## Troupes
-* [[AlphaQuest]]
+* [[Troupes/AlphaQuest|AlphaQuest]]
 * [[Troupes/Too Shy Guys|Too Shy Guys]]
 * [[Troupes/Human People|Human People]]
 * [[Troupes/Space Swank|Space Swank]]

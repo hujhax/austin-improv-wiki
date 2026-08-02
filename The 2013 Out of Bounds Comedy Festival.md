@@ -58,7 +58,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[Troupes/Oh, Science!|Oh, Science!]]
 * [[Troupes/Opposites|Opposites]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 * [[Troupes/Precious Dads|Precious Dads]]
 * [[Shows/Pulp Friction|Pulp Friction]]
 * [[Troupes/Ratliff & Jackson|Ratliff & Jackson]]
@@ -72,7 +72,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[Shows/Stool Pigeon|Stool Pigeon]]
 * *[[Shows/Strange Worlds|Strange Worlds]]*
 * [[Troupes/The Team|The Team]]
-* [[The Theft Forum]]
+* [[Troupes/The Theft Forum|The Theft Forum]]
 * [[Troupes/There's Waldo|There's Waldo]]
 * [[The Tribunal]]
 * [[Shows/Twilight Zoned|Twilight Zoned]]

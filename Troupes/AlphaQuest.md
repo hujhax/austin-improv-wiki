@@ -80,3 +80,4 @@ Laura invited everyone to do a [[Shows/Free Fringe|Free Fringe]] with the crazy 
 
 ## Videos
 [The Threefer](https://www.twitch.tv/videos/345564722) at [[The Hideout]].
+[[Category/Troupes|Category:Troupes]]

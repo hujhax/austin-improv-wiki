@@ -44,7 +44,7 @@ From [his ColdTowne bio](http://www.coldtownetheater.com/performer/joshua-krilov
 
 ## More Information
 * [Joshua's performer page on the ColdTowne web site.](http://www.coldtownetheater.com/performer/joshua-krilov)
-* [Interview](http://gybpodcast.libsyn.com/joshua-krilov-ep16-got-your-back) on the *[[Got Your Back]]* podcast.
+* [Interview](http://gybpodcast.libsyn.com/joshua-krilov-ep16-got-your-back) on the *[[Troupes/Got Your Back|Got Your Back]]* podcast.
 
 [[Category/Performers|Krilov]]
 [[Category/Teachers|Krilov]]

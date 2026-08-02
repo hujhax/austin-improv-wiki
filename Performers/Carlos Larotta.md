@@ -46,7 +46,7 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 
 ## More Information
 * [Carlos's bio page on the ColdTowne Theater site.](http://www.coldtownetheater.com/performer/carlos-larotta)
-* [Interview](http://gybpodcast.libsyn.com/carlos-larotta-ep-22-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/carlos-larotta-ep-22-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 * [Interview](http://yesandrew.com/the-sunday-interview-carlos-larotta/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|LaRotta]]

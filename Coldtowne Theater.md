@@ -35,7 +35,7 @@ The theater was founded by the improv troupe [[Troupes/ColdTowne (Troupe)|ColdTo
 * *[[Shows/Movie Riot|Movie Riot]]*
 * *[[Nice Astronaut Presents Improv Roulette]]*
 * *[[Play By Play]]*
-* *[[Shows/All Ages Improv Night|All Ages Improv Night]]*
+* *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*
 * *[[Troupes/What's the Story Steve|What's the Story Steve]]*
 
 ### Mainstage Productions

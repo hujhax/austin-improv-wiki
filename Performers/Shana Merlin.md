@@ -41,7 +41,7 @@ A post from her about the first improv show she ever saw:<blockquote>Dad's Garag
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062973) with Shana on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062973) with Shana on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [Interview](http://yesandrew.com/2013/07/07/the-sunday-interview-shana-merlin/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Merlin]]

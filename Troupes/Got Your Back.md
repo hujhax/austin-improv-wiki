@@ -106,3 +106,4 @@ After the standard questions segment there is typically a "commercial break" tha
 * [The podcast's iTunes page.](http://itunes.apple.com/us/podcast/got-your-back/id813599155)
 
 [[Category/Podcasts|Category:Podcasts]]
+[[Category/Troupes|Category:Troupes]]

@@ -37,7 +37,7 @@ In 2012, she attended the iO Summer Intensive in Chicago.
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Happy Butter|Happy Butter]]
 * [[Troupes/Local Genius Society|Local Genius Society]]
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 * [[Troupes/Sugarbakers|Sugarbakers]]
 
 ## Shows

@@ -149,7 +149,7 @@ Nice Astronaut also hosted the short lived ["Nomad Comedy Nights"](http://blog.c
 * [Nice Astronaut on YouTube](http://www.youtube.com/user/NiceAstronaut)
 * [Nice Astronaut on Vimeo](http://vimeo.com/niceastronaut)
 * [Nice Astronaut on Twitter](http://twitter.com/NiceAstronaut)
-* [Interview](http://directory.libsyn.com/episode/index/id/2762592) with the troupe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/id/2762592) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Active|Category:Active]]
 [[Category/Troupes|Category:Troupes]]

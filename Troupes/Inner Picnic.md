@@ -78,3 +78,4 @@ Inner Picnic writes and performs [Neo-Futurist](https://en.wikipedia.org/wiki/Ne
 
 ### Shows
 * *[[The Fourth Wall is Behind You]]* — FronteraFest Short Fringe (2017)
+[[Category/Troupes|Category:Troupes]]

@@ -27,7 +27,7 @@ Meghan was a core cast member in [[The 41-Hour Improv Marathon]].
 ## Troupes
 * [[Troupes/Blink|Blink]] (2009)
 * [[Troupes/ComedySportz|ComedySportz]]
-* [[Continental Breakfast]] (2010)
+* [[Troupes/Continental Breakfast|Continental Breakfast]] (2010)
 * [[Troupes/GigglePants|GigglePants]]
 * [[Troupes/The Love Notes|The Love Notes]]
 

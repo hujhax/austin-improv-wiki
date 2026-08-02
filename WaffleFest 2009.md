@@ -9,7 +9,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 * [[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]
 * [[ColdTowne]]
 * [[Troupes/Confidence Men|Confidence Men]]
-* [[Continental Breakfast]]
+* [[Troupes/Continental Breakfast|Continental Breakfast]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/GigglePants|GigglePants]]

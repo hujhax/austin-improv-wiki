@@ -24,7 +24,7 @@
 ## Summary
 Kristin is an improv performer, teacher and director who oversees and facilitates the youth program at [[Coldtowne Theater]] via her performing arts organization, [[Excused Absence Comedy]], formerly Move Your Tale. 
 
-Her standing gigs include Excused Absence Nights formerly known as *[[Shows/Teen Improv Night|Teen Improv Night]]* at [[Coldtowne Theater]], directing and producing [[Coldtowne Theater]]'s weekly kids improv show, *[[Troupes/What's the Story Steve|What's the Story Steve]]* and performing with the ColdTowne Tourco.
+Her standing gigs include Excused Absence Nights formerly known as *[[Troupes/Teen Improv Night|Teen Improv Night]]* at [[Coldtowne Theater]], directing and producing [[Coldtowne Theater]]'s weekly kids improv show, *[[Troupes/What's the Story Steve|What's the Story Steve]]* and performing with the ColdTowne Tourco.
 
 Kristin is a senior faculty member of the ColdTowne Conservatory.
 
@@ -43,13 +43,13 @@ Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has st
 * *[[Big Beautiful Warlock presents Summer Jobs]]*
 * *[[Oh, Science! every Sunday at ColdTowne]]*
 * *[[Troupes/What's the Story Steve|What's the Story Steve]]*
-* *[[Shows/All Ages Improv Night|All Ages Improv Night]]*
+* *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*
 * [[Excused Absence Nights]]
 * [[Gardenalia]]
 * [[Rezurangur]]
 
 ## More Information
-* [Interview](http://gybpodcast.libsyn.com/kristin-henn-ep-4-got-your-back) on the *[[Got Your Back]]* podcast.
+* [Interview](http://gybpodcast.libsyn.com/kristin-henn-ep-4-got-your-back) on the *[[Troupes/Got Your Back|Got Your Back]]* podcast.
 
 [[Category/Performers|Henn]]
 [[Category/Directors|Henn]]

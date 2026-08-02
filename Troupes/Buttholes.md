@@ -83,3 +83,4 @@ Here is [[Elena Martinez]]'s explanation of the name's origin:<blockquote>Buttho
 [[Category/Buttholes|Category:Buttholes]]
 [[Category/Seattle|Category:Seattle]]
 [[Category/Excellent|Category:Excellent]]
+[[Category/Troupes|Category:Troupes]]

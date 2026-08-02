@@ -148,6 +148,6 @@ The show took place in "America's top spy agency", Special Patriotic Operations 
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/events/beware-of-female-spies-improv)
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=16662) in [[The Austin Improv Forums]].
-* [An interview with the cast](http://thetheftforum.libsyn.com/episode-41-beware-of-female-spies) on *[[The Theft Forum]]*.
+* [An interview with the cast](http://thetheftforum.libsyn.com/episode-41-beware-of-female-spies) on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Shows|Category:Shows]]

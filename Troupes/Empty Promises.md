@@ -107,3 +107,4 @@ Empty Promises have named menu items at Tyson's Tacos and the Grand.
 ## Media
 ### Photos
 * [Comedy](https://www.facebook.com/emptypromisesimprov/photos/gm.1522881531360016/1098864606812796/?type=3&theater)
+[[Category/Troupes|Category:Troupes]]

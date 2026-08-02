@@ -23,7 +23,7 @@
 
 
 ## Troupes
-* [[Empty Promises]] 
+* [[Troupes/Empty Promises|Empty Promises]] 
 
 
 ## *[[Shows/Cagematch|Cagematch]]* Teams

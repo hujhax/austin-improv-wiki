@@ -1,5 +1,5 @@
 ## Pages in category "Podcasts"
 
-* [[Got Your Back]]
+* [[Troupes/Got Your Back]]
 * [[The Austin Improv Podcast]]
-* [[The Theft Forum]]
+* [[Troupes/The Theft Forum]]

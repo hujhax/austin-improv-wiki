@@ -52,7 +52,7 @@ Mitchell, born in the last century, is a native Austinite with a bold Austin acc
 * *[[RPG Story]]*
 
 ## More Information
-* [Interview](http://archive.org/details/ScottHearneTheTheftForum-MitchellDeane-22July2012-Ep1/) with Mitchell on *[[The Theft Forum]]*.
+* [Interview](http://archive.org/details/ScottHearneTheTheftForum-MitchellDeane-22July2012-Ep1/) with Mitchell on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Performers|Deane]]
 [[Category/Active|Category:Active]]

@@ -25,7 +25,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
 * [[Troupes/Decoy|Decoy]]
 * [[Troupes/Dervish|Dervish]]
-* [[Empty Promises]]
+* [[Troupes/Empty Promises|Empty Promises]]
 * [[Troupes/The Escorts|The Escorts]]
 * [[Troupes/Fatbuckle|Fatbuckle]] (15th Anniversary Reunion Show)
 * [[Troupes/Field Day|Field Day]]
@@ -168,7 +168,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 
 ### Other Acts
 * Everything Is Established
-* [[Got Your Back]] Live
+* [[Troupes/Got Your Back|Got Your Back]] Live
 * The Holdup
 * The Houlihans
 * Impro(vs)Tandup

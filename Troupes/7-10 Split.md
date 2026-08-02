@@ -94,7 +94,7 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/pages/710-Split/249945580157)
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844) with the troupe on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2474844) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

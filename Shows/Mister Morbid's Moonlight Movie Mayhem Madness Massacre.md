@@ -148,7 +148,7 @@ In practical terms, the host presents a short segment or trailer of a 70s horror
 * 10/11/13: *[[Shows/The Black Vault|The Black Vault]]* & [[Troupes/Midnight Society|Midnight Society]] 
 * 10/12/13: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] & "David Razowsky and Friends" 
 * 10/18/13: [[Troupes/The Knuckleball Now|The Knuckleball Now]] & [[Troupes/No Frills|No Frills]] 
-* 10/19/13: [[Shows/False Matters|False Matters]] & [[Shows/The Professor|The Professor]]
+* 10/19/13: [[Shows/False Matters|False Matters]] & [[Troupes/The Professor|The Professor]]
 * 10/25/13: [[Troupes/Waterpark|Waterpark]] & [[Troupes/Girls Girls Girls|Girls Girls Girls]] 
 * 10/26/13: [[Troupes/IScream Sandwich|IScream Sandwich]] & [[Troupes/My Best Fiend|My Best Fiend]]
 
@@ -164,7 +164,7 @@ Unknown.
 ## Media
 ### Videos
 * [Audio](http://vimeo.com/76849825) of the *[[Shows/Black Vault|Black Vault]]* show on 10/11/13.
-* [Video](http://vimeo.com/77576162) of the [[Shows/Professor|Professor]] show on 10/19/13.
+* [Video](http://vimeo.com/77576162) of the [[Troupes/Professor|Professor]] show on 10/19/13.
 * [Video](http://vimeo.com/channels/austinimprov/77891213) of the [[Shows/False Matters|False Matters]] show on 10/19/13.
 
 ### Photos

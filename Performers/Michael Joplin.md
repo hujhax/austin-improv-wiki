@@ -24,7 +24,7 @@
 ## Troupes
 * [[Troupes/Available Cupholders|Available Cupholders]]
 * [[Troupes/Brain Trust|Brain Trust]]
-* [[Continental Breakfast]] (director)
+* [[Troupes/Continental Breakfast|Continental Breakfast]] (director)
 * [[Troupes/The Known Wizards|The Known Wizards]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * [[Troupes/Well Hung Jury|Well Hung Jury]]

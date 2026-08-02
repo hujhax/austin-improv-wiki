@@ -85,7 +85,7 @@ The first improv show he ever saw was *[[Shows/After School Improv|After School 
 * [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]] (tech)
 * [[Troupes/EPIC!|EPIC!]]
 * [[Shows/Flying Theater Machine|Flying Theater Machine]]
-* [[Shows/The Professor|The Professor]] (tech)
+* [[Troupes/The Professor|The Professor]] (tech)
 * [[Troupes/The Starborn|The Starborn]] (tech)
 * [[Troupes/My Friend Stripey|My Friend Stripey]]
 

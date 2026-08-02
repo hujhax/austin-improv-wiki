@@ -74,3 +74,4 @@
 
 [[Category/Troupes|Category: Troupes]]
 [[Category/Duos|Category: Duos]]
+[[Category/Troupes|Category:Troupes]]

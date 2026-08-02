@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Fifth Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] (left) as the Fifth Professor, from a publicity shoot for [[Shows/The Professor|The Professor]].
+[[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] (left) as the Fifth Professor, from a publicity shoot for [[Troupes/The Professor|The Professor]].
 
 Photo by [[Roy Moore]].
 ## Licensing

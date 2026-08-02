@@ -122,6 +122,6 @@ Each night of the show had a different guest author. An author was interviewed, 
 
 ## More Information
 * [An *Austin Chronicle* interview](http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/) with director [[Performers/Justin Bozied|Justin Bozied]] by [[Wayne Allen Brenner]].
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2344367) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[Performers/Brad Hawkins|Brad Hawkins]], [[Jessie Pitluck]], and [[Performers/Megan Venable|Megan Venable]] on *[[The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2344367) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[Performers/Brad Hawkins|Brad Hawkins]], [[Jessie Pitluck]], and [[Performers/Megan Venable|Megan Venable]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Shows|Next]]

@@ -81,7 +81,7 @@ In 2010, Nystul founded [[The Lair]], an improv theater in Round Rock, Texas.
 * [[Big & Tall]]
 * [[Troupes/Fine, Thanks|Fine, Thanks]]
 * [[Troupes/Happy Butter|Happy Butter]]
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 * [[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]]
 
 ## Shows

@@ -38,7 +38,7 @@ Rachel is a core cast member in [[The 45-Hour Improv Marathon]].
 
 ## More Information
 * [Her bio page](http://rachelanddave.com/rachelanddave.com/Rachel.html)  on the [[Troupes/Rachel and Dave|Rachel and Dave]] website.
-* [Interview](http://gybpodcast.libsyn.com/rachel-madorsky-ep-31-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/rachel-madorsky-ep-31-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Performers|Madorsky]]
 [[Category/Teachers|Madorsky]]

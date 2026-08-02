@@ -32,7 +32,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 ## Troupes
 * [[Troupes/First Round Draft|First Round Draft]] (2001-2002)
 * [[Troupes/Blink|Blink]] (2009)
-* [[Continental Breakfast]] (2010)
+* [[Troupes/Continental Breakfast|Continental Breakfast]] (2010)
 * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]] (2010-2011)
 * [[Troupes/The Heroes of Comedy|The Heroes of Comedy]]
 
@@ -60,7 +60,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
 * *[[Shows/Myth Debunkers|Myth Debunkers]]* (narrator)
 * *[[Shows/One More Night|One More Night]]*
-* *[[Shows/The Professor|The Professor]]*
+* *[[Troupes/The Professor|The Professor]]*
 * *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
 * *[[Shows/Rock|Rock]]*
 * *[[Shows/Savage Swords|Savage Swords]]*

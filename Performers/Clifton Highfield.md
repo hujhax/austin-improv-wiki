@@ -36,7 +36,7 @@ Clifton Highfield has over 15 years of improv experience. His Austin improv expe
 * *[[Shows/The Suitcase|The Suitcase]]*
 
 ## More Information
-* [Interview](http://archive.org/details/ScottHearneTheTheftForum-CliftonHighfield-Episode3) with Clifton on *[[The Theft Forum]]*.
+* [Interview](http://archive.org/details/ScottHearneTheTheftForum-CliftonHighfield-Episode3) with Clifton on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Teachers|Highfield]]
 [[Category/Performers|Highfield]]

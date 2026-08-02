@@ -31,3 +31,4 @@ The goal of *All Ages Improv Night* is to provide young improvisers with the opp
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
 [[Category/Shows|Category:Shows]]
+[[Category/Troupes|Category:Troupes]]

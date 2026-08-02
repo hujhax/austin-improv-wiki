@@ -47,7 +47,7 @@
 * Sunday 3am: ["The Bat"](http://improvencyclopedia.org/games/The_Bat.html) with [[Troupes/ColdTowne (Troupe)|ColdTowne]]
 * Sunday 4am: [[Troupes/Midnight Society|Midnight Society]] presents "Late Night Talk Show"
 * Sunday 5am: [[Troupes/The Starter Kit|The Starter Kit]]
-	* They presented "Professor Dobson's Time Travel Adventure", which was in some ways a progenitor of [[Shows/The Professor|The Professor]].
+	* They presented "Professor Dobson's Time Travel Adventure", which was in some ways a progenitor of [[Troupes/The Professor|The Professor]].
 * Sunday 6am: [[Shows/Holy 1960s Batman, Batman!|"Holy Sleep Deprivation, Batman!"]], an improvised episode of the 60s *Batman* tv show
 * Sunday 7am: [[Troupes/The Frank Mills|The Frank Mills]]
 * Sunday 8am: "The Final Countdown", free-form improv with the core improvisors

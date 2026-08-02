@@ -76,7 +76,7 @@
 
 ## Troupes
 * [[Troupes/Blink|Blink]]
-* [[Shows/The Professor|The Professor]]
+* [[Troupes/The Professor|The Professor]]
 * [[Troupes/UpTowne|UpTowne]]
 
 ## Shows

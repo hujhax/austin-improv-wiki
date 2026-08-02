@@ -1018,7 +1018,7 @@
 |-
 |October 16, 2016||Student showcase||[[Troupes/Minority Report|Minority Report]]
 |-
-|September 11, 2016||Student showcase||[[Empty Promises]]
+|September 11, 2016||Student showcase||[[Troupes/Empty Promises|Empty Promises]]
 |-
 |August 14, 2016||Improv 301||[[Troupes/Opposites|Opposites]] 
 |-

@@ -37,6 +37,6 @@ Before coming to improv, Chrissy Shackelford attended the University of Texas at
 * *[[Shows/Indy Movies|Indy Movies]]*
 
 ## More Information
-* [Interview](http://gybpodcast.libsyn.com/chrissy-shackelford-ep-19-got-your-back) on *[[Got Your Back]]*.
+* [Interview](http://gybpodcast.libsyn.com/chrissy-shackelford-ep-19-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Performers|Shackelford]]
