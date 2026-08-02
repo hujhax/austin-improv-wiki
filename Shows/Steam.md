@@ -121,7 +121,7 @@ Like *[[Shows/Showdown|Showdown]]*, *Steam* was a serialized narrative, with ten
 
 ## Media
 ### Videos
-* [Their performance](http://vimeo.com/40642493) in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+* [Their performance](http://vimeo.com/40642493) in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
 ### Photos
 * Night 1 (1/6/12)
@@ -152,7 +152,7 @@ Like *[[Shows/Showdown|Showdown]]*, *Steam* was a serialized narrative, with ten
 * Night 10 (2/4/12)
 	* [Photoset](http://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3) by [[Roy Moore]].
 	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3) by [[Michael Yew]] that includes the show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3) by [[Michael Yew]] that includes their 4/12/12 performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3) by [[Michael Yew]] that includes their 4/12/12 performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
 ### Publicity
 * [Character photoset](http://www.facebook.com/media/set/?set=a.273249729405217.69252.221927764537414&type=3) by [[Steve Rogers]].

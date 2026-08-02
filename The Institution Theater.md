@@ -57,7 +57,7 @@ In 2014, the Institution expanded into a second space, just across the parking l
 * *[[Shows/The Ladies Room|The Ladies Room]]*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]*
-* *[[Festival/Love Fest|Love Fest]]*
+* *[[Festivals/Love Fest|Love Fest]]*
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[Shows/The Next Chapter|The Next Chapter]]* (2013)

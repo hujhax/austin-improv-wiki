@@ -34,7 +34,7 @@
 ## Shows
 * *[[Shows/Indy Movies|Indy Movies]]*
 * *[[Shows/TGIS|TGIS]]*
-* *[[Festival/Love Fest|Love Fest]]*
+* *[[Festivals/Love Fest|Love Fest]]*
 
 ## More Information
 * [Interview](http://yesandrew.com/2014/07/06/the-sunday-interview-nathan-sowell/) by [[Performers/Andrew Buck|Andrew Buck]].

@@ -75,12 +75,12 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Performers/David Rosenbaum|David Rosenbaum]]
 
 ## Local Festivals
-* [[Festival/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] - Headlining troupe 2007
-* [[Festival/Wafflefest|Wafflefest]]
+* [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] - Headlining troupe 2007
+* [[Festivals/Wafflefest|Wafflefest]]
 * [[Frontera Fest]] - Best of Week: 2005, 2007 & 2008.
-* [[Festival/The Improvised Play Festival|The Improvised Play Festival]]
+* [[Festivals/The Improvised Play Festival|The Improvised Play Festival]]
 * [[The Hideout Improv Marathon]]
-* [[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]] - Festival founders, producers and headliners.
+* [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]] - Festival founders, producers and headliners.
 
 ## Other Festivals
 * Dallas Comedy Festival
@@ -120,8 +120,8 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/battle-of-the-sexes-iii-pt-1-fri-8pm-svt-oranges-stage-1267934) of the 8/29/08 "Battle of the Sexes" match between [[Troupes/Available Cupholders|Available Cupholders]] and [[Troupes/Girls Girls Girls|Girls Girls Girls]] at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/girls-girls-girls-sun-7-30pm-esther-s-1237263) of their 8/31/08 headlining show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/battle-of-the-sexes-iii-pt-1-fri-8pm-svt-oranges-stage-1267934) of the 8/29/08 "Battle of the Sexes" match between [[Troupes/Available Cupholders|Available Cupholders]] and [[Troupes/Girls Girls Girls|Girls Girls Girls]] at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/girls-girls-girls-sun-7-30pm-esther-s-1237263) of their 8/31/08 headlining show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video highlights](http://youtu.be/o-QneRdYgAM) of their 2/5/10 show (the premiere of *Jerzey Shorez*).
 * [Video highlights](http://youtu.be/pu1USWq1vy0) of their 2/12/10 show (the second performance of *Jerzey Shorez*).
 * [Video](http://vimeo.com/43331034) by [[Performers/Dave alley|Dave alley]] of the 6/1/12 show in [[The 43-Hour Improv Marathon]].
@@ -139,13 +139,13 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1221978361483.2027946.1589679282&type=3) by [[Roy Moore]] of their 4/3/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1249529610247.2030742.1589679282&type=3) by [[Roy Moore]] of their 5/8/10 performance at *[[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]*.
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1249529610247.2030742.1589679282&type=3) by [[Roy Moore]] of their 5/8/10 performance at *[[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/10 performance at [[The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100438451097360.3117252.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 7/23/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/11/10 performance.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150151636822265.328769.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/5/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/4/11 "GGGlee" performance at [[The City Theater]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 5/6/11 performance in [[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 5/6/11 performance in [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/11 show in [[The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3) by [[Roy Moore]] that includes their 6/4/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.140277072719991.38310.100002130980897&type=3) by [[Steve Rogers]] of their 7/2/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*. ("Graceland")
@@ -160,8 +160,8 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/7/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3) by [[Steve Rogers]] of their 7/21/12 performance of *[[Shows/Boys of Summer|Boys of Summer]]*, featuring guest boy [[Performers/Clay Towery|Clay Towery]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466601583361342.105337.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 9/1/12 performance in [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[Festival/Wafflefest|Wafflefest]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466601583361342.105337.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 9/1/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3) by [[Michael Yew]] which includes their 12/8/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.502172756470891.113111.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/25/13 performance with [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
@@ -170,15 +170,15 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.539914026030097.118722.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 2/9/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4573289653028.1073741829.1315383518&type=3) by [[Michael Yew]] of their 4/5/13 "Stage Door" performance.
 	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.556864001001766.1073741830.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/25/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festival/WaffleFest 2013|WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.670030793018419.1073741871.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 12/7/13 performance at [[The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.720979564632229.1073741991.221927764537414&type=3) by [[Steve Rogers]] of their 4/19/14 "Pink Is the New Black" show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203483337546834.1073741925.1315383518&type=1) by [[Michael Yew]] of their 1/30/15 "Jam-a-Rama".
 * [Photoset](http://www.facebook.com/media/set/?set=a.10203490534406751.1073741927.1315383518&type=3) by [[Michael Yew]] of their 1/31/15 "Jam-a-Rama".
-* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152967546725793.1073741899.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of their 9/4/15 show at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152967546725793.1073741899.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of their 9/4/15 show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Publicity
 * Promos for *Jerzey Shorez*:

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Love Fest.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Icon for [[Festival/Love Fest|Love Fest]].
+Icon for [[Festivals/Love Fest|Love Fest]].
 
 Art by [[Performers/Asaf Ronen|Asaf Ronen]].
 ## Licensing

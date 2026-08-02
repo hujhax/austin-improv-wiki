@@ -92,7 +92,7 @@ This show has been performed three times.  The premiere was on 9/28/12, and the 
 
 The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The Hideout Theatre]].
 
-The third performance took place as part of [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
+The third performance took place as part of [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
 
 The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* series at [[The Hideout Theatre]] in 2015.
 

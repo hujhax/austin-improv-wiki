@@ -87,11 +87,11 @@ You can see this band of brothers every week in their acclaimed improv showcase 
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/105045815) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Shark Island" show at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]] (uploaded )
+* [Video](http://vimeo.com/105045815) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Shark Island" show at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]] (uploaded )
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.1033833950013454.1073742246.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/4/15 performance in [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1033833950013454.1073742246.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/4/15 performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Publicity
 * [Promo #1.](http://vimeo.com/67691335)

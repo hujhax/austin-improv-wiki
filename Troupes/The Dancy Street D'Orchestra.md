@@ -76,7 +76,7 @@
 The troupe included musicians [[Performers/David Rosenbaum|David Rosenbaum]] (on guitar) and [[Performers/Chelsea Gilman|Chelsea Gilman]] (on drums).
 
 ## History
-The troupe was founded in 2010 by [[Performers/Susannah Raulino|Susannah Raulino]] and [[Performers/Amy Averett|Amy Averett]], and disbanded after their [[Festival/Out of Bounds|Out of Bounds]] performance in 2011.
+The troupe was founded in 2010 by [[Performers/Susannah Raulino|Susannah Raulino]] and [[Performers/Amy Averett|Amy Averett]], and disbanded after their [[Festivals/Out of Bounds|Out of Bounds]] performance in 2011.
 
 After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]], [[Performers/Topping Haggerty|Topping Haggerty]], and [[Performers/David Rosenbaum|David Rosenbaum]] would go on to found the musical trio [[Troupes/DA Foundry|DA Foundry]].
 
@@ -87,7 +87,7 @@ After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]]
 * [Video](http://vimeo.com/10899146) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/9/10 performance at [[The Lair]].
 * [Video](http://vimeo.com/17806209) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/6/10 performance at [[Salvage Vanguard Theater]].
 * [Video](http://vimeo.com/16893567) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/15/10 performance at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
-* [Video](http://vimeo.com/17089776) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/19/10 performance at [[Festival/Wafflefest|Wafflefest]].
+* [Video](http://vimeo.com/17089776) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/19/10 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Video](http://vimeo.com/19628916) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/3/11 headlining show at *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/19833533) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/10/11 headlining show at *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/20114668) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/17/11 headlining show at *[[Shows/The Threefer|The Threefer]]*.
@@ -95,7 +95,7 @@ After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]]
 * [Video](http://vimeo.com/21022057) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/11/11 performance with [[Troupes/Girls Girls Girls|Girls Girls Girls]].
 * [Video](http://vimeo.com/21601065) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/24/11 performance at [[Salvage Vanguard Theater]].
 * [Video](http://vimeo.com/22143713) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/7/11 performance at [[The Hideout Theatre]].
-* [Video](http://vimeo.com/28875521) by [[Performers/Peter Rogers|Peter Rogers]] of their final show, their 9/1/11 performance at [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/28875521) by [[Performers/Peter Rogers|Peter Rogers]] of their final show, their 9/1/11 performance at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.426328652264.201079.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from before and after their 4/2/10 performance at [[The Lair]].

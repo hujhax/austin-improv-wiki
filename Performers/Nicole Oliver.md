@@ -22,7 +22,7 @@
 **Nicole Oliver** is an improv performer.
 
 ## History
-Nicole started doing improv with Massive Improv from Houston from 2005-2007. With them, she performed at [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], the San Francisco Improv Fest and The Playground in Chicago.
+Nicole started doing improv with Massive Improv from Houston from 2005-2007. With them, she performed at [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], the San Francisco Improv Fest and The Playground in Chicago.
 
 She relocated to Austin in 2008 and got back into the improv scene in 2011.
 

@@ -176,7 +176,7 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 * [Video](http://vimeo.com/910471) of a [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] *After School Improv* show from November 2006.
 * [Video of their 3/31/12 performance.](http://vimeo.com/93883895)
 * [Video of their 4/7/12 performance.](http://vimeo.com/93968180)
-* [Video of their 4/13/12 performance](http://vimeo.com/40844686) in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+* [Video of their 4/13/12 performance](http://vimeo.com/40844686) in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
 ### Photos
 #### 2009 Run
@@ -184,7 +184,7 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 * [Cast photo.](http://www.facebook.com/photo.php?fbid=833757516170&set=a.833757316570.2628321.7930939&type=3&theater)
 #### 2012 Run
 * [Photoset of the 3/24/12 show](http://www.facebook.com/media/set/?set=a.325071134223076.79811.221927764537414&type=3) by [[Steve Rogers]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/28/12 performance at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/28/12 performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 ### Publicity
 #### 2012 Run
 * [Publicity photos.](http://www.facebook.com/media/set/?set=a.10150527381254142.380624.628264141&type=3)

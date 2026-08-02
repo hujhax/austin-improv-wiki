@@ -77,11 +77,11 @@
 **Field Day** is an improv troupe.
 
 ## History
-Over its year of activity, Field Day performed at a variety of comedy festivals, such as the [[Dallas Comedy Festival]] and [[Festival/Wafflefest|Wafflefest]], hosted its own comedy variety show called [[Field Day and Friends]], and was invited to perform offsite at venues such as the [[North Door]]. They were listed on [[Performers/Andrew Buck|Andrew Buck]]'s top five improv shows post in December, 2014. The troupe members met originally by performing in the first student mainstage *[[Shows/What the F@$|What the F@$]]*. Field Day has been gearing down its performances given a few of its members moving to new cities for further improv opportunities.
+Over its year of activity, Field Day performed at a variety of comedy festivals, such as the [[Dallas Comedy Festival]] and [[Festivals/Wafflefest|Wafflefest]], hosted its own comedy variety show called [[Field Day and Friends]], and was invited to perform offsite at venues such as the [[North Door]]. They were listed on [[Performers/Andrew Buck|Andrew Buck]]'s top five improv shows post in December, 2014. The troupe members met originally by performing in the first student mainstage *[[Shows/What the F@$|What the F@$]]*. Field Day has been gearing down its performances given a few of its members moving to new cities for further improv opportunities.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.891482047581979.1073742147.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/25/15 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]

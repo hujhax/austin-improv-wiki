@@ -17,7 +17,7 @@ Winners are listed in **bold text**.
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*
 * ***[[Shows/Fuck It's Hot|Fuck It's Hot]]***
 * *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]*
-* *[[Festival/Lovefest|Lovefest]]*
+* *[[Festivals/Lovefest|Lovefest]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
 
 ### Favorite "One Off" Show
@@ -29,7 +29,7 @@ Winners are listed in **bold text**.
 
 ### Favorite Director
 * **[[Performers/Asaf Ronen|Asaf Ronen]], for *[[Shows/The Suitcase|The Suitcase]]***
-* [[Performers/Clifton Highfield|Clifton Highfield]], for *[[Festival/Lovefest|Lovefest]]*
+* [[Performers/Clifton Highfield|Clifton Highfield]], for *[[Festivals/Lovefest|Lovefest]]*
 * [[Performers/Justin Davis|Justin Davis]], for *[[Shows/The Next Chapter|The Next Chapter]]*
 * [[Performers/Tom Booker|Tom Booker]], for *[[Shows/Fuck It's Hot|Fuck It's Hot]]*
 * [[Performers/Tyler Bryce|Tyler Bryce]], for *[[Shows/Thinning The Herd|Thinning The Herd]]*

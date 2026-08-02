@@ -78,8 +78,8 @@
 * [Video of their 10/27/12 show: "Frogs".](http://www.viddler.com/v/aa9dee6b)
 
 ### Photos
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152560234517107.1073741837.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152560234517107.1073741837.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/braintrustimprov)

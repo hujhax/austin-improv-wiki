@@ -21,7 +21,7 @@
 
 **Cody Melcher** started in improv and sketch in Austin with The University of Texas' [[Troupes/GigglePants|GigglePants]]. He moved to Chicago in 2011 to primarily focus on stand-up.
 
-He performed in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]] as a Stand-up act.
+He performed in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]] as a Stand-up act.
 
 
 ## Troupes

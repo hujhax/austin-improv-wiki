@@ -93,7 +93,7 @@
 ***Spirited*** was a mainstage show at [[The Hideout Theatre]], inspired by the dream-logic works from artists like [[Wikipedia - Lewis Carroll|Lewis Carroll]], [[Wikipedia - Hayao Miyazaki|Hayao Miyazaki]], and [[Wikipedia - Maurice Sendak|Maurice Sendak]].
 
 ## Summary
-*Spirited* was [[The Hideout]]'s mainstage show in September and October of 2011.  It had subsequent performances at [[Festival/The Improvised Play Festival|The Improvised Play Festival]] and [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] the following year.
+*Spirited* was [[The Hideout]]'s mainstage show in September and October of 2011.  It had subsequent performances at [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] the following year.
 
 ### Show Structure
 Each performance centered around a young girl, called "the Alice" in rehearsals (though the character could have any name), played by either [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]] or [[Performers/Sarah Marie Curry|Sarah Marie Curry]].  All the other performers in the show would wear all black, while the Alice would be dressed in a frilly, 19th-century dress.
@@ -114,7 +114,7 @@ After about an hour of these explorations, there would be a transition back to t
 ## Media
 ### Videos
 * [Video clip from opening night.](http://vimeo.com/30096332)
-* [Video of their performance](http://vimeo.com/40844685) in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+* [Video of their performance](http://vimeo.com/40844685) in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.193922120676475.45895.118587218209966&type=3) by [[Roy Moore]] of the 9/10/11 premiere.
@@ -128,8 +128,8 @@ After about an hour of these explorations, there would be a transition back to t
 * [Photoset](http://www.facebook.com/media/set/?set=a.211216708947016.50291.118587218209966&type=3) by [[Roy Moore]] of the 10/22/11 6pm performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.212038482198172.50513.118587218209966&type=3) by [[Roy Moore]] of the 10/22/11 8pm performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.214136538655033.51070.118587218209966&type=3) by [[Roy Moore]] of the 10/29/11 8pm performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.311258025609550.70437.118587218209966&type=1) by [[Roy Moore]] of their performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3) by [[Steve Rogers]] of their 9/1/12 performance in [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.311258025609550.70437.118587218209966&type=1) by [[Roy Moore]] of their performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.416157295114459.101095.221927764537414&type=3) by [[Steve Rogers]] of their 9/1/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/15 show in [[The 46-Hour Improv Marathon]].
 
 ### Other

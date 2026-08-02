@@ -113,7 +113,7 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 ### Videos
 * ["Tarantulas on a Hovercraft"](http://vimeo.com/95122), their entry into the Alamo Drafthouse's "Blanks on a Blank" competition from 2006.
 * [Video](http://vimeo.com/910471) of their *[[Shows/After School Improv|After School Improv]]* show from November 2006.
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/pgraph-presents-villainy-sat-8pm-svt-apples-stage-1242488) of their 8/30/08 "Villainy" show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/pgraph-presents-villainy-sat-8pm-svt-apples-stage-1242488) of their 8/30/08 "Villainy" show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * Video by [[Brian Boyko]] of their 200th show (1/8/09): [1](http://youtu.be/_aFUyr1zNmY), [2](http://youtu.be/4GV4hUcEF-A), [3](http://youtu.be/EGOmaAU2GP8), [4](http://youtu.be/eQg0Hddr9io), [5](http://youtu.be/boI75lAlM3g), [6](http://youtu.be/7rCCMYbhstw), [7](http://youtu.be/eKFTkz2p8Lg), [8](http://youtu.be/wrJPE7v9pF4), [9](http://youtu.be/x1n-0HwPqzI).
 * Video by [[Brian Boyko]] of their 1/22/09 show ("Bulgarian Architecture"): [1](http://youtu.be/Ko0Ff6dpjnU), [2](http://youtu.be/lYA0skiIG-U), [3](http://youtu.be/rs0Xb_esZxk), [4](http://youtu.be/vutDwB1RxqE), [5](http://youtu.be/lrkMCqhNz8c).
 * [Video](http://vimeo.com/12785670) of their 4/30/10 "Dick and Jane" show.
@@ -122,15 +122,15 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * [Clip of "Dick & Jane" from 2010.](http://vimeo.com/132036967)
 * [Video](http://vimeo.com/26027879) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/7/11 show.
 * [Video](http://vimeo.com/25853270) of their 6/23/11 show at ImprovBoston.
-* [Video](http://vimeo.com/26165479) of their "French Farce" performance in [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+* [Video](http://vimeo.com/26165479) of their "French Farce" performance in [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Video](http://vimeo.com/113571987) of their 8/5/11 "Some Like It Improvised" show in the Edinburgh Fringe.
 * [Video](http://vimeo.com/113569400) of their 8/6/11 "Some Like It Improvised" show in the Edinburgh Fringe.
 * [Video](http://vimeo.com/113574369) of their 8/8/11 "GRIMM" show in the Edinburgh Fringe.
 * [Video](http://vimeo.com/113961314) of their 8/9/11 "Some Like It Improvised" show in the Edinburgh Fringe.
 * [Video](http://vimeo.com/113972805) of their 8/11/11 "GRIMM" show in the Edinburgh Fringe.
-* [Video](http://vimeo.com/40500114) of their "Dick and Jane" performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+* [Video](http://vimeo.com/40500114) of their "Dick and Jane" performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 * [Clip of "Reverend Goodman" from 2014.](http://vimeo.com/132042714)
-* [Video](http://vimeo.com/106077526) of their performance in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/106077526) of their performance in [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/128325402) of their 4/10/15 "Box and String" show.
 * [Video](http://vimeo.com/131967560) of their 6/26/15 "Box and String" show.
 
@@ -152,42 +152,42 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 3/25/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/15/11 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/3/11 show in [[The 42-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2308720080204.104279.1315383518&type=3) by [[Michael Yew]] that includes a 12/11 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2418169496371.106914.1315383518&type=3) by [[Michael Yew]] of their 1/6/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2410326380298.106779.1315383518&type=3) by [[Michael Yew]] that includes their 1/8/12 performance at the "Five Families" night at [[The Institution Theater]].
 * [Photoset of their 2/10/12 "Reverend Goodman" show](http://www.facebook.com/media/set/?set=a.296102733786583.73596.221927764537414&type=3) by [[Steve Rogers]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3) by [[Michael Yew]] that includes their 4/13/12 performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3) by [[Michael Yew]] that includes their 4/13/12 performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 * [Photoset of their 5/5/12 "Parallelogramophonograph SINGS" show](http://www.facebook.com/media/set/?set=a.356404607756395.86521.221927764537414&type=3) by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.416279815060186.94189.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/18/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/1/12 performance in [[The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3479991321253.129043.1315383518&type=3) by [[Michael Yew]] which includes their 7/27/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.456451977709636.102466.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 8/10/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
-* [A photoset](http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/2/12 performance at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.416163221780533.101098.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/2/12 performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 2/23/13 "Paper Dolls" show.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 9/7/13 "Chairs" show (show #498).
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/9/12 performance at [[Festival/Wafflefest|Wafflefest]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/9/12 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3) by [[Michael Yew]] which includes their 2/1/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 	* This was actually a "Substitute Parallelogramophonograph" show, in which an AIC poll elected ringers for each member of the troupe:
 		* [[Performers/Kaci Beeler|Kaci Beeler]]: [[Performers/Sarah Swofford|Sarah Swofford]]
 		* [[Performers/Valerie Ward|Valerie Ward]]: [[Performers/John Ratliff|John Ratliff]]
 		* [[Performers/Roy Janik|Roy Janik]]: [[Performers/Cody Dearing|Cody Dearing]]
 		* [[Performers/Kareem Badr|Kareem Badr]]: [[Performers/Andy Buck|Andy Buck]]
-* [A photoset](http://www.facebook.com/media/set/?set=a.523040367759484.1073741853.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 performance at [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.523040367759484.1073741853.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 performance at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200446168619509.1073741854.1315383518&type=3) by [[Michael Yew]] which includes their 9/6/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.598935996836587.1073741936.221927764537414&type=3) by [[Steve Rogers]] of their 500th show, on 9/15/13.
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200508705262886.1073741856.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3) by [[Michael Yew]] that includes their 11/1/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3) by [[Michael Yew]] of their 12/20/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festival/WaffleFest 2013|WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3) by [[Michael Yew]] that includes their 3/21/14 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.10152579627562265.1073741849.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/27/14 performance in *[[Shows/PGraph Presents|PGraph Presents]]*
 	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202172654140568.1073741894.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.940852415978275.1073742181.221927764537414&type=3) by [[Steve Rogers]] of their 4/10/15 performance of "Box and String" in [[Festival/The Improvised Play Festival|The Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.940852415978275.1073742181.221927764537414&type=3) by [[Steve Rogers]] of their 4/10/15 performance of "Box and String" in [[Festivals/The Improvised Play Festival|The Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204248534876289.1073741949.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/15 "Box and String" show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204338668289568.1073741952.1315383518&type=3) by [[Michael Yew]] that includes their 6/19/15 "New Works" show in [[The 46-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.1035339159862933.1073742252.221927764537414&type=3) by [[Steve Rogers]] of their 9/5/15 "Some Like It Improvised" show at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1035339159862933.1073742252.221927764537414&type=3) by [[Steve Rogers]] of their 9/5/15 "Some Like It Improvised" show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Other
 * Eris 2035 "Friend" videos:

@@ -244,7 +244,7 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 	* [Casual photos](http://www.facebook.com/michael.yew/media_set?set=a.4838455402006.1073741836.1315383518&type=3) by [[Michael Yew]].
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
 	* [Video](http://youtu.be/k07bu91F9H4) by [[Performers/Warren Henderson|Warren Henderson]] of the same show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3) by [[Steve Rogers]] of the 4/11/14 show at [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.715099225220263.1073741984.221927764537414&type=3) by [[Steve Rogers]] of the 4/11/14 show at [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 * The Alaska State Improv Festival (4/25/14)
 	* [Video of The Beacon and the Gravity of a Prism](https://vimeo.com/93582286)
 

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Big Beautiful Warlock.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]] performs at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+[[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]] performs at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 
 Photo by: unknown.
 ## Licensing

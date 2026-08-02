@@ -32,6 +32,6 @@
 * *[[Shows/Maestro|Maestro]]*
 * *[[Shows/Maestro Raw|Maestro Raw]]*
 
-She has also appeared in a *[[Shows/TheatreSports|TheatreSports]]* student bout, and was part of "Yuri's Human Cat Circus" in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+She has also appeared in a *[[Shows/TheatreSports|TheatreSports]]* student bout, and was part of "Yuri's Human Cat Circus" in [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 [[Category/Performers|Frezza]]

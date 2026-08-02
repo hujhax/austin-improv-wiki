@@ -98,7 +98,7 @@ They perform a Harold.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10103920491794890.1073741833.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of a November 2013 show.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10104147379555000.1073741835.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] that includes their 1/25/14 show, featuring guest player [[Performers/Taylor Overstreet|Taylor Overstreet]].
 * [Photoset](https://www.facebook.com/claudio.fox.5/media_set?set=a.727245447296953.1073741884.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 3/29/14 performance in the last Triple Scoop.
-* [Photoset](http://www.facebook.com/media/set/?set=a.846434505420067.1073742115.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.846434505420067.1073742115.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/iScreamSandwich)

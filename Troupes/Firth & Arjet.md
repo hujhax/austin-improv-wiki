@@ -97,9 +97,9 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 ## Festivals
 * The Chicago Improv Festival
 * [[Frontera Fest]]
-* [[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]
+* [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]
 * The New Orleans Improv Festival
-* [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
+* [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
 
 ## Media
 ### Photos
@@ -107,8 +107,8 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [A photoset](http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1) by [[Michael Yew]] that includes their 11/5/10 show in *[[Shows/The Spectacle|The Spectacle]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes their 1/23/11 show at [[The Hideout Theatre]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1) by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
-* A [photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their 5/8/11 show at [[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
-* [A photoset](http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1) by [[Steve Rogers]] that includes their 9/2/11 show at [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
+* A [photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their 5/8/11 show at [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1) by [[Steve Rogers]] that includes their 9/2/11 show at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 * A [photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589631337265.439817.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/5/12 "Bridesmaids" performance in the premiere of *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1) by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1) by [[Performers/Sam Schak|Sam Schak]] that includes their 2/2/12 *[[Shows/Free Fringe|Free Fringe]]* show.
@@ -119,7 +119,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * Their final *[[Shows/Free Fringe|Free Fringe]]* performance on 8/9/12.
 	* [A photoset](http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1) by [[Michael Yew]].
 	* [A photoset](http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1) by [[Steve Rogers]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in *[[Festival/WaffleFest 2013|WaffleFest 2013]]*.
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in *[[Festivals/WaffleFest 2013|WaffleFest 2013]]*.
 
 ### Videos
 * [Video of their 12/26/08 show.](http://youtu.be/wFvyMaIUtms)

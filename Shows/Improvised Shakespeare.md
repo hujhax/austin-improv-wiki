@@ -122,7 +122,7 @@ The 6/13/09 show featured an all-female cast.
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/improvised-shakespeare-mon-8pm-svt-apples-stage-1235251)  of their 9/1/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/improvised-shakespeare-mon-8pm-svt-apples-stage-1235251)  of their 9/1/08 show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.114136552264.110678.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/16/09 performance.

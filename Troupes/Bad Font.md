@@ -137,9 +137,9 @@ Bad Font was originally cast by [[Performers/Scott Hearne|Scott Hearne]] through
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their performance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152562290397107.1073741839.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3) by [[Steve Rogers]] of their 6/27/15 performance in *[[Shows/Dorm Daze|Dorm Daze]]*.
-* [Photoset](https://www.flickr.com/photos/oob_pics/sets/72157655819993844) by [[Bonica Ayala]] of their 9/2/15 performance at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](https://www.flickr.com/photos/oob_pics/sets/72157655819993844) by [[Bonica Ayala]] of their 9/2/15 performance at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10153645977880793.1073741903.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of their 8/30/16 performance at [[2016 Out of Bounds Comedy Festival]].
 
 ## More Information

@@ -97,7 +97,7 @@ The troupe broke up when Bridget moved away to Rhode Island.
 
 ### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 6/27/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
-* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/BeauMoMa/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/BeauMoMa/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.880052028724981.1073742139.221927764537414&type=3) by [[Steve Rogers]] that includes their 1/8/15 reunion show in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information

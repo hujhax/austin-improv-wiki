@@ -32,7 +32,7 @@ It is posited (but as of yet, scientifically unproven) that Heath is cool as hel
 * *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*
 * *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]*
 * *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*
-* *[[Festival/Love Fest|Love Fest]]*
+* *[[Festivals/Love Fest|Love Fest]]*
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*
 * *[[Shows/This American Live|This American Live]]*
 

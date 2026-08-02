@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Braised Cast.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The cast of the 8/30/13 performance of *[[Shows/Braised in Texas|Braised in Texas]]*, at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+The cast of the 8/30/13 performance of *[[Shows/Braised in Texas|Braised in Texas]]*, at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 Photo by [[Performers/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/hujhax/media_set?set=a.10151909102032265.1073741838.588952264&type=3).
 ## Licensing

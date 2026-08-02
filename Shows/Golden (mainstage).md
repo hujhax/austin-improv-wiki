@@ -153,10 +153,10 @@ From the show announcement:<blockquote>"A full-length improvised narrative, perf
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/126062642) of their 4/11/15 show at [[Festival/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
+* [Video](http://vimeo.com/126062642) of their 4/11/15 show at [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.941350029261847.1073742182.221927764537414&type=3) by [[Steve Rogers]] of their 4/11/15 performance in [[Festival/The Improvised Play Festival|The Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.941350029261847.1073742182.221927764537414&type=3) by [[Steve Rogers]] of their 4/11/15 performance in [[Festivals/The Improvised Play Festival|The Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.802662349810278.1073741858.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 4/18/15 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.954997724563744.1073742189.221927764537414&type=3) by [[Steve Rogers]] of their 5/2/15 performance.
 

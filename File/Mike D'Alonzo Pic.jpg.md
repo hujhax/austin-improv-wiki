@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Mike D'Alonzo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Mike D'Alonzo|Mike D'Alonzo]], performing with Covered and Smothered in [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
+[[Performers/Mike D'Alonzo|Mike D'Alonzo]], performing with Covered and Smothered in [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 
 Photo by [[Performers/Kevin Miller|Kevin Miller]], from [this photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3).
 ## Licensing

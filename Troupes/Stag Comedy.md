@@ -78,7 +78,7 @@ The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstag
 ## Media
 ### Videos
 * [The troupe's "Videos" page includes an extensive selection of troupe videos.](http://stagcomedy.com/?page_id=549)
-* [Video](http://vimeo.com/74055491) by [[Performers/Dave alley|Dave alley]] of their 8/30/13 show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/74055491) by [[Performers/Dave alley|Dave alley]] of their 8/30/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.744463752283810.1073742012.221927764537414&type=3) by [[Steve Rogers]] of their performance at the 2014 [[Austin Sketch Fest]].

@@ -77,6 +77,6 @@ They are listed on the *[[Shows/Cagematch|Cagematch]]* 2x4 as winning a tourname
 
 They returned to play in the Cagematch "Tournament of Champions" on 5/15/10.
 
-They also played in [[Festival/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]].
+They also played in [[Festivals/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]

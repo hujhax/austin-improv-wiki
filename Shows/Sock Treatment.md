@@ -85,7 +85,7 @@
 ***Sock Treatment*** was an improvised all-female puppet show.
 
 ## Summary
-This was a forty-minute show with games, scenes, and audience participation.  It had a cast comprising the female cast members from *[[Shows/Crack!|Crack!]]*, plus special guest [[Performers/Shana Merlin|Shana Merlin]].  The show was filmed with the hopes of getting into [[Festival/LAFF|LAFF]].
+This was a forty-minute show with games, scenes, and audience participation.  It had a cast comprising the female cast members from *[[Shows/Crack!|Crack!]]*, plus special guest [[Performers/Shana Merlin|Shana Merlin]].  The show was filmed with the hopes of getting into [[Festivals/LAFF|LAFF]].
 
 ## More Information
 * [The show's web page.](http://puppetimprovproject.org/sock-treatment.html)

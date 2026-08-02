@@ -119,7 +119,7 @@ After Midnight was Nice Astronaut's monthly improv/sketchprov show during 2009-2
 Nice Astronaut has performed at the following festivals
 * [Chicago Improv Festival 2013](http://chicagoimprovfestival.org/events/nice-astronaut-and-umlautilde-2/)
 * Del Close Marathon - [2009](http://www.delclosemarathon.com/dcm11/shows/view/510), [2012](http://www.delclosemarathon.com/dcm14/shows/view/683), [2013](http://www.delclosemarathon.com/dcm15/shows/view/756/full), [2014](http://www.delclosemarathon.com/performance/detail/10569), 2015, 2016, 2017, 2018
-* [[Festival/Out of Bounds|Out of Bounds]] - [2009](http://outofboundsimprov.com/2009/shows/wed8svtapples.html), [2010](http://www.outofboundscomedy.com/2010/2010/coming-soon/Index.html), [2011](http://www.outofboundscomedy.com/2011/duo-shmuoatx530pmachatina-achatinaatxoj-in-a-sippy-cupnyc630pmthe-glamping-tripatx-margots-piela-730pmthat-summer-in-junechi-tbatba830pmbitter-sweet-chokechi-jerkslachi930pml/index.html), [2012](http://www.outofboundscomedy.com/2012/events/fri-aug-31st-830pm-coldtowne/index.html), [2013](http://www.outofboundscomedy.com/events/thu-10pm-hideout-up/), [2014](http://www.outofboundscomedy.com/act/nice-astronaut/), 2015, 2016
+* [[Festivals/Out of Bounds|Out of Bounds]] - [2009](http://outofboundsimprov.com/2009/shows/wed8svtapples.html), [2010](http://www.outofboundscomedy.com/2010/2010/coming-soon/Index.html), [2011](http://www.outofboundscomedy.com/2011/duo-shmuoatx530pmachatina-achatinaatxoj-in-a-sippy-cupnyc630pmthe-glamping-tripatx-margots-piela-730pmthat-summer-in-junechi-tbatba830pmbitter-sweet-chokechi-jerkslachi930pml/index.html), [2012](http://www.outofboundscomedy.com/2012/events/fri-aug-31st-830pm-coldtowne/index.html), [2013](http://www.outofboundscomedy.com/events/thu-10pm-hideout-up/), [2014](http://www.outofboundscomedy.com/act/nice-astronaut/), 2015, 2016
 * Trill Comedy Fest - [2014](http://trillcomedy.com/shows-2/)
 * Improv Festival Oklahoma - [2014](http://www.improvoklahoma.com/performanceschedule/)
 
@@ -133,7 +133,7 @@ Nice Astronaut has performed at the following festivals
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/14 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/2/15 performance in [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/2/15 performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## Miscellaneous
 Nice Astronaut also hosted the short lived ["Nomad Comedy Nights"](http://blog.coldtownetheater.com/wp-content/uploads/2009/06/nomad-poster-june09b.jpg) on Wednesdays at Nomad Bar during the summer of 2009.

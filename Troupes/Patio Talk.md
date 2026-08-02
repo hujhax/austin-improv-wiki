@@ -129,7 +129,7 @@
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3) by [[Performers/Dave alley|Dave alley]] that includes their 9/3/15 show at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3) by [[Performers/Dave alley|Dave alley]] that includes their 9/3/15 show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos
 * [Video](http://vimeo.com/117435963) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 1/16/15 show.

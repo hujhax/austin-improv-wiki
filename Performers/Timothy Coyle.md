@@ -22,7 +22,7 @@
 Timothy (Tim) Coyle is an improv performer and member of the troupe [[Troupes/Character Explosion|Character Explosion]] the duo [[Troupes/You Bet Your Life|You Bet Your Life]] and an instructor for [[Building Connections]].
 
 ## History
-Born and raised in Chicago, relocating to Austin in August 2000.  It only took Tim 37 years, and multiple back injuries in martial arts, to finally got a clue that Improv is much easier on the body than kicks to the head.  After taking a free improv workshop that he heard about while watching [[Troupes/Squirrel Buddies|Squirrel Buddies]] during [[Festival/Wafflefest|Wafflefest]] in 2013, Tim completed all six levels at [[The Hideout Theatre]] graduating in 2014.  
+Born and raised in Chicago, relocating to Austin in August 2000.  It only took Tim 37 years, and multiple back injuries in martial arts, to finally got a clue that Improv is much easier on the body than kicks to the head.  After taking a free improv workshop that he heard about while watching [[Troupes/Squirrel Buddies|Squirrel Buddies]] during [[Festivals/Wafflefest|Wafflefest]] in 2013, Tim completed all six levels at [[The Hideout Theatre]] graduating in 2014.  
 
 ## Instructors
 [[The Hideout Theatre]]
@@ -40,10 +40,10 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Performers/Andy Crouch|Andy Crouch]] at [[The Hideout Theatre]] 
 * [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]] at [[The Institution Theater]] - Musical Short Form Games
 * Jason Shotts and Colleen Doyle at [[The Hideout Theatre]] - Dummy Master Class
-* Kate Duffy at [[The Hideout Theatre]] during [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]] - Elevate Your Play! Take Big Risks!
+* Kate Duffy at [[The Hideout Theatre]] during [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]] - Elevate Your Play! Take Big Risks!
 * [[Performers/Jon Bolden|Jon Bolden]] at [[The Hideout Theatre]]
 * [[Performers/Marc Majcher|Marc Majcher]] at Casa de Marc - Fear / Vulnerability
-* Parisian Gentleman at [[The Hideout Theatre]] during [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]] - Charm, Stage Presence and Audience Seduction
+* Parisian Gentleman at [[The Hideout Theatre]] during [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]] - Charm, Stage Presence and Audience Seduction
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]] at [[The Institution Theater]] - Sing Your Feelings 
 * [[Performers/Tom Booker|Tom Booker]] at [[The Institution Theater]] - Drop In Improv Diagnostics
 * [[Troupes/Austin Playback Theatre|Austin Playback Theatre]] at [[Hideout Theatre]] - Introduction to Playback Theatre: Personal Story-Based Improv

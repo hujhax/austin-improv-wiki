@@ -82,7 +82,7 @@ Michael started in musical improv somewhere around 2005 after seeing an article 
 Note: all credits in Troupes and Shows are for improvised accompaniment, except those marked "(composer)", which are productions he instead wrote the music for.
 
 ## History
-A post from him about the first improv show he ever saw:<blockquote>The first improv show I saw I was actually in. It was with [[GGG]] at [[Festival/LAFF|LAFF]] some 3 or 4 years ago. I had no idea what I was doing and if I saw it on tape now I'd probably be yelling at myself through the screen. I do remember I felt that I'd overplayed, and so at my second show I made a point of hanging back. I got more criticism for that strategy than I did for my first show so I quickly abandoned that approach. It really wasn't until I'd amassed a little more knowledge about the process and the quirks and strengths of the ladies themselves that I began to get a bit comfortable. </blockquote>
+A post from him about the first improv show he ever saw:<blockquote>The first improv show I saw I was actually in. It was with [[GGG]] at [[Festivals/LAFF|LAFF]] some 3 or 4 years ago. I had no idea what I was doing and if I saw it on tape now I'd probably be yelling at myself through the screen. I do remember I felt that I'd overplayed, and so at my second show I made a point of hanging back. I got more criticism for that strategy than I did for my first show so I quickly abandoned that approach. It really wasn't until I'd amassed a little more knowledge about the process and the quirks and strengths of the ladies themselves that I began to get a bit comfortable. </blockquote>
 
 ## Troupes
 * [[Troupes/ComedySportz|ComedySportz]]
@@ -128,9 +128,9 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 ### Local Festivals
 * [[Fronterafest]]
 * [[The Hideout Improv Marathon]]
-* [[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]
-* [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
-* [[Festival/Wafflefest|Wafflefest]]
+* [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]
+* [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
+* [[Festivals/Wafflefest|Wafflefest]]
 
 ### Out-of-Town Festivals
 * Black Box Festival (Atlanta)

@@ -85,7 +85,7 @@ Cat began doing improv after watching long stretches of [[The 42-Hour Improv Mar
 * *[[Shows/RISEN|RISEN]]*
 * *[[Shows/Control Issues|Control Issues]]*
 * *[[Shows/Kenjutsu|Kenjutsu]]*
-* *[[Festival/Love Fest|Love Fest]]*
+* *[[Festivals/Love Fest|Love Fest]]*
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
 * *[[Shows/The Tribunal|The Tribunal]]*
 

@@ -219,7 +219,7 @@ The run featured tech by [[Michael Yew]].
 * [Video](http://vimeo.com/48524413) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/29/12 performance at [[The Institution]].
 * [Video](http://www.youtube.com/watch?v=gZuQFuFSpB8) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Video](http://vimeo.com/62584250) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 1/25/13 performance at [[The Institution Theater]].
-* Videos of the 8/28/13 show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]: [story #1](http://vimeo.com/73437075), [story #2](http://vimeo.com/73480143)
+* Videos of the 8/28/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]: [story #1](http://vimeo.com/73437075), [story #2](http://vimeo.com/73480143)
 * [Video](http://vimeo.com/77576162) of their 10/19/13 show with *[[Shows/Mister Morbid|Mister Morbid]]*.
 
 ### Photos
@@ -236,7 +236,7 @@ The run featured tech by [[Michael Yew]].
 * [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Photoset](http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1) by [[Michael Yew]] of the 1/18/13 performance at [[Shows/The TV Set|The TV Set]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3) by [[Roy Moore]] that includes the 8/28/13 show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3) by [[Roy Moore]] that includes the 8/28/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200918291262280.1073741869.1315383518&type=3) by [[Michael Yew]] from backstage at the 11/23/13 show, which included a Austin-made T.A.R.D.I.S.
 

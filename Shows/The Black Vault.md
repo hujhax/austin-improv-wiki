@@ -148,7 +148,7 @@ Each show in the mainstage run was divided into three stories. A predetermined g
 ### Post-run Performances
 After its mainstage run, there were a number of one-off shows:
 * 12/6/12: "Lovecraft Secrets", a mash-up with *[[Shows/Austin Secrets|Austin Secrets]]* that played at *[[Shows/The Free Fringe|The Free Fringe]]*.
-* 4/13/13: a 25-minute show played [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
+* 4/13/13: a 25-minute show played [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * 5/5/13: a 25-minute show played "nerd-prov", a nerd-themed quadruple-bill at *[[The Institution Theater]]*.
 * 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Shows/Pick Your Own Path|Pick Your Own Path]]* that played at *[[Shows/The Free Fringe|The Free Fringe]]*.
 * 6/23/13: the show was hour 32 of [[The 44-Hour Improv Marathon]].
@@ -171,7 +171,7 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 * [Video](http://vimeo.com/52665609) by [[Performers/Paul Normandin|Paul Normandin]] of the 10/27/12 show.
 * [Video](http://vimeo.com/52659608) by [[Performers/Paul Normandin|Paul Normandin]] of the 10/31/12 show.
 * [Video of the one-off "Lovecraft Secrets" show](http://vimeo.com/55421296) (a mash-up with *[[Shows/Austin Secrets|Austin Secrets]]* at *[[Shows/The Free Fringe|The Free Fringe]]*), from 12/6/12.
-* [Video](http://vimeo.com/64275476) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/13/13 performance in [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
+* [Video](http://vimeo.com/64275476) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/13/13 performance in [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Video of the 5/5/13 performance](http://vimeo.com/67752198), which was part of "Nerdprov" at [[The Institution Theater]].
 * [Video](http://vimeo.com/66965290) by [[Performers/Paul Normandin|Paul Normandin]] of the 5/23/13 "Pick Your Own Black Vault" show in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [Video](http://vimeo.com/69325354) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/23/13 performance in [[The 44-Hour Improv Marathon]].
@@ -190,7 +190,7 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3) by [[Roy Moore]] that includes their 10/11/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
-* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.712663832143464.1073741848.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of their 10/24/14 show with [[Shows/Mister Morbid|Mister Morbid]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203090924416751.1073741919.1315383518&type=3) by [[Michael Yew]] of the 12/4/14 performance of "Arkham Community Radio" in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204872285069654.1073741966.1315383518&type=3) by [[Michael Yew]] of a 9/15 cast visit to H. P. Lovecraft's gravesite in Providence, Rhode Island.

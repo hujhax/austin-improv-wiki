@@ -24,7 +24,7 @@
 ## History
 Shannon took his first improv class in Austin in 2000, at [[The Hideout Theatre]].  [[Performers/Sean Hill|Sean Hill]] and [[Performers/Shana Merlin|Shana Merlin]] were his instructors, and his classmates included [[Performers/Kacey Samiee|Kacey Samiee]] and [[Performers/Ace Manning|Ace Manning]].  He joined [[Troupes/We Could Be Heroes|We Could Be Heroes]] at the end of that year, and had his first onstage performance in January 2001.
 
-In 2003, Shannon began co-producing [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
+In 2003, Shannon began co-producing [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 
 A post from him about the first improv show he ever saw:<blockquote> <p>I'm sure I had seen some episodes of the British *Whose Line* at the time, but the first live improv I ever saw was probably some lame college town barprov in Iowa City in the early 90s. Totally forgot the troupe name. My roommate Matt Nelson was in the group, and he'd just quit his pre-med track and had gotten bitten hard by the comedy bug. As a theatrical experience it wasn't much.....</p> 
 

@@ -84,7 +84,7 @@ Here is [[Performers/Mike D'Alonzo|Mike D'Alonzo]]'s explanation of the name's o
 
 <p>Cut to a couple days later. We made a list of names for our new troupe, and the only word that appeared on everyone's list was "knuckleball." We knew it was meant to be, but then, we couldn't figure out what to do with it. Modig sort of came up with "The Knuckelball Now" as a double entendre to say 1. this is a weird time we're living in (and it was) and 2. our troupe will be completely different in our approach (which it was). The name stuck, and it gave Craigy an excellent opportunity to do a whole lot of baseball-related promotion, which lasted a few years.</p></blockquote>
 
-They have appeared in every [[Festival/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] from 2005 to 2014.
+They have appeared in every [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] from 2005 to 2014.
 
 In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now.
 
@@ -97,10 +97,10 @@ The Knuckleball Now was honored with the Rudy Kloptic Award for Oustanding Impro
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/the-knuckleball-now-sat-8pm-svt-oranges-stage-1255050) of their 8/30/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/the-knuckleball-now-sat-8pm-svt-oranges-stage-1255050) of their 8/30/08 show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video of their 6/22/13 show](http://vimeo.com/76454272) in [[The 44-Hour Improv Marathon]].
-* [Their 8/31/13 show,](http://vimeo.com/74834738) part of [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/80117806) by [[Performers/Dave alley|Dave alley]] of their 9/2/13 show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Their 8/31/13 show,](http://vimeo.com/74834738) part of [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/80117806) by [[Performers/Dave alley|Dave alley]] of their 9/2/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 
 ### Photos
@@ -112,17 +112,17 @@ The Knuckleball Now was honored with the Rudy Kloptic Award for Oustanding Impro
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 9/23/10 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/10/11 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3) by [[Steve Rogers]] of their 6/4/11 performance in [[The 42-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] which includes their performance at [[Festival/WaffleFest 2012|WaffleFest 2012]].
+* [Photoset](http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] which includes their performance at [[Festivals/WaffleFest 2012|WaffleFest 2012]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.221915231210497.52761.118587218209966&type=3) by [[Roy Moore]] that includes their 11/12/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 1/26/12 performance.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 7/19/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.530405963694754.1073741855.118587218209966&type=3) by [[Roy Moore]] of their 9/1/13 show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.530405963694754.1073741855.118587218209966&type=3) by [[Roy Moore]] of their 9/1/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/Knuckleball-Now/) by [[Performers/Chad Wellington|Chad Wellington]] of their 10/18/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festival/WaffleFest 2013|WaffleFest 2013]].
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152564402547107.1073741840.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festivals/WaffleFest 2013|WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152564402547107.1073741840.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.712663975476783.1073741849.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of their 10/24/14 show with [[Shows/Mister Morbid|Mister Morbid]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/1/15 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204899497069937.1073741967.1315383518&type=3) by [[Michael Yew]] that includes their 9/25/15 performance in "The [[Troupes/Indigo Shift|Indigo Shift]] Cabaret".
 

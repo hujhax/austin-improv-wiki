@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cody Melcher pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Cody Melcher|Cody Melcher]], appearing with [[Troupes/The $3 Bills|The $3 Bills]] in [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
+[[Performers/Cody Melcher|Cody Melcher]], appearing with [[Troupes/The $3 Bills|The $3 Bills]] in [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3).
 ## Licensing

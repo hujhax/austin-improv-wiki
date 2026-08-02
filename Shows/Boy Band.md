@@ -144,7 +144,7 @@ The show will ran Saturdays in February 2014 at 8:30pm.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=16820) on [[The Austin Improv Forums]].

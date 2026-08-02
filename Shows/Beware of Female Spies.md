@@ -140,10 +140,10 @@ The show took place in "America's top spy agency", Special Patriotic Operations 
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/108306676) of their 8/27/14 show in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/108306676) of their 8/27/14 show in [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/events/beware-of-female-spies-improv)

@@ -98,15 +98,15 @@ In [[The 44-Hour Improv Marathon]], the duo introduced "Pine Falls", an improvis
 * [Video](http://vimeo.com/107818589) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 9/26/14 show ("Off-Script").
 * [Video](http://vimeo.com/124097864) of their 2015 "Wheel" show.
 * [Video](http://vimeo.com/137967760) of their 8/24/15 performance in *[[The Knockout]]*.
-* [Video](http://vimeo.com/138766462) of their 9/1/15 "Ice Cream" performance in [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/138766462) of their 9/1/15 "Ice Cream" performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150659165717265.450006.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/1/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.756998384363680.1073742027.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 12/5/13 *[[Shows/Free Fringe|Free Fringe]]* show.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105003365262780.1073741869.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 8/28/14 show at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105003365262780.1073741869.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 8/28/14 show at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/1/15 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.1031442486919267.1073742238.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1031442486919267.1073742238.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [Franz & Dave's Facebook page.](http://facebook.com/franzanddave)

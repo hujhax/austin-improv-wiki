@@ -89,11 +89,11 @@
 <blockquote>Set in a record store, Vinyl Destination follows the fortunes of a diverse group of employees who can't agree on anything about music except that it sounds better on black wax. Although the same rotating cast of characters will populate the show each week, every show will be completely improvised -- including the songs and music that underscore their lives, performed onstage by the cast throughout each performance.</blockquote> 
 
 ## History
-The show was subsequently brought back for [[Festival/The 2007 Out of Bounds Comedy Festival|The 2007 Out of Bounds Comedy Festival]].
+The show was subsequently brought back for [[Festivals/The 2007 Out of Bounds Comedy Festival|The 2007 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Photos
-* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157601896325337) of their performance at [[Festival/The 2007 Out of Bounds Comedy Festival|The 2007 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157601896325337) of their performance at [[Festivals/The 2007 Out of Bounds Comedy Festival|The 2007 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [Announcement of the show run](http://forum.austinimprov.com/viewtopic.php?t=3378&p=27714) on [[The Austin Improv Forums]].

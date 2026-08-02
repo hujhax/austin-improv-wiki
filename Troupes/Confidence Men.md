@@ -108,7 +108,7 @@ This is their bio from their web site:
 * [Video of their 2/18/2011 show.](http://www.viddler.com/explore/troyamiller/videos/83/) ("Arctic Research Facility")
 * [Video of their 2/19/2011 show.](http://www.viddler.com/explore/troyamiller/videos/82/) ("Mount Olympus")
 * [Video of their 2/24/2011 show.](http://www.viddler.com/explore/troyamiller/videos/84/) ("News Room")
-* [Video](http://vimeo.com/26129030) of their performance in [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+* [Video](http://vimeo.com/26129030) of their performance in [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Video of their 6/4/2011 show.](http://www.viddler.com/explore/exquisitezombie/videos/6/) ("Opryland Variations")
 * [Video of their 9/3/2011 show.](http://www.viddler.com/explore/troyamiller/videos/90/) ("Hall of Justice")
 * [Video of their 10/9/2011 show.](http://www.viddler.com/explore/exquisitezombie/videos/19/) ("Petting Zoo")
@@ -119,14 +119,14 @@ This is their bio from their web site:
 * [Video of their 1/29/12 show.](http://www.viddler.com/v/716e0762) ("Mamet Goes to the Movies")
 * [Video of their 3/9/12 show.](http://www.viddler.com/v/b2981ce2) ("The Daily Planet")
 * Videos of their 3/31/12 "Mamet Goes to the Movies" performance: ["The Cake Variations"](http://vimeo.com/39723699); [*Star Wars*](http://vimeo.com/39687688)
-* [Video of their performance](http://vimeo.com/40901517) in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]] by [[Performers/Kristin Firth|Kristin Firth]]. ("The Great Pyramid")
+* [Video of their performance](http://vimeo.com/40901517) in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]] by [[Performers/Kristin Firth|Kristin Firth]]. ("The Great Pyramid")
 	* [Another video of the same show](http://www.viddler.com/v/2a1b2ab3) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]].
 * [Video of their 9/28/12 show.](http://www.viddler.com/v/73560641) ("Rivendell")
 * [Video of their 9/29/12 show.](http://www.viddler.com/v/8310310b) ("Sesame Street")
 * [Video of their 2/16/13 show.](http://www.viddler.com/v/2a1b2ab3) ("Jury Duty")
 * [Video of their 6/22/13 performance](http://vimeo.com/69454380) in [[The 44-Hour Improv Marathon]].
-* [Video of their 8/31/13 performance](http://vimeo.com/74439292) in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/125266916) of their 4/11/15 show at [[Festival/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
+* [Video of their 8/31/13 performance](http://vimeo.com/74439292) in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/125266916) of their 4/11/15 show at [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/25/09 show.

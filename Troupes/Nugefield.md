@@ -79,8 +79,8 @@ They reunited in Austin in 2013.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534099176611582.117854.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 2/8/13 performance in *[[Festival/Lovefest|Lovefest]]*.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577649842107.1073741851.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534099176611582.117854.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 2/8/13 performance in *[[Festivals/Lovefest|Lovefest]]*.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152577649842107.1073741851.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 [[Category/Active|Nugefield]]
 [[Category/Troupes|Category:Troupes]]

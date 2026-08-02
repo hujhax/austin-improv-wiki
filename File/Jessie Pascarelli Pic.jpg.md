@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Jessie Pascarelli Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Jessie Pascarelli|Jessie Pascarelli]], volunteering at the 2012 [[Festival/Wafflefest|Wafflefest]].
+[[Performers/Jessie Pascarelli|Jessie Pascarelli]], volunteering at the 2012 [[Festivals/Wafflefest|Wafflefest]].
 
 Photo by [[Performers/Heidi Rogers|Heidi Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.10102522219773230.3490342.7909117&type=3).
 ## Licensing

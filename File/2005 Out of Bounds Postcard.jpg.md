@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="2005 Out of Bounds Postcard.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A postcard for [[Festival/The 2005 Out of Bounds Comedy Festival|The 2005 Out of Bounds Comedy Festival]].
+A postcard for [[Festivals/The 2005 Out of Bounds Comedy Festival|The 2005 Out of Bounds Comedy Festival]].
 
 Art by [[Performers/Craig Kotfas|Craig Kotfas]].
 

@@ -201,7 +201,7 @@ Owing to the somewhat risqué nature of burlesque, several performers in the sho
 
 The show ran Fridays in May and June of 2014, and was hour 34 of [[The 45-Hour Improv Marathon]].
 
-It then ran Fridays in February and March of 2015, and was part of [[Festival/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
+It then ran Fridays in February and March of 2015, and was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
 ## Media
 ### Videos

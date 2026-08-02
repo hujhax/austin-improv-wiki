@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Roy Janik.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Roy Janik|Roy Janik]], performing in [[Shows/Austin Secrets|Austin Secrets]] at [[Festival/Wafflefest|Wafflefest]] 2012.
+[[Performers/Roy Janik|Roy Janik]], performing in [[Shows/Austin Secrets|Austin Secrets]] at [[Festivals/Wafflefest|Wafflefest]] 2012.
 
 Photo by [[Roy Moore]], from [this photoset](http://www.facebook.com/media/set/?set=a.408278745907477.91540.118587218209966&type=3).
 ## Licensing

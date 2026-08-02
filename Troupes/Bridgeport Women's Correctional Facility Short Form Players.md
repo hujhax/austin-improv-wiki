@@ -95,7 +95,7 @@ The troupe debuted in *[[Shows/The Cagematch|The Cagematch]]* on 7/14/06 with th
 * [[Performers/Rachel Madorsky|Rachel Madorsky]]
 * [[Performers/Tami Nelson|Tami Nelson]]
 
-This run included a show at [[Festival/The 2006 Out of Bounds Comedy Festival|The 2006 Out of Bounds Comedy Festival]].  The last performance on record for that incarnation is a 4/27/07 performance in *[[Shows/The Threefer|The Threefer]]*.
+This run included a show at [[Festivals/The 2006 Out of Bounds Comedy Festival|The 2006 Out of Bounds Comedy Festival]].  The last performance on record for that incarnation is a 4/27/07 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 The troupe returned to [[ColdTowne]] in June 2014 for a run of Saturday-night shows, as the "Bridgeport Correctional Facility Short Form Impromptu Skit Players", with the following cast:
 * [[Performers/Chrissy Shackleford|Chrissy Shackleford]]
@@ -111,8 +111,8 @@ The troupe returned to [[ColdTowne]] in June 2014 for a run of Saturday-night sh
 ### Photos
 * [Photoset](http://www.flickr.com/photos/17598148@N00/with/190369558/) by [[Performers/Jason Vines|Jason Vines]] of their 7/14/06 premiere.
 * [Photoset](http://www.facebook.com/media/set/?set=a.746550998741752.1073742014.221927764537414&type=3) by [[Steve Rogers]] of their 6/7/14 performance.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152599009622107.1073741856.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of a perfromance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.795100780553440.1073742058.221927764537414&type=3) by [[Steve Rogers]] of a performance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152599009622107.1073741856.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of a perfromance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.795100780553440.1073742058.221927764537414&type=3) by [[Steve Rogers]] of a performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The 2014 run's facebook event.](http://www.facebook.com/events/404778376330565/)

@@ -32,7 +32,7 @@ A bio from the website for [[Troupes/Rachel and Dave|Rachel and Dave]]:<blockquo
 
 <p>Since 2005, Dave has been living in Austin, TX with wife and creative partner [[Performers/Rachel Madorsky|Rachel Madorsky]], teaching and performing with their award-winning troupe [[Troupes/The Frank Mills|The Frank Mills]]. Dave also performs with [[Troupes/You're Not My Real Dad|You're Not My Real Dad]], [[Troupes/Brain Trust|Brain Trust]] and with [[Troupes/Rachel and Dave|Rachel and Dave]]. </p>
 
-<p>He is also a producer for The [[Festival/Out of Bounds|Out of Bounds]] Comedy Festival and has helped produce the [[Austin Sketch Fest]] and [[Festival/Ladies Are Funny Festival|Ladies Are Funny Festival]] (LAFF).</p>
+<p>He is also a producer for The [[Festivals/Out of Bounds|Out of Bounds]] Comedy Festival and has helped produce the [[Austin Sketch Fest]] and [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]] (LAFF).</p>
 </blockquote>
 
 ## Troupes

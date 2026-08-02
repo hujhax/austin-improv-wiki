@@ -37,7 +37,7 @@
 
 ## Shows
 * *[[Shows/Boy Band|Boy Band]]*
-* *[[Festival/Love Fest|Love Fest]]*
+* *[[Festivals/Love Fest|Love Fest]]*
 * *[[Shows/Slam Team Six|Slam Team Six]]*
 * *[[Shows/TGIS|TGIS]]*
 [[Category/Performers|Category:Performers]]

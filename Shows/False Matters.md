@@ -149,11 +149,11 @@ The show explores similar themes to those in Dick's works, including dystopian f
 *False Matters* was directed by [[Performers/Shannon McCormick|Shannon McCormick]] and assistant-directed by [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]. [[Performers/Courtney Hopkin|Courtney Hopkin]] created the costumes and poster for the show. [[Performers/Marc Majcher|Marc Majcher]] created a custom Flash interaction to randomly select the suggestion for the show.
 
 ## History
-The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 2011 (and on August 24 and 25, 2012). After the original run, it lived on as an informal troupe composed of members of the original cast. Its first show outside [[Salvage Vanguard]] was as a part of the first [[Festival/Improvised Play Festival|Improvised Play Festival]] on July 2, 2011.  Its second full run is on Fridays at [[The Institution Theater]] in October and November 2013.
+The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 2011 (and on August 24 and 25, 2012). After the original run, it lived on as an informal troupe composed of members of the original cast. Its first show outside [[Salvage Vanguard]] was as a part of the first [[Festivals/Improvised Play Festival|Improvised Play Festival]] on July 2, 2011.  Its second full run is on Fridays at [[The Institution Theater]] in October and November 2013.
 
 ## Media
 ### Videos
-* [Video of their show](http://vimeo.com/26127355) at [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+* [Video of their show](http://vimeo.com/26127355) at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * ["Violet Matters"](http://vimeo.com/channels/austinimprov/44619659), a 6/23/12 mash-up with *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 * [Video](http://vimeo.com/channels/austinimprov/77891213) of their 10/19/13 show with *[[Shows/Mister Morbid|Mister Morbid]]*.
 
@@ -169,11 +169,11 @@ The show originally played [[Salvage Vanguard Theater]] from May 20 to June 11, 
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/10/11 performance at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1720672979394.85878.1315383518&type=3) by [[Roy Moore]] of their 6/11/11 performance.
 * [Casual photos of the cast](http://www.facebook.com/happywaffle/media_set?set=a.10150645560780324.682290.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] from June 2011.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.412280975502091.99885.221927764537414&type=3) by [[Steve Rogers]] of their 8/25/12 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3538649347667.130761.1315383518&type=3) by [[Michael Yew]] which includes their 9/1/12 performance at [[Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.481690675227787.115499.221927764537414&type=3) by [[Steve Rogers]] of their 1/26/13 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.522968797766641.1073741851.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 performance at [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.522968797766641.1073741851.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 performance at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/False-Matters/) by [[Performers/Chad Wellington|Chad Wellington]] of their 10/18/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 

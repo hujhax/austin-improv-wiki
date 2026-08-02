@@ -74,7 +74,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * [[Troupes/Wink Planet|Wink Planet]] will present "Pilgrims Are From Mars" in November 2014.
 
 #### Other
-* *[[Festival/Festival Festival|Festival Festival]]*
+* *[[Festivals/Festival Festival|Festival Festival]]*
 * *[[Shows/Live From ColdTowne It's Saturday Night!|Live From ColdTowne It's Saturday Night!]]*
 * *[[Shows/The Mating Game|The Mating Game]]*
 * *[[Shows/Rapture The Flag|Rapture The Flag]]*
@@ -161,7 +161,7 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[Shows/The Ladies Room|The Ladies Room]]*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]*
-* *[[Festival/Love Fest|Love Fest]]*
+* *[[Festivals/Love Fest|Love Fest]]*
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[Shows/The Next Chapter|The Next Chapter]]* (2013)

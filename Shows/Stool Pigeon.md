@@ -86,14 +86,14 @@ Every week, the "pigeon" would be a local-celebrity, non-improvisor guest.  The 
 ## Media
 ### Videos
 * [Video](http://vimeo.com/52598841) by [[Performers/Paul Normandin|Paul Normandin]] of the 10/16/12 show, featuring [[Performers/Paul Normandin|Paul Normandin]] as the monologist.
-* [Video](http://vimeo.com/74238788) by [[Performers/Brad Hawkins|Brad Hawkins]] of the "Richard Garriott" show from [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/105446582) of their performance in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/138460333) of the 9/6/15 "Kirk Watson"show at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/74238788) by [[Performers/Brad Hawkins|Brad Hawkins]] of the "Richard Garriott" show from [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/105446582) of their performance in [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/138460333) of the 9/6/15 "Kirk Watson"show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 1/17/12 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202536012224293.1073741905.1315383518&type=3) by [[Michael Yew]] of the performance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961776410793.1073741895.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of the 9/6/15 "All-Star *[[Shows/Stool Pigeon|Stool Pigeon]]*" featuring Kirk Watson -- part of [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202536012224293.1073741905.1315383518&type=3) by [[Michael Yew]] of the performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961776410793.1073741895.666390792&type=3) by [[Performers/Dave alley|Dave alley]] of the 9/6/15 "All-Star *[[Shows/Stool Pigeon|Stool Pigeon]]*" featuring Kirk Watson -- part of [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/events/stool-pigeon-improv)

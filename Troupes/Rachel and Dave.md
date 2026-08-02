@@ -73,7 +73,7 @@
 **Rachel and Dave** is an improv duo consisting of married couple [[Performers/Rachel Madorsky|Rachel Madorsky]] and [[Performers/Dave Buckman|Dave Buckman]].  They perform longform that focuses on relationships.
 
 ### Press Blurb
-This is their bio from the [[Festival/2012 Out of Bounds|2012 Out of Bounds]] web site:
+This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
 <blockquote><p>"Rachel and Dave are a long form improv and sketch group based out of Austin, Texas. The group features the married duo of Rachel Madorsky and David Buckman who weave spontaneous comedy about the foibles and complexities of relationships like a modern-day Stiller and Meara. Rachel and Dave shows are filled with real characters, love, whimsy and delightfully inappropriate situations.</p> 
 
 <p>Rachel and Dave teach on the faculty of ColdTowne Theater, perform regularly as members of the award-winning improv ensemble The Frank Mills and live in Austin, Texas. Together, they have appeared in the Web Series: The Bank Manager, Finding Love at Whole Foods, Finding Troo Helth at Whole Foods and Hungry Todd Rungy. They also appear in the feature films: Ultiamte's Guide to Flight and Days of Delusion and the short films: Last Day of School and Master Cleanse"</p></blockquote>
@@ -89,7 +89,7 @@ This is their bio from the [[Festival/2012 Out of Bounds|2012 Out of Bounds]] we
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120827122265.308819.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/9/10 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/13/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/23/11 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.165388706875494.43739.100002130980897&type=3) by [[Steve Rogers]] that includes their performance in [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.165388706875494.43739.100002130980897&type=3) by [[Steve Rogers]] that includes their performance in [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/23/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.634802383262943.1073741843.473177099425473&type=1) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/29/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204248534876289.1073741949.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/15 show.

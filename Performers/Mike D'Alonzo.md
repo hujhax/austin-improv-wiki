@@ -22,7 +22,7 @@
 **Mike D'Alonzo** is an improv performer.
 
 ## History
-Mike was was one of the producers of [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] from 2003 to 2006.
+Mike was was one of the producers of [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] from 2003 to 2006.
 
 In 2006, he moved away to Los Angeles.
 

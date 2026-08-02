@@ -13,7 +13,7 @@ Headliners
 
 #### Media
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150589661327265.439822.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the "Drag" show.
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their encore performance on 11/8/12 in [[Festival/WaffleFest 2012|WaffleFest 2012]].
+	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their encore performance on 11/8/12 in [[Festivals/WaffleFest 2012|WaffleFest 2012]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2403734895515.106636.1315383518&type=3) by [[Michael Yew]] that includes all sets.
 
 ### Jan 12, 2012
@@ -1165,7 +1165,7 @@ Headliners
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10104347079764180.1073741836.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of "Pig Pics".
 
 ### February 27, 2014 (the 98th show)
-#### [[Festival/Out of Bounds|Out of Bounds]] Submission Video Party
+#### [[Festivals/Out of Bounds|Out of Bounds]] Submission Video Party
 Submissions for the Out of Bounds Comedy Festival are coming up, in order to submit, an improv troupe needs a submission video. So we're opening up the Free Fringe to allow four groups to film their shows for submission purposes.
 
 Those groups are all fantastic, so it works out!
@@ -1591,7 +1591,7 @@ Tests of physical, mental, personal, and emotional limits.
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Ryan Austin|Ryan Austin]]
 
 ### November 20, 2014
-(Dark for [[Festival/WaffleFest 2014|WaffleFest 2014]].)
+(Dark for [[Festivals/WaffleFest 2014|WaffleFest 2014]].)
 
 ### November 27, 2014
 (Dark for [[Wikipedia - Thanskgiving|Thanskgiving]].)
@@ -1819,7 +1819,7 @@ Featuring [[Performers/Megan Sherrod|Megan Sherrod]], [[Performers/Suzanne Link|
 The audience provides 10 titles for stories, which are performed in EXACTLY 30 minutes -- NO CHEATING.  Starring [[Performers/Mark Tindle|Mark Tindle]] (from London), [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Aspen Webster|Aspen Webster]], and [[Performers/Andreas Fabis|Andreas Fabis]].  [[Performers/Chad Wellington|Chad Wellington]] and [[Performers/Cindy Page|Cindy Page]] will keep them honest with lights, music and a timer.
 
 ### April 9, 2015
-Dark for [[Festival/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
+Dark for [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
 ### April 16, 2015 (the 144th show)
 #### Quinni and Jinni ([[Performers/Quinn Buckner|Quinn Buckner]])
@@ -2042,7 +2042,7 @@ The Arjet Universe will be investigating the world of Tennessee Williams! Drama,
 * Photosets by [[Performers/Jay Mahavier|Jay Mahavier]]: ["Theo-Thon"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207921746347950.1425495839&type=3), ["Fancy Nancy and Plain Jane"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207921803509379.1073741865.1425495839&type=3), and ["Improv on a Hot Tin Roof"](http://www.facebook.com/jay.mahavier/media_set?set=a.10207921801029317.1425495839&type=3).
 
 ### September 3, 2015
-Dark for [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+Dark for [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### September 10, 2015 (the 164th show)
 #### Rapid Fire ([[Performers/Kenny Madison|Kenny Madison]])

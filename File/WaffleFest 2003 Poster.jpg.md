@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="WaffleFest 2003 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for [[Festival/WaffleFest 2003|WaffleFest 2003]].
+Poster for [[Festivals/WaffleFest 2003|WaffleFest 2003]].
 
 Photo by: unknown.
 Art by: unknown.

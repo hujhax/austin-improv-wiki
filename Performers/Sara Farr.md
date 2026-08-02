@@ -73,9 +73,9 @@
 **Sara Farr** is an improv performer and technical improvisor.  She is the woman behind the [[Puppet Improv Project]].
 
 ## History
-Sara started performing in 2005 with [[Troupes/Wooden Nickel|Wooden Nickel]]; that same year, she organized [[The Tuesday Night Jam]] at [[The Hideout Theatre]].  Her first improv-scoring was for [[Troupes/Get Up|Get Up]] at [[Festival/The 2005 Out of Bounds Comedy Festival|The 2005 Out of Bounds Comedy Festival]].  The following year, she started performing with [[Troupes/The Leading Brands|The Leading Brands]] and regularly scoring [[Troupes/Get Up|Get Up]].
+Sara started performing in 2005 with [[Troupes/Wooden Nickel|Wooden Nickel]]; that same year, she organized [[The Tuesday Night Jam]] at [[The Hideout Theatre]].  Her first improv-scoring was for [[Troupes/Get Up|Get Up]] at [[Festivals/The 2005 Out of Bounds Comedy Festival|The 2005 Out of Bounds Comedy Festival]].  The following year, she started performing with [[Troupes/The Leading Brands|The Leading Brands]] and regularly scoring [[Troupes/Get Up|Get Up]].
 
-In 2009, she founded the [[Puppet Improv Project]], which has since had several show runs, and festival appearances at [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] and the Twin Cities Fest.  She began performing with [[Troupes/ComedySportz|ComedySportz]] in 2010, but its Austin chapter dissolved in 2012 (she still makes guest appearances in San Antonio).
+In 2009, she founded the [[Puppet Improv Project]], which has since had several show runs, and festival appearances at [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] and the Twin Cities Fest.  She began performing with [[Troupes/ComedySportz|ComedySportz]] in 2010, but its Austin chapter dissolved in 2012 (she still makes guest appearances in San Antonio).
 
 She's scored many shows at [[The Hideout Theatre]], and in 2013 started teching occasionally for [[Troupes/Girls Girls Girls|Girls Girls Girls]].
 

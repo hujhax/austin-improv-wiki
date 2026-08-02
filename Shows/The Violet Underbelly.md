@@ -138,7 +138,7 @@
 ## Summary
 The director deliberately steered the show away from the traditional, wackier signifiers of film noir -- the gumshoes, the voiceover, and the heightened language that often serves to poke fun at the genre -- and aimed for a grittier tone that was truer to the actual source material.
 
-After its main run, the show was performed once at [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]], and then once more in a one-off mash-up night with [[Shows/False Matters|False Matters]] (called "Violet Matters").  Other than those two shows, it hasn't been done since.
+After its main run, the show was performed once at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]], and then once more in a one-off mash-up night with [[Shows/False Matters|False Matters]] (called "Violet Matters").  Other than those two shows, it hasn't been done since.
 
 ## Media
 ### Videos
@@ -148,7 +148,7 @@ After its main run, the show was performed once at [[Festival/The 2011 Improvise
 * [Video](http://vimeo.com/24441911) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/16/11 performance.
 * [Video](http://vimeo.com/23268142) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/23/11 performance.
 * [Video](http://vimeo.com/24140520) by Stephen Reynolds of the 4/30/11 performance.
-* [Video](http://vimeo.com/26180322) by [[The Hideout Theatre]] of the 7/2/11 performance at [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+* [Video](http://vimeo.com/26180322) by [[The Hideout Theatre]] of the 7/2/11 performance at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Video](http://vimeo.com/44619659) by [[Performers/Peter Rogers|Peter Rogers]] of "Violet Matters", the 6/23/12 mash-up with [[Shows/False Matters|False Matters]].
 
 ### Photos

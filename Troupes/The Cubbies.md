@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-This is their bio from the [[Festival/2012 Out of Bounds|2012 Out of Bounds]] web site:
+This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
 <blockquote>This troupe formed due to their individual ties to the city of Chicago and common love for improv. Members have studied at iO Chicago, Second City, and [[The New Movement Theater]]. The Cubbies' style of improv displays playfulness and fondness for each other.</blockquote>
 
 ## Media

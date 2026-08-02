@@ -44,7 +44,7 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 * *[[Will You Be My Tinderella]]*(improv)
 * *[[Shows/The Ladies Room|The Ladies Room]]* (improv)2015
 * *[[Shows/GrimmNoir|GrimmNoir]]*
-* *[[Festival/Love Fest|Love Fest]]* (performer, improv, host)
+* *[[Festivals/Love Fest|Love Fest]]* (performer, improv, host)
 * *[[Christmas at the Cozy Mountain Inn]]* (improv)
 * *[[The Better Half Presents Date Night]]*(co-producer, co-director, host)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]* (producer, season three)

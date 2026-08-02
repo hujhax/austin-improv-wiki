@@ -223,7 +223,7 @@ Finally, act four, which took place after a short time jump, depicted the fallou
 ## History
 The show featured an unadvertised preview performance two days before its premiere.
 
-It was part of [[Festival/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
+It was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
 ## Media
 ### Videos

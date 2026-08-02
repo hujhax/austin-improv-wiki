@@ -107,7 +107,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/46047691) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Anxious Sexism" show (uploaded 7/19/12).
 * [Video](http://vimeo.com/47497931) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Curious Red Wasp" show (uploaded 8/14/12).
 * [Video](http://vimeo.com/48320455) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Earthworm" show (uploaded 8/27/12).
-* [Video](http://vimeo.com/48891839) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Arousal For Baby" show in [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/48891839) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Arousal For Baby" show in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/49200778) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Forlorn" show (uploaded 9/10/12).
 * [Video](http://vimeo.com/50648320) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Depression Studies" performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]* (uploaded 10/2/12).
 * [Video](http://vimeo.com/51505293) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Abs Jealousy" performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]* (uploaded 10/16/12).
@@ -125,7 +125,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/70690794) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Frustration" show (uploaded 7/20/13).
 * [Video](http://vimeo.com/71124031) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Regret Birthday" show (uploaded 7/26/13).
 * [Video](http://vimeo.com/73647947) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Guilt Theater" show (uploaded 9/2/13).
-* [Video](http://vimeo.com/73647948) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Jolly Improv Friends" show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]] (uploaded 9/2/13).
+* [Video](http://vimeo.com/73647948) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Jolly Improv Friends" show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]] (uploaded 9/2/13).
 * [Video](http://vimeo.com/78546026) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Miserable" show (uploaded 11/4/13).
 * [Video](http://vimeo.com/86663321) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Disillusioned" show (uploaded 2/13/14).
 * [Video](http://vimeo.com/91555768) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Visiting Anger" show (uploaded 4/9/14).

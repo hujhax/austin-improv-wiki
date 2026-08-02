@@ -86,7 +86,7 @@ The show's tagline was "Fully Improvised Comedic Penny Dreadfuls & Thrilling Tal
 ## History
 *Victrola* ran Thursday nights at 8:00pm in November 2010 (except for Thanksgiving).
 
-It also played on 9/1/11 in [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
+It also played on 9/1/11 in [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=11214&p=98266) on [[The Austin Improv Forums]].

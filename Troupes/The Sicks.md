@@ -221,7 +221,7 @@ The run had the following members:
 * The Day After Cinco De Mayo Show (5/6/06): The Sicks awaken in the aftermath of their own drunken and debauched Cinco de Mayo celebration to discover that a freak meteorological event has created queso hurricanes over the city of Austin so hot that anyone caught in them would be melted into queso.  The show ended with the rest of the troupe realizing the bowl of queso they were eating was Jordan, for whom they began to cry and grieve while continuing to eat his remains.  
 * The Farewell Show (5/19/06):  The show opened with a staged funeral for the homemade banner from the troupe's very first show, which devolved into Jeff as the priest lip syncing to Queen's "The Show Must Go On", featured a "greatest hits" collection of sketches from throughout the troupe's run, and concluded with every member of the troupe abandoning Jonathan onstage before he threw open the back curtain in frustration and stormed out of the theatre.  The troupe then returned to the stage to Queen's "Don't Stop Me Now" to dance with the audience.)
 
-Their final show was on 5/19/06, but they also performed a reunion show for [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
+Their final show was on 5/19/06, but they also performed a reunion show for [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 
 In lieu of a traditional curtain call, every show ended with the troupe inviting the audience onstage for a dance party.
 

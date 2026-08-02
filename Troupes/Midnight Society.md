@@ -88,15 +88,15 @@ Their bio, from their web site:
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/midnight-society-thu-10pm-svt-oranges-stage-1247023) of their 8/28/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/midnight-society-thu-10pm-svt-oranges-stage-1247023) of their 8/28/08 show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/34095847) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 2009 Christmas sketch show.
 * [Video](http://vimeo.com/22499996) by [[Performers/Lance Gilstrap|Lance Gilstrap]] of a March 2011 show at [[Coldtowne Theater]].
 * [Video](http://youtu.be/ofjRlvs4iFo) by [[Brian Boyko]] of their 4/7/12 show.
 * [Video](http://vimeo.com/63216537) by [[Performers/Lance Gilstrap|Lance Gilstrap]] of a 2012 show at [[Coldtowne Theater]], the last one before [[Nick Ramirez]] and [[Andy Petruzzo]] moved away.
-* [Video](http://vimeo.com/82058494) by [[Performers/Dave alley|Dave alley]] of their show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/82058494) by [[Performers/Dave alley|Dave alley]] of their show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346850923219.2043490.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 performance at [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346850923219.2043490.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 	* [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481885377264.251801.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/24/11 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.126797817401250.32892.100002130980897&type=3) by [[Steve Rogers]] that includes their 5/28/11 show at [[Austin Sketch Fest]].
@@ -104,7 +104,7 @@ Their bio, from their web site:
 * [Photoset of "Andy and Nick's going-away show"](http://www.facebook.com/cameraforaface/photos?collection_token=509318085%3A2305272732%3A69&set=a.10151125056593086.494340.509318085&type=3) (uploaded 7/24/12).
 * [Photoset](http://www.facebook.com/media/set/?set=a.470860206310834.113818.221927764537414&type=3) by [[Steve Rogers]] of their 1/5/13 performance at [[Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3) by [[Roy Moore]] that includes their 10/11/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festival/WaffleFest 2013|WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 
 ## More Information
 * [The troupe's website.](http://midnightsociety.org/)

@@ -80,14 +80,14 @@ The troupe was originally named "Arkay" and was formed by [[Joshua Philips]] as 
 
 They had a one-time run of Thursday shows in May 2013 at [[Coldtowne Theater]] with [[Troupes/Cheap Date|Cheap Date]]
 
-[[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined *[[Shows/The Threefer|The Threefer]]* at [[The Hideout Theatre]] in July 2013 and was accepted into [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], and continues to perform shows in the Austin improv scene.
+[[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined *[[Shows/The Threefer|The Threefer]]* at [[The Hideout Theatre]] in July 2013 and was accepted into [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], and continues to perform shows in the Austin improv scene.
 
 ## Media
 ### Videos
 * [Video of their 6/22/13 show](http://vimeo.com/76498906) in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festival/WaffleFest 2013|WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 
 ## More Information
 * [The casting call for the workshop](http://forum.austinimprov.com/viewtopic.php?f=3&t=14803) on [[The Austin Improv Forums]]

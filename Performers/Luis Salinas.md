@@ -30,7 +30,7 @@ Luis began his improv journey in the Fall of 2009, with the Improv 101 course at
 ## Shows
 * *[[Shows/Not This American Life|Not This American Life]]* (Season 1)
 * *[[Shows/The ReSet Project|The ReSet Project]]*
-* *[[Festival/Lovefest|Lovefest]]* (Season 2)
+* *[[Festivals/Lovefest|Lovefest]]* (Season 2)
 * *[[Shows/Trust No One|Trust No One]]*
 * *[[Shows/One Small Step|One Small Step]]*
 * [[Shows/Buzz Band|Buzz Band]]

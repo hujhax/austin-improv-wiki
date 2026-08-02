@@ -106,7 +106,7 @@ As the brainchild of founder [[Tanner Kalina]], SNAFU Improv stormed onto the Un
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1031272646936251.1073742237.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/1/15 performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [Facebook](https://www.facebook.com/snafuimprov)

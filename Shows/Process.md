@@ -168,7 +168,7 @@ That winter, [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] produced a holiday
 ### First Run (2012)
 When [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] moved back to Austin, he immediately pitched the show to [[The Hideout Theatre]] under its new name.  It received a mainstage run there in March and April of 2012.  This run introduced new elements, mostly geared towards cranking up the theatricality and "completeness" of the show: a larger selection of props and costumes were kept backstage for the third act; they introduced a "Desi Team", three cast members who would sit backstage, listen to the show, and quickly design and build the elements they'd need for the third act; they created a display of fake headshots, complete with the fake names the performers had come up with during auditions, to display during intermission.
 
-The run included a performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].  The run was so successful, they added an extra 6pm show on closing night.
+The run included a performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].  The run was so successful, they added an extra 6pm show on closing night.
 
 Many performances of the Hideout mainstage run had pre-determined genres:
 * Absurdism
@@ -203,7 +203,7 @@ For the remaining shows, they just let the title and table-read dictate the genr
 ### Between Runs (2012-2015)
 [[Performers/Meghan Wolff|Meghan Wolff]] directed a run of *Process* at the HUGE Theater in Minneapolis that ran from May through July of 2012.  Its performances ran for 50 minutes, and did not include the 'audition' section.
 
-*Process* was part of [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].  It used a portion of the 2012 mainstage cast, and included [[Performers/Bill Stern|Bill Stern]] as a guest director.
+*Process* was part of [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].  It used a portion of the 2012 mainstage cast, and included [[Performers/Bill Stern|Bill Stern]] as a guest director.
 
 ### Second Run (2016)
 The show is returning in 2016 as a Hideout mainstage show.
@@ -242,14 +242,14 @@ The show is returning in 2016 as a Hideout mainstage show.
 ## Media
 ### Videos
 * [Video](http://www.youtube.com/watch?v=KgYGpcS5ork) of [[Troupes/The Available Cupholders|The Available Cupholders]]' Play format at the 2010 Sarasota Improv Festival
-* [Video](http://vimeo.com/40488504) of their 4/15/12 performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]]
+* [Video](http://vimeo.com/40488504) of their 4/15/12 performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]]
 
 ### Photos
 * [Photoset of the 3/3/12 show](http://www.facebook.com/media/set/?set=a.310853215644868.76512.221927764537414&type=3) ("Hole to Nowhere") by [[Steve Rogers]].
 * [Photoset of the 3/24/12 show](http://www.facebook.com/claudio.fox.5/media_set?set=a.377731208915047.87462.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]].
 * [Photoset of the 3/31/12 show](http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3) ("Middle School") by [[Steve Rogers]].
 * [Photoset of the 4/15/12 show](http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3) ("My Heart Doth Bleed Gold") by [[Roy Moore]].
-* [Photoset](http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1) by [[Anna Lattka]] of the 8/29/12 show at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1) by [[Anna Lattka]] of the 8/29/12 show at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 	* Note that this photoset is locked to Anna's friends.
 
 ### Other

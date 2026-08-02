@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-This is their bio from the [[Festival/2012 Out of Bounds|2012 Out of Bounds]] web site:
+This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
 <blockquote><p>"There's Waldo is high-energy sketch comedy with a uniquely silly and twisted point of view. Their show promises to deliver memorably pathetic yet oddly lovable characters and plenty of moments that will make you happily uncomfortable. That thing that you're pretty sure is too weird or creepy to do on stage? Yeah, they'll probably do that.</P>
 
 <p>The members of There's Waldo have been writing and performing sketch comedy together since 2010. They have performed at The Velveeta Room, The Institution Theater, ColdTowne Theater, The Hideout, The Alamo Drafthouse, The Moontower Comedy Festival, LAFF, and Austin Sketchfest. They love weird characters, silly voices, and singing 90's music a cappella at inappropriate times."</p></blockquote>
@@ -82,7 +82,7 @@ This is their bio from the [[Festival/2012 Out of Bounds|2012 Out of Bounds]] we
 Show runs have included "A Silent Show: Now With Sound!", "Human Santapede", and "Human Santapede 2: Santapocalypse".
 
 ## History
-The troupe played their last show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+The troupe played their last show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Videos
@@ -93,14 +93,14 @@ The troupe played their last show at [[Festival/The 2013 Out of Bounds Comedy Fe
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3) by [[Michael Yew]] that includes thir 10/21/11 "Jerkholes" performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.217348495000504.51936.118587218209966&type=3) by [[Roy Moore]] of their 11/4/11 "Jerkholes" performance at [[The Institution Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2996259548261.118592.1315383518&type=3) by [[Michael Yew]] of a 4/12 show at [[The Institution Theater]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/12/12 performance at [[Festival/The 2012 Ladies Are Funny Festival|The 2012 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/12/12 performance at [[Festivals/The 2012 Ladies Are Funny Festival|The 2012 Ladies Are Funny Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3) by [[Michael Yew]] that includes their 6/24/12 performance.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102379642080070.3466612.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 9/22/12 performance in *[[The Informal Pig Show]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3972198386122.139663.1315383518&type=3) by [[Michael Yew]] of their 12/15/12 "Human Santapede" show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.507735242581309.114139.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 12/20/12 "Human Santapede" show at [[The Institution Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4125445057193.142095.1315383518&type=3) by [[Michael Yew]] which includes their 1/18/13 performance in "The Ladies Monthly Museum" at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=3) by [[Roy Moore]] that includes their 2/3/13 performance at *[[BitterFest]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3) by [[Michael Yew]] which includes their final 8/30/13 show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3) by [[Michael Yew]] which includes their final 8/30/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/TheresWaldoComedy)

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="WaffleFest 2013 Publicity Art.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity art for [[Festival/WaffleFest 2013|WaffleFest 2013]].
+Publicity art for [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 
 Art by [[Performers/Deano Jones|Deano Jones]].
 

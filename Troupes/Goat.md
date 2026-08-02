@@ -93,15 +93,15 @@ Goat takes its name from the Greek word *tragos*, which means "goat" and is the 
 
 ## Festivals
 Goat has appeared in the following festivals:
-* [[Festival/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] (2012)
-* [[Festival/Improvised Play Festival|Improvised Play Festival]] (2013)
+* [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] (2012)
+* [[Festivals/Improvised Play Festival|Improvised Play Festival]] (2013)
 
 ## Media
 ### Videos
 * [Video](http://vimeo.com/39035730) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 3/22/12 debut in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/44984553) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 6/28/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/47593964) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 7/15/12 show at [[Coldtowne Theater]].
-* [Video](http://vimeo.com/49553431) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 8/29/12 performance in [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/49553431) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 8/29/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/49553431) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 9/13/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/53269887) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 11/10/12 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 * [Video](http://vimeo.com/57374969) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 1/13/13 performance at [[Coldtowne Theater]] ("Jerry the Cat").
@@ -114,7 +114,7 @@ Goat has appeared in the following festivals:
 ### Photos
 * [Photoset of their 3/22/12 show](http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3) at *[[Shows/The Threefer|The Threefer]]* by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4398232116699.1073741826.1315383518&type=3) by [[Michael Yew]] that includes their 3/2/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4606882972840.1073741830.1315383518&type=3) by [[Michael Yew]] which includes their 4/12/13 performance in [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4606882972840.1073741830.1315383518&type=3) by [[Michael Yew]] which includes their 4/12/13 performance in [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 
 ## More Information
 * [Goat's Website](http://goatimprov.com)

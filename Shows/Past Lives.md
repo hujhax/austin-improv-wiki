@@ -85,19 +85,19 @@
 
 The show explores a soul and all of its previous incarnations in reverse chronological order.
 
-The show debuted at [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]] at [[The Hideout Theatre]] on 4/11/13 and has since been featured in [[The 44-Hour Improv Marathon]].
+The show debuted at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]] at [[The Hideout Theatre]] on 4/11/13 and has since been featured in [[The 44-Hour Improv Marathon]].
 
-They played their last show at [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]] at [[The Hideout Theatre]] on 4/10/14.
+They played their last show at [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]] at [[The Hideout Theatre]] on 4/10/14.
 
 ## Media
 ### Videos
-* [Video of their 4/11/13 debut performance](http://vimeo.com/63959273) in [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
+* [Video of their 4/11/13 debut performance](http://vimeo.com/63959273) in [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Video of their 5/24/13 performance](http://vimeo.com/67467225) in *[[Shows/The Spectacle|The Spectacle]]*.
-* [Video](http://vimeo.com/91778244) of their show in [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
+* [Video](http://vimeo.com/91778244) of their show in [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 * [Video of their 6/22/13 show](http://vimeo.com/75798036) in [[The 44-Hour Improv Marathon]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[Festival/The Improvised Play Festival|The Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[Festivals/The Improvised Play Festival|The Improvised Play Festival]].
 
 ## More Information
 * [Post about the show](http://yesandrew.com/2014/04/11/the-death-of-a-show/) by [[Performers/Andrew Buck|Andrew Buck]].
