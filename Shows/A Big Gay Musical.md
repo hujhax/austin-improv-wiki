@@ -27,7 +27,7 @@
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
-  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
   --><li style=""><a class="internal-link" href="Jaukeem Jaydoire Balcom">Jaukeem Jaydoire Balcom</a></li><!--
   --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
@@ -87,7 +87,7 @@
 ## Crew List
 * Lights - [[Performers/Cindy Page|Cindy Page]], [[Brandi Davis]], [[Paul Ramöne Weiner]] 
 * Hair, Makeup, Costumes - [[Elizaveta Dovgish]]
-* Technical Director - [[Lindsey McGowen]]
+* Technical Director - [[Performers/Lindsey McGowen|Lindsey McGowen]]
 * Stage Manager - [[Mia Cisco]]
  
 ## More Information

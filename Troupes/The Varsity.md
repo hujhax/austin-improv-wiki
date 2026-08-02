@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Performers/Joshua Gill">Joshua Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a></li><!--
   --><!--

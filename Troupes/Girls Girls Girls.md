@@ -72,7 +72,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [[Jason Laney]]
 * [[Performers/John Ratliff|John Ratliff]]
 * [[Robby]]
-* [[David Rosenbaum]]
+* [[Performers/David Rosenbaum|David Rosenbaum]]
 
 ## Local Festivals
 * [[Out of Bounds Comedy Festival]] - Headlining troupe 2007
@@ -215,7 +215,7 @@ This section lists media specifically for their *[[Shows/Boys of Summer|Boys of 
 * [Video](http://vimeo.com/13888720) of [[Performers/Peter Rogers|Peter Rogers]] guesting with *Boys of Summer* on 7/30/10.
 * Video of [[Performers/Jay Byrd|Jay Byrd]] guesting with *Boys of Summer* in 2011: [part 1](http://vimeo.com/29503112), [part 2](http://vimeo.com/30314674).
 * [Video](http://vimeo.com/27829205) of [[Performers/Jason Finkelman|Jason Finkelman]] guesting with *Boys of Summer* in 2011.
-* [Video](http://vimeo.com/28332016) of [[Deano Jones]] guesting with *Boys of Summer* in 2011.
+* [Video](http://vimeo.com/28332016) of [[Performers/Deano Jones|Deano Jones]] guesting with *Boys of Summer* in 2011.
 * [Video](http://vimeo.com/29000288) of [[Jason Laney]] guesting with *Boys of Summer* in 2011.
 * [Video](http://youtu.be/0Ed8OCc5R2E&feature=youtu.be) of [[Performers/Mitch Mills|Mitch Mills]] guesting with *Boys of Summer* in 2013.
 

@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="John Porter">John Porter</a></li><!--
   --><li style=""><a class="internal-link" href="Laura Walberg">Laura Walberg</a></li><!--
   --><li style=""><a class="internal-link" href="Mariella Krause">Mariella Krause</a></li><!--
-  --><li style=""><a class="internal-link" href="Owen Egerton">Owen Egerton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Owen Egerton">Owen Egerton</a></li><!--
   --><li style=""><a class="internal-link" href="Tim Bauer">Tim Bauer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--

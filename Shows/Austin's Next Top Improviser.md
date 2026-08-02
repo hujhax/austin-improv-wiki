@@ -105,7 +105,7 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
 	* Sound by [[Performers/Chelsea Gilman|Chelsea Gilman]].
 * 12/11/09:
-	* [[Cody Melcher]]
+	* [[Performers/Cody Melcher|Cody Melcher]]
 	* [[Performers/Eric Heiberg|Eric Heiberg]]
 	* [[Performers/Gene Joe|Gene Joe]]
 	* [[Performers/Howard Katz|Howard Katz]]

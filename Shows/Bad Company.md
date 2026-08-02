@@ -76,7 +76,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
   --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
-  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style=""><a class="internal-link" href="Enecito Acedillo">Enecito Acedillo</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--

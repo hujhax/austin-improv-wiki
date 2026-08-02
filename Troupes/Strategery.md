@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/34043354) by [[Kyle Sweeney]] of their 11/28/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
+* [Video](http://vimeo.com/34043354) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 11/28/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198549087265.346702.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/31/11 performance in *[[Shows/The Threefer|The Threefer]]*.

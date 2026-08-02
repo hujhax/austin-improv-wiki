@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Ericka Bundy">Ericka Bundy</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Moore">Jennifer Moore</a></li><!--
-  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Davis">Matt Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Mike Rubinov">Mike Rubinov</a></li><!--
   --><li style=""><a class="internal-link" href="Sarah DiCaprio">Sarah DiCaprio</a></li><!--

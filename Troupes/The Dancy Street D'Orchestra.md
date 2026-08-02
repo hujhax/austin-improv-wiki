@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
@@ -73,12 +73,12 @@
 **The Dancy Street D'Orchestra** was a narrative musical improv troupe that formed from students of [[Performers/Shana Merlin|Shana Merlin's]] first improvised-singing classes.
 
 ## Summary
-The troupe included musicians [[David Rosenbaum]] (on guitar) and [[Performers/Chelsea Gilman|Chelsea Gilman]] (on drums).
+The troupe included musicians [[Performers/David Rosenbaum|David Rosenbaum]] (on guitar) and [[Performers/Chelsea Gilman|Chelsea Gilman]] (on drums).
 
 ## History
 The troupe was founded in 2010 by [[Performers/Susannah Raulino|Susannah Raulino]] and [[Performers/Amy Averett|Amy Averett]], and disbanded after their [[Out of Bounds]] performance in 2011.
 
-After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]], [[Performers/Topping Haggerty|Topping Haggerty]], and [[David Rosenbaum]] would go on to found the musical trio [[Troupes/DA Foundry|DA Foundry]].
+After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]], [[Performers/Topping Haggerty|Topping Haggerty]], and [[Performers/David Rosenbaum|David Rosenbaum]] would go on to found the musical trio [[Troupes/DA Foundry|DA Foundry]].
 
 [[Performers/Amy Averett|Amy Averett]] would go on to join [[Troupes/Girls Girls Girls|Girls Girls Girls]].
 

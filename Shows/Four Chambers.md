@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -89,7 +89,7 @@ This show played on May 23, 2015.
 #### Cast
 * Dr. Takahashi: [[Angie Alegria Smith]]
 * Dr. Dörflinger: [[Performers/Emily Breedlove|Emily Breedlove]]
-* Chandrakar: [[Sushant Sethi]]
+* Chandrakar: [[Performers/Sushant Sethi|Sushant Sethi]]
 * Major Van Der Meer: [[Performers/Brad Hawkins|Brad Hawkins]]
 * Simms: [[Performers/Peter Rogers|Peter Rogers]]
 * Brasseau: [[Performers/Ryan Hill|Ryan Hill]]

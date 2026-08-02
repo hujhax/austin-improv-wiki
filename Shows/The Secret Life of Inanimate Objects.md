@@ -79,7 +79,7 @@
   --><li style=""><a class="internal-link" href="Christina Keller">Christina Keller</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a></li><!--
-  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
   --><li style="" ><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
@@ -130,7 +130,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a> (tech director)</li><!--
   --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
   --><!--

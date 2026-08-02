@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
   --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
   --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
-  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
   --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
   --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--

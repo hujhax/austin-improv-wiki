@@ -70,7 +70,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -287,7 +287,7 @@ Set during the Italian Renaissance and featuring music by [[Wikipedia - Queen (b
 * [[Nicholaus Weindel]] - Rafael 
 * [[Kim Stacy]] - Chorus/Teacher
 * [[Performers/Cené Hale|Cené Hale]] - Chorus/Margharita/Father
-* [[Lindsey McGowen]] - Chorus/Mother/Medici
+* [[Performers/Lindsey McGowen|Lindsey McGowen]] - Chorus/Mother/Medici
 
 ### Home Again: The Story of Passover
 The story of Passover as told through the music of [[Wikipedia - The Cure|The Cure]] (November 2015)

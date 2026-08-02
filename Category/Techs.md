@@ -17,7 +17,7 @@ redirect: "List of Austin Improv Techs"
 * [[Performers/Claudio Fox]]
 * [[Performers/Warren Henderson]]
 * [[Performers/Jay Mahavier]]
-* [[Lindsey McGowen]]
+* [[Performers/Lindsey McGowen]]
 * [[Performers/Cindy Page]]
 * [[Performers/Mike Reed]]
 * [[Performers/Neal Tibrewala]]

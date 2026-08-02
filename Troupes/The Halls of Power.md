@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Drew Lee">Drew Lee</a></li><!--
   --><li style=""><a class="internal-link" href="Michael James Williams">Michael James Williams</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Tami Nelson">Tami Nelson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,6 +81,6 @@ Drew's original pitch:<blockquote>The format is called 'The Halls of Power' and 
 ## History
 The troupe played Cagematches on 12/13/07 and 1/12/08.
 
-The bit of typing at a typewriter and muttering "business business business" originated with [[Tami Nelson]] in one of this troupe's shows.
+The bit of typing at a typewriter and muttering "business business business" originated with [[Performers/Tami Nelson|Tami Nelson]] in one of this troupe's shows.
 
 [[Category/Troupes|Halls of Power]]

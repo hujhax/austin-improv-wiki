@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Josephine McAdam">Josephine McAdam</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@
 * J. T. T. - [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * LARP - [[Performers/Peter Rogers|Peter Rogers]]
 * Mace - Josephine McAdam
-* New AP - [[Kevin Machate]]
+* New AP - [[Performers/Kevin Machate|Kevin Machate]]
 
 ## Crew
 * Producers/Creators - Mark Vittek, Jesse Scoble, [[Performers/Heath Allyn|Heath Allyn]]

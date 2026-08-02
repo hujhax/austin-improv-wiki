@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
@@ -80,7 +80,7 @@ They were voted "Outstanding New Troupe" at [[Coldtowne Theater]] in 2013.
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/60843799) by [[Kyle Sweeney]] of one of their shows (uploaded 3/1/12).
+* [Video](http://vimeo.com/60843799) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of one of their shows (uploaded 3/1/12).
 * [Video of their 6/22/13 show](http://vimeo.com/channels/austinimprov/77204222) in [[The 44-Hour Improv Marathon]].
 
 ## More Information

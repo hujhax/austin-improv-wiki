@@ -117,7 +117,7 @@ The show initially ran Fridays at 8pm at [[The Institution Theater]] during Sept
 The show was revived for shows on 7/25/14 and 8/22/14 at [[The Hideout Theatre]] as a temporary part of *[[Shows/The Wheel|The Wheel]]*.
 
 * 7/25/14: "You Think You're So In Love" (courtship in different societies, animal mating rituals, and romantic and sexual art)
-	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Ben Masten]], [[Mary Jo Pehl]], [[Performers/Peter Rogers|Peter Rogers]]
+	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], [[Mary Jo Pehl]], [[Performers/Peter Rogers|Peter Rogers]]
 
 ## Media
 ### Videos

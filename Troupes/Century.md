@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Ben Masten">Ben Masten</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ben Masten">Ben Masten</a></li><!--
   --><!--
   --><!--
   --><!--

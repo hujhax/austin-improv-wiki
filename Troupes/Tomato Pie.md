@@ -85,7 +85,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/31812790) by [[Kyle Sweeney]] of their 11/7/11 show.
+* [Video](http://vimeo.com/31812790) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 11/7/11 show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

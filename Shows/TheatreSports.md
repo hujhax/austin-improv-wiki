@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Dav Wallace">Dav Wallace</a> and <a class="internal-link" href="Performers/Sean Hill">Sean Hill</a> (2007)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dav Wallace">Dav Wallace</a> and <a class="internal-link" href="Performers/Sean Hill">Sean Hill</a> (2007)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a> and <a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a> (2010)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a> (2013)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a> and <a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a> (2014)</li><!--
@@ -198,7 +198,7 @@ Theatresports is an improv show in which two teams of improvisors challenge each
 A group of judges award points, set special 'judges' challenges', and cut short scenes that are boring.
 
 ## 2007 Run
-The initial run of the show started 4/14/07 and ran through the end of June of that year.  It was directed by [[Dav Wallace]] and [[Performers/Sean Hill|Sean Hill]].
+The initial run of the show started 4/14/07 and ran through the end of June of that year.  It was directed by [[Performers/Dav Wallace|Dav Wallace]] and [[Performers/Sean Hill|Sean Hill]].
 
 ## 2010 Run
 The show was brought back as the Sep/Oct 2010 mainstage show, this time directed by [[Performers/Andy Crouch|Andy Crouch]] and [[Performers/Kareem Badr|Kareem Badr]].  This run initiated the show's practice of having local businesses sponsor individual teams.
@@ -298,7 +298,7 @@ The schedule is as follows:
 	* Exhibition match: unknown.
 	* Guests:
 		* [[Performers/Andy Crouch|Andy Crouch]]
-		* [[Ben Masten]]
+		* [[Performers/Ben Masten|Ben Masten]]
 * June 8th
 	* Exhibition match: unknown.
 	* Guests:
@@ -333,12 +333,12 @@ The schedule is as follows:
 ### Cast of Theatresports 2017
 * [[Performers/Ryan Austin|Ryan Austin]]
 * [[Performers/Chelsea Bunn|Chelsea Bunn]]
-* [[Patrick Creamer]]
+* [[Performers/Patrick Creamer|Patrick Creamer]]
 * [[Rachel Elaine Creason]]
 * [[Allison Day]]
 * [[Performers/Zac Grantham|Zac Grantham]]
 * [[Performers/Ace Manning|Ace Manning]]
-* [[Nicholas Marino]]
+* [[Performers/Nicholas Marino|Nicholas Marino]]
 * [[Performers/Erin Molson|Erin Molson]]
 * [[Hemant Sharma]]
 * [[Performers/Shannon Dale Stott|Shannon Dale Stott]]
@@ -347,7 +347,7 @@ The schedule is as follows:
 ### Crew of Theatresports 2017
 * [[Jenn Hamm]]
 * [[Jason Hoppenworth]]
-* [[R Lance Hunter]]
+* [[Performers/R Lance Hunter|R Lance Hunter]]
 * [[Davey Wreden]]
 
 ## Media

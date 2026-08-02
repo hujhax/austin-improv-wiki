@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
   --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
   --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--

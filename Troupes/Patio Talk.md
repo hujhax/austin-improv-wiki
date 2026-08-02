@@ -132,7 +132,7 @@
 * [Photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152961772970793.1073741894.666390792&type=3) by [[Performers/Dave alley|Dave alley]] that includes their 9/3/15 show at [[The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos
-* [Video](http://vimeo.com/117435963) by [[Kyle Sweeney]] of their 1/16/15 show.
+* [Video](http://vimeo.com/117435963) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 1/16/15 show.
 
 ## More Information
 * [The troupe's Facebook page.](http://www.facebook.com/patiotalk)

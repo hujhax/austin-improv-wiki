@@ -83,7 +83,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/40244451) by [[Kyle Sweeney]] of their 4/12/12 show.
+* [Video](http://vimeo.com/40244451) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 4/12/12 show.
 * [Video](http://vimeo.com/42905009) by [[Lacy Reed]] of their 5/21/12 "P. F. Chang's" show at [[Coldtowne Theater]].
 * [Video](http://vimeo.com/50431482) by [[Lacy Reed]] of their 9/28/12 "Eggplant" show at [[Coldtowne Theater]].
 * [Video of a 2013 show.](http://vimeo.com/62749753)

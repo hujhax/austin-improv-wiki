@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
-  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Cody Greenlee">Cody Greenlee</a></li><!--
   --><li style=""><a class="internal-link" href="Dave Michaels">Dave Michaels</a></li><!--
   --><li style=""><a class="internal-link" href="Jake Milward">Jake Milward</a></li><!--

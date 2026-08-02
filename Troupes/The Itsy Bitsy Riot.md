@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Matthew Derman">Matthew Derman</a></li><!--
   --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
-  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
   --><!--
   --><!--

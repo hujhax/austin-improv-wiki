@@ -32,7 +32,7 @@
   --><li style=""><a class="internal-link" href="Holly Simpson">Holly Simpson</a></li><!--
   --><li style=""><a class="internal-link" href="Jon Wiley">Jon Wiley</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Anthony Fotinos">Joseph Anthony Fotinos</a></li><!--
-  --><li style=""><a class="internal-link" href="Katey Mushlin">Katey Mushlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katey Mushlin">Katey Mushlin</a></li><!--
   --><li style=""><a class="internal-link" href="Laura Estep">Laura Estep</a></li><!--
   --><li style=""><a class="internal-link" href="Marc Pruter">Marc Pruter</a></li><!--
   --><li style=""><a class="internal-link" href="Matt Bearden">Matt Bearden</a></li><!--

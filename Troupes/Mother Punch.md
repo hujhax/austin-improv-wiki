@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style=""><a class="internal-link" href="David Chambers">David Chambers</a></li><!--
   --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--

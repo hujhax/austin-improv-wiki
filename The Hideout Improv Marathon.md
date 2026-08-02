@@ -107,7 +107,7 @@ Repeat performers are in bold. As of 2018, 17 improvisers have performed in the 
 | [[Performers/Mike D'Alonzo|Mike D'Alonzo]]
 | Katie Hartman
 | [[Performers/Rob Yoho|Rob Yoho]]
-| [[Patrick Creamer]]
+| [[Performers/Patrick Creamer|Patrick Creamer]]
 | [[Frank Sánchez]]
 |-
 | [[Performers/Matt Pollock|Matt Pollock]]

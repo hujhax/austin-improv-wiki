@@ -32,7 +32,7 @@ When based in London, Mark was a member of a number of other teams, including St
 
 He recently moved to the North East of England and has begun regularly performing with Open Heart Theatre's troupe The Hang, based in Newcastle upon Tyne. They specialise in mixing longform narratives with runs of shorter scenes, inspired by the ideas raised in the narrative. Mark is delighted to be involved with a growing improv community in the north of the country!
 
-Mark has also begun to act an unofficial point of contact for AIC members in the UK. A role that he delights in playing! Over the last couple of years, he's welcomed [[Performers/Peter Rogers|Peter Rogers]], [[Lindsey McGowen]], [[Natalie Grigson]], [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Brad Hawkins|Brad Hawkins]], all of whom have played at the Duck Duck Goose Improv Jam.
+Mark has also begun to act an unofficial point of contact for AIC members in the UK. A role that he delights in playing! Over the last couple of years, he's welcomed [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Lindsey McGowen|Lindsey McGowen]], [[Natalie Grigson]], [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Brad Hawkins|Brad Hawkins]], all of whom have played at the Duck Duck Goose Improv Jam.
 
 ## Troupes
 * [[Troupes/An Englishman and a Belle|An Englishman and a Belle]] (2015-Present)

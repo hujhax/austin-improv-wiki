@@ -9,7 +9,7 @@ Only scripted productions were included in the ceremonies until 2006, when Austi
 
 In 2007, voting was again done through a single ballot, this time via online anonymous voting system set up by [[Performers/Roy Janik|Roy Janik]] using [[Performers/Bob Apthorpe|Bob Apthorpe]]'s voting program.  The top five nominees were announced on October 20 and the winner on October 21. Voting was open by invitation to all improvisors and students active at that time, approximately 125 people total.
 
-In 2008, the nominations process and award format was changed.  Instead of an outstanding ensemble/troupe/company, voters could nominate up to 8 individuals to receive recognition and share the award as part of The Improv Dream Team - a collection of eight individuals who are highly respected both on and off stage.  Nominations were collected from performers and students via email, organized by [[Chris Trew]].  No nominees were announced, just the top 8 winners at that year's ceremony.
+In 2008, the nominations process and award format was changed.  Instead of an outstanding ensemble/troupe/company, voters could nominate up to 8 individuals to receive recognition and share the award as part of The Improv Dream Team - a collection of eight individuals who are highly respected both on and off stage.  Nominations were collected from performers and students via email, organized by [[Performers/Chris Trew|Chris Trew]].  No nominees were announced, just the top 8 winners at that year's ceremony.
 
 In 2009, [[Performers/Dave Buckman|Dave Buckman]] spearheaded the awards nominations process.  He assembled a list of every Austin-based troupe (a consistent cast of players performing long term) and show (a specific concept with a limited run) that had performed that year.  A combined 180 shows and troupes were eligible to be nominated.  Nomination ballots with the complete list were distributed in every program at The Out Of Bounds festival that year, and nominations were open to OOB audience members as well as improvisors and students.  Individuals could nominate up to three shows/troupes via the paper ballot or by contacting Dave directly. Nominees were announced September 9 and handed over to the ACoT members for general membership voting, as all other theatre categories are voted on.  In addition to the official nominees, Dave recognized the following groups as notable runner ups:
 [[40 Hour Marathon]], [[Troupes/Available Cupholders|Available Cupholders]], [[Troupes/Get Up|Get Up]], [[Troupes/Girls Girls Girls|Girls Girls Girls]], [[Shows/Guilds Of Steel|Guilds Of Steel]], [[Troupes/Venn Diaphragm|Venn Diaphragm]], ... and FUCT(!)<--(huge write-in campaign!).  2010 nominations were handled in the same way.
@@ -69,7 +69,7 @@ The nominees would then be voted on by any monetary supporter of the Austin Crea
 ### 2007-2008 Season
 Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre, both on stage and in the community.)
 
-[[Performers/Dave Buckman|Dave Buckman]], [[Performers/Asaf Ronen|Asaf Ronen]], [[Tami Nelson]], [[Chris Trew]], [[Performers/Michael Jastroch|Michael Jastroch]], [[Performers/Shana Merlin|Shana Merlin]], [[Performers/Roy Janik|Roy Janik]], and [[Justin York]].
+[[Performers/Dave Buckman|Dave Buckman]], [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Tami Nelson|Tami Nelson]], [[Performers/Chris Trew|Chris Trew]], [[Performers/Michael Jastroch|Michael Jastroch]], [[Performers/Shana Merlin|Shana Merlin]], [[Performers/Roy Janik|Roy Janik]], and [[Justin York]].
 
 
 ### 2008-2009 Season

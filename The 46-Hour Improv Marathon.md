@@ -22,7 +22,7 @@
 * [[Performers/Courtney Hopkin|Courtney Hopkin]] - Marketing
 * [[Performers/Tim Coyle|Tim Coyle]] - Donations Captain
 * [[Performers/Luke Wallens|Luke Wallens]] - Donations Assistant
-* [[Lahari Samineni]] - Sponsorship Captain
+* [[Performers/Lahari Samineni|Lahari Samineni]] - Sponsorship Captain
 * [[Performers/Cagney Ortiz|Cagney Ortiz]] - Sponsorship Assistant
 * [[Performers/Joy Parks|Joy Parks]] - Food Captain
 * [[Performers/Heidi Rogers|Heidi Rogers]] - Food Assistant

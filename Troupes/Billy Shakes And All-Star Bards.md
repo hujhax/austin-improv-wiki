@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
   --><li style=""><a class="internal-link" href="Kasey Borger">Kasey Borger</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><!--

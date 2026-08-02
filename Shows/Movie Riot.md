@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Kirk Johnson">Kirk Johnson</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--
@@ -87,7 +87,7 @@ You can see this band of brothers every week in their acclaimed improv showcase 
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/105045815) by [[Kyle Sweeney]] of their "Shark Island" show at [[The 2014 Out of Bounds Comedy Festival]] (uploaded )
+* [Video](http://vimeo.com/105045815) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Shark Island" show at [[The 2014 Out of Bounds Comedy Festival]] (uploaded )
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].

@@ -266,7 +266,7 @@ In December of 2016 it was decided to cancel TARANTULA. Sarah Marie Curry got al
 * [[Performers/Sam Schak|Sam Schak]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * [[Performers/Tom Booker|Tom Booker]]
-* Musicians: [[Performers/Ryan Hill|Ryan Hill]], [[Lindsey McGowen]]
+* Musicians: [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Lindsey McGowen|Lindsey McGowen]]
 * Light: [[Performers/Mark Shoemaker|Mark Shoemaker]]
 
 ## Media

@@ -73,7 +73,7 @@
   --><li style=""><a class="internal-link" href="Bloom Davis">Bloom Davis</a></li><!--
   --><li style=""><a class="internal-link" href="Carolyn Gjersten">Carolyn Gjersten</a></li><!--
   --><li style=""><a class="internal-link" href="Judy Blackshear">Judy Blackshear</a></li><!--
-  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><!--
   --><!--
   --><!--

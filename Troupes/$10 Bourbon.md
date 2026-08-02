@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Alex Nixon">Alex Nixon</a></li><!--
   --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Erin Plischke">Erin Plischke</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Plischke">Erin Plischke</a></li><!--
   --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
   --><!--
   --><!--

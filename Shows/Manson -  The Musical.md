@@ -26,7 +26,7 @@
   --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Ausanka Reese">Joel Ausanka Reese</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><li style="" ><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Madeline Chauvin">Madeline Chauvin</a></li><!--
   --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
@@ -149,13 +149,13 @@ The 2012 revival ran on Fridays and Saturdays in May.
 * Sadie -- [[Roxy Castillo]]
 * Lulu -- [[Laura Komkov]]
 * Katie -- [[Performers/Madeline Chauvin|Madeline Chauvin]]
-* The Beatles/The Monkees/The Beach Boys -- [[Performers/Mitchell Deane|Mitchell Deane]], [[Steve Glazer]], [[Performers/David Lampe|David Lampe]], and [[Kevin Machate]]
+* The Beatles/The Monkees/The Beach Boys -- [[Performers/Mitchell Deane|Mitchell Deane]], [[Steve Glazer]], [[Performers/David Lampe|David Lampe]], and [[Performers/Kevin Machate|Kevin Machate]]
 * Sharon Tate -- [[Ashley Lowe]]
 * Jay Sebring -- [[Steve Glazer]]
 * Abigail Folger -- [[Performers/Heidi Caldwell|Heidi Caldwell]]
-* Voytek Frykowski -- [[Kevin Machate]]
+* Voytek Frykowski -- [[Performers/Kevin Machate|Kevin Machate]]
 * Rosemary LaBianca -- [[Ashley Lowe]]
-* Leno LaBianca -- [[Kevin Machate]]
+* Leno LaBianca -- [[Performers/Kevin Machate|Kevin Machate]]
 * Vincent Bugliosi -- [[Performers/Tom Booker|Tom Booker]]
 * Judge -- [[Performers/David Lampe|David Lampe]]
 * Interviewer -- [[Joel Ausanka Reese]]

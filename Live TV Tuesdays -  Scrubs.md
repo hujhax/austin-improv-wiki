@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -132,10 +132,10 @@
   --><li style=""><a class="internal-link" href="Benjamin Scott">Benjamin Scott</a></li><!--
   --><li style=""><a class="internal-link" href="Carrie H. Stephens">Carrie H. Stephens</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
-  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
   --><li style=""><a class="internal-link" href="Richard Dodwell">Richard Dodwell</a></li><!--
   --><li style=""><a class="internal-link" href="Tatiana Artis">Tatiana Artis</a></li><!--
@@ -253,19 +253,19 @@ It played exclusively at [[The Institution Theater]].
 * Dr. Christopher Turk -- [[Performers/Adam Mengesha|Adam Mengesha]]
 * Nurse Carla Espinoza -- [[Tatiana Artis]]
 * Dr. Elliot Reid -- [[Laura Komkov]]
-* Dr. Perry Cox -- [[Kevin Machate]]
+* Dr. Perry Cox -- [[Performers/Kevin Machate|Kevin Machate]]
 * Dr. Bob Kelso -- [[Richard Dodwell]]
 * Patti Miller/Ensemble -- [[Carrie H. Stephens]]
 * Nurse LaVerne Roberts -- [[Benjamin Scott]]
 * The Janitor -- [[Performers/Howard Katz|Howard Katz]]
-* Troubadour/Ted -- [[David Rosenbaum]]
+* Troubadour/Ted -- [[Performers/David Rosenbaum|David Rosenbaum]]
 * Jordan/Ensemble -- [[Performers/Adriane Shown|Adriane Shown]]
 * Doug/Ensemble -- [[Andy Hush]]
 * Chet/Ensemble -- [[Performers/Chris Villafano|Chris Villafano]]
 * Gooch -- [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]]
 
 ## Crew
-* Produced and Directed by -- [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]], [[Kevin Machate]]
+* Produced and Directed by -- [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]], [[Performers/Kevin Machate|Kevin Machate]]
 * Executive Producers -- [[Performers/Tom Booker|Tom Booker]], [[Diana Caldwell]], [[Jesse Prebix]]
 * Choreographer -- [[Performers/Carissa McAtee|Carissa McAtee]]
 * Music Arranger -- [[Stefan DelBosque]]

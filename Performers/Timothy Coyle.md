@@ -107,7 +107,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * *[[Ceej Character Explosion]]* Produced by ([[Performers/Ceej Allen|Ceej Allen]])
 * *[[Hug Day]]* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
 * *[[PLANK-A-THON!]]* Produced by ([[Performers/Joy Parks|Joy Parks]]) 
-* *[[Hideout Action News Team]]* Produced by ([[Sushant Sethi]]) 
+* *[[Hideout Action News Team]]* Produced by ([[Performers/Sushant Sethi|Sushant Sethi]]) 
 * *[[Take me out to the Ballgame]]* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
 * *[[Tim In A Cup]]* Produced by ([[Angie Alegria Smith]])
 * *[[Troupes/You Bet Your Life|You Bet Your Life]]* Produced by ([[Performers/Robert Slack|Robert Slack]])

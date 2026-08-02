@@ -20,7 +20,7 @@
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="JenRaye Adams">JenRaye Adams</a></li><!--
   --><li style=""><a class="internal-link" href="Logan Williams">Logan Williams</a></li><!--

@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Bill Price">Bill Price</a></li><!--
   --><li style=""><a class="internal-link" href="Carla Goodman">Carla Goodman</a></li><!--
-  --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
   --><li style=""><a class="internal-link" href="Jiovani Galo">Jiovani Galo</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
   --><li style=""><a class="internal-link" href="Kacy Todd">Kacy Todd</a></li><!--
@@ -90,7 +90,7 @@ This show was referred to as "*Teen Angst Tuesdays, Featuring *Dawson's Creek".
 It played exclusively at [[The Highball]].
 
 ## Cast
-* Dawson Leery -- [[Cody Melcher]]
+* Dawson Leery -- [[Performers/Cody Melcher|Cody Melcher]]
 * Joey Potter -- [[Kelli Bland]]
 * Jen Lindley -- [[Kacy Todd]]
 * Pacey Witter -- [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]

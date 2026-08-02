@@ -136,7 +136,7 @@
 ***Holy 1960's Batman, Batman!*** was an improvised longform narrative show inspired by [[Wikipedia - Batman (TV series)|the 1960's *Batman* TV series]].
 
 ## Cast & Crew
-[[Deano Jones]] appeared as Batman/Bruce Wayne, and [[Performers/Kaci Beeler|Kaci Beeler]] played Robin/Dick Grayson.
+[[Performers/Deano Jones|Deano Jones]] appeared as Batman/Bruce Wayne, and [[Performers/Kaci Beeler|Kaci Beeler]] played Robin/Dick Grayson.
 
 The rest of the cast were ensemble players.
  
@@ -154,7 +154,7 @@ Each week, a guest improvisor would play the villain of the episode.  The villia
 ## History
 Early takes on the format appeared under the title "Holy Sleep Deprivation, Batman" at [[The 40-Hour Improv Marathon]] and [[The 41-Hour Improv Marathon]].
 
-[[Performers/Kaci Beeler|Kaci Beeler]] and [[Deano Jones]] appeared live on [[Wikipedia - KEYE-TV|KEYE-TV]] on 5/11/11 to promote the show.
+[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Deano Jones|Deano Jones]] appeared live on [[Wikipedia - KEYE-TV|KEYE-TV]] on 5/11/11 to promote the show.
 
 The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]].  Its mainstage run included appearances in [[The 42-Hour Improv Marathon]] and [[The 2011 Improvised Play Festival]].
 
@@ -170,13 +170,13 @@ On 2/28/13, [[Performers/Eric Heiberg|Eric Heiberg]] and [[Performers/Curtis Luc
 * [Publicity photos for the mainstage run.](http://www.facebook.com/media/set/?set=a.10150154016553510.295261.24535278509&type=3)
 * [Pictures from their live appearance on KEYE.](http://www.facebook.com/media/set/?set=a.1879506000571.105920.1628915954&type=3)
 * [Photoset](http://www.facebook.com/media/set/?set=a.123789247702107.31360.100002130980897&type=3) by [[Steve Rogers]] of the 5/14/11 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3) posted by [[Deano Jones]] of the 5/21/11 performance ("The Baguette").
+* [Photoset](http://www.facebook.com/media/set/?set=a.1909076659819.107287.1628915954&type=3) posted by [[Performers/Deano Jones|Deano Jones]] of the 5/21/11 performance ("The Baguette").
 	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes a 5/21/11 cast photo.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes the 5/28/11 performance, featuring guest villain [[Performers/Tom Booker|Tom Booker]] (as "The Toupee").
 	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100853951601020.3219630.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/11/11 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3) posted by [[Deano Jones]] of their Black Box Festival performance in Atlanta
+* [Photoset](http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3) posted by [[Performers/Deano Jones|Deano Jones]] of their Black Box Festival performance in Atlanta
 
 ### Other
 * Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_1/photo%201_1.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/batman_and_robin/batman_and_robin.jpg?disposition=download).

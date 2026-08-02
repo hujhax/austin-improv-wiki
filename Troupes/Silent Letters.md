@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/86047403) by [[Kyle Sweeney]] of their "1st Drivers License" show (uploaded 2/6/14).
+* [Video](http://vimeo.com/86047403) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "1st Drivers License" show (uploaded 2/6/14).
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Active|Category:Active]]

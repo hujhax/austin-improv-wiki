@@ -73,7 +73,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Lindsey McGowen]]</td>
+			<td class="category">[[Performers/Lindsey McGowen|Lindsey McGowen]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -125,7 +125,7 @@ The Austin-based core cast of *History Under the Influence* is listed below, but
 * [[Performers/Aspen Webster|Aspen Webster]]
 * [[Performers/Chris Curl|Chris Curl]]
 * [[Performers/Thedward Blevins|Thedward Blevins]]
-* [[Lindsey McGowen]] or [[Cynthia Ward]] on tech
+* [[Performers/Lindsey McGowen|Lindsey McGowen]] or [[Cynthia Ward]] on tech
 
 ## Media
 ### Photos

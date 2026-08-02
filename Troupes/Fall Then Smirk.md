@@ -78,7 +78,7 @@ The troupe was set up to be an analog to [[Troupes/The Frank Mills|The Frank Mil
 * [[Brent Foshee]] as [[Todd Schanbacher]]
 * [[Performers/Brett Tribe|Brett Tribe]] as [[Performers/Dave Buckman|Dave Buckman]]
 * [[Performers/Kate Bojanek|Kate Bojanek]] as [[Performers/Rachel Madorsky|Rachel Madorsky]]
-* [[Sam Malcolm]] as [[Performers/Bob McNichol|Bob McNichol]]
+* [[Performers/Sam Malcolm|Sam Malcolm]] as [[Performers/Bob McNichol|Bob McNichol]]
 	* (Sam was unable to make it to the show.)
 
 ## History

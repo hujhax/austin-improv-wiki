@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a> <a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a> <a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -97,7 +97,7 @@ The show originated as the Sunday-2am slot of [[The 43-Hour Improv Marathon]], w
 
 It was brought back many times as part of *[[Shows/The Free Fringe|The Free Fringe]]*, with performance dates on 7/19/12, 9/27/12, 10/25/12, and (for a special "Christmas *Tech Nightmare*") 12/13/12.  It was part of [[The 44-Hour Improv Marathon]] and [[The 45-Hour Improv Marathon]].
 
-[[Lindsey McGowen]] was added as a permanent member of the tech team after her debut in [[The 45-Hour Improv Marathon]].
+[[Performers/Lindsey McGowen|Lindsey McGowen]] was added as a permanent member of the tech team after her debut in [[The 45-Hour Improv Marathon]].
 
 ## Media
 * 12/13/12 performance:

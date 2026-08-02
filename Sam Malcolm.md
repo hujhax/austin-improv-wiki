@@ -1,1 +1,0 @@
-Sam Malcolm is a member of Movie Riot.

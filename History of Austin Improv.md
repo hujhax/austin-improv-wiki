@@ -12,7 +12,7 @@ In 1997 Austin landed on the national improv and sketch map with the first annua
 
 In 1998 [[Performers/Sean Hill|Sean Hill]] and [[Performers/David Lampe|David Lampe]] hosted auditions for [[Troupes/We Could Be Heroes|Austin Theatresports]] and their first show was a [[Shows/Maestro|Maestro]] (aka [[Shows/Micetro|Micetro]]), at the Public Domain Theater on Congress Ave. in February of 1999 with Dan O'Connor and Brian Lohman directing. Soon after Austin Theatersports began a run at the Hyde Park Theater, and then in late 1998, Sean started work on a new improv theater and coffee house called the Hideout.
 
-1999 Austin ComedySportz hosted the National Championship of ComedySportz with 22 teams from across the country (and won the National Championship). Around the same time ComedySportz players [[Owen Egerton]] and [[Jerm Pollett]] started the hit movie commentary show [[Master Pancake Theater|Mr. Sinus Theater 3000]](now known as [[Master Pancake Theater]]) at the Alamo Drafthouse. 
+1999 Austin ComedySportz hosted the National Championship of ComedySportz with 22 teams from across the country (and won the National Championship). Around the same time ComedySportz players [[Performers/Owen Egerton|Owen Egerton]] and [[Jerm Pollett]] started the hit movie commentary show [[Master Pancake Theater|Mr. Sinus Theater 3000]](now known as [[Master Pancake Theater]]) at the Alamo Drafthouse. 
 
 ## The Boom and the Bust
 In 1999 the improv scene was booming. There were many venues: [[The Velveeta Room]], [[The Bad Dog Comedy Theater]], [[The ComedySportz Playhouse]] and even [[Cap City Comedy Club]] and [[Esther's Follies]] would host improv from time to time. There were lots of troupes: Austin Theatresports, ComedySportz, [[Troupes/Monks' Night Out|Monks' Night Out]], [[Troupes/Well Hung Jury|Well Hung Jury]], [[Troupes/Code Blue|Code Blue]], [[The Cheese Pistols]], [[Ray Prewitt's 4th Grade Class]], [[Troupes/Fatbuckle|Fatbuckle]], [[The Skinnies]], [[The Inflatable Egos]], [[Troupes/Only 90% Effective|Only 90% Effective]] and many more troupes lost to the mists of time. [[Big Stinkin' Improv and Sketch Comedy Festival]] was getting bigger and stinkier by the year, bringing in top talent from stage, television and film.
@@ -30,7 +30,7 @@ In March of 2008 [[The Merlin Works Institute for Improvisation]] and [[Gnap! Th
 
 ComedySportz resumed weekly shows at [[Cafe Caffeine]] in south Austin in the fall of 2008. 
 
-In 2009 former ColdTowne members [[Chris Trew]] and [[Tami Nelson]] opened [[The New Movement]] in east Austin as a home for all forms of comedy. (In 2012 they opened a branch of the New Movement in New Orleans.)  
+In 2009 former ColdTowne members [[Performers/Chris Trew|Chris Trew]] and [[Performers/Tami Nelson|Tami Nelson]] opened [[The New Movement]] in east Austin as a home for all forms of comedy. (In 2012 they opened a branch of the New Movement in New Orleans.)  
 
 In 2010 LA transplant [[Performers/Tom Booker|Tom Booker]] and New York transplant [[Performers/Asaf Ronen|Asaf Ronen]] opened the [[Institution Theater]] in south Austin. 
 

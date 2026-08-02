@@ -79,7 +79,7 @@
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Chris Canada">Chris Canada</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
-  --><li style=""><a class="internal-link" href="Courtney Ray Goodson">Courtney Ray Goodson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Ray Goodson">Courtney Ray Goodson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><!--

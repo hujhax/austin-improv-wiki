@@ -24,7 +24,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Aron Taylor">Aron Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Elizabeth Bigger">Elizabeth Bigger</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
   --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--

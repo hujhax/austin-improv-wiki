@@ -29,7 +29,7 @@ Winners are listed in **bold text**.
 ### Favorite Director of a Scripted Show
 * [[Performers/Asaf Ronen|Asaf Ronen]], for *[[Live TV Tuesdays -  Firefly]]*
 * **[[Performers/Heidi Caldwell|Heidi Caldwell]], for *[[Live TV Tuesdays -  Doctor Horrible's Sing-Along Blog]]***
-* [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] & [[Kevin Machate]], for *[[Live TV Tuesdays -  Scrubs]]*
+* [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] & [[Performers/Kevin Machate|Kevin Machate]], for *[[Live TV Tuesdays -  Scrubs]]*
 * [[Performers/Ted Meredith|Ted Meredith]], for *[[Live TV Tuesdays -  Freaks and Geeks]]*
 
 ### Favorite Director of an Improvised Show
@@ -97,7 +97,7 @@ Winners are listed in **bold text**.
 * [[Andrew Maniaci]]
 * [[Andrew Robinson]]
 * [[Performers/Heath Allyn|Heath Allyn]]
-* [[Kevin Machate]]
+* [[Performers/Kevin Machate|Kevin Machate]]
 * [[Mars Wright]]
 * [[Steve Glazier]]
 * **[[Performers/Wyatt Tall|Wyatt Tall]]**

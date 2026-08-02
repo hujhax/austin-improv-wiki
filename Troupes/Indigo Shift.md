@@ -82,7 +82,7 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 
 Maxwell and Brockman recruited [[Performers/Kacey Samiee|Kacey Samiee]] and [[Performers/Sarah Marie Curry|Sarah Marie Curry]] to round out the troupe and they began rehearsing and hashing out the mechanics of the format.  Curry soon had to drop out of the project and the remaining trio debuted on 10/8/11, opening for [[Troupes/Get Up|Get Up]] in [[Shows/The Saturday Night Special|The Saturday Night Special]].
 
-The troupe took a brief hiatus while Maxwell and Brockman fulfilled other professional obligations, but returned in 2012.  Brockman left the group shortly before their show in [[The 2012 Out of Bounds Comedy Festival]], but Maxwell and Samiee's long time friend and collaborator [[Jeffrey Amos]] filled in for the performance and officially joined as the troupe's new third member and musical accompanist.  Because Amos currently resides outside of Texas, Indigo Shift has invited guest improviser/musicians to play, including [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], [[Performers/Cindy Page|Cindy Page]], [[Performers/Craig Kotfas|Craig Kotfas]], [[Performers/Ryan Hill|Ryan Hill]], [[Lindsey McGowen]], [[Performers/Tosin awofeso|Tosin awofeso]], and [[Performers/Bill Stern|Bill Stern]].
+The troupe took a brief hiatus while Maxwell and Brockman fulfilled other professional obligations, but returned in 2012.  Brockman left the group shortly before their show in [[The 2012 Out of Bounds Comedy Festival]], but Maxwell and Samiee's long time friend and collaborator [[Jeffrey Amos]] filled in for the performance and officially joined as the troupe's new third member and musical accompanist.  Because Amos currently resides outside of Texas, Indigo Shift has invited guest improviser/musicians to play, including [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], [[Performers/Cindy Page|Cindy Page]], [[Performers/Craig Kotfas|Craig Kotfas]], [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Lindsey McGowen|Lindsey McGowen]], [[Performers/Tosin awofeso|Tosin awofeso]], and [[Performers/Bill Stern|Bill Stern]].
 
 In 2015, the troupe performed a four show run at [[The Institution Theater]] billed as the Indigo Shift Cabaret, featuring guest acts such as [[Troupes/Confidence Men|Confidence Men]], [[Troupes/The Knuckleball Now|The Knuckleball Now]], [[Troupes/The Escorts|The Escorts]], and [[Love Vigilantes]] with special appearances by [[Performers/Tom Booker|Tom Booker]] as Mr. Morbid, [[Performers/Adriane Shown|Adriane Shown]] as Gentress Helena Black, [[Performers/Marc Majcher|Marc Majcher]] as Jean Paul from [[Shows/Hurly Burly|Hurly Burly]], and [[Performers/Brently Heilbron|Brently Heilbron]] as Milo from [[Shows/Fragile Rock|Fragile Rock]], and musical accompaniment from a rotating combination of their past musicians.  After guesting in the final night of this run, Curry returned to the troupe.  Page was then brought on as the full time musical accompaniment while Amos went on hiatus from the troupe to focus on graduate school.  
 
@@ -106,7 +106,7 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 
 **Nigel**  ([[Performers/Ryan Hill|Ryan Hill]])
 
-**Lili** ([[Lindsey McGowen]])
+**Lili** ([[Performers/Lindsey McGowen|Lindsey McGowen]])
 
 **Tommy Two Hands Tutucci** ([[Performers/Tosin awofeso|Tosin awofeso]])
 
@@ -135,7 +135,7 @@ They have also performed at [[The 2013 Out of Bounds Comedy Festival]], Improvag
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3) by [[Michael Yew]] of their 12/20/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2014/Indigo-Shift-20140418/) by [[Performers/Chad Wellington|Chad Wellington]] of their 4/18/14 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528972488304.1073741902.1315383518&type=3) by [[Michael Yew]] that includes their show at [[The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10152831848412265.1073741860.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/10/14 performance in [[Shows/Mister Morbid|Mister Morbid]], featuring [[Lindsey McGowen]] as their guest musician.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10152831848412265.1073741860.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/10/14 performance in [[Shows/Mister Morbid|Mister Morbid]], featuring [[Performers/Lindsey McGowen|Lindsey McGowen]] as their guest musician.
 * [Photoset](http://www.facebook.com/media/set/?set=a.954636894599827.1073742187.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/1/15 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.877626758972671.1073741954.118587218209966&type=3) by [[Roy Moore]] of their 9/11/2015 Indigo Shift Cabaret performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1042876175775898.1073742261.221927764537414&type=3) by [[Steve Rogers]] of their 9/18/2015 Indigo Shift Cabaret performance.

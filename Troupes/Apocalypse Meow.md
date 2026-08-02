@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style=""><a class="internal-link" href="Kim Roche">Kim Roche</a></li><!--
   --><li style=""><a class="internal-link" href="Neal Trebewla">Neal Trebewla</a></li><!--
   --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--

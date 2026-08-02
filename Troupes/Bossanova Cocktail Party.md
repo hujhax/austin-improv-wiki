@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Chris Trew">Chris Trew</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>

@@ -66,7 +66,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a> (2007-2008)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a> (2007-2008)</li><!--
   --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a> (2008-2012)</li><!--
   --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a> (2012-2014)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a> (2014-Present)</li><!--
@@ -134,7 +134,7 @@
 ## Summary
 In its current incarnation, the Cagematch is a single-elimination bracket tournament.  Eight to twelve 'teams' (troupes) play against each other, first in four preliminary matches featuring two to three teams, then in two-team matches, over the course of seven weeks.  In each show, each scheduled team performs a twenty-minute set.  The audience votes for their favorite performance, and the winning team advances to the next round or (in the last match) wins the championship.  Occasionally, there is an exhibition match scheduled among the regular tournament. The winner of the exhibition match automatically gets a slot in the next tournament (provided they submit).
 
-Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild" or "Trail of Terror."  It is scheduled by the so-called "Cagematch Commissioner", a position which has been held by [[Chris Trew]] (2007-2008) and [[Michael Williams]] (2008-2012), [[Adam Trabka]] (August 2012 - April 2014), and which has been held by [[Performers/Nathan Sowell|Nathan Sowell]] since April 2014.
+Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild" or "Trail of Terror."  It is scheduled by the so-called "Cagematch Commissioner", a position which has been held by [[Performers/Chris Trew|Chris Trew]] (2007-2008) and [[Michael Williams]] (2008-2012), [[Adam Trabka]] (August 2012 - April 2014), and which has been held by [[Performers/Nathan Sowell|Nathan Sowell]] since April 2014.
 
 ## History
 ![[Cagematch2x4.jpg|The winners of *The Cagematch* are recorded on a 2x4 mounted on the wall at ColdTowne Theater.]]

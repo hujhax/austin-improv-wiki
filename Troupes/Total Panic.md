@@ -77,7 +77,7 @@
 * [Photoset](https://www.flickr.com/photos/coldtowne/sets/72157619852025521) of their 6/14/09 premiere.
 
 ## History
-Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 after the debut in December 2008 of the previous ColdTowne Student Troupe [[Troupes/Northshore Local|Northshore Local]].  The cast was announced on 1/12/2009 with [[ColdTowne Faculty]] member [[Tami Nelson]] as the coach.  The following ColdTowne students were cast in "Troupe Six":
+Auditions for the 6th ColdTowne Student Troupe were held in early January 2009 after the debut in December 2008 of the previous ColdTowne Student Troupe [[Troupes/Northshore Local|Northshore Local]].  The cast was announced on 1/12/2009 with [[ColdTowne Faculty]] member [[Performers/Tami Nelson|Tami Nelson]] as the coach.  The following ColdTowne students were cast in "Troupe Six":
 
 * [[Aaron Parker Fasel]]
 * [[Brandt Pileggi]]

@@ -83,7 +83,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/98304072) by [[Kyle Sweeney]] of their 6/13/14 show.
+* [Video](http://vimeo.com/98304072) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 6/13/14 show.
 
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/KingstonImprov)

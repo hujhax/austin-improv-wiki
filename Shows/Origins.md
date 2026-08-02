@@ -77,7 +77,7 @@
   --><li style=""><a class="internal-link" href="Kathie Xiao">Kathie Xiao</a></li><!--
   --><li style=""><a class="internal-link" href="Paül Ramone Weiner">Paül Ramone Weiner</a></li><!--
   --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a></li><!--
-  --><li style=""><a class="internal-link" href="R Lance Hunter">R Lance Hunter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/R Lance Hunter">R Lance Hunter</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><!--

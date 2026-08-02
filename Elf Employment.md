@@ -160,7 +160,7 @@ In 2011, the show ran Fridays and Saturdays at 8pm at [[Salvage Vanguard Theater
 * [[Performers/Topping Haggerty|Topping Haggerty]]
 
 #### Guest Santas
-* 12/2: [[Deano Jones]]
+* 12/2: [[Performers/Deano Jones|Deano Jones]]
 * 12/3: [[Performers/Tom Booker|Tom Booker]]
 * 12/9: [Akina Adderley](http://aavpmusic.com/)
 * 12/10: [[Buzz Moran]]

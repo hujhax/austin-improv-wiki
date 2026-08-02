@@ -19,14 +19,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><li style=""><a class="internal-link" href="Daniel Erving">Daniel Erving</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Eli Eidson</a></li><!--
   --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
   --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
   --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
@@ -85,13 +85,13 @@ The show included stage-blood effects and fight choreography.
 
 ## Media
 ### Movies
-* [Video](http://vimeo.com/71753813) by [[Kyle Sweeney]] of their 8/3/13 debut ("Rhode Island").
-* [Video](http://vimeo.com/72208663) by [[Kyle Sweeney]] of their 8/10/13 show ("Michigan").
-* [Video](http://vimeo.com/72834889) by [[Kyle Sweeney]] of their 8/17/13 show ("Mississippi").
-* [Video](http://vimeo.com/73247254) by [[Kyle Sweeney]] of their 8/24/13 show ("South Dakota").
-* [Video](http://vimeo.com/80019621) by [[Kyle Sweeney]] of their 9/6/13 show ("Oregon").
-* [Video](http://vimeo.com/79310052) by [[Kyle Sweeney]] of their 9/13/13 show ("Virginia").
-* [Video](http://vimeo.com/78700016) by [[Kyle Sweeney]] of their 9/20/13 show ("Delaware").
+* [Video](http://vimeo.com/71753813) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 8/3/13 debut ("Rhode Island").
+* [Video](http://vimeo.com/72208663) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 8/10/13 show ("Michigan").
+* [Video](http://vimeo.com/72834889) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 8/17/13 show ("Mississippi").
+* [Video](http://vimeo.com/73247254) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 8/24/13 show ("South Dakota").
+* [Video](http://vimeo.com/80019621) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 9/6/13 show ("Oregon").
+* [Video](http://vimeo.com/79310052) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 9/13/13 show ("Virginia").
+* [Video](http://vimeo.com/78700016) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 9/20/13 show ("Delaware").
 
 ### Publicity
 * [Promo video for the show.](http://vimeo.com/71849739)

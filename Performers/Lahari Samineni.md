@@ -24,7 +24,7 @@
 
 ## Troupes
 * [[Troupes/Minority Report|Minority Report]]
-* [[Troupes/Worst First Date|Worst First Date]] (Duo with [[R Lance Hunter]])
+* [[Troupes/Worst First Date|Worst First Date]] (Duo with [[Performers/R Lance Hunter|R Lance Hunter]])
 * [[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]]
 <br>
 Past:<br>
@@ -38,3 +38,4 @@ Past:<br>
 * *[[Shows/The Ladies Room|The Ladies Room]]*
 * *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
 * *[[Shows/Teenage Wasteland|Teenage Wasteland]]* (tech: score)
+[[Category/Performers|Category:Performers]]

@@ -19,7 +19,7 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 
 ### Potluck Locations
 * 2005: [[The Hideout Theatre]], upstairs
-* 2006: [[Jen Cargill]] and [[Erin Plischke]]'s house.
+* 2006: [[Jen Cargill]] and [[Performers/Erin Plischke|Erin Plischke]]'s house.
 * 2007: [[Performers/Shannon McCormick|Shannon McCormick]]'s house.
 * 2008: [[Performers/Julie Gillis|Julie Gillis]]'s house.
 * 2009: [[Café Caffeine]]

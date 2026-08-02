@@ -2,3 +2,4 @@
 
 ## Shows
 * *[[Shows/One Small Step|One Small Step]]* (performer)
+[[Category/Performers|Category:Performers]]

@@ -69,7 +69,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Lindsey McGowen]]</td>
+			<td class="category">[[Performers/Lindsey McGowen|Lindsey McGowen]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>

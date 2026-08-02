@@ -21,7 +21,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
@@ -163,7 +163,7 @@ After its main run, the show was performed once at [[The 2011 Improvised Play Fe
 
 ### Publicity
 * [Publicity photos](http://www.facebook.com/media/set/?set=a.203882802970620.62905.203880682970832&type=3) by [[Performers/Jon Bolden|Jon Bolden]].
-* [Trailer](http://vimeo.com/22258453) by [[Deano Jones]].
+* [Trailer](http://vimeo.com/22258453) by [[Performers/Deano Jones|Deano Jones]].
 
 ### Other
 * Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_3/photo%202_3.jpg?disposition=download),[2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/violet_underbelly/violet_underbelly.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_3/photo%203_3.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_2/photo%201_2.jpg?disposition=download).

@@ -79,7 +79,7 @@
   --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a> (2015-Present)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a> (2014-Present)</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a> (2014-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a> (2015-Present)</li><!--
   --><!--
   --><!--
   --><!--

@@ -74,7 +74,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style=""><a class="internal-link" href="Jason Laney">Jason Laney</a></li><!--
   --><li style=""><a class="internal-link" href="Pat Buchta">Pat Buchta</a></li><!--
   --><!--

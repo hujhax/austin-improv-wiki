@@ -77,7 +77,7 @@
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Nicholas Marino">Nicholas Marino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicholas Marino">Nicholas Marino</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--

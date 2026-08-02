@@ -100,7 +100,7 @@ As the brainchild of founder [[Tanner Kalina]], SNAFU Improv stormed onto the Un
 * [[Jess Howard]]
 * [[John Mendell]]
 * [[Jono Deduk]]
-* [[Patrick Creamer]]
+* [[Performers/Patrick Creamer|Patrick Creamer]]
 * [[Shannon Cloud]]
 * [[Tanner Kalina]]
 

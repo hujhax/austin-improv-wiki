@@ -1,4 +1,4 @@
 ---
-redirect: "Lahari Samineni"
+redirect: "Performers/Lahari Samineni"
 ---
-#REDIRECT [[Lahari Samineni]]
+#REDIRECT [[Performers/Lahari Samineni]]

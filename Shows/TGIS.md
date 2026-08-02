@@ -70,7 +70,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
@@ -142,7 +142,7 @@ Another run Saturdays in March and April of 2015 had the same TGIS name, but wit
 Each half of the bill had its own cast.
 
 #### "Boy Greets World"
-* [[Andrew Basile]]
+* [[Performers/Andrew Basile|Andrew Basile]]
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Performers/Carlos Larotta|Carlos Larotta]]
 * [[Performers/Emma Holder|Emma Holder]]

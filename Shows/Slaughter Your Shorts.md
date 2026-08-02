@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

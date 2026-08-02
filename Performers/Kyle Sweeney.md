@@ -54,3 +54,4 @@ Outside of performing, Kyle manages to stay pretty busy working in post-producti
 * [[Thursday Night Social Club]]
 * [[The Night Show with Joshua Krilov]]
 * [[Midnight Society Presents]]
+[[Category/Performers|Category:Performers]]

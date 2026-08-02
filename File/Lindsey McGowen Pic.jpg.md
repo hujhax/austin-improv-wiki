@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Lindsey McGowen Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A quick selfie of [[Lindsey McGowen]].
+A quick selfie of [[Performers/Lindsey McGowen|Lindsey McGowen]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

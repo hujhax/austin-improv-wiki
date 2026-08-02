@@ -77,7 +77,7 @@
 * [Photoset of hours 41-43](http://www.facebook.com/media/set/?set=a.374667585930097.89589.221927764537414&type=3) from [[Steve Rogers]].
 
 ### Other
-* [*Avengers*-themed trading cards for the event](http://www.hideouttheatre.com/avengers-marathon-cards) by [[Deano Jones]].
+* [*Avengers*-themed trading cards for the event](http://www.hideouttheatre.com/avengers-marathon-cards) by [[Performers/Deano Jones|Deano Jones]].
 
 ## More Information
 * The schedule announcement, [on the forums](http://forum.austinimprov.com/viewtopic.php?p=120814) and [on the Hideout web site](http://www.hideouttheatre.com/announcing-the-43-hour-improv-marathon-schedule).

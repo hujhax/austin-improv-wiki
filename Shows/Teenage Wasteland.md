@@ -76,7 +76,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Jackie Skinner">Jackie Skinner</a> (sound effects)</li><!--
   --><li style=""><a class="internal-link" href="Joe Anetnucci">Joe Anetnucci</a> (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a> (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a> (scoring)</li><!--
   --><!--
   --><!--
   --><!--

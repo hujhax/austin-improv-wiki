@@ -76,7 +76,7 @@
 ### Press Blurb
 Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>
 <p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[The New Movement]], the members of TCG consist of [[Tom Niland]], [[Alex Berry]], [[Micheal Foulk]], [[Performers/Margaux Binder|Margaux Binder]], and [[Mandy Spivey]]. </p>
-<p>They came to know/adore/fear each other through the skillful crafting and assembling of [[Chris Trew|Chris]] and [[Tami Nelson|Tami]]. The world has never been the same since.</p>
+<p>They came to know/adore/fear each other through the skillful crafting and assembling of [[Performers/Chris Trew|Chris]] and [[Performers/Tami Nelson|Tami]]. The world has never been the same since.</p>
 </blockquote>
 
 ### "What's Your Deal?"

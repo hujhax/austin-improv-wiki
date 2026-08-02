@@ -36,7 +36,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 	* This was a story about a pleasure-planet overtaken by a Klingon bent on revenge against the show's captain.
 * Friday 8pm (hours 4 & 5): *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 	* This one featured a slight change in format: each two-hander included a marathon player and someone from the visiting *Fancy-Pants* cast.
-	* It featured the following guests: [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Andrew Buck|Andrew Buck]], [[Performers/Cat Drago|Cat Drago]], [[Performers/Chris Villafano|Chris Villafano]], [[Performers/Chuy Zarate|Chuy Zarate]], [[Performers/Dana Yanoshak|Dana Yanoshak]], [[Matthew Falkenberg]], [[Patrick Creamer]], and [[Performers/Scott Hearne|Scott Hearne]].
+	* It featured the following guests: [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Andrew Buck|Andrew Buck]], [[Performers/Cat Drago|Cat Drago]], [[Performers/Chris Villafano|Chris Villafano]], [[Performers/Chuy Zarate|Chuy Zarate]], [[Performers/Dana Yanoshak|Dana Yanoshak]], [[Matthew Falkenberg]], [[Performers/Patrick Creamer|Patrick Creamer]], and [[Performers/Scott Hearne|Scott Hearne]].
 * Friday 10pm (hour 6): [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] presented "The Tab", a montage in which all the characters were blindfolded.
 * Friday 11pm (hour 7): [[Troupes/Franz & Dave|Franz & Dave]] presented "Pine Falls", a surreal television pilot in the style of *[[Wikipedia - Twin Peaks|Twin Peaks]]*.
 	* Each marathoner got a character type from the audience at the top of the show; Franz Kafka and David Lynch narrated the story as usual.
@@ -96,7 +96,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Sunday 6am (hour 38): "The Queen Is Not Amused", wherein Jay Funky appeared via Skype, portraying the queen of England.
 * Sunday 7am (hour 39): Student Show
 	* This was a long-form narrative set in New Orleans.
-	* This show featured student guests [[Ammu Ganesan]], [[Performers/David Ronn|David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Patrick Creamer]].
+	* This show featured student guests [[Ammu Ganesan]], [[Performers/David Ronn|David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Performers/Patrick Creamer|Patrick Creamer]].
 * Sunday 8am (hour 40): *[[Shows/Care Bear Stare|Care Bear Stare]]* -- The Care Bears came to bring badly animated joy to your lives.
 	* In this show, [Care Bears](http://en.wikipedia.org/wiki/Care_Bears) based around not-exactly-G-rated emotions solved problems for the core-cast members in a longform narrative.
 	* The Care Bears:

@@ -31,7 +31,7 @@
   --><li style=""><a class="internal-link" href="Adam Pabbason">Adam Pabbason</a></li><!--
   --><li style=""><a class="internal-link" href="Andrew Ancy">Andrew Ancy</a></li><!--
   --><li style=""><a class="internal-link" href="Beth Koenig">Beth Koenig</a></li><!--
-  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Ronn">Dave Ronn</a></li><!--
   --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--
   --><li style=""><a class="internal-link" href="Johnny Anzollitto">Johnny Anzollitto</a></li><!--

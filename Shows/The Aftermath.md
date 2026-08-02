@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="Performers/JR Zambrano">JR Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Lori Hobbie">Lori Hobbie</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
-  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--

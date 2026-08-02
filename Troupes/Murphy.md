@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
   --><li style=""><a class="internal-link" href="James Sweeney">James Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
   --><!--
@@ -87,10 +87,10 @@ The troupe played [[The Out Of Bounds Comedy Festival]] in 2008, 2009, and 2010.
 ## Media
 ### Videos
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/murphy-wed-8pm-svt-oranges-stage-1266242) of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/48428583) by [[Kyle Sweeney]] of their "Darts" show (uploaded 8/29/12).
-* [Video](http://vimeo.com/49200777) by [[Kyle Sweeney]] of their "Rhubarb Pie" show (uploaded 9/10/12).
-* [Video](http://vimeo.com/51454119) by [[Kyle Sweeney]] of their "Banana" show (uploaded 10/15/12).
-* [Video](http://vimeo.com/63618693) by [[Kyle Sweeney]] of their 4/8/13 "Fork" show.
+* [Video](http://vimeo.com/48428583) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Darts" show (uploaded 8/29/12).
+* [Video](http://vimeo.com/49200777) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Rhubarb Pie" show (uploaded 9/10/12).
+* [Video](http://vimeo.com/51454119) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Banana" show (uploaded 10/15/12).
+* [Video](http://vimeo.com/63618693) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 4/8/13 "Fork" show.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Murphy-Improv-Comedy/372292768064)

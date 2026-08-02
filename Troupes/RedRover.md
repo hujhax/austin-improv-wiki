@@ -74,7 +74,7 @@
 **RedRover** was an improv troupe that asked other improviser to join them in shows (i.e., red rover, red rover, send that improvisers on over). With costumes from scrubs, to full yellow fisherman slickers, to protective suits worn by CSIs. Existed from 2008 to 2010.
 
 ## History
-Guests included [[Performers/Kristin Firth|Kristin Firth]], [[Performers/Jessica Arjet|Jessica Arjet]], [[Dav Wallace]], [[Performers/Justin Davis|Justin Davis]]
+Guests included [[Performers/Kristin Firth|Kristin Firth]], [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Dav Wallace|Dav Wallace]], [[Performers/Justin Davis|Justin Davis]]
 
 
 [[Category/Troupes|RedRover]]

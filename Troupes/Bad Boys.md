@@ -78,7 +78,7 @@ Bad Boys have been performing since July of 2010. Bad Boys was originally formed
 
 [[Danny Catlow]] and [[Adam Trabka]] have since moved to other cities in the U.S. but are still considered full members of the ensemble.
 
-In late 2012 they added two members, [[Performers/Ed Reed|Ed Reed]] and [[Sam Malcolm]]. In August 2014, they added [[Performers/Jon Bolden|Jon Bolden]].
+In late 2012 they added two members, [[Performers/Ed Reed|Ed Reed]] and [[Performers/Sam Malcolm|Sam Malcolm]]. In August 2014, they added [[Performers/Jon Bolden|Jon Bolden]].
 
 Their initial format involved interviewing an audience member as inspiration for a montage to follow, but their latent awkwardness made this uncomfortable for everyone. They quickly switched to opening with an Invocation, followed by a stream of consciousness set of scenes that lands somewhere on the spectrum between a Harold and one act play.
 
@@ -95,12 +95,12 @@ Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[
 ## Media
 ### Videos
 * [Video](http://vimeo.com/39051708) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 3/22/12 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Video](http://vimeo.com/63618694) by [[Kyle Sweeney]] of their 4/8/13 show.
+* [Video](http://vimeo.com/63618694) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 4/8/13 show.
 * [Their 6/23/13 show](http://vimeo.com/75559278) at *[[The 44-Hour Improv Marathon]]*.
 * [Video](http://vimeo.com/127561123) of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/118284473) by [[Kyle Sweeney]] of their 1/16/15 show.
-* [Video](http://vimeo.com/119881727) by [[Kyle Sweeney]] of their 2/13/15 show.
-* [Video](http://vimeo.com/140336632) by [[Kyle Sweeney]] of a 2015 "Sasquatch" show.
+* [Video](http://vimeo.com/118284473) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 1/16/15 show.
+* [Video](http://vimeo.com/119881727) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 2/13/15 show.
+* [Video](http://vimeo.com/140336632) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of a 2015 "Sasquatch" show.
 
 ### Photos
 * [Their 12/1/11 show](http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3) at *[[Shows/The Threefer|The Threefer]]* (photoset by [[Steve Rogers]]).

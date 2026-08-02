@@ -6,7 +6,7 @@
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
 * [[Linzy Beltran]]
-* [[Patrick Creamer]]
+* [[Performers/Patrick Creamer|Patrick Creamer]]
 * [[Shannon Stott]]
 * [[Tyler Groce]]
 

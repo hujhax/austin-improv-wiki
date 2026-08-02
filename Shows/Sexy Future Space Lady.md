@@ -81,7 +81,7 @@
   --><li style="" ><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Mallory Schlossberg">Mallory Schlossberg</a></li><!--
   --><li style=""><a class="internal-link" href="Monica Mahertinez">Monica Mahertinez</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
@@ -139,7 +139,7 @@
 * Costume Designer - [[Performers/Cindy Page|Cindy Page]]
 * Stage Manager - [[Jenn Hamm]]
 * Assistant Stage Manager - [[Annie Shortt]]
-* Technical Director - [[Lindsey McGowen]]
+* Technical Director - [[Performers/Lindsey McGowen|Lindsey McGowen]]
  
 ## More Information
 * [The cast/crew application.](https://docs.google.com/forms/d/e/1FAIpQLSeVMkyFyizfEjqyhVqIuY8xU_SQqE9tb7OuK4oLIUetWHAhZA/viewform)

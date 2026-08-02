@@ -42,7 +42,7 @@ Starting with *[[Shows/The Great Mundane|The Great Mundane]]* in 2006, the Hideo
 |-
 |2/1/07||3/31/07||*[[Shows/Six Degrees|Six Degrees]]*||[[Performers/Andy Crouch|Andy Crouch]], [[Performers/Sean Hill|Sean Hill]]
 |-
-|4/14/07||6/30/07||*[[Shows/TheatreSports|TheatreSports]]*||[[Dav Wallace]], [[Performers/Sean Hill|Sean Hill]]
+|4/14/07||6/30/07||*[[Shows/TheatreSports|TheatreSports]]*||[[Performers/Dav Wallace|Dav Wallace]], [[Performers/Sean Hill|Sean Hill]]
 |-
 |7/1/07||8/11/07||*[[Shows/Boys of Summer|Boys of Summer]]*||[[Troupes/Girls Girls Girls|Girls Girls Girls]]
 |-
@@ -268,7 +268,7 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
 |-
 |Jun 2018||*[[Shows/Things You Love, The Musical|Things You Love, The Musical]]*||[[Performers/Caeriel Crestin|Caeriel Crestin]]
 |-
-|Aug 2018||*[[Shows/The Well-Made Play|The Well-Made Play]]*||[[Lindsey McGowen]], [[Performers/Peter Rogers|Peter Rogers]]
+|Aug 2018||*[[Shows/The Well-Made Play|The Well-Made Play]]*||[[Performers/Lindsey McGowen|Lindsey McGowen]], [[Performers/Peter Rogers|Peter Rogers]]
 |-
 |Oct 2018||*[[Shows/Meat Cute|Meat Cute]]*||[[Performers/Monica Martinez Maher|Monica Martinez Maher]], [[Performers/Ryan Austin|Ryan Austin]]
 |-

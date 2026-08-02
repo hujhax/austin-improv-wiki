@@ -82,7 +82,7 @@
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
-  --><li style="" ><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><!--

@@ -60,7 +60,7 @@ On May 18, 2002, an audience member was selected to fill a gap in the Maestro ca
 
 In 2002 or 2003, Maestro played for an audience of two—a couple on a date, the only people who bought tickets. During the second round [[Performers/Sean Hill|Sean Hill]] directed [Twin Pillars](http://www.ehow.com/video_4949483_improv-twin-pillars.html), meaning that the scene was played for an empty house.
 
-On December 1, 2007, a special "Maestro of Maestros" was performed, directed by [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Andy Crouch|Andy Crouch]], and containing a cast of only previous Maestro winners. [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]] eventually won the title, defeating [[Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
+On December 1, 2007, a special "Maestro of Maestros" was performed, directed by [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Andy Crouch|Andy Crouch]], and containing a cast of only previous Maestro winners. [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]] eventually won the title, defeating [[Performers/Dav Wallace|Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
 
 On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience played the final tie-breaker scene using [Speak in One Voice](http://learnimprov.com/?p=237) with [[Performers/Peter Rogers|Peter Rogers]], and collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 

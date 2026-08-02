@@ -49,7 +49,7 @@
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
@@ -253,7 +253,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Valerie Ward|Valerie Ward]]
 
 #### Crew
-* [[Lindsey McGowen]] (tech director)
+* [[Performers/Lindsey McGowen|Lindsey McGowen]] (tech director)
 * [[Ian Markot]]
 * [[Performers/Mike Reed|Mike Reed]]
 * [[Performers/Norman Tran|Norman Tran]]
@@ -272,10 +272,10 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Lisa Michelle Jackson|Lisa Michelle Jackson]]
 * [[Performers/Luke Wallens|Luke Wallens]]
 * [[Performers/Margaret Rose Hunsicker|Margaret Rose Hunsicker]]
-* [[Patrick Creamer]]
+* [[Performers/Patrick Creamer|Patrick Creamer]]
 
 #### Crew
-* [[Lindsey McGowen]] (technical director)
+* [[Performers/Lindsey McGowen|Lindsey McGowen]] (technical director)
 * [[Performers/Brent Chismark|Brent Chismark]]
 * [[Bonnie Dilber]]
 * [[Casey Quinlan]]
@@ -300,7 +300,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 
 #### Crew
 * Stage Management: [[Bonnie Dilber]]
-* Technical Direction: [[Lindsey McGowen]]
+* Technical Direction: [[Performers/Lindsey McGowen|Lindsey McGowen]]
 * Technical Improvisers: [[Biz Gilmore]] and [[Performers/Cindy Page|Cindy Page]]
 * Scenic and Visual Design: [[Performers/Kaci Beeler|Kaci Beeler]]
 

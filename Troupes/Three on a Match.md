@@ -82,9 +82,9 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 
 ## Media
 ### Videos
-* [Video](https://vimeo.com/119567768) by [[Kyle Sweeney]] of their 2/4/15 show.
-* [Video](https://vimeo.com/119881726) by [[Kyle Sweeney]] of their 2/13/15 show.
-* [Video](https://vimeo.com/120640690) by [[Kyle Sweeney]] of their 2/20/15 show.
+* [Video](https://vimeo.com/119567768) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 2/4/15 show.
+* [Video](https://vimeo.com/119881726) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 2/13/15 show.
+* [Video](https://vimeo.com/120640690) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 2/20/15 show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/14 performance in *[[Shows/The Threefer|The Threefer]]*.

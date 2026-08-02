@@ -34,3 +34,4 @@ Lance began taking classes at [[The Hideout Theatre]] on 3/9/13.
 
 ## More Information
 * [Lance Hunter](https://www.facebook.com/lancehunterart) promotional page on Facebook.
+[[Category/Performers|Category:Performers]]

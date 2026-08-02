@@ -75,7 +75,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a> (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--

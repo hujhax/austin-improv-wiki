@@ -30,7 +30,7 @@
   --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
-  --><li style=""><a class="internal-link" href="Tami Nelson">Tami Nelson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -93,7 +93,7 @@ The troupe debuted in *[[Shows/The Cagematch|The Cagematch]]* on 7/14/06 with th
 * [[Performers/Kaci Beeler|Kaci Beeler]]
 * [[Pseudonyms|Madeline M.]]
 * [[Performers/Rachel Madorsky|Rachel Madorsky]]
-* [[Tami Nelson]]
+* [[Performers/Tami Nelson|Tami Nelson]]
 
 This run included a show at [[The 2006 Out of Bounds Comedy Festival]].  The last performance on record for that incarnation is a 4/27/07 performance in *[[Shows/The Threefer|The Threefer]]*.
 

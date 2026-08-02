@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Lunch Pail** (also written **Lunchpail**) is a [[ColdTowne]] improv troupe.
 
 ## Summary
-Formed by [[ColdTowne]] graduates [[Performers/Matt Needles|Matt Needles]], [[Alejandro Garcia]], and [[Andrew Basile]], Lunchpail is troupe that performs a show for an audience: THE AUDIENCE IS YOU!
+Formed by [[ColdTowne]] graduates [[Performers/Matt Needles|Matt Needles]], [[Alejandro Garcia]], and [[Performers/Andrew Basile|Andrew Basile]], Lunchpail is troupe that performs a show for an audience: THE AUDIENCE IS YOU!
 
 ## Media
 ### Videos

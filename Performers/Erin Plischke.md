@@ -30,3 +30,4 @@
 
 ## Shows
 * *[[Troupes/ComedySportz|ComedySportz]]*
+[[Category/Performers|Category:Performers]]

@@ -19,7 +19,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><li style=""><a class="internal-link" href="Cynthia Oelkers">Cynthia Oelkers</a></li><!--
   --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--

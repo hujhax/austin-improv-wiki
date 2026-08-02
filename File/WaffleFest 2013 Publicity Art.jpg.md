@@ -3,7 +3,7 @@
 ## Summary
 Publicity art for [[WaffleFest 2013]].
 
-Art by [[Deano Jones]].
+Art by [[Performers/Deano Jones|Deano Jones]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

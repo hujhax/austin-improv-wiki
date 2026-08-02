@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Bobby Stover">Bobby Stover</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
   --><li style=""><a class="internal-link" href="Frances Nguyen">Frances Nguyen</a></li><!--
-  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
   --><li style=""><a class="internal-link" href="Justin Soileau">Justin Soileau</a></li><!--

@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Blaine Paradise">Blaine Paradise</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
   --><li style=""><a class="internal-link" href="Christian Huey">Christian Huey</a></li><!--
-  --><li style=""><a class="internal-link" href="Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
   --><li style=""><a class="internal-link" href="Fred Winkler">Fred Winkler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
   --><li style=""><a class="internal-link" href="Roanna Flowers">Roanna Flowers</a></li><!--
@@ -95,7 +95,7 @@ It played exclusively at [[The Highball]].
 * Justin -- [[Christian Huey]]
 * Kirsten -- [[Performers/Taylor Overstreet|Taylor Overstreet]]
 * Sarah -- [[Jessica Simmons]]
-* Will -- [[Cody Melcher]]/[[Tyler Reece Booker]]
+* Will -- [[Performers/Cody Melcher|Cody Melcher]]/[[Tyler Reece Booker]]
 
 ## Media
 * [The dance scene from the 8/23/11 performance.](http://youtu.be/M-9woBN_azM)

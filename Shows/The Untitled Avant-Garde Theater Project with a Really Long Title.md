@@ -34,7 +34,7 @@
   --><li style=""><a class="internal-link" href="Michelle Dahlenburg">Michelle Dahlenburg</a></li><!--
   --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
   --><li style=""><a class="internal-link" href="Raymond Gutierrez">Raymond Gutierrez</a></li><!--
-  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><li style="" ><a class="internal-link" href="Zac Carr">Zac Carr</a></li><!--
   --><li style=""><a class="internal-link" href="Sue Jordan">Sue Jordan</a></li><!--
   --><!--
@@ -83,7 +83,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a> (scoring, from-the-booth effects)</li><!--
-  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a> (stage manager)</li><!--
   --><!--
   --><!--
   --><!--

@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Kathleen McFerrin">Kathleen McFerrin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style=""><a class="internal-link" href="Rachel Denton">Rachel Denton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
@@ -75,7 +75,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
-  --><li style=""><a class="internal-link" href="R. Lance Hunter">R. Lance Hunter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/R. Lance Hunter">R. Lance Hunter</a></li><!--
   --><!--
   --><!--
   --><!--

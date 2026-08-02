@@ -26,7 +26,7 @@
 **The New Movement** is a family of comedy theaters and training centers in Louisiana and formerly in Texas, focusing on long form improv and sketch comedy writing.
 
 ## Summary
-The New Movement theater is owned and operated by [[Chris Trew]] and [[Tami Nelson]].
+The New Movement theater is owned and operated by [[Performers/Chris Trew|Chris Trew]] and [[Performers/Tami Nelson|Tami Nelson]].
 
 The original Austin theater opened for classes in February 2009 and began running shows on January 13th 2010.
 

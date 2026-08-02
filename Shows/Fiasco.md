@@ -22,7 +22,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -86,7 +86,7 @@
   --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a> (Sound Effects Lead)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a> (Stage Manager)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a> (Scoring Tech)</li><!--
-  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (Light & Multimedia Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (Light & Multimedia Lead)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a> (Lighting Tech)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a> (Multimedia Tech)</li><!--
   --><!--

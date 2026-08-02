@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Eric Rutherford">Eric Rutherford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika McNichol">Erika McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--

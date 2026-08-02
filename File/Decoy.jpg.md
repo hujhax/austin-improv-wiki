@@ -3,7 +3,7 @@
 ## Summary
 Video still of [[Troupes/Decoy|Decoy]], from their first performance.
 
-From a video by [[Kyle Sweeney]].
+From a video by [[Performers/Kyle Sweeney|Kyle Sweeney]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

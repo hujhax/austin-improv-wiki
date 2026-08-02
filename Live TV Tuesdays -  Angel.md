@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Reese">Joel Reese</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
@@ -103,7 +103,7 @@ This was one of the most ambitious *TV Tuesdays* shows in terms of production.  
 * Lorne -- [[Joel Reese]]
 * Nina -- [[Performers/Carissa McAtee|Carissa McAtee]]
 * Harmony -- [[Performers/Heidi Caldwell|Heidi Caldwell]]
-* Spike/Framkin -- [[Kevin Machate]]
+* Spike/Framkin -- [[Performers/Kevin Machate|Kevin Machate]]
 * Polo -- [[Performers/Sara Farr|Sara Farr]]
 * Flora -- [[Performers/Heidi Caldwell|Heidi Caldwell]]
 * Groofus/Knox -- [[Performers/Chad Wellington|Chad Wellington]]

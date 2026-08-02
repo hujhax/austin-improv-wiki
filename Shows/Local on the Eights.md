@@ -69,7 +69,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Lindsey McGowen]]</td>
+			<td class="category">[[Performers/Lindsey McGowen|Lindsey McGowen]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Dramaturg(s)</th>
@@ -140,7 +140,7 @@
   --><li style=""><a class="internal-link" href="Jennifer Banister">Jennifer Banister</a></li><!--
   --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Rose">Scott Rose</a></li><!--
-  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--

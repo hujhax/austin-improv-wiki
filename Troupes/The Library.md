@@ -85,7 +85,7 @@ The troupe began as a *[[Shows/Free Fringe|Free Fringe]]* one-off on 2/9/12.
 ### Former Members
 * [[Performers/Jon Bolden|Jon Bolden]]
 * [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
-* [[Ben Masten]] 
+* [[Performers/Ben Masten|Ben Masten]] 
 
 ## Media
 ### Videos

@@ -323,7 +323,7 @@ Headliners
 The 7 Dwarves whistle while they work, But beatbox with Snow in their off times. Cinderella€™s stepmom is a jerk, But did you know she spits sick rhymes? The Big Bad Wolf ate a granny himself And his big bad rhymes put a Grammy on the shelf! Crass City presents Storybook Rhymz - improvised stories and rap songs by characters from your favorite tales. Cast: [[Chris Sebilia]], [[Cassidy Santiago]], [[Performers/Eric Heiberg|Eric Heiberg]] 
 
 #### *May I speak to Batman?* ([[Performers/Ellen Pittsford|Ellen Pittsford]])
-Comic books only tell the exciting parts of the story. Maybe when superheroes aren't fighting evil, they take their dogs for walks. They get a beer with some buddies. They kiss their wife goodnight. And they keep their identity a SECRET. Come see what happens as our completely improvised superhero walks the line between living two lives! starring: [[Deano Jones]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Jessie Pascarelli|Jessie Pascarelli]], and [[Performers/Ellen Pittsford|Ellen Pittsford]]
+Comic books only tell the exciting parts of the story. Maybe when superheroes aren't fighting evil, they take their dogs for walks. They get a beer with some buddies. They kiss their wife goodnight. And they keep their identity a SECRET. Come see what happens as our completely improvised superhero walks the line between living two lives! starring: [[Performers/Deano Jones|Deano Jones]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Jessie Pascarelli|Jessie Pascarelli]], and [[Performers/Ellen Pittsford|Ellen Pittsford]]
 
 #### *[[Troupes/Animal Farm|Animal Farm]]* ([[Performers/Jessica Arjet|Jessica Arjet]])
 Animal Farm - Swift like a Cheetah, clever like a Fox, we all have a bit of an animal in us. Now when Sarah Marie and Jessica let that animal side out, guess what happens? Two hilarious characters emerge to perform some crazy, silly, sublime stories for you. All Improv is Equal, but some is more Equal than others....
@@ -1359,7 +1359,7 @@ Ordinarily improv for kids, The Flying Theater Machine takes their recent Wonder
 #### Celebrity Improv 101 ([[Performers/Caeriel Crestin|Caeriel Crestin]])
 "We gather a bunch of imps who can do decent celebrity impressions. These celebrities have all enrolled in a Level One improv class. We get to watch. ([[Performers/Ruby Willmann|Ruby]] had a dream where Bruce Willis and John Travolta showed up to a class she was teaching.)"
 
-#### Synesthesia ([[Lindsey McGowen]])
+#### Synesthesia ([[Performers/Lindsey McGowen|Lindsey McGowen]])
 "So, I have a looping pedal, and a couple of vocal effects pedals. I also have sound > color synesthesia, which means that sounds have particular color and sensory inputs for me.
 
 I would like to improvise soundscapes (a la [[Wikipedia - Sigur Ros|Sigur Ros]]) based on sense memories - i.e. memories that have a very strong sensory component.
@@ -1483,7 +1483,7 @@ Headliners
 #### Into the Fridge ([[Performers/Heidi Rogers|Heidi Rogers]])
 Some people are stuck in a fridge. How? Who knows. Why? Who can say. But we'll learn all about it in this show.
 
-#### Spoiler Alert ([[Patrick Creamer]])
+#### Spoiler Alert ([[Performers/Patrick Creamer|Patrick Creamer]])
 We see the end of a story first, and then work our way back up from the beginning. It's avant garde non-traditional narrative, y'all!
 
 #### Arjet Universe
@@ -1567,7 +1567,7 @@ This Thursday at the Free Fringe, we're premiering Tales from the Black Vault, a
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Kevin Miller|Kevin Miller]]
 
 ### November 6, 2014 (the 128th show)
-#### PSA ([[Sushant Sethi]])
+#### PSA ([[Performers/Sushant Sethi|Sushant Sethi]])
 Inspired by public service campaigns of your childhood like "Your Brain on Drugs", "Smokey the Bear", and others. Come watch us warn you about the dangers of the world inspired by an audience suggestion!
 
 #### Nonething and Everning ([[Performers/Megan Sherrod|Megan Sherrod]])
@@ -1658,7 +1658,7 @@ Were they right? Let's find out.
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Ceej Allen|Ceej Allen]].
 
 ### January 15, 2015 (the 133rd show)
-#### Worst First Date ([[Lance Hunter]])
+#### Worst First Date ([[Performers/Lance Hunter|Lance Hunter]])
 A date that goes horribly, horribly wrong. Then wrong some more. Then wronger. It's just the wrongiest.
 
 #### [[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]] ([[Performers/Jeremy Moran|Jeremy Moran]])
@@ -1825,7 +1825,7 @@ Dark for [[The 2015 Improvised Play Festival]].
 #### Quinni and Jinni ([[Performers/Quinn Buckner|Quinn Buckner]])
 [[Performers/Quinn Buckner|Quinn Buckner]] is a local improvisor, but Jinni Lyons is FROM LONDON! They're super pumped to play with each other and she's only here for a short while so come watch as they try out some scene ideas and have a blast doing it.
 
-#### Hideout Action News ([[Sushant Sethi]])
+#### Hideout Action News ([[Performers/Sushant Sethi|Sushant Sethi]])
 After taking some audience suggestions for current events/news that have been occupying their thoughts we'll be diving right into an improvised newscast. Hosted by a trusty anchor, expect to see a myriad of characters we may encounter at the news desk and on location at scene. Nothing is out of bounds. Will this be a serious news hour with heartbreaking stories of kittens stuck in oak trees? Or will it be an in your face riffed up bonkers experience? We don't know, but you should come check it out!
 
 #### Arjet Universe
@@ -1901,7 +1901,7 @@ JK is a high energy duo! With the audience's assistance, they will run through 1
 #### 10 Scenes in 20 minutes ([[Performers/Gene Zhou|Gene Zhou]])
 Can we do 10 scenes in 20 minutes, each inspired by a suggestion from the audience? Come and find out! Based on the sketch format 30 Plays in 60 Minutes.
 
-#### Kenny loves Community ([[Lahari Samineni]])
+#### Kenny loves Community ([[Performers/Lahari Samineni|Lahari Samineni]])
 Kenny loves the show 'Community'. So much so he's will to play ALL SEVEN characters from the show.
 
 #### Arjet Universe
@@ -2046,7 +2046,7 @@ Dark for [[The 2015 Out of Bounds Comedy Festival]].
 
 ### September 10, 2015 (the 164th show)
 #### Rapid Fire ([[Performers/Kenny Madison|Kenny Madison]])
-A rapid-fire assortment of fringe ideas from [[Lahari Samineni]].
+A rapid-fire assortment of fringe ideas from [[Performers/Lahari Samineni|Lahari Samineni]].
 
 #### Vulnerability Blocks ([[Performers/Norman Tran|Norman Tran]])
 A series of two person scenes where there are two stacks of blocks relating to either character are placed on opposite sides of the stage. The higher the blocks are stacked during the scene, the more invested the respective character is in the relationship between the two characters. We played with the imps on stage having control of the blocks, imps off stage having control, and the audience having control.

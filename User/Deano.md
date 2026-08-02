@@ -1,4 +1,4 @@
 ---
-redirect: "Deano Jones"
+redirect: "Performers/Deano Jones"
 ---
-#REDIRECT [[Deano Jones]]
+#REDIRECT [[Performers/Deano Jones]]

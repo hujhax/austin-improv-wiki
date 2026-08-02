@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Brad Knox">Brad Knox</a></li><!--
-  --><li style=""><a class="internal-link" href="Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style=""><a class="internal-link" href="Elizabeth Osterwich">Elizabeth Osterwich</a></li><!--
   --><li style=""><a class="internal-link" href="J. M. Specht">J. M. Specht</a></li><!--

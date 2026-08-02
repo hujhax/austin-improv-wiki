@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mitch Mills">Mitch Mills</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--

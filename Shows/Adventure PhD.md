@@ -70,7 +70,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Curl">Chris Curl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a></li><!--
@@ -78,7 +78,7 @@
   --><li style=""><a class="internal-link" href="Josh Farmer">Josh Farmer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Nicholas Marino">Nicholas Marino</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Nicholas Marino">Nicholas Marino</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--

@@ -78,7 +78,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (technical director/lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (technical director/lights)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (scoring)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (sound effects, costume director)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a> (swing tech)</li><!--

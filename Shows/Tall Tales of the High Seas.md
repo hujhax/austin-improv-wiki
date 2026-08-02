@@ -85,7 +85,7 @@
   --><li style="" ><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
   --><li style=""><a class="internal-link" href="Megan Moten">Megan Moten</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--

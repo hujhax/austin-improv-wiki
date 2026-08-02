@@ -93,7 +93,7 @@
   --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
   --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
-  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><li style=""><a class="internal-link" href="Tess Forneris">Tess Forneris</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
@@ -215,7 +215,7 @@ Every single element of Story To The Death is completely improvised based on aud
 * [[Jessica Soos]]
 * [[Kay Krasin]]
 * [[Performers/Marc Jalandoon|Marc Jalandoon]]
-* [[Sushant Sethi]]
+* [[Performers/Sushant Sethi|Sushant Sethi]]
 * [[Performers/Tosin awofeso|Tosin awofeso]]
 * [[Trent Symmonds]]
 #### Crew

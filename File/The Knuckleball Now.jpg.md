@@ -5,7 +5,7 @@ Publicity image for [[Troupes/The Knuckleball Now|The Knuckleball Now]]'s 2012 p
 
 Photo by: unknown.
 
-Art by: [[Deano Jones]].
+Art by: [[Performers/Deano Jones|Deano Jones]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

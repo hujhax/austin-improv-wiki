@@ -1,4 +1,4 @@
 ---
-redirect: "Lindsey McGowen"
+redirect: "Performers/Lindsey McGowen"
 ---
-#REDIRECT [[Lindsey McGowen]]
+#REDIRECT [[Performers/Lindsey McGowen]]

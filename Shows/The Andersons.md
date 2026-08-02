@@ -21,9 +21,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Dav Wallace">Dav Wallace</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dav Wallace">Dav Wallace</a></li><!--
   --><li style=""><a class="internal-link" href="Deana Ricks">Deana Ricks</a></li><!--
-  --><li style=""><a class="internal-link" href="Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
@@ -93,11 +93,11 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * Luke Anderson -- [[Performers/Jon Bolden|Jon Bolden]]
 * Mary-Alice Anderson -- [[Performers/Katie Thornton|Katie Thornton]]
 * Rosemary "Rocket" Anderson -- [[Performers/Kaci Beeler|Kaci Beeler]]
-* Kip Miller  -- [[Deano Jones]]
+* Kip Miller  -- [[Performers/Deano Jones|Deano Jones]]
 * Madge Miller -- [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]]
 * Mitch Miller -- [[Performers/Jason Vines|Jason Vines]]
 * Mr. Cooper -- [[Performers/Roy Janik|Roy Janik]]
-* Ensemble -- [[Performers/Curtis Luciani|Curtis Luciani]], [[Dav Wallace]], [[Deana Ricks]], [[Indigo Rael]], [[Performers/Jared Stepp|Jared Stepp]], [[Justin York]], [[Performers/Kacey Samiee|Kacey Samiee]], [[Performers/Valerie Ward|Valerie Ward]]
+* Ensemble -- [[Performers/Curtis Luciani|Curtis Luciani]], [[Performers/Dav Wallace|Dav Wallace]], [[Deana Ricks]], [[Indigo Rael]], [[Performers/Jared Stepp|Jared Stepp]], [[Justin York]], [[Performers/Kacey Samiee|Kacey Samiee]], [[Performers/Valerie Ward|Valerie Ward]]
 
 ## Media
 ### Photos
@@ -110,7 +110,7 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3) by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] of the same performance.
 * [A photoset of the 8/29/10 show](http://www.facebook.com/media/set/?set=a.1344776671364.2041272.1589679282&type=3)  by [[Roy Moore]]
-* [A photoset of the 12/18/10 show](http://www.facebook.com/media/set/?set=a.1633431608865.84097.1628915954&type=3) by [[Deano Jones]].
+* [A photoset of the 12/18/10 show](http://www.facebook.com/media/set/?set=a.1633431608865.84097.1628915954&type=3) by [[Performers/Deano Jones|Deano Jones]].
 
 ### Publicity
 * [A video promo for the show.](http://youtu.be/3GjaTWZi6Kg)

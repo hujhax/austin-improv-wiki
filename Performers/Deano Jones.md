@@ -43,3 +43,4 @@ His novel, *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*, was fe
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/id/2816451) on *[[The Theft Forum]]*.
+[[Category/Performers|Category:Performers]]

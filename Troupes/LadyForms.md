@@ -21,7 +21,7 @@
   --><li style=""><a class="internal-link" href="Jennifer Micallef">Jennifer Micallef</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Kerri Atwood">Kerri Atwood</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
   --><!--
   --><!--

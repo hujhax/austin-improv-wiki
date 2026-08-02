@@ -132,10 +132,10 @@
 ***Orphans!*** was a Hideout mainstage improvised musicals about plucky orphans at the turn of the twentieth century.  It was inspired by works like *Annie*, *Oliver!*, and *Newsies*.
 
 ## Crew Roles
-* Technical Director – [[Lindsey McGowen]]
+* Technical Director – [[Performers/Lindsey McGowen|Lindsey McGowen]]
 * Light Design – [[Performers/Jay Mahavier|Jay Mahavier]] (Lead), [[Performers/Greg Blank|Greg Blank]]
 * Sound Design – [[Michael Yew]] (Lead), [[Andre K. Buchanan]]
-* Costume Design – [[Carolyn Gjertsen]]
+* Costume Design – [[Performers/Carolyn Gjertsen|Carolyn Gjertsen]]
 * Costume Builders – [[Performers/Cindy Page|Cindy Page]], [[Danielle DaVerona]]
 * Stage Managers – [[Shay Millheiser]], [[Joey Neugart]]
 * Graphic & Scenic Design – [[Performers/Kaci Beeler|Kaci Beeler]]

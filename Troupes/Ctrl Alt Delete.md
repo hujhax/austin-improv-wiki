@@ -75,7 +75,7 @@
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/91532401) by [[Kyle Sweeney]] of their 3/27/14 show.
+* [Video](http://vimeo.com/91532401) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 3/27/14 show.
 
 
 [[Category/Active|Category:Active]]

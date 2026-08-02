@@ -131,7 +131,7 @@
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Tran">Joseph Tran</a></li><!--
   --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lena Long">Lena Long</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Sammy Boss">Sammy Boss</a></li><!--

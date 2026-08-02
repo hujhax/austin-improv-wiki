@@ -73,7 +73,7 @@
   --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
-  --><li style=""><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style=""><a class="internal-link" href="Scott Raney">Scott Raney</a></li><!--
   --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
   --><li style=""><a class="internal-link" href="Ximena Estrada">Ximena Estrada</a></li><!--
@@ -138,8 +138,8 @@ Each performance includes various special guests.
 
 ## Media
 ### Videos
-* Video by [[Kyle Sweeney]] of a December 2012 show: [1](http://vimeo.com/56866250), [2](http://vimeo.com/56726587) (uploaded 1/6/13).
-* A "Best of" compilation by [[Kyle Sweeney]]: [1](http://vimeo.com/57495404), [2](http://vimeo.com/57876672) (uploaded 1/15/13).
+* Video by [[Performers/Kyle Sweeney|Kyle Sweeney]] of a December 2012 show: [1](http://vimeo.com/56866250), [2](http://vimeo.com/56726587) (uploaded 1/6/13).
+* A "Best of" compilation by [[Performers/Kyle Sweeney|Kyle Sweeney]]: [1](http://vimeo.com/57495404), [2](http://vimeo.com/57876672) (uploaded 1/15/13).
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.743916159005236.1073742005.221927764537414&type=3) by [[Steve Rogers]] of their 5/24/14 performance at [[Austin Sketch Fest]].

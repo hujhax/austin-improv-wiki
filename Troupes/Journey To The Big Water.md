@@ -27,7 +27,7 @@
   --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
   --><li style=""><a class="internal-link" href="Matthew Derman">Matthew Derman</a></li><!--
   --><li style=""><a class="internal-link" href="Meredith Newell">Meredith Newell</a></li><!--
-  --><li style="" ><a class="internal-link" href="Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><!--

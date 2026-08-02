@@ -77,7 +77,7 @@ Here is [[Performers/John Ratliff|John Ratliff]]'s explanation of the name's ori
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/31863927) by [[Kyle Sweeney]] of their 8/18/11 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Video](http://vimeo.com/31863927) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 8/18/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 8/19/10 performance in *[[Shows/The Threefer|The Threefer]]*.

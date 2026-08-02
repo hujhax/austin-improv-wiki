@@ -82,12 +82,12 @@
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a> (Costumes/Set Asst)</li><!--
   --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a> (Lights/Run Crew)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a> (Lights/Audio/Run Crew)</li><!--
-  --><li style="" ><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a> (Lights/Costume Asst)</li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a> (Lights/Costume Asst)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (Costuming Lead)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a> (Costumes/Run Crew)</li><!--
   --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a> (Run Crew)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a> (Stage Manager)</li><!--
-  --><li style=""><a class="internal-link" href="Lindsey McGowen">Lindsey McGowen</a> (Technical Director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (Technical Director)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (Audio Lead)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a> (Lights/Run Crew)</li><!--
   --><li style=""><a class="internal-link" href="Nicole Oglesby">Nicole Oglesby</a> (Set Asst)</li><!--
@@ -231,13 +231,13 @@ The show is returning in 2016 as a Hideout mainstage show.
 * Costumes/Set Asst - [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * Costuming Lead - [[Performers/Cindy Page|Cindy Page]]
 * Lights/Audio/Run Crew - [[Performers/Brad Hawkins|Brad Hawkins]]
-* Lights/Costume Asst - [[Carolyn Gjertsen]]
+* Lights/Costume Asst - [[Performers/Carolyn Gjertsen|Carolyn Gjertsen]]
 * Lights/Run Crew - [[Performers/Nichole Bennett|Nichole Bennett]] and [[Bonnie Dilber]]
 * Run Crew - [[Jenn Hamm]]
 * Set Asst - [[Nicole Oglesby]]
 * Set Lead - [[Performers/Stuart m feild|Stuart m feild]]
 * Stage Manager - [[Performers/Jessica Von Schramm|Jessica Von Schramm]]
-* Technical Director - [[Lindsey McGowen]]
+* Technical Director - [[Performers/Lindsey McGowen|Lindsey McGowen]]
 
 ## Media
 ### Videos

@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
   --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
   --><li style=""><a class="internal-link" href="Kathleen McFerren">Kathleen McFerren</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
@@ -119,7 +119,7 @@ Started as a Free Fringe :
 
 Debuted February 12, 2015 in the Threefer as a troupe
 
-Original Members of the troupe include [[Performers/Cagney Ortiz|Cagney Ortiz]], [[Performers/Joy Parks|Joy Parks]], [[Kathleen McFerren]], [[Lahari Samineni]], [[Performers/Robert Slack|Robert Slack]], [[Performers/Tim Coyle|Tim Coyle]] and [[Sushant Sethi]].
+Original Members of the troupe include [[Performers/Cagney Ortiz|Cagney Ortiz]], [[Performers/Joy Parks|Joy Parks]], [[Kathleen McFerren]], [[Performers/Lahari Samineni|Lahari Samineni]], [[Performers/Robert Slack|Robert Slack]], [[Performers/Tim Coyle|Tim Coyle]] and [[Performers/Sushant Sethi|Sushant Sethi]].
 
 The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Performers/Ceej Allen|Ceej Allen]].  
 
@@ -130,9 +130,9 @@ Alumni
   --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
-  --><li style=""><a class="internal-link" href="Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
-  --><li style=""><a class="internal-link" href="Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -193,7 +193,7 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * Eris 2035 "Friend" videos:
 	* [Video](http://vimeo.com/14394520) from [[Performers/Jason Vines|Jason Vines]].
 	* [Video](http://vimeo.com/14394533) from [[Performers/Kathy Rose Center|Kathy Rose Center]].
-	* [Video](http://vimeo.com/14394565) from [[Deano Jones]].
+	* [Video](http://vimeo.com/14394565) from [[Performers/Deano Jones|Deano Jones]].
 	* [Video](http://vimeo.com/15100500) from [[Performers/Peter Rogers|Peter Rogers]].
 	* [Video](http://vimeo.com/15100672) from [[Menelaos Pokros]].
 	* [Video](http://vimeo.com/15100690) from [[Performers/Marc Majcher|Marc Majcher]].

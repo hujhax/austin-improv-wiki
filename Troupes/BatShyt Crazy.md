@@ -24,7 +24,7 @@
   --><li style=""><a class="internal-link" href="Mike Carrion">Mike Carrion</a></li><!--
   --><li style=""><a class="internal-link" href="Adam Worries">Adam Worries</a></li><!--
   --><li style="" ><a class="internal-link" href="Taylor Howe">Taylor Howe</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><!--

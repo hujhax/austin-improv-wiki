@@ -33,3 +33,4 @@
 * *[[Shows/Golden (mainstage)|Golden]]*
 * *[[Shows/Happily Ever After|Happily Ever After]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
+[[Category/Performers|Category:Performers]]
