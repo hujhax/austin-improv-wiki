@@ -60,31 +60,31 @@ The winner (decided by audience vote) returns the next week to face a new challe
 |-
 |2/9/2018
 |  [[Run the Fools]]
-| **[[Eenie Meanie Beanie Babies]]**
+| **[[Troupes/Eenie Meanie Beanie Babies|Eenie Meanie Beanie Babies]]**
 |-
 |2/16/2018
 |  [[Kenny-Rogers]]
-| **[[Eenie Meanie Beanie Babies]]**
+| **[[Troupes/Eenie Meanie Beanie Babies|Eenie Meanie Beanie Babies]]**
 |-
 |2/23/2018
 |  [[Red Handed]]
-| **[[Eenie Meanie Beanie Babies]]**
+| **[[Troupes/Eenie Meanie Beanie Babies|Eenie Meanie Beanie Babies]]**
 |-
 |3/2/2018
 |  [[Troupes/The Library|The Library]]
-| **[[Eenie Meanie Beanie Babies]]**
+| **[[Troupes/Eenie Meanie Beanie Babies|Eenie Meanie Beanie Babies]]**
 |-
 |3/23/2018
 |  [[The Matriarchy]]
-| **[[Eenie Meanie Beanie Babies]]**
+| **[[Troupes/Eenie Meanie Beanie Babies|Eenie Meanie Beanie Babies]]**
 |-
 |3/30/2018
 |  [[Ad-Hoc]]
-| **[[Eenie Meanie Beanie Babies]]**
+| **[[Troupes/Eenie Meanie Beanie Babies|Eenie Meanie Beanie Babies]]**
 |-
 |4/6/2018
 |  **[[The Millillionares]]**
-| [[Eenie Meanie Beanie Babies]]
+| [[Troupes/Eenie Meanie Beanie Babies|Eenie Meanie Beanie Babies]]
 |-
 |4/13/2018
 |  [[RUN THE FOOLS]]

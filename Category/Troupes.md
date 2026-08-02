@@ -178,6 +178,7 @@ For a sorted list, see the [[List of Austin Improv Troupes]].
 * [[Troupes/Echo Lake]]
 * [[Troupes/Ed 32]]
 * [[Troupes/Editor and Chief]]
+* [[Troupes/Eenie Meanie Beanie Babies]]
 * [[Troupes/Elevator Action]]
 * [[Troupes/Empty Promises]]
 * [[Troupes/Epic]]
