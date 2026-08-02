@@ -88,7 +88,7 @@
   --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="John Mendell">John Mendell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
-  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
   --><li style="" ><a class="internal-link" href="Steve Jaffe">Steve Jaffe</a></li><!--
   --><!--

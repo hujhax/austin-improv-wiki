@@ -684,7 +684,7 @@ Headliners
 
 ### May 9, 2013
 #### *Sing Along* ([[Amanda Hinsman]])
-We want to jump up and sing whatever song might pop into our heads and we want you to sing along! Scenes inspired by such glory will hence commence. If you are a fan of the song pop app, pitch perfect, or constantly switching radio stations this is your show. starring: [[Lindsay Hejl]], [[Blake Rienhart]], [[Performers/Seth Johnson|Seth Johnson]], [[Tim Stiefler]], [[Jennifer Brinlee]], [[Performers/Jillian Summar|Jillian Summar]], and [[Amanda Hinsman]]
+We want to jump up and sing whatever song might pop into our heads and we want you to sing along! Scenes inspired by such glory will hence commence. If you are a fan of the song pop app, pitch perfect, or constantly switching radio stations this is your show. starring: [[Performers/Lindsay Hejl|Lindsay Hejl]], [[Blake Rienhart]], [[Performers/Seth Johnson|Seth Johnson]], [[Tim Stiefler]], [[Jennifer Brinlee]], [[Performers/Jillian Summar|Jillian Summar]], and [[Amanda Hinsman]]
 
 #### *Romance in the Raw* ([[Courtney DeAngelo]])
 Romance blossoms! Love between people is always different and sometimes, quite spontaneous. A fearless look at love with quiet intensity, passion, and probably some humor. 
@@ -1228,8 +1228,8 @@ The adventures of a little boy ([[Performers/Mitchell Deane|Mitchell Deane]]) an
 The cast of *[[Camp Madeupponaspota]]* blows off steam by presenting a story set an oddball summer camp picked by the audience.
 
 ### May 1, 2014 (the 102nd show)
-#### Therapy Thursday ([[Lindsay Hejl]])
-Small-town therapy gone awry. [[Performers/Chris Albano|Chris Albano]] and [[Lindsay Hejl]] speak in one voice to spout off advice to townspeople, and we see the hilarious consequences.
+#### Therapy Thursday ([[Performers/Lindsay Hejl|Lindsay Hejl]])
+Small-town therapy gone awry. [[Performers/Chris Albano|Chris Albano]] and [[Performers/Lindsay Hejl|Lindsay Hejl]] speak in one voice to spout off advice to townspeople, and we see the hilarious consequences.
 
 #### OOB Picture Show
 Headliners
@@ -1261,7 +1261,7 @@ Headliners
 #### Laura Ingalls/Aliens ([[Performers/Paul Normandin|Paul Normandin]])
 Laura Ingalls of Little House on the Prairie has many fans in town. But fewer of them are boys. Many of the SciFi and Fantasy Geeks are boys and many of them only want to play where there are monsters! So how do we mash those ideas? Simple, we have Laura Ingalls Fans on stage with a bunch of SciFi Nerds. Costumes and Characters from each can play out in separate scenes until they eventually converge! But I am playing with the idea of the whole thing being dubbed! Ingalls fans dubbing the Nerds and vice versa until the worlds collide, then all hell breaks loose. Nerds speak for Nerds or Nerds play Ingalls fans! Who Can Say!!!
 
-#### Joe, Betty, and Jan ([[Lindsay Hejl]])
+#### Joe, Betty, and Jan ([[Performers/Lindsay Hejl|Lindsay Hejl]])
 We all play our grandparents. Maybe starts out as a la ronde type thing in the beginning to meet each of us with different people.
 
 #### [[Performers/Jessica Arjet|Jessica Arjet]] & [[Mason Pitluk]]
@@ -1400,7 +1400,7 @@ What if I invited people I never get to play with and to do a set where we play 
 
 What would that look like? What would that feel like? What other combinations are possible that I haven't even thought about? More importantly, could this happen or will it be a happy cluster fuck? I won't know until I try this."
 
-#### Poly-Juice Prov ([[Lindsay Hejl]])
+#### Poly-Juice Prov ([[Performers/Lindsay Hejl|Lindsay Hejl]])
 "A group of us will get on stage and play each other as characters."
 
 #### [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Jen Kaplan|Jen Kaplan]], and [[Performers/Jessie Pascarelli|Jessie Pascarelli]]

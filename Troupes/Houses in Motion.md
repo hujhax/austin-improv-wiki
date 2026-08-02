@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
   --><li style=""><a class="internal-link" href="Joel Keith">Joel Keith</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
-  --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
   --><li style="" ><a class="internal-link" href="Lane Ingram">Lane Ingram</a></li><!--
   --><!--
   --><!--

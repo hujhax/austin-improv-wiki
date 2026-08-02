@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
-  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
   --><li style=""><a class="internal-link" href="Mitchell Shotts">Mitchell Shotts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--

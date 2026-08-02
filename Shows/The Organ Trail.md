@@ -23,7 +23,7 @@
   --><li style=""><a class="internal-link" href="Benjamin Bazan">Benjamin Bazan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="KC HT">KC HT</a></li><!--
   --><li style=""><a class="internal-link" href="Ally Huston">Ally Huston</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a></li><!--

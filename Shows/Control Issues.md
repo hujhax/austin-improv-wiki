@@ -128,7 +128,7 @@
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a> (2014-2015)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a> (2014-2015)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a> (2014-2015)</li><!--
-  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a> (2014-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a> (2014-2015)</li><!--
   --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a> (2015-2016)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a> (2015-2016)</li><!--
   --><!--

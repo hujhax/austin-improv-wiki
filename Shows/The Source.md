@@ -72,7 +72,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Hanna AbuZayed">Hanna AbuZayed</a> (saxophone)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a> (drums)</li><!--
-  --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a> (bass)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/KC Harvey-Taylor">KC Harvey-Taylor</a> (bass)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (<a class="internal-link" href="Wikipedia - theremin">theremin</a>)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a> (guitar)</li><!--
   --><!--
@@ -130,7 +130,7 @@
   --><li style=""><a class="internal-link" href="Hanna AbuZayed">Hanna AbuZayed</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style=""><a class="internal-link" href="Joseph Tran">Joseph Tran</a></li><!--
-  --><li style=""><a class="internal-link" href="KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lena Long">Lena Long</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--

@@ -96,7 +96,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Sunday 6am (hour 38): "The Queen Is Not Amused", wherein Jay Funky appeared via Skype, portraying the queen of England.
 * Sunday 7am (hour 39): Student Show
 	* This was a long-form narrative set in New Orleans.
-	* This show featured student guests [[Ammu Ganesan]], [[Performers/David Ronn|David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Lindsay Hejl]], and [[Performers/Patrick Creamer|Patrick Creamer]].
+	* This show featured student guests [[Ammu Ganesan]], [[Performers/David Ronn|David Ronn]], [[Ericka Bundy]], [[Heather McConochie]], [[Performers/Lindsay Hejl|Lindsay Hejl]], and [[Performers/Patrick Creamer|Patrick Creamer]].
 * Sunday 8am (hour 40): *[[Shows/Care Bear Stare|Care Bear Stare]]* -- The Care Bears came to bring badly animated joy to your lives.
 	* In this show, [Care Bears](http://en.wikipedia.org/wiki/Care_Bears) based around not-exactly-G-rated emotions solved problems for the core-cast members in a longform narrative.
 	* The Care Bears:

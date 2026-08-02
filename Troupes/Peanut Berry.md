@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Blake Reinhart">Blake Reinhart</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style=""><a class="internal-link" href="Jennifer Brinlee">Jennifer Brinlee</a></li><!--
-  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Tim Stiefler">Tim Stiefler</a></li><!--
   --><!--
   --><!--

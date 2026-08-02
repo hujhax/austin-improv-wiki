@@ -28,7 +28,7 @@
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
   --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
   --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
-  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
   --><li style="" ><a class="internal-link" href="Michael Guy Bowman">Michael Guy Bowman</a></li><!--
@@ -107,7 +107,7 @@ The cast would then integrate that into the show's second half, when chaos would
 * [The audition notice](http://forum.austinimprov.com/viewforum.php?f=3) on [[The Austin Improv Forums]], and [the audition form](http://docs.google.com/spreadsheet/viewform?formkey=dHpzNTQ4clBGV2JCUDZjWW9Idmp1VkE6MA#gid=1).
 * [Blog post about the rehearsal process](http://www.hideouttheatre.com/fun-at-first-sight) by cast member [[Judith Schomp]].
 * [Blog post about the premiere](http://www.hideouttheatre.com/i-heart-wtf) by cast member [[Performers/Chris Albano|Chris Albano]].
-* [Blog post about the show](http://www.hideouttheatre.com/carefree-and-fearless) by cast member [[Lindsay Hejl]].
+* [Blog post about the show](http://www.hideouttheatre.com/carefree-and-fearless) by cast member [[Performers/Lindsay Hejl|Lindsay Hejl]].
 
 [[Category/Shows|Category:Shows]]
 [[Category/The Hideout Theatre|Category:The Hideout Theatre]]

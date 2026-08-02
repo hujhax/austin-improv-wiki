@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
   --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
   --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
-  --><li style=""><a class="internal-link" href="Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
   --><!--

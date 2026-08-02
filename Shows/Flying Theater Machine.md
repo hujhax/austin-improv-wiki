@@ -204,7 +204,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Performers/Cody Melcher|Cody Melcher]]
 * [[Performers/Neal Tibrewala|Neal Tibrewala]]
 * [[Performers/Nicole Oliver|Nicole Oliver]]       (Jun 2014-2015)
-* [[Lindsay Hejl]]        (Mar 2014-2015)
+* [[Performers/Lindsay Hejl|Lindsay Hejl]]        (Mar 2014-2015)
 
 ## Media
 ### Photos

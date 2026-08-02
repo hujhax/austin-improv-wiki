@@ -75,7 +75,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
-  --><li style=""><a class="internal-link" href="Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Chrissy Shackleford</a></li><!--
