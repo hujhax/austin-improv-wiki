@@ -1,4 +1,4 @@
-**The Hideout Improv Marathon** is an annual improv event at [[The Hideout Theatre]].
+**The Hideout Improv Marathon** is an annual improv event at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 In the improv marathon, a core cast of eight improvisors performs some number of one-hour improv shows, back-to-back and without sleep.  Every hour brings a different show format, and with it, different guests who specialize in that format.

@@ -3,7 +3,7 @@
 **The 2012 Ladies Are Funny Festival** was the sixth annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 
 ## Summary
-The festival ran from 5/9/12 to 5/12/12 at [[Salvage Vanguard Theater]] and (on its first night) the Spiderhouse Ballroom.
+The festival ran from 5/9/12 to 5/12/12 at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] and (on its first night) the Spiderhouse Ballroom.
 
 ## Acts
 ### Local Acts

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Happiness is a Choice.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Happiness is a Choice|Happiness is a Choice]], performing at [[Coldtowne Theater]] on 3/15/10.
+[[Troupes/Happiness is a Choice|Happiness is a Choice]], performing at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 3/15/10.
 
 Photo by [[Jo Maraschino]], from [this photoset](http://www.facebook.com/media/set/?set=a.10100183527366560.2849442.7944448&type=3).
 ## Licensing

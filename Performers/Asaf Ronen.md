@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -23,7 +23,7 @@
 [[Category/Directors|Ronen]]
 [[Category/Teachers|Ronen]]
 
-**Asaf Ronen** is an improv performer and director.  He co-runs [[The Institution Theater]].
+**Asaf Ronen** is an improv performer and director.  He co-runs [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 Asaf Ronen is the creator and Editor-in-Chief of YESand.com, a website devoted to improvisation, and is the author of *Directing Improv: Show the Way By Getting Out of the Way*. He has been involved in improv since 1990, starting in college and working with Theatresports, ComedySportz and directing his own longform improv troupe, Hiatus, where he helped create original formats.

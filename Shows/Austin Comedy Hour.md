@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Spider House">The Spider House</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Spider House">The Spider House</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -34,7 +34,7 @@
 ***Austin Comedy Hour*** is a monthly stand-up showcase.
 
 ## Summary
-The show runs from 9:00pm-10:30pm, the third Sunday of every month, at [[The Spider House]] ballroom.
+The show runs from 9:00pm-10:30pm, the third Sunday of every month, at [[Theatres/The Spider House|The Spider House]] ballroom.
 
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13001)

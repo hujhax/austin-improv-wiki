@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) was a mainstage show at [[The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
+***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
 
 ## Summary
 Each performance featured three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer played one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show emphasized honest, grounded scenes and vulnerability, similar to the style of British improv duo [Ten Thousand Million Love Stories](http://www.facebook.com/TenThousandMillionLoveStories).

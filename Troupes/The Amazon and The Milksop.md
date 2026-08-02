@@ -90,7 +90,7 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/10584357) of their March 2010 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/10584357) of their March 2010 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Video](http://vimeo.com/19055962) of their 1/20/11 "Fitzgeralds for Hire" show at [[Frontera Fest]].
 * [Video](http://vimeo.com/19107010) of their 1/22/11 show.
 * [Video of a "Catchin' Frogs" show.](http://vimeo.com/40801622)
@@ -101,9 +101,9 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 12/2/10 "Fitzgeralds for Hire" show at *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120828317265.308821.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/9/10 "Fitzgeralds for Hire" show at *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 "Fitzgeralds for Hire" show at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/23/11 performance at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/23/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 "Fitzgeralds for Hire" show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/23/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/23/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.10150661726392265.450321.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/2/12 "Catchin' Frogs" show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/16/12 "Catchin' Frogs" show in *[[Shows/The Threefer|The Threefer]]*.

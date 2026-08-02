@@ -11,7 +11,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></li><!--
   --><li style=""><a class="internal-link" href="State Theater">State Theater</a></li><!--
   --><!--
   --><!--

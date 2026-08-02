@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -24,7 +24,7 @@
 ## History
 Brent dabbled in theater in high school and college performing in various stage productions including *Oklahoma* and *You’re A Good Man, Charlie Brown*. His focus in college was vocal and instrumental music (French Horn) and he worked as a band director, private instructor, drum & bugle corps director and instructor, brass arranger, marching band clinician, drill designer and adjudicator for almost 20 years.
 
-While working as an extra on the *Friday Night Lights* television series, Brent befriended [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] who introduced him to the robust improv scene in Austin.  Brent started classes in May 2011 with [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Ted Rutherford|Ted Rutherford]] at [[Salvage Vanguard Theater]].  He later transferred and finished classes at [[The Hideout Theatre]] with instructors [[Performers/Andy Crouch|Andy Crouch]], [[Performers/Roy Janik|Roy Janik]], [[Performers/Lisa Jackson|Lisa Jackson]] and [[Performers/Josh Gill|Josh Gill]].
+While working as an extra on the *Friday Night Lights* television series, Brent befriended [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] who introduced him to the robust improv scene in Austin.  Brent started classes in May 2011 with [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Ted Rutherford|Ted Rutherford]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].  He later transferred and finished classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with instructors [[Performers/Andy Crouch|Andy Crouch]], [[Performers/Roy Janik|Roy Janik]], [[Performers/Lisa Jackson|Lisa Jackson]] and [[Performers/Josh Gill|Josh Gill]].
 
 Brent is an accomplished sound improviser scoring for numerous shows at The Hideout, Salvage Vanguard and Zach Theatre.  He is the assistant sound improviser for [[Troupes/Get Up|Get Up]] and accompanied the troupe at the Montreal Improv Festival in October 2012.  Most recently he scored for The Hideout Theatre's production of *Fandom: Star Wars* and *Fandom: Harry Potter*.
 

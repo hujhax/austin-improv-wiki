@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***Raney Nights*** is a monthly [[ColdTowne]] talk show hosted by [[Scott Raney]].
+***Raney Nights*** is a monthly [[Theatres/ColdTowne|ColdTowne]] talk show hosted by [[Scott Raney]].
 
 ## More Information
 * [The web page for the seventh installment of the show.](http://www.coldtownetheater.com/events/raney-nights-show-3)

@@ -74,22 +74,22 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Comprised of veterans of the LA, Chicago, and Austin comedy scenes, The Ladies is Austin's newest all-female troupe. Like the dames of *[[Wikipedia - Desperate Housewives|Desperate Housewives]]* and *[[Wikipedia - Sex and the City|Sex and the City]]* before them, these four women are here to stir up comedy with their outrageous performances. </blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Comprised of veterans of the LA, Chicago, and Austin comedy scenes, The Ladies is Austin's newest all-female troupe. Like the dames of *[[Wikipedia - Desperate Housewives|Desperate Housewives]]* and *[[Wikipedia - Sex and the City|Sex and the City]]* before them, these four women are here to stir up comedy with their outrageous performances. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>We are a four-person crew, a la [[Troupes/The Team|The Team]] or [[Troupes/Bad Boys|Bad Boys]], but with all women. We do highly physical improv with dynamic stage pictures.</p> 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We are a four-person crew, a la [[Troupes/The Team|The Team]] or [[Troupes/Bad Boys|Bad Boys]], but with all women. We do highly physical improv with dynamic stage pictures.</p> 
 
 <p>We're new and have been rehearsing/nurturing/developing for three months. We are punctual and dress to impress.</p></blockquote>
 
 ## Media
 ### Videos
 * [Video](http://vimeo.com/40244451) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 4/12/12 show.
-* [Video](http://vimeo.com/42905009) by [[Lacy Reed]] of their 5/21/12 "P. F. Chang's" show at [[Coldtowne Theater]].
-* [Video](http://vimeo.com/50431482) by [[Lacy Reed]] of their 9/28/12 "Eggplant" show at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/42905009) by [[Lacy Reed]] of their 5/21/12 "P. F. Chang's" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://vimeo.com/50431482) by [[Lacy Reed]] of their 9/28/12 "Eggplant" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Video of a 2013 show.](http://vimeo.com/62749753)
-* [Video](http://vimeo.com/85033155) by [[Lacy Reed]] of their "Pot Pie" show at [[Coldtowne Theater]].
-* [Video](http://vimeo.com/85039264) by [[Lacy Reed]] of their "Dragon" show at [[Coldtowne Theater]].
-* [Video](http://vimeo.com/85261565) by [[Lacy Reed]] of their 2013 "Literature" show at [[The Institution Theater]].
+* [Video](http://vimeo.com/85033155) by [[Lacy Reed]] of their "Pot Pie" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://vimeo.com/85039264) by [[Lacy Reed]] of their "Dragon" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://vimeo.com/85261565) by [[Lacy Reed]] of their 2013 "Literature" show at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Video](http://vimeo.com/74463715) by [[Performers/Brad Hawkins|Brad Hawkins]] of their performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/85265975) by [[Lacy Reed]] of their "Swedish Fish" show.
 * [Video of their 4/7/14 show.](http://vimeo.com/93084167)

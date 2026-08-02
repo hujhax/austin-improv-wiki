@@ -74,13 +74,13 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Subject: Object is a duo that uses an object supplied from an audience member as the suggestion for the show. </blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Subject: Object is a duo that uses an object supplied from an audience member as the suggestion for the show. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Wacky way to get a suggestion, strong character work, we actually show up.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Wacky way to get a suggestion, strong character work, we actually show up.</blockquote>
 
 ## History
-The duo premiered at the [[Coldtowne Theater]] *[[Shakedown]]* on 7/8/11.
+The duo premiered at the [[Theatres/Coldtowne Theater|Coldtowne Theater]] *[[Shakedown]]* on 7/8/11.
 
 ## More Information
 * [Announcement](http://forum.austinimprov.com/viewtopic.php?t=12091) of the duo's premiere on [[The Austin Improv Forums]].

@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -90,11 +90,11 @@ In it, twelve soldiers living under a totalitarian regime debate which of their 
 ## History
 This show has been performed three times.  The premiere was on 9/28/12, and the second show was on 4/12/13.  To keep the experience fresh, the second performance used an almost entirely different cast from the first.
 
-The first show was at the [[Salvage Vanguard Theater]]; the second was at [[The Hideout Theatre]].
+The first show was at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]; the second was at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-The third performance took place as part of [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[The Hideout Theatre]].
+The third performance took place as part of [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], on 8/27/13 at 9:30pm at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* series at [[The Hideout Theatre]] in 2015.
+The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* series at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2015.
 
 ## Casts
 ### Show #1

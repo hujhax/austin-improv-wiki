@@ -74,14 +74,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>Buckets of Buckets is the newest [[Gnap! Theater Projects]] house improv troupe.</p> 
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Buckets of Buckets is the newest [[Gnap! Theater Projects]] house improv troupe.</p> 
 
 <p>Buckets takes suggestions for a town name and what that town is known for, and uses those to improvise a show following multiple threads featuring absurd and quirky characters in the fictional city.</p> 
 
 <p>The pace builds and the show hits a climax as story lines collide.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>Buckets of Buckets does a broadened version of the "Close Quarters" format, loosely based on the television series "League of Gentlemen."</p> 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Buckets of Buckets does a broadened version of the "Close Quarters" format, loosely based on the television series "League of Gentlemen."</p> 
 
 <p>A fictional city is created, where there is a central focus on an event or location.</p> 
 

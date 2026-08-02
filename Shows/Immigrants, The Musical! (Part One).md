@@ -192,7 +192,7 @@
 	</table>
 </div>
 
-***Immigrants, The Musical! (Part One)*** was a mainstage show at [[The Institution Theater]]  which explored the stories of immigrants into the United States through the cast.
+***Immigrants, The Musical! (Part One)*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]]  which explored the stories of immigrants into the United States through the cast.
 
 ## Summary
 Every immigrant story is different, but similar. The journey here, the confrontations, the communities that get formed, the many ways a name can get mispronounced, the homemade lunches that look different from every other kids school lunch. Every day is a story of their straddling that line between American assimilation and maintaining a cultural identity. It’s a balancing act that gets passed down from generation to generation.

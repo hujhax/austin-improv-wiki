@@ -97,7 +97,7 @@ The troupe debuted in *[[Shows/The Cagematch|The Cagematch]]* on 7/14/06 with th
 
 This run included a show at [[Festivals/The 2006 Out of Bounds Comedy Festival|The 2006 Out of Bounds Comedy Festival]].  The last performance on record for that incarnation is a 4/27/07 performance in *[[Shows/The Threefer|The Threefer]]*.
 
-The troupe returned to [[ColdTowne]] in June 2014 for a run of Saturday-night shows, as the "Bridgeport Correctional Facility Short Form Impromptu Skit Players", with the following cast:
+The troupe returned to [[Theatres/ColdTowne|ColdTowne]] in June 2014 for a run of Saturday-night shows, as the "Bridgeport Correctional Facility Short Form Impromptu Skit Players", with the following cast:
 * [[Performers/Chrissy Shackleford|Chrissy Shackleford]]
 * [[Performers/Cortnie Jones|Cortnie Jones]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]

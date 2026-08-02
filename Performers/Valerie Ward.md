@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Valerie Ward** is an improv performer, teacher, coach, and director.
 
 ## History
-Valerie started doing improv in 2001 in college at UT as a member of [[Troupes/Ed 32|Ed 32]].  She then became involved with [[The Hideout Theatre]], and took level 2 there with [[Performers/Shana Merlin|Shana Merlin]] as her teacher.  She began attending jams and workshops regularly, and became a founding member of [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]. She has been very involved at The Hideout ever since, as well as participating in shows at various other theatres around town. She has been teaching all levels of adult classes at The Hideout since 2006 and began teaching as part of the Special Needs youth program in 2014. She also coaches groups around town and directs shows for The Hideout. Valerie was one of the core performers in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
+Valerie started doing improv in 2001 in college at UT as a member of [[Troupes/Ed 32|Ed 32]].  She then became involved with [[Theatres/The Hideout Theatre|The Hideout Theatre]], and took level 2 there with [[Performers/Shana Merlin|Shana Merlin]] as her teacher.  She began attending jams and workshops regularly, and became a founding member of [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]. She has been very involved at The Hideout ever since, as well as participating in shows at various other theatres around town. She has been teaching all levels of adult classes at The Hideout since 2006 and began teaching as part of the Special Needs youth program in 2014. She also coaches groups around town and directs shows for The Hideout. Valerie was one of the core performers in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 
 ## Troupes
 Current:

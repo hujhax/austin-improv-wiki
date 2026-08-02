@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Cené** (Cené Hale) is an actress known for performances with [[Coldtowne Theater]] and [[The Institution Theater]].
+**Cené** (Cené Hale) is an actress known for performances with [[Theatres/Coldtowne Theater|Coldtowne Theater]] and [[Theatres/The Institution Theater|The Institution Theater]].
 
 
 ## Troupes

@@ -74,12 +74,12 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Spontaneous and whimsical, see Kakkerlakken rocket around the galaxy, have a heart felt flirt on a park bench, or coup with a family in the living room. 
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Spontaneous and whimsical, see Kakkerlakken rocket around the galaxy, have a heart felt flirt on a park bench, or coup with a family in the living room. 
 
 This troupe personifies playful with their own brand of Improv Montage.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We studied and do fast edit montage, the faster the better. 
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We studied and do fast edit montage, the faster the better. 
 
 Many of our player have also moved on to other long form formats of troops. 
 

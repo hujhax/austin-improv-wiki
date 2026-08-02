@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>She's a hip gal from modern day Austin.
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>She's a hip gal from modern day Austin.
 
 He's a fast-talking guy from 20s-era Chicago.
 
@@ -85,7 +85,7 @@ This out-of-time couple delivers an improv comedy show exploring the nature of a
 It's just so crazy it works - that's the magic of Ball & Chain (real-life married couple Ruby Willmann and Troy A. Miller).</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Our deal is that we're really a couple - yeah, not a novelty in improv - but we're taking our real-life age difference to the extreme, by playing our onstage personas as a couple consisting of individuals from two different time periods, spanning nearly 85 years.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our deal is that we're really a couple - yeah, not a novelty in improv - but we're taking our real-life age difference to the extreme, by playing our onstage personas as a couple consisting of individuals from two different time periods, spanning nearly 85 years.</blockquote>
 
 ## Media
 ### Photos

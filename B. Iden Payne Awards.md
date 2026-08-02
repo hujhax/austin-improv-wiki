@@ -52,7 +52,7 @@ The nominees would then be voted on by any monetary supporter of the Austin Crea
 		* [[Troupes/Girls Girls Girls|Girls Girls Girls]] 
 		* [[Troupes/Foolish Mortals|Foolish Mortals]] 
 		* [[Troupes/The Frank Mills|The Frank Mills]] 
-		* [[ColdTowne]]
+		* [[Theatres/ColdTowne|ColdTowne]]
 
 
 ### 2006-2007 Season
@@ -60,7 +60,7 @@ The nominees would then be voted on by any monetary supporter of the Austin Crea
 	* Winner: [[Troupes/ColdTowne (Troupe)|ColdTowne]]
 	* Nominees:
 		* [[Troupes/Available Cupholders|Available Cupholders]] 
-		* [[ColdTowne]] 
+		* [[Theatres/ColdTowne|ColdTowne]] 
 		* [[Frank Mills]] 
 		* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
 		* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
@@ -76,7 +76,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
 	* Winner: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 	* Nominees:
-		* [[ColdTowne]]
+		* [[Theatres/ColdTowne|ColdTowne]]
 		* [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
 		* [[Troupes/Midnight Society|Midnight Society]]
 		* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
@@ -87,22 +87,22 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
 	* Winner: [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
 	* Nominees:
-		* [[Shows/Austin Secrets|Austin Secrets]] ([[The Hideout Theatre]])
-		* [[ColdTowne]] ([[Coldtowne Theater]])
-		* [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]] ([[The Institution Theater]])
+		* [[Shows/Austin Secrets|Austin Secrets]] ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
+		* [[Theatres/ColdTowne|ColdTowne]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
+		* [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]] ([[Theatres/The Institution Theater|The Institution Theater]])
 		* [[Shows/Dusk -  Improvised Tween Erotica|Dusk -  Improvised Tween Erotica]] ([[GNAP! Theater Productions]])
-		* [[Troupes/The Frank Mills|The Frank Mills]] ([[Coldtowne Theater]])
+		* [[Troupes/The Frank Mills|The Frank Mills]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
 
 
 ### 2010-2011 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
 	* Winner: [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
 	* Nominees:
-		* [[Shows/Austin Secrets|Austin Secrets]] ([[The Hideout Theatre]])
-		* [[Troupes/Confidence Men|Confidence Men]] ([[The Institution Theater]])
+		* [[Shows/Austin Secrets|Austin Secrets]] ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
+		* [[Troupes/Confidence Men|Confidence Men]] ([[Theatres/The Institution Theater|The Institution Theater]])
 		* [[Troupes/Get Up|Get Up]] ([[Gnap! Theater Projects]])
-		* [[Shows/The Megaphone Show|The Megaphone Show]] ([[The New Movement Theater]])
-		* [[Troupes/Midnight Society|Midnight Society]] ([[Coldtowne Theater]])
+		* [[Shows/The Megaphone Show|The Megaphone Show]] ([[Theatres/The New Movement Theater|The New Movement Theater]])
+		* [[Troupes/Midnight Society|Midnight Society]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
 
 
 ### 2011-2012 Season
@@ -120,12 +120,12 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
 	* Winner: *[[Shows/The Suitcase|The Suitcase]]*
 	* Nominees: 
-		* [[Troupes/Bad Boys|Bad Boys]] ([[Coldtowne Theater]])
-		* *[[Shows/Fandom|Fandom]]* ([[The Hideout Theatre]])
+		* [[Troupes/Bad Boys|Bad Boys]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
+		* *[[Shows/Fandom|Fandom]]* ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
 		* [[Troupes/Get Up|Get Up]] ([[GNAP! Productions-Salvage Vanguard Theater]])
 		* [[Troupes/The Known Wizards|The Known Wizards]] ([[MerlinWorks]]/ZACH Theater)
-		* *[[Shows/The Megaphone Show|The Megaphone Show]]* ([[The New Movement Theater]])
-		* *[[Shows/The Suitcase|The Suitcase]]* ([[The Institution Theater]])
+		* *[[Shows/The Megaphone Show|The Megaphone Show]]* ([[Theatres/The New Movement Theater|The New Movement Theater]])
+		* *[[Shows/The Suitcase|The Suitcase]]* ([[Theatres/The Institution Theater|The Institution Theater]])
 
 
 ### 2013-2014 Season

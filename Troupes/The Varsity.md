@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>The Varsity is a rotating cast of veteran improvisers performing the Armando, a format based on interpretations of true-life monologues.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The Varsity is a rotating cast of veteran improvisers performing the Armando, a format based on interpretations of true-life monologues.</blockquote>
 
 [[Category/Troupes|Varsity]]
 [[Category/Auto-Generated Troupe Pages|Varsity]]

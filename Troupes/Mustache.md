@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Mustache creates character driven, narrative based improv, generating original stories and situations. Each 25 minute show establishes a specific location, and a group of individuals who inhabit that place - together, the performers explore the relationships and events that motivate these characters. Funny and compelling, the characters created within the show are only brought to life for the duration of the show, then they're gone forecer. See them before they disappear into memory...</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Mustache creates character driven, narrative based improv, generating original stories and situations. Each 25 minute show establishes a specific location, and a group of individuals who inhabit that place - together, the performers explore the relationships and events that motivate these characters. Funny and compelling, the characters created within the show are only brought to life for the duration of the show, then they're gone forecer. See them before they disappear into memory...</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Our format works like this:
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our format works like this:
 
 * We ask the audience for a number between 3 and 7, then play songs from a random play list until we reach the suggested number.
 * We use that song for our suggestion - walking around the stage until we find characters.

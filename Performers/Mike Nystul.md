@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Mike Nystul** (AKA **Alex Gray**) is an improv performer and director.
 
 ## History
-Mike Nystul studied at [[The Hideout Theatre]] (he was part of their first level-6 class) and [[The Institution Theater]].
+Mike Nystul studied at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (he was part of their first level-6 class) and [[Theatres/The Institution Theater|The Institution Theater]].
 
 In 2010, Nystul founded [[The Lair]], an improv theater in Round Rock, Texas.
 

@@ -87,7 +87,7 @@ Roy and Jon developed a series of exercises based on positivity and connection. 
 * [Video](http://vimeo.com/114202698) of their show at [[Festivals/WaffleFest 2014|WaffleFest 2014]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/23/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/23/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe|Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance with [[Troupes/The Frank Mills|The Frank Mills]] in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.844338555629662.1073742111.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].

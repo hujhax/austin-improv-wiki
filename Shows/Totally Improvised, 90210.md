@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -155,7 +155,7 @@ Much of the rehearsal process focused on *slowing down*, getting the cast to con
 
 In addition to the main run, *Totally Improvised, 90210* performed a special one-off show for *[[Shows/The TV Set|The TV Set]]* in November 2012.
 
-The show was produced by [[Gnap! Theater Projects]] at [[Salvage Vanguard Theater]].
+The show was produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 ## Full Cast & Crew
 * [[Performers/Bryan Cruz|Bryan Cruz]] as Dylan McKay

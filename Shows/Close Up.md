@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -184,7 +184,7 @@
 	</table>
 </div>
 
-***Close Up*** (original working title: **Single Camera Comedy**) was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[The Hideout Theatre]].
+***Close Up*** (original working title: **Single Camera Comedy**) was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 This was a show based on single-camera 'mockumentaries' like *[[Wikipedia - The Office|The Office]]*, *[[Wikipedia - Parks and Recreation|Parks and Recreation]]*, *[[Wikipedia - Modern Family|Modern Family]]*, and  *[[Wikipedia - Best in Show|Best in Show]]*.

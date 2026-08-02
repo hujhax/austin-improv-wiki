@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="BeauMoMa.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/BeauMoMa|BeauMoMa]] performing at [[The Institution Theater]].
+[[Troupes/BeauMoMa|BeauMoMa]] performing at [[Theatres/The Institution Theater|The Institution Theater]].
 
 Photo by: [[Performers/Claudio Fox|Claudio Fox]]
 

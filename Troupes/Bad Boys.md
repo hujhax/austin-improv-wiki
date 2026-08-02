@@ -74,7 +74,7 @@
 **Bad Boys** is an improv troupe.
 
 ## Summary
-Bad Boys have been performing since July of 2010. Bad Boys was originally formed by [[Danny Catlow]], [[Adam Trabka]], [[Byron Brown]] and [[Performers/Brett Tribe|Brett Tribe]] to compete in [[Shows/Cagematch|Cagematch]] while they were students at the [[ColdTowne Conservatory]]. They decided to continue performing together after winning that tournament.
+Bad Boys have been performing since July of 2010. Bad Boys was originally formed by [[Danny Catlow]], [[Adam Trabka]], [[Byron Brown]] and [[Performers/Brett Tribe|Brett Tribe]] to compete in [[Shows/Cagematch|Cagematch]] while they were students at the [[Theatres/ColdTowne Conservatory|ColdTowne Conservatory]]. They decided to continue performing together after winning that tournament.
 
 [[Danny Catlow]] and [[Adam Trabka]] have since moved to other cities in the U.S. but are still considered full members of the ensemble.
 
@@ -82,7 +82,7 @@ In late 2012 they added two members, [[Performers/Ed Reed|Ed Reed]] and [[Perfor
 
 Their initial format involved interviewing an audience member as inspiration for a montage to follow, but their latent awkwardness made this uncomfortable for everyone. They quickly switched to opening with an Invocation, followed by a stream of consciousness set of scenes that lands somewhere on the spectrum between a Harold and one act play.
 
-Bad Boys currently has an open-ended run on Friday nights at [[Coldtowne Theater]].
+Bad Boys currently has an open-ended run on Friday nights at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
 Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[[Shows/Cagematch|Cagematch]]* submission was due and we were spitballing names in RLM when Byron made this big dramatic proclamation that he knew exactly the name that would exemplify us and walked up to the chalkboard and wrote "BAD BOYS" in big letters. No one could come up with an argument against it so we went with it since at that time we were only committed to doing a Cagematch.</p>

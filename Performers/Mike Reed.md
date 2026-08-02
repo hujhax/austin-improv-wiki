@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Mike Reed** is an improv performer who works with [[The Hideout Theatre]] and [[The Institution Theater]]. He began classes at The Institution in 2103 then at The Hideout in 2104. He performs occasionally when he has the time and energy, provided they'll let him on the stage. He thinks he's pretty good at it, even if he does say so himself.
+**Mike Reed** is an improv performer who works with [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]]. He began classes at The Institution in 2103 then at The Hideout in 2104. He performs occasionally when he has the time and energy, provided they'll let him on the stage. He thinks he's pretty good at it, even if he does say so himself.
 
 ## Shows
 * *[[Shows/Austin Secrets|Austin Secrets]]* (tech)

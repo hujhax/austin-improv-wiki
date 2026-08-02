@@ -85,8 +85,8 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 * [Video of their 5/17/13 show](http://vimeo.com/66537080) in the *[[Shows/2x4|2x4]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1198984106641.2025779.1589679282&type=3) by [[Roy Moore]] of their 3/5/10 performance at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120827122265.308819.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/9/10 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1198984106641.2025779.1589679282&type=3) by [[Roy Moore]] of their 3/5/10 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120827122265.308819.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/9/10 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/13/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/23/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.165388706875494.43739.100002130980897&type=3) by [[Steve Rogers]] that includes their performance in [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].

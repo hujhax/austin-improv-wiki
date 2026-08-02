@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -192,7 +192,7 @@
 	</table>
 </div>
 
-***Nothing and Everything*** was a narrative improv show inspired by the works of [[Wikipedia - Anton Chekhov|Anton Chekhov]].  It was a mainstage show at [[The Hideout Theatre]].
+***Nothing and Everything*** was a narrative improv show inspired by the works of [[Wikipedia - Anton Chekhov|Anton Chekhov]].  It was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Show Style
 The show took place on a rural Russian estate in the 1890s.  The costumes, while not absolutely period-perfect, suggested that era while conveying an out-of-time quality.  Similarly, the stage was filled with props and furniture that suggest the time period and location -- in fact, the show featured no spacework whatsoever, using only real, physical props and furniture.
@@ -227,7 +227,7 @@ It was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised
 
 ## Media
 ### Videos
-* 2014 [[Hideout Theatre]] Run:
+* 2014 [[Theatres/Hideout Theatre|Hideout Theatre]] Run:
 	* [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/6/14 preview (incomplete).
 	* [Video](http://vimeo.com/111329177) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/8/14 show.
 	* [Video](http://vimeo.com/111990343) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/15/14 show.
@@ -241,7 +241,7 @@ It was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised
 	* [Video](http://vimeo.com/141679892) of the 8/23/15 performance.
 
 ### Photos
-* 2014 [[Hideout Theatre]] Run:
+* 2014 [[Theatres/Hideout Theatre|Hideout Theatre]] Run:
 	* [Photoset](http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3) by [[Steve Rogers]] of the 11/6/14 preview.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 11/22/14 show.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3) by [[Michael Yew]] of the 12/20/14 show.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Nice Astronaut.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Nice Astronaut|Nice Astronaut]] performing in the 12/27/12 [[Shows/Threefer|Threefer]] at [[The Hideout Theatre]].
+[[Troupes/Nice Astronaut|Nice Astronaut]] performing in the 12/27/12 [[Shows/Threefer|Threefer]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Photo by [[Michael Yew]], from [this photoset](https://www.facebook.com/media/set/?set=a.4011964980262.140422.1315383518&type=3).
 

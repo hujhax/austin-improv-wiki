@@ -79,7 +79,7 @@ The duo is assisted by their butler, Meredith, who has been played by [[Performe
 
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote><P>"[[The Institution Theater]]'s Tom Booker and Asaf Ronen play "Baxter & Bernard," the world's most eligible confirmed bachelors -- giddily so. Join them and their manservant, Meredith, as they travel the far corners of the audience's imagination in search of adventure -- and the love of the ladies.</P>
+<blockquote><P>"[[Theatres/The Institution Theater|The Institution Theater]]'s Tom Booker and Asaf Ronen play "Baxter & Bernard," the world's most eligible confirmed bachelors -- giddily so. Join them and their manservant, Meredith, as they travel the far corners of the audience's imagination in search of adventure -- and the love of the ladies.</P>
 <P>
 Asaf Ronen and Tom Booker discovered the characters of Baxter and Bernard as they were living together as roommates. They started talking in silly voices around the house. (That's not weird, is it? It's something that all divorced middle-aged men living together do, right? Am I right or am I right?!)</P>
 <P>
@@ -90,9 +90,9 @@ Asaf Ronen, Tom Booker and Jeff Britt have about one thousand years of combined 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3)  by [[Roy Moore]] that includes their 9/16/10 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 performance at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/23/11 performance at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/photo.php?fbid=1848366940806&set=a.1848365940781.2087576.1589679282&type=3&theater) by [[Roy Moore]] that includes their 8/10/11 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/23/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/photo.php?fbid=1848366940806&set=a.1848365940781.2087576.1589679282&type=3&theater) by [[Roy Moore]] that includes their 8/10/11 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.498891300132370.112495.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 2012 Christmas special.
 
 ## More Information

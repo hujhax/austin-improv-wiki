@@ -1,4 +1,4 @@
-This **list of *[[Shows/Free Fringe|Free Fringe]]s*** includes all the formats for every performance of [[The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 10/1/15.
+This **list of *[[Shows/Free Fringe|Free Fringe]]s*** includes all the formats for every performance of [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 10/1/15.
 
 ## 2012 Shows
 ### Jan 5, 2012
@@ -1769,7 +1769,7 @@ That Racket! is an Austin-based troupe that combines the three great arts of imp
 A Magical souffle of improvised rap stuffed with delicious stories with just a dash of outlandish characters sauteed to perfection when the beat drops.
 
 #### Curry, Kirschner and Taylor
-[[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], and [[Performers/Ammon Taylor|Ammon Taylor]] are all members of two time [[B. Iden Payne Awards|B.-Iden-Payne-Award]]-winning, musical-performance collective [[Troupes/Girls Girls Girls|Girls Girls Girls]]. As faculty members of [[Merlin Works Institute for Improvisation]], [[The Institution Theater]], and [[The Hideout Theatre]], these three put on an unforgettably theatrical performance weaving together characters scenes and songs that are magical, catchy and adorable!
+[[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], and [[Performers/Ammon Taylor|Ammon Taylor]] are all members of two time [[B. Iden Payne Awards|B.-Iden-Payne-Award]]-winning, musical-performance collective [[Troupes/Girls Girls Girls|Girls Girls Girls]]. As faculty members of [[Merlin Works Institute for Improvisation]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/The Hideout Theatre|The Hideout Theatre]], these three put on an unforgettably theatrical performance weaving together characters scenes and songs that are magical, catchy and adorable!
 
 ### March 12th, 2015 (the 141st show)
 #### Swedish Exchange Students ([[Performers/Kevin Miller|Kevin Miller]])

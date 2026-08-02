@@ -1,7 +1,7 @@
 **The 2010 Ladies Are Funny Festival** was the fourth annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 
 ## Summary
-The festival ran from 5/5/10 to 5/8/10 at [[Salvage Vanguard Theater]].
+The festival ran from 5/5/10 to 5/8/10 at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 ## Acts
 ### Local Acts

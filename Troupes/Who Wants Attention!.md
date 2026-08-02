@@ -70,14 +70,14 @@
 	</table>
 </div>
 
-**Who Wants Attention?!** is an improv games-based troupe associated with [[The Hideout Theatre]].
+**Who Wants Attention?!** is an improv games-based troupe associated with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Who Wants Attention?! is Austin's newest games based improv troupe.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Who Wants Attention?! is Austin's newest games based improv troupe.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We are a brand new games based troupe. We are comprised of recent Hideout graduates and soon to be graduates.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are a brand new games based troupe. We are comprised of recent Hideout graduates and soon to be graduates.</blockquote>
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

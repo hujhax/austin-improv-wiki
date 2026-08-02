@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Spider House">The Spider House</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Spider House">The Spider House</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -31,7 +31,7 @@
 	</table>
 </div>
 
-***Rucker Park*** is a monthly improv show featuring students and alumni of [[The New Movement]] theater.
+***Rucker Park*** is a monthly improv show featuring students and alumni of [[Theatres/The New Movement|The New Movement]] theater.
 
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13624)

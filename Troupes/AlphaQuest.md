@@ -79,5 +79,5 @@ Laura invited everyone to do a [[Shows/Free Fringe|Free Fringe]] with the crazy 
 * The troupe's [Facebook page.](https://www.facebook.com/alphaquestimprov/)
 
 ## Videos
-[The Threefer](https://www.twitch.tv/videos/345564722) at [[The Hideout]].
+[The Threefer](https://www.twitch.tv/videos/345564722) at [[Theatres/The Hideout|The Hideout]].
 [[Category/Troupes|Category:Troupes]]

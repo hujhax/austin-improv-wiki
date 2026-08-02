@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -86,7 +86,7 @@
 	</table>
 </div>
 
-***Only Three Will Survive*** (often written with a trailing ellipsis: ***Only Three Will Survive...***) was a mainstage show at [[The Institution Theater]].
+***Only Three Will Survive*** (often written with a trailing ellipsis: ***Only Three Will Survive...***) was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 The show was a narrative improv that took place in and around an audience-suggested location.  The cast of characters united in that space would suffer through a series of tragic disasters until only three remained.

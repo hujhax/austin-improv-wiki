@@ -86,7 +86,7 @@ Late in 2012, Clay and Ryan rehearsed and played together in [[Shows/The Black V
 
 Clay approached [[Performers/Cindy Page|Cindy Page]] to tech for the duo and though she generally refused to tech for troupes, she agreed.
 
-The duo only put on one show, on January 7, 2014 at [[The Hideout Theatre]], before Clay's untimely death on February 13, 2014. It was Clay's last performance.
+The duo only put on one show, on January 7, 2014 at [[Theatres/The Hideout Theatre|The Hideout Theatre]], before Clay's untimely death on February 13, 2014. It was Clay's last performance.
 
 Their last rehearsal was two weeks before Clay's death and consisted of watching the show and discussing the future direction of the duo.
 

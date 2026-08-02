@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theatre">The Institution Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theatre">The Institution Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Sam Schak** is an improviser living and performing in Austin, Texas.
 
 ## History
-Sam began her improv career as a student at [[The Institution Theater]].
+Sam began her improv career as a student at [[Theatres/The Institution Theater|The Institution Theater]].
 
 In the sketch show [[Shows/Fuck It's Hot|Fuck It's Hot]] at the Institution Theater, she played the "I Love You So Much" sign from Jo's Coffee on South Congress in Austin. Soon after she was cast in the show [[Shows/I Love You So Much|I Love You So Much]].
 

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -30,7 +30,7 @@
 ***Comedy Bazaar***  is a monthly sketch show at Coldtowne Theater
 
 ## History
-The show premiered on Fridays at midnight at [[Coldtowne Theater]] in March of 2013 before taking over a Saturday night slot formerly used by the Speakeasy.  In January 2014 it was restructured, with auditions for a dedicated cast of writer/performers.
+The show premiered on Fridays at midnight at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in March of 2013 before taking over a Saturday night slot formerly used by the Speakeasy.  In January 2014 it was restructured, with auditions for a dedicated cast of writer/performers.
 
 
 

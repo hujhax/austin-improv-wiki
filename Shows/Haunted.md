@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -143,7 +143,7 @@
 * 10/11/08
 * 10/25/08
 * 10/31/08
-	* This show (and this show only) was part of *[[Shows/The Double Barrel|The Double Barrel]]* at [[The Hideout Theatre]].
+	* This show (and this show only) was part of *[[Shows/The Double Barrel|The Double Barrel]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * 12/20/08
 
 [[Category/Shows|Category:Shows]]

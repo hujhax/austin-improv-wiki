@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -135,10 +135,10 @@
 
 ***Austin Secrets*** is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
 
-Due to its sustained artistic and commercial success, *Austin Secrets* has been a mainstage show at [[The Hideout Theatre]] nearly every year since its initial run in 2010.
+Due to its sustained artistic and commercial success, *Austin Secrets* has been a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] nearly every year since its initial run in 2010.
 
 ## Structure
-Generally, the show works with "secrets" -- these are real-life secrets from anonymous people, either taken from [[Wikipedia - PostSecret|PostSecret]] or sent to [[The Hideout]] on postcards or via email.  A secret will be shown on the theater's TV screen to the audience and to the players (or, in the case of "Hidden Secrets", to just one player), and then the scene will draw its inspiration from that. Traditionally, the five segments played in the following order; starting with the 2016 run, the order of the Truth Chair and Audio Secrets segments were swapped.
+Generally, the show works with "secrets" -- these are real-life secrets from anonymous people, either taken from [[Wikipedia - PostSecret|PostSecret]] or sent to [[Theatres/The Hideout|The Hideout]] on postcards or via email.  A secret will be shown on the theater's TV screen to the audience and to the players (or, in the case of "Hidden Secrets", to just one player), and then the scene will draw its inspiration from that. Traditionally, the five segments played in the following order; starting with the 2016 run, the order of the Truth Chair and Audio Secrets segments were swapped.
  
 ### A Thousand Different Directions
 After the introductory hosting -- which, among other things, informs the audience about the projects that *Austin Secrets* uses for inspiration -- the show kicks off with "A Thousand Different Directions" where a single secret is shown onscreen, and the players perform a quick montage of a couple dozen scene starts based on that secret.  This helps to start the show energetically, shows the audience that there are lot of different ways to interpret a secret, and demonstrates to the audience by quick examples that the tone of the show can vary widely; from light, surreal silliness to powerful, real-life drama.

@@ -74,13 +74,13 @@
 	</table>
 </div>
 
-**The Laff Staff** was an improv troupe that had a run at [[Cap City Comedy Club]] in the late 80s and early 90s.
+**The Laff Staff** was an improv troupe that had a run at [[Theatres/Cap City Comedy Club|Cap City Comedy Club]] in the late 80s and early 90s.
 
 ## Summary
 The troupe specialized in short-form games, though they did try out longform (Harolds) in rehearsal.
 
 ## History
-After the [[Austin Comedy Workshop]] closed its doors, most of the performers from [[Esther's Follies]] drifted away from improv.  But a few performers moved on to [[The Laff Stop]].  Actor [[Rodney Rincon]] ran a series of improv workshops there in late 1986, after which [[Chris Bonno]] and [[Angela Davis]] founded the troupe, which debuted in 1987.  They were given a were 45-minute pre-show slot in the Lounge at [[Cap City]] (on Tuesdays, Wednesdays, Thursdays, and Sundays) until 1993.
+After the [[Theatres/Austin Comedy Workshop|Austin Comedy Workshop]] closed its doors, most of the performers from [[Esther's Follies]] drifted away from improv.  But a few performers moved on to [[Theatres/The Laff Stop|The Laff Stop]].  Actor [[Rodney Rincon]] ran a series of improv workshops there in late 1986, after which [[Chris Bonno]] and [[Angela Davis]] founded the troupe, which debuted in 1987.  They were given a were 45-minute pre-show slot in the Lounge at [[Theatres/Cap City|Cap City]] (on Tuesdays, Wednesdays, Thursdays, and Sundays) until 1993.
 
 They headlined the Comedy Workshop in Houston for a week, which may have been the first professional gig for an Austin improv troupe outside of their home city.
 

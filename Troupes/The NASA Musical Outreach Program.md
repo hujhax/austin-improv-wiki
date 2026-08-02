@@ -76,10 +76,10 @@
 In this duo, the two performers played a series of songs in character as nerdy NASA scientists.
 
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>N.A.S.A scientists teach about the beauty of space and clear misconceptions about our country's space program.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>N.A.S.A scientists teach about the beauty of space and clear misconceptions about our country's space program.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We killed at Nerd Nite recently. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We killed at Nerd Nite recently. </blockquote>
 
 ## Media
 ### Videos

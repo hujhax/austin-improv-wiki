@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Merlin Works">Merlin Works</a>, <a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Merlin Works">Merlin Works</a>, <a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -30,7 +30,7 @@ Kris a.k.a. Kraab a.k.a. Sir Kraab is an improviser in Austin, TX, by way of D.C
 * *[[Shows/The Threefer|The Threefer]]*
 * *[[Shows/Free Fringe|Free Fringe]]*
 * *Musical Night at Indra's*
-* *Tightrope @ [[Institution Theater]]*
+* *Tightrope @ [[Theatres/Institution Theater|Institution Theater]]*
 * *Alamo City Improv*
 * *Dark Matter @ Station Theatre*
 * *New York Musical Improv Festival* 

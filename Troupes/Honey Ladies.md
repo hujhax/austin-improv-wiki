@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
 
 <blockquote>
 Developed as a Free Fringe and born from five diverse women, Honey Ladies aims to explore the archetypes of women in every aspect of our life. From "mean girls" to "best frenemies" to "motherly love", Honey Ladies explores the relationships of women and how not that much changes from age 5 to 50.

@@ -73,14 +73,14 @@
 **No Frills** is a troupe that focuses on monoscenes about women who like each other.
 
 ## History
-After rehearsing together at [[The Institution Theater]] in the summer of 2013, they had a soft debut at the Institution's *[[Shows/Rubber Room|Rubber Room]]* on 7/7/13, and then had their official debut at [[Coldtowne Theater]] on 9/2/13 (taking the suggestion "Laundromat"). They have since performed at [[The Hideout Theatre]] in *[[Shows/The Threefer|The Threefer]]* and at [[The Institution Theater]] in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
+After rehearsing together at [[Theatres/The Institution Theater|The Institution Theater]] in the summer of 2013, they had a soft debut at the Institution's *[[Shows/Rubber Room|Rubber Room]]* on 7/7/13, and then had their official debut at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 9/2/13 (taking the suggestion "Laundromat"). They have since performed at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in *[[Shows/The Threefer|The Threefer]]* and at [[Theatres/The Institution Theater|The Institution Theater]] in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/NoFrillsAustin?ref=br_rs)
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/78203344) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 8/28/13 performance at [[Coldtowne Theater]] ("Subway").
+* [Video](http://vimeo.com/78203344) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 8/28/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]] ("Subway").
 
 ### Photos
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/No-Frills/) by [[Performers/Chad Wellington|Chad Wellington]] of their 10/18/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].

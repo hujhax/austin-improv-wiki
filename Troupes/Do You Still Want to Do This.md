@@ -73,7 +73,7 @@
 **Do You Still Want To Do This?** is an improv duo where the two improvisors play very neurotic characters.
 
 ## History
-Courtney and Alex met doing [[List of Hideout Mainstage Shows in Chronological Order|mainstage shows]] at [[The Hideout Theatre]].
+Courtney and Alex met doing [[List of Hideout Mainstage Shows in Chronological Order|mainstage shows]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 When Alex moved away to Los Angeles in 2014, the duo went on hiatus.
 

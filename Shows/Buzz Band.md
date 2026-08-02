@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Buzz Band*** was a mainstage show at [[The Institution Theater]] set in the 1990s music scene.
+***Buzz Band*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]] set in the 1990s music scene.
 
 ## Summary
 The show ran about 80 minutes (with an intermission), with the entire cast playing every night.  It was narrative, but didn't necessarily follow a single featured protagonist.  The directors opened the show by describing the show's world/era, and took no suggestion.
@@ -150,6 +150,6 @@ From the initial show announcement: <blockquote>"Enter the world of musicians on
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204112762162056.1073741947.1315383518&type=3) by [[Michael Yew]] of their 5/16/15 performance.
 
 ## More Information
-* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Institution Theater]] facebook page.
+* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 
 [[Category/Shows|Category:Shows]]

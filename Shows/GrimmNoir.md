@@ -184,13 +184,13 @@
 	</table>
 </div>
 
-***GrimmNoir*** (also styled *Grimm Noir*) is an [[Institution Theater]] mainstage show that combines [[Wikipedia - film noir|film noir]] with *[[Wikipedia - Grimm's Fairy Tales|Grimm's Fairy Tales]]*.
+***GrimmNoir*** (also styled *Grimm Noir*) is an [[Theatres/Institution Theater|Institution Theater]] mainstage show that combines [[Wikipedia - film noir|film noir]] with *[[Wikipedia - Grimm's Fairy Tales|Grimm's Fairy Tales]]*.
 
 ## Summary
 *GrimmNoir* is a narrative longform show takes place in a world that combines gritty, classic film noir with the fantasy world of fairy tales.  It features a grizzled, old-school private eye who investigates a couple of 'cases' (i.e., classic fairy tales) in that world of 'noir fantasy'.
 
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>With fairy tale shows such as "Wicked" and "Into the Woods" being Broadway and touring hits, and the Noir style being popular both as a movie and play genre, our concept highlights what makes both genres special.</p>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>With fairy tale shows such as "Wicked" and "Into the Woods" being Broadway and touring hits, and the Noir style being popular both as a movie and play genre, our concept highlights what makes both genres special.</p>
 
 <p>It brings a gritty theme into what would normally be the fantasy world of the fairy tale. What would the story of Humpty Dumpty look like if it were not an accident but a murder? How about the domestic like of "Peter, Peter, Pumpkin Eater" who sequestered his wife in some isolated place because their relationship went sour? Or what was the real reason the Wolf kept destroying the Pigs' homes?</p>
 
@@ -199,7 +199,7 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 ## History
 The show premiered as a *[[Shows/Free Fringe|Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
-It is returning as a mainstage show at [[The Institution Theater]], running on Friday and Saturday nights at 8pm from 2/20/15 to 3/7/15.
+It is returning as a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]], running on Friday and Saturday nights at 8pm from 2/20/15 to 3/7/15.
 
 ## Media
 ### Videos

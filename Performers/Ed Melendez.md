@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -21,7 +21,7 @@
 
 **Ed Melendez** is an improv performer.
 
-He is a graduate of the ColdTowne Conservatory at [[Coldtowne Theater]].
+He is a graduate of the ColdTowne Conservatory at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Troupes
 * [[Troupes/Oh, Science!|Oh, Science!]]

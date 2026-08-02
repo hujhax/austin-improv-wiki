@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Disco Box** is an improv troupe that frequently plays at [[The New Movement]].
+**Disco Box** is an improv troupe that frequently plays at [[Theatres/The New Movement|The New Movement]].
 
 ## Media
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3) by [[Michael Yew]] that includes their 5/10/12 performance in *[[Shows/The Threefer|The Threefer]]*.

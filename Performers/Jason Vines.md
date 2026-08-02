@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Jason Vines** is a versatile and bold Austin improviser.
 
 ## History
-Jason began studying improv at [[The Hideout Theatre]] in 2003 after attending a performance of *[[Shows/Maestro|Maestro]]* and participating as an audience volunteer.
+Jason began studying improv at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2003 after attending a performance of *[[Shows/Maestro|Maestro]]* and participating as an audience volunteer.
 
 He founded [[Troupes/Improv For Evil|Improv For Evil]] with [[Performers/Marc Majcher|Marc Majcher]] and [[Nadine Crouch]].
 

@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Sarah Swofford** is an improv performer who works primarily with [[The Institution Theater]].
+**Sarah Swofford** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Troupes
 * [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]

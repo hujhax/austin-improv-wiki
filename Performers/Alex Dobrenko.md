@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Alex Dobrenko** is an improv performer.
 
 ## History
-Alex first took classes at [[The Hideout Theatre]] with [[Performers/Andy Crouch|Andy Crouch]] in 2010.
+Alex first took classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with [[Performers/Andy Crouch|Andy Crouch]] in 2010.
 
 In 2014, Alex moved away to Los Angeles.
 

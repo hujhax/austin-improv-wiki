@@ -43,7 +43,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * Stage Door: this was a 'backstage musical' format.
 * Pink is the New Black: Inspired by the TV show ''[[Wikipedia - Orange is the New Black|Orange is the New Black]]
 * The Secret Lives of Soccer Moms
-	* This format had a mainstage run at [[The Institution Theater]] on Fridays and Saturdays at 8pm from 4/17/15 to 5/2/15.
+	* This format had a mainstage run at [[Theatres/The Institution Theater|The Institution Theater]] on Fridays and Saturdays at 8pm from 4/17/15 to 5/2/15.
 
 ### Former Cast Members
 * [[Amy McCurdy]]
@@ -125,7 +125,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Video highlights](http://youtu.be/o-QneRdYgAM) of their 2/5/10 show (the premiere of *Jerzey Shorez*).
 * [Video highlights](http://youtu.be/pu1USWq1vy0) of their 2/12/10 show (the second performance of *Jerzey Shorez*).
 * [Video](http://vimeo.com/43331034) by [[Performers/Dave alley|Dave alley]] of the 6/1/12 show in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
-* [Video](http://vimeo.com/43532723) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/2/12 show at [[Salvage Vanguard Theater]].
+* [Video](http://vimeo.com/43532723) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/2/12 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Video](http://youtu.be/196aoEhy3hs) of their 1/13/13 show ("King Size Bed").
 * [Video](http://youtu.be/yDwlCWTJPE4) of their 2/15/13 "Welding Studio" show.
 * [Video](http://youtu.be/Sad-Ri4xo2w) of their 3/9/13 show ("Backyard").
@@ -173,7 +173,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/25/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.670030793018419.1073741871.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 12/7/13 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.670030793018419.1073741871.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 12/7/13 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.720979564632229.1073741991.221927764537414&type=3) by [[Steve Rogers]] of their 4/19/14 "Pink Is the New Black" show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.759510950779090.1073742029.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203483337546834.1073741925.1315383518&type=1) by [[Michael Yew]] of their 1/30/15 "Jam-a-Rama".

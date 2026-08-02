@@ -7,7 +7,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 
 ## Acts
 * [[Troupes/Achatina Achatina!|Achatina Achatina!]]
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/Confidence Men|Confidence Men]]
 * [[Ctrl Alt Delight]]
 * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
@@ -20,7 +20,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Glamping Trip]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
-* [[The Institution Theater]]
+* [[Theatres/The Institution Theater|The Institution Theater]]
 * [[Troupes/The Intentions|The Intentions]]
 * [[Troupes/Junk|Junk]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]

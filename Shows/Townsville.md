@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -142,7 +142,7 @@ Townsville is a scripted version of the improv format Close Quarters.  Each Town
 Tim & Nicole met in their improv troupe [[Troupes/Nice Astronaut|Nice Astronaut]] when she joined in late 2009.  They both wanted to write a Close Quarters based improv show, but the rest of the improv troupe wasn't interested at the time, so they formed a separate group.
 
 ## Etymology
-The name is intended to invoke a generic town that could be anywhere.  **Townsville, Texas** is intended to be an amalgamation of Pflugerville and Budda, Texas.  The usage of "town" in the name was accidental and is not intended to invoke the spelling of [[Coldtowne Theater]] or an association like Tim's former sketch group [[Troupes/UpTowne|UpTowne]].
+The name is intended to invoke a generic town that could be anywhere.  **Townsville, Texas** is intended to be an amalgamation of Pflugerville and Budda, Texas.  The usage of "town" in the name was accidental and is not intended to invoke the spelling of [[Theatres/Coldtowne Theater|Coldtowne Theater]] or an association like Tim's former sketch group [[Troupes/UpTowne|UpTowne]].
 
 
 ## Shows/Episodes

@@ -74,12 +74,12 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>They say music is love in search of a word. The Band of Liars is love in search of music. 
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>They say music is love in search of a word. The Band of Liars is love in search of music. 
 
 Based on suggestions from the audience they summon an entire album of songs, never before heard, never to be listened to again. Rap to Classical; Death Metal to Jazz, they do it all. Comedy seeps its way into this epic journey through and band in search of a song. Not to be missed. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We focus on improvising songs. 
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We focus on improvising songs. 
 
 Lyrically, instrumentally, emotionally, consistantly, and constantly. 
 

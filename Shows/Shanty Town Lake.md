@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Shanty Town Lake*** was a sketch revue at [[Coldtowne Theater]].
+***Shanty Town Lake*** was a sketch revue at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
 The show ran Fridays at 8pm from 4/2/10 to 7/31/10.

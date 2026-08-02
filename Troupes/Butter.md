@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Butter first charmed audiences using clown at The Institution Theater's Date Night back in August 2014. Inspired by their clown's attempts at romance and audience support, their show The Art of the Woo was born. Luke and Sandra debuted The Art of the Woo at The Hideout Theatre's Free Fringe and performed the show at Hyde Park Theatre's 2015 Frontera Festival. They went on to headline a night of improvised clown with Lucky Chaos Theater. Luke and Sandra were no longer just presenting a show and were now officially a duo. They became Butter because butter makes everything taste better and it is fun to say. </blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Butter first charmed audiences using clown at The Institution Theater's Date Night back in August 2014. Inspired by their clown's attempts at romance and audience support, their show The Art of the Woo was born. Luke and Sandra debuted The Art of the Woo at The Hideout Theatre's Free Fringe and performed the show at Hyde Park Theatre's 2015 Frontera Festival. They went on to headline a night of improvised clown with Lucky Chaos Theater. Luke and Sandra were no longer just presenting a show and were now officially a duo. They became Butter because butter makes everything taste better and it is fun to say. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We perform improvised clowning.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform improvised clowning.</blockquote>
 
 ## Media
 ### Videos

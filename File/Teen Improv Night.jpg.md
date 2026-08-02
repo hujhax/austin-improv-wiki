@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Teen Improv Night.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Coldtowne Theater]]'s *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*.
+Publicity photo for [[Theatres/Coldtowne Theater|Coldtowne Theater]]'s *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*.
 
 Photo by: unknown.
 

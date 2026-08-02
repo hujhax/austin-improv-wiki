@@ -1,5 +1,5 @@
 <noinclude>
-This **List of New Movement Shows** is designed to be transcluded into any "[[New Movement]] shows" section on the wiki.
+This **List of New Movement Shows** is designed to be transcluded into any "[[Theatres/New Movement|New Movement]] shows" section on the wiki.
 </noinclude>
 * *[[Shows/Austin Comedy Hour|Austin Comedy Hour]]*
 * *[[Shows/Block Party|Block Party]]*

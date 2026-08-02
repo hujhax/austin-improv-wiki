@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@ Jeremy Moran started taking improv classes at The Hideout in Spring 2014. Since 
 
 As a filmmaker, he has created numerous animated films. His next project is the animated dark comedy "Squiffle Will Die".
 
-He has also been active as an avant-garde musician. In October 2015, he performed sound poetry and experimental vocal music at [[The Institution Theater]].
+He has also been active as an avant-garde musician. In October 2015, he performed sound poetry and experimental vocal music at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Troupes
 * [[Troupes/Andrew and Jeremy Hypnotize Each Other!|Andrew and Jeremy Hypnotize Each Other!]]

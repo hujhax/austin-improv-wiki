@@ -69,7 +69,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[The New Movement]]</td>
+			<td class="category">[[Theatres/The New Movement|The New Movement]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

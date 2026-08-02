@@ -73,7 +73,7 @@
 **What's the Story Steve?** is a troupe that specializes in children's theater and features a poodle.
 
 ## Summary
-What's the Story Steve? produces a weekly improvised children's show at [[Coldtowne Theater]]. Additionally, the troupe occasionally performs an adult version of the show at various theaters in Austin.
+What's the Story Steve? produces a weekly improvised children's show at [[Theatres/Coldtowne Theater|Coldtowne Theater]]. Additionally, the troupe occasionally performs an adult version of the show at various theaters in Austin.
 
 Featuring Steve the Improvising Poodle, WTSS shows introduce Steve as both the host of the show and as a performer. The Voice of Steve (V.o.S.) is played by an actor offstage, using a microphone.
 

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a>, <a class="internal-link" href="Hideout Theatre">Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a>, <a class="internal-link" href="Theatres/Hideout Theatre">Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Margaret Rose Hunsicker** is an improv performer who has appeared in productions at [[The Institution Theater]] and the [[Hideout Theatre]].
+**Margaret Rose Hunsicker** is an improv performer who has appeared in productions at [[Theatres/The Institution Theater|The Institution Theater]] and the [[Theatres/Hideout Theatre|Hideout Theatre]].
 
 
 ## History

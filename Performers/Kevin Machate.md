@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Kevin Machate** is an improv performer who works primarily with [[The Institution Theater]].
+**Kevin Machate** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Shows
 * *[[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]]* (Spike/Framkin)

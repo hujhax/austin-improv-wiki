@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -184,10 +184,10 @@
 	</table>
 </div>
 
-***Who is T. Henry Baudecliffe?*** was a mainstage show at [[The Hideout Theatre]].  It was inspired by the 'outsider art' of artists like [[Wikipedia - Henry Darger|Henry Darger]].
+***Who is T. Henry Baudecliffe?*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was inspired by the 'outsider art' of artists like [[Wikipedia - Henry Darger|Henry Darger]].
 
 ## Summary
-The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and [[The Hideout Theatre]] was presenting stagings of some of his work.  An excerpt from a blog post from [[Performers/Curtis Luciani|Curtis Luciani]] explains the conceit in further detail:<blockquote><p>"Late in 2009, I received an email from an artist friend of mine. She had sent me and several other friends a collection of digital images. The images looked like severely demented children's drawings, and each drawing had handwritten captions that seemed to be drawn from some equally demented narrative. This was my first encounter with the work of T. Henry Baudecliffe.</p>
+The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and [[Theatres/The Hideout Theatre|The Hideout Theatre]] was presenting stagings of some of his work.  An excerpt from a blog post from [[Performers/Curtis Luciani|Curtis Luciani]] explains the conceit in further detail:<blockquote><p>"Late in 2009, I received an email from an artist friend of mine. She had sent me and several other friends a collection of digital images. The images looked like severely demented children's drawings, and each drawing had handwritten captions that seemed to be drawn from some equally demented narrative. This was my first encounter with the work of T. Henry Baudecliffe.</p>
 
 <p>Thomas Henry Baudecliffe, who passed away in 2009, was a resident of St. Mark's Community Home, a center for transfers from Austin State Hospital who have been judged to be no danger to themselves or others but still require daily care. After his death, the staff of St. Mark's discovered thousands of pages of original illustrated children's stories among Baudecliffe's belongings. Given the sheer volume, Baudecliffe must have been working on them for nearly his whole life. Since this discovery, there has been a great deal of interest in Baudecliffe among local artists, folk historians, and collectors of cultural oddities.</p>
 

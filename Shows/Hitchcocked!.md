@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -190,7 +190,7 @@
 
 ![[Hitchcocked! Performance.jpg|A performance of *Hitchcocked!*.]]
 
-***Hitchcocked!*** was a mainstage show at [[The Hideout Theatre]] inspired by the works of [[Wikipedia - Alfred Hitchcock|Alfred Hitchcock]].
+***Hitchcocked!*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] inspired by the works of [[Wikipedia - Alfred Hitchcock|Alfred Hitchcock]].
 
 ## Summary
 Each performance included "sceneographers" to re-create cinematic effects onstage.

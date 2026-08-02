@@ -1,6 +1,6 @@
 ![[Improvised Play Festival Logo.jpg|2012 Improvised Play Festival logo]]
 
-**The Improvised Play Festival** is an improv festival devoted to narrative longform held at [[The Hideout Theatre]] every April.
+**The Improvised Play Festival** is an improv festival devoted to narrative longform held at [[Theatres/The Hideout Theatre|The Hideout Theatre]] every April.
 
 ## List of Improvised Play Festivals
 * [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]]

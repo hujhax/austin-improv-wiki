@@ -79,7 +79,7 @@ They have been consistently recognized by their peers, winning "Best Improv Trou
 
 In addition, The Frank Mills were selected as "Best of the Fest" by Hyde Park Theater's FronteraFest 2007.
 
-All five current members were founding faculty at [[Coldtowne Theater]].
+All five current members were founding faculty at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ### Former Members
 * [[Todd Schanbacher]] (2009-2013)
@@ -95,13 +95,13 @@ They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Clos
 They currently alternate between [[MonoPop]], a Gameless [[Harold]] and following [[Rabbit Holes]].
 
 ### Sketch Shows
-* *Classy Ass Show* Feb 2007, [[The Hideout]]
+* *Classy Ass Show* Feb 2007, [[Theatres/The Hideout|The Hideout]]
 
 * *Winning Dirty* May 2007, [[The Blue Theater]]
 
 ## Residency
 On 4/3/2010 The Frank Mills began their Saturday night residency at ColdTowne Theater and have performed weekly ever since.
-They currently perform every Saturday at 10pm at [[Coldtowne Theater]], opening for [[Troupes/Midnight Society|Midnight Society]].
+They currently perform every Saturday at 10pm at [[Theatres/Coldtowne Theater|Coldtowne Theater]], opening for [[Troupes/Midnight Society|Midnight Society]].
 
 Some of their out of town guests have included:
 
@@ -144,9 +144,9 @@ and many of their students
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3) by [[Roy Moore]] that includes their 11/19/11 performance at [[Festivals/Wafflefest|Wafflefest]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.383629978367191.91509.221927764537414&type=3) by [[Steve Rogers]] that includes their 6/16/12 "Goodbye Justin and Teresa" show at [[Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.383629978367191.91509.221927764537414&type=3) by [[Steve Rogers]] that includes their 6/16/12 "Goodbye Justin and Teresa" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance with [[Troupes/Squirrel Buddies|Squirrel Buddies]] in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.470860206310834.113818.221927764537414&type=3) by [[Steve Rogers]] of their 1/5/13 performance at [[Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.470860206310834.113818.221927764537414&type=3) by [[Steve Rogers]] of their 1/5/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.756154667781385.1073742023.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105046990502450.1073741875.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of their 8/29/14 performance in [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].

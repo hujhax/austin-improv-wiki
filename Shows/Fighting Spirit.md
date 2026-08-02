@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***Fighting Spirit*** is an improv tournament at [[The New Movement]].
+***Fighting Spirit*** is an improv tournament at [[Theatres/The New Movement|The New Movement]].
 
 ## Summary
 Each show features two competing troupes.  The winner is determined at the end by audience votes.

@@ -22,7 +22,7 @@
 **Karen Jane DeWitt** is an improv performer.
 
 ## Summary
-Karen Jane is also the proprietress of Scissortail Savories and Sweets, a bakery that provides mini-pies to [[The Hideout Theatre]].
+Karen Jane is also the proprietress of Scissortail Savories and Sweets, a bakery that provides mini-pies to [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 Karen Jane first started doing improv in September 2009.

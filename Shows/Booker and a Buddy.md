@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -31,7 +31,7 @@
 	</table>
 </div>
 
-***Booker and a Buddy*** is a recurring show at [[The Institution Theater]] featuring [[Performers/Tom Booker|Tom Booker]] and one of his friends.
+***Booker and a Buddy*** is a recurring show at [[Theatres/The Institution Theater|The Institution Theater]] featuring [[Performers/Tom Booker|Tom Booker]] and one of his friends.
 
 ## Summary
 The show is loosely patterned off of [[Wikipedia - Susan Messing|Susan Messing]]'s regular *Messing with a Friend* show.  *Booker and a Buddy* has no set format -- it's basically whatever Tom and his friend decide on that night -- and no hard-and-fast schedule, though it usually plays once per month.  The show includes an opening act, often a showcase for one of the Institution's graduating classes.

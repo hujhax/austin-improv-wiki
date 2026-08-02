@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***The Narrative Improv Jam*** was a monthly Friday-night show at [[The Hideout]] where the cast collaborated with the audience to perform a narrative longform.
+***The Narrative Improv Jam*** was a monthly Friday-night show at [[Theatres/The Hideout|The Hideout]] where the cast collaborated with the audience to perform a narrative longform.
 
 It was part of *[[Shows/The Wheel|The Wheel]]*.
 

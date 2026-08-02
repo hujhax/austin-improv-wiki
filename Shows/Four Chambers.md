@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -31,7 +31,7 @@
 	</table>
 </div>
 
-***Four Chambers*** is the the inaugural second stage production of the 2015 Stargazer Series at [[The Hideout Theatre]]. 
+***Four Chambers*** is the the inaugural second stage production of the 2015 Stargazer Series at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. 
 
 ## Summary
 The show is a series of four nordic-style LARPs played on stage: The Tribunal, Previous Occupants, Juggernaut, and Icebox.

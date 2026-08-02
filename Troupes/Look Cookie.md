@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>We are doing a format called craigslist where we use ads the audience picks out.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are doing a format called craigslist where we use ads the audience picks out.</blockquote>
 
 ## Media
 ### Videos

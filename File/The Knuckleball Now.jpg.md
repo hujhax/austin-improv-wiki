@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The Knuckleball Now.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for [[Troupes/The Knuckleball Now|The Knuckleball Now]]'s 2012 performance run at [[Salvage Vanguard Theater]], produced by [[Gnap! Theater Projects]].
+Publicity image for [[Troupes/The Knuckleball Now|The Knuckleball Now]]'s 2012 performance run at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], produced by [[Gnap! Theater Projects]].
 
 Photo by: unknown.
 

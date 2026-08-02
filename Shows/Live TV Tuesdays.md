@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -36,12 +36,12 @@
 </div>
 
 
-***Live TV Tuesdays*** (formerly known as ***Teen Angst Tuesdays***) were a series of theatrical presentations put on by [[The Institution Theater]] where casts of mostly improvisors presented staged versions of beloved TV episodes.
+***Live TV Tuesdays*** (formerly known as ***Teen Angst Tuesdays***) were a series of theatrical presentations put on by [[Theatres/The Institution Theater|The Institution Theater]] where casts of mostly improvisors presented staged versions of beloved TV episodes.
 
 ## History
 [[Performers/Tom Booker|Tom Booker]] began the tradition of *Live TV Tuesdays* in 2009 with his production of [[Shows/Live TV Tuesdays -  Saved by the Bell|*Staged by the Bell*]], a live-theater presentation of the *Saved by the Bell* episode "Jessie's Song".  This sort of production was not unprecedented for Mr. Booker: in Los Angeles, he had directed a similar take on *The Brady Bunch* (called [[Wikipedia - The Brady Bunch#Specials.2C documentaries.2C and other revivals|*The Real Live Brady Bunch*]]) to great success.
 
-[[Shows/Live TV Tuesdays -  Saved by the Bell|*Staged by the Bell*]] was performed at The United States Art Authority at [[The Spider House]].  Subsequent productions happened at [[The Highball]].  Up through the *[[Shows/Live TV Tuesdays -  Buffy|Buffy]]* production, productions of *Live TV Tuesdays* stayed exclusively at that venue, but starting with *[[Shows/Live TV Tuesdays -  Buffy|Buffy]]*, each production would spend the first month of its run at [[The Highball|the Highball]], and spend their second month at [[The Institution]], which had a newly-constructed theater.  The final show, *[[Shows/Live TV Tuesdays -  Scrubs|Scrubs]]*, never played at [[The Highball]], but was performed exclusively at [[The Institution]].
+[[Shows/Live TV Tuesdays -  Saved by the Bell|*Staged by the Bell*]] was performed at The United States Art Authority at [[Theatres/The Spider House|The Spider House]].  Subsequent productions happened at [[Theatres/The Highball|The Highball]].  Up through the *[[Shows/Live TV Tuesdays -  Buffy|Buffy]]* production, productions of *Live TV Tuesdays* stayed exclusively at that venue, but starting with *[[Shows/Live TV Tuesdays -  Buffy|Buffy]]*, each production would spend the first month of its run at [[Theatres/The Highball|the Highball]], and spend their second month at [[Theatres/The Institution|The Institution]], which had a newly-constructed theater.  The final show, *[[Shows/Live TV Tuesdays -  Scrubs|Scrubs]]*, never played at [[Theatres/The Highball|The Highball]], but was performed exclusively at [[Theatres/The Institution|The Institution]].
 
 The show was known by a variety of names over the course of its run.  The first production was known only as "*Staged by the Bell*".  After that, productions were known as "*Teen Angst Tuesdays*", except for *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, which was known as "*Doctor Horrible Live!*"  Then starting with *[[Shows/Live TV Tuesdays -  Angel|Angel]]*, the name shifted to "*Live TV Tuesdays*".  Finally, *[[Shows/Live TV Tuesdays -  South Park|South Park]]* returned to the "*Live!*" moniker, going by "*South Park Live!*"
 
@@ -51,7 +51,7 @@ Note that two of the productions were actually not TV episodes.  *[[Shows/Live T
 
 In 2011 and 2012, the Institution achieved great commercial success with a series of [[Wikipedia - Joss Whedon|Joss-Whedon]]-based productions of *[[Shows/Live TV Tuesdays -  Buffy|Buffy]]*, *[[Shows/Live TV Tuesdays -  Buffy|Angel]]*, *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, and *[[Shows/Live TV Tuesdays -  Firefly|Firefly]]*.  (They then capitalized on that success with *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*.)  Unfortunately, with success, *Live TV Tuesdays* also got the attention of the TV companies' legal departments.  *[[Shows/Live TV Tuesdays -  Firefly|Firefly]]* received a cease-and-desist order from FOX after their second performance.  On 6/28/12, Viacom sent the theater [[File/SouthParkCeaseAndDesist.jpg.md|a cease-and-desist letter]] demanding an end to *[[Shows/Live TV Tuesdays -  South Park|South Park]]* because of copyright violation.
 
-[[The Institution Theater]] produced one more show (*[[Shows/Live TV Tuesdays -  Scrubs|Scrubs]]*), and then ceased production on *Live TV Tuesdays*.
+[[Theatres/The Institution Theater|The Institution Theater]] produced one more show (*[[Shows/Live TV Tuesdays -  Scrubs|Scrubs]]*), and then ceased production on *Live TV Tuesdays*.
 
 ## List of TV Tuesdays Runs
 * Aug 2009:  [[Shows/Live TV Tuesdays -  Saved by the Bell|*Saved by the Bell*: "Jessie's Song"]]

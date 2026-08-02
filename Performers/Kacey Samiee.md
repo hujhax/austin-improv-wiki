@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Kacey Samiee** ([[Wikipedia - Help - IPA for English#Key|/ˈsæmiːˌiː/]]) is a performer, director, coach, teacher, and singer of improv.  
 
 ## History
-Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's house troupe, [[Troupes/We Could Be Heroes|We Could Be Heroes]]. A few years later she started directing and coaching both short form and narrative shows. In 2001, Kacey became a founding member of [[Troupes/Girls Girls Girls|Girls Girls Girls]] and was a co-creator of the first musical improv troupe in Austin. She spent the next decade helping to develop, and refine the technique of musical improv with [[Troupes/Girls Girls Girls|Girls Girls Girls]] until she left in 2010. In 2013 she created the curriculum for three levels of musical improv at [[The Hideout Theatre]] and began to teach. In 2015 she signed on to teach regular improv at the same institution as well.
+Kacey started doing improv since 2000 as a member of [[The Hideout]] Theatre's house troupe, [[Troupes/We Could Be Heroes|We Could Be Heroes]]. A few years later she started directing and coaching both short form and narrative shows. In 2001, Kacey became a founding member of [[Troupes/Girls Girls Girls|Girls Girls Girls]] and was a co-creator of the first musical improv troupe in Austin. She spent the next decade helping to develop, and refine the technique of musical improv with [[Troupes/Girls Girls Girls|Girls Girls Girls]] until she left in 2010. In 2013 she created the curriculum for three levels of musical improv at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and began to teach. In 2015 she signed on to teach regular improv at the same institution as well.
 
 ## Troupes
 * [[Troupes/Indigo Shift|Indigo Shift]]

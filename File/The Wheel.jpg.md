@@ -3,7 +3,7 @@
 ## Summary
 Publicity image for *[[Shows/The Wheel|The Wheel]]*.
 
-Screencap of [[The Hideout Theatre]]'s pre-performance slideshow.
+Screencap of [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s pre-performance slideshow.
 
 Art by [[Performers/Kaci Beeler|Kaci Beeler]].
 ## Licensing

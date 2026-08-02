@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***ImprompTwo*** is a weekly performance slot at [[The Institution Theater]].
+***ImprompTwo*** is a weekly performance slot at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 *ImprompTwo* is a "casual duo night", featuring [[Troupes/Cascade|Cascade]] with another guest duo each week.

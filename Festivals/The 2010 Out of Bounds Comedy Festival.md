@@ -17,7 +17,7 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Shows/Austin Secrets|Austin Secrets]]
 * [[Troupes/Boy Toy|Boy Toy]]
 * [[Troupes/Buddy Daddy|Buddy Daddy]]
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[ColdTowne Fantasy]]
 * [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
 * [[Cooper Street]]
@@ -156,10 +156,10 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 
 ### Other
 * Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set designs:
-	* At [[Salvage Vanguard Theater]]: 
+	* At [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]: 
 		* The small stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_5/oob2010_5.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_4/oob2010_4.jpg?disposition=download).
 		* The large stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_7/oob2010_7.jpg?disposition=download),[2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_8/oob2010_8.jpg?disposition=download),[3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_6/oob2010_6.jpg?disposition=download).
-	* At [[The Hideout Theatre]]: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_3/oob2010_3.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_2/oob2010_2.jpg?disposition=download).
+	* At [[Theatres/The Hideout Theatre|The Hideout Theatre]]: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_3/oob2010_3.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_2/oob2010_2.jpg?disposition=download).
 	* At [[The Velveeta Room]]: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_1/oob2010_1.jpg?disposition=download).
 	* At the mainstage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_10/oob2010_10.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_11/oob2010_11.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_9/oob2010_9.jpg?disposition=download).
 

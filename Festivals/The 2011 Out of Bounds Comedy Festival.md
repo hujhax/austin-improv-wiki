@@ -22,7 +22,7 @@ The roast featured [[Performers/Tom Booker|Tom Booker]].
 * [[Troupes/Billy Icon|Billy Icon]]
 * [[Troupes/Bolik Not ZIB|Bolik Not ZIB]]
 * [[Troupes/Buddy Daddy|Buddy Daddy]]
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/Confidence Men|Confidence Men]]
 * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 * [[Troupes/Delta Burka|Delta Burka]]

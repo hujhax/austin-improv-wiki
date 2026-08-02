@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Pasta with a Chat.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Pasta with a Chat|Pasta with a Chat]], performing at the 2011 [[ColdTowne]] Lock-In.
+[[Troupes/Pasta with a Chat|Pasta with a Chat]], performing at the 2011 [[Theatres/ColdTowne|ColdTowne]] Lock-In.
 
 Still from a video by [[Bryan Boyko]].
 ## Licensing

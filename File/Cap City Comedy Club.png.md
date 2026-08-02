@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cap City Comedy Club.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo of [[Cap City Comedy Club]].
+Logo of [[Theatres/Cap City Comedy Club|Cap City Comedy Club]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -83,7 +83,7 @@
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *My So-Called Life".
 
-It played exclusively at [[The Highball]].
+It played exclusively at [[Theatres/The Highball|The Highball]].
 
 ## Cast
 * Angela Chase -- [[Christine Giordano]]

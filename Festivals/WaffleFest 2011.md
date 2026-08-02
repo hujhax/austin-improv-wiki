@@ -9,7 +9,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 * [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]]
 * [[Troupes/Bad Boys|Bad Boys]]
 * [[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/Confidence Men|Confidence Men]]
 * [[Troupes/The Control Group|The Control Group]]
 * [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]], presenting "Secret Agent Men"

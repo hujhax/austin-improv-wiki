@@ -70,14 +70,14 @@
 	</table>
 </div>
 
-**The Super Troopers** was a troupe of newer improvisors associated with [[Coldtowne Theater]].
+**The Super Troopers** was a troupe of newer improvisors associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>New group in town featuring fresh new faces eager to rock your world or die trying.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>New group in town featuring fresh new faces eager to rock your world or die trying.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote><p>We do montages mostly, occasionally the Harold.</p> 
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We do montages mostly, occasionally the Harold.</p> 
 
 <p>We love finding the game and focusing on relationships.</p></blockquote>
 

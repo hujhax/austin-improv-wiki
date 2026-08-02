@@ -100,16 +100,16 @@ Goat has appeared in the following festivals:
 ### Videos
 * [Video](http://vimeo.com/39035730) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 3/22/12 debut in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/44984553) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 6/28/12 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Video](http://vimeo.com/47593964) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 7/15/12 show at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/47593964) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 7/15/12 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Video](http://vimeo.com/49553431) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 8/29/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/49553431) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 9/13/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/53269887) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 11/10/12 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
-* [Video](http://vimeo.com/57374969) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 1/13/13 performance at [[Coldtowne Theater]] ("Jerry the Cat").
-* [Video](http://vimeo.com/58632857) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 1/30/13 performance at [[Coldtowne Theater]] ("Chickens").
-* [Video](http://vimeo.com/60605310) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Guns" show at [[Coldtowne Theater]] (uploaded 2/26/13).
-* [Video](http://vimeo.com/61016007) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Optometrist" show at [[The Hideout Theatre]] (uploaded 3/2/13).
-* [Video](http://vimeo.com/64151133) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Fun" show at [[The Hideout Theatre]] (uploaded 4/16/13).
-* [Video](http://vimeo.com/64182313) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Circus" show at [[Coldtowne Theater]] (uploaded 4/16/13).
+* [Video](http://vimeo.com/57374969) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 1/13/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]] ("Jerry the Cat").
+* [Video](http://vimeo.com/58632857) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 1/30/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]] ("Chickens").
+* [Video](http://vimeo.com/60605310) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Guns" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] (uploaded 2/26/13).
+* [Video](http://vimeo.com/61016007) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Optometrist" show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (uploaded 3/2/13).
+* [Video](http://vimeo.com/64151133) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Fun" show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (uploaded 4/16/13).
+* [Video](http://vimeo.com/64182313) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Circus" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] (uploaded 4/16/13).
 
 ### Photos
 * [Photoset of their 3/22/12 show](http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3) at *[[Shows/The Threefer|The Threefer]]* by [[Steve Rogers]].

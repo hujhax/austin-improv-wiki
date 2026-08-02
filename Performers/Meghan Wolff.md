@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Meghan Wolff** is an improv performer who worked primarily with [[The Hideout Theatre]], and now lives in Minneapolis.
+**Meghan Wolff** is an improv performer who worked primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]], and now lives in Minneapolis.
 
 ## History
 Meghan was a core cast member in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].

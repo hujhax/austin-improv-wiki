@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -188,7 +188,7 @@
 	</table>
 </div>
 
-***Cochise*** was a mainstage show at [[The Hideout Theatre]] based on late-70s cop shows.  It was originally produced and performed by [[Troupes/Improv For Evil|Improv For Evil]].
+***Cochise*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] based on late-70s cop shows.  It was originally produced and performed by [[Troupes/Improv For Evil|Improv For Evil]].
 
 ## Summary
 In each episode, two characters were pre-determined: "Cochise", a renegade cop, and his beleaguered police sergeant.  Everyone else played whatever characters were needed on the day.  Each performance introduced a villain committing some sort of crime, and showed Cochise gradually closing in on and defeating the villain.
@@ -198,7 +198,7 @@ The show included over-the-top 70s costumes and many fake moustaches.
 ## History
 The name "Cochise" is a reference to a character in the Beastie Boys video "Sabotage", which traffics in the same genre as the improv show.
 
-The show premiered at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
+The show premiered at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]], and then ran as [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 It returned in 2014 for a June/July run as one of the first [[Hideout Student Mainstage]] shows.
 

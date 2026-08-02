@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Celena Diamond** is an improv performer who works primarily with [[The Institution Theater]].
+**Celena Diamond** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## History
 Celena is an improviser, actor, artist, maker, seamstress, painter, designer, poet, creativity and self-expression coach, ordained minister and avid lover of dancing, singing, spinning in circles and giggling. She’s been studying improv since March of 2012 with The Institution Theater. Celena also does film and voice work.

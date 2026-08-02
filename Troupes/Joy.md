@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Our collective has one goal - to bring JOY to each other and our audiences. We combine improv with rhythm, sketch, stunts, puppets, audience interaction, pies and whatever techniques suit our purpose into an explosive rainbow of smiles and laughter.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our collective has one goal - to bring JOY to each other and our audiences. We combine improv with rhythm, sketch, stunts, puppets, audience interaction, pies and whatever techniques suit our purpose into an explosive rainbow of smiles and laughter.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We have planned a gumbo of games and unexpected performance techniques. One scene may be played out with puppets, the next mimed to a song that inspires the story and so forth. We embrace positive energy and playfulness with open minds and hearts. Joy!</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We have planned a gumbo of games and unexpected performance techniques. One scene may be played out with puppets, the next mimed to a song that inspires the story and so forth. We embrace positive energy and playfulness with open minds and hearts. Joy!</blockquote>
 
 ## Media
 ### Videos

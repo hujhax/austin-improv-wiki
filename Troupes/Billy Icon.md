@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>Joshua Krilov and Stephanie Russo join forces for an improvised two person show where memorable characters are created and thoughtful relationships are explored. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Joshua Krilov and Stephanie Russo join forces for an improvised two person show where memorable characters are created and thoughtful relationships are explored. </blockquote>
 
 ## Media
 ### Photos

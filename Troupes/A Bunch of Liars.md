@@ -78,7 +78,7 @@ Their press blurb, taken from their facebook page:<blockquote>We are an improv t
 We love performing elaborate lies in front of large crowds, and making people laugh and cry with songs, monologues, and scenes in our famous Musical Armando format which we invented. Another format we invented that's really amazing is Theraprov, therapy-based improv, which is always hosted by Werner Herzog, who tends to fly in for the occasion.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We basically do a Musical Armando.  Scenes interspersed with music.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We basically do a Musical Armando.  Scenes interspersed with music.</blockquote>
 
 ## More Information
 * [Their web site.](http://www.facebook.com/pages/A-Bunch-Of-Liars/10150104673395494)

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,12 +19,12 @@
 	</table>
 </div>
 
-**Kareem Badr** ([[Wikipedia - Help - IPA for English#Key|/ˈbɑːdrə/]]) is an improv performer, director, and teacher.  He is a co-owner of [[The Hideout Theatre]], and is in charge of much of the theater's day-to-day logistics.
+**Kareem Badr** ([[Wikipedia - Help - IPA for English#Key|/ˈbɑːdrə/]]) is an improv performer, director, and teacher.  He is a co-owner of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and is in charge of much of the theater's day-to-day logistics.
 
 ## History
-Kareem began taking classes at [[The Hideout Theatre]] on 1/8/05.  He performed in his first improv show on April 2nd of that same year.
+Kareem began taking classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 1/8/05.  He performed in his first improv show on April 2nd of that same year.
 
-On 4/15/09, he became one of the co-owners of [[The Hideout Theatre]].  That same year, he appeared in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
+On 4/15/09, he became one of the co-owners of [[Theatres/The Hideout Theatre|The Hideout Theatre]].  That same year, he appeared in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 ## Troupes
 * [[Badr & Janik]]

@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote><p>We do no gimmicks long form.</p> 
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We do no gimmicks long form.</p> 
 
 <p>Our style can be zany and game-oriented, yet we aim to be grounded in strong characters and solid scene work.</p> 
 

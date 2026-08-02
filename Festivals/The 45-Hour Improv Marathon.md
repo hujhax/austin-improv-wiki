@@ -28,7 +28,7 @@
 * Saturday 1am (hour 9): "The Queen Is Not Amused": the Queen is here, and she is (of course) in charge of the whole show.
 * Saturday 2am (hour 10): *[[Shows/The Black Vault|The Black Vault]]*
 * Saturday 3am (hour 11): [[Troupes/Squirrel Buddies|Squirrel Buddies]]
-* Saturday 4am (hour 12): [[Coldtowne Theater]] presents The Bat.
+* Saturday 4am (hour 12): [[Theatres/Coldtowne Theater|Coldtowne Theater]] presents The Bat.
 * Saturday 5am (hour 13): [[Troupes/Waterpark|Waterpark]]
 * Saturday 6am (hour 14): Hideout student show.
 * Saturday 7am (hour 15): "The Marathon Alumni Show": 	A blast from the past. Marathon Alumni come to support and advise the 2014 participants.
@@ -56,7 +56,7 @@
 * Sunday 6am (hour 38): [[Troupes/Field Day|Field Day]]
 * Sunday 7am (hour 39): *[[Shows/Care Bear Stare|Care Bear Stare]]*: The Care Bears are here to bring badly animated joy to your lives.
 * Sunday 8am (hour 40): *[[Shows/Kaleidoscope|Kaleidoscope]]*
-* Sunday 9am (hour 41): [[The Institution Theater]] presents their "movie format".
+* Sunday 9am (hour 41): [[Theatres/The Institution Theater|The Institution Theater]] presents their "movie format".
 * Sunday 10am (hour 42): Secret Show
 * Sunday 11am (hour 43): *[[Shows/Fakespeare|Fakespeare]]*
 * Sunday 12pm (hour 44): [[Troupes/The Frank Mills|The Frank Mills]]

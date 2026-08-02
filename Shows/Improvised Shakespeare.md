@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -83,7 +83,7 @@
 </div>
 
 :*This page refers to the 2008 and 2009 mainstage runs of improvised plays in the style of William Shakespeare.  For the 2013 mainstage run which had a more free-form format, and included scripted runs of *Much Ado About Nothing* and *Macbeth*, see *[[Shows/Fakespeare|Fakespeare]]''.
-***Improvised Shakespeare*** was a mainstage show at [[The Hideout Theatre]] of improvised plays in the style of [[Wikipedia - William Shakespeare|William Shakespeare]].
+***Improvised Shakespeare*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] of improvised plays in the style of [[Wikipedia - William Shakespeare|William Shakespeare]].
 
 ## History
 The first run of *Improvised Shakespeare* began with a series of open rehearsals.  Any improvisor could attend the initial rehearsals on Sundays in October 2007.  At the end of the month, the cast was announced, and those performers rehearsed for the following two months.

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***The Organ Trail*** was a mainstage show at [[Coldtowne Theater]], an audience-interactive, zombie-fied take on the classic computer educational game [[Wikipedia - The Oregon Trail (video game)|The Oregon Trail]].
+***The Organ Trail*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]], an audience-interactive, zombie-fied take on the classic computer educational game [[Wikipedia - The Oregon Trail (video game)|The Oregon Trail]].
 
 ## Summary
 ### Publicity Blurb

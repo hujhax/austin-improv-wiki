@@ -6,7 +6,7 @@ The ran from 11/20/08 to 11/22/08.
 ## Acts
 ### Local Acts
 * [[Troupes/Available Cupholders|Available Cupholders]]
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]

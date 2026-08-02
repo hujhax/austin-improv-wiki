@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -83,7 +83,7 @@
 </div>
 
 ![[Slam Team Cartoon.png|Publicity art for the show.]]
-***Slam Team Six*** was a mainstage improv show at [[Coldtowne Theater]] about a team of professional wrestlers who fight crime in their off-hours.
+***Slam Team Six*** was a mainstage improv show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] about a team of professional wrestlers who fight crime in their off-hours.
 
 ## Summary
 ### Publicity Blurb

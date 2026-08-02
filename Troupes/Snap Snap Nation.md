@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Two gals sing funny songs about strippers, sex, love and drunk texting in Snap Snap Nation.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Two gals sing funny songs about strippers, sex, love and drunk texting in Snap Snap Nation.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We do some tandem stand up style banter between singing comedy songs. (Songs are written, not improvised.) 
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do some tandem stand up style banter between singing comedy songs. (Songs are written, not improvised.) 
 
 We also do video sketches and have a youtube channel https://www.youtube.com/user/snapsnapnation/videos 
 

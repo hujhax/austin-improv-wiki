@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**UpTowne** was a [[Coldtowne Theater]] sketch comedy troupe.
+**UpTowne** was a [[Theatres/Coldtowne Theater|Coldtowne Theater]] sketch comedy troupe.
 
 ## Summary
 The troupe was open to ColdTowne Sketch Class students and ColdTowne performers in general.  UpTowne had an open door policy that ended up creating a rotating cast of writers and performers, but kept a relatively core group of producers and directors over its several year run: namely [[Brent Foshee]], [[Leah Moss]], [[Chris Baldenhoffer]], and [[Performers/Emma Holder|Emma Holder]].

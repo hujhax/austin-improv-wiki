@@ -85,7 +85,7 @@
 ***Boys of Summer*** is a longform musical improv show from [[Troupes/Girls Girls Girls|Girls Girls Girls]] which features a different male improvisor guesting with the troupe in every performance.
 
 ## History
-This format has had an annual run in July and August since 2006.  It was a mainstage show at [[The Hideout Theatre]] in 2007, 2008, and 2009.  In 2010 and 2011, it ran as a non-mainstage show at the Hideout, on Friday nights.  It ran at [[The Institution Theater]] in Jul/Aug 2012, Jul/Aug 2013, Jul/Aug 2014, and July/Aug 2015.  Another run is scheduled for 2016.
+This format has had an annual run in July and August since 2006.  It was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2007, 2008, and 2009.  In 2010 and 2011, it ran as a non-mainstage show at the Hideout, on Friday nights.  It ran at [[Theatres/The Institution Theater|The Institution Theater]] in Jul/Aug 2012, Jul/Aug 2013, Jul/Aug 2014, and July/Aug 2015.  Another run is scheduled for 2016.
 
 An improvisor only gets one chance to guest star in a Boys of Summer show; there are no repeats, unless a veteran is called back for a "Pick-A-Boy" performance.  Here is a list of improvisors who have guest-starred in Boys of Summer:
 ### 2006 Run
@@ -159,7 +159,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 * 7/31/15: [[Performers/Kevin Miller|Kevin Miller]]
 * 8/1/15: [[Performers/Andrew Buck|Andrew Buck]]
 ### 2016 Run
-The show is scheduled to return to [[The Institution Theater]] in 2016.
+The show is scheduled to return to [[Theatres/The Institution Theater|The Institution Theater]] in 2016.
 
 ## Media
 ### Videos

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -192,7 +192,7 @@
 	</table>
 </div>
 
-***Hurly Burly*** was an improvised burlesque narrative mainstage show at [[The Institution Theater]].
+***Hurly Burly*** was an improvised burlesque narrative mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 The show followed the lives of nine women working together in a house burlesque troupe, spotlighting a different performer each week.  It had the tone of the 1930s Depression era, but existed out of time, blending playful performances on stage at the theater with grounded character driven moments off- and back-stage.  It also included dance choreography and improvised burlesque.

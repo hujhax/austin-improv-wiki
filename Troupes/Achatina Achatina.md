@@ -74,14 +74,14 @@
 	</table>
 </div>
 
-**Achatina Achatina** (often written with an exclamation point: **Achatina Achatina!**) was an improv troupe associated with [[Coldtowne Theater]].
+**Achatina Achatina** (often written with an exclamation point: **Achatina Achatina!**) was an improv troupe associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Achatina Achatina! The largest land gastropod, a war chant, or just a dose of liquid funny right to your brain? Achatina Achatina is all of these and more. Recently voted "Outstanding New Troupe" at ColdTowne, come see their exploration of the absurd. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Achatina Achatina! The largest land gastropod, a war chant, or just a dose of liquid funny right to your brain? Achatina Achatina is all of these and more. Recently voted "Outstanding New Troupe" at ColdTowne, come see their exploration of the absurd. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We're using our new form right now, The Slacker, which is based on the movie of the same name. It's a fun exploration of Austin, TX, and the wacky people that make it awesome.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We're using our new form right now, The Slacker, which is based on the movie of the same name. It's a fun exploration of Austin, TX, and the wacky people that make it awesome.</blockquote>
 
 ## Media
 * [Photoset](http://www.facebook.com/media/set/?set=a.214762594820.133325.198227579820&type=3) that includes their 12/21/09 performance in *[[Shows/The Cagematch|The Cagematch]]*.

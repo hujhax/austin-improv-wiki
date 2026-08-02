@@ -31,7 +31,7 @@
 * Saturday, 2am (Hour 10): "Orphans, Orphans, Orphans"
 	* "It's a musical! About Orphans! What more do you need, man?"
 * Saturday, 3am (Hour 11): [[Troupes/Golden|Golden]]
-* Saturday, 4am (Hour 12): [[Coldtowne Theater]]
+* Saturday, 4am (Hour 12): [[Theatres/Coldtowne Theater|Coldtowne Theater]]
 	* "The Bat: improv in the dark... AKA a cruel trick to play on the Marathoners"
 * Saturday, 5am (Hour 13): *[[Shows/Control Issues|Control Issues]]*
 * Saturday, 6am (Hour 14): [[Troupes/Of Mice And Mostly Women|Of Mice And Mostly Women]]

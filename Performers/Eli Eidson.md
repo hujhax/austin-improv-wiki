@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Eli Eidson** is an improv performer known for work with [[Coldtowne Theater]].
+**Eli Eidson** is an improv performer known for work with [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 
 ## Troupes

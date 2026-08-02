@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -142,11 +142,11 @@
 ## History
 *Start Trekkin*' was originated by Lawrence Wolf in San Francisco around 2000.  The show was very successful there, with a large number of performances and sci-fi-convention appearances.
 
-[[Performers/Sean Hill|Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2003, [Richard Ross](http://www.facebook.com/richard.ross.102), a founding member of the original San Francisco show, taught a brief workshop in the format at [[The Hideout Theatre]].  A year later, [[Performers/Jay Michael|Jay Michael]] and [[Performers/Troy Miller|Troy Miller]] produced season one of *Start Trekkin' * there.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
+[[Performers/Sean Hill|Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2003, [Richard Ross](http://www.facebook.com/richard.ross.102), a founding member of the original San Francisco show, taught a brief workshop in the format at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  A year later, [[Performers/Jay Michael|Jay Michael]] and [[Performers/Troy Miller|Troy Miller]] produced season one of *Start Trekkin' * there.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
 
 Subsequent seasons followed almost once per year.  In early 2012, *Start Trekkin*' ran as half of *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*.
 
-Season six ran at [[The Highball]]; all other seasons ran at [[The Hideout Theatre]].
+Season six ran at [[Theatres/The Highball|The Highball]]; all other seasons ran at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Mr. Ross would return in the summer of 2008 to teach a more in-depth workshop on *Start Trekkin*', establishing many tropes that are hallmarks of the format: fights with three exchanges in which the loser is called ahead of time; onstage transporter effects; and focusing on the relationships among the ship's crew.
 
@@ -299,9 +299,9 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [A photoset from season 5.](http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1)
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/26/09 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/3/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 11/6/10 performance at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/28/10 performance at [[The Highball]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1449103279464.2057829.1589679282&type=3) by [[Roy Moore]] which includes their 12/5/10 performance at [[The Highball]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 11/6/10 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/28/10 performance at [[Theatres/The Highball|The Highball]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1449103279464.2057829.1589679282&type=3) by [[Roy Moore]] which includes their 12/5/10 performance at [[Theatres/The Highball|The Highball]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3) by [[Steve Rogers]] of their 6/4/11 performance in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 * [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/5/12 dress rehearsal.
 * [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/8/12 performance.

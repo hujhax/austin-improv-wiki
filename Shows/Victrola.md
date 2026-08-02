@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Victrola*** was a mainstage show at [[Coldtowne Theater]], a 19<sup>th</sup>-century themed improv show in the dark.
+***Victrola*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]], a 19<sup>th</sup>-century themed improv show in the dark.
 
 ## Summary
 The show's tagline was "Fully Improvised Comedic Penny Dreadfuls & Thrilling Tales of Humorousness".

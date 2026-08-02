@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The New Movement Theater">The New Movement Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement Theater">The New Movement Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Jesse Spots** is an improv performer and festival producer with [[The New Movement Theater]].
+**Jesse Spots** is an improv performer and festival producer with [[Theatres/The New Movement Theater|The New Movement Theater]].
 
 ## Film
 As a teenager Jesse worked behind-the-scenes on films “25th Hour” and “Hustle & Flow.” He appeared on Japanese television as a stuntman and later created special effects for “James Cameron’s Expedition: Bismarck” and “America’s Most Wanted.”

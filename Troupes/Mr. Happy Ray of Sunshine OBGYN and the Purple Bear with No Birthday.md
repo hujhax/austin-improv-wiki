@@ -82,7 +82,7 @@ This was Cody's first improv group In Austin -- Andrea asked him to work with he
 
 The duo played at least one *[[Shows/Cagematch|Cagematch]]* in 2006, against [[Chris Trew and Arthur Simone Sing the Songs of]].
 
-They also played the second [[See.Hear.Speak]] at [[Coldtowne Theater]] in 2007.
+They also played the second [[See.Hear.Speak]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in 2007.
 
 ## More Information
 * [Announcement of one of their *CageMatch* shows](http://forum.austinimprov.com/viewtopic.php?t=1985) on [[The Austin Improv Forums]].

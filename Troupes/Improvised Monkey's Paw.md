@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>A mysterious stranger hands you a wish-granting object.</p> 
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>A mysterious stranger hands you a wish-granting object.</p> 
 
 <p>And a warning.</p> 
 
@@ -83,7 +83,7 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 <p>IF YOU DARE!</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Our format is based on the short story [[Wikipedia - The Monkey's Paw|"The Monkey's Paw"]] by [[Wikipedia - W. W. Jacobs|W. W. Jacobs]]. 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our format is based on the short story [[Wikipedia - The Monkey's Paw|"The Monkey's Paw"]] by [[Wikipedia - W. W. Jacobs|W. W. Jacobs]]. 
 
 We ask the audience for a suggestion of an object. 
 

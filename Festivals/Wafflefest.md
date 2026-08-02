@@ -3,7 +3,7 @@
 ![[Wafflefest Logo.png|The WaffleFest logo; a variation on the Hideout logo.]]
 ![[Wafflefest ad.jpg|A promotional image for WaffleFest 2012.]]
 ## Summary
-WaffleFest is a three-day festival that takes place the second weekend of November at [[The Hideout Theatre]].  It includes local acts from all the improv theaters in town, as well as an all-star *[[Shows/Maestro|Maestro]]*.
+WaffleFest is a three-day festival that takes place the second weekend of November at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It includes local acts from all the improv theaters in town, as well as an all-star *[[Shows/Maestro|Maestro]]*.
 
 WaffleFest also offers festival-goers all the free waffles they can eat, with a variety of toppings.  Thus their tagline, "all the waffles and improv comedy you can eat".
 

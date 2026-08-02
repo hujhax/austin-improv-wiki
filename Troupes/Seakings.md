@@ -74,13 +74,13 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>5 improvisers looking for love or something like it. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>5 improvisers looking for love or something like it. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>A one-act play using improvised personal ad "posts" to explore characters and their relationships. It's a free form with harold, narrative, and other influences. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>A one-act play using improvised personal ad "posts" to explore characters and their relationships. It's a free form with harold, narrative, and other influences. </blockquote>
 
 ## History
-The troupe premiered at [[Coldtowne Theater]] on 6/17/10.
+The troupe premiered at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 6/17/10.
 
 ## More Information
 * [The troupe's announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=10800) of their 6/17/10 debut on [[The Austin Improv Forums]].

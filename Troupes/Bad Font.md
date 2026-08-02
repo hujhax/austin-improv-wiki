@@ -133,7 +133,7 @@ Bad Font was originally cast by [[Performers/Scott Hearne|Scott Hearne]] through
 [[Performers/Justin Davidson|Justin Davidson]] originated the name Bad Font. The team chose the name because it is easy to spell and pronounce, it contains multiple meanings, and is mildly amusing. Oh! And no one hated the name.
 
 ## Shows
-* 10/06/2013 - Debut show at [[Coldtowne Theater]], opening for [['Ternin it Up]] and [[Hyde Park Homeschoolers]].
+* 10/06/2013 - Debut show at [[Theatres/Coldtowne Theater|Coldtowne Theater]], opening for [['Ternin it Up]] and [[Hyde Park Homeschoolers]].
 
 ## Media
 ### Photos

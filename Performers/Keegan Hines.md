@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-**Keegan Hines** is an improv performer who works primarily with [[The Hideout Theatre]].
+**Keegan Hines** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-Keegan began improv classes at [[The Hideout Theatre]] in 2009 after seeing a [[Shows/Maestro|Maestro]] show. He has performed improv at the [[The Hideout Theatre]], [[Coldtowne Theater]], and [[The Institution Theater]].
+Keegan began improv classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2009 after seeing a [[Shows/Maestro|Maestro]] show. He has performed improv at the [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/Coldtowne Theater|Coldtowne Theater]], and [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Troupes
 * [[Troupes/Phil|Phil]] (2010-2014)

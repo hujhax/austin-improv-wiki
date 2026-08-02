@@ -1,5 +1,5 @@
 <noinclude>
-This **List of [[Fallout Theater]] Shows** is designed to be transcluded into any "[[Fallout Theater]] shows" section on the wiki.
+This **List of [[Theatres/Fallout Theater|Fallout Theater]] Shows** is designed to be transcluded into any "[[Theatres/Fallout Theater|Fallout Theater]] shows" section on the wiki.
 </noinclude>
 ### Improv Shows
 * *[[Fuck This Week]]*

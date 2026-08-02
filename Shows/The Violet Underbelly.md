@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***The Violet Underbelly*** was a mainstage show at [[The Hideout Theatre]] which presented narrative longform inspired by [[Wikipedia - Film noir|film noir]].
+***The Violet Underbelly*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] which presented narrative longform inspired by [[Wikipedia - Film noir|film noir]].
 
 ## Summary
 The director deliberately steered the show away from the traditional, wackier signifiers of film noir -- the gumshoes, the voiceover, and the heightened language that often serves to poke fun at the genre -- and aimed for a grittier tone that was truer to the actual source material.
@@ -148,7 +148,7 @@ After its main run, the show was performed once at [[Festivals/The 2011 Improvis
 * [Video](http://vimeo.com/24441911) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/16/11 performance.
 * [Video](http://vimeo.com/23268142) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/23/11 performance.
 * [Video](http://vimeo.com/24140520) by Stephen Reynolds of the 4/30/11 performance.
-* [Video](http://vimeo.com/26180322) by [[The Hideout Theatre]] of the 7/2/11 performance at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+* [Video](http://vimeo.com/26180322) by [[Theatres/The Hideout Theatre|The Hideout Theatre]] of the 7/2/11 performance at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Video](http://vimeo.com/44619659) by [[Performers/Peter Rogers|Peter Rogers]] of "Violet Matters", the 6/23/12 mash-up with [[Shows/False Matters|False Matters]].
 
 ### Photos

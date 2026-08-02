@@ -22,7 +22,7 @@
 **Jeanette Bozied** (formerly Jeanette Jones) is an improv performer.
 
 ## History
-Jeanette trained at [[The Institution Theater]].
+Jeanette trained at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Troupes
 * [[Troupes/Je Ju|Je Ju]]

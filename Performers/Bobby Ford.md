@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-**Bobby Ford** is an Improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
+**Bobby Ford** is an Improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## History
-Bob decided to take an improv class after his second short film had finished touring festivals to get a better feel for the organic aspects of the acting world. Much to Bob's surprise, he fell in love with improv as well as the fellowship that he found within the AIC. He completed classes at [[The Hideout Theatre]] with [[Performers/Paul Normandin|Paul Normandin]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Chad Wellington|Chad Wellington]], [[Katherine Greco]], and [[Performers/Cindy Page|Cindy Page]]. This core group completed Levels 1 through 5 at [[The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011. Bob then continued his improv studies at [[The Institution]], completing their course work, levels 3 through The Improv Clubhouse. As well, Bob has completed month long intensives with John Ratliff (organic work), Kaci Beeler (intimacy),  Asaf Ronen (physicality) and four weekend intensives  (Parallelogramophonograph, Three For All and two weekends with David Razowsky). 
+Bob decided to take an improv class after his second short film had finished touring festivals to get a better feel for the organic aspects of the acting world. Much to Bob's surprise, he fell in love with improv as well as the fellowship that he found within the AIC. He completed classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with [[Performers/Paul Normandin|Paul Normandin]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Chad Wellington|Chad Wellington]], [[Katherine Greco]], and [[Performers/Cindy Page|Cindy Page]]. This core group completed Levels 1 through 5 at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011. Bob then continued his improv studies at [[Theatres/The Institution|The Institution]], completing their course work, levels 3 through The Improv Clubhouse. As well, Bob has completed month long intensives with John Ratliff (organic work), Kaci Beeler (intimacy),  Asaf Ronen (physicality) and four weekend intensives  (Parallelogramophonograph, Three For All and two weekends with David Razowsky). 
 
 
 Bob is a fully out *Star Wars* nerd and Lick ice cream addict, a professional mentor by trade, among other vocations.  On the filmmaking side, he has produced and directed two dramatic short films which have toured internationally. His filmmaking studies include work with the University of Texas, Michael Hauge Screenwriting Intensive, countless workshops at The Austin Film Festival, Sundance Shorts, Microbudget Film School and FilmWorks Austin . Bob has two beloved dogs, Wicket and Peanut and has called Austin home since 1987.

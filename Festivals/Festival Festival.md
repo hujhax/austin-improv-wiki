@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -31,7 +31,7 @@
 	</table>
 </div>
 
-***Festival Festival*** is a holiday comedy show at [[Coldtowne Theater]] with a different theme every week.
+***Festival Festival*** is a holiday comedy show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] with a different theme every week.
 
 ## History
 ### 2013 Themes

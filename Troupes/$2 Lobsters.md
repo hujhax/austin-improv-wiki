@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We do a mono-scene that is a bit slower play and very relationship based. 
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a mono-scene that is a bit slower play and very relationship based. 
 
 We're focusing on doing meaningful improv more than getting the joke across. 
 

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -109,9 +109,9 @@ The show also features 9 athletes from Austin Cheer Factory, Austin's most elite
 * Photography -- [[Performers/Jon Bolden|Jon Bolden]]
 
 ## History
-The production process involved eight months of intensive cheerleading training for the cast, and the show was waitlisted for seven months for the [[Salvage Vanguard Theater]] mainstage.
+The production process involved eight months of intensive cheerleading training for the cast, and the show was waitlisted for seven months for the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] mainstage.
 
-The show ran at 8pm, Thursday to Saturday, from 5/30/13 to 6/9/13 at the [[Salvage Vanguard Theater]].
+The show ran at 8pm, Thursday to Saturday, from 5/30/13 to 6/9/13 at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 Several cast members played as an exhibition team in *[[Shows/TheatreSports|TheatreSports]]* on 5/25/13.
 

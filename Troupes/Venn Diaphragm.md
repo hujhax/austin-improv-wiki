@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[The Hideout Theatre]]:<blockquote><p>Venn Diaphragm performs character-driven Chicago-style longform comedy.</p> 
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Venn Diaphragm performs character-driven Chicago-style longform comedy.</p> 
 
 <p>Audiences are treated to patient, realistic scenes that build into fast-paced edits and tag-outs where worlds collide and the nature of reality is undone.</p> 
 
@@ -89,7 +89,7 @@ The troupe performed in [[Festivals/The Out Of Bounds Comedy Festival|The Out Of
 
 ## Media
 ### Videos
-* Video by [[Brian Boyko]] of their 4/30/10 show at [[The Hideout Theatre]]: [1](http://youtu.be/XVFQUC7Qe_Y), [2](http://youtu.be/tS2ofy-SlT4), [3](http://youtu.be/wARd4i-7jNc).
+* Video by [[Brian Boyko]] of their 4/30/10 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]]: [1](http://youtu.be/XVFQUC7Qe_Y), [2](http://youtu.be/tS2ofy-SlT4), [3](http://youtu.be/wARd4i-7jNc).
 
 ### Photos
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/1/10 performance in [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].

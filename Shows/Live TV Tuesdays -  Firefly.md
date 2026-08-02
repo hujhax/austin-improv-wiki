@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -255,7 +255,7 @@ This was the fourth of the Joss-Whedon-derived productions from *[[Shows/Live TV
 
 This show sold out its entire run before the second performance.  Soon after that, FOX sent the production a cease-and-desist letter, and the production ended shortly afterwards.
 
-The runaway popularity of this production led [[The Institution]] to produce *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*, in which some of the cast reprised their *Firefly* roles.
+The runaway popularity of this production led [[Theatres/The Institution|The Institution]] to produce *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*, in which some of the cast reprised their *Firefly* roles.
 
 ## Cast
 * Mal -- [[Performers/Michael Thomas|Michael Thomas]]
@@ -289,7 +289,7 @@ Also, [[Performers/Kacey Samiee|Kacey Samiee]] subbed in for [[Performers/Lindse
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10151849939875324.858746.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of a performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.362600717136784.87551.221927764537414&type=3) by [[Steve Rogers]] of the 5/15/12 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.348540731881279.76730.118587218209966&type=3) by [[Roy Moore]] of the 6/5/12 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3304329209810.124642.1315383518&type=3) by [[Michael Yew]] of the 6/29/12 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3304329209810.124642.1315383518&type=3) by [[Michael Yew]] of the 6/29/12 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## More Information
 * [Reddit post about the production.](http://www.reddit.com/r/firefly/comments/t1s45/walked_by_this_near_ut_campus_in_austin_today/c6m87m7)

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***TheatreDome*** is a cagematch-style performance slot at [[The Hideout Theatre]].
+***TheatreDome*** is a cagematch-style performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 Every performance of *TheatreDome* pits two troupes against each other. 

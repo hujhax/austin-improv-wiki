@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Stool Pigeon*** was a weekly [Armando](http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny) at [[Coldtowne Theater]].
+***Stool Pigeon*** was a weekly [Armando](http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny) at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 Every week, the "pigeon" would be a local-celebrity, non-improvisor guest.  The guest would tell stories; the cast would use those as the inspiration for improvised scenes.

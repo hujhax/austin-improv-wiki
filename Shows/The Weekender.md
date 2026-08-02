@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,10 +27,10 @@
 	</table>
 </div>
 
-***The Weekender*** (formerly ***The Sunday Showcase***) is a performance slot at [[The Hideout Theatre]] that provides stage time for Hideout students.
+***The Weekender*** (formerly ***The Sunday Showcase***) is a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]] that provides stage time for Hideout students.
 
 ## Summary
-*The Weekender* happens every Sunday at 8pm at [[The Hideout]].  It is a triple bill with two student acts followed by an experienced headliner act.
+*The Weekender* happens every Sunday at 8pm at [[Theatres/The Hideout|The Hideout]].  It is a triple bill with two student acts followed by an experienced headliner act.
 
 The headliner acts are scheduled by [[Performers/Roy Janik|Roy Janik]], who puts out a call for applications every two months.
 

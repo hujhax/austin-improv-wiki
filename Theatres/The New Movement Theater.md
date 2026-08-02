@@ -32,7 +32,7 @@ The original Austin theater opened for classes in February 2009 and began runnin
 
 On March 3rd 2012, a second theater space opened in New Orleans, Louisiana. Trew and Nelson moved back to New Orleans shortly afterwards. 
 
-In the Spring of 2018, Trew and Nelson transferred ownership of the Austin theater to members of the TNM ATX community, leaving them to solely run their New Orleans space as The New Movement. The theater in Austin rebranded itself as [[Fallout Theater]].
+In the Spring of 2018, Trew and Nelson transferred ownership of the Austin theater to members of the TNM ATX community, leaving them to solely run their New Orleans space as The New Movement. The theater in Austin rebranded itself as [[Theatres/Fallout Theater|Fallout Theater]].
 
 ## Shows
 * *[[Shows/Austin Comedy Hour|Austin Comedy Hour]]*
@@ -56,3 +56,4 @@ In the Spring of 2018, Trew and Nelson transferred ownership of the Austin theat
 ## More Information
 * [Post about the theater](http://yesandrew.com/2014/03/28/austin-improv-theaters-as-modern-american-humorists-day-5-the-new-movement/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Article about TNM ATX](https://austinot.com/the-new-movement-shows/) by Kelli McDonald.
+[[Category/Theatres|Category:Theatres]]

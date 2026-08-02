@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>2-person improv revolving around character monologues</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>2-person improv revolving around character monologues</blockquote>
 
 ## History
 The duo premiered on 8/9/07.

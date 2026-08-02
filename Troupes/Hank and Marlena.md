@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Country music's most beloved and in love duo, Marlena Mae Mercer & Hanklin T. Belle will delight your minds and steal your hearts. Please welcome 12-time Country Music Award attendees and creators of Country Fried: A Home-Cooked Variety Show!</blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Country music's most beloved and in love duo, Marlena Mae Mercer & Hanklin T. Belle will delight your minds and steal your hearts. Please welcome 12-time Country Music Award attendees and creators of Country Fried: A Home-Cooked Variety Show!</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We perform original music as an exaggerated tribute to Loretta Lynn and Conway Twitty.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform original music as an exaggerated tribute to Loretta Lynn and Conway Twitty.</blockquote>
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

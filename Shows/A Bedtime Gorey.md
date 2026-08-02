@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***A Bedtime Gorey*** was a mainstage show at [[The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
+***A Bedtime Gorey*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
 
 ## Summary
 Each performance featured the entire cast (or as many as were available), in stylized black-and-white makeup and Edwardian costume.  As the audience entered the theater and took their seats, the cast greeted them as if they (the audience) were children entering a playroom.  Meanwhile, a narrator was hidden stage right in a high-backed chair facing upstage.  Once the audience was seated and after a lights-down/lights-up, the narrator would spin the chair, reveal themselves, and open the show with an introductory poem that explained the format.

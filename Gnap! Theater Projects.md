@@ -1,4 +1,4 @@
-Gnap! Theater Projects is a theater production company that, between 2008 and 2012, produced improv shows at [[Salvage Vanguard Theater]].
+Gnap! Theater Projects is a theater production company that, between 2008 and 2012, produced improv shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
 

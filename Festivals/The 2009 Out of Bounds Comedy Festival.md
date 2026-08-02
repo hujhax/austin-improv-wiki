@@ -11,8 +11,8 @@ Its advertising was classic-Nintendo themed.
 * [[Troupes/Antique Limax|Antique Limax]]
 * [[Troupes/Available Cupholders|Available Cupholders]]
 * [[Troupes/Buddy Daddy|Buddy Daddy]]
-* [[The New Movement]] Presents: Chris and Tami
-* [[ColdTowne]]
+* [[Theatres/The New Movement|The New Movement]] Presents: Chris and Tami
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/ComedySportz|ComedySportz]] All-Stars
 * [[Troupes/Confidence Men|Confidence Men]]
 * [[Troupes/Firth & Arjet|Firth & Arjet]]
@@ -24,7 +24,7 @@ Its advertising was classic-Nintendo themed.
 * [[Troupes/Girltrap|Girltrap]]
 * [[Troupes/Golden Eagle|Golden Eagle]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
-* The Inmates of [[The Institution Theatre]]
+* The Inmates of [[Theatres/The Institution Theatre|The Institution Theatre]]
 * [[Jabbertalky]]
 * [[Troupes/Junk|Junk]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]

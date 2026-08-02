@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Eye for an iPhone*** was a sketch revue at [[Coldtowne Theater]].
+***Eye for an iPhone*** was a sketch revue at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
 The show ran on Fridays at 8pm from 10/8/09 to 12/18/09.

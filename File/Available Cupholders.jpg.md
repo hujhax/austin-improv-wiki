@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Available Cupholders.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Available Cupholders|Available Cupholders]] publicity photo for their 2012 [[Shows/Threefer|Threefer]] run at [[The Hideout Theatre]].
+[[Troupes/Available Cupholders|Available Cupholders]] publicity photo for their 2012 [[Shows/Threefer|Threefer]] run at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Photo by [[Performers/Jon Bolden|Jon Bolden]].
 

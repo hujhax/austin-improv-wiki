@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -85,7 +85,7 @@
 ***History Under the Influence*** was an improv format inspired by the YouTube/Comedy Central series *Drunk History*. Almost all shows featured [[Performers/Kevin Miller|Kevin Miller]] as the drunken narrator with a rotating cast.
 
 ## History
-*History Under the Influence* was first performed in *[[Shows/The Free Fringe|The Free Fringe]]* at [[The Hideout Theatre]] on March 20, 2014 with a cast of [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Jillian Summar|Jillian Summar]], [[Performers/Bridget Brewer|Bridget Brewer]], [[Performers/David Lampe|David Lampe]], [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Mitchell Deane|Mitchell Deane]], and [[Performers/Peter Rogers|Peter Rogers]]. After a surprisingly successful show, Kevin submitted the show for a month-long run in *[[Shows/The Threefer|The Threefer]]*. *History Under the Influence* played five sold-out shows at the Hideout in May of 2014, featuring much of the original cast and several guests.
+*History Under the Influence* was first performed in *[[Shows/The Free Fringe|The Free Fringe]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on March 20, 2014 with a cast of [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Jillian Summar|Jillian Summar]], [[Performers/Bridget Brewer|Bridget Brewer]], [[Performers/David Lampe|David Lampe]], [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Mitchell Deane|Mitchell Deane]], and [[Performers/Peter Rogers|Peter Rogers]]. After a surprisingly successful show, Kevin submitted the show for a month-long run in *[[Shows/The Threefer|The Threefer]]*. *History Under the Influence* played five sold-out shows at the Hideout in May of 2014, featuring much of the original cast and several guests.
 
 In June of 2014, Kevin attended the Finland International Improv Festival as an instructor and performed History Under the Influence with a European cast. This marked the format's first festival appearance.
 

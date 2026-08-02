@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Sean Hill** is an improv performer, director, and teacher.  He is the founder of [[The Hideout Theatre]], and ran the theater until 2009.
+**Sean Hill** is an improv performer, director, and teacher.  He is the founder of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and ran the theater until 2009.
 
 ## History
 A post from him about the first improv show he ever saw:<blockquote>First improv I ever saw was *[[Troupes/ComedySportz|ComedySportz]]* at their location on 6th St in Austin. Late 80's.

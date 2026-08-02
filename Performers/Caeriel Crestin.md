@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,9 +19,9 @@
 	</table>
 </div>
  
-**Caeriel Crestin** is an improviser who is a graduate of, and works for, [[The Hideout Theatre]]. He is the Hideout Registrar, Intern Coordinator, House Manager, and Instructor.
+**Caeriel Crestin** is an improviser who is a graduate of, and works for, [[Theatres/The Hideout Theatre|The Hideout Theatre]]. He is the Hideout Registrar, Intern Coordinator, House Manager, and Instructor.
 
-He's also taken classes at [[The Institution Theater]] as well as the UCB Theatre in New York City.
+He's also taken classes at [[Theatres/The Institution Theater|The Institution Theater]] as well as the UCB Theatre in New York City.
 
 He is a regular cast member of the Flying Theater Machine.
 

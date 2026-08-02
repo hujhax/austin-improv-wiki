@@ -139,9 +139,9 @@ In the first two seasons, no scenes ever occurred in TARDIS.  Onstage, the exit 
 Typically, one actor plays the Professor for a contiguous run of shows, with different actors playing (pre-determined) "companion" characters (or, in rare cases, pairs of companions) from week to week.
 
 ## History
-Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329](http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)  In June 2011, [[Performers/Justin Bozied|Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[Shows/The Threefer|The Threefer]], and played an 8pm show at the Hideout two days later.
+Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329](http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)  In June 2011, [[Performers/Justin Bozied|Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[Shows/The Threefer|The Threefer]], and played an 8pm show at the Hideout two days later.
 
-Its first full run was a six-week set of Friday shows at [[The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Salvage Vanguard Theater]] (produced by [[Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738](http://forum.austinimprov.com/viewtopic.php?t=13738)
+Its first full run was a six-week set of Friday shows at [[Theatres/The Institution Theater|The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] (produced by [[Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738](http://forum.austinimprov.com/viewtopic.php?t=13738)
 
 At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as director.  At the start of 2013, [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[Shows/The TV Set|The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613](http://forum.austinimprov.com/viewtopic.php?f=20&t=14613).  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
 
@@ -188,7 +188,7 @@ The second run of shows, from March to April of 2012, introduced [[Performers/Pe
 * [[Performers/Ryan Austin|Ryan Austin]]
 
 ### Season Three
-Season three ran on Saturdays at [[The Institution Theater]] in November 2013.
+Season three ran on Saturdays at [[Theatres/The Institution Theater|The Institution Theater]] in November 2013.
 
 * [[Performers/Bridget Brewer|Bridget Brewer]]
 * [[Performers/Jeff Britt|Jeff Britt]]
@@ -216,9 +216,9 @@ The run featured tech by [[Michael Yew]].
 * [Video](http://www.viddler.com/v/e328a7) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 4/2/12 performance ("Chesapeekaboo!").
 * [Video](http://vimeo.com/40819538) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/20/12 performance ("All the World's a Stage?").
 * [Video](http://www.youtube.com/watch?v=_hoIsN3l7sc) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 4/21/12 performance (season two finale).
-* [Video](http://vimeo.com/48524413) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/29/12 performance at [[The Institution]].
+* [Video](http://vimeo.com/48524413) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/29/12 performance at [[Theatres/The Institution|The Institution]].
 * [Video](http://www.youtube.com/watch?v=gZuQFuFSpB8) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
-* [Video](http://vimeo.com/62584250) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 1/25/13 performance at [[The Institution Theater]].
+* [Video](http://vimeo.com/62584250) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 1/25/13 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * Videos of the 8/28/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]: [story #1](http://vimeo.com/73437075), [story #2](http://vimeo.com/73480143)
 * [Video](http://vimeo.com/77576162) of their 10/19/13 show with *[[Shows/Mister Morbid|Mister Morbid]]*.
 
@@ -235,7 +235,7 @@ The run featured tech by [[Michael Yew]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/20/12 performance in *[[Shows/The TV Set|The TV Set]]*.
 * [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Photoset](http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1) by [[Michael Yew]] of the 1/18/13 performance at [[Shows/The TV Set|The TV Set]].
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3) by [[Roy Moore]] that includes the 8/28/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200918291262280.1073741869.1315383518&type=3) by [[Michael Yew]] from backstage at the 11/23/13 show, which included a Austin-made T.A.R.D.I.S.

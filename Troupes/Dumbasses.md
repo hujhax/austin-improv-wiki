@@ -76,7 +76,7 @@
 [[Marcus Hysmith]] and [[Performers/Luis Salinas|Luis Salinas]] play a couple of well-meaning guys who attempt to carry out tasks that require intelligence and/or skill, while possessing neither.
 
 ## History
-Dumbasses formed in [[The Institution Theater]]'s master class during one of instructor [[Performers/Asaf Ronen|Asaf Ronen]]'s "Duo Days."  Given about 10 minutes to come up with a format, Marcus and Luis decided to play a couple of idiots.  Everyone loved them, so they became a performing troupe, appearing regularly on the Institution's stage.
+Dumbasses formed in [[Theatres/The Institution Theater|The Institution Theater]]'s master class during one of instructor [[Performers/Asaf Ronen|Asaf Ronen]]'s "Duo Days."  Given about 10 minutes to come up with a format, Marcus and Luis decided to play a couple of idiots.  Everyone loved them, so they became a performing troupe, appearing regularly on the Institution's stage.
 
 ## Media
 ### Videos
@@ -84,7 +84,7 @@ Dumbasses formed in [[The Institution Theater]]'s master class during one of ins
 * [Courthouse (Institution Theater 2/23/13)](http://vimeo.com/60529090)
 
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/21/12 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/21/12 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-06-09-ICS/i-5qnMkHB) by [[Performers/Chad Wellington|Chad Wellington]] that includes their performance in the 6/9/13 *[[Shows/Triple Scoop|Triple Scoop]]*.
 
 ## More Information

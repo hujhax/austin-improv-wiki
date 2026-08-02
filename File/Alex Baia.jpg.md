@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Alex Baia.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Picture of [[Performers/Alex Baia|Alex Baia]] from the April 11, 2013 performance of [[Shows/TheatreSports|TheatreSports]] at [[The Hideout Theatre]].
+Picture of [[Performers/Alex Baia|Alex Baia]] from the April 11, 2013 performance of [[Shows/TheatreSports|TheatreSports]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Photograph courtesy of [[Performers/Dave alley|Dave alley]] from his photoset [11.05.13 Theatresports](https://www.facebook.com/media/set/?set=a.10151379463510793.1073741842.666390792).
 ## Licensing

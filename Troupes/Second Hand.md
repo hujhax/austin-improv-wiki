@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Second Hand is a three person outfit, composing and performing short plays on the spot. Taking the works of [[Wikipedia - Sarah Ruhl|Sarah Ruhl]], [[Wikipedia - Charles Mee|Charles Mee]], and [[Wikipedia - Miranda July|Miranda July]] (amongst others) as a lead, Second Hand aspires to weave small stories of wonder and bewilderment, surprise and loss, melancholy and whimsy. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Second Hand is a three person outfit, composing and performing short plays on the spot. Taking the works of [[Wikipedia - Sarah Ruhl|Sarah Ruhl]], [[Wikipedia - Charles Mee|Charles Mee]], and [[Wikipedia - Miranda July|Miranda July]] (amongst others) as a lead, Second Hand aspires to weave small stories of wonder and bewilderment, surprise and loss, melancholy and whimsy. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
 <p>Working on a format with more crisply stylized scene ends, and beginnings. </p>
 <p>Each scene has an improvised and announced title. </p>
 <p>Scene cuts are made vis-a-vis a bell apparatus that we are improving. </p>

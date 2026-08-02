@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Fd-promo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Franz & Dave|Franz & Dave]] perform at [[The Institution Theater]].
+[[Troupes/Franz & Dave|Franz & Dave]] perform at [[Theatres/The Institution Theater|The Institution Theater]].
 
 Photo by [[Performers/Madeline Chauvin|Madeline Chauvin]].
 

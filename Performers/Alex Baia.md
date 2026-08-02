@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -21,7 +21,7 @@
 
 **Alex Baia** is an improv performer.
 
-He is a graduate of the ColdTowne Conservatory at [[Coldtowne Theater]] and has also taken classes at [[The Hideout Theatre]].
+He is a graduate of the ColdTowne Conservatory at [[Theatres/Coldtowne Theater|Coldtowne Theater]] and has also taken classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Troupes
 * [[Troupes/Oh, Science!|Oh, Science!]]

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-Rob Yoho is an improv performer, tech, and director and is the Operations Manager at the [[Hideout Theatre]]. 
+Rob Yoho is an improv performer, tech, and director and is the Operations Manager at the [[Theatres/Hideout Theatre|Hideout Theatre]]. 
 
 ## History
 Rob Yoho is a Florida-born (he knows all the jokes) theatre artist and teacher with years of experience making scripted and improvisational theatre in educational and professional settings alike.  Prior to relocating to Austin, Rob earned his Master of Fine Arts in Directing from Baylor University (2015) and a Bachelor of Arts (Magna cum Laude) in Theatre Performance and Directing from Rollins College (2010).  Earlier in his career, he spent two years touring internationally with the Missoula Children’s Theatre, and while living in Orlando he appeared in productions with Orlando Shakespeare Theater and the Empty Spaces Theatre Company, and directed for Rake Theatre.

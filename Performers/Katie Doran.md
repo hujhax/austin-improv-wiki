@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="ColdTowne">ColdTowne</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/ColdTowne">ColdTowne</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

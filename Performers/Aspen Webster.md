@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Aspen Webster** is an improv performer. 
 
 ## History
-Aspen started taking classes at the [[Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. She is a former kids' improv teacher at the Hideout.
+Aspen started taking classes at the [[Theatres/Hideout Theater|Hideout Theater]] in November of 2013, shortly after moving to Austin, and has been totally hooked on improv ever since. She is a former kids' improv teacher at the Hideout.
 
 ## Shows
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (2014-2016)

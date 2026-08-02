@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Salvage Vanguard Theater.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[Salvage Vanguard Theater]].
+Logo for [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 Artist unknown; image taken from [this site](http://www.lexleifheit.com/category/articles/podcast-alert/).
 

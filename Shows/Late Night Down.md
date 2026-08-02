@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***Late Night Down*** was a mainstage show at [[Coldtowne Theater]], based around a late-night talk show which is attacked by a rotating variety of supernatural threats.
+***Late Night Down*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]], based around a late-night talk show which is attacked by a rotating variety of supernatural threats.
 
 ## Summary
 ### Publicity Blurb

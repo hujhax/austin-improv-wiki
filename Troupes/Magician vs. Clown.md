@@ -84,7 +84,7 @@ Their bio, from the web site for [[Festivals/The 2012 Out of Bounds Comedy Festi
 * [Video](http://vimeo.com/128444006) of their 8/29/14 performance in [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset of a performance](http://www.facebook.com/media/set/?set=a.421075747372.200366.672267372&type=3) at [[Coldtowne Theater]].
+* [Photoset of a performance](http://www.facebook.com/media/set/?set=a.421075747372.200366.672267372&type=3) at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1) by [[Steve Rogers]] which includes their 8/30/11 show at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.414658608597661.100647.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/30/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3) by [[Michael Yew]] which includes their 8/30/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].

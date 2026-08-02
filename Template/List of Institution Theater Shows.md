@@ -1,5 +1,5 @@
 <noinclude>
-This **List of Institution Theater Shows** is designed to be transcluded into any "[[Institution Theater]] shows" section on the wiki.
+This **List of Institution Theater Shows** is designed to be transcluded into any "[[Theatres/Institution Theater|Institution Theater]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
 * *[[Shows/The Austin Improv Monologue Jam|The Austin Improv Monologue Jam]]*

@@ -26,7 +26,7 @@
 **Ammon Taylor** is an improv musician.
 
 ## Summary
-Pianist Ammon Taylor is best known as the current accompanist for [[Troupes/Girls Girls Girls|Girls Girls Girls]], but also accompanies many ongoing shows at [[The Hideout Theatre]].
+Pianist Ammon Taylor is best known as the current accompanist for [[Troupes/Girls Girls Girls|Girls Girls Girls]], but also accompanies many ongoing shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Troupes
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]] (accompanist)

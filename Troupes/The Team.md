@@ -70,16 +70,16 @@
 	</table>
 </div>
 
-**The Team** is an improv troupe associated with [[Coldtowne Theater]].
+**The Team** is an improv troupe associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote><p>Balancing grounded scene work with wildly physical play, The Team's sharp-witted cast is always eager to support whatever strange, darkly-funny, or dangerous idea is on the table. There's little hesitation, so the Team often find themselves in scenes playing fantastical or creepy characters, often stuck in physically uncomfortable positions. But these guys boost every move with an infectious energy that lights up audiences from their unique opening sequences to their exhilarating finales.</p>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Balancing grounded scene work with wildly physical play, The Team's sharp-witted cast is always eager to support whatever strange, darkly-funny, or dangerous idea is on the table. There's little hesitation, so the Team often find themselves in scenes playing fantastical or creepy characters, often stuck in physically uncomfortable positions. But these guys boost every move with an infectious energy that lights up audiences from their unique opening sequences to their exhilarating finales.</p>
 
 <p>The Team is an improv quartet constructed of [[Danny Catlow]], [[David Hess]], [[Performers/Joshua Krilov|Joshua Krilov]], and [[Performers/Kyle Sweeney|Kyle Sweeney]]. The Team was awarded Coldtowne Theater's Best New Troupe (2011).</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Suggestion, Lights Up, Lights Down. That's all.  We'll get a suggestion. Perform a silent scene with one person (supported from the sides). Then launch into a run of scenes taking/deconstructing elements provided in the silent scene. These scenes typically recur in some way as the show takes shape (via characters, theme, plot and beyond). New scenes can also be presented if further inspirations strikes. Typically the show tends to get more and more physical, big, and absurd. Light Out on a huge laugh.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Suggestion, Lights Up, Lights Down. That's all.  We'll get a suggestion. Perform a silent scene with one person (supported from the sides). Then launch into a run of scenes taking/deconstructing elements provided in the silent scene. These scenes typically recur in some way as the show takes shape (via characters, theme, plot and beyond). New scenes can also be presented if further inspirations strikes. Typically the show tends to get more and more physical, big, and absurd. Light Out on a huge laugh.</blockquote>
 
 ## Media
 ### Videos
@@ -91,7 +91,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/30508697) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 10/12/11 show, "Banana Boat".
 * [Video](http://vimeo.com/34042566) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 11/28/11 show at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*, "Dillo".
 * [Video](http://vimeo.com/34034952) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 12/19/11 show, "Tangerine GOP".
-* [Video](http://vimeo.com/34151775) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 12/22/11 show at [[The Hideout Theatre]], "Bananarama".
+* [Video](http://vimeo.com/34151775) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 12/22/11 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], "Bananarama".
 * [Video](http://vimeo.com/34680711) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their first performance in *[[Thursday Night Social Club]]*, "Parachute" (uploaded 1/6/12). 
 * [Video](http://vimeo.com/35170333) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their second performance in *[[Thursday Night Social Club]]*, "Morissey Unicorn" (uploaded 1/16/12). 
 * [Video](http://vimeo.com/35514485) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Enlightenment" show (uploaded 1/23/12).
@@ -117,7 +117,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/55403745) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "The Island Shift" performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]* (uploaded 12/11/12).
 * [Video](http://vimeo.com/57488515) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Ford F-150" performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]* (uploaded 1/15/13).
 * [Video](http://vimeo.com/60105589) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Sad Sack" show (uploaded 2/20/13).
-* [Video](http://vimeo.com/61566939) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Angry Waiter" show at [[The Institution Theater]] (uploaded 3/11/13).
+* [Video](http://vimeo.com/61566939) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Angry Waiter" show at [[Theatres/The Institution Theater|The Institution Theater]] (uploaded 3/11/13).
 * [Video](http://vimeo.com/62104940) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Snowballs™" show (uploaded 3/18/13).
 * [Video](http://vimeo.com/63684677) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Sassy" show (uploaded 4/9/13).
 * [Video](http://vimeo.com/65153454) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Sad Long Distance" show (uploaded 4/30/13).
@@ -131,7 +131,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/91555768) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Visiting Anger" show (uploaded 4/9/14).
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.304156159653070.68767.118587218209966&type=3) by [[Roy Moore]] that includes their 3/1/12 show at [[Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.304156159653070.68767.118587218209966&type=3) by [[Roy Moore]] that includes their 3/1/12 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ### Promotional
 * [Promo](http://vimeo.com/30445250) by [[Performers/Kyle Sweeney|Kyle Sweeney]] from 10/12/11.

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -184,7 +184,7 @@
 	</table>
 </div>
 
-***Kenjutsu*** (full title: ***Kenjutsu: The Art of the Sword***) was a mainstage show at [[The Hideout Theatre]] that was inspired by Japanese samurai films.
+***Kenjutsu*** (full title: ***Kenjutsu: The Art of the Sword***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] that was inspired by Japanese samurai films.
 
 ## Summary
 The show depicted epic tales of corruption, power, and betrayal set in feudal Japan, inspired by Japanese samurai films such as  *[[Wikipedia - Seven Samurai|Seven Samurai]]*, *[[Wikipedia - Harakiri (1962 film)|Harakiri]]*, and *[[Wikipedia - 13 Assassins|13 Assassins]]*.

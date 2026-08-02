@@ -19,12 +19,12 @@
 	</table>
 </div>
 
-**Adam Mengesha** is an improv performer who works primarily with [[The Institution Theater]].
+**Adam Mengesha** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## History
-Adam is originally from Dallas, Texas.  He saw his first improv show at [[The Hideout Theatre]].
+Adam is originally from Dallas, Texas.  He saw his first improv show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-He took his first improv class at [[The Institution Theater]] with the intention of just taking the one class, but ended up getting drawn into the improv scene from there.
+He took his first improv class at [[Theatres/The Institution Theater|The Institution Theater]] with the intention of just taking the one class, but ended up getting drawn into the improv scene from there.
 
 ## Shows
 ![[Adam - Fancy Pants.jpg|Adam is a frequent cast member of *The Fancy-Pants Mashup*.]]

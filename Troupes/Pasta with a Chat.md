@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Who likes carbs? Everyone! That's why there is a talk show dedicated to eating them. Two Brooklyn broads chat about world happenings (and sometimes their personal lives...) while eating pasta as the studio audience watches in shock and awe. </blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Who likes carbs? Everyone! That's why there is a talk show dedicated to eating them. Two Brooklyn broads chat about world happenings (and sometimes their personal lives...) while eating pasta as the studio audience watches in shock and awe. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We have a talk show style format that is like the view except with two less people and everyone has a Brooklyn accent. Oh, and everyone eats pasta...the entire time. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We have a talk show style format that is like the view except with two less people and everyone has a Brooklyn accent. Oh, and everyone eats pasta...the entire time. </blockquote>
 
 ## Media
 ### Videos

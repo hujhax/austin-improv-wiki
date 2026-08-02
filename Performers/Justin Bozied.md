@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Justin Bozied** (formerly Justin Davis) is an improv performer, director, and teacher. He first took classes at [[The Hideout Theatre]] from 2006 to 2007. Justin was a founding member of [[Troupes/The Starter Kit|The Starter Kit]], an improv troupe that lasted four and a half years before splitting up mainly due to multiple members moving away from Austin. A decided shift in his performing style happened around this time, and he pursued more opportunities behind the scenes as a director, producer, creator, and instructor.  
+**Justin Bozied** (formerly Justin Davis) is an improv performer, director, and teacher. He first took classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] from 2006 to 2007. Justin was a founding member of [[Troupes/The Starter Kit|The Starter Kit]], an improv troupe that lasted four and a half years before splitting up mainly due to multiple members moving away from Austin. A decided shift in his performing style happened around this time, and he pursued more opportunities behind the scenes as a director, producer, creator, and instructor.  
 
 ## Troupes
 * [[Troupes/Je Ju|Je Ju]]

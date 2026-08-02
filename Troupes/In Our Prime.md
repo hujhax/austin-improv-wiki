@@ -77,7 +77,7 @@
 **In Our Prime** is an improv troupe that focuses on grounded, dramatic longforms.
 
 ## Summary
-In Our Prime was the brainchild of [[Performers/Paul Normandin|Paul Normandin]]. Paul and [[Performers/Gloria Bankler|Gloria Bankler]] became close friends after [[Performers/Kaci Beeler|Kaci Beeler]]'s *Romance and Intimacy* Elective at [[The Hideout Theatre]] in 2011. Gloria and Paul met [[Performers/Ryan Hill|Ryan Hill]] when they all took an elective workshop at [[The Hideout Theatre]] entitled *Andy is Mean to You*, wherein Hideout Education Director [[Performers/Andy Crouch|Andy Crouch]] would give very direct feedback to students. Soon after, Paul approached Gloria and Ryan with his idea for a troupe that would perform extremely grounded, even dramatic, improv with very little focus on comedy. 
+In Our Prime was the brainchild of [[Performers/Paul Normandin|Paul Normandin]]. Paul and [[Performers/Gloria Bankler|Gloria Bankler]] became close friends after [[Performers/Kaci Beeler|Kaci Beeler]]'s *Romance and Intimacy* Elective at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2011. Gloria and Paul met [[Performers/Ryan Hill|Ryan Hill]] when they all took an elective workshop at [[Theatres/The Hideout Theatre|The Hideout Theatre]] entitled *Andy is Mean to You*, wherein Hideout Education Director [[Performers/Andy Crouch|Andy Crouch]] would give very direct feedback to students. Soon after, Paul approached Gloria and Ryan with his idea for a troupe that would perform extremely grounded, even dramatic, improv with very little focus on comedy. 
 
 The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* was decided on due to the older-than-average age of the cast and the primeness of their number (three). The trio performed a debut show at the Hideout.
 
@@ -85,7 +85,7 @@ Ryan was a teaching assistant for Hideout Theatre co-owner [[Performers/Jessica 
 
 IOP is a house troupe for [[Alamao City Improv]] headlining a show in San Antonio (starting in 2016) on the first Saturday of each month. In Our Prime is also directing a main stage show for [[Alamao City Improv]], Gone Tomorrow, with performances each Friday and Saturday July 14 through August 12, 2017.
 
-IOP has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[Festivals/Wafflefest|Wafflefest]] (2012-13), [[Frontera Fest]] (2013-14), [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] (2013-2014), [[Unscripted New York]] (2014) and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[Shows/The Free Fringe|The Free Fringe]]* at [[The Hideout Theatre]] through 2013 and have also performed a month-long [[Shows/Threefer|Threefer]] run there. The troupe's *[[Shows/Free Fringe|Free Fringe]]* shows tended to be more humorous and less grounded. 
+IOP has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[Festivals/Wafflefest|Wafflefest]] (2012-13), [[Frontera Fest]] (2013-14), [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] (2013-2014), [[Unscripted New York]] (2014) and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[Shows/The Free Fringe|The Free Fringe]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] through 2013 and have also performed a month-long [[Shows/Threefer|Threefer]] run there. The troupe's *[[Shows/Free Fringe|Free Fringe]]* shows tended to be more humorous and less grounded. 
 
 They were coached for a period of several months in 2012 by [[Performers/Jeremy Sweetlamb|Jeremy Lamb]]. [[Performers/Shannon McCormick|Shannon McCormick]] also coached them for several months starting in June of 2013. [[Performers/Chuy Zarate|Chuy Zarate]] and [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]] have coached them in 2015.
 
@@ -93,8 +93,8 @@ They were coached for a period of several months in 2012 by [[Performers/Jeremy 
 Here is [[Performers/Paul Normandin|Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our Prime came from a place holder name when we started (pre-Jessica) - Tripod - Everyone hated it. Later we used Late Bloomers - a reference to the idea that we were all coming late to the Improv scene relatively speaking. Satisfied that Late Bloomers was a false start, we changed it to, "It'll Come to Us." Turns out it did and not much longer. We all liked the play on words and it still had the air of late bloomingness. I am not sure who said "In Our Prime" first, but we all agreed on the spot.</blockquote>
 
 ### 2012 Shows
-* 03/01/2012 - Debut @ [[The Hideout]] ("Printing Presses")
-* 04/05/2012 - [[The Hideout]] ("Disobedient Daughter") w/ [[Performers/Jessica Arjet|Jessica Arjet]]
+* 03/01/2012 - Debut @ [[Theatres/The Hideout|The Hideout]] ("Printing Presses")
+* 04/05/2012 - [[Theatres/The Hideout|The Hideout]] ("Disobedient Daughter") w/ [[Performers/Jessica Arjet|Jessica Arjet]]
 * 07/20/2012 - Improv Festival Oklahoma ("Survivalist Family")
 * 09/01/2012 - [[Festivals/Out of Bounds|Out of Bounds]] ("Dating an Environmentalist")
 * 09/29/2012 - Hawaii Improvaganza Festival ("Art")
@@ -121,28 +121,28 @@ Here is [[Performers/Paul Normandin|Paul Normandin]]'s explanation of the name's
 	* [A second copy of the video.](http://vimeo.com/63321919)
 * [Video](http://vimeo.com/52466512) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/25/12 performance in *[[Shows/The Threefer|The Threefer]]* ("Runaway Dad").
 * [Video](http://vimeo.com/53309165) by [[Performers/Paul Normandin|Paul Normandin]] of their 11/10/12 performance at [[Festivals/WaffleFest 2012|WaffleFest 2012]] ("The Affair").
-* [Video](http://vimeo.com/54726986) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/1/12 performance at [[The Institution Theater]].
+* [Video](http://vimeo.com/54726986) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/1/12 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Video](http://vimeo.com/59231320) by [[Performers/Paul Normandin|Paul Normandin]] of their 2/3/13 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Video](http://vimeo.com/60349214) by [[Performers/Paul Normandin|Paul Normandin]] of their 2/21/13 performance in *[[Shows/The Free Fringe|The Free Fringe]]* ("Worst Show").
 * [Their 4/11/13 show](http://vimeo.com/65469964) at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Video](http://vimeo.com/64388123) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/18/13 performance in *[[Shows/The Free Fringe|The Free Fringe]]*.
-* [Video](http://vimeo.com/65119505) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/29/13 performance at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/65119505) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/29/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Video](http://vimeo.com/66219259) by [[Performers/Paul Normandin|Paul Normandin]] of their 5/12/13 performance in *[[Shows/The Weekender|The Weekender]]*.
-* [Video](http://vimeo.com/68677057) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/17/13 performance at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/68677057) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/17/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Their 6/22/13 show](http://vimeo.com/74497522) at [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * [Video](http://vimeo.com/72630352) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/15/13 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/72633647) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/15/13 performance in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [Video](http://vimeo.com/73463186) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/28/13 performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/76981801) by [[Performers/Paul Normandin|Paul Normandin]] of their 9/20/13 performance at [[Salvage Vanguard Theater]].
+* [Video](http://vimeo.com/76981801) by [[Performers/Paul Normandin|Paul Normandin]] of their 9/20/13 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Video](http://vimeo.com/75935997) by [[Performers/Paul Normandin|Paul Normandin]] of their 9/27/13 performance in Washington, DC's "District Improv Festival".
-* [Video](http://vimeo.com/76978922) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/9/13 performance at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/76978922) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/9/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Video](http://vimeo.com/77411147) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/17/13 performance in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [Video](http://vimeo.com/80867898) by [[Performers/Paul Normandin|Paul Normandin]] of their 11/21/13 performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].
-* [Video](http://vimeo.com/80870736) by [[Performers/Paul Normandin|Paul Normandin]] of their 11/25/13 performance at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/80870736) by [[Performers/Paul Normandin|Paul Normandin]] of their 11/25/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Video](http://vimeo.com/91778243) of their show in [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 * [Video](http://vimeo.com/102503662) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/2/14 show in the 2014 Improv Festival Oklahoma.
-* [Video](http://vimeo.com/105414855) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/8/14 show at [[The Hideout Theatre]].
-* [Video](https://vimeo.com/111587850) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/17/14 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/105414855) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/8/14 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Video](https://vimeo.com/111587850) by [[Performers/Paul Normandin|Paul Normandin]] of their 8/17/14 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Video](http://vimeo.com/109193870) of their 8/27/14 show in [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 * [Video](https://vimeo.com/112559537) by [[Performers/Paul Normandin|Paul Normandin]] of their 11/20/14 show at [[Festivals/WaffleFest 2014|WaffleFest 2014]].
 * [Video](http://vimeo.com/125622408) of their performance in the 2015 Improv Festival Oklahoma.

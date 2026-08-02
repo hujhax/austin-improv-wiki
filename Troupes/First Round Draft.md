@@ -70,14 +70,14 @@
 	</table>
 </div>
 
-**First Round Draft** was a short-form improv troupe based out of [[The Hideout Theatre]].
+**First Round Draft** was a short-form improv troupe based out of [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 They occasionally included musicians [[Brett Webster]] on guitar and [[Tim Girardot]] on keyboards.
 
 [[Maggie Bell]] was their lighting improvisor.
 
 ## History
-The troupe formed out of the first graduating class from the [[Hideout]]'s improv program.
+The troupe formed out of the first graduating class from the [[Theatres/Hideout|Hideout]]'s improv program.
 
 One of their formats was "Fast Forward", a montage show with no scene lasting longer than a minute or two.
 

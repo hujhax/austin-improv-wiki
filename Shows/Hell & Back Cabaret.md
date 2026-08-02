@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Hell & Back Cabaret*** is a variety show at [[The Institution Theater]].
+***Hell & Back Cabaret*** is a variety show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 The show includes a range of guests, ranging from music and improv to magic, mentalism, and parlor games.

@@ -72,7 +72,7 @@
 
 ![[Waterpark Performance.jpg|A Waterpark performance.]]
 
-**Waterpark** is a musical improv troupe that is based out of [[The New Movement Theater]].
+**Waterpark** is a musical improv troupe that is based out of [[Theatres/The New Movement Theater|The New Movement Theater]].
 
 ## Media
 ### Videos

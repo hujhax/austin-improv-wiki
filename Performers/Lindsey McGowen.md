@@ -11,7 +11,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -70,13 +70,13 @@
 	</table>
 </div>
 
-**Lindsey McGowen** is a technical improvisor, Co-Technical Director of [[The Hideout Theatre]], and transplant from Detroit. She has an expensive piece of paper that says she knows stuff about technical theater.
+**Lindsey McGowen** is a technical improvisor, Co-Technical Director of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and transplant from Detroit. She has an expensive piece of paper that says she knows stuff about technical theater.
 
 ## Summary
 Lindsey studied Stage Management and Lighting Design at Case Western Reserve University in Cleveland, OH. She also occasionally ran tech for CWRU's collegiate improv troupe "Improvment." Upon graduating, she decided that theater-as-a-day-job was not as fun as it looked and took a hiatus from theater starting shortly after graduation. In 2013, she started volunteering with a local improv theatre (GO!Comedy in Ferndale, MI) before relocating to Austin in early 2014.
 
 
-On arriving in Austin, she immediately jumped into technical improv with both feet and has been instrumental to several mainstage shows at both [[The Hideout Theatre]] and [[The Institution Theater]] ever since. She also acts as Lead Audio Engineer on *Tales from the Black Vault*, the podcast version of [[Shows/The Black Vault|The Black Vault]], and as Music Director for [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]].
+On arriving in Austin, she immediately jumped into technical improv with both feet and has been instrumental to several mainstage shows at both [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]] ever since. She also acts as Lead Audio Engineer on *Tales from the Black Vault*, the podcast version of [[Shows/The Black Vault|The Black Vault]], and as Music Director for [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]].
 
 
 Outside of improv, Lindsey is a professional Project Manager and is active in the national contemporary a cappella scene as a judge, producer, master clinician and performer. She occasionally performs musical improv with the help of her looping station as seen in her Free Fringe show [Synesthesia](http://vimeo.com/100491197) and as a guest musician with [[Troupes/Indigo Shift|Indigo Shift]].

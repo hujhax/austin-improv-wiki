@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>What twisted, wonderful delights grow in our secret garden? Enter our gilded gates and find out, as we use a mixture of confessional monologues/dialogues (think "Modern Family" or "The Office") and scenes to tell our stories. </blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>What twisted, wonderful delights grow in our secret garden? Enter our gilded gates and find out, as we use a mixture of confessional monologues/dialogues (think "Modern Family" or "The Office") and scenes to tell our stories. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Currently, we're playing with a format where we intersperse confessionals (solo or in pairs, talking directly "to camera") with scenes to explore relationships and situations. When a narrative thread develops in an organic way, we pursue it; otherwise we leave ourselves free to play in situations and find games wherever we can. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Currently, we're playing with a format where we intersperse confessionals (solo or in pairs, talking directly "to camera") with scenes to explore relationships and situations. When a narrative thread develops in an organic way, we pursue it; otherwise we leave ourselves free to play in situations and find games wherever we can. </blockquote>
 
 ## Media
 ### Photos

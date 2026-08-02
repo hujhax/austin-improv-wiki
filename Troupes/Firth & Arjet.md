@@ -105,7 +105,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 ### Photos
 * [A photoset](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=1) by [[Michael Yew]] that includes their 2/5/10 *[[Shows/Double Barrel|Double Barrel]]* show.
 * [A photoset](http://www.facebook.com/media/set/?set=a.1384780142283.49789.1315383518&type=1) by [[Michael Yew]] that includes their 11/5/10 show in *[[Shows/The Spectacle|The Spectacle]]*.
-* [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes their 1/23/11 show at [[The Hideout Theatre]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes their 1/23/11 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.1602508305351.75968.1315383518&type=1) by [[Michael Yew]] that includes their 3/25/11 and 4/22/11 shows.
 * A [photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their 5/8/11 show at [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.165781526836212.43811.100002130980897&type=1) by [[Steve Rogers]] that includes their 9/2/11 show at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].

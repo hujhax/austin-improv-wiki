@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -137,12 +137,12 @@
 	</table>
 </div>
 
-**After School Improv** was an improv show produced by [[The Hideout Theatre]] inspired by after school specials.
+**After School Improv** was an improv show produced by [[Theatres/The Hideout Theatre|The Hideout Theatre]] inspired by after school specials.
 
 ## History
 *After School Improv* started out as a show format from [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] in 2006.
 
-The show premiered as a mainstage show at [[The Hideout Theatre]] in January and February of 2009.
+The show premiered as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in January and February of 2009.
 
 It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in March.
 

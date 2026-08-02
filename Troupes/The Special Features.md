@@ -78,7 +78,7 @@
 **The Special Features** is an improv troupe, started by [[Matthew Arisheh Falkenberg]], to perform fully unscripted never before seen improvised movies.
 
 ## History
-The Special Features have played at [[The Hideout Theatre]] and [[Coldtowne Theater]].
+The Special Features have played at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Media
 * [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer|The Threefer]]*.

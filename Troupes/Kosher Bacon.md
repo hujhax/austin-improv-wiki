@@ -79,7 +79,7 @@
 **Kosher Bacon** was an improv troupe.
 
 ## History
-Kosher Bacon was cast from one of the [[Merlin Works Mixers]] in April 2012.  They performed a monthly run of shows at [[Salvage Vanguard Theater]] called "Under Waged: Improvised Tales from the Service Industry" -- a show that drew heavily from *Party Down* -- from June to September (6/30, 7/21, 8/11, 9/8) at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.  The troupe dissolved shortly after that.
+Kosher Bacon was cast from one of the [[Merlin Works Mixers]] in April 2012.  They performed a monthly run of shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] called "Under Waged: Improvised Tales from the Service Industry" -- a show that drew heavily from *Party Down* -- from June to September (6/30, 7/21, 8/11, 9/8) at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.  The troupe dissolved shortly after that.
 
 ## Media
 ### Photos

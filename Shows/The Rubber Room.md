@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,10 +78,10 @@
 	</table>
 </div>
 
-***The Rubber Room*** is the weekly improv jam at [[The Institution Theater]].
+***The Rubber Room*** is the weekly improv jam at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
-The Rubber Room happens every first Sunday of the month at [[The Institution Theater]] at 8pm, is free to attend, and is run by the faculty of the theater.
+The Rubber Room happens every first Sunday of the month at [[Theatres/The Institution Theater|The Institution Theater]] at 8pm, is free to attend, and is run by the faculty of the theater.
 
 The jam starts with about fifteen minutes of group improv warm-ups.  Then, attendees are split up into a set of *ad hoc* mini-troupes.  Next, the faculty performs their Faculty Show by performing a twenty to twenty-five minute set.  
 

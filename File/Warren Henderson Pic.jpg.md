@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Warren Henderson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Warren Henderson|Warren Henderson]], performing in a student graduation show at [[The Hideout Theatre]] on 2/10/13.
+[[Performers/Warren Henderson|Warren Henderson]], performing in a student graduation show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 2/10/13.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.499932860070235.117264.221927764537414&type=3).
 ## Licensing

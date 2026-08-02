@@ -73,7 +73,7 @@
 **Three Hot Chicks** was an improv troupe active in Austin in 2011. They performed an improvised sitcom, with pre-established characters.
 
 ## History
-Three Hot Chicks was founded by [[Joel Ausanka Reese]] after he attended the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] in 2010. A sitcom-based format was decided upon during rehearsals, and the troupe had their first show at the [[Hideout Theatre]] on February 3, 2011.
+Three Hot Chicks was founded by [[Joel Ausanka Reese]] after he attended the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] in 2010. A sitcom-based format was decided upon during rehearsals, and the troupe had their first show at the [[Theatres/Hideout Theatre|Hideout Theatre]] on February 3, 2011.
 
 Three Hot Chicks appeared in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
@@ -84,7 +84,7 @@ Three Hot Chicks appeared in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour
 ### Videos
 * [Three Hot Chicks' debut show](http://vimeo.com/19634320) on Vimeo, courtesy of [[Performers/Peter Rogers|Peter Rogers]]
 * [Three Hot Chicks' appearance](http://vimeo.com/25332777) in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]]
-* [Video](http://vimeo.com/26109575) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 7/6/11 show at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/26109575) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 7/6/11 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150150642222265.328170.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/3/11 performance in *[[Shows/The Threefer|The Threefer]]*.

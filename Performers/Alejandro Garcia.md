@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Alejandro Garcia** is an improv performer who works primarily at [[Coldtowne Theater]].
+**Alejandro Garcia** is an improv performer who works primarily at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 
 ## Troupes

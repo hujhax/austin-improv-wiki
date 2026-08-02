@@ -89,25 +89,25 @@ After an initial run that performed the Living Room format, the troupe performed
 ![[SnackersLogo.gif|The Snackers logo.]]
 ### Videos
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of their 8/27/08 show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/10114708) of their 4/9/09 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/10114708) of their 4/9/09 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Video](http://vimeo.com/10116013) of an August 2009 "The Snackers Club" show.
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of Snackers' show at [[Festivals/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/10979117) of their 4/12/10 show at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 * [Video](http://vimeo.com/12660638) of their 6/14/10 "Roommates" show.
 * [Video](http://vimeo.com/16599368) of their 7/5/10 "Roommates" show.
-* [Video](http://vimeo.com/16606007) of their 10/18/10 show at [[Coldtowne Theater]]. ("Cup of Tea")
-* [Video](http://vimeo.com/18914324) of their 1/3/11 show at [[Coldtowne Theater]]. ("Waffle Iron")
-* [Video](http://vimeo.com/19067439) of their 1/9/11 show at [[The Hideout Theatre]]. ("Eye of the Tiger")
+* [Video](http://vimeo.com/16606007) of their 10/18/10 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]]. ("Cup of Tea")
+* [Video](http://vimeo.com/18914324) of their 1/3/11 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]]. ("Waffle Iron")
+* [Video](http://vimeo.com/19067439) of their 1/9/11 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. ("Eye of the Tiger")
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.164960802264.141040.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/27/09 performance of "The Snackers Club" at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.164960802264.141040.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/27/09 performance of "The Snackers Club" at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/7/10 show in *[[Shows/The Spectacle|The Spectacle]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3) by [[Roy Moore]] that includes their 8/28/10 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3) by [[Roy Moore]] that includes their 8/28/10 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.482835317264.261188.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346859923444.2043492.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 performance in [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.481887097264.251803.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[Festivals/Wafflefest|Wafflefest]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/11 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/11 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.1035268833203299.1073742249.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/15 reunion show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## Promos

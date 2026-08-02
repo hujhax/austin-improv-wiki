@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -32,7 +32,7 @@
 It is part of *[[Shows/The Wheel|The Wheel]]*.
 
 ## Summary
-Fancy Pants is a show that happens on the first Friday of every month at [[The Hideout Theatre]]. It was "lovingly borrowed (i.e., egregiously stolen)" from [PROJECTproject](http://en.wikipedia.org/wiki/Projectproject) in Toronto, Canada.
+Fancy Pants is a show that happens on the first Friday of every month at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. It was "lovingly borrowed (i.e., egregiously stolen)" from [PROJECTproject](http://en.wikipedia.org/wiki/Projectproject) in Toronto, Canada.
 
 It currently is cast and directed by [[Jeffrey Chatman]] and [[Performers/Megan Venable|Megan Venable]].
 

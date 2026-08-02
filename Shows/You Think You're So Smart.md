@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -91,7 +91,7 @@ Recurring features include the "Ranter's Corner", where a guest speaker delivers
 
 ## History
 ### Initial Run
-The show initially ran Fridays at 8pm at [[The Institution Theater]] during September 2013:
+The show initially ran Fridays at 8pm at [[Theatres/The Institution Theater|The Institution Theater]] during September 2013:
 
 * 9/6/13: "Spacing Out" (the cosmos)
 	* Cast: [[Performers/Valerie Ward|Valerie Ward]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]]
@@ -114,7 +114,7 @@ The show initially ran Fridays at 8pm at [[The Institution Theater]] during Sept
 	* Guest Ranter: [[Performers/Brett Tribe|Brett Tribe]]
 
 ### Subsequent Run
-The show was revived for shows on 7/25/14 and 8/22/14 at [[The Hideout Theatre]] as a temporary part of *[[Shows/The Wheel|The Wheel]]*.
+The show was revived for shows on 7/25/14 and 8/22/14 at [[Theatres/The Hideout Theatre|The Hideout Theatre]] as a temporary part of *[[Shows/The Wheel|The Wheel]]*.
 
 * 7/25/14: "You Think You're So In Love" (courtship in different societies, animal mating rituals, and romantic and sexual art)
 	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], [[Mary Jo Pehl]], [[Performers/Peter Rogers|Peter Rogers]]

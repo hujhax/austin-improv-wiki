@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -184,7 +184,7 @@
 	</table>
 </div>
 
-***Rock N Roll Purgatory*** was an original comedy musical mainstage show at [[The Institution Theater]]. It was written by the cast through improvised rehearsals.
+***Rock N Roll Purgatory*** was an original comedy musical mainstage show at [[Theatres/The Institution Theater|The Institution Theater]]. It was written by the cast through improvised rehearsals.
 
 ## Summary
 The Havocs, an up-and-coming rock band, die in a tragic accident and wake up in purgatory where they must confront their fate among dead celebrity musicians and demons. 

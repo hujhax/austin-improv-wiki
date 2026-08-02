@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="IreneWhite.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Irene White|Irene White]], performing at [[The Hideout Theatre]].
+[[Performers/Irene White|Irene White]], performing at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Photo by: unknown.
 

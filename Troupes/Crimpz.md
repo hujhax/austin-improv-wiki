@@ -74,12 +74,12 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Crimpz is two best friends going on a magical adventure. 
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Crimpz is two best friends going on a magical adventure. 
 
 Come witness the spectacle that is, two socially awkward friends navigating everyday routines that turn into epic adventures.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We do a narrative based on an audience suggestion. 
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a narrative based on an audience suggestion. 
 
 Then at some point we get a whimsical/mythical element from the audience and continue the narrative.</blockquote>
 

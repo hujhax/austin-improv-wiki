@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -188,7 +188,7 @@
 	</table>
 </div>
 
-***The Source*** was a mainstage show at [[The Institution Theater]].  It combined improv games, monologs, and music into an audience-interactive experience inspired by 1960s cult indoctrinations.
+***The Source*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].  It combined improv games, monologs, and music into an audience-interactive experience inspired by 1960s cult indoctrinations.
 
 ## Summary
 The show ran Fridays at 10pm from 7/24/15 to 8/28/15.  Each show included the entire cast, with one performer each night playing the cult leader, named Mother Yod or Father Yod as appropriate.  Performer costumes defaulted to  beige/cream/off-white loose, flowing garments.

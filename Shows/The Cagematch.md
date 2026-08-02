@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a> (2005-2007)</li><!--
-  --><li style=""><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a> (2007-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a> (2005-2007)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2007-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -129,7 +129,7 @@
 	</table>
 </div>
 
-***The Cagematch*** (AKA ***Cage Match***, ***Cagematch***) is a competitive performance slot at [[Coldtowne Theater]] in which two to three improv troupes perform and the audience votes on their favorite.  It runs at 10pm on Wednesday nights.
+***The Cagematch*** (AKA ***Cage Match***, ***Cagematch***) is a competitive performance slot at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in which two to three improv troupes perform and the audience votes on their favorite.  It runs at 10pm on Wednesday nights.
 
 ## Summary
 In its current incarnation, the Cagematch is a single-elimination bracket tournament.  Eight to twelve 'teams' (troupes) play against each other, first in four preliminary matches featuring two to three teams, then in two-team matches, over the course of seven weeks.  In each show, each scheduled team performs a twenty-minute set.  The audience votes for their favorite performance, and the winning team advances to the next round or (in the last match) wins the championship.  Occasionally, there is an exhibition match scheduled among the regular tournament. The winner of the exhibition match automatically gets a slot in the next tournament (provided they submit).
@@ -138,7 +138,7 @@ Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild"
 
 ## History
 ![[Cagematch2x4.jpg|The winners of *The Cagematch* are recorded on a 2x4 mounted on the wall at ColdTowne Theater.]]
-The Cagematch originated as an [[AIC]]-branded show at [[The Hideout Theatre]] in November of 2005.  It moved to [[Coldtowne Theater]] in 2007.  The AIC became largely inactive in 2009, and the Cagematch continued as a ColdTowne show.
+The Cagematch originated as an [[AIC]]-branded show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in November of 2005.  It moved to [[Theatres/Coldtowne Theater|Coldtowne Theater]] in 2007.  The AIC became largely inactive in 2009, and the Cagematch continued as a ColdTowne show.
 
 In its tenure at the Hideout, and in the first months of its move to ColdTowne, the Cagematch was a "King of the Hill"-style contest, where the winner would always return to compete next week.  The show returned to this format briefly in late 2010/early 2011.
 

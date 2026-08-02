@@ -73,7 +73,7 @@
 **Big Beautiful Warlock** is a troupe which performs a modified La Ronde.
 
 ## Summary
-In addition to these shows, they host a monthly improvised game show called [[Shows/Big Beautiful Warriors|Big Beautiful Warriors]] the first Saturday of every month at [[Coldtowne Theater]].
+In addition to these shows, they host a monthly improvised game show called [[Shows/Big Beautiful Warriors|Big Beautiful Warriors]] the first Saturday of every month at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Media
 ### Videos

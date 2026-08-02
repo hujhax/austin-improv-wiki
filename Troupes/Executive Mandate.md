@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote><p>Given that our name is 'Executive Mandate', every show we go on a 'Man-date'.</p>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Given that our name is 'Executive Mandate', every show we go on a 'Man-date'.</p>
 
 <p>Two men have a real dinner on stage at a small table off to the side. We have a conversation and whatever we find entertaining we stand up and do skits about. Once a skit is complete, we sit back down and continue the conversation.</p>
 

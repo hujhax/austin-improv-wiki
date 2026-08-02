@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Bob Apthorpe** was an improv performer who played primarily at [[The Hideout Theatre]]. While no longer an improv performer or an Austin resident, Bob remains vital to the [[AIC]] as the administrator of the Austin Improv web site.
+**Bob Apthorpe** was an improv performer who played primarily at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. While no longer an improv performer or an Austin resident, Bob remains vital to the [[AIC]] as the administrator of the Austin Improv web site.
 
 
 ## Troupes

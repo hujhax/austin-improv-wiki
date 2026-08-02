@@ -10,7 +10,7 @@ Its advertising and art were election-themed.
 * [[Troupes/$10 Bourbon|$10 Bourbon]]
 * [[Troupes/Buddy Daddy|Buddy Daddy]]
 * *[[Shows/Cochise|Cochise]]*
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Shows/Improvised Shakespeare|Improvised Shakespeare]]

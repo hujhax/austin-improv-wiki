@@ -82,8 +82,8 @@ The troupe performed in [[Festivals/WaffleFest 2009|WaffleFest 2009]], [[Festiva
 ## Media
 ### Photos
 * [Several photos of the original 2009 incarnation of the Love Notes.](http://www.flickr.com/photos/austinimprov/3507384655/in/photostream/)
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.164964842264.141044.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/27/09 show at [[The Hideout Theatre]] (their first show with their revamped lineup).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242748657264.168273.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/11/09 "Where in the World?" show at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.164964842264.141044.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/27/09 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (their first show with their revamped lineup).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242748657264.168273.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/11/09 "Where in the World?" show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.437930922264.211725.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/6/10 longform show in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447241697264.218626.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/29/10 longform show in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*, their last show with [[Performers/Meghan Wolff|Meghan Wolff]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 reunion show in *[[Shows/The Threefer|The Threefer]]*.

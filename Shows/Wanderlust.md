@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Wanderlust*** was a mainstage at [[The Hideout Theatre]].  It depicted two people going on a journey.
+***Wanderlust*** was a mainstage at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It depicted two people going on a journey.
 
 ## Summary
 For each performance, the central protagonists were dressed in red, while the remaining eight ensemble members were in blue.  The central performers asked the audience for a location people might travel to, and conducted a brief interview with an audience member, looking for grounded inspiration for the show.

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Troy Miller** is an improv performer, director, and teacher.
 
 ## History
-Troy started taking improv classes at [[The Hideout Theatre]] in September 2001, and started performing in *[[Shows/Maestro|Maestro]]* there in early 2002.
+Troy started taking improv classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in September 2001, and started performing in *[[Shows/Maestro|Maestro]]* there in early 2002.
 
 He was a core cast member in both [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] and [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 

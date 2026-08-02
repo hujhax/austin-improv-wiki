@@ -28,7 +28,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * Saturday 7am: Student Show
 * Saturday 8am: [[Troupes/Midnight Society|Midnight Society]]
 * Saturday 9am: [[Troupes/Bad Boys|Bad Boys]]
-* Saturday 10am: [[The Institution Theater]]
+* Saturday 10am: [[Theatres/The Institution Theater|The Institution Theater]]
 * Saturday 11am: *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
 * Saturday 12pm: Student Show
 * Saturday 1pm: 8-way Hell Dub narrative

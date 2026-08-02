@@ -78,9 +78,9 @@ The troupe performs "The JTS Brown", a free-form, organic montage.
 ## History
 The troupe was originally named "Arkay" and was formed by [[Joshua Philips]] as a collaborative process between improvisers from multiple theaters to study the JTS Brown format with Craig Cackowski, [[Performers/Dave Buckman|Dave Buckman]], and [[Performers/Cody Dearing|Cody Dearing]].
 
-They had a one-time run of Thursday shows in May 2013 at [[Coldtowne Theater]] with [[Troupes/Cheap Date|Cheap Date]]
+They had a one-time run of Thursday shows in May 2013 at [[Theatres/Coldtowne Theater|Coldtowne Theater]] with [[Troupes/Cheap Date|Cheap Date]]
 
-[[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined *[[Shows/The Threefer|The Threefer]]* at [[The Hideout Theatre]] in July 2013 and was accepted into [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], and continues to perform shows in the Austin improv scene.
+[[Joshua Philips]] and [[Ashley Franks]] left to move to Chicago to pursue improv, and Arkay reorganized and renamed itself in order to continue performing in shows. The new team headlined *[[Shows/The Threefer|The Threefer]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in July 2013 and was accepted into [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]], and continues to perform shows in the Austin improv scene.
 
 ## Media
 ### Videos

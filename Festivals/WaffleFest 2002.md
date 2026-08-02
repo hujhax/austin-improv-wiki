@@ -1,4 +1,4 @@
-**WaffleFest 2002** was the first annual [[Festivals/Wafflefest|Wafflefest]] festival at the [[Hideout Theatre]].
+**WaffleFest 2002** was the first annual [[Festivals/Wafflefest|Wafflefest]] festival at the [[Theatres/Hideout Theatre|Hideout Theatre]].
 
 ![[Image may contain- one or more people.jpeg]]
 

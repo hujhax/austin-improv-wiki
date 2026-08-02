@@ -78,22 +78,22 @@
 	</table>
 </div>
 
-**The Heroes of Comedy** (formerly **Austin Theatresports** and **We Could Be Heroes**) was the house improv troupe of [[The Hideout Theatre]] during its first years of operation.
+**The Heroes of Comedy** (formerly **Austin Theatresports** and **We Could Be Heroes**) was the house improv troupe of [[Theatres/The Hideout Theatre|The Hideout Theatre]] during its first years of operation.
 
 ## History
 In November 1998, [[Performers/Sean Hill|Sean Hill]] and [[Performers/David Lampe|David Lampe]] held auditions and callbacks for 'improv comedians' in a rented rehearsal space (a space later nicknamed "[[The Batcave]]").  Sixteen performers were cast from those auditions, and fifteen of them went on to rehearse on Sundays and Wednesdays in the Batcave.  Sean ran rehearsals (with Lampe assisting), drawing heavily from his BATS training and from other Johnstonian sources.  Sean also flew in California veterans Dan O'Connor and Brian Lohmann to teach workshops.  The troupe was initially named "Austin Theatresports".  Its first show was the first Austin performance of *[[Shows/Maestro|Maestro]]* (then "Micetro"), in February of 1999.
 
 The following month, the troupe found a semi-permanent home at the [[Hyde Park Theater]], where they would perform *[[Shows/Maestro|Maestro]]* at 11pm on Fridays and *[[Shows/Gorilla Theater|Gorilla Theater]]* at 11pm on Saturdays, playing on whatever sets were left over from the theater's 8pm shows.  At this point, [[Billy Wolfe]] joined the troupe as a musical improvisor.  The troupe participated in the April 1999 [[Big Stinkin' Improv Festival]] (with Austin's first "All-Star Micetro").
 
-In late spring of that year, Sean signed a lease on [[The Hideout Theatre]] (at the time, an old abandoned pawn shop), giving the troupe a permanent home, and the troupe immediately set to work on gutting and renovating the space.  That work continued until the Hideout's opening in 2000.  During that time, Sean renamed the troupe "We Could Be Heroes", a reference to [[Wikipedia - 'Heroes' (David Bowie song)|the David Bowie song]] that evoked self-empowerment, Keith Johnstone's affinity for hero-centered stories, and superheroes (which were a running theme in the Hideout's marketing).
+In late spring of that year, Sean signed a lease on [[Theatres/The Hideout Theatre|The Hideout Theatre]] (at the time, an old abandoned pawn shop), giving the troupe a permanent home, and the troupe immediately set to work on gutting and renovating the space.  That work continued until the Hideout's opening in 2000.  During that time, Sean renamed the troupe "We Could Be Heroes", a reference to [[Wikipedia - 'Heroes' (David Bowie song)|the David Bowie song]] that evoked self-empowerment, Keith Johnstone's affinity for hero-centered stories, and superheroes (which were a running theme in the Hideout's marketing).
 
 Once the Hideout opened, the troupe began expanding, both to replace departing members and to provide stage time for graduates of the Hideout's new educational program.  Sean introduced a tiered system of "Varsity", "Junior Varsity", and "Rookie" members, indicating how central they were to the performance schedule.  The Heroes of Comedy put on nearly the entire roster of shows at the Hideout Theatre, including *[[Shows/Gorilla Theater|Gorilla Theater]]*, *[[Shows/Six Degrees|Six Degrees]]*, and *[[Shows/TheatreSports|TheatreSports]]*.
 
 In 2002, Sean renamed the troupe again, this time to "The Heroes of Comedy", to clarify publicity and marketing.  
 
-From 2001 to 2004, the Heroes of Comedy transitioned from a troupe to more of a brand name/business entity.  By January 2005, it was no longer a rehearsing troupe with proper membership, and from 2005 to 2009, "The Heroes of Comedy" became a general term for performers at [[The Hideout Theatre]] -- for instance, *[[Shows/Maestro|Maestro]]* players were often introduced as "The Heroes of Comedy".
+From 2001 to 2004, the Heroes of Comedy transitioned from a troupe to more of a brand name/business entity.  By January 2005, it was no longer a rehearsing troupe with proper membership, and from 2005 to 2009, "The Heroes of Comedy" became a general term for performers at [[Theatres/The Hideout Theatre|The Hideout Theatre]] -- for instance, *[[Shows/Maestro|Maestro]]* players were often introduced as "The Heroes of Comedy".
 
-The name was officially retired in 2009, when [[Performers/Roy Janik|Roy Janik]], [[Performers/Kareem Badr|Kareem Badr]], and [[Performers/Jessica Arjet|Jessica Arjet]] took over [[The Hideout Theatre]], out of respect for [[Performers/Sean Hill|Sean Hill]], who wanted to retain the name for future ventures.
+The name was officially retired in 2009, when [[Performers/Roy Janik|Roy Janik]], [[Performers/Kareem Badr|Kareem Badr]], and [[Performers/Jessica Arjet|Jessica Arjet]] took over [[Theatres/The Hideout Theatre|The Hideout Theatre]], out of respect for [[Performers/Sean Hill|Sean Hill]], who wanted to retain the name for future ventures.
 
 ### Members
 #### The Original Cast

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -184,7 +184,7 @@
 	</table>
 </div>
 
-***Control Issues*** (previous titles: ***Pick Your Own Path***, ***Choose Your Own Adventure***) is [[The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
+***Control Issues*** (previous titles: ***Pick Your Own Path***, ***Choose Your Own Adventure***) is [[Theatres/The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.
 
 It is part of *[[Shows/The Wheel|The Wheel]]*.
 
@@ -194,9 +194,9 @@ In *Control Issues*, the story usually takes the form of a middle-schooler going
 In late 2014, the format was modified somewhat, allowing the narrator to take other types of suggestions from the audience, in addition to plot 'branch points'.
 
 ## History
-This show originated as a [[Shows/The Cagematch|Cagematch]] show from [[Troupes/The Dark Bloodlords|The Dark Bloodlords]].  They played three shows in 2006.  A year later, several Hideout players performed a Harry-Potter-themed *Choose Your Own Adventure* show for an event associated with the latest *Harry Potter* book release.  In October 2010, it began a run at [[The Hideout Theatre]] as part of *[[Shows/The Wheel|The Wheel]]*.
+This show originated as a [[Shows/The Cagematch|Cagematch]] show from [[Troupes/The Dark Bloodlords|The Dark Bloodlords]].  They played three shows in 2006.  A year later, several Hideout players performed a Harry-Potter-themed *Choose Your Own Adventure* show for an event associated with the latest *Harry Potter* book release.  In October 2010, it began a run at [[Theatres/The Hideout Theatre|The Hideout Theatre]] as part of *[[Shows/The Wheel|The Wheel]]*.
 
-The show began its run with the name *Choose Your Own Adventure*, but on November 4th, 2010, [[The Hideout Theatre]] received a cease-and-desist letter from [Chooseco](http://en.wikipedia.org/wiki/Chooseco), the publisher of the *Choose Your Own Adventure* line of books.
+The show began its run with the name *Choose Your Own Adventure*, but on November 4th, 2010, [[Theatres/The Hideout Theatre|The Hideout Theatre]] received a cease-and-desist letter from [Chooseco](http://en.wikipedia.org/wiki/Chooseco), the publisher of the *Choose Your Own Adventure* line of books.
 
 At the start of its run, a single *Pick Your Own Path* adventure was paired with *[[Shows/The Lottery|The Lottery]]* and a montage jam from experienced Hideout players.  In January 2012, *[[Shows/The Wheel|The Wheel]]* was revamped, *[[Shows/The Lottery|The Lottery]]* was retired, and *Pick Your Own Path* expanded to a double bill, with two *Pick Your Own Path* adventures and no additional acts.
 

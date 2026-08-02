@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Cat Drago** is an improv performer.
 
 ## History
-Cat began doing improv after watching long stretches of [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].  Since then she has successfully watched [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]], [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] and [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]] in their entirety. She is a regular cast member of [[Shows/Control Issues|Control Issues]] at [[The Hideout]]. 
+Cat began doing improv after watching long stretches of [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].  Since then she has successfully watched [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]], [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] and [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]] in their entirety. She is a regular cast member of [[Shows/Control Issues|Control Issues]] at [[Theatres/The Hideout|The Hideout]]. 
 
 ## Troupes
 * [[Troupes/Kosher Bacon|Kosher Bacon]]

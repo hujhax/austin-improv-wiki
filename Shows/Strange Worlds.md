@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -136,7 +136,7 @@
 ![[Strange Worlds Heroes Drawing.jpg|A drawing by [Ryan Austin](Performers/Ryan%20Austin) of the cast of heroes from *Strange Worlds*.]]
 
 
-***Strange Worlds*** was a mainstage show at [[The Hideout Theatre]] based on 30s [[Wikipedia - Pulp magazine|pulp adventure]].
+***Strange Worlds*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] based on 30s [[Wikipedia - Pulp magazine|pulp adventure]].
 
 ## Summary
 The show was an improvised serial anthology based in the tropes of [[Wikipedia - Pulp magazine|the pulps]] of the 30s and 40s.  The cast developed hero characters in rehearsals, and each performance featured two adventures, each featuring one of those heroes, and an shorter interstitial story ("Strange Times") that followed a reporter and cop as they investigated the blowback from those stories.

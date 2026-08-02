@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -160,7 +160,7 @@
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1504148095550.2063690.1589679282&type=3) by [[Roy Moore]] of the 1/22/11 performance.
 * [Photoset](https://www.flickr.com/photos/b-s_r/sets/72157625891814906/) by [[Steve Rogers]] of the 1/22/11 performance
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1510218567308.2064271.1589679282&type=3) by [[Roy Moore]] of the 1/28/11 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/11 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/11 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](https://www.flickr.com/photos/b-s_r/sets/72157626037020222/) by [[Steve Rogers]] of the 2/12/11 performance
 
 ## More Information

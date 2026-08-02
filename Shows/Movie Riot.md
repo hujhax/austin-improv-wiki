@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-**Movie Riot** (formerly **Movie Versus Movie**) is a improv team that specializes in the [movie format]] at [[Coldtowne Theater]].
+**Movie Riot** (formerly **Movie Versus Movie**) is a improv team that specializes in the [movie format]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 MOVIE RIOT is one of Austin's premiere improv performance teams- and the best group specializing in "The Movie Format". The supergroup consists of All-Star Austin improvisers- Mac Blake, Lance Gilstrap, Kirk Johnson, Joshua Krilov, Carlos LaRotta, and Kyle Sweeney. 

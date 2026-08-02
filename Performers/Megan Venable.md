@@ -22,7 +22,7 @@
 **Megan Venable** is an improv performer.
 
 ## History
-Megan trained at [[The Institution Theater]].
+Megan trained at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Troupes
 * [[Troupes/No Frills|No Frills]] (2013-Present)

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Tom Booker** is an improv performer and director.  He co-runs [[The Institution Theater]].
+**Tom Booker** is an improv performer and director.  He co-runs [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 Tom Booker has studied improvisation and sketch at The Second City Training Center and with legendary improv guru Del Close at Chicago's ImprovOlympic. He is a founding member of Chicago's Annoyance Theatre and has been a director and instructor at The Second City Training Center in Los Angeles.

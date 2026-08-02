@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***What the F@*$*** (the symbols can vary) was the first student mainstage production at [[The Hideout Theatre]].
+***What the F@*$*** (the symbols can vary) was the first student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 In 'What the F#*@!', an improvised story was split into two halves. The first half featured the everyday world and problems of the main character and the people around them.

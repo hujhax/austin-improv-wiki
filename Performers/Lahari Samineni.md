@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -20,7 +20,7 @@
 </div>
 
 
-**Lahari Samineni** is a new performer who performs primarily with [[The Hideout Theatre]] and [[The Institution Theatre]].  She began taking classes at the Hideout in January 2013, and began performing in November 2013.  
+**Lahari Samineni** is a new performer who performs primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theatre|The Institution Theatre]].  She began taking classes at the Hideout in January 2013, and began performing in November 2013.  
 
 ## Troupes
 * [[Troupes/Minority Report|Minority Report]]

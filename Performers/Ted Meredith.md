@@ -12,7 +12,7 @@
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Esther's Follies">Esther's Follies</a></li><!--
-  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,10 +73,10 @@
 **Ted Meredith** is an improv performer, teacher, and director.
 
 ## Summary
-Ted is a faculty member at [[The Institution Theater]], and a regular cast member at [[Esther's Follies]].
+Ted is a faculty member at [[Theatres/The Institution Theater|The Institution Theater]], and a regular cast member at [[Esther's Follies]].
 
 ### Press Bio
-Ted's biography on the web site for [[The Institution Theater]] is as follows:<blockquote><P>TED MEREDITH is that fun loving guy that answers your life-long question, “what would happen if Gene Wilder and Jon Lovitz had a lovechild?” He is currently an actor and writer at Esther's Follies, Austin's only 30 year old sketch/music/magic show, and has spent nearly five years playing characters from Bill Clinton to Glenn Beck.</P>
+Ted's biography on the web site for [[Theatres/The Institution Theater|The Institution Theater]] is as follows:<blockquote><P>TED MEREDITH is that fun loving guy that answers your life-long question, “what would happen if Gene Wilder and Jon Lovitz had a lovechild?” He is currently an actor and writer at Esther's Follies, Austin's only 30 year old sketch/music/magic show, and has spent nearly five years playing characters from Bill Clinton to Glenn Beck.</P>
 
 <P>Ted has a BFA, cum laude, in Acting for Theater from Southwestern University, where he studied Viewpoints, Alexander Technique, Directing, Dance, Voice, etc. Upon graduating he joined the company of Austin Shakespeare, performed with Zilker Hillside Musical, and was one of the founding members of the Austiner Ensemble. He has been nominated for B. Iden Payne and Austin Critic's Table awards, and was winner of of his High School's Mr. PHS Theater award! He is also a frequent performer for [[ZACH Theater]]'s children shows and Austin Shakespeare's roaming production of the World's Fastest Hamlet.</P>
 

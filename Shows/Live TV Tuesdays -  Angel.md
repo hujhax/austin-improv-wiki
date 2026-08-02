@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -93,7 +93,7 @@ This was the third of the Joss-Whedon-derived productions from *[[Shows/Live TV 
 
 This was one of the most ambitious *TV Tuesdays* shows in terms of production.  To do justice to the source material, the show was very mixed-media, involving not only the usual sound and lighting tech, but also musical numbers, video playback, and (most significantly) both hand and full-body puppets.  [[Performers/Sara Farr|Sara Farr]] of the [[Puppet Improv Project]] handled the show's puppet-related work.
 
-[[Performers/Peter Rogers|Peter Rogers]] reprised his role as Wesley from the earlier production of [[Shows/Live TV Tuesdays -  Buffy|*Buffy*]].  The production brought [[Performers/Heath Allyn|Heath Allyn]] and [[Performers/Adam Mengesha|Adam Mengesha]] into [[The Institution]]'s orbit; they would both go on to participate in [[Shows/Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
+[[Performers/Peter Rogers|Peter Rogers]] reprised his role as Wesley from the earlier production of [[Shows/Live TV Tuesdays -  Buffy|*Buffy*]].  The production brought [[Performers/Heath Allyn|Heath Allyn]] and [[Performers/Adam Mengesha|Adam Mengesha]] into [[Theatres/The Institution|The Institution]]'s orbit; they would both go on to participate in [[Shows/Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
 
 ## Cast
 * Angel -- [[Performers/Heath Allyn|Heath Allyn]]

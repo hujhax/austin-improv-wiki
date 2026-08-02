@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Tiny Luddite? [[Performers/Ed Reed|Ed Reed]] and [[Chaz Formichella]] are the Tiniest of Luddites. Just a wee little voice saying "Aw, that cell phone's giving you brain diseases," or "Duck! It' the internet!!" Watch them expand the human realm, reclaiming what technology has taken from us - our innocence.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Tiny Luddite? [[Performers/Ed Reed|Ed Reed]] and [[Chaz Formichella]] are the Tiniest of Luddites. Just a wee little voice saying "Aw, that cell phone's giving you brain diseases," or "Duck! It' the internet!!" Watch them expand the human realm, reclaiming what technology has taken from us - our innocence.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>We call it two-man speedfunk. Speedfunk is a format we invented with [[Bob McNicol]], where the two actors are able to just move with the groove. Just go ahead and change things up, whenever they want. It's like we could be doing one scene at one time, and then a second later, we're doing a different scene. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We call it two-man speedfunk. Speedfunk is a format we invented with [[Bob McNicol]], where the two actors are able to just move with the groove. Just go ahead and change things up, whenever they want. It's like we could be doing one scene at one time, and then a second later, we're doing a different scene. </blockquote>
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/tinyluddite)

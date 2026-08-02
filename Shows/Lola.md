@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Lola*** was a mainstage improv show at [[Salvage Vanguard Theater]].  It was loosely inspired by *[[Wikipedia - Run Lola Run|Run Lola Run]]*.
+***Lola*** was a mainstage improv show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].  It was loosely inspired by *[[Wikipedia - Run Lola Run|Run Lola Run]]*.
 
 ## Summary
 The show improvised the same narrative three times, with three radically different outcomes based on slight changes in causal incidents. 

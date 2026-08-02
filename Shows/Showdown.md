@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Showdown*** was a serialized narrative longform western that ran as a mainstage show at [[Salvage Vanguard Theater]].
+***Showdown*** was a serialized narrative longform western that ran as a mainstage show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 ## Summary
 The show was set in the fictional town of Showdown in the Republic of Texas in the early 19<sup>th</sup> century.

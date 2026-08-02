@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Slaughter Your Shorts*** was an improvised mainstage show at [[Coldtowne Theater]].
+***Slaughter Your Shorts*** was an improvised mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 The show was a longform genre mash-up between a 90s summer camp sitcom (such as *[[Wikipedia - Salute Your Shorts|Salute Your Shorts]]*) and 80s slasher movies.  It featured live blood effects, and provided free ponchos to audience members in the front row. (The same blood effects were later employed in *[[Shows/Indy Movies|Indy Movies]]*.) 

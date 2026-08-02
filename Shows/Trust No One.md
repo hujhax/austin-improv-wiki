@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Trust No One*** was a mainstage show at [[The Institution Theater]].
+***Trust No One*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 The show was a longform narrative, dealing with conspiracies and paranoia. An audience suggestion of a single organization that secretly controls everything (usually, an entity not generally held to be sinister in nature) was used to craft an improvised play in which the shadowy dealings of this organization are discovered.

@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Highball Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[The Highball]].
+Logo for [[Theatres/The Highball|The Highball]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

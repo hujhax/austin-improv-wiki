@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></li><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Lisa Jackson** is an improv instructor and performer.
 
 ## History
-Lisa appeared in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]], and [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]], and the 2019 48-Hour Marathon at [[The Hideout Theatre]].
+Lisa appeared in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]], and [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]], and the 2019 48-Hour Marathon at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Troupes
 * [[Troupes/Dervish|Dervish]]

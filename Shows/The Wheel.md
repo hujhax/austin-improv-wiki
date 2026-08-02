@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***The Wheel*** is the rotating set of Friday 8pm shows at [[The Hideout Theatre]].
+***The Wheel*** is the rotating set of Friday 8pm shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 *The Wheel* was brought into the Hideout schedule in September 2010 as a replacement for *[[Shows/The Double Barrel|The Double Barrel]]*.
@@ -53,7 +53,7 @@ In January 2012, the Wheel was revamped to look like this:
 
 *[[Shows/The Lottery|The Lottery]]* was retired from the schedule. *[[Shows/Pick Your Own Path|Pick Your Own Path]]* went to a double bill, with two consecutive stories in that performance slot.
 
-In place of *[[Shows/The Lottery|The Lottery]]*, [[The Hideout]] added a dedicated night for newer improvisors with *[[Shows/Maestro|Maestro RAW]]*.
+In place of *[[Shows/The Lottery|The Lottery]]*, [[Theatres/The Hideout|The Hideout]] added a dedicated night for newer improvisors with *[[Shows/Maestro|Maestro RAW]]*.
 
 ### 2012-2013 Schedule
 In July 2012, *[[Shows/The Narrative Improv Jam|The Narrative Improv Jam]]* was retired and replaced with *[[Shows/The TV Set|The TV Set]]*.

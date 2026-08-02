@@ -70,12 +70,12 @@
 	</table>
 </div>
 
-**Wink Planet** is a sketch troupe based out of [[Coldtowne Theater]].
+**Wink Planet** is a sketch troupe based out of [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
 The troupe was founded from a January 2013 Sketch Level 1 and Level 2 class teachered by Eric Rutherford.  Eric is still a heavy teachering presence within the group.
 
-Every Saturday in November 2014, Wink Planet teamed up with sketch group Off the Wall to present Thicker Than Water: The 18th Annual McGgutchins Family Reunion Show at [[Coldtowne Theater]].
+Every Saturday in November 2014, Wink Planet teamed up with sketch group Off the Wall to present Thicker Than Water: The 18th Annual McGgutchins Family Reunion Show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Media
 ### Photos

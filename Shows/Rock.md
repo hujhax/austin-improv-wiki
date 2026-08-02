@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -190,7 +190,7 @@
 
 ***Rock*** (full title: ***Rock: The Improvised Rock Opera***) was an improvised longform narrative show inspired by rock operas.  All dialog was sung, and punctuated by rock'n'roll musical numbers.  Musician [[Performers/Michael Brockman|Michael Brockman]] improvised accompaniment using two keyboards, a drum machine, and an electric guitar.
 
-*Rock* was a mainstage show at [[The Hideout Theatre]].
+*Rock* was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 
 ## Media

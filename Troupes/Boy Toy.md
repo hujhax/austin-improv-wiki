@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>Harold. Fast and furious for now. Working on a Chicago-style "Suggestion as Show" Harold but still getting comfortable with ... everything. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Harold. Fast and furious for now. Working on a Chicago-style "Suggestion as Show" Harold but still getting comfortable with ... everything. </blockquote>
 
 ## More Information
 * [The troupe's web site (defunct).](http://www.boytoyimprov.com)

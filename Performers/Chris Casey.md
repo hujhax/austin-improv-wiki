@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,9 +19,9 @@
 	</table>
 </div>
 
-Chris is a dad from Austin, TX. He sometimes improvises at [[The Hideout Theatre]] and sometimes acts at The Curtain Theatre with [The Baron's Men](http://thebaronsmen.org/). Currently he is a member of the improv troupes [[Troupes/Space Swank|Space Swank]], [[Troupes/Human People|Human People]], and most often [[Troupes/Too Shy Guys|Too Shy Guys]].
+Chris is a dad from Austin, TX. He sometimes improvises at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and sometimes acts at The Curtain Theatre with [The Baron's Men](http://thebaronsmen.org/). Currently he is a member of the improv troupes [[Troupes/Space Swank|Space Swank]], [[Troupes/Human People|Human People]], and most often [[Troupes/Too Shy Guys|Too Shy Guys]].
 
-He was inspired to try improv by his kids who also took classes at [[The Hideout Theatre]]. He won his first Maestro RAW in 2015 and is making plans for his second.
+He was inspired to try improv by his kids who also took classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. He won his first Maestro RAW in 2015 and is making plans for his second.
 
 ## Troupes
 * [[Troupes/AlphaQuest|AlphaQuest]]

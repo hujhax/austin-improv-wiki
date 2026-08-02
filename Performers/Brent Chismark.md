@@ -11,7 +11,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@ Brent's earliest improv experience comes from playing basic short-form games in 
 
 After providing some technical consulting to the pilot episode of the *Tales from [[Shows/The Black Vault|The Black Vault]]* podcast, and making the decision to move to Austin, he joined the *Tales from The Black Vault* team as a production engineer in 2015, working remotely on around half of the first season's episodes.
 
-On arriving in Austin in June of 2015, he started taking classes at [[The Hideout Theatre]], joining [[Performers/Andy Crouch|Andy Crouch]]'s Level 1, continuing with Level 2 with [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Kareem Badr|Kareem Badr]] and then through levels 3-6 with Kareem and his cohort (known as "Zippy Spork".)
+On arriving in Austin in June of 2015, he started taking classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]], joining [[Performers/Andy Crouch|Andy Crouch]]'s Level 1, continuing with Level 2 with [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Kareem Badr|Kareem Badr]] and then through levels 3-6 with Kareem and his cohort (known as "Zippy Spork".)
 
 In December of 2015, Brent participated in his first [[Shows/Maestro Raw|Maestro Raw]], winning the coveted CAD$5.
 

@@ -38,7 +38,7 @@ In the first years of the theater's operation, [[Performers/Sean Hill|Sean Hill]
 In the mid-2000s, [[Performers/Sean Hill|Sean Hill]] took a more hands-off approach to the theater, and the [[Austin Improv Collective]] along with Manager [[Performers/Andy Crouch|Andy Crouch]] started to produce shows there, creating programs like *[[Shows/The Threefer|The Threefer]]* and *[[Shows/The Double Barrel|The Double Barrel]]*.
 
 ### 2009-Present: New Management
-By mid-2009, [[Performers/Sean Hill|Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[The Hideout Theater]] continue, [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/Roy Janik|Roy Janik]] acquired the property.<ref name="auschron1">[The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)](http://www.austinchronicle.com/arts/2009-05-22/784213/)</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
+By mid-2009, [[Performers/Sean Hill|Sean Hill]]'s lease on the property came to an end, and he chose not to renew.  Eager to see [[Theatres/The Hideout Theater|The Hideout Theater]] continue, [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/Roy Janik|Roy Janik]] acquired the property.<ref name="auschron1">[The Hideout: Under new – but very familiar – management (Austin Chronicle, 22 May 2009)](http://www.austinchronicle.com/arts/2009-05-22/784213/)</ref>  They immediately scheduled regular two-month mainstage runs for Saturday nights.  Over time, they steadily expanded the education program, and the weekly show schedule.
 
 On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Shows/Maestro|Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee bar location opened inside an office building at 504 Lavaca in June of 2014. Unlike the expanded hours of The Hideout Coffee House, the Coffee Bar is only open Monday-Friday from 7am until 3pm.
 
@@ -82,3 +82,4 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 
 ## Notes
 <references/>
+[[Category/Theatres|Category:Theatres]]

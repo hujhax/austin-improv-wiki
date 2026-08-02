@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a>, <a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a>, <a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Clint Harris** is an improv performer who works primarily with [[Coldtowne Theater]] and [[The Institution Theater]]. He also performs in scripted productions including *Macbeth*, *The Cat in the Hat*, and *This is Our Youth*.
+**Clint Harris** is an improv performer who works primarily with [[Theatres/Coldtowne Theater|Coldtowne Theater]] and [[Theatres/The Institution Theater|The Institution Theater]]. He also performs in scripted productions including *Macbeth*, *The Cat in the Hat*, and *This is Our Youth*.
 
 ## Shows
 ### Improvised

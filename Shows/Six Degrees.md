@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Six Degrees*** was a mainstage show put on by [[The Hideout Theatre]].
+***Six Degrees*** was a mainstage show put on by [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 *Six Degrees* is a longform that begins with a ["La Ronde"](http://improvencyclopedia.org/games/La_Ronde.html).  This is a format in which the cast includes six players, whom we can refer to as A through F.  The first scene is a two-hander between A & B.  Then B stays onstage, as the same character, for the second scene, which is a two-hander between B & C.  This goes on -- C & D, D & E, E & F -- until the sixth scene, where we come back around with F & A.

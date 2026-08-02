@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-Ryan Austin is a well-dressed improviser who works mostly with [[The Hideout Theatre]].
+Ryan Austin is a well-dressed improviser who works mostly with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-Ryan began improv classes at [[The Hideout Theatre]] in May 2011. He was completely unaware of long form narrative improv before seeing his first show at the Hideout and fell in love instantly. He graduated with a BFA in screenwriting and that love of story has kept him fully engaged in improv storytelling. He has been a member of both [[Troupes/Local Genius Society|Local Genius Society]] and [[Shows/Past Lives|Past Lives]]. Currently he performs with [[Troupes/The Starborn|The Starborn]] and [[Troupes/Austin-Austin|Austin-Austin]].
+Ryan began improv classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in May 2011. He was completely unaware of long form narrative improv before seeing his first show at the Hideout and fell in love instantly. He graduated with a BFA in screenwriting and that love of story has kept him fully engaged in improv storytelling. He has been a member of both [[Troupes/Local Genius Society|Local Genius Society]] and [[Shows/Past Lives|Past Lives]]. Currently he performs with [[Troupes/The Starborn|The Starborn]] and [[Troupes/Austin-Austin|Austin-Austin]].
 
 He began directing improv in August of 2012 when [[Performers/Ruby Willmann|Ruby Willmann]] handed down the host/director role of [[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]] to him. He has since become a director for [[Shows/Maestro|Maestro]] and co-directed several MainStage shows.
 
@@ -43,7 +43,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Shows/Past Lives|Past Lives]]* (2013 - 2014)
 
 ## Shows
-* *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Salvage Vanguard Theater]])
+* *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*  (second run at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]])
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]*
 * *[[Shows/Strange Worlds|Strange Worlds]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*

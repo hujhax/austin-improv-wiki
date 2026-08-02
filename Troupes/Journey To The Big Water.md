@@ -78,14 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>Journey to the Big Water uses signature elements and its large cast of ten improvisers to create fully inhabited comic worlds. On a quest to discover the unifying themes and key elements of each show, Big Water leaves no stone unturned and no scene unexplored.</p>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Journey to the Big Water uses signature elements and its large cast of ten improvisers to create fully inhabited comic worlds. On a quest to discover the unifying themes and key elements of each show, Big Water leaves no stone unturned and no scene unexplored.</p>
 
 <p>Journey to the Big Water creates comedic scenes taking place in different parts of a very connected and often times absurd world. Taking advantage of its large cast, Journey to the Big Water fills each scene with extras and background environment to be explored throughout the show.</p>
 
 <p>Journey to the Big Water is a ColdTowne Theater house troupe.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote><p>Inspired equally by the Harold and Close Quarters, we have developed a format that is intended to create and explore a fully realized world.</p>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Inspired equally by the Harold and Close Quarters, we have developed a format that is intended to create and explore a fully realized world.</p>
 
 <p>We begin by playing patient relationship scenes that flesh out characters and establish the unique world in which they exist. We use our large cast to fill the stage with extras and background characters to populate rich, realistic environments and a create a cinematic effect.</p>
 

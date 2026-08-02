@@ -65,3 +65,4 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 ### Videos
 ## Media
 * [Article about the controversy which led to the shutdown of The New Movement Austin and formation of Fallout Theater](http://splitsider.com/2018/01/sexual-misconduct-allegations-have-put-the-future-of-new-orleans-and-austins-new-movement-theaters-in-doubt/) in Splitsider.
+[[Category/Theatres|Category:Theatres]]

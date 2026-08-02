@@ -75,7 +75,7 @@
 ## Summary
 Their signature show format was "Four Rooms," loosely based on [[Wikipedia - Four Rooms|the film of the same name]].
 
-Regular performance venues included [[The Hideout Theatre]] and [[Coldtowne Theater]].
+Regular performance venues included [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
 They headlined *[[Shows/The Threefer|The Threefer]]* in February 2009.
@@ -112,7 +112,7 @@ They headlined *[[Shows/The Threefer|The Threefer]]* in February 2009.
 * 2/2/09: *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 * 2/5/09: *[[Shows/The Threefer|The Threefer]]*, with [[Troupes/Venn Diaphragm|Venn Diaphragm]] and [[Troupes/You're Not My Real Dad|You're Not My Real Dad]].
 * 2/12/09: *[[Shows/The Threefer|The Threefer]]*, with [[Tiger Beat]] and [[Troupes/Ratliff & Kacey|Ratliff & Kacey]].
-* 2/13/09: Valentine show at [[The Hideout Theatre]].
+* 2/13/09: Valentine show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * 2/16/09: *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 * 2/19/09: *[[Shows/The Threefer|The Threefer]]*, with [[Troupes/Look Cookie|Look Cookie]] and [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]].
 * 2/21/09: *[[Shows/Cagematch|Cagematch]]*, versus [[Damned Avalanche]].

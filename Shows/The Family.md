@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***The Family*** was an ensemble-devised mob drama produced by [[Gnap! Theater Projects]] and performed at [[Salvage Vanguard Theater]] in 2010.
+***The Family*** was an ensemble-devised mob drama produced by [[Gnap! Theater Projects]] and performed at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] in 2010.
 
 ## Summary
 *The Family* was a scripted production where the script was 'devised' -- that is, it was written based on improvisation performed by the cast.  It was set in New York City in 1985, after the boss of the Marchetti crime family had been murdered. 

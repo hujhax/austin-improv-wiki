@@ -74,7 +74,7 @@
 **BeauMoMa** was an improv troupe that just wants to have fun.
 
 ## History
-BeauMoMa was formed after Bridget, Maitland, and Melissa completed levels 1-6 at [[The Hideout Theatre]]. 
+BeauMoMa was formed after Bridget, Maitland, and Melissa completed levels 1-6 at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. 
 
 The name BeauMoMa is a combination of their nicknames.  Bridget "Beau" short for Beauregard, Melissa "Mo" short for MoPatt, and Maitland "Ma" short for Maglight.
 
@@ -85,7 +85,7 @@ The troupe broke up when Bridget moved away to Rhode Island.
 * [Video](http://vimeo.com/68827080) by [[Performers/Melissa Patterson|Melissa Patterson]] of show #1.
 * [Video](http://vimeo.com/69155213) by [[Performers/Melissa Patterson|Melissa Patterson]] of show #2.
 * [Video](http://vimeo.com/74918469) by [[Performers/Melissa Patterson|Melissa Patterson]] of show #4 (7/18/13).
-* [Video](http://vimeo.com/71316579) by [[Performers/Paul Normandin|Paul Normandin]] of the 7/27/13 performance at [[The Institution Theater]].
+* [Video](http://vimeo.com/71316579) by [[Performers/Paul Normandin|Paul Normandin]] of the 7/27/13 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Video](http://vimeo.com/75015384) by [[Performers/Melissa Patterson|Melissa Patterson]] of show #5 (9/15/13).
 * [Video](http://vimeo.com/83402149) by [[Performers/Melissa Patterson|Melissa Patterson]] of show #6 (10/7/13).
 * [Video](http://vimeo.com/83384759) by [[Performers/Melissa Patterson|Melissa Patterson]] of show #7 (*[[Shows/The Threefer|The Threefer]]*, 1/2/14).

@@ -74,11 +74,11 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Soy Taco came to be as a result of bad Spanish and good improv. The
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Soy Taco came to be as a result of bad Spanish and good improv. The
 troupe members all met taking classes at the Hideout Theatre and have continued on as a troupe ever since. Primarily influenced by Armando-style improv, they love sharing personal stories (sometimes TOO personal) to inspire scenes. They also love to experiment with the occasional taco.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We ask the audience what they want to learn about our lives and a troupe member tells a real-life story based on the suggestion. We then perform scenes inspired by that story.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We ask the audience what they want to learn about our lives and a troupe member tells a real-life story based on the suggestion. We then perform scenes inspired by that story.</blockquote>
 
 ## Media
 ### Videos

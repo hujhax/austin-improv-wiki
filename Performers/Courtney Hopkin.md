@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Courtney Hopkin** (AKA **Courtney Salinas**) is an improv performer.  She handles public relations for [[The Hideout Theatre]].
+**Courtney Hopkin** (AKA **Courtney Salinas**) is an improv performer.  She handles public relations for [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of creating publicity images for the group.

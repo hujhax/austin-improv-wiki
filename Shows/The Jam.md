@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***The Jam*** was an improv show/mixer at [[Coldtowne Theater]].
+***The Jam*** was an improv show/mixer at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 The Jam was held every Sunday night at 8:30, with the first performance on February 10, 2010. [[Troupes/Murphy|Murphy]] hosted it until October 2010, at which point [[Troupes/Oh, Science!|Oh, Science!]] took over hosting duties. The show featured a different opening act every week. Audience members were then invited to join Oh, Science! and the opening act on stage for an open jam.

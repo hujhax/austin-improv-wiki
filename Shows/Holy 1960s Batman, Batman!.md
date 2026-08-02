@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -156,7 +156,7 @@ Early takes on the format appeared under the title "Holy Sleep Deprivation, Batm
 
 [[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Deano Jones|Deano Jones]] appeared live on [[Wikipedia - KEYE-TV|KEYE-TV]] on 5/11/11 to promote the show.
 
-The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]].  Its mainstage run included appearances in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]] and [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
+The show sold out all 10 weeks of its mainstage run at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Its mainstage run included appearances in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]] and [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 
 After its mainstage performances, it had its run extended for two weeks, played two special Halloween shows, and headlined the Black Box Comedy Festival in Atlanta, all in 2011.
 

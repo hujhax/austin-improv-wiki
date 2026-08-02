@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Madi Goff** is an actress and improv performer.
 
 ## History
-Madi started improvising in 2008 with [[Troupes/ComedySportz|ComedySportz]].  Shortly afterwards, she started taking classes with [[Performers/Shana Merlin|Shana Merlin]] and [[The Hideout Theatre]].
+Madi started improvising in 2008 with [[Troupes/ComedySportz|ComedySportz]].  Shortly afterwards, she started taking classes with [[Performers/Shana Merlin|Shana Merlin]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Over the next few years, Madi performed in longform shows with [[Gnap! Theater Projects]].
 

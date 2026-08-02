@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -239,7 +239,7 @@
 	</table>
 </div>
 
-***The Sci-Fi Comedy Double Feature*** was a double bill of *[[Shows/Twilight Zoned|Twilight Zoned]]* and *[[Shows/Start Trekkin'|Start Trekkin']]*.  It ran as a mainstage show at [[The Hideout Theatre]] in early 2012.
+***The Sci-Fi Comedy Double Feature*** was a double bill of *[[Shows/Twilight Zoned|Twilight Zoned]]* and *[[Shows/Start Trekkin'|Start Trekkin']]*.  It ran as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in early 2012.
 
 ## Summary
 The show opened with *[[Shows/Twilight Zoned|Twilight Zoned]]*.  That act would use about five improvisors -- while it was going on, two more improvisors would be in the green room, getting into their *Star Trek* uniforms.  When *[[Shows/Twilight Zoned|Twilight Zoned]]* ended, those two improvisors would come out and do an improv game of some sort involving an audience member (usually "Family Dinner") to buy some time for the rest of the cast, who would then be changing into **their** *Star Trek* uniforms.  Finally, the whole cast for the night would convene on stage and perform *[[Shows/Start Trekkin'|Start Trekkin']]*.

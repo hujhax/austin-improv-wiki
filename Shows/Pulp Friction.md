@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -135,7 +135,7 @@
 
 ***Pulp Friction*** was an improvised longform narrative show inspired by the works of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]].
 
-It was a mainstage show at [[The Institution Theater]].
+It was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 
 ## Media

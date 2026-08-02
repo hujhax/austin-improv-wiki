@@ -137,9 +137,9 @@ This is their bio from their web site:
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/21/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] of their 6/4/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 7/23/10 performance at *[[Shows/The Spectacle|The Spectacle]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3) by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[The Highball]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3) by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[Theatres/The Highball|The Highball]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3) by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[The Highball]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3) by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[Theatres/The Highball|The Highball]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] of the same performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 9/24/10 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/2/10 performance at the [[Hyde Park Theater]].

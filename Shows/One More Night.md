@@ -12,7 +12,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -92,7 +92,7 @@
 ## Summary
 *One More Night* featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
 
-The show was produced by [[Gnap! Theater Projects]] at [[Salvage Vanguard Theater]].
+The show was produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 ## Soundtrack
 The following are links to songs that were frequently used in the *One More Night* score.

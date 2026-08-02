@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Lance Hunter** is an improviser and stand-up.
 
 ## History
-Lance began taking classes at [[The Hideout Theatre]] on 3/9/13.
+Lance began taking classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 3/9/13.
 
 ## Troupes
 * *[[Troupes/Golden|Golden]]* (Technical Improviser)

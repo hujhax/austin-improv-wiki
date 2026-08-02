@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -81,7 +81,7 @@
 ***Live TV Tuesdays: John Hughes Summer School*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of "John Hughes Summer School", a staged reading of various scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
 
 ## Summary
-It ran exclusively at [[The Highball]].
+It ran exclusively at [[Theatres/The Highball|The Highball]].
 
 [[Wayne Allen Brenner]] played the role of John Hughes.
 

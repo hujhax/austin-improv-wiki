@@ -70,10 +70,10 @@
 	</table>
 </div>
 
-**Nice Astronaut** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:30pm at [[Coldtowne Theater]]. The format of their monthly show is "Nice Astronaut Presents Improv Roulette", in which they and an opening team (usually from ColdTowne Conservatory's Level 5-6 classes) spin a wheel of improv formats and perform whichever one the wheel decides. 
+**Nice Astronaut** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:30pm at [[Theatres/Coldtowne Theater|Coldtowne Theater]]. The format of their monthly show is "Nice Astronaut Presents Improv Roulette", in which they and an opening team (usually from ColdTowne Conservatory's Level 5-6 classes) spin a wheel of improv formats and perform whichever one the wheel decides. 
 
 ## History
-Nice Astronaut was the first permanent, self-formed troupe from [[Coldtowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008, under the name *HJ Compromise*.  They were originally coached by [[Performers/Tom Booker|Tom Booker]] (2008-2009) and were later coached by [[Performers/Dave Buckman|Dave Buckman]] (2009-2011, 2013) and then [[Performers/Cody Dearing|Cody Dearing]] (2013-).
+Nice Astronaut was the first permanent, self-formed troupe from [[Theatres/Coldtowne Theater|Coldtowne Theater]] which debuted in a ColdTowne Theater Cagematch on October 11, 2008, under the name *HJ Compromise*.  They were originally coached by [[Performers/Tom Booker|Tom Booker]] (2008-2009) and were later coached by [[Performers/Dave Buckman|Dave Buckman]] (2009-2011, 2013) and then [[Performers/Cody Dearing|Cody Dearing]] (2013-).
 
 In 2011, [[Performers/Nicole McCracken|Nicole McCracken]] and Tim formed a separate troupe named [[Shows/Townsville|Townsville]] to write and perform scripted comedy. In late 2013, Townsville was folded back into Nice Astronaut as the scripted comedy arm in order to create the second Townsville show: Back in Townsville: Townsville Community Center for the April-May 2014 ColdTowne Theater run.
 

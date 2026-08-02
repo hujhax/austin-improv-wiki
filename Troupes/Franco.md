@@ -70,14 +70,14 @@
 	</table>
 </div>
 
-**Franco** was an improv troupe associated with [[Coldtowne Theater]].
+**Franco** was an improv troupe associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>Franco is comprised of some of the funniest loudmouths at ColdTowne Theater.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Franco is comprised of some of the funniest loudmouths at ColdTowne Theater.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We're really funny.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We're really funny.</blockquote>
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -141,7 +141,7 @@
 	</table>
 </div>
 
-***You Can't Stay Here*** was a mainstage show at [[The Institution Theater]].
+***You Can't Stay Here*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 The show ran Fridays at 10pm from May 15 to June 19, 2015. It was an improvised play chronicling the misadventures of a group of four friends out way too late.
@@ -171,7 +171,7 @@ Following the quiz, the first scene of the show began in Tom's Place. The four c
 * [Photoset](http://www.facebook.com/media/set/?set=a.986488161414700.1073742215.221927764537414&type=3) by [[Steve Rogers]] of their 6/19/15 closing night.
 
 ## More Information
-* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Institution Theater]] facebook page.
+* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17910) on [[The Austin Improv Forums]].
 
 [[Category/Shows|Category:Shows]]

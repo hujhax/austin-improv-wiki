@@ -78,12 +78,12 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[The Hideout Theatre]]:<blockquote><p>Come be delighted by Stacy & Darren, one of Austin's newest and tallest two person improv troupes.</p> 
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Come be delighted by Stacy & Darren, one of Austin's newest and tallest two person improv troupes.</p> 
 
 <p>No theme...no gimmick....so no limits to what you will experience.</p> </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote><p>Stacey & Darren delight the audience with a simple approach - a montage performance based on an audience suggestion.</p> 
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Stacey & Darren delight the audience with a simple approach - a montage performance based on an audience suggestion.</p> 
 
 <p>We mix in some pretty sweet organic edits between scenes which maintains a nice flow throughout the set.</p>
 

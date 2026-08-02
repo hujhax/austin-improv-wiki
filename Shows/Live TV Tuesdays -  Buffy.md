@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -191,9 +191,9 @@
 ***Live TV Tuesdays: Buffy*** refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of the [[Wikipedia - Buffy the Vampire Slayer|*Buffy the Vampire Slayer*]] episode [[Wikipedia - The Prom (Buffy the Vampire Slayer)|"The Prom"]].
 
 ## History
-This was the last [[Shows/Live TV Tuesdays|Live TV Tuesdays]] whose run happened entirely at [[The Highball]].
+This was the last [[Shows/Live TV Tuesdays|Live TV Tuesdays]] whose run happened entirely at [[Theatres/The Highball|The Highball]].
 
-It also had a "preview performance" on 10/11/11 that was the very first show to take place at the newly-constructed [[Institution Theater]].
+It also had a "preview performance" on 10/11/11 that was the very first show to take place at the newly-constructed [[Theatres/Institution Theater|Institution Theater]].
 
 This was the only TV Tuesdays production to include *improvised* commercials, instead of period commercials projected on-screen.
 
@@ -245,7 +245,7 @@ Also, this was the last of a continuous run of teen-angst-themed TV choices.  Af
 * [Photoset](http://www.facebook.com/media/set/?set=a.181560375258327.48331.100002130980897&type=1) by [[Steve Rogers]] of the 10/10/11 preview.
 * [Photoset](http://www.facebook.com/media/set/?set=a.216275195107834.51655.118587218209966&type=1) by [[Roy Moore]] of the 11/1/11 performance.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.10150351355658325.353816.608098324&type=1) by Marsha G. Mitchell of the same show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] of the 11/8/11 performance at [[The Highball]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] of the 11/8/11 performance at [[Theatres/The Highball|The Highball]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.246276032102587.63825.221927764537414&type=1) by [[Steve Rogers]] of the 11/22/11 performance.
 	* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150492012902265.426071.588952264&type=3) by [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] of the same show.
 

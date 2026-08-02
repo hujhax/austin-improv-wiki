@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>We've been playing together since our first day of classes at Coldtowne Theater</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We've been playing together since our first day of classes at Coldtowne Theater</blockquote>
 
 
 [[Category/Troupes|Category:Troupes]]

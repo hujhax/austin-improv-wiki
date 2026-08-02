@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Marc Majcher** ([[Wikipedia - Help - IPA for English#Key|/ˈmeɪtʃər/]]) is an improv performer, director, and teacher. He has enormous hands.
 
 ## History
-Marc began taking improv classes at the [[Hideout Theatre]] in August of 2005. He's done a whole bunch of stuff since then.
+Marc began taking improv classes at the [[Theatres/Hideout Theatre|Hideout Theatre]] in August of 2005. He's done a whole bunch of stuff since then.
 
 A post from him about the first improv show he ever saw:<blockquote><p>I'm pretty sure the first improv show I saw was in New York around 1996 or so. My friend from college Tim was in a group called Newman's Nose (or something close to that), and got us to come out a show. I think they were doing some kind of *[[Shows/TheatreSports|TheatreSports]]* type of format, maybe not exactly that, but definitely some team-based competitive short form thing. It was pretty funny, and I was (at the time) impressed that my buddy Tim's team won the world championship of improv or whatever they called it back then, without realizing it was just the thing for the show they were doing. I'm pretty sure that I kept getting flyers and kept not going back, though.</p> 
 

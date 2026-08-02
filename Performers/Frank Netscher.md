@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -23,7 +23,7 @@
 
 ## Summary
 From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/frank-netscher):
-<blockquote>I've been performing and studying improv and sketch since 2009. I'm based out of [[Coldtowne Theater]], but I’ve studied with teachers from iO, Second City, Annoyance, BATS, UCB, ImproMelbourne, The Institution and The Hideout. I've performed in NYC, Melbourne, and on YouTube. I hate summer homework.</blockquote>
+<blockquote>I've been performing and studying improv and sketch since 2009. I'm based out of [[Theatres/Coldtowne Theater|Coldtowne Theater]], but I’ve studied with teachers from iO, Second City, Annoyance, BATS, UCB, ImproMelbourne, The Institution and The Hideout. I've performed in NYC, Melbourne, and on YouTube. I hate summer homework.</blockquote>
 
 ## Troupes
 * [[Troupes/Array|Array]]

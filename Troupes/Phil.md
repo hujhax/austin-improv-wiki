@@ -73,13 +73,13 @@
 **Phil** is an improv troupe.
 
 ## History
-Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[The Hideout Theatre]] with Tyler as their TA. Phil has since performed regularly at [[The Hideout Theatre]] and [[Coldtowne Theater]]. In May 2014, Phil had [[Shows/Threefer|Threefer]] run at [[The Hideout Theatre]].
+Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with Tyler as their TA. Phil has since performed regularly at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/Coldtowne Theater|Coldtowne Theater]]. In May 2014, Phil had [[Shows/Threefer|Threefer]] run at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/L_AZ0MjwIvY) of their 3/16/12 show at [[The Hideout Theatre]].
-* [Video](http://youtu.be/nbcbhItVb9E) of their 3/21/12 show at [[Coldtowne Theater]].
-* [Video](http://youtu.be/_8fe2zrq5HM) of their 6/15/12 show at [[The Hideout Theatre]].
+* [Video](http://youtu.be/L_AZ0MjwIvY) of their 3/16/12 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Video](http://youtu.be/nbcbhItVb9E) of their 3/21/12 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://youtu.be/_8fe2zrq5HM) of their 6/15/12 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes one of their shows. 

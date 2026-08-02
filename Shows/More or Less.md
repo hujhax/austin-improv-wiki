@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***More or Less*** was a Johnstone format put on by [[The Hideout Theatre]].
+***More or Less*** was a Johnstone format put on by [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 In *More or Less*, players take turns setting up scenes.  After each scene, the players ask the audience if they would like to see more or less of that story.  If the audience asks for "more", the current "director" sets up the next scene in the story, and they repeat the process.  If the audience asks for "less", another player gets a crack at being the director, and sets up something new.

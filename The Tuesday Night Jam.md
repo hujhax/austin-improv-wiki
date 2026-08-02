@@ -1,4 +1,4 @@
-**The Tuesday Night Jam** was a weekly free improv jam at [[The Hideout Theatre]].
+**The Tuesday Night Jam** was a weekly free improv jam at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 The first jam was on 4/19/05.  It was organized by [[Performers/Sara Farr|Sara Farr]], under the auspices of [[The Austin Improv Collective]].

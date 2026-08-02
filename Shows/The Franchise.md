@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***The Franchise*** is a weekly improv showcase at [[The New Movement]].
+***The Franchise*** is a weekly improv showcase at [[Theatres/The New Movement|The New Movement]].
 
 ## Summary
 The show runs from 9:00pm to 10:00pm on Friday nights.

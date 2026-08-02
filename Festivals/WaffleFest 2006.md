@@ -6,7 +6,7 @@ The festival expanded from two days to three days, running from 11/16/06 to 11/1
 ## Acts
 * [[Troupes/$10 Bourbon|$10 Bourbon]]
 * [[Troupes/Available Cupholders|Available Cupholders]]
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/Foolish Mortals|Foolish Mortals]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]

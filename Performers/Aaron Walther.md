@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The New Movement Theater">The New Movement Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement Theater">The New Movement Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Aaron Walther** is an improv performer.
 
 ## Summary
-Aaron Walther started studying improv at [[The New Movement Theater]] in 2009 and started performing shortly thereafter. He's been in troupes City High, DJ Danger Dad, The Sticky Boys, and Disco Box, all of whom are either defunct or inactive. Currently he is a regular player in the weekly Megaphone show at The New Movement and works with the online sketch group Humordy.
+Aaron Walther started studying improv at [[Theatres/The New Movement Theater|The New Movement Theater]] in 2009 and started performing shortly thereafter. He's been in troupes City High, DJ Danger Dad, The Sticky Boys, and Disco Box, all of whom are either defunct or inactive. Currently he is a regular player in the weekly Megaphone show at The New Movement and works with the online sketch group Humordy.
 
 In 2012, Aaron attended [[The iO Summer Intensive]].
 

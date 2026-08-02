@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Red Envelope*** is a monthly variety show at [[Coldtowne Theater]].
+***Red Envelope*** is a monthly variety show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
 In the show, audience votes have some influence on what's performed onstage.

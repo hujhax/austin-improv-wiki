@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Jessica von Schramm** is an improv performer and director.
 
 ## Summary
-Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in March of 2012. Since then she has become a TA at the Hideout and has performed at all five improv theaters in Austin.
+Jessica von Schramm started taking improv classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in March of 2012. Since then she has become a TA at the Hideout and has performed at all five improv theaters in Austin.
 
 ## Troupes
 * [[Troupes/Beach Ball Concussion|Beach Ball Concussion]] (2013)

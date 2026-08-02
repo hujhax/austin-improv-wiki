@@ -75,7 +75,7 @@
 ## Summary
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote>"Improv For Evil has been entertaining and surprising audiences with their unique brand of improvised comedy since 2006. They have performed as a troupe and individually at venues across Austin, including [[The Hideout Theatre]], Frontera Fest, The Houston Improv Festival, [[Coldtowne Theater]], Cap City Comedy Club, [[Salvage Vanguard Theater]], where they premiered their Cochise! format as part of [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]. They push the boundaries that few other performers are willing to approach."</blockquote>
+<blockquote>"Improv For Evil has been entertaining and surprising audiences with their unique brand of improvised comedy since 2006. They have performed as a troupe and individually at venues across Austin, including [[Theatres/The Hideout Theatre|The Hideout Theatre]], Frontera Fest, The Houston Improv Festival, [[Theatres/Coldtowne Theater|Coldtowne Theater]], Cap City Comedy Club, [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], where they premiered their Cochise! format as part of [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]. They push the boundaries that few other performers are willing to approach."</blockquote>
 
 ## History
 After two years of relative inactivity, the troupe performed their final show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]. 
@@ -109,7 +109,7 @@ After two years of relative inactivity, the troupe performed their final show at
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes their 7/21/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150814614650324.728304.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their performance at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.456451977709636.102466.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 8/10/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403717672265.410072.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/19/11 performance at [[Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403717672265.410072.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/19/11 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3) by [[Michael Yew]] of the 11/18/11 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] of their 8/28/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].

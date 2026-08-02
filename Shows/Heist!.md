@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -136,7 +136,7 @@
 ***Heist!*** was an improv show based around heist capers.
 
 ## Summary
-This show ran in [[Shows/The Saturday Night Special|The Saturday Night Special]] at [[Salvage Vanguard Theater]] in March 2010.
+This show ran in [[Shows/The Saturday Night Special|The Saturday Night Special]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] in March 2010.
 
 It was made up of graduates of the 601 class offered by [[The Merlin Works Institute for Improvisation]], who also came up with the format.
 

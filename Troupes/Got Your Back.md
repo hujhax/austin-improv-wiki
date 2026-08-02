@@ -99,7 +99,7 @@ In each show, hosts [[Performers/Cody Dearing|Cody Dearing]] and [[K.C. Harvey-T
 After the standard questions segment there is typically a "commercial break" that features a comedic audio sketch by a local sketch group (often Midnight Society). Each show ends with some music by a "lesser known" (often local) artist to build on the theme of local support and DYI artist empowerment.
 
 ## More Information
-* [The show announcement](http://www.coldtownetheater.com/blog/presenting-got-your-back-podcast) on the [[Coldtowne Theater]] website.
+* [The show announcement](http://www.coldtownetheater.com/blog/presenting-got-your-back-podcast) on the [[Theatres/Coldtowne Theater|Coldtowne Theater]] website.
 * [The podcast's RSS feed.](http://gybpodcast.libsyn.com/rss)
 * [The podcast's facebook page.](http://www.facebook.com/GYBPodcast)
 * [The podcast's LibSyn page.](http://gybpodcast.libsyn.com/webpage)

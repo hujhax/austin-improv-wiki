@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Late Night Time Machine*** is an improvised historical talk show originating from [[The Institution Theater]].
+***Late Night Time Machine*** is an improvised historical talk show originating from [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 ![[Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]
@@ -236,7 +236,7 @@ Season 2 primarily focused on:
 * special appearance by David Lynch ([[Performers/Ceej Allen|Ceej Allen]])
 
 ## Teddy Does ColdTowne
-On April 12, 2016, "Late Night Time Machine: Teddy Does ColdTowne" will debut at [[Coldtowne Theater]].  
+On April 12, 2016, "Late Night Time Machine: Teddy Does ColdTowne" will debut at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  
 
 The cast includes:
 * [[Kenah Benefield]] as DJ Khaled, flown in from 3030 and recently thawed out of cryogenic freezing
@@ -258,7 +258,7 @@ The cast includes:
 
 ## More Information
 * [The season-one casting announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17464) on the [[Austin Improv Forums]].
-* [The season-two show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090), on the [[Institution Theater]] facebook page.
+* [The season-two show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090), on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 * [The LNTM Facebook page.](http://www.facebook.com/LateNightTimeMachine)
 
 [[Category/Shows|Category:Shows]]

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -188,9 +188,9 @@
 	</table>
 </div>
 
-: *This page refers to the competitive short-form improv show that's had several runs as a [[Hideout]] mainstage show.  For the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012, see [[Troupes/ComedySportz|ComedySportz]].*
+: *This page refers to the competitive short-form improv show that's had several runs as a [[Theatres/Hideout|Hideout]] mainstage show.  For the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012, see [[Troupes/ComedySportz|ComedySportz]].*
 
-***Theatresports*** is an improv-contest format from [[Wikipedia - Keith Johnstone|Keith Johnstone]] that has run repeatedly as a mainstage show at [[The Hideout Theatre]].
+***Theatresports*** is an improv-contest format from [[Wikipedia - Keith Johnstone|Keith Johnstone]] that has run repeatedly as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 Theatresports is an improv show in which two teams of improvisors challenge each other to a series of improv games, improvised scenes, and other, less classifiable feats.

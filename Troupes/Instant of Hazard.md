@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>"...in this instant of hazard, can a different meaning appear?" -Peter Brook, The Empty Space</p>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>"...in this instant of hazard, can a different meaning appear?" -Peter Brook, The Empty Space</p>
 
 <p>Milo Smith and Valerie Ward explore alternating moments of tension and release, calm and chaos, aggression and connection.</p> 
 
@@ -85,7 +85,7 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 <p>And there are jokes.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote><p>It's a duo with organic and dramatic elements.</p> 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>It's a duo with organic and dramatic elements.</p> 
 
 <p>Think Scram meets Cook County Social Club.</p> 
 

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Boy Band*** was a mainstage improv show at [[Coldtowne Theater]].  It chronicled the career of "M*Pulse", a fictionalized boy band from the early 2000's, à la *[[Wikipedia - Behind the Music|Behind the Music]]*.
+***Boy Band*** was a mainstage improv show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  It chronicled the career of "M*Pulse", a fictionalized boy band from the early 2000's, à la *[[Wikipedia - Behind the Music|Behind the Music]]*.
 
 ## Summary
 [[Katie Moore]] was the show's choreographer.
@@ -148,6 +148,6 @@ The show will ran Saturdays in February 2014 at 8:30pm.
 
 ## More Information
 * [The audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=16820) on [[The Austin Improv Forums]].
-* [The show announcement](http://www.coldtownetheater.com/blog/boy-band-takes-stage-saturdays-february) on the [[Coldtowne Theater]] blog.
+* [The show announcement](http://www.coldtownetheater.com/blog/boy-band-takes-stage-saturdays-february) on the [[Theatres/Coldtowne Theater|Coldtowne Theater]] blog.
 
 [[Category/Shows|Category:Shows]]

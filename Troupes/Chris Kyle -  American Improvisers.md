@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>High Energy, fast paced, improv. Two people, multiple characters, scenes within scenes, gender bending, pancakes and mayhem.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>High Energy, fast paced, improv. Two people, multiple characters, scenes within scenes, gender bending, pancakes and mayhem.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We do a kind of augmented Monoscene format where we attempt to tell a single story using multiple characters and locations. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a kind of augmented Monoscene format where we attempt to tell a single story using multiple characters and locations. </blockquote>
 
 ## Media
 ### Videos

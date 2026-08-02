@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Ka-Baam!!*** (often written in all-caps: ***KA-BAAM!!***) was a mainstage show at [[The Hideout Theatre]].
+***Ka-Baam!!*** (often written in all-caps: ***KA-BAAM!!***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 It was based on [[Wikipedia - Golden Age of Comic Books|the Golden Age of superhero comics]].
 
@@ -99,7 +99,7 @@ Each hero and villain would cobble together a costume from the show's collection
 The press blurb for the show from the show's web site:<blockquote>"*Ka-Baam!!* is every four-color fantasy writ large and on-the-spot by a cast of Austin's most heroic improv comedians.  Every week audience suggestions will inspire the origins and adventures of three never-before-seen heroes in a comic book story that will never be seen again.  The Golden Age will be reborn with the deadliest of villains, most ridiculous brawls and special guest comic book artists every week to capture the action in pencil and ink."</blockquote>
 
 ## History
-Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up with the idea for *Ka-Baam!!* in New York City in 1998.  Ronen performed in the show's four-year run there.  Once he arrived in Austin, he mounted the show at [[The Hideout Theatre]].  Its first run, which was from 5/3/2008 to 7/5/2008, was sponsored by Austin Books and Comics (who provided free comics).  Its second run was from 9/11/09 to 10/24/09, and included both Friday and Saturday shows.
+Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up with the idea for *Ka-Baam!!* in New York City in 1998.  Ronen performed in the show's four-year run there.  Once he arrived in Austin, he mounted the show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Its first run, which was from 5/3/2008 to 7/5/2008, was sponsored by Austin Books and Comics (who provided free comics).  Its second run was from 9/11/09 to 10/24/09, and included both Friday and Saturday shows.
 
 *Ka-Baam!!* was part of [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]] and [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 

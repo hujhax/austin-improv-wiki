@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Mark Shoemaker** is an improv performer who works primarily with [[The Institution Theater]].
+**Mark Shoemaker** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## History
 ## Shows

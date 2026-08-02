@@ -70,17 +70,17 @@
 	</table>
 </div>
 
-**The Control Group** was an improv troupe associated with [[The New Movement]].
+**The Control Group** was an improv troupe associated with [[Theatres/The New Movement|The New Movement]].
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>
-<p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[The New Movement]], the members of TCG consist of [[Tom Niland]], [[Alex Berry]], [[Micheal Foulk]], [[Performers/Margaux Binder|Margaux Binder]], and [[Mandy Spivey]]. </p>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
+<p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[Theatres/The New Movement|The New Movement]], the members of TCG consist of [[Tom Niland]], [[Alex Berry]], [[Micheal Foulk]], [[Performers/Margaux Binder|Margaux Binder]], and [[Mandy Spivey]]. </p>
 <p>They came to know/adore/fear each other through the skillful crafting and assembling of [[Performers/Chris Trew|Chris]] and [[Performers/Tami Nelson|Tami]]. The world has never been the same since.</p>
 </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
 <p>We start all our sets with a conversation among the performers. </p>
 <p>Hopefully, it makes us seem friendly and charming and likable while generating information to use in our pieces. </p>
 <p>We then use the information we've generated just moments before to name our piece on the spot and begin doing long form scenes. </p>

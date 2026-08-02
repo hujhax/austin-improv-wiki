@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***The Nightmare Video Project*** was a shortform show at [[The Hideout Theater]] that was directed by pre-recorded footage.
+***The Nightmare Video Project*** was a shortform show at [[Theatres/The Hideout Theater|The Hideout Theater]] that was directed by pre-recorded footage.
 
 It was part of *[[Shows/The Wheel|The Wheel]]*.
 

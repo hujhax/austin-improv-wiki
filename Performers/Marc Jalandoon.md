@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-Marc Jalandoon is an active improviser, primarily performing at [[The Hideout Theatre]].
+Marc Jalandoon is an active improviser, primarily performing at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-Marc began taking improvisation classes at [[The Hideout Theatre]] on November 8th, 2015.  
+Marc began taking improvisation classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on November 8th, 2015.  
 
 A post from him about why he chose to begin improvising:
 

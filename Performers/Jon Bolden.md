@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,15 +19,15 @@
 	</table>
 </div>
 
-Jon Bolden is an improv performer, instructor, director, and photographer who works primarily at [[The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
+Jon Bolden is an improv performer, instructor, director, and photographer who works primarily at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
 
 ## Teaching
-Jon teaches all levels at [[The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[Performers/Roy Janik|Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
+Jon teaches all levels at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[Performers/Roy Janik|Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
 
 Jon has also taught workshops in Alaska, Seattle, Oklahoma, Ohio, Houston, Tokyo and Osaka Japan, and Washington DC.
 
 ## History
-Jon moved to downtown Austin in 2007, where he stumbled upon a Christmas performance of the [[Troupes/Available Cupholders|Available Cupholders]] at [[The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week and has been involved weekly since.
+Jon moved to downtown Austin in 2007, where he stumbled upon a Christmas performance of the [[Troupes/Available Cupholders|Available Cupholders]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. It was his first experience seeing live improv. He attended the free [[Tuesday Night Jam]] the following week and has been involved weekly since.
 
 Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He performs weekly with [[Troupes/Bad Boys|Bad Boys]] and travels/teaches workshops with Roy Janik as [[Troupes/Squirrel Buddies|Squirrel Buddies]]
 

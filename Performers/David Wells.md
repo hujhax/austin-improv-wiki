@@ -22,7 +22,7 @@
 **David Wells** is an improv performer.
 
 ## History
-David has studied primarily with [[Merlin Works]] and [[The Institution Theater]].
+David has studied primarily with [[Merlin Works]] and [[Theatres/The Institution Theater|The Institution Theater]].
 * Merlin Works Improv 601 graduate, 2012
 * Institution Theater Improv 601 graduate, 2018
 

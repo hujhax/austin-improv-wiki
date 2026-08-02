@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***Live From ColdTowne It’s Saturday Night!*** was a mainstage show at [[Coldtowne Theater]].  It featured weekly sketches and improvised behind-the-scenes cast meetings, in a tribute to *[[Wikipedia - Saturday Night Live|Saturday Night Live]]*.
+***Live From ColdTowne It’s Saturday Night!*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  It featured weekly sketches and improvised behind-the-scenes cast meetings, in a tribute to *[[Wikipedia - Saturday Night Live|Saturday Night Live]]*.
 
 ## More Information
 * [The blogpost announcing ColdTowne's 2014 mainstage season, including this show.](http://www.coldtownetheater.com/blog/announcing-2014-coldtowne-mainstage-season)

@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Parallelogramophonograph** (often abbreviated to **Pgraph**) is a theatre company in Austin, TX that specializes in improvising plays. They have a weekly show ([[Shows/The Spectacle|The Spectacle]]) on Fridays at 10pm at [[The Hideout Theatre]].
+**Parallelogramophonograph** (often abbreviated to **Pgraph**) is a theatre company in Austin, TX that specializes in improvising plays. They have a weekly show ([[Shows/The Spectacle|The Spectacle]]) on Fridays at 10pm at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 Here is [[Robert Faires]]'s explanation of the name's origin:<blockquote>After a long, tedious search for a group name in which hundreds of options were considered and discarded, a somewhat alcohol-lubricated Janik offered "Parallelogramophone." Immediately, Badr built on it with "Parallelogramophonograph." They tried it out on some friends, and since it made them laugh, it stuck.</blockquote>
@@ -136,7 +136,7 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202737544262468.1073741911.1315383518&type=3) by [[Michael Yew]] that includes a performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/10 "French Farce" show at [[Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/10 "French Farce" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100436370906080.3115649.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 4/16/10 "Dick and Jane" show in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/7/10 show from *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/21/10 show from *[[Shows/The Spectacle|The Spectacle]]*.
@@ -153,9 +153,9 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 4/15/11 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/3/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2308720080204.104279.1315383518&type=3) by [[Michael Yew]] that includes a 12/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2308720080204.104279.1315383518&type=3) by [[Michael Yew]] that includes a 12/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2418169496371.106914.1315383518&type=3) by [[Michael Yew]] of their 1/6/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2410326380298.106779.1315383518&type=3) by [[Michael Yew]] that includes their 1/8/12 performance at the "Five Families" night at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2410326380298.106779.1315383518&type=3) by [[Michael Yew]] that includes their 1/8/12 performance at the "Five Families" night at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset of their 2/10/12 "Reverend Goodman" show](http://www.facebook.com/media/set/?set=a.296102733786583.73596.221927764537414&type=3) by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3) by [[Michael Yew]] that includes their 4/13/12 performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 * [Photoset of their 5/5/12 "Parallelogramophonograph SINGS" show](http://www.facebook.com/media/set/?set=a.356404607756395.86521.221927764537414&type=3) by [[Steve Rogers]].

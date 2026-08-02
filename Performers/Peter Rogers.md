@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Peter Rogers** is an improv performer and director who works primarily with [[The Hideout Theatre]].
+**Peter Rogers** is an improv performer and director who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 Prior to 2000, Peter's only experience with improv had been a number of improv games in high-school theater class, a 1997 trip to see Second City in Chicago, and an absolutely terrifying batch of improv games once in college.  Peter saw his first improv show in Austin after getting a free ticket to a [[Troupes/ComedySportz|ComedySportz]] show at Northcross Mall from a comedy defensive driving class in May 2000.  After that, he saw many more improv shows in town, and then he took the Hideout's first set of improv classes, from [[Performers/Shana Merlin|Shana Merlin]], between 2000 and 2001.  After that, Peter joined [[Troupes/First Round Draft|First Round Draft]], the troupe that formed from the first batch of Hideout students.  He left improv from 2004-2007, and then returned to do more shows, primarily at the Hideout.

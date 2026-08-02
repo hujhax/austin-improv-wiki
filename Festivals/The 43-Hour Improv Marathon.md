@@ -30,7 +30,7 @@
 * Saturday 8am: [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]] 
 * Saturday 9am: [[Shows/Racket|Racket]]
 * Saturday 10am: [[Troupes/What's the Story, Steve|What's the Story, Steve]]
-* Saturday 11am: [[The Institution Theater]] presents the movie format
+* Saturday 11am: [[Theatres/The Institution Theater|The Institution Theater]] presents the movie format
 * Saturday 12pm: [[Troupes/The Amazon & The Milksop|The Amazon & The Milksop]] present improvised Tennessee Williams (by robots)
 * Saturday 1pm: *[[Shows/Cover to Cover|Cover to Cover]]*
 * Saturday 2pm: Free-form improv from the core cast.
@@ -64,7 +64,7 @@
 ### Photos
 * [A photoset](http://www.facebook.com/Jonbolden/media_set?set=a.597112071223.2051376.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] of the pre-Marathon meeting at the Dog & Duck.
 * [Photoset](http://www.facebook.com/media/set/?set=a.3952167173802.162192.1568827741&type=3) from [[Anna Lattka]].
-* [Photoset](http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/) from [[The Hideout Theatre]].
+* [Photoset](http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/) from [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset of hours 1-4](http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3) from [[Steve Rogers]].
 * [Photoset of hours 5-9](http://www.facebook.com/media/set/?set=a.3204199026618.122311.1315383518&type=3) from [[Michael Yew]].
 * [Photoset of hour 10](http://www.facebook.com/hujhax/media_set?set=a.10151037606607265.487220.588952264&type=3) (Drum Machine) from [[Performers/Peter Rogers|Peter Rogers]].

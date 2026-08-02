@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Process*** is a longform improv show that takes the audience through the process of producing a (fictional) play.  It is a recurring mainstage show at [[The Hideout Theatre]].
+***Process*** is a longform improv show that takes the audience through the process of producing a (fictional) play.  It is a recurring mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ![[Process Performance.jpg|A performance of *Process*.]]
@@ -157,7 +157,7 @@ Act three consisted of a section of opening night of the play.  By this point, t
 
 In the mid-2000s, the [[Troupes/Available Cupholders|Available Cupholders]] played The Play Format sporadically, sometimes in combined shows with [[Troupes/Parallelogramophonograph|Parallelogramophonograph]].
 
-Then, in 2010, [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] put together a group in New York City called The Hypotheticals.  (The group consisted of him, Lee Eddy, [[Ben Sterling]], Jeff Mills, Viviana Olen, Jeff Lepine, and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]].)  They returned to The Play Format.  They tried introducing the audition section, and met with great success.  They also created the tech director/stage manager as a way to help the director keep things moving and straightened out endowment-wise.  The Hypotheticals played the format a number of times at The PIT and the Tank theater.  [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]] played the format at [[The Hideout Theatre]] (as "Gardetto's Snack Mix") on 8/27/10.
+Then, in 2010, [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] put together a group in New York City called The Hypotheticals.  (The group consisted of him, Lee Eddy, [[Ben Sterling]], Jeff Mills, Viviana Olen, Jeff Lepine, and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]].)  They returned to The Play Format.  They tried introducing the audition section, and met with great success.  They also created the tech director/stage manager as a way to help the director keep things moving and straightened out endowment-wise.  The Hypotheticals played the format a number of times at The PIT and the Tank theater.  [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]] played the format at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (as "Gardetto's Snack Mix") on 8/27/10.
 
 In the summer of 2011, the [[Troupes/Available Cupholders|Available Cupholders]] attended the Sarasota Improv Festival, and were invited to stay an extra week to do a run of shows.  They presented The Play Format.  They were playing at a top-notch professional theater (The Florida Studio Theatre), which allowed them to raid their prop, scenery, and costume storage for elements that they could use during their run.  The shows were a success, and adding prop, scenery, and costumes to the third act went over particularly well.
 
@@ -166,7 +166,7 @@ Shortly afterwards, [[Performers/Bill Stern|Bill Stern]], having moved to Chicag
 That winter, [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] produced a holiday-themed run of the show at the Florida Studio Theater, and discovered that hewing to a specific genre let him get very specific props and costumes that would fit their improvised show perfectly.
 
 ### First Run (2012)
-When [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] moved back to Austin, he immediately pitched the show to [[The Hideout Theatre]] under its new name.  It received a mainstage run there in March and April of 2012.  This run introduced new elements, mostly geared towards cranking up the theatricality and "completeness" of the show: a larger selection of props and costumes were kept backstage for the third act; they introduced a "Desi Team", three cast members who would sit backstage, listen to the show, and quickly design and build the elements they'd need for the third act; they created a display of fake headshots, complete with the fake names the performers had come up with during auditions, to display during intermission.
+When [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] moved back to Austin, he immediately pitched the show to [[Theatres/The Hideout Theatre|The Hideout Theatre]] under its new name.  It received a mainstage run there in March and April of 2012.  This run introduced new elements, mostly geared towards cranking up the theatricality and "completeness" of the show: a larger selection of props and costumes were kept backstage for the third act; they introduced a "Desi Team", three cast members who would sit backstage, listen to the show, and quickly design and build the elements they'd need for the third act; they created a display of fake headshots, complete with the fake names the performers had come up with during auditions, to display during intermission.
 
 The run included a performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].  The run was so successful, they added an extra 6pm show on closing night.
 

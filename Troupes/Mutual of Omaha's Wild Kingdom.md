@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Mutual of Omaha's Wild Kingdom isn't just a long name for an improv/sketch troupe, it's also the long name for Austin's NEWEST improv/sketch troupe! Seamlessly blending well-groomed off-the-cuff bantering with surprise attacks of orchestrated absurdity, Mutual of Omaha's Wild Kingdom seeks only to cultivate and harvest your all-natural, plentiful reserves of organic, cage-free laughter. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Mutual of Omaha's Wild Kingdom isn't just a long name for an improv/sketch troupe, it's also the long name for Austin's NEWEST improv/sketch troupe! Seamlessly blending well-groomed off-the-cuff bantering with surprise attacks of orchestrated absurdity, Mutual of Omaha's Wild Kingdom seeks only to cultivate and harvest your all-natural, plentiful reserves of organic, cage-free laughter. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>The show itself has a unique, invigorating feel, somewhere between sketch and improv, with the flow almost of standup. 
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The show itself has a unique, invigorating feel, somewhere between sketch and improv, with the flow almost of standup. 
 
 This results from our patented Britt-Meyers method in which we utilize improvised scenes and conversations as a bridge between prepared sketches. 
 

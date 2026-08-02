@@ -129,10 +129,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Things We Don't Speak Of presents short vignettes where absolutely every word is sung. The results are surreal, touching, hilarious, and bizarre.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Things We Don't Speak Of presents short vignettes where absolutely every word is sung. The results are surreal, touching, hilarious, and bizarre.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We perform long-form improvised narratives that are completely sung-through. By focusing on stories of awkward social interactions, we heighten the surrealism of human contact by singing about them at all times. The stories and characters are as grounded as possible so that the singing can take them to bizarre places.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform long-form improvised narratives that are completely sung-through. By focusing on stories of awkward social interactions, we heighten the surrealism of human contact by singing about them at all times. The stories and characters are as grounded as possible so that the singing can take them to bizarre places.</blockquote>
 
 ## Media
 ### Videos

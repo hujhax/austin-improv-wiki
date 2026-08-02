@@ -1,4 +1,4 @@
-This **List of Cagematches** lists all the known performances of *[[Shows/The Cagematch|The Cagematch]]*, a bracketed improv tournament that runs every two months at [[Coldtowne Theater]].
+This **List of Cagematches** lists all the known performances of *[[Shows/The Cagematch|The Cagematch]]*, a bracketed improv tournament that runs every two months at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 Winners of each match are listed **in bold**.
 
@@ -483,7 +483,7 @@ There are no records of a Cagematch in this period, but it seems logical that th
 
 #### Exhibition
 * 1/30/13: Star Force vs. Super Apocalypse
-	* These were the two halves of [[ColdTowne]]'s upcoming *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]* show.
+	* These were the two halves of [[Theatres/ColdTowne|ColdTowne]]'s upcoming *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]* show.
 
 ### More Information
 * [Bracket discussion](http://forum.austinimprov.com/viewtopic.php?f=2&t=14612) on [[The Austin Improv Forums]].

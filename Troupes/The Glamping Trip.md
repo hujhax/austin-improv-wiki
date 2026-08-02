@@ -88,7 +88,7 @@ Here is [[Performers/John Ratliff|John Ratliff]]'s explanation of the name's ori
 	* [Another photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.159798017434563.42528.100002130980897&type=3) by [[Steve Rogers]] that includes the same performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/25/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance at [[Hyde Park Theater]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/28/12 performance at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/28/12 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4333171210217.143857.1315383518&type=3) by [[Michael Yew]] that includes their 2/7/13 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information

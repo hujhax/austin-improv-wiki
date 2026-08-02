@@ -26,14 +26,14 @@ Sarah Marie is one of the few teachers in the Austin area to have taught full cu
 <p>
 Created Curriculums
 [[Merlin Works School of Improvisation]] - Musical Improv Masterclass, Musical Improv 201, 401, 501, 601
-[[Hideout Theatre]] - Improv 401
-[[The Institution Theatre]] - Improv 201, 501, 601
+[[Theatres/Hideout Theatre|Hideout Theatre]] - Improv 401
+[[Theatres/The Institution Theatre|The Institution Theatre]] - Improv 201, 501, 601
 </p>
 <p>
 Schools Taught
 [[Merlin Works School of Improvisation]]
-[[The Hideout Theatre]]
-[[The Institution Theatre]]
+[[Theatres/The Hideout Theatre|The Hideout Theatre]]
+[[Theatres/The Institution Theatre|The Institution Theatre]]
 [[The Fallout Theater]]
 </p>
 <p>
@@ -77,7 +77,7 @@ Advanced Musical Improv
 * *[[Shows/Maestro|Maestro]]* - The Hideout Theatre
 
 ## Management
-Sarah Marie was the General Manager of [[The Institution Theatre]] from 2012-2016. Primary contributions include systems creation and management, calendar, development of the intern program, staff management and initializing the policies and procedures of safe conduct. She had an amicable retirement to pursue acting full time. 
+Sarah Marie was the General Manager of [[Theatres/The Institution Theatre|The Institution Theatre]] from 2012-2016. Primary contributions include systems creation and management, calendar, development of the intern program, staff management and initializing the policies and procedures of safe conduct. She had an amicable retirement to pursue acting full time. 
 
 
 ## Origin

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -129,7 +129,7 @@
 	</table>
 </div>
 
-***TGIS*** was a mainstage show at [[Coldtowne Theater]].  It was an improv double-bill inspired by 1990s TV sitcoms.
+***TGIS*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  It was an improv double-bill inspired by 1990s TV sitcoms.
 
 ## Summary
 Each performance included two episodes: an episode of "Boy Greets World" (an improv take on *[[Wikipedia - Boy Meets World|Boy Meets World]]*) and an episode of "Buddies!" (an improv take on *[[Wikipedia - Friends|Friends]]*).

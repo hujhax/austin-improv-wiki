@@ -129,10 +129,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>The Bare Minimum is James Bowie High School's comedy club. It's led by [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], a Hideout regular, and [[Harrison Hammonds]], a kid. We try to go over improv and comedy writing and host open mics in the school's theatre once a month.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The Bare Minimum is James Bowie High School's comedy club. It's led by [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], a Hideout regular, and [[Harrison Hammonds]], a kid. We try to go over improv and comedy writing and host open mics in the school's theatre once a month.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>We do a mix of stand-up, improv, and sketch. At the Hideout we'll probably just do improv and maybe some stand-up. In terms of improv we do short-form games. If we had a deal or gimmick it would probably be that we're in high school.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a mix of stand-up, improv, and sketch. At the Hideout we'll probably just do improv and maybe some stand-up. In terms of improv we do short-form games. If we had a deal or gimmick it would probably be that we're in high school.</blockquote>
 
 [[Category/Troupes|Bare Minimum]]
 [[Category/Auto-Generated Troupe Pages|Bare Minimum]]

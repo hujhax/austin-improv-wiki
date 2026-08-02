@@ -43,7 +43,7 @@
 * Saturday 1am (hour 9): [[Troupes/Squirrel Buddies|Squirrel Buddies]]
 * Saturday 2am (hour 10): *[[Shows/The Black Vault|The Black Vault]]*
 * Saturday 3am (hour 11): *[[Troupes/Golden|Golden]]*
-* Saturday 4am (hour 12): [[Coldtowne Theater]] presents The Bat.
+* Saturday 4am (hour 12): [[Theatres/Coldtowne Theater|Coldtowne Theater]] presents The Bat.
 * Saturday 5am (hour 13): [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]]
 * Saturday 6am (hour 14): *[[Shows/Cochise|Cochise]]*
 * Saturday 7am (hour 15): "The Marathon Alumni Show"

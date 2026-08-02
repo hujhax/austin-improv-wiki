@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Hyperlinks*** was a mainstage show at [[The Hideout Theatre]] in which the audience called edits and new scenes.
+***Hyperlinks*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in which the audience called edits and new scenes.
 
 ## Summary
 ### Press Blurbs
@@ -90,20 +90,20 @@
 The press blurb for the show from the annoucement on [[The AIC Forums]] of its headlining run on *[[Shows/The Threefer|The Threefer]]*.<blockquote>"Hyperlinks is the only improv show that puts full control in the audience’s hands. With no idea where their scenes will be edited, it is up to the best improvisers in town to move faster than the audience can click them into completely new scenes. If you love improv, but have always wanted to move more at your own tempo, this is the show for you."</blockquote>
 
 #### 2011
-Their press blurb, taken from a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
 <P>Hyperlinks is a fun improv format where the audience controls the scenes with a click!</P>
 <P>The performers do a scene and at any point someone in the audience- anyone!- can yell out "click!" and the performers start a new scene based on what was last said.</P>
 <P>It's fun, fast-paced, and interactive and always a good time for both performers and audience members.</P></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[The Hideout Theatre]]:<blockquote>Fast-paced short scenes based on audience participation.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Fast-paced short scenes based on audience participation.</blockquote>
 
 ## History
-The show first ran as half of the *[[Shows/The Double Barrel|The Double Barrel]]* on 12/1/06, the first show [[Performers/Asaf Ronen|Asaf Ronen]] produced on his arrival in Austin.  It then ran as the mainstage show at [[The Hideout Theatre]] through March 2009.  It was brought back as the headlining act of *[[Shows/The Threefer|The Threefer]]* in January 2010.  It's been performed since in various one-off shows with a variety of casts.
+The show first ran as half of the *[[Shows/The Double Barrel|The Double Barrel]]* on 12/1/06, the first show [[Performers/Asaf Ronen|Asaf Ronen]] produced on his arrival in Austin.  It then ran as the mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] through March 2009.  It was brought back as the headlining act of *[[Shows/The Threefer|The Threefer]]* in January 2010.  It's been performed since in various one-off shows with a variety of casts.
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1591801526831.2070976.1589679282&type=3) by [[Roy Moore]] that includes their 3/13/11 show at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1591801526831.2070976.1589679282&type=3) by [[Roy Moore]] that includes their 3/13/11 show at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/25/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information

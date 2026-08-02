@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -87,7 +87,7 @@
 ## Summary
 This was the first production in what became the "Teen Angst Tuesdays" and subsequently the "Live TV Tuesdays" series.  At the time, this show was known only as "Staged by the Bell".
 
-[[The Institution Theater]] premiered with a four-week run in August, showing a staged version of "Jessie's Song".
+[[Theatres/The Institution Theater|The Institution Theater]] premiered with a four-week run in August, showing a staged version of "Jessie's Song".
 
 The production returned in October of that year, performing a second episode, "The Zack Tapes".
 
@@ -95,7 +95,7 @@ In both of these runs, the episode was preceded by "The Real Game Show", a live,
 
 They concluded their run with a Sunday-night show featuring both episodes back-to-back with no opening act.
 
-All of these performances were at The United States Art Authority at [[The Spider House]].
+All of these performances were at The United States Art Authority at [[Theatres/The Spider House|The Spider House]].
 
 ## Cast
 * Zack Morris -- [[Performers/Patrick Daniel|Patrick Daniel]]

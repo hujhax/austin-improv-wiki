@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -28,7 +28,7 @@
 </div>
 
 
-***The TV Set*** was a performance slot at [[The Hideout Theatre]].
+***The TV Set*** was a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 It occurred at 8pm on the third Friday of every month as part of [[Shows/The Wheel|The Wheel]], and featured TV-related improv shows.

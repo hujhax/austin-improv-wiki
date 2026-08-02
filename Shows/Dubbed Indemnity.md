@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***Dubbed Indemnity*** was a shortform show at [[The Hideout Theater]] where improvisors dubbed a new soundtrack onto silenced film and television clips.
+***Dubbed Indemnity*** was a shortform show at [[Theatres/The Hideout Theater|The Hideout Theater]] where improvisors dubbed a new soundtrack onto silenced film and television clips.
 
 It was part of *[[Shows/The Wheel|The Wheel]]*.
 

@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 ## History
 David was nominated for "Favorite Tech Performer" in [[The 2013 Institution Theater Awards]].
 
-A post from him about the first improv show he ever saw:<blockquote>Winter of 2006, I saw [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s *[[Shows/After School Special|After School Special]]* at [[Coldtowne Theater]] after hearing about it from [[Wesley Bain|Wesley]] from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up|Get Up]] was also there, doing a sea epic. </blockquote>
+A post from him about the first improv show he ever saw:<blockquote>Winter of 2006, I saw [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s *[[Shows/After School Special|After School Special]]* at [[Theatres/Coldtowne Theater|Coldtowne Theater]] after hearing about it from [[Wesley Bain|Wesley]] from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up|Get Up]] was also there, doing a sea epic. </blockquote>
 
 ## Troupes
 * [[Troupes/Midnight Society|Midnight Society]]

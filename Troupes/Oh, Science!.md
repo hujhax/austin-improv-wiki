@@ -78,7 +78,7 @@ The troupe was founded as a [[ColdTowne Student Troupes|ColdTowne student troupe
 ## History
 Here is [[Performers/Josh Gill|Josh Gill]]'s explanation of the name's origin:<blockquote>Oh, Science was born out of a Google spreadsheet of well over 200 possible names. We all got together in a room with some pizza, and basically narrowed it down, then went through a voting/vetoing process until we narrowed it down to Oh, Science! (with the proper punctuation. I still think we should have been called The Masons. :D</blockquote>
 
-Since February 10, 2010 they have hosted the [[Coldtowne Theater]] 8:30PM Sunday slot, which was first called *[[Shows/The Jam with Oh, Science!|The Jam with Oh, Science!]]* and is now called *[[Shows/Improvised Comedy with Oh, Science!|Improvised Comedy with Oh, Science!]]*.
+Since February 10, 2010 they have hosted the [[Theatres/Coldtowne Theater|Coldtowne Theater]] 8:30PM Sunday slot, which was first called *[[Shows/The Jam with Oh, Science!|The Jam with Oh, Science!]]* and is now called *[[Shows/Improvised Comedy with Oh, Science!|Improvised Comedy with Oh, Science!]]*.
 
 Oh, Science! has performed at [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] and at The Del Close Marathon.
 
@@ -93,8 +93,8 @@ Oh, Science! has performed at [[Festivals/The Out Of Bounds Comedy Festival|The 
 * [Photoset of their 3/22/12 show](http://www.facebook.com/media/set/?set=a.323769481019908.79466.221927764537414&type=3) at *[[Shows/The Threefer|The Threefer]]* by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes their 6/6/13 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.591899984206855.1073741921.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/13 performance at [[Coldtowne Theater]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.704040979659421.1073741972.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/16/14 show at [[Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.591899984206855.1073741921.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.704040979659421.1073741972.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/16/14 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.793165274080324.1073742049.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 [[Category/Active|Category:Active]]

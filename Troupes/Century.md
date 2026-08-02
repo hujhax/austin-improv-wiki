@@ -78,15 +78,15 @@ After the four members performed in [[Shows/The Next Chapter|The Next Chapter]],
 The troupe decided to call it quits in mid 2014.
 
 ## Shows
-* Debut show at [[Coldtowne Theater]]
-* Second show at [[Coldtowne Theater]]
+* Debut show at [[Theatres/Coldtowne Theater|Coldtowne Theater]]
+* Second show at [[Theatres/Coldtowne Theater|Coldtowne Theater]]
 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 10/28/13 show.
 
 ### Videos
-* [Video](http://vimeo.com/78198263) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 8/28/13 performance at [[Coldtowne Theater]] ("Euro Disney").
+* [Video](http://vimeo.com/78198263) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 8/28/13 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]] ("Euro Disney").
 * [Video](http://vimeo.com/85944853) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 2/2/14 performance in *[[Shows/The Weekender|The Weekender]]* ("Bullshit").
 
 ## More Information

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Brently Heilbron** is an improv performer, director, teacher, and musician.
 
 ## History
-He has been performing improv and stand-up since the age of 15. At 17, he joined the original Austin improv troupes [[Troupes/Monks' Night Out|Monks' Night Out]] and [[Troupes/Only 90% Effective|Only 90% Effective]]. At 20, he won the very first *[[Shows/Maestro|Maestro]]* in Austin. Since then, he has toured as a stand-up, emceed for Paul McCartney, Dr. John, and the Mighty Boosh and has worked with notables like Woody Allen, George Takei, Daniel Johnston, and Dolemite in his long, strange trip of a career.  He returned to Austin in 2010 and began teaching "Stand-Up for Improvisers" at [[The Institution Theater]].  He has written all three sold-out *[[Shows/Fuck It's Hot|Fuck It's Hot]]* shows.  The "Sex & Queso" run of *[[Shows/Fuck It's Hot|Fuck It's Hot]]* was  the first show he wrote and directed for the Institution.
+He has been performing improv and stand-up since the age of 15. At 17, he joined the original Austin improv troupes [[Troupes/Monks' Night Out|Monks' Night Out]] and [[Troupes/Only 90% Effective|Only 90% Effective]]. At 20, he won the very first *[[Shows/Maestro|Maestro]]* in Austin. Since then, he has toured as a stand-up, emceed for Paul McCartney, Dr. John, and the Mighty Boosh and has worked with notables like Woody Allen, George Takei, Daniel Johnston, and Dolemite in his long, strange trip of a career.  He returned to Austin in 2010 and began teaching "Stand-Up for Improvisers" at [[Theatres/The Institution Theater|The Institution Theater]].  He has written all three sold-out *[[Shows/Fuck It's Hot|Fuck It's Hot]]* shows.  The "Sex & Queso" run of *[[Shows/Fuck It's Hot|Fuck It's Hot]]* was  the first show he wrote and directed for the Institution.
 
 He guested with [[Troupes/Girls Girls Girls|Girls Girls Girls]] during their *[[Shows/Boys of Summer|Boys of Summer]]* run in 2013.
 

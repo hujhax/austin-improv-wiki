@@ -70,19 +70,19 @@
 	</table>
 </div>
 
-**My Friend Stripey** was an improv troupe associated with [[The Hideout Theatre]].
+**My Friend Stripey** was an improv troupe associated with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>A group of 4 recent Hideout graduates who play together both on the stage and off. You can expect the gamut from 9-syllable words to off-color humor to just plain silliness. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>A group of 4 recent Hideout graduates who play together both on the stage and off. You can expect the gamut from 9-syllable words to off-color humor to just plain silliness. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>We've pretty much only done montage style shows. We have been trying to find some formats that might work for us, including the Harold.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We've pretty much only done montage style shows. We have been trying to find some formats that might work for us, including the Harold.</blockquote>
 
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 1/13/11 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 1/31/11 performance at [[Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100480764565830.3141507.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 1/31/11 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

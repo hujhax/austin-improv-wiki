@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theater">The Hideout Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theater">The Hideout Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-**Sarah Hutchins** is an improv performer who works primarily with [[The Hideout Theatre]].
+**Sarah Hutchins** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-Sarah began taking classes at the [[Hideout]] in 2013 and singing classes at [[Merlin Works]] in 2014.
+Sarah began taking classes at the [[Theatres/Hideout|Hideout]] in 2013 and singing classes at [[Merlin Works]] in 2014.
 
 ## Troupes
 ## Shows

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -184,10 +184,10 @@
 	</table>
 </div>
 
-***Fakespeare*** was a mainstage show at [[The Hideout Theatre]].  It was a slight variation on previous runs of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*.
+***Fakespeare*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was a slight variation on previous runs of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*.
 
 ## Summary
-*Fakespeare* included a scripted show run in July, in which *[[Wikipedia - Much Ado About Nothing|Much Ado About Nothing]]* and *[[Wikipedia - Macbeth|Macbeth]]* were presented in repertory, and then an improvised run in August, which varied from the traditional "improvise a play" format of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*, instead borrowing elements from previous [[Hideout]] shows such as *[[Shows/Process|Process]]*, *[[Shows/Live Nude Improv|Live Nude Improv]]*, and *[[Shows/Fandom|Fandom]]*.  The same fifteen performers put on *Much Ado About Nothing*, *Macbeth*, *and* the improvised run.
+*Fakespeare* included a scripted show run in July, in which *[[Wikipedia - Much Ado About Nothing|Much Ado About Nothing]]* and *[[Wikipedia - Macbeth|Macbeth]]* were presented in repertory, and then an improvised run in August, which varied from the traditional "improvise a play" format of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*, instead borrowing elements from previous [[Theatres/Hideout|Hideout]] shows such as *[[Shows/Process|Process]]*, *[[Shows/Live Nude Improv|Live Nude Improv]]*, and *[[Shows/Fandom|Fandom]]*.  The same fifteen performers put on *Much Ado About Nothing*, *Macbeth*, *and* the improvised run.
 
 [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] directed *Macbeth*.  [[Performers/Andy Crouch|Andy Crouch]] directed *Much Ado About Nothing* and improvised run, and managed the overall production.
 

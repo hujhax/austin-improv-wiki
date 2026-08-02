@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>Before your very ears, these deliciously zany improv songsters create acapella masterpieces based on improv scenes inspired by your suggestions. Enjoy a fluid musical commentary on everything from daily human struggles to wildly outlandish scenarios.</blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Before your very ears, these deliciously zany improv songsters create acapella masterpieces based on improv scenes inspired by your suggestions. Enjoy a fluid musical commentary on everything from daily human struggles to wildly outlandish scenarios.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We create musical commentary based on improv scenes inspired by audience suggestions. We are a capella, so our music is all vocal. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We create musical commentary based on improv scenes inspired by audience suggestions. We are a capella, so our music is all vocal. </blockquote>
 
 ## More Information
 * [The troupe's web site.](https://www.facebook.com/BeansBeansTheMusicalTroupe)

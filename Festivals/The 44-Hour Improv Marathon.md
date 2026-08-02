@@ -29,7 +29,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * [[Performers/Kaci Beeler|Kaci Beeler]] - Design
 
 ## Schedule
-* Friday 5pm (hour 1): The cast performed with teens from [[The Hideout Theatre]]'s summer camp.
+* Friday 5pm (hour 1): The cast performed with teens from [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s summer camp.
 * Friday 6pm (hour 2): Free-form improv from the core cast.
 	* This turned out to be a montage, featuring among other things, Day Care for Baby Banes.
 * Friday 7pm (hour 3): *[[Shows/Start Trekkin'|Start Trekkin']]*: improvised *[[Wikipedia - Star Trek -  The Original Series|Star Trek]]*
@@ -53,7 +53,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 * Saturday 7am (hour 15): Student Show
 	* This was a set of short-form games.
 	* This show featured student guests [[Ali Meier]], [[Corey Craig]], [[Performers/Greg Blank|Greg Blank]], [[Jennifer Brinlee]], [[Niran Babalola]], and [[Ziad Rouhana]].
-* Saturday 8am (hour 16): [[Troupes/Waterpark|Waterpark]], a musical-improv troupe from [[The New Movement]], presented a non-narrative musical-improv show.
+* Saturday 8am (hour 16): [[Troupes/Waterpark|Waterpark]], a musical-improv troupe from [[Theatres/The New Movement|The New Movement]], presented a non-narrative musical-improv show.
 * Saturday 9am (hour 17): *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*: improvising the dialog, sound effects, and soundtrack for silenced TV and film clips.
 	* This featured guest [[Performers/Josh Gill|Josh Gill]].
 * Saturday 10am (hour 18): [[Troupes/Local Genius Society|Local Genius Society]] presented "Video Game", where cards scattered with 'helpful' instructions threw kinks and twists into an improvised story.
@@ -105,7 +105,7 @@ It was performed in 2013, starting Friday, June 21 and ending Sunday, June 23.
 		* [[Performers/Cat Drago|Cat Drago]] -- My Parents Didn't Love Me Enough Bear
 		* [[Performers/John Ratliff|John Ratliff]] -- The Bear of Lost Hope
 		* [[Performers/Michael Joplin|Michael Joplin]] -- Gay Bear (and later, Bi Bear)
-* Sunday 9am (hour 41): [[The Institution Theater]] presented "the movie format", an improv montage with screenplay-style scene painting.
+* Sunday 9am (hour 41): [[Theatres/The Institution Theater|The Institution Theater]] presented "the movie format", an improv montage with screenplay-style scene painting.
 	* This story followed a girl in the inner city and her estranged father through a narrative that became increasingly [[Wikipedia - David Lynch|Lynch]]ian over time.
 	* Guest performers: [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Clifton Highfield|Clifton Highfield]], [[Deana Ricks]], [[Performers/Justin Davis|Justin Davis]], [[Performers/Taylor Overstreet|Taylor Overstreet]], [[Performers/Tom Booker|Tom Booker]].
 * Sunday 10am (hour 42): *[[Shows/Fakespeare|Fakespeare]]*: improv in the style of William Shakespeare.
@@ -191,7 +191,7 @@ The Saturday 2am slot was originally scheduled for [Project2](http://www.scifiim
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
-* [Cast announcement](http://www.facebook.com/hideouttheatre/posts/10151469906483510) from [[The Hideout Theatre]].
+* [Cast announcement](http://www.facebook.com/hideouttheatre/posts/10151469906483510) from [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [The form for show suggestions.](http://docs.google.com/forms/d/1l0bLg0JDek9x8sEsCrTuKoim2xf8rFuF2gF5ToNHsDw/viewform)
 * [The show's sponsorship page.](http://www.hideouttheatre.com/improv-for-kids/donate)
 * [The call for marathon volunteers](http://forum.austinimprov.com/viewtopic.php?f=2&t=15375&p=131708#p131708) on [[The Austin Improv Forums]].

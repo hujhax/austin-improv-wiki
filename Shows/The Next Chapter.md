@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -86,7 +86,7 @@
 	</table>
 </div>
 
-***The Next Chapter*** was a mainstage show at [[The Institution Theater]] that performed improvised continuations of the works of a published author.
+***The Next Chapter*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]] that performed improvised continuations of the works of a published author.
 
 ## Summary
 Each night of the show had a different guest author. An author was interviewed, usually by [[Performers/Justin Bozied|Justin Bozied]], for a short period at the top of the show, usually lasting five to ten minutes. Then, the author read anywhere from 500 to 750 words of his or her choosing from a published work. The cast listened and at the conclusion of the reading, performed a deconstruction of the piece by stepping forward to recite different details, themes, or concepts they heard for about a minute. They then improvised from where the excerpt left off to create a story that lasted for just over an hour. On short-story author nights, two stories were performed, with the author reading shorter excerpts from two different stories. The first story lasted for 25 minutes and the second for 35 minutes.

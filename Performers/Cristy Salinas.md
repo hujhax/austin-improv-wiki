@@ -11,7 +11,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Cristy Salinas** is an improv performer in Austin, Texas.
 
 ## History
-Cristy Salinas is an improviser and comedy writer in Austin, Texas. She started her improv training at [[The Hideout Theatre]] in March 2014. Since graduation, Cristy has continued her improv education by enrolling in workshops and the 2015 Narrative Intensive. She is a founding member of troupes [[Troupes/Soy Taco|Soy Taco]] and [[Troupes/Minority Report|Minority Report]].
+Cristy Salinas is an improviser and comedy writer in Austin, Texas. She started her improv training at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in March 2014. Since graduation, Cristy has continued her improv education by enrolling in workshops and the 2015 Narrative Intensive. She is a founding member of troupes [[Troupes/Soy Taco|Soy Taco]] and [[Troupes/Minority Report|Minority Report]].
 
 Originally from the Rio Grande Valley, Cristy moved to Austin to attend the University of Texas and graduated with a degree in Radio-Television-Film.
 

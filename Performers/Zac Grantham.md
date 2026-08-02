@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Zac Grantham** is an improv performer.
 
 ## History
-Zac started out as a [[Hideout]] student in 2009.
+Zac started out as a [[Theatres/Hideout|Hideout]] student in 2009.
 
 ## Troupes
 * [[Troupes/Happy Butter|Happy Butter]]

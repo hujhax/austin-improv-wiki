@@ -74,12 +74,12 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Matt Needles and Alejandro Garcia are comedians and actors from Austin, TX. Graduates of the ColdTowne Conservatory, they have performed their one man show at comedy festivals across the country. Swinging between grounded relationships and delightful absurdity like a pendulum, they enjoy creating scenes 
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Matt Needles and Alejandro Garcia are comedians and actors from Austin, TX. Graduates of the ColdTowne Conservatory, they have performed their one man show at comedy festivals across the country. Swinging between grounded relationships and delightful absurdity like a pendulum, they enjoy creating scenes 
 
 where close friends and equals are pitted against a greater world.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We follow the fun of a show, allowing ourselves to run down rabbit holes and explore the world we discover. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We follow the fun of a show, allowing ourselves to run down rabbit holes and explore the world we discover. </blockquote>
 
 ## Media
 ### Videos

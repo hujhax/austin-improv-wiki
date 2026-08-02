@@ -74,18 +74,18 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
 <p>Andy Warhol, Black Hole Wrestler?</p>
 <p>Ghandi, Tornado Whisperer?</p>
 <p>Josef Stalin, Hornet Salesman?</p>
 <p>Joan of Arc, Zombie Consultant?</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>We do scenes based on audience suggestions about the secret occupations of historical and mythical figures, a la Abraham Lincoln, Vampire Hunter.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do scenes based on audience suggestions about the secret occupations of historical and mythical figures, a la Abraham Lincoln, Vampire Hunter.</blockquote>
 
 ## Media
 ### Videos
-* [Video of the 9/21/12 performance](http://vimeo.com/50046561) at [[Salvage Vanguard Theater]].
+* [Video of the 9/21/12 performance](http://vimeo.com/50046561) at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

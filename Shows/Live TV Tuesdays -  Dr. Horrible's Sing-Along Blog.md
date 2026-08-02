@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -83,7 +83,7 @@
 ## Summary
 The production was referred to as "*Doctor Horrible, Live!*".
 
-It ran exclusively at [[The Institution Theater]], and then played a one-night only reprise of the show on 7/27/2012.
+It ran exclusively at [[Theatres/The Institution Theater|The Institution Theater]], and then played a one-night only reprise of the show on 7/27/2012.
 
 ## Cast
 (Note: [[Kevin Williamson]] & [[Performers/Brett Tribe|Brett Tribe]] traded parts on alternate show nights.)
@@ -102,7 +102,7 @@ It ran exclusively at [[The Institution Theater]], and then played a one-night o
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/PTgnQpqFmqI) of the 2/28/12 show at [[The Highball]].
+* [Video](http://youtu.be/PTgnQpqFmqI) of the 2/28/12 show at [[Theatres/The Highball|The Highball]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.3478605366605.129003.1315383518&type=3) by [[Michael Yew]].

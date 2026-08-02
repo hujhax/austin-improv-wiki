@@ -76,7 +76,7 @@ BatShyt Crazy was a puppet sketch-comedy show.
 **BatShyt Crazy** is a bunch of angry mean dirty sexy puppets that perform improv and sketch with a bunch of dirty sexy humans.
 
 ## History
-BatShyt Crazy has performed at [[The Institution Theater]], [[The Hideout Theatre]], and with Dystheatre Company at [[Salvage Vanguard Theatre]] teaching Shakespeare 101 (yes, puppets know shit). They began their existence as bit players in Akimbo Bubble Scuttle Ruckus in Frontera Fest Long Fringe 2011.
+BatShyt Crazy has performed at [[Theatres/The Institution Theater|The Institution Theater]], [[Theatres/The Hideout Theatre|The Hideout Theatre]], and with Dystheatre Company at [[Salvage Vanguard Theatre]] teaching Shakespeare 101 (yes, puppets know shit). They began their existence as bit players in Akimbo Bubble Scuttle Ruckus in Frontera Fest Long Fringe 2011.
 
 In BatShyt Crazy's most famous sketch, Pedro Poops Joy, [[Performers/Susannah Raulino|Susannah Raulino]] guest starred as the sexy angry dismissive, but much loved lead singer, Killer.
 

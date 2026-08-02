@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Hideout Exterior.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A view of [[The Hideout Theatre]] from Congress Avenue.
+A view of [[Theatres/The Hideout Theatre|The Hideout Theatre]] from Congress Avenue.
 
 Photo by: unknown.
 ## Licensing

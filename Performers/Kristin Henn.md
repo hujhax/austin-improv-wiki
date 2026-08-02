@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,17 +19,17 @@
 	</table>
 </div>
 
-**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Excused Absence Comedy, the youth program at [[Coldtowne Theater]] and Move your Tale, an organization that takes Improv to schools and community organizations. She performs every Sunday night at [[Coldtowne Theater]] with [[Troupes/Oh, Science!|Oh, Science!]] and Saturday mornings with [[Troupes/What's the Story Steve|What's the Story Steve]].
+**Kristin Henn** is an improv performer, director, producer and teacher.  She directs Excused Absence Comedy, the youth program at [[Theatres/Coldtowne Theater|Coldtowne Theater]] and Move your Tale, an organization that takes Improv to schools and community organizations. She performs every Sunday night at [[Theatres/Coldtowne Theater|Coldtowne Theater]] with [[Troupes/Oh, Science!|Oh, Science!]] and Saturday mornings with [[Troupes/What's the Story Steve|What's the Story Steve]].
 
 ## Summary
-Kristin is an improv performer, teacher and director who oversees and facilitates the youth program at [[Coldtowne Theater]] via her performing arts organization, [[Excused Absence Comedy]], formerly Move Your Tale. 
+Kristin is an improv performer, teacher and director who oversees and facilitates the youth program at [[Theatres/Coldtowne Theater|Coldtowne Theater]] via her performing arts organization, [[Excused Absence Comedy]], formerly Move Your Tale. 
 
-Her standing gigs include Excused Absence Nights formerly known as *[[Troupes/Teen Improv Night|Teen Improv Night]]* at [[Coldtowne Theater]], directing and producing [[Coldtowne Theater]]'s weekly kids improv show, *[[Troupes/What's the Story Steve|What's the Story Steve]]* and performing with the ColdTowne Tourco.
+Her standing gigs include Excused Absence Nights formerly known as *[[Troupes/Teen Improv Night|Teen Improv Night]]* at [[Theatres/Coldtowne Theater|Coldtowne Theater]], directing and producing [[Theatres/Coldtowne Theater|Coldtowne Theater]]'s weekly kids improv show, *[[Troupes/What's the Story Steve|What's the Story Steve]]* and performing with the ColdTowne Tourco.
 
 Kristin is a senior faculty member of the ColdTowne Conservatory.
 
 ## History
-Kristin graduated from the [[ColdTowne Conservatory]] in May of 2010. She has studied at iO Chicago, The Annoyance Theater and has taken workshops from every awesome visiting improviser that she could.
+Kristin graduated from the [[Theatres/ColdTowne Conservatory|ColdTowne Conservatory]] in May of 2010. She has studied at iO Chicago, The Annoyance Theater and has taken workshops from every awesome visiting improviser that she could.
 
 ## Troupes
 * [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]]

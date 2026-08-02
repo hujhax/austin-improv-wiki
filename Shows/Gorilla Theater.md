@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -31,7 +31,7 @@
 	</table>
 </div>
 
-***Gorilla Theater*** was a Johnstonian format put on by [[The Hideout Theatre]].
+***Gorilla Theater*** was a Johnstonian format put on by [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 *Gorilla Theater* is a format invented by [[Wikipedia - Keith Johnstone|Keith Johnstone]].  There are six players.  The players take turns directing scenes.  Each scene is then judged by the audience -- if the audience collectively liked the scene, the player gets a "banana", usually represented by a yellow paper banana they can affix on a scoreboard by their name.  If the audience collectively disliked the scene, the player gets a "forfeit".  When this happens, the player has to draw a slip of paper from a bucket, and the paper has some embarrassing or onerous task written on it, which they then have to do in penance for their bad scene.

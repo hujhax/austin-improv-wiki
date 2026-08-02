@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -184,12 +184,12 @@
 	</table>
 </div>
 
-***Fandom*** was a mainstage show at [[The Hideout Theatre]].
+***Fandom*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 Dubbed 'improvised fanfiction', the show was an improv take on a different fan-beloved universe every week.  The show opened with an [invocation](http://wiki.improvresourcecenter.com/index.php?title=Invocation) on the subject of the show, and then moved into a half-hour of short-form games that riffed on that show's universe.  After a ten-minute intermission, the cast would return to perform a forty-minute narrative based on the fandom, perhaps drawing from successful elements in the first half's short-form games.
 
-In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* narrative at [[The Institution Theater]] on 1/25/13, and took over [[Shows/The Free Fringe|The Free Fringe]] for one night on 3/7/13.
+In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* narrative at [[Theatres/The Institution Theater|The Institution Theater]] on 1/25/13, and took over [[Shows/The Free Fringe|The Free Fringe]] for one night on 3/7/13.
 
 ## List of Shows
 * 1/5/13: *Buffy the Vampire Slayer*

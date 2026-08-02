@@ -79,7 +79,7 @@ Their press blurb from [[Festivals/The 2010 Out of Bounds Comedy Festival|The 20
 <p>The $3 Bills have appeared at the Butch Voices Gender Blender Splendor and the Austin Gay and Lesbian International Film Festival.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote>We do short form scenes, games, etc with a Queer twist. For example we may do a town hall style game with the subject being gay marriage, with someone taking a extreme Right view and another an extreme liberal view. Or, we may do a scene where the suggestion asked for is "a good name for a drag queen". </blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do short form scenes, games, etc with a Queer twist. For example we may do a town hall style game with the subject being gay marriage, with someone taking a extreme Right view and another an extreme liberal view. Or, we may do a scene where the suggestion asked for is "a good name for a drag queen". </blockquote>
 
 ## Media
 ### Photos

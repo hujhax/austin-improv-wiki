@@ -74,14 +74,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Miller and Lies is a duo group that tells one story with many characters. 
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Miller and Lies is a duo group that tells one story with many characters. 
 
 Their focus in on grounded characters in real situations mixed with a lot of emotion. 
 
 They found comedy in the everyday and tell stories about people you hopefully will care about and can relate to.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Nat and Erica have been playing together for over eight years. 
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Nat and Erica have been playing together for over eight years. 
 
 Recently Erica subbed in for Nat's weekly show Miller and Purselley for a month long run and it was very successful. 
 

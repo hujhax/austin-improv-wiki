@@ -73,7 +73,7 @@
 **The Intentions** are an improv troupe that focuses on fast-paced, high-energy montage.
 
 ## History
-The Intentions formed from a [[Merlin Works Mixer]] in the summer of 2010.  In July of 2012, they headlined [[Shows/The Threefer|The Threefer]] at [[The Hideout Theatre]].
+The Intentions formed from a [[Merlin Works Mixer]] in the summer of 2010.  In July of 2012, they headlined [[Shows/The Threefer|The Threefer]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
@@ -82,7 +82,7 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/11/10 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150265183057265.371172.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/15/11 performance at *[[Shows/The Weekender|The Weekender]]*.
 	* [Another photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.124411107639921.31672.100002130980897&type=3) by [[Steve Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes their 7/21/11 performance in *[[Shows/The Threefer|The Threefer]]*.

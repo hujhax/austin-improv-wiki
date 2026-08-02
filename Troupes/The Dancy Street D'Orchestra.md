@@ -85,7 +85,7 @@ After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]]
 ## Media
 ### Videos
 * [Video](http://vimeo.com/10899146) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/9/10 performance at [[The Lair]].
-* [Video](http://vimeo.com/17806209) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/6/10 performance at [[Salvage Vanguard Theater]].
+* [Video](http://vimeo.com/17806209) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/6/10 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Video](http://vimeo.com/16893567) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/15/10 performance at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 * [Video](http://vimeo.com/17089776) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/19/10 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Video](http://vimeo.com/19628916) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/3/11 headlining show at *[[Shows/The Threefer|The Threefer]]*.
@@ -93,8 +93,8 @@ After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]]
 * [Video](http://vimeo.com/20114668) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/17/11 headlining show at *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/20382500) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/24/11 headlining show at *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/21022057) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/11/11 performance with [[Troupes/Girls Girls Girls|Girls Girls Girls]].
-* [Video](http://vimeo.com/21601065) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/24/11 performance at [[Salvage Vanguard Theater]].
-* [Video](http://vimeo.com/22143713) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/7/11 performance at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/21601065) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/24/11 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+* [Video](http://vimeo.com/22143713) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/7/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Video](http://vimeo.com/28875521) by [[Performers/Peter Rogers|Peter Rogers]] of their final show, their 9/1/11 performance at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 ### Photos
@@ -103,10 +103,10 @@ After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]]
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/13/10 show in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1308342800540.2037332.1589679282&type=3) by [[Roy Moore]] that includes their 7/17/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1330574876328.2040082.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3) by [[Roy Moore]] that includes their 8/28/10 performance at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3) by [[Roy Moore]] that includes their 8/28/10 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150150528457265.328109.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/3/11 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/10/11 performance at [[The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/24/11 performance at [[The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/10/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/24/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## More Information
 * [The troupe's web site.](http://dancy.austinimprov.co)

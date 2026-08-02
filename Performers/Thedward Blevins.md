@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -21,9 +21,9 @@
 
 **Thedward Blevins** is an improv performer and technical improviser.
 
-He has studied improvised theatre at [[The Hideout Theatre|The Hideout]], [[The Merlin Works Institute for Improvisation|Merlin Works]], and [[The Institution Theater|The Institution]].
+He has studied improvised theatre at [[Theatres/The Hideout Theatre|The Hideout]], [[The Merlin Works Institute for Improvisation|Merlin Works]], and [[Theatres/The Institution Theater|The Institution]].
 
-Thedward has performed at [[The Hideout Theatre]], [[Salvage Vanguard Theater]], [[The Institution Theater]], [[Coldtowne Theater]],[Station Theater](http://www.stationtheater.com/) (Houston, TX), [Dive Bar](http://www.diveaustin.com/), [[The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], The [Houson Improv Festival](http://houstonimprovfestival.com/), The [Austin Scottish Rite Theater](http://scottishritetheater.org/), and the [Umlauf Sculpture Garden](http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum).
+Thedward has performed at [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], [[Theatres/The Institution Theater|The Institution Theater]], [[Theatres/Coldtowne Theater|Coldtowne Theater]],[Station Theater](http://www.stationtheater.com/) (Houston, TX), [Dive Bar](http://www.diveaustin.com/), [[Theatres/The New Movement Theater|The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], The [Houson Improv Festival](http://houstonimprovfestival.com/), The [Austin Scottish Rite Theater](http://scottishritetheater.org/), and the [Umlauf Sculpture Garden](http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum).
 
 Performing regularly since 2010, he was a regular cast member of *[[Shows/Flying Theater Machine|Flying Theater Machine]]* from 2012 until 2017 when it was rebranded as *[[Shows/Hideout Kids|Hideout Kids]]* and transitioned to a rotating cast per production.
 

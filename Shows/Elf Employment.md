@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a> (2011)</li><!--
-  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a> (2013)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a> (2011)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a> (2013)</li><!--
   --><!--
   --><!--
   --><!--
@@ -148,7 +148,7 @@ This show is based around the elves working in Santa's workshop.  Every week, a 
 
 ## History
 ### 2011 Run
-In 2011, the show ran Fridays and Saturdays at 8pm at [[Salvage Vanguard Theater]], from 12/2/11 to 12/17/11.
+In 2011, the show ran Fridays and Saturdays at 8pm at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], from 12/2/11 to 12/17/11.
 #### Cast
 * [[Amy McKenna]]
 * [[Chadwick Smith]]
@@ -168,7 +168,7 @@ In 2011, the show ran Fridays and Saturdays at 8pm at [[Salvage Vanguard Theater
 * 12/17: [[Performers/John Ratliff|John Ratliff]]
  
 ### 2013 Run
-In 2013, the show runs Fridays and Saturdays at 6pm at [[The Institution Theater]], from 12/6/13 to 12/22/13.
+In 2013, the show runs Fridays and Saturdays at 6pm at [[Theatres/The Institution Theater|The Institution Theater]], from 12/6/13 to 12/22/13.
 #### Cast
 * [[Amy McKenna]]
 * [[Performers/Bryan Curry|Bryan Curry]]

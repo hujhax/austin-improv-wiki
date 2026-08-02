@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -90,7 +90,7 @@
 	</table>
 </div>
 
-***The Ladies Room*** was a mainstage show at [[The Institution Theater]].
+***The Ladies Room*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 ### Show Structure
@@ -122,6 +122,6 @@ A second season of the show is planned for 2016.
 * [Photoset](http://www.facebook.com/media/set/?set=a.848505198559326.1073741860.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 7/17/15 performance.
 
 ## More Information
-* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Institution Theater]] facebook page.
+* [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 
 [[Category/Shows|Ladies Room]]

@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></li><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Brad Temple** is an improviser.
 
 ## History
-Brad started taking classes at the [[Hideout Theatre]] in September 2006. He formed [[Troupes/The Starter Kit|The Starter Kit]] with Hideout classmates in early 2007 and was a fairly regular performer in *[[Shows/Maestro|Maestro]]*. Brad continued his improv education at [[Coldtowne Theater]] in 2009. He also volunteered as a Teaching Assistant for several ColdTowne classes beginning in 2011.  
+Brad started taking classes at the [[Theatres/Hideout Theatre|Hideout Theatre]] in September 2006. He formed [[Troupes/The Starter Kit|The Starter Kit]] with Hideout classmates in early 2007 and was a fairly regular performer in *[[Shows/Maestro|Maestro]]*. Brad continued his improv education at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in 2009. He also volunteered as a Teaching Assistant for several ColdTowne classes beginning in 2011.  
 
 Brad was the former Managing Director of [[The Austin Improv Collective]].
 

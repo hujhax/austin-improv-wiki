@@ -73,7 +73,7 @@
 **Two Guys from Yonkers** is an improv duo composed of [[Performers/Paul Normandin|Paul Normandin]] and [[Performers/Bobby Ford|Bobby Ford]].
 
 ## History
-Paul and Bob completed levels 1-6 at [[The Hideout Theatre]] in 2011 and it was from that association that Two Guys was born. Paulie and Bobby, two characters with New York accents, first started appearing in class. After graduating, Bob invited Paul to form the duo on October 31, 2011. After several months of rehearsals, TGFY premiered at The Hideout Theatre on January 19th, 2011. The show eventually settled into two guys hanging out at Richies, a small bar in Yonkers, New York. Regular appearances of fringe characters such as Lizzy, Paulies wife (played by Bobby Ford) and Rupesh, a Somatic Therapist (played by Paul Normandin) followed and thus this unique short-form narrative format was born. 
+Paul and Bob completed levels 1-6 at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2011 and it was from that association that Two Guys was born. Paulie and Bobby, two characters with New York accents, first started appearing in class. After graduating, Bob invited Paul to form the duo on October 31, 2011. After several months of rehearsals, TGFY premiered at The Hideout Theatre on January 19th, 2011. The show eventually settled into two guys hanging out at Richies, a small bar in Yonkers, New York. Regular appearances of fringe characters such as Lizzy, Paulies wife (played by Bobby Ford) and Rupesh, a Somatic Therapist (played by Paul Normandin) followed and thus this unique short-form narrative format was born. 
 
 After twenty performances as two fellas from New York, the show moved into a new dynamic in May of 2013.  As co-owners of a quaint little bed and breakfast in Yonkers, England the two proper Brits spin tails of life , friendship and the value of a good cup of tea. Ironically (or not), the same tag line was used for the New York version of the show but instead of tea the focus was "a good shot of tequila", which their improvisation troupe coach Shana Merlin taught them how to stage drink. 
 
@@ -84,10 +84,10 @@ Here is [[Performers/Bobby Ford|Bobby Ford]]'s explanation of the name's origin:
 
 ## Shows
 * FRONTERAFEST Hyde Park (both 2012 & 2013)
-* [[The Hideout Theatre]] - [[Shows/The Threefer|The Threefer]] and [[Shows/The Weekender|The Weekender]]
+* [[Theatres/The Hideout Theatre|The Hideout Theatre]] - [[Shows/The Threefer|The Threefer]] and [[Shows/The Weekender|The Weekender]]
 * Opening act for [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] (in 2013)
-* [[The Institution Theater]] in [[Shows/The Triple Scoop|The Triple Scoop]]
-* [[Coldtowne Theater]] and their show the [[Shows/Cagematch|Cagematch]]
+* [[Theatres/The Institution Theater|The Institution Theater]] in [[Shows/The Triple Scoop|The Triple Scoop]]
+* [[Theatres/Coldtowne Theater|Coldtowne Theater]] and their show the [[Shows/Cagematch|Cagematch]]
 
 ## Media
 ### Videos
@@ -98,13 +98,13 @@ Here is [[Performers/Bobby Ford|Bobby Ford]]'s explanation of the name's origin:
 	* [Video](http://vimeo.com/43860472) by [[Performers/Dave alley|Dave alley]] that includes the same show.
 * [Video](http://vimeo.com/51661337) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/17/12 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Video](http://vimeo.com/55690464) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/9/12 performance in *[[Shows/The Weekender|The Weekender]]*.
-* [Video](http://vimeo.com/57209037) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/23/12 performance at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/57209037) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/23/12 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Video](http://vimeo.com/57533245) by [[Performers/Paul Normandin|Paul Normandin]] of their January 2013 performance in [[FronteraFest]].
 * [Video](http://vimeo.com/60376143) by [[Performers/Paul Normandin|Paul Normandin]] of their 2/15/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Video](http://vimeo.com/61076534) by [[Performers/Paul Normandin|Paul Normandin]] of their 3/3/13 performance in *[[Shows/The Weekender|The Weekender]]*.
-* [Video](http://vimeo.com/64470434) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/6/13 performance at [[The Institution Theater]].
-* [Video](http://vimeo.com/71314848) by [[Performers/Paul Normandin|Paul Normandin]] of their 7/28/13 performance at [[The Institution Theater]].
-* [Video](https://vimeo.com/111587850) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/17/14 show at [[The Hideout Theatre]].
+* [Video](http://vimeo.com/64470434) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/6/13 performance at [[Theatres/The Institution Theater|The Institution Theater]].
+* [Video](http://vimeo.com/71314848) by [[Performers/Paul Normandin|Paul Normandin]] of their 7/28/13 performance at [[Theatres/The Institution Theater|The Institution Theater]].
+* [Video](https://vimeo.com/111587850) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/17/14 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## More Information
 * [Two Guys From Yonkers Facebook Page](https://www.facebook.com/TwoGuysFromYonkers)

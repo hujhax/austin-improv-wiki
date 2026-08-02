@@ -1,5 +1,5 @@
 <noinclude>
-This **List of [[Coldtowne Theater]] Shows** is designed to be transcluded into any "[[ColdTowne]] shows" section on the wiki.
+This **List of [[Theatres/Coldtowne Theater|Coldtowne Theater]] Shows** is designed to be transcluded into any "[[Theatres/ColdTowne|ColdTowne]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
 * *[[Shows/The Cagematch|The Cagematch]]*

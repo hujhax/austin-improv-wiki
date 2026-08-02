@@ -9,7 +9,7 @@ The AIC Wiki follows the [[Wikipedia - Wikipedia - Manual of Style|Wikipedia Man
 * Note that these standards may overlap. For example, there may be a show name in italics that is also a link.
 * Finally, show formats are capitalized in a normal font: The Harold; The Living Room.
 
-Example: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] has a regular show on Friday evenings at [[The Hideout Theatre|The Hideout Theater]] called *[[Shows/The Spectacle|The Spectacle]]*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
+Example: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] has a regular show on Friday evenings at [[Theatres/The Hideout Theatre|The Hideout Theater]] called *[[Shows/The Spectacle|The Spectacle]]*. One Friday they played a show that ended up being about being giraffes with emotional issues which they have subsequently referred to as "Neurotic Giraffes."
 
 ## Adding Categories
 Categories can be added for the following:

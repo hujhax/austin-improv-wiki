@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Hideout Theatre students / graduates will challenge one member by playing a variety of characters that he/she must then play. After running through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Hideout Theatre students / graduates will challenge one member by playing a variety of characters that he/she must then play. After running through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.</blockquote>
 
 ### What We Do
 Character Explosion - Culminating absurdism through the variety of characters, Character Explosion delights its audiences. 
@@ -86,26 +86,26 @@ Once this has been completed, the pivot player will be challenged to copy the pr
 During the pivot challenge, these scenes will take place within the locale, for example if given a Mall, the two person scenes can be take place in the food court, a store, mall security office, broom closet, basement, on top of the roof, the parking lot, you get the idea.  Once the pivot has played each of the characters, all of Character Explosion has the open floor to reintroduce any of the characters in a montage, who knows where the scenes will take us.
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>the plan is that we want to do what it takes to do that thing that is needed to be done so people like us and come see us again</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>the plan is that we want to do what it takes to do that thing that is needed to be done so people like us and come see us again</blockquote>
 
 ### Format Orgin
 The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coyle a free fringe was submitted and played out on August 7th 2014 billed as "Ceej Character Explosion" 
 
 ### Shows
-[[Hideout Theatre]]
+[[Theatres/Hideout Theatre|Hideout Theatre]]
 * [[Shows/Free Fringe|Free Fringe]] 2014
 * [[Shows/The Threefer|The Threefer]] 2014 - current
 * [[Shows/The Weekender|The Weekender]] 2015 - current
 
-[[Coldtowne Theater]]
+[[Theatres/Coldtowne Theater|Coldtowne Theater]]
 * [[Shows/The Monday Night Mash|The Monday Night Mash]] 2015 - current
 * [[Shows/The Cagematch|The Cagematch]] 2015 - current
 
-[[The Institution Theater]]
+[[Theatres/The Institution Theater|The Institution Theater]]
 * [[The Improv Mixtape]] 2015 - current
 * [[Tightrope]] 2016 - current
 
-[[The New Movement]]
+[[Theatres/The New Movement|The New Movement]]
 * [[KNOCK-OUT]] 2016 - current
 
 ### Coaches
@@ -181,7 +181,7 @@ Alumni
 ## Media
 ### Videos
 * [Video of the troupe's "plank-a-thon"](http://www.youtube.com/watch?v=Q4giLqTx2Rw) from the 2/12/15 *[[Shows/Free Fringe|Free Fringe]]*.
-* [Video of the troupe's "Improv Mixtape"](http://www.youtube.com/watch?v=6ltXQG2Ye-A) from the 4/13/15 *[[The Institution Theater]]*.
+* [Video of the troupe's "Improv Mixtape"](http://www.youtube.com/watch?v=6ltXQG2Ye-A) from the 4/13/15 *[[Theatres/The Institution Theater|The Institution Theater]]*.
 * [Character Explosion's YouTube channel](https://www.youtube.com/channel/UCtFepVYR4zgGEjOjZzbhLxw)
 
 ## More Information

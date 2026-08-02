@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***The Great Mundane*** was a serialized improv show.  It ran as a mainstage show at [[The Hideout Theatre]] in March 2006.
+***The Great Mundane*** was a serialized improv show.  It ran as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in March 2006.
 
 ## Summary
 [[Jon Hunt]] assisted the director as a "story coach", and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] wound up running the production after a certain point.

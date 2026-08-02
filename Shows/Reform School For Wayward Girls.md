@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Reform School for Wayward Girls*** was a mainstage show at [[The Hideout Theatre]] set in a 1970s all-girl reform school.
+***Reform School for Wayward Girls*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] set in a 1970s all-girl reform school.
 
 ## Summary
 The show took place in 1976 in St. Agatha's Reform School for Wayward Girls, a reform school in the fictional town of East Libertyville, Ohio.  The show was based on old exploitation films such as *[Girl Gang](http://www.imdb.com/title/tt0171344/?ref_=fn_al_tt_1)*, *[[Wikipedia - Reform School Girl|Reform School Girl]]*, and *[Girls in Prison](http://www.imdb.com/title/tt0109903/?ref_=fn_al_tt_1)*.

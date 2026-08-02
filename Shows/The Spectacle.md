@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,10 +27,10 @@
 	</table>
 </div>
 
-***The Spectacle*** is a performance slot at [[The Hideout Theatre]].
+***The Spectacle*** is a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
-*The Spectacle* happens every Friday at 10pm at [[The Hideout]].  It is a double bill with an opening act and then [[Troupes/Parallelogramophonograph|Parallelogramophonograph]].  Each act performs for 35-40 minutes.
+*The Spectacle* happens every Friday at 10pm at [[Theatres/The Hideout|The Hideout]].  It is a double bill with an opening act and then [[Troupes/Parallelogramophonograph|Parallelogramophonograph]].  Each act performs for 35-40 minutes.
 
 The acts are scheduled by [[Performers/Roy Janik|Roy Janik]], who puts out a call for applications every two months.
 

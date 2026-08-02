@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,12 +19,12 @@
 	</table>
 </div>
 
-**Gloria Rabil Bankler** is an improv performer who works primarily with [[The Hideout Theatre]].
+**Gloria Rabil Bankler** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 Gloria is a founding member of both [[Troupes/Furiously Missing|Furiously Missing]] and [[Troupes/In Our Prime|In Our Prime]].
 
-She has also produced segments based on the concept of fear, called *What Are You Afraid Of?* for [[Shows/The Free Fringe|The Free Fringe]] at [[The Hideout Theatre]].
+She has also produced segments based on the concept of fear, called *What Are You Afraid Of?* for [[Shows/The Free Fringe|The Free Fringe]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Gloria studied theater in college at the University of North Carolina at Greensboro. 
 In the summer of 2010 her sister-in-law, Faye Bankler Casell, talked her into taking classes at the Hideout Theatre after watching Gloria’s son, Quinn Rabil Bankler, perform in a student showcase.  

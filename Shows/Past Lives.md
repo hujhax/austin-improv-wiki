@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -85,9 +85,9 @@
 
 The show explores a soul and all of its previous incarnations in reverse chronological order.
 
-The show debuted at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]] at [[The Hideout Theatre]] on 4/11/13 and has since been featured in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
+The show debuted at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 4/11/13 and has since been featured in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
-They played their last show at [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]] at [[The Hideout Theatre]] on 4/10/14.
+They played their last show at [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 4/10/14.
 
 ## Media
 ### Videos

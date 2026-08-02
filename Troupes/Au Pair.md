@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Au Pair is Karen Early and G-Su Paek. Au Pair uses sketch, stand-up, dramatic readings, and good ol' fashioned improv to create a completely new variety show every time they perform.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Au Pair is Karen Early and G-Su Paek. Au Pair uses sketch, stand-up, dramatic readings, and good ol' fashioned improv to create a completely new variety show every time they perform.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We perform a 2 person Close Quarters format. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform a 2 person Close Quarters format. </blockquote>
 
 ## Media
 ### Videos

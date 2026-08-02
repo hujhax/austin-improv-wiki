@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -29,7 +29,7 @@
 
 **The Triple Scoop** was a three-act improv night headlined by [[Troupes/IScream Sandwich|IScream Sandwich]].
 
-It ran Saturday nights at 10pm at [[The Institution Theater]].
+It ran Saturday nights at 10pm at [[Theatres/The Institution Theater|The Institution Theater]].
 
 Each show consisted of three improv troupes performing a half-hour minute set with a guest stand-up comedian acting as MC.
 

@@ -70,10 +70,10 @@
 	</table>
 </div>
 
-**Stag Comedy** is a sketch troupe based out of [[Coldtowne Theater]].
+**Stag Comedy** is a sketch troupe based out of [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
-The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstage show at [[Coldtowne Theater]] in October 2013.
+The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in October 2013.
 
 ## Media
 ### Videos

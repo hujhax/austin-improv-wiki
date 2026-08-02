@@ -74,8 +74,8 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>
-<p>The Darkness is a collaboration between students and alumni from [[The New Movement]] and Hideout Theatres, which began after each theatre had a bat workshop held by [[Justin Strackany]] from The New Movement. </p>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
+<p>The Darkness is a collaboration between students and alumni from [[Theatres/The New Movement|The New Movement]] and Hideout Theatres, which began after each theatre had a bat workshop held by [[Justin Strackany]] from The New Movement. </p>
 <p>And what is the bat? </p>
 <p>The bat is improv in the dark. </p>
 <p>No lights. </p>
@@ -83,7 +83,7 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
 <p>We do the bat. </p>
 <p>Our performance is in the dark. </p>
 <p>Sometimes with ambient sound. </p>

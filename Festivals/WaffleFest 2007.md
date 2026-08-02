@@ -7,7 +7,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 
 ## Acts
 * [[Troupes/$10 Bourbon|$10 Bourbon]]
-* [[ColdTowne]]
+* [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]

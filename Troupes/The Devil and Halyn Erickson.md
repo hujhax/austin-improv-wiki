@@ -23,10 +23,10 @@
 
 ## Summary
 ### Press Blurb
-The press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Everyone has inner demons or voices guiding them, and in this solo show Halyn Erickson lets them rule her life. </blockquote>
+The press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Everyone has inner demons or voices guiding them, and in this solo show Halyn Erickson lets them rule her life. </blockquote>
 
 ### "What's Your Deal?"
-The answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>I do different versions of the game Demon Voice -- I don't constantly ask "What comes next", I interact with my demon (or angel) and let them rule my life.</blockquote>
+The answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>I do different versions of the game Demon Voice -- I don't constantly ask "What comes next", I interact with my demon (or angel) and let them rule my life.</blockquote>
 
 ## History
 The show headlined *[[Shows/The Threefer|The Threefer]]* in June 2014.

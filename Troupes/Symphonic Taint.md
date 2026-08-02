@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
 <p>Oh oh! </p>
 <p>I need to write you one of these! </p>
 <p>Here's a place holder:</p>
@@ -88,7 +88,7 @@ Their press blurb, taken from a 2013 application to perform at [[The Hideout The
 </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[The Hideout Theatre]]:
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
 <blockquote>
 <p>We play piano jazz/blues/tin pan alley style and make up pithy funny sometimes kinda smart songs. </p>
 <p>We fuck with each other on stage, a little bit of banter and challenge, and we engage the shit out of the audience if they're into it. </p>

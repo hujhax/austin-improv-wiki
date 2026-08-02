@@ -77,7 +77,7 @@
 **Michael Brockman** is an improv musician and improv-singing teacher.
 
 ## Summary
-Michael started in musical improv somewhere around 2005 after seeing an article on the Austin improv scene in the Austin Chronicle followed shortly by an ad for an improv musician on Craigslist.  See? Serendipity. He's taken a few acting improv classes but is considerably more comfortable hiding behind an instrument (or two). He has also co-taught improv singing with [[Merlin Works]] and [[The Hideout Theatre]].
+Michael started in musical improv somewhere around 2005 after seeing an article on the Austin improv scene in the Austin Chronicle followed shortly by an ad for an improv musician on Craigslist.  See? Serendipity. He's taken a few acting improv classes but is considerably more comfortable hiding behind an instrument (or two). He has also co-taught improv singing with [[Merlin Works]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 Note: all credits in Troupes and Shows are for improvised accompaniment, except those marked "(composer)", which are productions he instead wrote the music for.
 

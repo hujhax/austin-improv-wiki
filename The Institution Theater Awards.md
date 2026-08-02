@@ -1,4 +1,4 @@
-**The Institution Theater Awards** are the annual awards given out by [[The Institution Theater]] for excellence in performance, filmmaking, and contributions to the Institution community.
+**The Institution Theater Awards** are the annual awards given out by [[Theatres/The Institution Theater|The Institution Theater]] for excellence in performance, filmmaking, and contributions to the Institution community.
 
 ![[TylerAward.jpg|[Tyler Reece Booker](Tyler%20Reece%20Booker) accepts a TITie at [The 2013 Institution Theater Awards](The%202013%20Institution%20Theater%20Awards)]]
 

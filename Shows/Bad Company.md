@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -135,7 +135,7 @@
 
 ***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as *[[Wikipedia - The Office|The Office]]*.
 
-It was a [[Merlin Works Graduation Show]] that opened the *[[Shows/Saturday Night Special|Saturday Night Special]]* for a three-week run (12/4/10, 12/11/10, 12/18/10) at [[Salvage Vanguard Theater]].
+It was a [[Merlin Works Graduation Show]] that opened the *[[Shows/Saturday Night Special|Saturday Night Special]]* for a three-week run (12/4/10, 12/11/10, 12/18/10) at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 
 ## Media

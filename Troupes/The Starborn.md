@@ -139,7 +139,7 @@ It began as a [[Shows/Free Fringe|Free Fringe]] show inspired by troupes like Su
 [[Performers/Mia Iseman|Mia Iseman]] designed the costumes herself and made tweaks to the details to denote the different genders of the aliens.
 
 ## Show Runs
-In February of 2014 The Starborn headlined [[Shows/The Threefer|The Threefer]] at [[The Hideout Theatre]].
+In February of 2014 The Starborn headlined [[Shows/The Threefer|The Threefer]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Festivals
 In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Comedy Festival in Austin, TX. They headlined the downstairs show Thursday at The Hideout Theatre and also played in the same slot as Jimmy Carrane's Improv Nerd Podcast and the OOB lottery show at The State on the closing night of the festival.

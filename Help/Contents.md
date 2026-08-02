@@ -51,9 +51,9 @@ For an example of following these three rules, look at [this photo](http://wiki.
 
 
 **I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information -- does this mean I need to make two copies of the Hideout page?**<br/>
-Fortunately, no.  You would handle this with something called ["redirects"](http://www.mediawiki.org/wiki/Help:Redirects).  In this case, we've created a page for [[The Hideout Theatre]].  Then we created a page called [[Hideout Theatre]] that only contains the following text: 
+Fortunately, no.  You would handle this with something called ["redirects"](http://www.mediawiki.org/wiki/Help:Redirects).  In this case, we've created a page for [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Then we created a page called [[Theatres/Hideout Theatre|Hideout Theatre]] that only contains the following text: 
  <nowiki>#REDIRECT [[-nowiki[[The Hideout Theatre]]nowiki]]</nowiki>
-That means that all the [[Hideout Theatre]] page does is "redirect" to [[The Hideout Theatre]].
+That means that all the [[Theatres/Hideout Theatre|Hideout Theatre]] page does is "redirect" to [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 
 **I have a problem with the site! Who do I call?**<br/>

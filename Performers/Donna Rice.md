@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Donna Rice** is an actor, improviser, writer and director.
 
 ## History
-Donna moved to Austin, Texas in October of 2013. Six days later, she happened to stumble upon a flyer for free improv classes at [[The Institution Theater]]. She ended up loving the class and shortly began to take her first baby steps into improv. Prior to moving to Texas, Donna performed in numerous plays and film projects.
+Donna moved to Austin, Texas in October of 2013. Six days later, she happened to stumble upon a flyer for free improv classes at [[Theatres/The Institution Theater|The Institution Theater]]. She ended up loving the class and shortly began to take her first baby steps into improv. Prior to moving to Texas, Donna performed in numerous plays and film projects.
 
 ## Shows
 * *[[Shows/Rock N Roll Purgatory|Rock N Roll Purgatory]]*

@@ -22,7 +22,7 @@
 **Gene Zhou** is an improv performer.
 
 ## History
-Gene Zhou started improv in 2010 when he got thirsty walking downtown and wandered into [[The Hideout Theatre]] looking for refreshment.  He saw *[[Shows/Start Trekkin'|Start Trekkin']]* and *[[Shows/Maestro|Maestro]]* and signed up for classes afterwards.  Since then, he's graduated from the improv programs at [[Coldtowne Theater]], [[The Hideout Theatre]], and [[Merlin Works]]. 
+Gene Zhou started improv in 2010 when he got thirsty walking downtown and wandered into [[Theatres/The Hideout Theatre|The Hideout Theatre]] looking for refreshment.  He saw *[[Shows/Start Trekkin'|Start Trekkin']]* and *[[Shows/Maestro|Maestro]]* and signed up for classes afterwards.  Since then, he's graduated from the improv programs at [[Theatres/Coldtowne Theater|Coldtowne Theater]], [[Theatres/The Hideout Theatre|The Hideout Theatre]], and [[Merlin Works]]. 
 
 ## Troupes
 * [[Troupes/Diplomatic Impunity|Diplomatic Impunity]]

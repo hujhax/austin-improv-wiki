@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[The Hideout Theatre]]:<blockquote>EPIC! is an episodic theatrical experience that will bring the joy of old school role playing games such as Dungeons & Dragons to the stage.
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>EPIC! is an episodic theatrical experience that will bring the joy of old school role playing games such as Dungeons & Dragons to the stage.
 
 We will send a special guest hero on an improvised adventure - which will be fun to watch for both hardcore tabletop geeks and role-playing virgins alike.
 

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Alex "Seymour" Addison** is an improv performer who works primarily with [[The Hideout Theatre]].
+**Alex "Seymour" Addison** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
 Seymour had graduated from Texas State with a BFA in theatre. Specifically, in the field of directing and not performing. It was only till Seymour joined the Hideout Coffeehouse as a barista before he knew there was an improv theatre in the same building. Four months later and after seeing a few maestros, he began classes at The Hideout Theatre under the instruction of Jessica Arjet and Andy Crouch.

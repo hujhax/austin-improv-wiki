@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Improvised Comedy with Oh, Science!*** is a double-header improv show featuring [[Troupes/Oh, Science!|Oh, Science!]] at 8:30PM every Sunday at [[Coldtowne Theater]].
+***Improvised Comedy with Oh, Science!*** is a double-header improv show featuring [[Troupes/Oh, Science!|Oh, Science!]] at 8:30PM every Sunday at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
 This show is what *[[Shows/The Jam with Oh, Science!|The Jam with Oh, Science!]]* turned into after the "jam" part of the show was discontinued.

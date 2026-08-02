@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -90,10 +90,10 @@
 	</table>
 </div>
 
-***Spirited*** was a mainstage show at [[The Hideout Theatre]], inspired by the dream-logic works from artists like [[Wikipedia - Lewis Carroll|Lewis Carroll]], [[Wikipedia - Hayao Miyazaki|Hayao Miyazaki]], and [[Wikipedia - Maurice Sendak|Maurice Sendak]].
+***Spirited*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the dream-logic works from artists like [[Wikipedia - Lewis Carroll|Lewis Carroll]], [[Wikipedia - Hayao Miyazaki|Hayao Miyazaki]], and [[Wikipedia - Maurice Sendak|Maurice Sendak]].
 
 ## Summary
-*Spirited* was [[The Hideout]]'s mainstage show in September and October of 2011.  It had subsequent performances at [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] the following year.
+*Spirited* was [[Theatres/The Hideout|The Hideout]]'s mainstage show in September and October of 2011.  It had subsequent performances at [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] the following year.
 
 ### Show Structure
 Each performance centered around a young girl, called "the Alice" in rehearsals (though the character could have any name), played by either [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]] or [[Performers/Sarah Marie Curry|Sarah Marie Curry]].  All the other performers in the show would wear all black, while the Alice would be dressed in a frilly, 19th-century dress.

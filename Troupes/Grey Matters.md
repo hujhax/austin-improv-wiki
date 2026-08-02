@@ -70,15 +70,15 @@
 	</table>
 </div>
 
-**Grey Matters** was an improv troupe based at [[The Institution Theater]] from 2011 to 2012, created by [[Performers/Asaf Ronen|Asaf Ronen]] to showcase the dark comedic chemistry of [[Performers/Kathy Rose Center|Kathy Rose Center]], [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]], and [[Performers/Todd Hart|Todd Hart]].
+**Grey Matters** was an improv troupe based at [[Theatres/The Institution Theater|The Institution Theater]] from 2011 to 2012, created by [[Performers/Asaf Ronen|Asaf Ronen]] to showcase the dark comedic chemistry of [[Performers/Kathy Rose Center|Kathy Rose Center]], [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]], and [[Performers/Todd Hart|Todd Hart]].
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/43371871) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 5/14/12 show at [[Coldtowne Theater]].
+* [Video](http://vimeo.com/43371871) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 5/14/12 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1684724329843.2079936.1589679282&type=3) by [[Roy Moore]] that includes their 5/22/11 show at [[Hyde Park Theater]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1828023072222.2086501.1589679282&type=3) by [[Roy Moore]] that includes their 7/30/11 show at [[The Institution Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1828023072222.2086501.1589679282&type=3) by [[Roy Moore]] that includes their 7/30/11 show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 
 [[Category/Troupes|Category:Troupes]]

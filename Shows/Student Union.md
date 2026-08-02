@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***Student Union*** is an improv jam for students and alumni of [[The New Movement]].
+***Student Union*** is an improv jam for students and alumni of [[Theatres/The New Movement|The New Movement]].
 
 ## Summary
 The show runs from 7:30pm to 8:30pm on Thursday nights.

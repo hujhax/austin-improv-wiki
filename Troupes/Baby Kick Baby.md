@@ -74,7 +74,7 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[The Hideout Theatre]]:<blockquote><p>We do the Peak and Pop.</p> 
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We do the Peak and Pop.</p> 
 
 <p>The first 10 minutes of the show are very fast, with scenes lasting anywhere from 10 seconds to 2 minutes.</p> 
 

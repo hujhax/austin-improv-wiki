@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a>,<a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a>,<a class="internal-link" href="The New Movement">The New Movement</a>,<a class="internal-link" href="The Institution Theater">The Institution Theater</a>,<a class="internal-link" href="Merlin Works">Merlin Works</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a>,<a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a>,<a class="internal-link" href="Theatres/The New Movement">The New Movement</a>,<a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a>,<a class="internal-link" href="Merlin Works">Merlin Works</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

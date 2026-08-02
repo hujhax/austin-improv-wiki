@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -95,7 +95,7 @@ Season 1 was based on *[[Wikipedia - Twilight (novel)|Twilight]]*, and focused o
 Season 2 was based on the books *[[Wikipedia - New Moon (novel)|New Moon]]* and *[[Wikipedia - Eclipse (Meyer novel)|Eclipse]]*, and focused on the love triangle and werewolves.
 
 ## History
-The show had two mainstage runs at [[Salvage Vanguard Theater]], which the cast and crew refer to as "seasons".  Season 1 was Fridays and Saturdays from 10/23/09 to 11/21/09.  Season 2 was Fridays and Saturdays from 10/22/10 to 11/20/10.  They also did three festival appearances: the Chicago Improv Festival from 4/23/10-4/24/10; New York City at the Tank Theater on 7/9/10; and Atlanta in 2011.  They ran fundraiser shows for the Chicago trip on 4/9/10 and 4/16/10 and for the New York trip on 6/25/10 and 7/2/10 (the fundraiser shows were held at [[Salvage Vanguard Theater]]).
+The show had two mainstage runs at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], which the cast and crew refer to as "seasons".  Season 1 was Fridays and Saturdays from 10/23/09 to 11/21/09.  Season 2 was Fridays and Saturdays from 10/22/10 to 11/20/10.  They also did three festival appearances: the Chicago Improv Festival from 4/23/10-4/24/10; New York City at the Tank Theater on 7/9/10; and Atlanta in 2011.  They ran fundraiser shows for the Chicago trip on 4/9/10 and 4/16/10 and for the New York trip on 6/25/10 and 7/2/10 (the fundraiser shows were held at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]).
 
 The marketing tagline for season 1 was "True love waits... forever."
 
@@ -220,11 +220,11 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 show at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 	* [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]]
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/22/10 performance at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/23/10 show at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3) by [[Roy Moore]] of their 10/29/10 show at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/13/10 show at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3) by [[Roy Moore]] of their 11/19/10 show at [[Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/22/10 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/23/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3) by [[Roy Moore]] of their 10/29/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/13/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3) by [[Roy Moore]] of their 11/19/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/20/10 performance.
 
 ### Publicity

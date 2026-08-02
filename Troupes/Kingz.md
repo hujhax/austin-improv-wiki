@@ -74,14 +74,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>Kingz is an Austin, TX based improv comedy troupe of women who dress like dudes. Through the art of drag and audience suggestions these gentleladies bring the perfect combination of laughs, beard stubble and manliness to their relationship based performances. It's good to be the Kingz.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Kingz is an Austin, TX based improv comedy troupe of women who dress like dudes. Through the art of drag and audience suggestions these gentleladies bring the perfect combination of laughs, beard stubble and manliness to their relationship based performances. It's good to be the Kingz.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[The Hideout Theatre]]:<blockquote>We are women who dress up like dudes and perform a mono scene with pop outs. Our focus is on compelling and hilarious character driven scenes.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are women who dress up like dudes and perform a mono scene with pop outs. Our focus is on compelling and hilarious character driven scenes.</blockquote>
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/3Ef7GoOzsIw) of their 6/3/15 show at [[Coldtowne Theater]].
+* [Video](http://youtu.be/3Ef7GoOzsIw) of their 6/3/15 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Kingz/838619749519864)

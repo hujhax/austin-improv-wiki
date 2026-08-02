@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Chelley Pyatt** is an improv performer who works primarily with [[The Institution Theater]].
+**Chelley Pyatt** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## History
 A post from her about the first improv show she ever saw:<blockquote><p>The first improv show I saw was the British *Whose Line Is It, Anyway?* when it aired on PBS in Dallas. I continued watching the show when it came to the US. I always found it delightful.</p> 

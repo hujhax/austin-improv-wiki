@@ -1,6 +1,6 @@
 Here is a list of shows that have run or are running in Austin, organized by producer.
 
-## [[Coldtowne Theater]]
+## [[Theatres/Coldtowne Theater|Coldtowne Theater]]
 ### Ongoing Shows
 * *[[Shows/The Cagematch|The Cagematch]]*
 * *[[Shows/Comedy Bazaar|Comedy Bazaar]]*
@@ -112,7 +112,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (2011)
 * *[[Shows/The Trouble With Terry|The Trouble With Terry]]*
 
-## [[The Hideout Theatre]]
+## [[Theatres/The Hideout Theatre|The Hideout Theatre]]
 The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
 
 ### Ongoing Shows
@@ -137,7 +137,7 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 	* *[[Shows/The TV Set|The TV Set]]*
 	* "[[Shows/TheatreDome|TheatreDome]]"
 
-## [[The Institution Theater]]
+## [[Theatres/The Institution Theater|The Institution Theater]]
 ### Ongoing Shows
 * *[[Shows/The Austin Improv Monologue Jam|The Austin Improv Monologue Jam]]*
 * *[[Shows/Booker and a Buddy|Booker and a Buddy]]*
@@ -176,7 +176,7 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
 * *[[Shows/You Think You're So Smart|You Think You're So Smart]]*
 
-## [[The New Movement Theater]]
+## [[Theatres/The New Movement Theater|The New Movement Theater]]
 * *[[Shows/Austin Comedy Hour|Austin Comedy Hour]]*
 * *[[Shows/Block Party|Block Party]]*
 * *[[Shows/Fighting Spirit|Fighting Spirit]]*

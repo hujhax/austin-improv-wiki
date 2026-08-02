@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-**Joshua Gill** is an improv performer who works primarily with [[Coldtowne Theater]].
+**Joshua Gill** is an improv performer who works primarily with [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
-In late 2008, Josh moved in with [[Performers/Arthur Simone|Arthur Simone]], co-founder of [[Coldtowne Theater]]. After attending a number of shows, in 2009 he began improv classes at Coldtowne. In his level 1 class, [[Performers/Lisa Jackson|Lisa Jackson]] seduced him and subsequently married him. He was cast in [[Troupes/Oh, Science!|Oh, Science!]] in the summer of 2009 and has played with them since. He also performs with his wife in [[Troupes/Galactic|Galactic]], and also with his wife and John Ratliff in [[Troupes/Dervish|Dervish]].
+In late 2008, Josh moved in with [[Performers/Arthur Simone|Arthur Simone]], co-founder of [[Theatres/Coldtowne Theater|Coldtowne Theater]]. After attending a number of shows, in 2009 he began improv classes at Coldtowne. In his level 1 class, [[Performers/Lisa Jackson|Lisa Jackson]] seduced him and subsequently married him. He was cast in [[Troupes/Oh, Science!|Oh, Science!]] in the summer of 2009 and has played with them since. He also performs with his wife in [[Troupes/Galactic|Galactic]], and also with his wife and John Ratliff in [[Troupes/Dervish|Dervish]].
 
 ## Troupes
 * [[Troupes/Oh, Science!|Oh, Science!]] (2009-present)

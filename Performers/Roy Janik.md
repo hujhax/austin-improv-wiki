@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -21,7 +21,7 @@
 
 **Roy Janik** ([[Wikipedia - Help - IPA for English#Key|/ˈjɑːnɪk/]]; AKA **Roy Danger**) is an improv performer, teacher, and director.
 
-Roy is a co-owner of [[The Hideout Theatre]] and its Artistic Director.
+Roy is a co-owner of [[Theatres/The Hideout Theatre|The Hideout Theatre]] and its Artistic Director.
 
 ## History
 Roy was a core cast member in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]] and [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].

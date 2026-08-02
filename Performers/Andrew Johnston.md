@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -21,7 +21,7 @@
 
 Andrew Johnston is an improv performer and sometimes magician. 
 
-Andrew began studying at [[The Institution Theater]] in early 2012 in order to overcome stage fright.  Although he continues an interest in magic, he has taken a hard turn toward improvised theater at the Institution.
+Andrew began studying at [[Theatres/The Institution Theater|The Institution Theater]] in early 2012 in order to overcome stage fright.  Although he continues an interest in magic, he has taken a hard turn toward improvised theater at the Institution.
 
 ## Shows
 * *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]* - Magician, pre-show lobby entertainment (2013)

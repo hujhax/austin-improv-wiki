@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The New Movement">The New Movement</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Patrick Knisely** ([[Wikipedia - Help - IPA for English#Key|/ˈnaɪzliː/]])  is an improv performer and instructor who works primarily with [[The New Movement Theater]].
+**Patrick Knisely** ([[Wikipedia - Help - IPA for English#Key|/ˈnaɪzliː/]])  is an improv performer and instructor who works primarily with [[Theatres/The New Movement Theater|The New Movement Theater]].
 
 ## Troupes
 * [[Troupes/Opposites|Opposites]]

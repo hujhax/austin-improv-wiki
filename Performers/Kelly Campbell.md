@@ -11,8 +11,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Kelly Campbell** is an improv performer and tech.
 
 ## History
-Ms. Campbell saw her first improv show in high school, at UCB in New York City.  Through high school and college, she performed in musical theater and a cappella singing groups.  She watched lots of improv shows, but was terrified of trying it.  She finally took the leap in early 2015, taking her first classes at [[The Hideout Theatre]].
+Ms. Campbell saw her first improv show in high school, at UCB in New York City.  Through high school and college, she performed in musical theater and a cappella singing groups.  She watched lots of improv shows, but was terrified of trying it.  She finally took the leap in early 2015, taking her first classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Shows
 * *[[Shows/Austin Secrets|Austin Secrets]]* (scoring tech)

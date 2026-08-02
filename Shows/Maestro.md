@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-**Maestro** (originally spelled **Micetro**) is a competitive short-form improv format. It has played at the [[Hideout Theatre]] on Saturday nights at 10 pm continuously since 2000. It's the longest-running improv show in Austin.
+**Maestro** (originally spelled **Micetro**) is a competitive short-form improv format. It has played at the [[Theatres/Hideout Theatre|Hideout Theatre]] on Saturday nights at 10 pm continuously since 2000. It's the longest-running improv show in Austin.
 
 ## History
 [Keith Johnstone](http://en.wikipedia.org/wiki/Keith_Johnstone) invented Maestro (originally known as "Micetro" and still called that outside of Austin) when he was asked, on short notice, to concoct an improv format that 50 people could play. He initially called it "The New Game." When [[Performers/Sean Hill|Sean Hill]] founded the Hideout, Micetro was one of the games he brought from [BATS](http://www.improv.org/Home.aspx) in San Francisco.
@@ -36,7 +36,7 @@ In February 1999, [Dan O’Connor](http://www.imdb.com/name/nm0640284/) and [Bri
 
 ## Description
 ### Show Structure
-As performed at [[The Hideout]], Maestro typically has between 11 and 13 players and two directors.
+As performed at [[Theatres/The Hideout|The Hideout]], Maestro typically has between 11 and 13 players and two directors.
 
 The directors host the top of the show, explaining the structure of the show, warming up the audience if necessary, and then introducing the players.  The players all name themselves -- this is the last time the players are referred to by name.  Each player wears a number (from 1 to however-many-players-there-are), and that serves to identify them for the duration of the show.
 

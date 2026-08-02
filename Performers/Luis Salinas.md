@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-**Luis Salinas** is an improv performer who is associated primarily with [[The Institution Theater]].
+**Luis Salinas** is an improv performer who is associated primarily with [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## History
-Luis began his improv journey in the Fall of 2009, with the Improv 101 course at [[Merlin Works]]. After completing the 601 course in December of 2010, and mounting the show run for *[[Shows/Bad Company|Bad Company]]*, he immediately enrolled in a second round of 401-601 classes at Merlin Works (culminating the show run of *[[Shows/The Trouble With Terry|The Trouble With Terry]]*) as he simultaneously began his studies with the 301 course at [[The Institution Theater]].  He has also studied at [[The Hideout Theatre]] (Level 7).
+Luis began his improv journey in the Fall of 2009, with the Improv 101 course at [[Merlin Works]]. After completing the 601 course in December of 2010, and mounting the show run for *[[Shows/Bad Company|Bad Company]]*, he immediately enrolled in a second round of 401-601 classes at Merlin Works (culminating the show run of *[[Shows/The Trouble With Terry|The Trouble With Terry]]*) as he simultaneously began his studies with the 301 course at [[Theatres/The Institution Theater|The Institution Theater]].  He has also studied at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (Level 7).
 
 ## Troupes
 * [[Troupes/Dumbasses|Dumbasses]] (2011-Present)

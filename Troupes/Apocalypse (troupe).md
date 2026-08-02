@@ -86,7 +86,7 @@ At the start of the show, the troupe got a suggestion from the audience that the
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/45799415) by [[Performers/Paul Normandin|Paul Normandin]] of their 7/14/12 show at [[Salvage Vanguard Theater]].
+* [Video](http://vimeo.com/45799415) by [[Performers/Paul Normandin|Paul Normandin]] of their 7/14/12 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Video](http://vimeo.com/50120574) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/21/12 show.
 
 ### Photos

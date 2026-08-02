@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,10 +19,10 @@
 	</table>
 </div>
 
-**Brad Hawkins** is an improv performer who works primarily with [[The Hideout Theatre]] and [[The Institution Theater]].
+**Brad Hawkins** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## History
-A native of Cedar Rapids, Iowa, Hawkins moved to Austin in 1999. He became interested in improv after watching a [[Troupes/Confidence Men|Confidence Men]] show in mid-2010. He has taken classes at [[The Hideout Theatre]] and [[The Institution Theater]]. He took his first improv class on June 19, 2010, and performed in his first show on September 17, 2010.
+A native of Cedar Rapids, Iowa, Hawkins moved to Austin in 1999. He became interested in improv after watching a [[Troupes/Confidence Men|Confidence Men]] show in mid-2010. He has taken classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]]. He took his first improv class on June 19, 2010, and performed in his first show on September 17, 2010.
 After attending the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] in 2010, he co-founded [[Troupes/Three Hot Chicks|Three Hot Chicks]]. Since then, he has been a member of the troupes [[Troupes/The Walk-Ons|The Walk-Ons]], [[Troupes/Franz & Dave|Franz & Dave]], [[Troupes/Who Dack|Who Dack]], [[Troupes/Epic|Epic]], [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]], and [[Troupes/Your Dad's Friends|Your Dad's Friends]], and was a founding member of [[Troupes/Goat|Goat]]. In 2014 he directed his first mainstage show, *[[Shows/Trust No One|Trust No One]]*, followed by *[[Shows/You Can't Stay Here|You Can't Stay Here]]* the following year.
 
 ## Troupes

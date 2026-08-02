@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Comedy Workshop Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Logo for [[The Comedy Workshop]].
+Logo for [[Theatres/The Comedy Workshop|The Comedy Workshop]].
 
 (Image taken from [this article](http://www.austinchronicle.com/arts/2001-01-26/80278/).)
 

@@ -19,7 +19,7 @@
 * Friday 11pm: *[[Shows/Cochise|Cochise]]*
 * Friday midnight: "Parlor Games"; twisted games with [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
 * Saturday 1am: [[Troupes/Available Cupholders|Available Cupholders]]
-* Saturday 2am: [[The New Movement]]
+* Saturday 2am: [[Theatres/The New Movement|The New Movement]]
 * Saturday 3am: [[Troupes/Northshore Local|Northshore Local]]
 * Saturday 4am: [[Troupes/Snackers|Snackers]]
 * Saturday 5am: [[Troupes/Midnight Society|Midnight Society]]
@@ -42,7 +42,7 @@
 * Saturday 10pm: *[[Shows/Maestro|Musical Maestro]]*
 * Saturday midnight: *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
 * Sunday 1am: [The Bat](http://improvencyclopedia.org/games/The_Bat.html) with [[Troupes/ColdTowne (Troupe)|ColdTowne]]
-* Sunday 2am: [[The Institution]]
+* Sunday 2am: [[Theatres/The Institution|The Institution]]
 * Sunday 3am: "Musical [Armando](http://improvencyclopedia.org/games//Armando.html)", with [[Troupes/A Bunch of Liars|A Bunch of Liars]] and [[Troupes/The Love Notes|The Love Notes]]
 * Sunday 4am: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 * Sunday 5am: "Mystery Meat", a surprise format from [[Performers/Roy Janik|Roy Janik]]
@@ -52,7 +52,7 @@
 
 ## Media
 ### Photo
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129969442264.120561.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of [[The New Movement]] (Saturday 2am).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129969442264.120561.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of [[Theatres/The New Movement|The New Movement]] (Saturday 2am).
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129970797264.120563.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of [[Troupes/Northshore Local|Northshore Local]] (Saturday 3am).
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129973482264.120564.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the Life Game (Saturday 5pm).
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620827646114/comments/) by [[Michael Yew]] of *[[Shows/Lola|Lola]]* (Saturday 6pm).
@@ -70,7 +70,7 @@
 * [Intro video](http://youtu.be/RBv0-UyY9Oo) by [[Brian Boyko]].
 
 ## More Information
-* ["The Hideout’s 40-Hour Improv Marathon a Big Success"](http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success) (blogpost at [[The Hideout]]'s web site)
+* ["The Hideout’s 40-Hour Improv Marathon a Big Success"](http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success) (blogpost at [[Theatres/The Hideout|The Hideout]]'s web site)
 * ["The Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-06-26/799086/) by [[Robert Faires]] (*The Austin Chronicle*)
 * ["Review: Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-07-03/803083/) by [[Robert Faires]] (*The Austin Chronicle*)
 * [A post recapping the marathon.](http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success)

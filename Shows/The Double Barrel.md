@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,10 +27,10 @@
 	</table>
 </div>
 
-***The Double Barrel*** (formerly ***The Twofer*** and ***The Style Show***) was a performance slot at [[The Hideout Theatre]].
+***The Double Barrel*** (formerly ***The Twofer*** and ***The Style Show***) was a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
-*The Double Barrel* played every Friday at 10pm at [[The Hideout Theatre]].
+*The Double Barrel* played every Friday at 10pm at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 As the name implies, it was a double bill, with two improv acts.
 
@@ -39,7 +39,7 @@ Each slot typically lasted about forty minutes.
 ## History
 The Double Barrel originated as an [[Austin Improv Collective]]-branded show in 2005.
 
-Later, the show was taken over by [[The Hideout]], which had always hosted the event.
+Later, the show was taken over by [[Theatres/The Hideout|The Hideout]], which had always hosted the event.
 
 Finally, in April of 2010, the show was replaced by *[[Shows/The Spectacle|The Spectacle]]*.
 

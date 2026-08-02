@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +22,7 @@
 **Shannon McCormick** is an improv performer, director, and teacher.  He runs [[Gnap! Theater Projects]], which produced improv shows from 2008 to 2012.
 
 ## History
-Shannon took his first improv class in Austin in 2000, at [[The Hideout Theatre]].  [[Performers/Sean Hill|Sean Hill]] and [[Performers/Shana Merlin|Shana Merlin]] were his instructors, and his classmates included [[Performers/Kacey Samiee|Kacey Samiee]] and [[Performers/Ace Manning|Ace Manning]].  He joined [[Troupes/We Could Be Heroes|We Could Be Heroes]] at the end of that year, and had his first onstage performance in January 2001.
+Shannon took his first improv class in Austin in 2000, at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  [[Performers/Sean Hill|Sean Hill]] and [[Performers/Shana Merlin|Shana Merlin]] were his instructors, and his classmates included [[Performers/Kacey Samiee|Kacey Samiee]] and [[Performers/Ace Manning|Ace Manning]].  He joined [[Troupes/We Could Be Heroes|We Could Be Heroes]] at the end of that year, and had his first onstage performance in January 2001.
 
 In 2003, Shannon began co-producing [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 

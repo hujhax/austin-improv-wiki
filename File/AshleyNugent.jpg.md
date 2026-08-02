@@ -5,7 +5,7 @@ Head shot of [[Performers/Ashley Nugent|Ashley Nugent]].
 
 Photo by: unknown.
 
-Taken from the [[Coldtowne Theater]] website.
+Taken from the [[Theatres/Coldtowne Theater|Coldtowne Theater]] website.
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -149,7 +149,7 @@ Each show in the mainstage run was divided into three stories. A predetermined g
 After its mainstage run, there were a number of one-off shows:
 * 12/6/12: "Lovecraft Secrets", a mash-up with *[[Shows/Austin Secrets|Austin Secrets]]* that played at *[[Shows/The Free Fringe|The Free Fringe]]*.
 * 4/13/13: a 25-minute show played [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
-* 5/5/13: a 25-minute show played "nerd-prov", a nerd-themed quadruple-bill at *[[The Institution Theater]]*.
+* 5/5/13: a 25-minute show played "nerd-prov", a nerd-themed quadruple-bill at *[[Theatres/The Institution Theater|The Institution Theater]]*.
 * 5/23/13: "Pick Your Own Black Vault", a mash-up with *[[Shows/Pick Your Own Path|Pick Your Own Path]]* that played at *[[Shows/The Free Fringe|The Free Fringe]]*.
 * 6/23/13: the show was hour 32 of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * 3/27/14: a double-bill with [[Shows/Strange Worlds|Strange Worlds]] as a fundraiser for both show's trip to the Alaska State Improv Festival.
@@ -172,7 +172,7 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 * [Video](http://vimeo.com/52659608) by [[Performers/Paul Normandin|Paul Normandin]] of the 10/31/12 show.
 * [Video of the one-off "Lovecraft Secrets" show](http://vimeo.com/55421296) (a mash-up with *[[Shows/Austin Secrets|Austin Secrets]]* at *[[Shows/The Free Fringe|The Free Fringe]]*), from 12/6/12.
 * [Video](http://vimeo.com/64275476) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/13/13 performance in [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
-* [Video of the 5/5/13 performance](http://vimeo.com/67752198), which was part of "Nerdprov" at [[The Institution Theater]].
+* [Video of the 5/5/13 performance](http://vimeo.com/67752198), which was part of "Nerdprov" at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Video](http://vimeo.com/66965290) by [[Performers/Paul Normandin|Paul Normandin]] of the 5/23/13 "Pick Your Own Black Vault" show in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [Video](http://vimeo.com/69325354) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/23/13 performance in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * [Audio of the 10/11/13 performance](http://vimeo.com/76849825), part of *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
@@ -187,7 +187,7 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 * [Photoset](http://www.facebook.com/media/set/?set=a.396822437053108.88995.118587218209966&type=3) by [[Roy Moore]] of the 10/6/12 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.403247626410589.90509.118587218209966&type=3) by [[Roy Moore]] of the 10/27/12 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.406375719431113.91155.118587218209966&type=3) by [[Roy Moore]] of the 10/31/12 performance.
-* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[The Institution Theater]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.559758260759524.1073741862.118587218209966&type=3) by [[Roy Moore]] that includes their 10/11/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.811216412242179.1073741867.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a 3/27/14 fundraiser show for their trip to the Alaska State Improv Festival.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/Black-Vault/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].

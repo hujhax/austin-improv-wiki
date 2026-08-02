@@ -12,7 +12,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -21,7 +21,7 @@
 	</table>
 </div>
 
-**Cindy Page** is a technical improviser, improv performer, musician, and Co-Technical Director of [[The Hideout Theatre]].
+**Cindy Page** is a technical improviser, improv performer, musician, and Co-Technical Director of [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
 

@@ -74,10 +74,10 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Skutch is a back to basics improv group with a self proclaimed "garage comedy" style. Members [[Performers/Cody Dearing|Cody Dearing]], [[Performers/Carlos Larotta|Carlos Larotta]] and [[Performers/Nathan Sowell|Nathan Sowell]] are a powerhouse trio of normal dudes with an abnormally deep knowledge of comedy and nerdom. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Skutch is a back to basics improv group with a self proclaimed "garage comedy" style. Members [[Performers/Cody Dearing|Cody Dearing]], [[Performers/Carlos Larotta|Carlos Larotta]] and [[Performers/Nathan Sowell|Nathan Sowell]] are a powerhouse trio of normal dudes with an abnormally deep knowledge of comedy and nerdom. </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We do a show similar to 3033 from Chicago. A sort of "modern Harold" or a show where we find the form on the fly. Our goal is to create shows that feel like one complete piece.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a show similar to 3033 from Chicago. A sort of "modern Harold" or a show where we find the form on the fly. Our goal is to create shows that feel like one complete piece.</blockquote>
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/skutchcomedy)

@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -24,7 +24,7 @@
 ## History
 Cody moved to Austin, TX in 2005 to attend film school at the University of Texas. 
 
-He was first introduced to the AIC when his sketch show "No Astronauts Allowed" played at [[The Hideout Theatre]] as part of the Lone Start Sketch festival. The show went on to win the "best of sketch" award.
+He was first introduced to the AIC when his sketch show "No Astronauts Allowed" played at [[Theatres/The Hideout Theatre|The Hideout Theatre]] as part of the Lone Start Sketch festival. The show went on to win the "best of sketch" award.
 
 Cody took classes and interned for ColdTowne Theater. He was a member of the first graduating class of ColdTowne, whose class group became known as JC'sBM. 
 
@@ -32,7 +32,7 @@ Cody moved to Chicago in 2007 after attending the IO summer intensive. After com
 
 While living near Dallas, Cody began teaching and performing at the Dallas Comedy House. He taught levels 3 and above.
 
-In 2010 Cody moved back to Austin, and began teaching, performing, and directing there. Specifically, Cody began teaching Level 4 (the Harold) at [[Coldtowne Theater]].
+In 2010 Cody moved back to Austin, and began teaching, performing, and directing there. Specifically, Cody began teaching Level 4 (the Harold) at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 In 2013 Cody became the Artistic Director as well as the Education Director for ColdTowne Theater. He oversees the operation of the training center, and creates the performance schedule for ColdTowne.
 

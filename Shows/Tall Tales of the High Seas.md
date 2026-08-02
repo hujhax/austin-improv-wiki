@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -188,7 +188,7 @@
 	</table>
 </div>
 
-***Tall Tales of the High Seas*** is a pirate-themed mainstage improv show at [[The Institution Theater]].
+***Tall Tales of the High Seas*** is a pirate-themed mainstage improv show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
 ![[TallTalesoftheHighSeasPoster1.png]]![[TallTalesoftheHighSeasPoster2.png]]Pirates: loveable rogues, intrepid adventurers, notorious criminals. For young and old alike pirate stories evoke the spirit of danger, freedom and flamboyant eccentricities like no other genre. Follow our bigger than life characters into the golden age of swashbuckling where masts will split, cutlasses will shatter… but the truth will just be slightly bent.
@@ -225,12 +225,12 @@ The show was sponsored by Treaty Oak Rum and The Crow Bar.
 
 ### Videos
 #### Performances
-* [2/5/16 performance](http://www.youtube.com/watch?v=Lk9wECZnRmc) (Astrid the Adventurous vs. Barnacle Bertram) at the *[[Institution Theater]]*.
-* [2/12/16 performance](http://www.youtube.com/watch?v=gmC1GaQHNds) (Countess Crescendo vs. Sahib Akbar) at the *[[Institution Theater]]*.
-* [2/19/16 performance](http://www.youtube.com/watch?v=lrptdq3a6ME)  (LaCere Zatara vs. Briny Bob Bilgewater) at the *[[Institution Theater]]*.
-* [2/26/16 performance](http://www.youtube.com/watch?v=CkA8wf3hNQM) (Henrietta Dempsey vs. Convel Tiburon) at the *[[Institution Theater]]*.
-* [3/4/16 performance](http://www.youtube.com/watch?v=yymPOsVkbPo) (The Bonnie Sisters vs. Captain Blake) at the *[[Institution Theater]]*.
-* [3/11/16 performance](http://www.youtube.com/watch?v=19gs2R6TU3w) (Francesca the Fierce vs. Captain Finch) at the *[[Institution Theater]]*.
+* [2/5/16 performance](http://www.youtube.com/watch?v=Lk9wECZnRmc) (Astrid the Adventurous vs. Barnacle Bertram) at the *[[Theatres/Institution Theater|Institution Theater]]*.
+* [2/12/16 performance](http://www.youtube.com/watch?v=gmC1GaQHNds) (Countess Crescendo vs. Sahib Akbar) at the *[[Theatres/Institution Theater|Institution Theater]]*.
+* [2/19/16 performance](http://www.youtube.com/watch?v=lrptdq3a6ME)  (LaCere Zatara vs. Briny Bob Bilgewater) at the *[[Theatres/Institution Theater|Institution Theater]]*.
+* [2/26/16 performance](http://www.youtube.com/watch?v=CkA8wf3hNQM) (Henrietta Dempsey vs. Convel Tiburon) at the *[[Theatres/Institution Theater|Institution Theater]]*.
+* [3/4/16 performance](http://www.youtube.com/watch?v=yymPOsVkbPo) (The Bonnie Sisters vs. Captain Blake) at the *[[Theatres/Institution Theater|Institution Theater]]*.
+* [3/11/16 performance](http://www.youtube.com/watch?v=19gs2R6TU3w) (Francesca the Fierce vs. Captain Finch) at the *[[Theatres/Institution Theater|Institution Theater]]*.
 
 #### Promotions
 * [Teaser video](http://www.youtube.com/watch?v=uOGg6160ca8)

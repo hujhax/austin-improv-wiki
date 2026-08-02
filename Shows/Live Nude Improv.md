@@ -12,7 +12,7 @@ __NOINDEX__
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -88,7 +88,7 @@ __NOINDEX__
 	</table>
 </div>
 
-***Live Nude Improv*** (also referred to as the ***Live Summer Show***) was a mainstage show at [[The Hideout Theatre]]. 
+***Live Nude Improv*** (also referred to as the ***Live Summer Show***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. 
 
 ## Summary
 *Live Nude Improv* acted under the conceit that the Hideout was about to put on a play, that all the attendees -- cast and audience alike -- had been cast in this play, and that they had all arrived at the final rehearsal for that play.  In actuality, there was no play, and the attendees were collectively making everything up as they went along.

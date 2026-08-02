@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -31,7 +31,7 @@
 	</table>
 </div>
 
-***The Hideout Holiday Super Special*** was an anthology of Christmas-themed performances of previous mainstage shows at [[The Hideout Theatre]].
+***The Hideout Holiday Super Special*** was an anthology of Christmas-themed performances of previous mainstage shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Schedule
 * 11/6/10: *[[Shows/Start Trekkin'|Start Trekkin']]*

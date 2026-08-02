@@ -1,4 +1,4 @@
-Building Connections is a program of improv classes taught at [[The Hideout Theater]] for students with special needs, including at-risk youth and youth on the Autism Spectrum.
+Building Connections is a program of improv classes taught at [[Theatres/The Hideout Theater|The Hideout Theater]] for students with special needs, including at-risk youth and youth on the Autism Spectrum.
 
 ## Summary
 Many of the skills involved in improv (communication, self-expression, listening, co-creating ideas, spontaneity, flexibility, etc.) have a direct relation to many of the skills that at-risk youth and children/young adults on the autism spectrum need to develop. Many parents have reported a multitude of positive effects from their children's involvement in the program.
@@ -37,7 +37,7 @@ The following improvisers have all served as co-teachers for the program.
 * [[Bonnie Dibler]]
 
 ## History
-After a meeting with local AIC improvisers [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Chris Albano|Chris Albano]], and [[Performers/Bridget Brewer|Bridget Brewer]], the Special Needs Improv Program (later dubbed Building Connections) was created by Social Worker and improviser [[Performers/Lacy Shawn|Lacy Shawn]] and [[The Hideout Theater]]'s Children's Programs Coordinator, [[Performers/Jessica Arjet|Jessica Arjet]].
+After a meeting with local AIC improvisers [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Chris Albano|Chris Albano]], and [[Performers/Bridget Brewer|Bridget Brewer]], the Special Needs Improv Program (later dubbed Building Connections) was created by Social Worker and improviser [[Performers/Lacy Shawn|Lacy Shawn]] and [[Theatres/The Hideout Theater|The Hideout Theater]]'s Children's Programs Coordinator, [[Performers/Jessica Arjet|Jessica Arjet]].
 
 The first classes were offered in 2013, and were six weeks in length. Classes catered to pre-teens and teens on the Autism Spectrum.
 

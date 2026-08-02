@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,10 +22,10 @@
 **Madeline Jo Chauvin** is an improv performer.
 
 ## Summary
-Jo performs regularly in Austin, mostly improv, but some scripted work and hosting as well.  She also produces and directs, and has TA'd at The Institution and Hideout theatres. Jo is on the faculty of [[The Institution Theater]] as a Level 101 teacher.
+Jo performs regularly in Austin, mostly improv, but some scripted work and hosting as well.  She also produces and directs, and has TA'd at The Institution and Hideout theatres. Jo is on the faculty of [[Theatres/The Institution Theater|The Institution Theater]] as a Level 101 teacher.
 
 ## History
-Jo first got into improv when she took the very first class offered by [[The Institution Theater]].  Since then, she's trained at the Institution Theater and [[The Hideout Theatre]].  She has taken workshops with Austin visitors Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, Zach Ward, Jill Bernard, and others.
+Jo first got into improv when she took the very first class offered by [[Theatres/The Institution Theater|The Institution Theater]].  Since then, she's trained at the Institution Theater and [[Theatres/The Hideout Theatre|The Hideout Theatre]].  She has taken workshops with Austin visitors Keith Johnstone, Laura Hall, Dave Sheridan, Mark Beltzman, Zach Ward, Jill Bernard, and others.
 
 Jo is excited that she was able to perform in London with C3467X in 2013.  Sure, it was just once, but it makes her an international performer!
 

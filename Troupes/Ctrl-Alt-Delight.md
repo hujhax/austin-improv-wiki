@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-:''This page refers to the defunct all-male troupe consisting of ex-members of [[Troupes/Continental Breakfast|Continental Breakfast]].  For the current, all-female [[ColdTowne]] troupe, see [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]].
+:''This page refers to the defunct all-male troupe consisting of ex-members of [[Troupes/Continental Breakfast|Continental Breakfast]].  For the current, all-female [[Theatres/ColdTowne|ColdTowne]] troupe, see [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]].
 **Ctrl-Alt-Delight** was an improv troupe consisting of ex-members of [[Troupes/Continental Breakfast|Continental Breakfast]].
 
 ## Summary
@@ -78,7 +78,7 @@
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
 <blockquote><p>Ctrl-Alt-Delight is the original four-man venture of Austin natives Jonathan Euseppi, Mike Sullivan, Gary Pascal, and Hugo Vargas-Zesati. Beginning with a single audience suggestion, the show is free to explore any subject matter. It is at times grounded in reality, at times absurd, and always fast-paced and fun.</p>
 
-<p>Jonathan, Mike, Gary, and Hugo first began performing together in 2009 as members of [[Troupes/Continental Breakfast|Continental Breakfast]]. Their styles and personalities instantly drew them together and soon after, Ctrl-Alt-Delight was created. Despite now being split between Austin and Chicago, Ctrl-Alt-Delight has been able to continue performing all over Austin and at festivals such as [[The Hideout Theatre]]'s [[Festivals/Wafflefest|Wafflefest]].</p></blockquote>
+<p>Jonathan, Mike, Gary, and Hugo first began performing together in 2009 as members of [[Troupes/Continental Breakfast|Continental Breakfast]]. Their styles and personalities instantly drew them together and soon after, Ctrl-Alt-Delight was created. Despite now being split between Austin and Chicago, Ctrl-Alt-Delight has been able to continue performing all over Austin and at festivals such as [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s [[Festivals/Wafflefest|Wafflefest]].</p></blockquote>
 
 ## Media
 ## More Information

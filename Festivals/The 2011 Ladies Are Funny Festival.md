@@ -1,7 +1,7 @@
 **The 2011 Ladies Are Funny Festival** was the fifth annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 
 ## Summary
-The festival ran from 5/5/11 to 5/7/11 at [[Salvage Vanguard Theater]].
+The festival ran from 5/5/11 to 5/7/11 at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 ## Acts
 These lists are incomplete until we can find a complete schedule for the 2011 festival.

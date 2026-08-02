@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -78,10 +78,10 @@
 	</table>
 </div>
 
-***TIT Talks*** is an improv show inspired by [[Wikipedia - TED (conference)|TED Talks]]. It was named TIT Talks because its initial run of shows was at [[The Institution Theater]]. Later it had two runs of shows at [[The New Movement Theater]], during which it was renamed TNM Talks. 
+***TIT Talks*** is an improv show inspired by [[Wikipedia - TED (conference)|TED Talks]]. It was named TIT Talks because its initial run of shows was at [[Theatres/The Institution Theater|The Institution Theater]]. Later it had two runs of shows at [[Theatres/The New Movement Theater|The New Movement Theater]], during which it was renamed TNM Talks. 
 
 ## Summary
-The show ran Fridays and Saturdays at [[The Institution Theater]] from 2/28/14 to 3/22/14.
+The show ran Fridays and Saturdays at [[Theatres/The Institution Theater|The Institution Theater]] from 2/28/14 to 3/22/14.
 
 The show featured a series of 'guest lecturers', performers from all of Austin's improv theaters who performed in character, who were given random topics and PowerPoint presentations to accompany their presentation.
 
@@ -100,7 +100,7 @@ It was hosted by [[Wikipedia - KGSR|KGSR]]'s [Kristen Kurtis](http://www.kgsr.co
 * 3/22/14: Lectures from [[Performers/Emma Holder|Emma Holder]], [[Performers/Ash Nunley|Ash Nunley]], [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen|Asaf Ronen]],; performances from [[Roxy Castillo]] and [[The Balance Brothers]].
 
 ## TNM Runs
-The show ran during [[The Moontower Comedy Festival]] on April 23 and April 24, 2014 as TNM Talks at [[The New Movement Theater]]. It had another run there Friday evenings in November 2014. During that November TNM Talks performed on the Yellow Stage of Fun Fun Fun Fest on November 7th. The lectures at Fun Fun Fun Fest were from [[Performers/Drew Wesely|Drew Wesely]], [[Amy Jordan]], [[Performers/John Buseman|John Buseman]], and [[Performers/Justin Davidson|Justin Davidson]], with a musical-comedy performance from [[David Howe]]. 
+The show ran during [[The Moontower Comedy Festival]] on April 23 and April 24, 2014 as TNM Talks at [[Theatres/The New Movement Theater|The New Movement Theater]]. It had another run there Friday evenings in November 2014. During that November TNM Talks performed on the Yellow Stage of Fun Fun Fun Fest on November 7th. The lectures at Fun Fun Fun Fest were from [[Performers/Drew Wesely|Drew Wesely]], [[Amy Jordan]], [[Performers/John Buseman|John Buseman]], and [[Performers/Justin Davidson|Justin Davidson]], with a musical-comedy performance from [[David Howe]]. 
 
 ## Media
 ### Photos

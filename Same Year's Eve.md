@@ -1,7 +1,7 @@
-**Same Year's Eve** is an annual improv show/party held on December 30th at [[The Hideout Theatre]].
+**Same Year's Eve** is an annual improv show/party held on December 30th at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
-Every year on December 30th, improvisors from all around Austin descend on [[The Hideout Theatre]].  They put on a three-part show in the downstairs theater: the first act consists of games; the second part is a montage of scenes; and the third is an improvised musical narrative.  Afterwards, there is a giant party for the improvisors upstairs at the Hideout.  At midnight, everyone counts down to the "same year", and afterwards, improv notables deliver toasts to the rest of the community. While New Year's Eve is a chance to look forward to the year to come and think about new opportunities, Same Year's Eve is one last chance to celebrate the present, the year we are in, and enjoy all the year's accomplishments.
+Every year on December 30th, improvisors from all around Austin descend on [[Theatres/The Hideout Theatre|The Hideout Theatre]].  They put on a three-part show in the downstairs theater: the first act consists of games; the second part is a montage of scenes; and the third is an improvised musical narrative.  Afterwards, there is a giant party for the improvisors upstairs at the Hideout.  At midnight, everyone counts down to the "same year", and afterwards, improv notables deliver toasts to the rest of the community. While New Year's Eve is a chance to look forward to the year to come and think about new opportunities, Same Year's Eve is one last chance to celebrate the present, the year we are in, and enjoy all the year's accomplishments.
 
 A large number of improvisors from throughout the community attend the event -- in 2012, Same Year's drew some ninety performers and another hundred improvisors who just came for the party.
 

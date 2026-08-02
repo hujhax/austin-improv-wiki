@@ -25,7 +25,7 @@
 * Friday, 11pm (Hour 7): *[[Fuck This Week]]*
 * Saturday, 12am (Hour 8): [[Troupes/Physics Curse|Physics Curse]] 
 * Saturday, 1am (Hour 9): [[Run the Fools]]
-* Saturday, 2am (Hour 10): The Bat, from [[Coldtowne Theater]]
+* Saturday, 2am (Hour 10): The Bat, from [[Theatres/Coldtowne Theater|Coldtowne Theater]]
 	* "Improv in the dark... AKA a cruel trick to play on the Marathoners"
 * Saturday, 3am (Hour 11): *[[Shows/Control Issues|Control Issues]]*
 * Saturday, 4am (Hour 12): Intimate Portraits

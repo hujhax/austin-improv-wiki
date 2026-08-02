@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,9 +22,9 @@
 **Jayme Ramsay** is an improv performer and director.
 
 ## History
-Jayme first started taking improv classes at [[The Hideout Theatre]] in early 2011.
+Jayme first started taking improv classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in early 2011.
 
-Since then, she's also studied at [[Coldtowne Theater]] and [[The Institution Theater]].
+Since then, she's also studied at [[Theatres/Coldtowne Theater|Coldtowne Theater]] and [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Troupes
 * [[Troupes/Monster|Monster]]
