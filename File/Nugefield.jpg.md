@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Nugefield.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Troupes/Nugefield|Nugefield]] performing in [[Shows/Love Fest|Love Fest]] at [[The Institution Theater]] on 2/8/13.
+[[Troupes/Nugefield|Nugefield]] performing in [[Festival/Love Fest|Love Fest]] at [[The Institution Theater]] on 2/8/13.
 
 Photo by [[Performers/Claudio Fox|Claudio Fox]], from [this photoset](http://www.facebook.com/media/set/?set=a.534099176611582.117854.100000345135257&type=3).
 ## Licensing

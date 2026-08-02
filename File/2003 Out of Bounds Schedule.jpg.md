@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="2003 Out of Bounds Schedule.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The schedule/program for [[The 2003 Out of Bounds Comedy Festival]].
+The schedule/program for [[Festival/The 2003 Out of Bounds Comedy Festival|The 2003 Out of Bounds Comedy Festival]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

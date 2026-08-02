@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Wafflefest ad.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-A promotional image for the 2012 [[Wafflefest]].
+A promotional image for the 2012 [[Festival/Wafflefest|Wafflefest]].
 
 The photo, a close-up of [[Performers/Ted Rutherford|Ted Rutherford]] staring at a waffle, has been part of the festival's promotional materials for years.
 

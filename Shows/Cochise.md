@@ -198,7 +198,7 @@ The show included over-the-top 70s costumes and many fake moustaches.
 ## History
 The name "Cochise" is a reference to a character in the Beastie Boys video "Sabotage", which traffics in the same genre as the improv show.
 
-The show premiered at [[The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
+The show premiered at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]], and then ran as [[The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[The 40-Hour Improv Marathon]].
 
 It returned in 2014 for a June/July run as one of the first [[Hideout Student Mainstage]] shows.
 
@@ -236,7 +236,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [Photoset](http://www.facebook.com/media/set/?set=a.759506387446213.1073742028.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
 
 ### Videos
-* [Video of the premiere performance of *Cochise*](http://www.youtube.com/watch?v=gHYDvzQKeoM) at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video of the premiere performance of *Cochise*](http://www.youtube.com/watch?v=gHYDvzQKeoM) at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 	* [Another video](http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040) of the same show.
 * [Video of the first performance of the first run: "Bad Santa".](http://youtu.be/04yQnI0n7rg)
 * [Video of the second performance of the first run: "Something Smells at the Docks".](http://www.youtube.com/watch?v=b6IpnJBVM34)

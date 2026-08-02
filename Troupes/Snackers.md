@@ -75,7 +75,7 @@
 ## History
 The troupe's members met in [[Performers/Shana Merlin|Shana Merlin]]'s improv classes at [[The State Theater]] in 2006 and 2007.  The troupe began in September 2007.  In 2008, they founded *[[Shows/The Monday Night Mash|The Monday Night Mash]]*, which [[Albert Im]] has arranged for them to host at [[Kick Butt Coffee]].  In 2010, they played the Black Box Comedy Festival in Atlanta, Georgia.
 
-In 2015 they had a one-off reunion show at [[The 2015 Out of Bounds Comedy Festival]], sans [[Performers/Mark Carpenter|Mark Carpenter]]. 
+In 2015 they had a one-off reunion show at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]], sans [[Performers/Mark Carpenter|Mark Carpenter]]. 
 
 ### Formats
 After an initial run that performed the Living Room format, the troupe performed a series of formats that drew inspiration from television, movies, and books:
@@ -88,10 +88,10 @@ After an initial run that performed the Living Room format, the troupe performed
 ## Media
 ![[SnackersLogo.gif|The Snackers logo.]]
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of their 8/27/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/10114708) of their 4/9/09 show at [[The Hideout Theatre]].
 * [Video](http://vimeo.com/10116013) of an August 2009 "The Snackers Club" show.
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of Snackers' show at [[The 2009 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of Snackers' show at [[Festival/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/10979117) of their 4/12/10 show at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 * [Video](http://vimeo.com/12660638) of their 6/14/10 "Roommates" show.
 * [Video](http://vimeo.com/16599368) of their 7/5/10 "Roommates" show.
@@ -104,11 +104,11 @@ After an initial run that performed the Living Room format, the troupe performed
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/7/10 show in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3) by [[Roy Moore]] that includes their 8/28/10 performance at [[Salvage Vanguard Theater]].
 	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.482835317264.261188.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346859923444.2043492.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346859923444.2043492.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 performance in [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.481887097264.251803.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[Wafflefest]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[Festival/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/11 performance at [[Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.1035268833203299.1073742249.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/15 reunion show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1035268833203299.1073742249.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/15 reunion show at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## Promos
 * Promo for ["The Snackers Club"](http://vimeo.com/9898672).

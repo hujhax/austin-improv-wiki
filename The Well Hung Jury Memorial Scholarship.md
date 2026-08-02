@@ -1,4 +1,4 @@
-**The [[Troupes/Well Hung Jury|Well Hung Jury]] Memorial Scholarship** was a contest associated with [[The Out Of Bounds Comedy Festival]] from 2006 to 2010.  In it, applicants would propose improv show ideas.  The best entrant would win an all-access pass to the Out of Bounds Festival.
+**The [[Troupes/Well Hung Jury|Well Hung Jury]] Memorial Scholarship** was a contest associated with [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] from 2006 to 2010.  In it, applicants would propose improv show ideas.  The best entrant would win an all-access pass to the Out of Bounds Festival.
 
 ## Summary
 ### The Rules

@@ -24,7 +24,7 @@
 ## History
 Julie started doing improv in Austin in 2004, joined [[Troupes/Girls Girls Girls|Girls Girls Girls]] in 2005, and performed longform narrative with [[Gnap! Theater Projects]] and [[The Hideout Theatre]] from then until early 2012.
 
-She produced  [[The Ladies Are Funny Festival]] from its inception until 2012, and currently produces *[[Bedpost Confessions]]*.
+She produced  [[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]] from its inception until 2012, and currently produces *[[Bedpost Confessions]]*.
 
 ## Troupes
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
@@ -41,8 +41,8 @@ She produced  [[The Ladies Are Funny Festival]] from its inception until 2012, a
 
 ## Festivals
 * The Dirty South Improv Festival
-* [[The Ladies Are Funny Festival]] (producer)
-* [[The Out Of Bounds Comedy Festival]]
+* [[Festival/The Ladies Are Funny Festival|The Ladies Are Funny Festival]] (producer)
+* [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
 
 [[Category/Performers|Gillis]]
 [[Category/Directors|Gillis]]

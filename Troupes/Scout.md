@@ -90,7 +90,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [Video](http://vimeo.com/49200779) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 9/8/12 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 performance in [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 performance in [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 9/19/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
 ## More Information

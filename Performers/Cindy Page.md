@@ -25,7 +25,7 @@
 
 She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
 
-She was Technical Director for the [[Out of Bounds Comedy Festival]] from 2013-2017.
+She was Technical Director for the [[Festival/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] from 2013-2017.
 
 ## Troupes
 * [[Troupes/Indigo Shift|Indigo Shift]]

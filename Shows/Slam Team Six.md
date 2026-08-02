@@ -90,7 +90,7 @@
 <blockquote>"A group of America's most beloved professional wrestlers use their athletic prowess and 'powers' outside of the ring to fight crime, help children, and protect the environment. The wrestlers will face the challenges of the nefarious plots of other evil villainous wrestlers, the temptations that risk leading them astray from being a good example for kids to look up to, and maybe worst of all their own distractibility. Presented like a kids show, but likely not appropriate for kids to actually watch, this show will be a wild blend of fantasy and reality. This show is produced by Cody Dearing and directed by Lance Gilstrap."</blockquote>
 
 ## History
-The show returned for performances including an exhibition match in the 2014 [[Shows/TheatreSports|TheatreSports]] run as well as [[The 2014 Out of Bounds Comedy Festival]].
+The show returned for performances including an exhibition match in the 2014 [[Shows/TheatreSports|TheatreSports]] run as well as [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ## Media
 * [Photoset](http://www.facebook.com/media/set/?set=a.711697908893728.1073741982.221927764537414&type=3) by [[Steve Rogers]] of the 4/5/14 show.

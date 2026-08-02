@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Backpack Picnic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Mitch Baker]] and [[David Bewley]], performing in [[Troupes/Backpack Picnic|Backpack Picnic]]'s reunion show at [[The 2013 Out of Bounds Comedy Festival]].
+[[Mitch Baker]] and [[David Bewley]], performing in [[Troupes/Backpack Picnic|Backpack Picnic]]'s reunion show at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 Photo by [[Performers/Peter Rogers|Peter Rogers]], from [this photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322).
 ## Licensing

@@ -91,7 +91,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 * [Video](http://vimeo.com/29301143) by [[Performers/Liz Brammer|Liz Brammer]] of their September (or October?) 2011 show at [[The Hideout Theatre]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Elevator-Action/118653538185457)

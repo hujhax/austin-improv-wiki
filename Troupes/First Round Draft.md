@@ -86,7 +86,7 @@ One of their formats was "Fast Forward", a montage show with no scene lasting lo
 * [Photoset of their 8/11/2002 "Fast Forward" performance.](http://www.facebook.com/media/set/?set=a.19100722264.15332.588952264&type=1)
 
 ### Videos
-* [Video of their sketch show](http://vimeo.com/17168162) from [[The 2003 Out of Bounds Comedy Festival]].
+* [Video of their sketch show](http://vimeo.com/17168162) from [[Festival/The 2003 Out of Bounds Comedy Festival|The 2003 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [First Round Draft homepage.](http://firstrounddraft.austinimprov.com/)

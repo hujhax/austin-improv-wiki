@@ -87,7 +87,7 @@ The show began under the direction of [[Performers/Jon Bolden|Jon Bolden]]. It h
 * [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.4854500043112.1073741837.1315383518&type=3) by [[Michael Yew]] of the 6/7/13 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4944587095232.1073741839.1315383518&type=3) by [[Michael Yew]] which includes the 6/21/13 performance in [[The 44-Hour Improv Marathon]].
 * [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200260764744528.1073741842.1315383518&type=3) by [[Michael Yew]] of the 8/2/13 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3) by [[Michael Yew]] which includes the 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3) by [[Michael Yew]] which includes the 8/31/13 performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200445657486731.1073741852.1315383518&type=3) by [[Michael Yew]] of the 9/6/13 performance.
 * [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200613154194044.1073741860.1315383518&type=3) by [[Michael Yew]] of the 10/4/13 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768087147271.1073741862.1315383518&type=3) by [[Michael Yew]] of the 11/1/13 show.

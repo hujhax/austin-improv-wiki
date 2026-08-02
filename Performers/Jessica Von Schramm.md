@@ -98,10 +98,10 @@ Jessica von Schramm started taking improv classes at [[The Hideout Theatre]] in 
 * *[[Speak No More]]*
 
 ## Festivals
-* [[The 2015 Improvised Play Festival]]
+* [[Festival/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]]
 * [[2015 Boston Comedy Arts Festival]]
-* [[The 2015 Out of Bounds Comedy Festival]]
-* [[WaffleFest 2015]]
+* [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]]
+* [[Festival/WaffleFest 2015|WaffleFest 2015]]
 * [[FronteraFest 2016]]
 * [[2016 Houston Improv Festival]]
 * [[The Big Sexy 8 Improv Fest]]

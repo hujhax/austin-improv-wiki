@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-This is their bio from the [[2012 Out of Bounds]] site:
+This is their bio from the [[Festival/2012 Out of Bounds|2012 Out of Bounds]] site:
 <blockquote>"[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Curtis Luciani|Curtis Luciani]] are two Austin improvisers and good friends who like to make the people laugh, squirm, think, cry, and experience other wonderful and/or troubling things. They frequently explore gender and relationships in their improvisation while delighting, surprising, and disgusting each other as much as they possibly can. TA&TM have been performing regularly since 2009, including two month-long residences at The Hideout Theatre in 2011 and 2012. Their 'Fitzgeralds For Hire' show won them a Best of Fest accolade at the 2011 FronteraFest Fringe Festival."</blockquote>
 
 ## History
@@ -111,20 +111,20 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12  "Catchin' Frogs" show at the *[[Shows/Free Fringe|Free Fringe]]*.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.415574365130731.94045.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/17/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance of "Tennessee Williams, Performed By Robots" in [[The 43-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/30/12 "Catchin' Frogs" performance at [[The 2012 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[Wafflefest]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/30/12 "Catchin' Frogs" performance at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[Festival/Wafflefest|Wafflefest]].
 	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151908985107265.1073741836.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/28/13 "Fitzgeralds for Hire" show at *[[The 2013 Out of Bounds Comedy Festival]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151908985107265.1073741836.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/28/13 "Fitzgeralds for Hire" show at *[[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festival/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152299683852107.1073741832.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their 4/16/14 "F. Scott and Zelda Fitzgerald Save The World" show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201747442190535.1073741886.1315383518&type=3) by [[Michael Yew]] of the 4/21/14 performance of "F. Scott and Zelda Fitzgerald Save the World".
 * [Photoset](http://www.facebook.com/media/set/?set=a.723690821027770.1073741992.221927764537414&type=3) by [[Steve Rogers]] of their 4/27/14 "F. Scott and Zelda Fitzgerald Save The World!" show.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes their 6/12/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.826962494033935.1073742094.221927764537414&type=3) by [[Steve Rogers]] of their 10/16/14 show at *[[Shows/The Threefer|The Threefer]]*
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202729046970041.1073741910.1315383518&type=3) by [[Michael Yew]] that includes their 10/3/14 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.846434505420067.1073742115.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203901007388319.1073741933.1315383518&type=3) by [[Michael Yew]] of the "F. Scott and Zelda Fitzgerald Save the World" performance at [[The 2015 Improvised Play Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.1033833950013454.1073742246.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/4/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.846434505420067.1073742115.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203901007388319.1073741933.1315383518&type=3) by [[Michael Yew]] of the "F. Scott and Zelda Fitzgerald Save the World" performance at [[Festival/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1033833950013454.1073742246.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/4/15 performance in [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Amazon and the Milksop]]
 [[Category/Active|Amazon and the Milksop]]

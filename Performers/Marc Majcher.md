@@ -119,37 +119,37 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 ## Festivals
 * The 2007 Frontera Fest Short Fringe
 	* with [[Troupes/Improv For Evil|Improv For Evil]]
-* [[The 2007 Out of Bounds Comedy Festival]]
+* [[Festival/The 2007 Out of Bounds Comedy Festival|The 2007 Out of Bounds Comedy Festival]]
 	* With [[Troupes/Improv For Evil|Improv For Evil]]
-* [[Wafflefest]]
+* [[Festival/Wafflefest|Wafflefest]]
 	* With [[Troupes/Improv For Evil|Improv For Evil]]
 * The 2008 Frontera Fest Short Fringe
 	* with [[Troupes/Improv For Evil|Improv For Evil]]
-* [[The 2008 Out of Bounds Comedy Festival]]
+* [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]]
 	* With [[Troupes/Improv For Evil|Improv For Evil]] and *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * The 2009 Frontera Fest Long Fringe
 	* With *[[Shows/Cochise|Cochise]]*
-* [[The 2009 Out of Bounds Comedy Festival]]
+* [[Festival/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]]
 	* With [[Troupes/Improv For Evil|Improv For Evil]]
 * [[The 41-Hour Improv Marathon]]
-* [[The 2010 Out of Bounds Comedy Festival]]
+* [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]]
 	* With *[[Shows/Austin Secrets|Austin Secrets]]* and [[Troupes/Improv For Evil|Improv For Evil]]
-* [[The 2011 Improvised Play Festival]]
+* [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]]
 	* With *[[Shows/False Matters|False Matters]]*, *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*, [[Troupes/The Plagiarists|The Plagiarists]], and *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
-* [[The 2011 Out of Bounds Comedy Festival]]
+* [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]]
 	* With [[Troupes/The Asides|The Asides]] and [[Troupes/Improv For Evil|Improv For Evil]]
 * Improvaganza Improv Festival 2011 (Honolulu)
 	* With [[Troupes/MmmmK|MmmmK]]
-* [[The 2012 Improvised Play Festival]]
+* [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]]
 	* With *[[Shows/After School Improv|After School Improv]]*, [[Troupes/The Escorts|The Escorts]], *[[Shows/Process|Process]]*, *[[Shows/Spirited|Spirited]]*, and *[[Shows/Steam|Steam]]*
 * [[The 43-Hour Improv Marathon]]
 * The Del Close Marathon 2012 (New York)
 	* With [[Troupes/The Escorts|The Escorts]]
-* [[The 2012 Out of Bounds Comedy Festival]]
+* [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]]
 	* With [[Troupes/The Escorts|The Escorts]], *[[Shows/False Matters|False Matters]]*, [[Troupes/Improv For Evil|Improv For Evil]], *[[Shows/Manhattan Stories|Manhattan Stories]]*, *[[Shows/Process|Process]]*, and *[[Shows/Spirited|Spirited]]*
 * The 2012 Frontera Fest Short Fringe
 	* in *Linear Perspectives* by [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]]
-* [[The 2013 Improvised Play Festival]]
+* [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]]
 	* With *[[Shows/The Black Vault|The Black Vault]]*, [[Troupes/The Escorts|The Escorts]], *[[Shows/False Matters|False Matters]]*, *[[Shows/Live Nude Improv|Live Nude Improv]]*, *[[Shows/Strange Worlds|Strange Worlds]]*, and *[[Shows/The Tribunal|The Tribunal]]*
 * The 2013 Unscripted New York Festival
 	* With *[[Shows/Strange Worlds|Strange Worlds]]*

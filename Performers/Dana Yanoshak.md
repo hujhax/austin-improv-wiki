@@ -33,7 +33,7 @@
 * *[[Shows/Dusk|Dusk]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
-* *[[Shows/Love Fest|Love Fest]]*
+* *[[Festival/Love Fest|Love Fest]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*
 * *[[Shows/Seance|Seance]]*
 * *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]* (Co-Director and Cast)

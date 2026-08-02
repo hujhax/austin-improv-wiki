@@ -73,7 +73,7 @@
 **Three Hot Chicks** was an improv troupe active in Austin in 2011. They performed an improvised sitcom, with pre-established characters.
 
 ## History
-Three Hot Chicks was founded by [[Joel Ausanka Reese]] after he attended the [[Out of Bounds Comedy Festival]] in 2010. A sitcom-based format was decided upon during rehearsals, and the troupe had their first show at the [[Hideout Theatre]] on February 3, 2011.
+Three Hot Chicks was founded by [[Joel Ausanka Reese]] after he attended the [[Festival/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] in 2010. A sitcom-based format was decided upon during rehearsals, and the troupe had their first show at the [[Hideout Theatre]] on February 3, 2011.
 
 Three Hot Chicks appeared in [[The 42-Hour Improv Marathon]].
 

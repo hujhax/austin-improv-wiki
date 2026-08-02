@@ -1,4 +1,4 @@
-**Played Their Last Show at Out of Bounds** is a category listing of all the troupes who played their final show in [[The Out Of Bounds Comedy Festival]].
+**Played Their Last Show at Out of Bounds** is a category listing of all the troupes who played their final show in [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 
 ## Pages in category "Played Their Last Show at Out of Bounds"
 

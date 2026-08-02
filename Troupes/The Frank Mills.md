@@ -143,14 +143,14 @@ and many of their students
 
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3) by [[Roy Moore]] that includes their 11/19/11 performance at [[Wafflefest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3) by [[Roy Moore]] that includes their 11/19/11 performance at [[Festival/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.383629978367191.91509.221927764537414&type=3) by [[Steve Rogers]] that includes their 6/16/12 "Goodbye Justin and Teresa" show at [[Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance with [[Troupes/Squirrel Buddies|Squirrel Buddies]] in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.470860206310834.113818.221927764537414&type=3) by [[Steve Rogers]] of their 1/5/13 performance at [[Coldtowne Theater]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festival/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.756154667781385.1073742023.221927764537414&type=3)  by [[Steve Rogers]] of their June 2014 performance in [[The 45-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105046990502450.1073741875.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105046990502450.1073741875.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of their 8/29/14 performance in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.846569622073222.1073742116.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204341364356968.1073741954.1315383518&type=3) by [[Michael Yew]] that includes their 6/20/15 show in [[The 46-Hour Improv Marathon]].
 
 ## More Information

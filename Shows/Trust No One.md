@@ -158,7 +158,7 @@ In materials promoting this show, the Institution Theater's [[Wikipedia - View-M
 * [Video](http://vimeo.com/97423820) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/16/14 show ("McDonald's").
 * [Video](http://vimeo.com/99802772) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/23/14 show ("The WWF").
 * [Video](http://vimeo.com/103899880) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/30/14 show ("Yoga").
-* [Video](http://vimeo.com/108304056) of their performance in [[The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/108304056) of their performance in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.821067607923726.1073741871.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
@@ -166,7 +166,7 @@ In materials promoting this show, the Institution Theater's [[Wikipedia - View-M
 * [Photoset](http://www.facebook.com/media/set/?set=a.730270493703136.1073741996.221927764537414&type=3) by [[Steve Rogers]] of the 5/9/14 show.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 5/30/14 finale.
 	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104756360422460.1073741867.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]]
+* [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]]
 
 ### Publicity
 * [Show promo.](http://vimeo.com/83458031)

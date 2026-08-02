@@ -118,7 +118,7 @@ Each night of the show had a different guest author. An author was interviewed, 
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/The-Next-Chapter/2013-06-08-Next-Chapter/) by [[Performers/Chad Wellington|Chad Wellington]] of the 6/8/13 show.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/The-Next-Chapter/2013-06-22-Next-Chapter/) by [[Performers/Chad Wellington|Chad Wellington]] of the 6/22/13 show.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/The-Next-Chapter/2013-06-29-The-Next-Chapter/) by [[Performers/Chad Wellington|Chad Wellington]] of the 6/29/13 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.715439391852913.1073741988.221927764537414&type=3) by [[Steve Rogers]] of the 4/12/14 show at [[The 2014 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.715439391852913.1073741988.221927764537414&type=3) by [[Steve Rogers]] of the 4/12/14 show at [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 
 ## More Information
 * [An *Austin Chronicle* interview](http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/) with director [[Performers/Justin Bozied|Justin Bozied]] by [[Wayne Allen Brenner]].

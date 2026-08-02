@@ -45,7 +45,7 @@ Curtis was a core performer in both [[The 40-Hour Improv Marathon]] and [[The 41
 * *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]* (co-director)
 
 ## Media
-* [A video](http://youtu.be/buYJ8CoEZPQ) of Curtis roasting [[Performers/Tom Booker|Tom Booker]] at [[The 2011 Out of Bounds Comedy Festival]].
+* [A video](http://youtu.be/buYJ8CoEZPQ) of Curtis roasting [[Performers/Tom Booker|Tom Booker]] at [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Performers|Luciani]]
 [[Category/Directors|Luciani]]

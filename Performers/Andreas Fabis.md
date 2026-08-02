@@ -49,7 +49,7 @@ A post from him about the first improv show he ever saw:<blockquote>It was [[Tro
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
 * *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]*
-* *[[Shows/Love Fest|Love Fest]]*
+* *[[Festival/Love Fest|Love Fest]]*
 * *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Mischief Managed]]*
 * *[[Mission Kid Possible]]*

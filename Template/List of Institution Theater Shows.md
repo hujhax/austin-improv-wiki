@@ -24,7 +24,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 * *[[Shows/The Ladies Room|The Ladies Room]]*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]*
-* *[[Shows/Love Fest|Love Fest]]*
+* *[[Festival/Love Fest|Love Fest]]*
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]*
 * *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]* (2013)
 * *[[Shows/The Next Chapter|The Next Chapter]]* (2013)

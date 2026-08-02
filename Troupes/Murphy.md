@@ -82,11 +82,11 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[The Hideout Theatre]]:<blockquote>you know our deal by now, we move around and play fearlessly. </blockquote>
 
 ## History
-The troupe played [[The Out Of Bounds Comedy Festival]] in 2008, 2009, and 2010.
+The troupe played [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] in 2008, 2009, and 2010.
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/murphy-wed-8pm-svt-oranges-stage-1266242) of their 8/27/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/murphy-wed-8pm-svt-oranges-stage-1266242) of their 8/27/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/48428583) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Darts" show (uploaded 8/29/12).
 * [Video](http://vimeo.com/49200777) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Rhubarb Pie" show (uploaded 9/10/12).
 * [Video](http://vimeo.com/51454119) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Banana" show (uploaded 10/15/12).

@@ -298,7 +298,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.132316345323.219868.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their 2005 trip to Las Vegas.
 * [A photoset from season 5.](http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1)
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/26/09 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/3/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/3/10 performance at [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 11/6/10 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/28/10 performance at [[The Highball]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1449103279464.2057829.1589679282&type=3) by [[Roy Moore]] which includes their 12/5/10 performance at [[The Highball]].
@@ -308,14 +308,14 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [A photoset](http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3) by [[Steve Rogers]] of the 1/14/12 performance.
 * [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] that includes the 2/25/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) from [[Steve Rogers]], [and another](http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3)  from [[Michael Yew]], of the 3/8/12 *[[Shows/Free Fringe|Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
-* [A photoset](http://www.facebook.com/media/set/?set=a.415641555166033.100932.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/1/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.415641555166033.100932.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/1/12 performance at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.572351752828345.1073741903.221927764537414&type=3) by [[Steve Rogers]] of their 7/27/13 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204337420658378.1073741950.1315383518&type=3) by [[Michael Yew]] that includes their 6/19/15 show in [[The 46-Hour Improv Marathon]].
 
 ### Publicity
 * [Poster from the first season.](http://www.facebook.com/photo.php?fbid=10150909128745324&set=a.10150909128715324.748114.503270323&type=3&theater)
-* [Video of an audience-participation "Kobayashi Maru" scene](http://youtu.be/WoGBGHe9Cms) from their performance in [[The 2009 Out of Bounds Comedy Festival]].
+* [Video of an audience-participation "Kobayashi Maru" scene](http://youtu.be/WoGBGHe9Cms) from their performance in [[Festival/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]].
 * Promo videos for season six by [[Performers/Troy Miller|Troy Miller]]: ["Alien Love"](http://youtu.be/7cL_KoQWAns), ["Fight"](http://youtu.be/JLhH3VF_EJI), ["Sacrifices"](http://youtu.be/z9fCC3ZG2io), ["The Landing Party" (version 1)](http://youtu.be/jE3goOhutlQ), and ["The Landing Party" (version 2)](http://youtu.be/Apynw0GNH2o).
 * [A 2011 video compilation of *Start Trekkin*' fight scenes.](http://vimeo.com/20415485)
 

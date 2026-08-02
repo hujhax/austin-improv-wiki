@@ -92,7 +92,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 * [Video](http://vimeo.com/14188286) of their 8/16/10 performance at [[The Hideout Theatre]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3) by [[Steve Rogers]] that includes their 8/30/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3) by [[Steve Rogers]] that includes their 8/30/11 performance in [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/TheAsides)

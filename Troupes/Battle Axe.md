@@ -74,8 +74,8 @@
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1248422942581.2030635.1589679282&type=3) by [[Roy Moore]] that includes their 5/7/10 performance in [[The 2010 Ladies Are Funny Festival]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their performance in [[The 2011 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1248422942581.2030635.1589679282&type=3) by [[Roy Moore]] that includes their 5/7/10 performance in [[Festival/The 2010 Ladies Are Funny Festival|The 2010 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their performance in [[Festival/The 2011 Ladies Are Funny Festival|The 2011 Ladies Are Funny Festival]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3) by [[Roy Moore]] that includes their 8/4/11 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]

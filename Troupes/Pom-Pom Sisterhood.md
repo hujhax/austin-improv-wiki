@@ -78,7 +78,7 @@ They did long-form shows which started from a group scene with the characters in
 ## History
 Their first show was on 4/10/08.
 
-Shortly afterwards, they played in [[The 2008 Ladies Are Funny Festival]].
+Shortly afterwards, they played in [[Festival/The 2008 Ladies Are Funny Festival|The 2008 Ladies Are Funny Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

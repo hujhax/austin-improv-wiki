@@ -187,7 +187,7 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [Photoset of the 7/24/10 performance](http://www.facebook.com/media/set/?set=a.1312211897265.2037682.1589679282&type=3) by [[Roy Moore]].
 * [Photoset of the 7/30/10 performance](http://www.facebook.com/media/set/?set=a.1318253328297.2039065.1589679282&type=3) by [[Roy Moore]].
 * [Photoset of the 7/31/10 performance](http://www.facebook.com/media/set/?set=a.1322083704054.2039353.1589679282&type=3) by [[Roy Moore]].
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/4/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150258545585324.492830.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/4/10 performance in [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 
 ### Publicity
 * [Promotional photos for the 2010 run.](http://www.facebook.com/media/set/?set=a.405946063310.181500.16782108310&type=3)

@@ -156,7 +156,7 @@ Early takes on the format appeared under the title "Holy Sleep Deprivation, Batm
 
 [[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Deano Jones|Deano Jones]] appeared live on [[Wikipedia - KEYE-TV|KEYE-TV]] on 5/11/11 to promote the show.
 
-The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]].  Its mainstage run included appearances in [[The 42-Hour Improv Marathon]] and [[The 2011 Improvised Play Festival]].
+The show sold out all 10 weeks of its mainstage run at [[The Hideout Theatre]].  Its mainstage run included appearances in [[The 42-Hour Improv Marathon]] and [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 
 After its mainstage performances, it had its run extended for two weeks, played two special Halloween shows, and headlined the Black Box Comedy Festival in Atlanta, all in 2011.
 
@@ -164,7 +164,7 @@ On 2/28/13, [[Performers/Eric Heiberg|Eric Heiberg]] and [[Performers/Curtis Luc
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/26134586) of their performance in [[The 2011 Improvised Play Festival]].
+* [Video](http://vimeo.com/26134586) of their performance in [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 
 ### Photos
 * [Publicity photos for the mainstage run.](http://www.facebook.com/media/set/?set=a.10150154016553510.295261.24535278509&type=3)
@@ -175,7 +175,7 @@ On 2/28/13, [[Performers/Eric Heiberg|Eric Heiberg]] and [[Performers/Curtis Luc
 * [Photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes the 5/28/11 performance, featuring guest villain [[Performers/Tom Booker|Tom Booker]] (as "The Toupee").
 	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100853951601020.3219630.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/11/11 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/2/11 performance in [[The 2011 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/2/11 performance in [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.2293079139641.122397.1628915954&type=3) posted by [[Performers/Deano Jones|Deano Jones]] of their Black Box Festival performance in Atlanta
 
 ### Other

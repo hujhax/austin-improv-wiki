@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-This is their bio from the [[2012 Out of Bounds]] web site:
+This is their bio from the [[Festival/2012 Out of Bounds|2012 Out of Bounds]] web site:
 <blockquote><p>"Jorak and Jorak are two Eastern European brothers who have a movie theater. The only problem seems to be that never actually have an actual movie to show the audience. Their solution? They simply attempt to do the movie themselves and, of course, hilarity ensues. Aside from taking your money and not showing you a film, they may also attempt to sell you food and whatever they happen to have in the truck they "found" behind the theater."</p></blockquote>
 
 ## Media
@@ -82,12 +82,12 @@ This is their bio from the [[2012 Out of Bounds]] web site:
 * [Video of their 3/1/11 show.](http://youtu.be/lL-NoJRHjpI)
 * [Video of their 7/1/11 show.](http://www.youtube.com/watch?v=AHJLwxTZsQ8)
 * [Video of their 8/31/11 show.](http://www.youtube.com/watch?v=WECA_nrDXpc)
-* [Video](http://vimeo.com/106569749) of their 8/31/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/106569749) of their 8/31/14 performance in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ### Photos
 * [Pictures of Jorak and Jorak in action.](http://www.jorakandjorak.com/pictures.html)
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/31/12 performance at [[The 2012 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.797594956970689.1073742069.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/31/12 performance at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.797594956970689.1073742069.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's web site.](http://www.jorakandjorak.com)

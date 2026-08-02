@@ -75,7 +75,7 @@
 ## History
 The troupe formed after [[Troupes/Wooden Nickel|Wooden Nickel]] broke up.
 
-Their final show was on 8/27/08, at [[The 2008 Out of Bounds Comedy Festival]].
+Their final show was on 8/27/08, at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Photos

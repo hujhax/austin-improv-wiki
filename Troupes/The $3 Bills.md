@@ -74,7 +74,7 @@
 
 ## Summary
 ## Press Blurb
-Their press blurb from [[The 2010 Out of Bounds Comedy Festival]]:<blockquote><p>The $3 Bills improvise fast-paced, touching, face-slapping, over-the-top series of scenes based on a descriptive verb, such as "hope" or "love" and a monologue that expands on that word.</p>
+Their press blurb from [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]]:<blockquote><p>The $3 Bills improvise fast-paced, touching, face-slapping, over-the-top series of scenes based on a descriptive verb, such as "hope" or "love" and a monologue that expands on that word.</p>
 <p>The $3 Bills are a group of GLBTQIAA improvisers that work to not only bring a higher and deeper level of improvised comedy to the greater Austin community, but to also bring a more GLBTQIIAA-friendly atmosphere to an otherwise straight and mainstream-dominated improv community. The $3 Bills are the queerest thing in comedy, and not just because of their sexual orientation.</p>
 <p>The $3 Bills have appeared at the Butch Voices Gender Blender Splendor and the Austin Gay and Lesbian International Film Festival.</p></blockquote>
 
@@ -83,7 +83,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3) by [[Steve Rogers]] that includes their 8/30/11 performance in [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.163136237100741.43305.100002130980897&type=3) by [[Steve Rogers]] that includes their 8/30/11 performance in [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|3 Bills]]
 [[Category/Auto-Generated Troupe Pages|3 Bills]]

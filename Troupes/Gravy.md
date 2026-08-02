@@ -83,7 +83,7 @@ Their press blurb, taken from a 2014 application to perform at [[The Hideout The
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Utilizing frequent pop-outs in the "Elevator" format, the group weaves broken narratives from the past and future while tying together the present situation the characters are met with.</blockquote>
 
 ## History
-The troupe performed their last show at [[The 2004 Out of Bounds Comedy Festival]].
+The troupe performed their last show at [[Festival/The 2004 Out of Bounds Comedy Festival|The 2004 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

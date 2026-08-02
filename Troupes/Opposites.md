@@ -79,7 +79,7 @@ Currently, the duo performs every Wednesday at 8:00 pm at [[The New Movement The
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] which includes their performance at [[WaffleFest 2012]].
+* [Photoset](http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] which includes their performance at [[Festival/WaffleFest 2012|WaffleFest 2012]].
 
 ## More Information
 * [Opposites facebook page](http://www.facebook.com/OppositesComedy?ref=ts&fref=ts)

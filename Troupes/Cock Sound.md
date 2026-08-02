@@ -73,7 +73,7 @@
 **Cock Sound** was an all-female rap trio.
 
 ## History
-The troupe played [[The 2007 Ladies Are Funny Festival]].
+The troupe played [[Festival/The 2007 Ladies Are Funny Festival|The 2007 Ladies Are Funny Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

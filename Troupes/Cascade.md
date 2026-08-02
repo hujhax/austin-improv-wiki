@@ -85,7 +85,7 @@ In January 2015 they began hosting *[[Shows/ImprompTwo|ImprompTwo]]* at [[The In
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207864071266109.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of their 8/20/15 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] the includes their 9/1/15 show at [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] the includes their 9/1/15 show at [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Videos
 * [Video #1](http://www.youtube.com/watch?v=tgVa6Hj5Rzo)

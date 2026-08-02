@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="$10 Bourbon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-The final performance from [[Troupes/$10 Bourbon|$10 Bourbon]], at [[The 2008 Out of Bounds Comedy Festival]].
+The final performance from [[Troupes/$10 Bourbon|$10 Bourbon]], at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 
 Photo by: unknown, from this [photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947457587). 
 ## Licensing

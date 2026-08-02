@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="The $3 Bills.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo for [[Troupes/The $3 Bills|The $3 Bills]] for [[The 2010 Out of Bounds Comedy Festival]].
+Publicity photo for [[Troupes/The $3 Bills|The $3 Bills]] for [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

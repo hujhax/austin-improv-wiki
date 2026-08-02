@@ -80,33 +80,33 @@ Here is [[Performers/Shannon McCormick|Shannon McCormick]]'s explanation of the 
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/get-up-fri-10pm-svt-apples-stage-1271373) of their 8/29/08 show at [[The 2008 Out of Bounds Comedy Festival]].
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/get-up-live-at-oob-2009-3100457) of their 9/6/09 show at [[The 2009 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/26174649) of their performance in [[The 2011 Improvised Play Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/get-up-fri-10pm-svt-apples-stage-1271373) of their 8/29/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/get-up-live-at-oob-2009-3100457) of their 9/6/09 show at [[Festival/The 2009 Out of Bounds Comedy Festival|The 2009 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/26174649) of their performance in [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes their 6/18/10 performance.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1330574876328.2040082.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1337793056778.2040655.1589679282&type=3) by [[Roy Moore]] that includes their 8/21/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1351282834014.2050063.1589679282&type=3) by [[Roy Moore]] of their 9/2/10 performance at [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1351282834014.2050063.1589679282&type=3) by [[Roy Moore]] of their 9/2/10 performance at [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1537815417212.2066940.1589679282&type=3) by [[Roy Moore]] that includes their 2/19/11 performance at the 2011 [[Gnap! Homecoming Party]].
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.116697345077964.23729.100002130980897&type=3) by [[Steve Rogers]] of their 4/9/11 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1724667128388.2082226.1589679282&type=3) by [[Roy Moore]] that includes their 6/11/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[The 2011 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.194157847319569.45926.118587218209966&type=3) by [[Roy Moore]] that includes their 9/10/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes that same performance.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.180207545393610.48019.100002130980897&type=3) by [[Steve Rogers]] of their 10/8/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2410326380298.106779.1315383518&type=3) by [[Michael Yew]] that includes their 1/8/12 performance at the "Five Families" night at [[The Institution Theater]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3) by [[Roy Moore]] that includes their performance in the 2012 [[Wafflefest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3) by [[Roy Moore]] that includes their performance in the 2012 [[Festival/Wafflefest|Wafflefest]].
 	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3) by [[Michael Yew]] which includes their 12/8/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.466006816796173.112887.221927764537414&type=3) by [[Steve Rogers]] of their 12/22/12 show at the last *[[Shows/Saturday Night Special|Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.522987541098100.1073741852.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 show at [[The 2013 Improvised Play Festival]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[WaffleFest 2013]].
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580414492107.1073741854.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.846434505420067.1073742115.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.1032385926824923.1073742241.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/2/15 performance in [[The 2015 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.522987541098100.1073741852.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 show at [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.629538103734355.1073741857.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festival/WaffleFest 2013|WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580414492107.1073741854.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.846434505420067.1073742115.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/21/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1032385926824923.1073742241.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/2/15 performance in [[Festival/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## More Info
 * [Get Up's website](http://getup.austinimprov.com)

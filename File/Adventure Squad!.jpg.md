@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Adventure Squad!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Valerie Ward|Valerie Ward]] performing as [[Troupes/Adventure Squad!|Adventure Squad!]] in [[The 2011 Ladies Are Funny Festival]].
+[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Valerie Ward|Valerie Ward]] performing as [[Troupes/Adventure Squad!|Adventure Squad!]] in [[Festival/The 2011 Ladies Are Funny Festival|The 2011 Ladies Are Funny Festival]].
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.121897767891255.30354.100002130980897&type=3).
 ## Licensing

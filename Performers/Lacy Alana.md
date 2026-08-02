@@ -26,7 +26,7 @@
 ## History
 Lacy completed levels 101-601 at the [[Merlin Works Institute for Improvisation]].  In her first year of improvising, Lacy also took all of the other classes offered by [[Merlin Works]], including Improv Singing 101-301 and several "Improv Labs."  Lacy has also taken classes at [[The Hideout Theatre]], and has taken workshops with a wide variety of traveling instructors (Joe Bill, Patti Stiles, Susan Messing, Rachel Mason, Rafe Chase, David Razowsky, Stephen Kearin, Tim Orr etc.
 
-Since starting to improvise, Lacy has been cast in mainstage shows at [[The Hideout Theatre]] (*[[Shows/Strange Worlds|Strange Worlds]], [[Shows/Kenjutsu|Kenjutsu]]*, *[[Shows/The International Improv Experience|The International Improv Experience]]*, and *[[Shows/Theatresports (mainstage run)|TheatreSports]]*), [[Coldtowne Theater]] (*[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*), [[The Institution Theater]] (*[[Shows/Only Three Will Survive|Only Three Will Survive]]*) and with [[Gnap! Theater Projects]] ([[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]).  Lacy has played in [[The Out Of Bounds Comedy Festival]], [[The Improvised Play Festival]], Unscripted New York, and Improvaganza (in Hawaii).  Lacy is an active member of [[Troupes/Rhinodino|Rhinodino]], [[Troupes/The Delightfuls|The Delightfuls]] and [[Troupes/The Known Wizards|The Known Wizards]], a [[Merlin Works]] teacher troupe.  
+Since starting to improvise, Lacy has been cast in mainstage shows at [[The Hideout Theatre]] (*[[Shows/Strange Worlds|Strange Worlds]], [[Shows/Kenjutsu|Kenjutsu]]*, *[[Shows/The International Improv Experience|The International Improv Experience]]*, and *[[Shows/Theatresports (mainstage run)|TheatreSports]]*), [[Coldtowne Theater]] (*[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*), [[The Institution Theater]] (*[[Shows/Only Three Will Survive|Only Three Will Survive]]*) and with [[Gnap! Theater Projects]] ([[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]).  Lacy has played in [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], [[Festival/The Improvised Play Festival|The Improvised Play Festival]], Unscripted New York, and Improvaganza (in Hawaii).  Lacy is an active member of [[Troupes/Rhinodino|Rhinodino]], [[Troupes/The Delightfuls|The Delightfuls]] and [[Troupes/The Known Wizards|The Known Wizards]], a [[Merlin Works]] teacher troupe.  
 
 
 Lacy currently teaches adult improv classes at [[Merlin Works]] and is the Special Needs Program Director at [[The Hideout Theatre]].  
@@ -60,8 +60,8 @@ Lacy directed the Fourth Run of *[[Shows/Theatresports (mainstage run)|TheatreSp
 * *[[Shows/The International Improv Experience|The International Improv Experience]]*
 
 ## Festivals
-* "[[The Out Of Bounds Comedy Festival]]"
-* "[[The Improvised Play Festival]]"
+* "[[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]"
+* "[[Festival/The Improvised Play Festival|The Improvised Play Festival]]"
 * "Improvaganza" (in Hawaii)
 * Unscripted New York
 

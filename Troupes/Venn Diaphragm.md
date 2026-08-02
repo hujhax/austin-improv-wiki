@@ -85,14 +85,14 @@ Their press blurb, taken from a 2010 application to perform at [[The Hideout The
 <p>They'll make you laugh and--if you're lucky (or just really sensitive)--cry.</p></blockquote>
 
 ## History
-The troupe performed in [[The Out Of Bounds Comedy Festival]] in 2009 and 2010.
+The troupe performed in [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] in 2009 and 2010.
 
 ## Media
 ### Videos
 * Video by [[Brian Boyko]] of their 4/30/10 show at [[The Hideout Theatre]]: [1](http://youtu.be/XVFQUC7Qe_Y), [2](http://youtu.be/tS2ofy-SlT4), [3](http://youtu.be/wARd4i-7jNc).
 
 ### Photos
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/1/10 performance in [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/1/10 performance in [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Venn-Diaphragm/126820557511)

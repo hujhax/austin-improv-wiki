@@ -74,7 +74,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * [[Troupes/Wink Planet|Wink Planet]] will present "Pilgrims Are From Mars" in November 2014.
 
 #### Other
-* *[[Shows/Festival Festival|Festival Festival]]*
+* *[[Festival/Festival Festival|Festival Festival]]*
 * *[[Shows/Live From ColdTowne It's Saturday Night!|Live From ColdTowne It's Saturday Night!]]*
 * *[[Shows/The Mating Game|The Mating Game]]*
 * *[[Shows/Rapture The Flag|Rapture The Flag]]*

@@ -2,7 +2,7 @@
 
 The BBS was started by [[Performers/Bob Apthorpe|Bob Apthorpe]] in August 2005, as part of [[Austinimprov.com]].  As of 2014, he is still the site's administrator.
 
-They have boards for casting, event announcements, general discussion, and for [[The Out Of Bounds Comedy Festival]].
+They have boards for casting, event announcements, general discussion, and for [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 
 ## Notable Forum Threads
 * The "Best Show Lines" threads, by year: [2008](http://forum.austinimprov.com/viewtopic.php?f=13&t=5499), [2009](http://forum.austinimprov.com/viewtopic.php?f=13&t=8167), [2010](http://forum.austinimprov.com/viewtopic.php?f=13&t=10038), [2011](http://forum.austinimprov.com/viewtopic.php?p=112541), [2012](http://forum.austinimprov.com/viewtopic.php?f=13&t=12819), [2013](http://forum.austinimprov.com/viewtopic.php?f=13&t=14567), [1886](http://forum.austinimprov.com/viewtopic.php?f=13&t=13918), [2057](http://forum.austinimprov.com/viewtopic.php?f=13&t=13919).

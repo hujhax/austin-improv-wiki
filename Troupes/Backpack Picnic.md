@@ -76,11 +76,11 @@
 ## History
 The troupe had a webseries on ON Networks.
 
-After going dormant in 2008, the troupe performed several reunion shows for [[The Out Of Bounds Comedy Festival]].
+After going dormant in 2008, the troupe performed several reunion shows for [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/backpack-picnic-sat-10pm-svt-apples-stage-1238295) of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/backpack-picnic-sat-10pm-svt-apples-stage-1238295) of their 8/30/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 
 #### Sketches
 * ["Suppression Bakery"](http://youtu.be/G2mBcsGM95Y)
@@ -91,8 +91,8 @@ After going dormant in 2008, the troupe performed several reunion shows for [[Th
 * ["Lamborghini Poster"](http://youtu.be/UBljCcJ4LvE)
 
 ### Photos
-* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947626225) that includes their performance in [[The 2008 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/30/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947626225) that includes their performance in [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/30/13 performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The duo's wikipedia page.](http://en.wikipedia.org/wiki/Backpack_Picnic)

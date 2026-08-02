@@ -42,7 +42,7 @@ Tim moved to Boston and now performs at Union Theater in Somerville, Massachuset
 
 ## Festivals
 * Chicago Improv Festival (Nice Astronaut 2013)
-* [[Out of Bounds]] (Nice Astronaut 2009, 2010, 2011, 2012, 2013, 2014)
+* [[Festival/Out of Bounds|Out of Bounds]] (Nice Astronaut 2009, 2010, 2011, 2012, 2013, 2014)
 * Del Close Marathon (Nice Astronaut 2009, 2012, 2013, 2014)
 * Improv Festival Oklahoma (Nice Astronaut 2014)
 * [[Frontera Fest]] (Townsville 2012)

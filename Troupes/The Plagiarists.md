@@ -80,7 +80,7 @@
 
 ## Summary
 ### Press Blurb
-This is their bio from the web site for [[The 2011 Improvised Play Festival]]:
+This is their bio from the web site for [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]]:
 <blockquote><p>The Plagiarists will absorb the delicious talents of some of the greatest playwrights. Five great actors will work together, each on a steady diet of their own author’s style, to cook up a never-before-seen improvised play.</p></blockquote>
 
 ### The Cast's Styles
@@ -94,7 +94,7 @@ Each cast member acted in the style of a particular playwright, as follows:
 
 ## Media
 ### Videos
-* [Video of their performance](http://vimeo.com/26118195) at [[The 2011 Improvised Play Festival]].
+* [Video of their performance](http://vimeo.com/26118195) at [[Festival/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/7/10 show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447239482264.218623.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/28/10 show.

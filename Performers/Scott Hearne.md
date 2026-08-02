@@ -29,5 +29,5 @@
 * [[Troupes/Bad Font|Bad Font]]
 
 ## Shows
-* *[[Shows/Love Fest|Love Fest]]*
+* *[[Festival/Love Fest|Love Fest]]*
 * *[[Shows/The Source|The Source]]*

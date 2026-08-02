@@ -48,8 +48,8 @@ A post from her about the first improv show she ever saw:<blockquote><p>I saw so
 
 ## Festivals
 * Chicago Improv Festival
-* [[The Out Of Bounds Comedy Festival]]
-* [[Wafflefest]]
+* [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
+* [[Festival/Wafflefest|Wafflefest]]
 
 [[Category/Performers|Gilman]]
 [[Category/Active|Category:Active]]

@@ -49,7 +49,7 @@ The show proceeds like this, typically with eliminations after each round, until
 Often, tie-breakers are used in Maestro, say if it's down to two remaining performers with equal scores, or if the directors want to eliminate three players out of a five-way tie for last place.
 
 ### Other Information
-The [[Out of Bounds Comedy Festival]] includes an "All-Star Maestro" performance, which usually has 24 players.
+The [[Festival/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] includes an "All-Star Maestro" performance, which usually has 24 players.
 
 The Hideout sporadically puts on *[[Shows/Blue Maestro|Blue Maestro]]*, which is the non-family-friendly version of the show.
 
@@ -69,7 +69,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 ## Media
 ### Videos
 * 3/26/99 Maestro: [part 1](http://vimeo.com/45370945), [part 2](http://vimeo.com/45370946).
-* Video of the 8/29/08 "All-Star Maestro" at [[The 2008 Out of Bounds Comedy Festival]]: [1](http://blip.tv/out-of-bounds-comedy-festival/all-star-maestro-fri-12midnight-svt-apples-stage-1234101), [2](http://blip.tv/out-of-bounds-comedy-festival/maestro-pt-2-fri-12midnight-svt-apples-stage-1271626).
+* Video of the 8/29/08 "All-Star Maestro" at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]]: [1](http://blip.tv/out-of-bounds-comedy-festival/all-star-maestro-fri-12midnight-svt-apples-stage-1234101), [2](http://blip.tv/out-of-bounds-comedy-festival/maestro-pt-2-fri-12midnight-svt-apples-stage-1271626).
 * Video by [[Brian Boyko]] of the 4/24/10 show: [1](http://youtu.be/cqsBX0XlKts), [2](http://youtu.be/UrFzuunbrTU), [3](http://youtu.be/LjCqqv64Wq8).
 * [10/22/11 Maestro.](http://vimeo.com/30999435)
 * 12/10/11 Maestro: [part 1](http://vimeo.com/33847258), [part 2](http://vimeo.com/33862670).
@@ -83,7 +83,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Video](http://vimeo.com/41233363) by [[Performers/Dave alley|Dave alley]] of the 4/27/12 "Maestro Raw" show.
 * [4/28/12 Maestro.](http://vimeo.com/41226763)
 * [5/5/12 Maestro.](http://vimeo.com/41711040)
-* [5/12/12 Maestro.](http://vimeo.com/42177393) ([[LAFF]] edition)
+* [5/12/12 Maestro.](http://vimeo.com/42177393) ([[Festival/LAFF|LAFF]] edition)
 * [5/19/12 Maestro.](http://vimeo.com/42740038)
 * [5/25/12 Maestro Raw.](http://youtu.be/P85FLc6XAUI)
 * [6/2/12 Maestro.](http://vimeo.com/43361530) (from [[The 43-Hour Improv Marathon]])
@@ -106,7 +106,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [1/6/13 Maestro.](http://vimeo.com/58159656)
 * [1/26/13 Maestro.](http://vimeo.com/61489753)
 * [2/9/13 Maestro.](http://vimeo.com/65951692)
-* [Video](http://vimeo.com/73717598) by [[Performers/Brad Hawkins|Brad Hawkins]] of the "All-Star Maestro" at [[The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/73717598) by [[Performers/Brad Hawkins|Brad Hawkins]] of the "All-Star Maestro" at [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/92380406) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/17/14 "[[Troupes/Franz and Dave|Franz and Dave]] *Maestro*".
 * [Video](http://vimeo.com/130693553) of the 6/13/15 show.
 * [Video](http://vimeo.com/132017797) of the 6/27/15 show.
@@ -178,7 +178,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] which includes the 5/29/10 Maestro.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes the 6/5/10 Maestro from [[The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100427938659370.3109252.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 8/28/10 show.
-* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157624879000746/) by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157624879000746/) by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[Festival/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3) by [[Roy Moore]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1365397666876.2051363.1589679282&type=3) by [[Roy Moore]] of the 9/18/10 Maestro.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100397893450210.3089568.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 11/13/10 show.
@@ -209,12 +209,12 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.456811871006980.102564.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 8/11/12 Maestro.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.474423889245778.107410.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 9/29/12 Maestro.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3755733654639.135694.1315383518&type=3) by [[Michael Yew]] of the 10/27/12 Maestro.
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.491018644252969.111039.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 11/10/12 All-Star Maestro at [[WaffleFest 2012]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.491018644252969.111039.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 11/10/12 All-Star Maestro at [[Festival/WaffleFest 2012|WaffleFest 2012]].
 
 #### 2013
 * [Photoset](http://www.facebook.com/media/set/?set=a.478638782199643.115019.221927764537414&type=3) by [[Steve Rogers]] of the 1/19/13 Maestro.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 5/25/13 show.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the 8/31/13 show in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the 8/31/13 show in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103601951227740.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the 9/7/13 show.
 * [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.10152066090907704.1073741845.505207703&type=3) by [[Performers/Tyler Bryce|Tyler Bryce]] of the 11/9/13 "[[Troupes/Girls Girls Girls|Girls Girls Girls]] Maestro".
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648700138484818.1073741864.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 10/26/13 "Costume Maestro".
@@ -222,7 +222,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 
 #### 2014
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201313265936400.1073741880.1315383518&type=3) by [[Michael Yew]] of the 2/1/14 show.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203017065250318.1073741917.1315383518&type=3) by [[Michael Yew]] of the 11/22/14 Maestro in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203017065250318.1073741917.1315383518&type=3) by [[Michael Yew]] of the 11/22/14 Maestro in [[Festival/WaffleFest 2014|WaffleFest 2014]].
 
 #### 2015
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204347096420266.1073741955.1315383518&type=3) by [[Michael Yew]] that includes the 6/20/15 show in [[The 46-Hour Improv Marathon]].

@@ -90,14 +90,14 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 * [Video](http://vimeo.com/85033155) by [[Lacy Reed]] of their "Pot Pie" show at [[Coldtowne Theater]].
 * [Video](http://vimeo.com/85039264) by [[Lacy Reed]] of their "Dragon" show at [[Coldtowne Theater]].
 * [Video](http://vimeo.com/85261565) by [[Lacy Reed]] of their 2013 "Literature" show at [[The Institution Theater]].
-* [Video](http://vimeo.com/74463715) by [[Performers/Brad Hawkins|Brad Hawkins]] of their performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/74463715) by [[Performers/Brad Hawkins|Brad Hawkins]] of their performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/85265975) by [[Lacy Reed]] of their "Swedish Fish" show.
 * [Video of their 4/7/14 show.](http://vimeo.com/93084167)
 * [Their vimeo channel.](http://vimeo.com/theladies/videos)
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.373066389423550.89368.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/31/12 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3) by [[Michael Yew]] that includes their performance in [[The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3) by [[Michael Yew]] that includes their performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/The-Ladies/288681001199600)

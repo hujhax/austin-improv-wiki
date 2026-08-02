@@ -82,7 +82,7 @@ ColdTowne is currently composed of only 2 of the 9 original members: [[Performer
 
 ## Media
 ### Videos
-* [Video](http://blip.tv/out-of-bounds-comedy-festival/coldtowne-sat-10pm-svt-oranges-stage-1255935) of their 8/30/08 show at [[The 2008 Out of Bounds Comedy Festival]].
+* [Video](http://blip.tv/out-of-bounds-comedy-festival/coldtowne-sat-10pm-svt-oranges-stage-1255935) of their 8/30/08 show at [[Festival/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

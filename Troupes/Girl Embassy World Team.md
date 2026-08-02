@@ -93,13 +93,13 @@ GEWT is comprised of some of Austin's top improvisational performers from all ov
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/28/10 performance at *[[Shows/The Weekender|The Weekender]]*.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[Wafflefest]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3) by [[Roy Moore]] of their 5/6/11 performance at [[The 2011 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[Festival/Wafflefest|Wafflefest]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1652709009480.2078154.1589679282&type=3) by [[Roy Moore]] of their 5/6/11 performance at [[Festival/The 2011 Ladies Are Funny Festival|The 2011 Ladies Are Funny Festival]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes the same show.
-* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150814632160324.728311.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their performance at [[The 2011 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150814632160324.728311.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their performance at [[Festival/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 ### Publicity
-* [A teaser](http://youtu.be/nkzofyWOVVI) for their performance at [[WaffleFest 2010]] (11/11/10).
+* [A teaser](http://youtu.be/nkzofyWOVVI) for their performance at [[Festival/WaffleFest 2010|WaffleFest 2010]] (11/11/10).
 * [Their first-anniversary show video](http://youtu.be/H7SCeiZ4mMQ) (2/22/11).
 
 ## More Information

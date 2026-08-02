@@ -97,7 +97,7 @@ Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[
 * [Video](http://vimeo.com/39051708) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 3/22/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/63618694) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 4/8/13 show.
 * [Their 6/23/13 show](http://vimeo.com/75559278) at *[[The 44-Hour Improv Marathon]]*.
-* [Video](http://vimeo.com/127561123) of their 8/29/14 performance in [[The 2014 Out of Bounds Comedy Festival]].
+* [Video](http://vimeo.com/127561123) of their 8/29/14 performance in [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/118284473) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 1/16/15 show.
 * [Video](http://vimeo.com/119881727) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 2/13/15 show.
 * [Video](http://vimeo.com/140336632) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of a 2015 "Sasquatch" show.
@@ -109,15 +109,15 @@ Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[
 * [Photoset](http://www.facebook.com/#!/media/set/?set=a.364117846958907.80222.338492619521430&type=1) by [[Roy Moore]] of their 3/29/2012 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3397060008022.126636.1315383518&type=3) by [[Michael Yew]] which includes their 6/21/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449245291763638.100574.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/21/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 show at [[The 2012 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/10/12 performance at [[Wafflefest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.414257111971144.100514.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/29/12 show at [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/10/12 performance at [[Festival/Wafflefest|Wafflefest]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] of the same show.
 	* [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.584113118318875.1073741912.221927764537414&type=3) by [[Steve Rogers]] of their 8/16/13 performance.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3) by [[Michael Yew]] which includes their 8/31/13 performance in [[The 2013 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in *[[WaffleFest 2013]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.798601643536687.1073742071.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[WaffleFest 2014]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200415786379972.1073741847.1315383518&type=3) by [[Michael Yew]] which includes their 8/31/13 performance in [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in *[[Festival/WaffleFest 2013|WaffleFest 2013]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.798601643536687.1073742071.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[Festival/WaffleFest 2014|WaffleFest 2014]].
 
 ## More Info
 * [Bad Boys' Website](http://badboysimprov.tumblr.com)

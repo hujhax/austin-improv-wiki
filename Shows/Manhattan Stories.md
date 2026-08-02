@@ -152,7 +152,7 @@ It originally ran in July/August of 2012 but was extended through September.
 
 ### Publicity
 * [Show trailer.](http://vimeo.com/45020927)
-* [Show trailer](http://vimeo.com/47916987) for [[The Out Of Bounds Comedy Festival]].
+* [Show trailer](http://vimeo.com/47916987) for [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 
 ### Other
 * [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/manhattan-stories-set/manhattan-stories-set.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design.

@@ -26,9 +26,9 @@ This would put the page (presumably for someone named Smith) into the Performers
 ## Links
 * Link everything you can on the first mention. Subsequent mentions on the same page need not be linked.
 * Links to Wikipedia use the following syntax: <nowiki>[[Wikipedia - monkeys|monkeys]]</nowiki>
-* Try and use the canonical name of a page if possible. For example, the canonical name for that festival we all call "OOB" is [[The Out Of Bounds Comedy Festival]].
+* Try and use the canonical name of a page if possible. For example, the canonical name for that festival we all call "OOB" is [[Festival/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 * If you wish to refer to a page using a non-canonical name, you can add it to the link as:
- <nowiki>[[The Out Of Bounds Comedy Festival|OOB]]</nowiki>
+ <nowiki>[[Festival/The Out Of Bounds Comedy Festival|OOB]]</nowiki>
 * When creating a page, try and keep in mind what non-canonical names might be used to search for that page. For examples, the troupe [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]] might be referred to as:
 	* The Seven Eight Sevens
 	* Seven Eight Sevens

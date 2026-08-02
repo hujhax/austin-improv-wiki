@@ -84,7 +84,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/83437984) by [[Performers/Melissa Patterson|Melissa Patterson]] of their 1/2/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
-* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/GOOFS/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[The 2014 Improvised Play Festival]].
+* [Photoset](http://cwcreations.smugmug.com/Improv-2014/Improvised-Play-Festival/GOOFS/) by [[Performers/Chad Wellington|Chad Wellington]] of their show in [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

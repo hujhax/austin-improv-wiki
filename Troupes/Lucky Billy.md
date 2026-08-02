@@ -80,7 +80,7 @@ Lucky Billy was one of two Beta improv teams formed at the former New Movement (
 ## Festivals
 Lucky Billy has performed at the following festivals
 * Del Close Marathon - 2018
-* [[Out of Bounds]] - 
+* [[Festival/Out of Bounds|Out of Bounds]] - 
 
 ## Media
 ### Videos

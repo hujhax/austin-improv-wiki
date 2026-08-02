@@ -51,7 +51,7 @@ He is also a musician and has played for [[Shows/I Love You So Much|I Love You S
 * *[[Shows/Hurly Burly|Hurly Burly]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]*
-* ''[[Shows/Love Fest|Love Fest]]
+* ''[[Festival/Love Fest|Love Fest]]
 * *[[Shows/The Next Chapter|The Next Chapter]]*
 * *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Shows/RISEN|RISEN]]*
@@ -64,10 +64,10 @@ He is also a musician and has played for [[Shows/I Love You So Much|I Love You S
 	* With [[Shows/The Black Vault|The Black Vault]]
 	* With [[Troupes/Indigo Shift|Indigo Shift]]
 
-* [[The 2012 Out of Bounds Comedy Festival]]
+* [[Festival/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]]
 	* With [[Troupes/In Our Prime|In Our Prime]]
 
-* [[The 2013 Out of Bounds Comedy Festival]]
+* [[Festival/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]
 	* With [[Troupes/In Our Prime|In Our Prime]]
 	* With [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
 
@@ -89,21 +89,21 @@ He is also a musician and has played for [[Shows/I Love You So Much|I Love You S
 * Improv Festival Oklahoma 2014 (Norman, OK)
 	* With [[Troupes/In Our Prime|In Our Prime]]
 
-* [[The 2013 Improvised Play Festival]]
+* [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]]
 	* With [[Troupes/In Our Prime|In Our Prime]]
 
-* [[The 2014 Improvised Play Festival]]
+* [[Festival/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]]
 	* With [[Troupes/In Our Prime|In Our Prime]]
 
 * The 2014 Unscripted Festival (New York, New York)
 
-* [[Wafflefest]] 2012
+* [[Festival/Wafflefest|Wafflefest]] 2012
 	* With [[Troupes/In Our Prime|In Our Prime]]
 
-* [[Wafflefest]] 2013
+* [[Festival/Wafflefest|Wafflefest]] 2013
 	* With [[Troupes/In Our Prime|In Our Prime]]
 
-* [[Wafflefest]] 2014
+* [[Festival/Wafflefest|Wafflefest]] 2014
 	* With [[Troupes/In Our Prime|In Our Prime]]
 
 ## More Information

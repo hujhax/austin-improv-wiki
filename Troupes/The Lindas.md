@@ -74,7 +74,7 @@
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their performance at [[The 2011 Ladies Are Funny Festival]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1654659698246.2078303.1589679282&type=3) by [[Roy Moore]] that includes their performance at [[Festival/The 2011 Ladies Are Funny Festival|The 2011 Ladies Are Funny Festival]].
 
 [[Category/Troupes|Lindas]]
 [[Category/All-Female Troupes|Lindas]]

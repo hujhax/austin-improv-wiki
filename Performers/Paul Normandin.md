@@ -93,7 +93,7 @@
 * *[[Out Out Damn I'm Out]]* (Director/Co-writer 2024)
 
 ## Festival Producer
-* *[[Wafflefest]]* (2014 - 2018)
+* *[[Festival/Wafflefest|Wafflefest]]* (2014 - 2018)
 
 ## Director of Improv Shows
 * ''[Stories from Around the World](http://wiki.austinimprov.com/wiki/Hideout_Kids) Co-Director (2018)
@@ -115,7 +115,7 @@ He has also produced one off shows for [[Shows/The Free Fringe|The Free Fringe]]
 
 Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Performers/Ryan Hill|Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the ["2017 Texas Storytelling Festival StorySlam"](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf) in March.
 
-Paul was a teaching assistant at [[The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[The Hideout Theatre]]'s annual [[Wafflefest]] from 2014 to 2018. 
+Paul was a teaching assistant at [[The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[The Hideout Theatre]]'s annual [[Festival/Wafflefest|Wafflefest]] from 2014 to 2018. 
 
 Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul took on the Role of Dean of [[Merlin Works Institute for Improvisation]] in 2021 and left the role in 2024. Paul continues to teach to include Improv and Storytelling classes and workshops. In his spare time, he lives to play ["Ultimate"](http://https://austinultimate.org/), run weekly ["Tabletop Role-Playing Game"](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) Campaigns, and write speculative fiction.
 

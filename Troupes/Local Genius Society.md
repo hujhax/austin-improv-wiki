@@ -87,7 +87,7 @@ Local Genius Society has presented a number of different improv formats, includi
 ### Groundhog Day
 ### Evil Genius
 ### Beach Cops
-Beach Cops was a series of narratives done in the style of *[[Wikipedia - Baywatch|Baywatch]]*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *[[Wikipedia - Pacific Blue|Pacific Blue]]*. Beach Cops debuted at the [[The 2012 Improvised Play Festival]] ([Video](http://vimeo.com/40328506)) and was met with surprising success.
+Beach Cops was a series of narratives done in the style of *[[Wikipedia - Baywatch|Baywatch]]*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *[[Wikipedia - Pacific Blue|Pacific Blue]]*. Beach Cops debuted at the [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]] ([Video](http://vimeo.com/40328506)) and was met with surprising success.
 
 It was performed several more times, including once at [[Coldtowne Theater]] with [[Performers/Kaci Danger|Kaci Danger]] as a guest Beach Cop. The final show was performed in Honolulu's Improvaganza festival in 2012. Beach Cops has since been retired.
 
@@ -98,7 +98,7 @@ Local Genius Society takes a suggestion of a color or brings a crayon box for an
 Bringing a stack of cards with thematic (e.g. the confession) or specific (e.g. one player's dialogue must be all song lyrics) instructions, Local Genius Society plays a narrative and selects a card at will and/or at the top of a scene. They brought this format to [[The 44-Hour Improv Marathon]] to give the sleep-deprived players some fun chaos.
 
 ## History
-Local Genius Society formed in late 2010 by a group of improv students from [[The Hideout Theatre]]. After building their early career performing shortform, including a run of successful “Groundhog Day” shows, the geniuses embarked on longform narrative in the summer of 2011. Since then, Local Genius Society has opened for notable Austin improv troupes such as: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]], [[Troupes/Girls Girls Girls|Girls Girls Girls]], The Glamping Trip, and [[Troupes/Confidence Men|Confidence Men]]. In 2012 they hosted a weekly show, “Underground Improv” at Dive Bar.  They have performed in [[Wafflefest]] (2011, 2012), the [[Improvised Play Festival]] (2011, 2012, 2013), the 42 and 43-Hour Improv Marathons (2011, 2012), and the [[Out of Bounds Comedy Festival]] (2012) in Austin, TX, and the Improvaganza Festival in Honolulu, HI (2012).
+Local Genius Society formed in late 2010 by a group of improv students from [[The Hideout Theatre]]. After building their early career performing shortform, including a run of successful “Groundhog Day” shows, the geniuses embarked on longform narrative in the summer of 2011. Since then, Local Genius Society has opened for notable Austin improv troupes such as: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]], [[Troupes/Girls Girls Girls|Girls Girls Girls]], The Glamping Trip, and [[Troupes/Confidence Men|Confidence Men]]. In 2012 they hosted a weekly show, “Underground Improv” at Dive Bar.  They have performed in [[Festival/Wafflefest|Wafflefest]] (2011, 2012), the [[Festival/Improvised Play Festival|Improvised Play Festival]] (2011, 2012, 2013), the 42 and 43-Hour Improv Marathons (2011, 2012), and the [[Festival/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] (2012) in Austin, TX, and the Improvaganza Festival in Honolulu, HI (2012).
 
 Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's origin:<blockquote>We put a ton of different words on a whiteboard and drew lines between them to make phrases. Then we voted for which phrases we liked the most. Local Genius Society came in second behind "Global Improv Corporation". We went with Local Genius Society anyways...</blockquote>
 
@@ -109,13 +109,13 @@ Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's ori
 ## Media
 ### Videos
 * [Video of their performance](http://youtu.be/0hOEB6ctECQ) from 5/28/11.
-* [Video of their performance](http://vimeo.com/44633920) from the 2011 [[Wafflefest]].
-* [Video of their performance](http://vimeo.com/40328506) at [[The 2012 Improvised Play Festival]].
+* [Video of their performance](http://vimeo.com/44633920) from the 2011 [[Festival/Wafflefest|Wafflefest]].
+* [Video of their performance](http://vimeo.com/40328506) at [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 * [Video](http://vimeo.com/44634493) of their "Full Moon Rises" show at *[[Shows/The Free Fringe|The Free Fringe]]* from 5/10/12.
-* [Video of their performance](http://vimeo.com/53183870) from the 2012 [[Wafflefest]].
+* [Video of their performance](http://vimeo.com/53183870) from the 2012 [[Festival/Wafflefest|Wafflefest]].
 * [Video of their performance](http://vimeo.com/58861610) from their 2/1/13 performance headlining *[[Shows/The Spectacle|The Spectacle]]*.
 * [Video of their performance](http://vimeo.com/59947353) on 2/17/13 at [[Coldtowne Theater]].
-* [Video of their performance](http://vimeo.com/63959453) at [[The 2013 Improvised Play Festival]].
+* [Video of their performance](http://vimeo.com/63959453) at [[Festival/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Video of another performance](http://vimeo.com/55503754) (date unknown) at *[[Shows/The Spectacle|The Spectacle]]*.
 * [Video](http://vimeo.com/67256516) of their 5/17/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Video](http://vimeo.com/76922366) of their 9/19/13 performance in *[[Shows/The Threefer|The Threefer]]*.
@@ -127,12 +127,12 @@ Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's ori
 * [Their 12/1/11 show](http://www.facebook.com/media/set/?set=a.248623315201192.64136.221927764537414&type=3) at *[[Shows/The Threefer|The Threefer]]* (photoset by [[Steve Rogers]]).
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 1/6/12 performance at [[The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.369516133069888.85770.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 3/11/12 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their 8/28/12 performance in [[The 2012 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their 8/28/12 performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] of the same show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/8/12 performance at [[Wafflefest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/8/12 performance at [[Festival/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) that includes their 12/8/12 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3) by [[Michael Yew]] which includes their 2/1/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
-* [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[WaffleFest 2013]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festival/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.790531964343655.1073742043.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/21/14 show at *[[Shows/The Threefer|The Threefer]]*.
 
 ### Publicity

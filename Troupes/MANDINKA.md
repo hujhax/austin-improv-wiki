@@ -87,7 +87,7 @@ Here is [[Performers/Andrew Buck|Andrew Buck]]'s explanation of the name's origi
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3) by [[Michael Yew]] that includes their 11/1/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152566583992107.1073741841.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[The 2014 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152566583992107.1073741841.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festival/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203172527696782.1073741921.1315383518&type=3) by [[Michael Yew]] that includes their 12/18/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information

@@ -197,13 +197,13 @@ Their press blurb, taken from a 2012 application to perform at [[The Hideout The
 <p>In our play you get more of the "why" behind certain character motives and that could create a fuller plot and experience for the audience.</p></blockquote>
 
 ## History
-The show premiered as a *[[Shows/Free Fringe|Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[The 2012 Improvised Play Festival]].
+The show premiered as a *[[Shows/Free Fringe|Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
 It is returning as a mainstage show at [[The Institution Theater]], running on Friday and Saturday nights at 8pm from 2/20/15 to 3/7/15.
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/40916902) of their performance in [[The 2012 Improvised Play Festival]].
+* [Video](http://vimeo.com/40916902) of their performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 * [Video](http://vimeo.com/120262675) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/20/15 show.
 * [Video](http://vimeo.com/120315233) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/21/15 show.
 * [Video](http://vimeo.com/120996265) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/27/15 show.
@@ -212,7 +212,7 @@ It is returning as a mainstage show at [[The Institution Theater]], running on F
 * [Video](http://vimeo.com/121647279) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/7/15 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their performance in [[The 2012 Improvised Play Festival]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their performance in [[Festival/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.778937692174912.1073741914.118587218209966&type=3) by [[Roy Moore]] of the 2/20/15 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.911276708935846.1073742157.221927764537414&type=3) by [[Steve Rogers]] of the 2/27/15 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203713831509039.1073741931.1315383518&type=3) by [[Michael Yew]] of the 3/7/15 performance.
