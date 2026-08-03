@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "An improv troupe consisting of local improvisors originally from Chicago."
 image: "File/The%20Cubbies.jpg"
 ---
 <div>

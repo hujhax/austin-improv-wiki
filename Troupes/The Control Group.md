@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2012."
+description: "An improv troupe associated with The New Movement."
 image: "File/The%20Control%20Group.jpg"
 ---
 <div>

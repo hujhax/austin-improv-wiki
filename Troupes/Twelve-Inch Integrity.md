@@ -1,5 +1,5 @@
 ---
-description: "|Director = Lisa Jackson."
+description: "An improv troupe."
 image: "File/Twelve-Inch%20Integrity.png"
 ---
 <div>

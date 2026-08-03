@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-Present."
+description: "Sketch troupe based out of ColdTowne Theater."
 image: "File/Stag%20Comedy.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: "An musical improv troupe that grew out of a Merlin..."
 image: "File/LazerWolf.jpg"
 ---
 <div>

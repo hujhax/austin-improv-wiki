@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: "An improv troupe created by Tyler Lane in the Fall..."
 ---
 <div>
 	<table class="infobox infobox-troupe">

@@ -1,6 +1,3 @@
----
-description: "|Years = 2010."
----
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

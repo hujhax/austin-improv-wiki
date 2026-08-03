@@ -1,5 +1,5 @@
 ---
-description: "|Past Members =."
+description: "An improv troupe that perform monoscenes and \"strange attractor\" as..."
 image: "File/The%20Escorts%202014.jpg"
 ---
 <div>

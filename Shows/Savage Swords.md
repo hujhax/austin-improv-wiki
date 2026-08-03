@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "January/February 2016 mainstage production at The Hideout Theatre."
 image: "File/Savage%20Swords.jpg"
 ---
 <div>

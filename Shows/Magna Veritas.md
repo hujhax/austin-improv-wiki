@@ -1,5 +1,5 @@
 ---
-description: "|Run = Sep-Dec 2011."
+description: "An improv show."
 image: "File/MagnaVeritas.jpg"
 ---
 <div>

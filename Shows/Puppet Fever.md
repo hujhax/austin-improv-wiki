@@ -1,5 +1,5 @@
 ---
-description: "|Music= Michael Brockman."
+description: "An improvised puppet musical."
 image: "File/Puppet%20Fever.jpg"
 ---
 <div>

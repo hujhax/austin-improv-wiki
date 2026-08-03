@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: "Troupe of improvisers that went through levels one through six..."
 image: "File/space%20swank.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Run = Aug/Sep 2013."
+description: "An improv show based on exploring alternate paths that lives..."
 image: "File/The%20ReSet%20Project.png"
 ---
 <div>

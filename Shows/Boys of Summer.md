@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "Longform musical improv show from Girls Girls Girls which features..."
 image: "File/Boys%20of%20Summer%202012%20Poster.jpg"
 ---
 <div>

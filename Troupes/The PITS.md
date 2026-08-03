@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2003-2005."
+description: "High school comedy troupe."
 image: "File/The%20PITS.jpg"
 ---
 <div>

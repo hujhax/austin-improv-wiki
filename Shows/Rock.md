@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "(full title: Rock: The Improvised Rock Opera) was an improvised..."
 image: "File/Rock%20poster.jpg"
 ---
 <div>

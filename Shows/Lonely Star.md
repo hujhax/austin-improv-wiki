@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "An upcoming mainstage show at The Institution Theater, inspired by..."
 image: "File/Lonely%20Star%20Poster.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Tech Director = Lindsey McGowen."
+description: "Hideout Student mainstage show that follows a small-town news team..."
 image: "File/local%20on%20the%208s.jpg"
 ---
 <div>

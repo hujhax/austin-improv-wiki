@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2012."
+description: "An improv troupe that created improvised films in the personas..."
 image: "File/Two%20Man%20Polanski%20Vid.jpg"
 ---
 <div>

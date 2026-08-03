@@ -1,5 +1,4 @@
 ---
-description: "|Run = May/Jun 2008."
 image: "File/Ka-Baam%21%21%20Logo.png"
 ---
 <div>

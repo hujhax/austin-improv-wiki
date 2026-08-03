@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Friday-night show at the Hideout Theatre designed for general audiences."
 image: "File/The%20Big%20Bash.jpg"
 ---
 <div>

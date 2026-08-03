@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Will be the February 2016 student mainstage production at The..."
 image: "File/183%20Dewberry%20Lane%20Poster.jpg"
 ---
 <div>

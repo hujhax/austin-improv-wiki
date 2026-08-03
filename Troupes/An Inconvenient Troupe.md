@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2006-2007."
+description: "An improv duo that did longform sci-fi narrative."
 image: "File/An%20Inconvenient%20Troupe.jpg"
 ---
 <div>

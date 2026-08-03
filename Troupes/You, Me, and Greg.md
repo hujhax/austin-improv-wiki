@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-2008."
+description: "You Me & Greg was an improv troupe."
 image: "File/You%20Me%20%26%20Greg.jpg"
 ---
 <div>

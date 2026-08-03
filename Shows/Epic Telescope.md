@@ -1,5 +1,5 @@
 ---
-description: "|Run = 4/26/12."
+description: "Longform show."
 image: "File/Epic%20Telescope%20Pic.jpg"
 ---
 <div>

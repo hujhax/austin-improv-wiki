@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "An improv duo that creates fake behind the scenes documentaries..."
 image: "File/My%20best%20fiend.jpg"
 ---
 <div>

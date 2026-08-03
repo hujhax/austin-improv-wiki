@@ -1,5 +1,5 @@
 ---
-description: "|Run = Nov 2010."
+description: "Mainstage show at ColdTowne Theater, a 19th-century themed improv show..."
 image: "File/Victrola.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2012."
+description: "GLBTQ-themed improv troupe."
 image: "File/The%20%243%20Bills.jpg"
 ---
 <div>

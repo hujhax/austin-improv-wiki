@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014."
+description: "An improv duo featuring Ryan Hill and Scott Hearne."
 image: "File/Shamrock.jpg"
 ---
 <div>

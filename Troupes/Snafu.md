@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "Improv is UT Austin's ONLY long-form improv troupe."
 image: "File/SNAFU.jpg"
 ---
 <div>

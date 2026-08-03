@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: "Duo made up of English gentleman, Mark Tindle, and 7th..."
 image: "File/Englishman%20and%20Belle.jpg"
 ---
 <div>

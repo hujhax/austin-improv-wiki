@@ -1,5 +1,5 @@
 ---
-description: "|Run = 6/3/12."
+description: "An improv show in which the technical improvisors control the..."
 image: "File/Tech%20Nightmare%20Pic.jpg"
 ---
 <div>

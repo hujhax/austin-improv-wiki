@@ -1,5 +1,4 @@
 ---
-description: "|Musical Director =."
 image: "File/orphans.jpg"
 ---
 <div>

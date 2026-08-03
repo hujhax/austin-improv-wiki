@@ -1,5 +1,5 @@
 ---
-description: "|Music =."
+description: "Mainstage improv show at ColdTowne Theater."
 image: "File/Boy%20Band.jpg"
 ---
 <div>

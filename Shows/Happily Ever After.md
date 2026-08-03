@@ -1,5 +1,5 @@
 ---
-description: "|Music Director = Ammon Taylor."
+description: "Will be the July/August 2015 mainstage production at The Hideout..."
 image: "File/Happily%20Ever%20After.jpg"
 ---
 <div>

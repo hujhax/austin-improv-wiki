@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Neal Tibrewala."
+description: "Mainstage show at The Hideout Theatre, inspired by the dream-logic..."
 image: "File/Spirited.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2012."
+description: "An improv troupe that performed improvised animé."
 image: "File/Senshi%20Sokyo.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Directed by = | Bob McNicholErika McNichol | Jennifer Cargill."
+description: "An improv show that used newspaper articles to inspire short,..."
 image: "File/Whirled%20News%20Tonight.jpg"
 ---
 <div>

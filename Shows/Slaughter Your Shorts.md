@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct 2011."
+description: "An improvised mainstage show at ColdTowne Theater."
 image: "File/Slaughter%20Your%20Shorts.jpg"
 ---
 <div>

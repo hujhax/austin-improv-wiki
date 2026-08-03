@@ -1,5 +1,5 @@
 ---
-description: "|Tech Director = Cindy Page."
+description: "(full title: Buddy Cop: Metro City Nights) was a Hideout..."
 image: "File/buddycop.jpg"
 ---
 <div>

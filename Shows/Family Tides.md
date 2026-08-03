@@ -1,5 +1,5 @@
 ---
-description: "|Run = Sep 2011."
+description: "An improv show that drew inspiration from family stories supplied..."
 image: "File/Family%20Tides.jpg"
 ---
 <div>

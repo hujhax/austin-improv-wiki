@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "An improv performer and filmmaker."
 image: "File/Jeremy%20Moran%20Pic.jpg"
 ---
 <div>

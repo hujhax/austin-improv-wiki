@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct-Dec 2010."
+description: "(AKA No Holes Bear'd) was a comedy revue at ColdTowne..."
 image: "File/Rapture%20the%20Flag.jpg"
 ---
 <div>

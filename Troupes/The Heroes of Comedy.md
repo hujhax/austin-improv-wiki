@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Lisa Brown."
+description: "(formerly Austin Theatresports and We Could Be Heroes) was the..."
 image: "File/The%20Heroes%20of%20Comedy.jpg"
 ---
 <div>

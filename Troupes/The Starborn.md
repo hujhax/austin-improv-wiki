@@ -1,5 +1,5 @@
 ---
-description: "|Crew =."
+description: "Highly theatrical, audience-interactive improv show."
 image: "File/TheStarborn.jpg"
 ---
 <div>

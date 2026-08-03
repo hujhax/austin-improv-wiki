@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2013."
+description: "Sketch troupe based at ColdTowne Theater."
 image: "File/Turn%20of%20the%20Century%20Paris.jpg"
 ---
 <div>

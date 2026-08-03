@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012."
+description: "An improv troupe associated with ColdTowne Theater."
 image: "File/Precious.jpg"
 ---
 <div>

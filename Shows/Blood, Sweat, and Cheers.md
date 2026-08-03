@@ -1,5 +1,5 @@
 ---
-description: "|Run = May/Jun 2013."
+description: "Devised play about competitive cheerleading."
 image: "File/Blood%2C%20Sweat%2C%20and%20Cheers%20pic.jpg"
 ---
 <div>

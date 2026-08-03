@@ -1,5 +1,5 @@
 ---
-description: "|Musical Director = Tosin Awofeso."
+description: "Hideout student mainstage show."
 image: "File/Soundstage23.jpg"
 ---
 <div>

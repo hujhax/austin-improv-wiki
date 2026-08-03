@@ -1,5 +1,5 @@
 ---
-description: "|Theater = The Institution Theater."
+description: "An improvised panel show in the style of British programs..."
 image: "File/You%20Think%20You%27re%20So%20Smart%20Poster.jpg"
 ---
 <div>

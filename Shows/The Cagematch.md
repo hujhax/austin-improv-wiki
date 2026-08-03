@@ -1,5 +1,5 @@
 ---
-description: "|Director =."
+description: "(AKA Cage Match, Cagematch) is a competitive performance slot at..."
 image: "File/The%20Cagematch.jpg"
 ---
 <div>

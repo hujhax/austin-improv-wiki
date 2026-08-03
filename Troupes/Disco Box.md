@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-Present."
+description: "An improv troupe that frequently plays at The New Movement."
 image: "File/Disco%20Box.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Mainstage show at The Institution Theater."
 image: "File/tno-poster-small.jpg"
 ---
 <div>

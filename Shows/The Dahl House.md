@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Rachel Posey Austin (sound)."
+description: "August 2014 student mainstage production at The Hideout Theatre."
 image: "File/The%20Dahl%20House.jpg"
 ---
 <div>

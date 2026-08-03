@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jan-Mar 2008."
+description: ":This page refers to the 2008 and 2009 mainstage runs..."
 image: "File/Improvised%20Shakespeare.jpg"
 ---
 <div>

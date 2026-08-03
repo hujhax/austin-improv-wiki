@@ -1,5 +1,5 @@
 ---
-description: "|Assistant Director = Paul Normandin (student mainstage run)."
+description: "Mainstage show at The Hideout Theatre based on late-70s cop..."
 image: "File/Cochise%20Poster.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Director = Tami Nelson."
+description: "An one-off Cagematch team."
 ---
 <div>
 	<table class="infobox infobox-troupe">

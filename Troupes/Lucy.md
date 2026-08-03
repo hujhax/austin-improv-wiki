@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2014."
+description: "(often written in all-caps: LUCY) was a New Movement improv..."
 image: "File/Lucy.jpg"
 ---
 <div>

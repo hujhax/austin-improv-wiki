@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "(often shortened to ARAD) is an improv troupe."
 image: "File/A%20Really%20Aggressive%20Dream.jpg"
 ---
 <div>

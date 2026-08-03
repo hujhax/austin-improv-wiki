@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012."
+description: "Musical duo that originated as part of There's Waldo."
 image: "File/Hank%20and%20Marlena.jpg"
 ---
 <div>

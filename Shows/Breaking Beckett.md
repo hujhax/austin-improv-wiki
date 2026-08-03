@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Mark Shoemaker."
+description: "Breaking Becket is a longform narrative show inspired by the..."
 image: "File/Breaking%20Beckett%20Poster%20Ryan.png"
 ---
 <div>

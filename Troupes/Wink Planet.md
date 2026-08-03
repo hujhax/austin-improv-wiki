@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "Sketch troupe based out of ColdTowne Theater."
 image: "File/Wink%20Planet.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Sketch and improv revue themed around the works of Joss..."
 image: "File/The%20Joss%20Whedon%20Pajama%20Party.jpg"
 ---
 <div>

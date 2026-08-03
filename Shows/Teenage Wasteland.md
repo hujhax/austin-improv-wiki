@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "October 2015 student mainstage production at The Hideout Theatre."
 image: "File/Teenage%20Wasteland.jpg"
 ---
 <div>

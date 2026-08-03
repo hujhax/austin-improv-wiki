@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "Variety show at The Institution Theater."
 image: "File/Hell%20%26%20Back%20Cabaret.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Pirate-themed mainstage improv show at the Institution Theater."
 image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "(often referred to by the nickname Kids on Bikes) was..."
 image: "File/KidsOnBikes.jpg"
 ---
 <div>

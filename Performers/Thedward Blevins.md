@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "An improv performer and technical improviser."
 image: "File/thedward01.jpg"
 ---
 <div>

@@ -1,5 +1,4 @@
 ---
-description: "|Years = 2016-."
 image: "File/GanymedeTmp.jpg"
 ---
 <div>

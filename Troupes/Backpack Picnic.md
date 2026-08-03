@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-2008."
+description: "Surreal sketch troupe."
 image: "File/Backpack%20Picnic.jpg"
 ---
 <div>

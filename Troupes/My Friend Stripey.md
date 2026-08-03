@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2011."
+description: "An improv troupe associated with The Hideout Theatre."
 image: "File/My%20Friend%20Stripey.jpg"
 ---
 <div>

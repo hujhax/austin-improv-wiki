@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Hideout mainstage show inspired by the work of playwright Tennessee..."
 image: "File/kindness%20of%20strangers.jpg"
 ---
 <div>

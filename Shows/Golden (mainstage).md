@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Golden was the April 2015 student mainstage production at The..."
 image: "File/Golden.jpg"
 ---
 <div>

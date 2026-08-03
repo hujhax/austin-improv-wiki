@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Hideout mainstage show inspired by Barbarella."
 image: "File/sexyfuturespacelady.jpg"
 ---
 <div>

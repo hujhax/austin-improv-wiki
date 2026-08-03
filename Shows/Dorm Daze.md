@@ -1,5 +1,5 @@
 ---
-description: "|Producer = Scott Hearne."
+description: "Two separate runs of shows featuring two Harold troupes, Bad..."
 image: "File/Dorm%20Daze.jpg"
 ---
 <div>

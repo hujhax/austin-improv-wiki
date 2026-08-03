@@ -1,5 +1,5 @@
 ---
-description: "|Picture= TheeHotChicks.jpg."
+description: "An improv troupe active in Austin in 2011."
 image: "File/TheeHotChicks.jpg"
 ---
 <div>

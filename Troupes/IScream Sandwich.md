@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "Harold team at The Institution Theater."
 image: "File/iScream%20Sandwich.jpg"
 ---
 

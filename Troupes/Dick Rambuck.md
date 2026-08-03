@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2010."
+description: "An improv duo associated with ColdTowne Theater."
 image: "File/Dick%20Rambuck.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2006-Present."
+description: "Presents in a variety of formats when it feels like..."
 image: "File/PoliteSociety.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: ":This page refers to the 2015-founded high-energy duo."
 image: "File/JK.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Picture= Two Guys Pic.jpg."
+description: "An improv duo composed of Paul Normandin and Bobby Ford."
 image: "File/Two%20Guys%20Pic.jpg"
 ---
 <div>

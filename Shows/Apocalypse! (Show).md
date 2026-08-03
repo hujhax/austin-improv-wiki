@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Audrey Rachel Sansom."
+description: ":This page refers to the Gnap!"
 image: "File/Apocalypse%20%28Show%29.jpg"
 ---
 <div>

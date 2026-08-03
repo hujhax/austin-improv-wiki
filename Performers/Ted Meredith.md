@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-Present."
+description: "An improv performer, teacher, and director."
 image: "File/Ted%20Meredith%20Pic.jpg"
 ---
 <div>

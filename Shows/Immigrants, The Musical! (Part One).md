@@ -1,5 +1,5 @@
 ---
-description: "|Music Director = Tosin Awofeso."
+description: "Immigrants, The Musical!"
 image: "File/Immigrants.jpg"
 ---
 <div>

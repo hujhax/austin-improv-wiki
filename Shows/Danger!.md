@@ -1,5 +1,4 @@
 ---
-description: "|Run = Feb 2012."
 image: "File/Danger.jpg"
 ---
 <div>

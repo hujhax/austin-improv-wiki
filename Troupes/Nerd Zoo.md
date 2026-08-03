@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012."
+description: "One-off Cagematch team."
 ---
 <div>
 	<table class="infobox infobox-troupe">

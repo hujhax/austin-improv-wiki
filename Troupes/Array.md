@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "(formerly Arkay) is an improv troupe."
 image: "File/Arkay.jpg"
 ---
 <div>

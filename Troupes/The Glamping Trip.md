@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-Present."
+description: "An improv duo that focuses on grounded improv."
 image: "File/The%20Glamping%20Trip.jpg"
 ---
 <div>

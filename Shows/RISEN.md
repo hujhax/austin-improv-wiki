@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Long-form narrative improv show inspired by World War Z by..."
 image: "File/Risen.jpg"
 ---
 <div>

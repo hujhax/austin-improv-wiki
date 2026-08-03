@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2006-2007."
+description: "Sketch troupe."
 image: "File/Hoover%27s%20Blanket.jpg"
 ---
 <div>

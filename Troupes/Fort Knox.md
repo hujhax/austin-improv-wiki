@@ -1,5 +1,5 @@
 ---
-description: "|Director = Madeline M."
+description: "One-off Cagematch team."
 ---
 <div>
 	<table class="infobox infobox-troupe">

@@ -1,6 +1,3 @@
----
-description: "An improv troupe founded by Kris Pina, and composed of..."
----
 {{Infobox Troupe
 |Name	=		Ricochet
 |Picture	=	

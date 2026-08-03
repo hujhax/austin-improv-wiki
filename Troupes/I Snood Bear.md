@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-2008."
+description: "(AKA A Bride Soon) was an improv duo."
 image: "File/I%20Snood%20Bear.jpg"
 ---
 <div>

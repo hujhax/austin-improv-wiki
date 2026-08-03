@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-Present."
+description: "An improv performer and technical improvisor."
 image: "File/Sara%20Farr%20Pic.jpg"
 ---
 <div>

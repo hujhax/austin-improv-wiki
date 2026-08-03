@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "Magician vs."
 image: "File/Magician%20Versus%20Clown.jpg"
 ---
 <div>

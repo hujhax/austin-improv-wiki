@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-2011."
+description: "(often written with an exclamation point: Achatina Achatina!) was an..."
 image: "File/Achatina%20Achatina.jpg"
 ---
 <div>

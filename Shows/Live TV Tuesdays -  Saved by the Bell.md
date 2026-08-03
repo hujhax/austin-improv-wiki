@@ -1,5 +1,5 @@
 ---
-description: "|Run = Aug 2009."
+description: "Live TV Tuesdays presentation of the Saved by the Bell..."
 image: "File/Live%20TV%20Tuesdays-%20Saved%20by%20the%20Bell.jpg"
 ---
 <div>

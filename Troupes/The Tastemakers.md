@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "Sketch troupe."
 image: "File/The%20Tastemakers.jpg"
 ---
 <div>

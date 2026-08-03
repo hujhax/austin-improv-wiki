@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Various."
+description: "Monthly variety show at ColdTowne Theater."
 image: "File/Red%20Envelope.jpg"
 ---
 <div>

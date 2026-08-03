@@ -1,5 +1,5 @@
 ---
-description: "|Musical Director = Ryan Fechter."
+description: "Hideout mainstage show inspired by irreverent comedic musicals like “The..."
 image: "File/death%20by%20musical.jpg"
 ---
 <div>

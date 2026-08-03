@@ -1,5 +1,5 @@
 ---
-description: "|Crew =."
+description: "Sketch troupe, formed of friends from the University of Texas..."
 image: "File/The%20Sicks.jpg"
 ---
 <div>

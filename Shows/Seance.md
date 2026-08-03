@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct/Nov 2012."
+description: ":This page refers to the Salvage Vanguard mainstage run based..."
 image: "File/Seance.jpg"
 ---
 <div>

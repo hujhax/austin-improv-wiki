@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "(often written all-caps: \"BRAIN TRUST\") is an improv troupe."
 image: "File/Brain%20Trust.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011."
+description: "An improv troupe that featured Emma Holder and Kate Bojanek..."
 image: "File/The%20Lindas.jpg"
 ---
 <div>

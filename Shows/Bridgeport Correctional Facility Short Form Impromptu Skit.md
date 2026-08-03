@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "TITLE was a mainstage improv show about XXX."
 image: "File/TBD.jpg"
 ---
 <div>

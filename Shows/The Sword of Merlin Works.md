@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "An improvised narrative based on Arthurian fantasy."
 image: "File/The%20Sword%20of%20Merlin%20Works.jpg"
 ---
 <div>

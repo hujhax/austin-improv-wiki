@@ -1,5 +1,5 @@
 ---
-description: "|Run = 6/14/12."
+description: "An improvised version of MythBusters."
 image: "File/Myth%20Debunkers.jpg"
 ---
 <div>

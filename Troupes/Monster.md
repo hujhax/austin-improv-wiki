@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "An improv duo, focusing on working with silence, physicality, and..."
 image: "File/marc-jayme-stripes.jpg"
 ---
 <div>

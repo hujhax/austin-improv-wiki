@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct 2010."
+description: "\"_____\" or Bust!"
 image: "File/Blank%20or%20Bust.jpg"
 ---
 <div>

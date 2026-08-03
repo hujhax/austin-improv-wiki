@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "An original comedy musical mainstage show at The Institution Theater."
 image: "File/RnRPurgatoryCast.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012."
+description: "An improv troupe that started as a fringe format."
 image: "File/Celebrity%20Alter%20Ego.jpg"
 ---
 <div>

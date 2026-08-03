@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "An improv show."
 image: "File/Kaleidoscope.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-Present."
+description: "An improv instructor and performer."
 image: "File/Lisa%20Jackson.jpg"
 ---
 <div>

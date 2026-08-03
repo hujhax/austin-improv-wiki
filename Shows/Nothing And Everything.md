@@ -1,5 +1,5 @@
 ---
-description: "|Run= Nov/Dec 2014."
+description: "Narrative improv show inspired by the works of Anton Chekhov."
 image: "File/Nothing%20and%20Everything.jpg"
 ---
 <div>

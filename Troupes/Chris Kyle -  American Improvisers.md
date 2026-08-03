@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: "An improv duo."
 image: "File/Chris%20Kyle%20American%20Improvisers.jpg"
 ---
 <div>

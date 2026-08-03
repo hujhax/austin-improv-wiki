@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-Present."
+description: "An improv duo in Austin, TX."
 image: "File/The%20Better%20Half.jpg"
 ---
 <div>

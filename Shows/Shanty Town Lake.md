@@ -1,5 +1,5 @@
 ---
-description: "|Run = Apr-Jul 2010."
+description: "Sketch revue at ColdTowne Theater."
 image: "File/Shanty%20Town%20Lake.jpg"
 ---
 <div>

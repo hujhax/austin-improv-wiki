@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "ColdTowne Theater sketch comedy troupe."
 image: "File/Uptowne%20cast%20and%20crew%202009.JPG"
 ---
 <div>

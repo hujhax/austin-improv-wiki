@@ -1,5 +1,5 @@
 ---
-description: "|Director = Rodney Rincon."
+description: "An improv troupe that had a run at Cap City..."
 image: "File/The%20Laff%20Staff.jpg"
 ---
 <div>

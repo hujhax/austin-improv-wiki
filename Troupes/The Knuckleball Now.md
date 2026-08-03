@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-Present."
+description: "An improv troupe that focuses on high-energy montage."
 image: "File/The%20Knuckleball%20Now.jpg"
 ---
 <div>

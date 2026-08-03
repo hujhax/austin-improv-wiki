@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "An improv troupe loosely based on Dungeons & Dragons."
 image: "File/Epic.jpg"
 ---
 <div>

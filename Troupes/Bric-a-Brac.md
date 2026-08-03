@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2017-."
+description: "Formed from the heart of a party god."
 image: "File/BricABracPromo2.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Variety show."
 image: "File/The%20Hustle%20Show.jpg"
 ---
 <div>

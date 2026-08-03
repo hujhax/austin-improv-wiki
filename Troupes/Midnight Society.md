@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-Present."
+description: "An improv and sketch troupe."
 image: "File/Midnight%20Society.jpg"
 ---
 <div>

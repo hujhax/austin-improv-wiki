@@ -1,5 +1,5 @@
 ---
-description: "|Technical Director = Nichole Bennett."
+description: "Hideout student mainstage show inspired by the theatrical format of..."
 image: "File/wellmadeplay%20poster.jpg"
 ---
 <div>

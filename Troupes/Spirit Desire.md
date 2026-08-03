@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-2012."
+description: "An improv troupe associated with The New Movement Theater."
 image: "File/Spirit%20Desire.jpg"
 ---
 <div>

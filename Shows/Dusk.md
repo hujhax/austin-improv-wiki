@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct/Nov 2009."
+description: "(full name: Dusk: Improvised Tween Erotica) was a longform narrative..."
 image: "File/Dusk%20Image.jpg"
 ---
 <div>

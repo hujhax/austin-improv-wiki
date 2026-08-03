@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010."
+description: "One-off Cagematch team that performed a mono-scene with pop-outs."
 image: "File/Mixed%20Dinks.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-2013."
+description: "Cagematch duo that performed the Movie format."
 image: "File/Movie%20Meat.jpg"
 ---
 <div>

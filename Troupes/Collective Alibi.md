@@ -1,5 +1,5 @@
 ---
-description: "|Director = Adam Trabka."
+description: "An improv troupe."
 image: "File/Collective%20Alibi.jpg"
 ---
 <div>

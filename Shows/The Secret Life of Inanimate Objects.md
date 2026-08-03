@@ -1,5 +1,5 @@
 ---
-description: "|Assistant Director = Suzanne Link."
+description: "Will be the June 2016 student mainstage production at The..."
 image: "File/The%20Secret%20Life%20of%20Inanimate%20Objects%20Image.jpg"
 ---
 <div>

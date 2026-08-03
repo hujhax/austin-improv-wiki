@@ -1,5 +1,5 @@
 ---
-description: "|Run = Sep/Oct 2012."
+description: "An improvised longform narrative show inspired by the works of..."
 image: "File/Pulp%20Friction%20poster.jpg"
 ---
 <div>

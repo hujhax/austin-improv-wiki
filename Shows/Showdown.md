@@ -1,5 +1,5 @@
 ---
-description: "|Director = Avimaan Syam."
+description: "Serialized narrative longform western that ran as a mainstage show..."
 image: "File/Showdown.jpg"
 ---
 <div>

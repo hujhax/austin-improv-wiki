@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "Musical improv troupe that is based out of The New..."
 image: "File/Waterpark%20Publicity.jpg"
 ---
 <div>

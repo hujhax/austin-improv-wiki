@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-Present."
+description: "Troupe that specializes in Johnstonian improv."
 image: "File/Junk.jpg"
 ---
 <div>

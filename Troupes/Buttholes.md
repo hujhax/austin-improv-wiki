@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2018-Present."
+description: "(often written in all caps: BUTTHOLES) is a group consisting..."
 image: "File/Mandinka.jpg"
 ---
 <div>

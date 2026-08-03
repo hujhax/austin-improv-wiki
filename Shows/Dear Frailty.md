@@ -1,5 +1,5 @@
 ---
-description: "|Run = 2009."
+description: "One-man show created by and starring Arthur Simone."
 image: "File/Dear%20Frailty.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011."
+description: "(AKA Erica and Pierce) was an improv duo."
 ---
 <div>
 	<table class="infobox infobox-troupe">

@@ -1,5 +1,5 @@
 ---
-description: "|Director = Asaf Ronen."
+description: ": This page refers to the narrative troupe in which..."
 image: "File/The%20Plagiarists.jpg"
 ---
 <div>

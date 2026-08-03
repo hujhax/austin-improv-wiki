@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2008-Present."
+description: "An improv duo consisting of John Ratliff and Lisa Jackson."
 image: "File/Ratliff%20and%20Jackson.jpg"
 ---
 <div>

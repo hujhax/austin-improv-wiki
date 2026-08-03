@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Mainstage improv show in which every week, a new cast..."
 image: "File/The%20Sandbox.jpg"
 ---
 <div>

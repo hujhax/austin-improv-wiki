@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2008-Present."
+description: "An improv troupe in Austin, TX that creates and performs..."
 image: "File/Niceastro-2013-04-10.jpg"
 ---
 <div>

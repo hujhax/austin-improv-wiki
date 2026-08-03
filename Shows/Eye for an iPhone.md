@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct-Dec 2009."
+description: "Sketch revue at ColdTowne Theater."
 image: "File/Eye%20for%20an%20iPhone.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Past Members = Jessica Arjet (2012-2015)."
+description: "An improv troupe that focuses on grounded, dramatic longforms."
 image: "File/In%20Our%20Prime%20Three.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-Present."
+description: "Duo consisting of Brad Hawkins and Christopher \"Ceej\" Allen, playing..."
 image: "File/fd-promo.jpg"
 ---
 <div>

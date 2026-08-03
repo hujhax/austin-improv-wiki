@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "An actor, improviser, and improv/acting teacher."
 image: "File/IreneWhite.jpg"
 ---
 <div>

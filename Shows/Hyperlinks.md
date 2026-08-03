@@ -1,5 +1,5 @@
 ---
-description: "|Run = Mar 2009."
+description: "Mainstage show at The Hideout Theatre in which the audience..."
 image: "File/Hyperlinks.jpg"
 ---
 <div>

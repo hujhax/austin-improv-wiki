@@ -1,5 +1,5 @@
 ---
-description: "|Run = Saturday April 27 2013."
+description: "An improvised, interactive farce performed as part of Digestible Feats..."
 image: "File/Lord%20Wensleydale%27s%20Last%20High%20Tea.jpg"
 ---
 <div>

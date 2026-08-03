@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Varied."
+description: "Longform narrative show inspired by the works of Charles Dickens."
 image: "File/Charles%20Dickens%20Unleashed.jpg"
 ---
 <div>

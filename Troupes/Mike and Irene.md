@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: ".]]."
 image: "File/MikeIrenePoster.jpg"
 ---
 <div>

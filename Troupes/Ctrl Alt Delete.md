@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: ":This page refers to the current, all-female ColdTowne troupe."
 image: "File/Ctrl%20Alt%20Delete.jpg"
 ---
 <div>

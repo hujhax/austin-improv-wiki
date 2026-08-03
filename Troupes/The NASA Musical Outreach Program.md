@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011."
+description: "Musical improv duo."
 image: "File/The%20NASA%20Musical%20Outreach%20Program.jpg"
 ---
 <div>

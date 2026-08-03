@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jan/Feb 2010."
+description: "An improvised shortform show inspired by real-life-storytelling projects such as..."
 image: "File/Austin%20Secrets.jpg"
 ---
 <div>

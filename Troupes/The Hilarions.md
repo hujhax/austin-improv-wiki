@@ -1,5 +1,5 @@
 ---
-description: "|Years = 1984-1986."
+description: "An improv troupe -- possibly the first regularly-performing troupe in..."
 image: "File/The%20Hilarions.jpg"
 ---
 <div>

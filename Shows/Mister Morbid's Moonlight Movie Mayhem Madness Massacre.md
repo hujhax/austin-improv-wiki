@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct 2013."
+description: ", in character as Mister Morbid.]]."
 image: "File/Mister%20Morbid.jpg"
 ---
 <div>

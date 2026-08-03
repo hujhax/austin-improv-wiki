@@ -1,5 +1,5 @@
 ---
-description: "|Music =."
+description: "September/October 2015 mainstage production at The Hideout Theatre."
 image: "File/A%20Deed%20So%20Dark.jpg"
 ---
 <div>

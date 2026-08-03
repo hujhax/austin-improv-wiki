@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "Technical improvisor, Co-Technical Director of The Hideout Theatre, and transplant..."
 image: "File/Lindsey%20McGowen%20Pic.jpg"
 ---
 <div>

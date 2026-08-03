@@ -1,5 +1,5 @@
 ---
-description: "|Theater = The Hideout Theatre."
+description: "An improvised longform show based on wholesome 1950s television sitcoms."
 ---
 <div>
 	<table class="infobox infobox-show">

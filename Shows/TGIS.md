@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Mainstage show at ColdTowne Theater."
 image: "File/TGIS.jpg"
 ---
 <div>

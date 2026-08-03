@@ -1,5 +1,5 @@
 ---
-description: "|Director =."
+description: "An improv troupe."
 image: "File/Wooden%20Nickel.jpg"
 ---
 <div>

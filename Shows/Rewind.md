@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Hideout student mainstage show inspired by \"time-loop\" stories such as..."
 image: "File/rewind.jpg"
 ---
 <div>

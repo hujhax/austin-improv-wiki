@@ -1,5 +1,5 @@
 ---
-description: "|Director = Marc Majcher."
+description: "An improv show about the mechanics of oppression."
 image: "File/The%20tribunal.jpg"
 ---
 <div>

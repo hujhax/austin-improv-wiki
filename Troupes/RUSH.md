@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "(often written all-caps: RUSH) is a ColdTowne Student Troupe."
 image: "File/Rush.jpg"
 ---
 <div>

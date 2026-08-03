@@ -1,5 +1,5 @@
 ---
-description: "| Tech =."
+description: "Holy 1960's Batman, Batman!"
 image: "File/Batman.cast.jpg"
 ---
 <div>

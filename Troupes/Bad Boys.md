@@ -1,5 +1,5 @@
 ---
-description: "|Previous Members =."
+description: "An improv troupe."
 image: "File/Bad%20Boys%20Pic.jpg"
 ---
 <div>

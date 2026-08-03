@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: "Stage and technical improvisor and transplant from Metro Detroit, MI."
 image: "File/Brent%20Chismark%20Pic.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Run = 2004."
+description: "An hourlong montage show at The Hideout Theatre."
 image: "File/Reality%20Improv.jpg"
 ---
 <div>

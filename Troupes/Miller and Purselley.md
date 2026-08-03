@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-Present."
+description: "(originally Nat and Pierce) are an improv duo consisting of..."
 image: "File/Miller%20and%20Purselley.jpg"
 ---
 <div>

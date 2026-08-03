@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jun 2011."
+description: "An improvised puppet show."
 image: "File/Puppet%20Katamari.jpg"
 ---
 <div>

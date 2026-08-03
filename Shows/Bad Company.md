@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "An improvised longform narrative show inspired by mockumentaries such as..."
 image: "File/BadCo.jpg"
 ---
 <div>

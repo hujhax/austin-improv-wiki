@@ -1,5 +1,5 @@
 ---
-description: "|Theater = The Institution Theater."
+description: "(AKA Lovefest) is an annual improvised longform show based on..."
 ---
 <div>
 	<table class="infobox infobox-show">

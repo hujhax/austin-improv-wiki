@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Double bill of Twilight Zoned and Start Trekkin."
 image: "File/The%20Sci-Fi%20Comedy%20Double%20Feature.jpg"
 ---
 <div>

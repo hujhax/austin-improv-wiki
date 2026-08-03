@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2012."
+description: "An improv troupe based at The Institution Theater from 2011..."
 image: "File/Grey%20Matters.jpg"
 ---
 <div>

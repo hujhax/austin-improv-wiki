@@ -1,5 +1,5 @@
 ---
-description: "|Picture= Rise_shine.jpg."
+description: "An improvised morning talk show parody of Regis & Kelly..."
 image: "File/Rise%20shine.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Director = Kevin Miller."
+description: "An improv troupe."
 image: "File/Kosher%20Bacon%20Pic.jpg"
 ---
 <div>

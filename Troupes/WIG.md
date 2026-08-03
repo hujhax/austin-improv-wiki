@@ -1,5 +1,5 @@
 ---
-description: "|Former Members =."
+description: "(also stylized W.I.G."
 image: "File/WIG.jpg"
 ---
 <div>

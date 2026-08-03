@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012."
+description: "An improv troupe associated with ColdTowne Theater that performed an..."
 image: "File/Watergate.jpg"
 ---
 <div>

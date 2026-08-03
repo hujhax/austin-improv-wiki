@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "(also written Lunchpail) is a ColdTowne improv troupe."
 image: "File/Lunch%20Pail.jpg"
 ---
 <div>

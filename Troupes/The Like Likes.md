@@ -1,5 +1,5 @@
 ---
-description: "|Director = Dave Buckman."
+description: "An improv troupe."
 image: "File/The%20Like%20Likes.jpg"
 ---
 <div>

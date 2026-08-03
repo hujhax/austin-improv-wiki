@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "An improv troupe that focuses on Meisner techniques."
 image: "File/The%20Randy%20Meisner.jpg"
 ---
 <div>

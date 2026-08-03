@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-2016."
+description: "An improv troupe comprised of Level Seven Hideout graduates."
 image: "File/Boomerang.jpg"
 ---
 <div>

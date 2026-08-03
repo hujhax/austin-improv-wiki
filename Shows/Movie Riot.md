@@ -1,5 +1,5 @@
 ---
-description: "|Run = 2013-Present."
+description: "(formerly Movie Versus Movie) is a improv team that specializes..."
 image: "File/Movie%20Riot.jpg"
 ---
 <div>

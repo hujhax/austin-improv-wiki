@@ -1,5 +1,5 @@
 ---
-description: "|Run = May/Jun 2013."
+description: "Mainstage show at The Institution Theater that performed improvised continuations..."
 image: "File/NextChapter-poster.jpg"
 ---
 <div>

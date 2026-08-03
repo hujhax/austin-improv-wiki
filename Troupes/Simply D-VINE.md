@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "An improv duo that focuses on high-energy narrative improv."
 image: "File/Simply%20D-Vine.jpg"
 ---
 <div>

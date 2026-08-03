@@ -1,5 +1,5 @@
 ---
-description: "|Director = Liz Brammer."
+description: "One-off Cagematch team."
 ---
 <div>
 	<table class="infobox infobox-troupe">

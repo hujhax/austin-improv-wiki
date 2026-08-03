@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2013."
+description: "Performance-art troupe."
 image: "File/Austin%20Playback%20Theatre.jpg"
 ---
 <div>

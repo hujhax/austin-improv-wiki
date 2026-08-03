@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Mainstage show at The Hideout Theatre."
 image: "File/Fandom%20cover%20photo.jpg"
 ---
 <div>

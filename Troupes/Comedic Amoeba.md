@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-2008."
+description: "High-school improv troupe."
 image: "File/Comedic%20Amoeba.jpg"
 ---
 <div>

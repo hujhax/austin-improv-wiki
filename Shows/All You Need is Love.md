@@ -1,5 +1,5 @@
 ---
-description: "|Stage Manager = Sandra Ybarra."
+description: "An unapologetic, hopelessly romantic improvised rom-com &aacute; la Serendipity and..."
 image: "File/all%20you%20need%20is%20love.jpg"
 ---
 <div>

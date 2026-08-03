@@ -1,5 +1,5 @@
 ---
-description: "|Director = Jeremy Sweetlamb."
+description: "Teen-improv troupe."
 image: "File/Four%20Stories%20Tall%20.jpg"
 ---
 <div>

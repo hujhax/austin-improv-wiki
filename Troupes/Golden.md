@@ -1,5 +1,5 @@
 ---
-description: "|Director = Marc Majcher."
+description: "An improv troupe that performs silent narratives."
 image: "File/Golden%20%28troupe%29.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "\"Flying Theater Machine\" was re-branded \"Hideout Kids\" in 2017."
 image: "File/Flying%20Theater%20Machine.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Director = Varies."
+description: "Weekly Armando that features local celebrities as monologists."
 image: "File/The%20Megaphone%20Show.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "Duran & Johsnon (originally Heather Has Two Oprahs) is an..."
 image: "File/Duran%20%26%20Johsnon.jpg"
 ---
 <div>

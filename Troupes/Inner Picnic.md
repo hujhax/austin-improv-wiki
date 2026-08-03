@@ -1,5 +1,5 @@
 ---
-description: "|Past Members=."
+description: "Writes and performs Neo-Futurist inspired short plays."
 image: "File/Innerpicnic.jpg"
 ---
 <div>

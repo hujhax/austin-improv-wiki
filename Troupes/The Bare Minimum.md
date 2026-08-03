@@ -1,5 +1,5 @@
 ---
-description: "|Director =."
+description: "High-school comedy troupe."
 image: "File/The%20Bare%20Minimum.jpg"
 ---
 <div>

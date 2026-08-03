@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-2014, 2015."
+description: "Now-legendary improv troupe and World Heavyweight Champion based in Austin,..."
 image: "File/Moonsault.jpg"
 ---
 <div>

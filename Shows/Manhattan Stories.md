@@ -1,5 +1,5 @@
 ---
-description: "|Theater = The Hideout Theatre."
+description: "An improvised longform show in style of the films of..."
 image: "File/Manhattan-stories.jpg"
 ---
 <div>

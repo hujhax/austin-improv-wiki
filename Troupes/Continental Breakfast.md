@@ -1,5 +1,5 @@
 ---
-description: "|Director = Michael Joplin."
+description: "Troupe cast from one of the Merlin Works Mixers."
 image: "File/Continental%20Breakfast.jpg"
 ---
 <div>

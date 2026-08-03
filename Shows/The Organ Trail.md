@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct 2014."
+description: "Mainstage show at ColdTowne Theater, an audience-interactive, zombie-fied take on..."
 ---
 <div>
 	<table class="infobox infobox-show">

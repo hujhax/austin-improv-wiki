@@ -1,5 +1,5 @@
 ---
-description: "|Director = Arthur Simone."
+description: "An improv duo consisting of Arthur Simone and his dog."
 image: "File/Buddy%20Daddy.jpg"
 ---
 <div>

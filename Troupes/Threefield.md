@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2006-2007."
+description: "(AKA John Frum Day) was an improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

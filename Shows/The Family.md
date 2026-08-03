@@ -1,5 +1,5 @@
 ---
-description: "|Run = Feb/Mar 2010."
+description: "An ensemble-devised mob drama produced by Gnap!"
 image: "File/The%20Family%20Pic.jpg"
 ---
 <div>

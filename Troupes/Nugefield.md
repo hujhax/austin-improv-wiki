@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Current."
+description: "An improv duo that performs \"solid, relationship-based improvisation\"."
 image: "File/nugefield.jpg"
 ---
 <div>

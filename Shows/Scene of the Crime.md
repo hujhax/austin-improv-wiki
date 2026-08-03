@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "May/June 2015 mainstage production at The Hideout Theatre."
 image: "File/Scene%20of%20the%20Crime%20Poster.jpg"
 ---
 <div>

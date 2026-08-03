@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Scripted musical about 60s cult leader Charles Manson."
 image: "File/Manson%20-%20The%20Musical.jpg"
 ---
 <div>

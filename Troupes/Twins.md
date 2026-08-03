@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2018-."
+description: "TBD - How Twins was formed."
 image: "File/TwinsPromo.jpg"
 ---
 <div>

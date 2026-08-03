@@ -1,5 +1,5 @@
 ---
-description: "|Picture= Pgraph_goodman.jpg."
+description: "(often abbreviated to Pgraph) is a theatre company in Austin,..."
 image: "File/Pgraph%20goodman.jpg"
 ---
 <div>

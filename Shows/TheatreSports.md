@@ -1,5 +1,5 @@
 ---
-description: "|Assistant Director = Ryan Austin (2013)."
+description: ": This page refers to the competitive short-form improv show..."
 image: "File/TheatreSports.jpg"
 ---
 <div>

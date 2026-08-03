@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-2012."
+description: "An improv performer and photographer."
 image: "File/Stephanie%20Hagemeister%20Pic.jpg"
 ---
 <div>

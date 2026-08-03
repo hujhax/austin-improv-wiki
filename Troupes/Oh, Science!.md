@@ -1,5 +1,4 @@
 ---
-description: "|Years = 2009-Present."
 image: "File/Oh%2C%20Science%21.jpg"
 ---
 <div>

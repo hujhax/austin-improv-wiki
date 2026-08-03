@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "An improv show produced by The Hideout Theatre inspired by..."
 image: "File/After%20School%20Improv%20Pic.jpg"
 ---
 <div>

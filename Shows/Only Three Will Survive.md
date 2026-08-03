@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Cindy Page."
+description: "(often written with a trailing ellipsis: Only Three Will Survive...)..."
 image: "File/Only%20Three%20Will%20Survive.jpg"
 ---
 <div>

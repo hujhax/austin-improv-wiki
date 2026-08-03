@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-2011."
+description: "First house troupe at The New Movement."
 image: "File/Ghost%20Prom.png"
 ---
 <div>

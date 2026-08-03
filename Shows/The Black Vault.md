@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "An improvised longform show performed in the style of the..."
 ---
 <div>
 	<table class="infobox infobox-show">

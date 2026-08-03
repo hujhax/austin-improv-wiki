@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "An improvised show based around the films of the European..."
 image: "File/Posies.jpg"
 ---
 <div>

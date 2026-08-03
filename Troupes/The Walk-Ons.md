@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011."
+description: "Gnap!"
 ---
 <div>
 	<table class="infobox infobox-troupe">

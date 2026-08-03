@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2012."
+description: "An improv troupe composed entirely of foreign-born improvisers."
 image: "File/Foreign%20legion.jpg"
 ---
 <div>

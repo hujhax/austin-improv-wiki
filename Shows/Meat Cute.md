@@ -1,5 +1,5 @@
 ---
-description: "|Technical Director = TBA."
+description: "Hideout student mainstage show inspired by zombie-themed romantic comedies."
 image: "File/meat%20cute%20poster.jpg"
 ---
 <div>

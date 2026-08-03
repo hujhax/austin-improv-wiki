@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "April 2014 student mainstage production at The Hideout Theatre."
 image: "File/Camp%20Madeupponaspotta.png"
 ---
 <div>

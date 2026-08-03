@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010."
+description: "An improv troupe."
 image: "File/Apocalypse%20Meow.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009."
+description: "Troupe that performed a monoscene set in a lifeboat."
 image: "File/Lifeboat.jpg"
 ---
 <div>

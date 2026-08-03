@@ -1,5 +1,5 @@
 ---
-description: "|Director = Drew Wesely."
+description: "Weekly improv jam at 7:00 pm Fridays, at ColdTowne Conservatory,..."
 image: "File/Drew%27s%20Improv%20Gym.jpg"
 ---
 <div>

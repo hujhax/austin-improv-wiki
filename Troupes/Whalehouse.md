@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013."
+description: "Sketch/improv troupe primarily associated with ColdTowne Theater."
 image: "File/Whalehouse.jpg"
 ---
 <div>

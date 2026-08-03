@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Longform improv show that takes the audience through the process..."
 image: "File/Process%20Publicity%20Image.jpg"
 ---
 <div>

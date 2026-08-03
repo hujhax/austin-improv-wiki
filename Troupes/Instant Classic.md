@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "(AKA Instant Classic of America) is an improv duo."
 ---
 <div>
 	<table class="infobox infobox-troupe">

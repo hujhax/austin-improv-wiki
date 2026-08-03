@@ -1,5 +1,4 @@
 ---
-description: "|Crew =."
 image: "File/escandalo.jpg"
 ---
 <div>

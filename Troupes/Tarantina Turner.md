@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009."
+description: "One-off Cagematch team that performed a Close Quarters format."
 image: "File/Tarantina%20Turner.jpg"
 ---
 <div>

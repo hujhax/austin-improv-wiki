@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jul-Sep 2013."
+description: "Series of Austin-themed sketch-comedy runs that ran as a mainstage..."
 image: "File/Fuck%20Its%20Hot%20Poster.jpg"
 ---
 <div>

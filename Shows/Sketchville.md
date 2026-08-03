@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Webseries."
 image: "File/Sketchville.jpg"
 ---
 <div>

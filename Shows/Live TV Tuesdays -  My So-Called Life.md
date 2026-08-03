@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jun/Jul 2011."
+description: "Live TV Tuesdays presentation of the My So-Called Life episode..."
 image: "File/Live%20TV%20Tuesdays%20-%20My%20So-Called%20Life.jpg"
 ---
 <div>

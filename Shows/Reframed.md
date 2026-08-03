@@ -1,5 +1,5 @@
 ---
-description: "|Music = Content Love Knowles."
+description: "An improv show inspired by improv-show photographs."
 image: "File/Reframed.jpg"
 ---
 <div>

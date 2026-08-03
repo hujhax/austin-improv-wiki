@@ -1,5 +1,5 @@
 ---
-description: "|Run = Dec 2009."
+description: "An improvised all-female puppet show."
 image: "File/Sock%20Treatment.jpg"
 ---
 <div>

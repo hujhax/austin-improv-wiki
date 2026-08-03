@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-."
+description: "(said Austin and Austin) is a duo of friends Ryan..."
 image: "File/AustinAustinPromo.jpg"
 ---
 <div>

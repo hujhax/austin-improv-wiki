@@ -1,5 +1,5 @@
 ---
-description: "|Past Members =."
+description: "Musical improv troupe."
 image: "File/Hp.jpg"
 ---
 <div>

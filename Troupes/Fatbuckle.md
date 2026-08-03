@@ -1,5 +1,5 @@
 ---
-description: "|Years = 1997-2000."
+description: "Short-form improv troupe comprised of St."
 image: "File/Fatbuckle.jpg"
 ---
 <div>

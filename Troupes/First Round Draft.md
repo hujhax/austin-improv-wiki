@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2001-2002."
+description: "Short-form improv troupe based out of The Hideout Theatre."
 image: "File/First%20Round%20Draft.png"
 ---
 <div>

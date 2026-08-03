@@ -1,5 +1,5 @@
 ---
-description: "|Run = March 2012."
+description: ":This page refers to the 2012 improv show inspired by..."
 image: "File/Racket.jpg"
 ---
 <div>

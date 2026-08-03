@@ -1,5 +1,5 @@
 ---
-description: "|Picture= Rook.png."
+description: "Dramatic modern musical improv troupe."
 image: "File/Rook.png"
 ---
 <div>

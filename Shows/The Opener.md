@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Varies."
+description: "Weekly stand-up open mic."
 image: "File/The%20Opener.jpg"
 ---
 <div>

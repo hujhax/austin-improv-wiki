@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2014."
+description: "Puppet sketch-comedy show."
 image: "File/The%20Special%20Features.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011."
+description: "An improvised reality dating show."
 image: "File/The%20Box%20Social.jpg"
 ---
 <div>

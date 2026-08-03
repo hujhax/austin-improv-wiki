@@ -1,5 +1,5 @@
 ---
-description: "|Run = Apr 2007."
+description: "An improv show set in a record store."
 image: "File/Vinyl%20Destination.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "Duo consisting of Andreas Fabis and Jessica Arjet, focusing on..."
 image: "File/Gnome%20noir.jpg"
 ---
 <div>

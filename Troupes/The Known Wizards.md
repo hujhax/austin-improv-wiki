@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "Troupe consisting of faculty members from the Merlin Works Institute..."
 image: "File/Known%20wizards.jpg"
 ---
 <div>

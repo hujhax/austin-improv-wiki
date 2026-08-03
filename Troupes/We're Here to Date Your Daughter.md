@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "(often referred to by its acronym, WHTDYD) is an ensemble..."
 image: "File/WHTDYD.jpg"
 ---
 <div>

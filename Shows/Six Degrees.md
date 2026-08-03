@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Various."
+description: "Mainstage show put on by The Hideout Theatre."
 image: "File/Six%20Degrees%20Pic.jpg"
 ---
 <div>

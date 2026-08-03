@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "Taxi Cab Impressions is a predominantly short-form Armando-style troupe with..."
 image: "File/Taxi%20Cab%20Impressions.jpg"
 ---
 <div>

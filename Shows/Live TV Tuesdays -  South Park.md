@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jun/Jul 2012."
+description: "Live TV Tuesdays presentation of the South Park episodes \"Something..."
 image: "File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg"
 ---
 <div>

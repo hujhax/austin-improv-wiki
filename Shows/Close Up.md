@@ -1,5 +1,5 @@
 ---
-description: "|Run = August 2015."
+description: "(original working title: Single Camera Comedy) was the August 2015..."
 image: "File/Close%20Up.jpg"
 ---
 <div>

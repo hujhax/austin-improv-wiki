@@ -1,5 +1,5 @@
 ---
-description: "|Run = Apr 2014."
+description: "Mainstage improv show at ColdTowne Theater about a team of..."
 image: "File/Slam%20Team%20Six.jpg"
 ---
 <div>

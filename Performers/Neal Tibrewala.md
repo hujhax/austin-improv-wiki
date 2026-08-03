@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-2015."
+description: "An improv performer and technical improvisor."
 image: "File/Neal%20Tibrewala%20Pic.jpg"
 ---
 <div>

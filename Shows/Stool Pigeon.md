@@ -1,5 +1,5 @@
 ---
-description: "|Run = 2007-2013."
+description: "Weekly Armando at ColdTowne Theater."
 image: "File/Stool%20Pigeon.jpg"
 ---
 <div>

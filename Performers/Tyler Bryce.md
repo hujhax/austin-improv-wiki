@@ -1,5 +1,5 @@
 ---
-description: "|Years = 1991-Present."
+description: "An improv performer and director."
 image: "File/Tyler%20Bryce%20Pic.jpg"
 ---
 <div>

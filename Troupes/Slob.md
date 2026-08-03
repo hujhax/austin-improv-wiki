@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "(usually written all-caps: SLOB) is an improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

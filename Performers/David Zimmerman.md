@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2007-Present."
+description: "Stage and technical improvisor."
 image: "File/David%20Zimmerman%20Pic.jpg"
 ---
 <div>

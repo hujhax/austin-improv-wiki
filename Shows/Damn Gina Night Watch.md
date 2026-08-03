@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Damn Gina: Night Watch was a mainstage improv show about..."
 image: "File/TBD.jpg"
 ---
 <div>

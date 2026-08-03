@@ -1,5 +1,5 @@
 ---
-description: "|Director = Chuy Zarate."
+description: "An improv troupe with an emphasis on expressing a Latino..."
 image: "File/Shades%20of%20Brown.jpg"
 ---
 <div>

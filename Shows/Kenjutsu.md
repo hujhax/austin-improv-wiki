@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "(full title: Kenjutsu: The Art of the Sword) was a..."
 image: "File/Kenjutsu.jpg"
 ---
 <div>

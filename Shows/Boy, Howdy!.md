@@ -1,5 +1,4 @@
 ---
-description: "|Tech =."
 image: "File/Boy%2C%20Howdy%21.jpg"
 ---
 <div>

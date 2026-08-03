@@ -1,5 +1,5 @@
 ---
-description: "|Past Members =."
+description: "An independent, Harold oriented, improv team."
 image: "File/BadFont%20Hideout.jpg"
 ---
 <div>

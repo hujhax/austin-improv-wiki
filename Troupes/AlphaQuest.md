@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Troupe that performs narratives while playing the Alphabet Game."
 image: "File/typewriter.jpg"
 ---
 <div>

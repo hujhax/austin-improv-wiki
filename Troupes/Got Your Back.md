@@ -1,5 +1,5 @@
 ---
-description: "|Years= 2014-Present."
+description: "An Austin comedy podcast featuring interviews with Austin comedians."
 image: "File/Got%20Your%20Back%20Pic.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = July 2014-Present."
+description: "An improv troupe consisting of Rosemarie Frezza, Ann Symmonds, Aspen..."
 image: "File/PhysicsCurseMooseBooth2014.jpg"
 ---
 <div>

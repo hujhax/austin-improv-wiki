@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "Sketch troupe that performs monthly at The New Movement."
 image: "File/Bad%20Example.jpg"
 ---
 <div>

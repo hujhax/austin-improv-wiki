@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-2011."
+description: ":This page refers to the defunct all-male troupe consisting of..."
 image: "File/Ctrl-Alt-Delight.jpg"
 ---
 <div>

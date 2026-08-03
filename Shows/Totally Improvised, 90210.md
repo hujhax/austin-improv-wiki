@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: ":This page refers to the Gnap!"
 image: "File/90210.jpg"
 ---
 <div>

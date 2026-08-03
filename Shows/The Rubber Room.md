@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Various."
+description: "Weekly improv jam at The Institution Theater."
 image: "File/The%20Rubber%20Room.jpg"
 ---
 <div>

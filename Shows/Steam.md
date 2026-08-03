@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jan/Feb 2012."
+description: "(full title: Steam, Rose-Colored Goggles, and the Flight of the..."
 image: "File/Steam.jpg"
 ---
 <div>

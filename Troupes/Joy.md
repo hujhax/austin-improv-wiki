@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013."
+description: "(typically written all-caps: JOY) was an improv troupe."
 image: "File/Joy.jpg"
 ---
 <div>

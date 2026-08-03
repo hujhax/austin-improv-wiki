@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Mainstage improv show about a spy agency."
 image: "File/Beware%20of%20Female%20Spies.jpg"
 ---
 <div>

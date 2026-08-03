@@ -1,5 +1,5 @@
 ---
-description: "|Director = Marc Pruter."
+description: "(often misspelled Monk's Night Out) was one of the best-known..."
 image: "File/Monks%27%20Night%20Out.jpg"
 ---
 <div>

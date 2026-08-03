@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "An improv performer, technical improvisor, and photographer."
 image: "File/Chad%20Wellington%20Pic.jpg"
 ---
 <div>

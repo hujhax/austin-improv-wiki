@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Serialized improv show."
 image: "File/The%20Great%20Mundane.jpg"
 ---
 <div>

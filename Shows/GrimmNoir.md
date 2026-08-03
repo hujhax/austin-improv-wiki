@@ -1,5 +1,5 @@
 ---
-description: "| Tech =."
+description: "(also styled Grimm Noir) is an Institution Theater mainstage show..."
 image: "File/GrimmNoir.jpg"
 ---
 <div>

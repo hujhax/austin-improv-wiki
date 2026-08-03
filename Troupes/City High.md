@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010."
+description: "First house Harold troupe at The New Movement."
 image: "File/City%20High.jpg"
 ---
 <div>

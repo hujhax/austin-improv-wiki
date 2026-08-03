@@ -1,5 +1,5 @@
 ---
-description: "|Run= Jul/Aug 2013."
+description: "Mainstage show at The Hideout Theatre."
 image: "File/Fakespeare%20Poster.jpg"
 ---
 <div>

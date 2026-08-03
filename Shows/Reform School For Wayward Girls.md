@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Mainstage show at The Hideout Theatre set in a 1970s..."
 image: "File/Reform%20School%20for%20Wayward%20Girls.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "(formerly Men in Chrissy's Life) is an improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

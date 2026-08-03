@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-2015."
+description: "Troupe that focuses on monoscenes about women who like each..."
 image: "File/No%20Frills.jpg"
 ---
 <div>

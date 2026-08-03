@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-Present."
+description: "An improv duo consisting of Kaci Beeler and Curtis Luciani."
 image: "File/The%20Amazon%20and%20the%20Milksop.jpg"
 ---
 <div>

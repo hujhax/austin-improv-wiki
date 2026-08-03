@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Of the cast of heroes from Strange Worlds.]]."
 image: "File/Strange%20Worlds%20Image.jpg"
 ---
 <div>

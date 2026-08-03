@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Kat Greco."
+description: "An improvised puppet show."
 image: "File/Off%20the%20Reef.png"
 ---
 <div>

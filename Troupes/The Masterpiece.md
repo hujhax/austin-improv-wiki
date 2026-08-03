@@ -1,5 +1,5 @@
 ---
-description: "|Music = Ammon Taylor."
+description: "An improv duo."
 image: "File/The%20Masterpiece.png"
 ---
 <div>

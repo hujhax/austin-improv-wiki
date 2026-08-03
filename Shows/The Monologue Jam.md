@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Varies."
+description: "Competitive improvised-monolog show."
 image: "File/The%20Monologue%20Jam.jpg"
 ---
 <div>

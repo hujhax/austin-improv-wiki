@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2015-Present."
+description: "An improv-duo offshoot of iScream Sandwich."
 image: "File/Bitches%20Be%20Crazy.jpg"
 ---
 <div>

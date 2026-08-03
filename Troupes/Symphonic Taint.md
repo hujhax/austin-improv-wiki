@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "Musical-improv duo."
 image: "File/Symphonic%20Taint.jpg"
 ---
 <div>

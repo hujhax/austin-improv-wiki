@@ -1,5 +1,4 @@
 ---
-description: "|Cast =."
 image: "File/TBD.jpg"
 ---
 <div>

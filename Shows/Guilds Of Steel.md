@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Narrative longform show based on MMORPGs such as World of..."
 image: "File/Guilds%20of%20Steel%20Pic.jpg"
 ---
 <div>

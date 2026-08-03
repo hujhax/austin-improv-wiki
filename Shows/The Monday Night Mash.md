@@ -1,5 +1,5 @@
 ---
-description: "|Director =."
+description: "Performance slot at ColdTowne Theater."
 image: "File/The%20Monday%20Night%20Mash.jpg"
 ---
 <div>

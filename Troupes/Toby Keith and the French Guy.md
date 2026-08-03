@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-2013."
+description: "Persona-prov improv duo."
 image: "File/Toby%20Keith%20and%20the%20French%20Guy.gif"
 ---
 <div>

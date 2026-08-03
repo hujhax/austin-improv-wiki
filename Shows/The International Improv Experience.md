@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Mainstage show at The Hideout Theatre."
 image: "File/The%20International%20Improv%20Experience.jpg"
 ---
 <div>

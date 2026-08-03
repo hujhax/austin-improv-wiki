@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-Present."
+description: "(AKA Alex Gray) is an improv performer and director."
 image: "File/Mike%20Nystul%20Pic.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Director = Justin Bozied."
+description: ": This page refers to the narrative troupe in which..."
 image: "File/The%20Library.jpg"
 ---
 <div>

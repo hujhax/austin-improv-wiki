@@ -1,5 +1,5 @@
 ---
-description: "|Director = Marc Majcher."
+description: "An improv troupe that performed organic montage."
 image: "File/Blink.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013."
+description: "(AKA DewBuck) was an improv duo."
 image: "File/Lane%20and%20Jane.jpg"
 ---
 <div>

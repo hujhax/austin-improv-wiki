@@ -1,5 +1,5 @@
 ---
-description: "|Music = Ammon Taylor."
+description: "Scripted puppet musical for kids."
 image: "File/Trash.jpg"
 ---
 <div>

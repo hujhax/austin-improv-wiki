@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-2010."
+description: "ColdTowne is an improv troupe founded in New Orleans."
 image: "File/Coldtowne.jpg"
 ---
 <div>

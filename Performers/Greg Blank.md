@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "An improv performer and tech."
 image: "File/blank.jpg"
 ---
 

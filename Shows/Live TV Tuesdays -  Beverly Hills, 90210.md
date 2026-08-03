@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: ":This page refers to the Live TV Tuesdays presentation of..."
 image: "File/Live%20TV%20Tuesdays-%2090210.jpg"
 ---
 <div>

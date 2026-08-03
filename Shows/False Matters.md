@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Sam Schak."
+description: "Longform mainstage improv production with Gnap!"
 image: "File/False%20Matters.jpg"
 ---
 <div>

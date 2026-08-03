@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Mainstage at the Hideout Theatre."
 image: "File/Wanderlust.jpg"
 ---
 <div>

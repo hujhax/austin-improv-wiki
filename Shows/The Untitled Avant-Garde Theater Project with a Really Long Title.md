@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Will be the December 2016 student mainstage production at The..."
 image: "File/The%20Untitled%20Avant-Garde%20Theater%20Project%20with%20a%20Really%20Long%20Title%20Placeholder%20Image.jpg"
 ---
 <div>

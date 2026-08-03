@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-2013."
+description: "The Super Troopers was a troupe of newer improvisors associated..."
 image: "File/The%20Super%20Troopers.jpg"
 ---
 <div>

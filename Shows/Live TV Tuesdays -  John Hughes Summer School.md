@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jul/Aug 2011."
+description: "Live TV Tuesdays presentation of \"John Hughes Summer School\", a..."
 image: "File/Live%20TV%20Tuesdays%20-%20John%20Hughes%20Summer%20School.jpg"
 ---
 <div>

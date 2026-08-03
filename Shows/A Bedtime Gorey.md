@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "Mainstage show at The Hideout Theatre, inspired by the works..."
 image: "File/A%20Bedtime%20Gorey.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Picture= GoatLogo.gif."
+description: "Troupe specializing in improvised tragedy."
 image: "File/GoatLogo.gif"
 ---
 <div>

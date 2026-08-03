@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "An improv troupe based at ColdTowne Theater that has done..."
 image: "File/Precious%20Dads.jpg"
 ---
 <div>

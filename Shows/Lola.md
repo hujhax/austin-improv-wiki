@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Mainstage improv show at Salvage Vanguard Theater."
 image: "File/Lola%20Poster.jpg"
 ---
 <div>

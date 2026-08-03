@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "An improvised burlesque narrative mainstage show at The Institution Theater."
 image: "File/Hurly%20Burly%20Poster.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Cindy Page."
+description: "An improv duo featuring Ryan Hill and Clay Towery."
 image: "File/Dandy.jpg"
 ---
 <div>

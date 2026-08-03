@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2006-Present."
+description: "Mr."
 image: "File/Mr.%20and%20Mrs.%20Danger.jpg"
 ---
 <div>

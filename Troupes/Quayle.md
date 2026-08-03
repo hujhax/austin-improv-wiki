@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-2011."
+description: "Started as a duo between Kyle Traughber and Quinn Buckner..."
 image: "File/Quayle.jpg"
 ---
 <div>

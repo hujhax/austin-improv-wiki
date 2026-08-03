@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011."
+description: "Sketch-and-improv duo."
 image: "File/Mutual%20of%20Omaha%27s%20Wild%20Kingdom.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Run = April/May 2014."
+description: "(full name: Back In Townsville: Townsville Community Center) was a..."
 ---
 <div>
 	<table class="infobox infobox-show">

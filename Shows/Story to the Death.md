@@ -1,5 +1,5 @@
 ---
-description: "|Run = Aug 2016."
+description: "Recurring student mainstage production at The Hideout Theatre."
 image: "File/Story%20to%20the%20Death%20Promo.jpg"
 ---
 <div>

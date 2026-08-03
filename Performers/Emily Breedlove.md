@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-Present."
+description: ".]]."
 image: "File/Emily%20Breedlove%20Pic.jpg"
 ---
 <div>

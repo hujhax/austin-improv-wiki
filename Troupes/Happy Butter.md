@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011."
+description: "Troupe focusing on narrative improv."
 image: "File/Happy%20Butter.jpg"
 ---
 <div>

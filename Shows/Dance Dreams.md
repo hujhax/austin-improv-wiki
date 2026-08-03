@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Hideout mainstage show set backstage at a ballet company."
 image: "File/dance%20dreams.jpg"
 ---
 <div>

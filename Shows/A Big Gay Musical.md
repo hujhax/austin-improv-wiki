@@ -1,5 +1,5 @@
 ---
-description: "|Crew=."
+description: "Hideout mainstage musical featuring the lives and stories of queer..."
 image: "File/abiggaymusicalplaceholder.png"
 ---
 <div>

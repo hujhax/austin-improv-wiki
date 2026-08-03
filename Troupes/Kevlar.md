@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "(full name: Kevlar: We're Bulletproof) is an improv duo."
 image: "File/Kevlar.jpg"
 ---
 <div>

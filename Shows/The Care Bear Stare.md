@@ -1,5 +1,5 @@
 ---
-description: "|Run = Jun 2013."
+description: "An improv format inspired by the Care Bears cartoons and..."
 image: "File/Care%20Bears.jpg"
 ---
 <div>

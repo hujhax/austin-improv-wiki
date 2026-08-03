@@ -1,5 +1,5 @@
 ---
-description: "|Run = Feb 2015."
+description: "February 2015 student mainstage production at The Hideout Theatre."
 image: "File/One-Small-Step-Poster-2015-web-small.jpg"
 ---
 <div>

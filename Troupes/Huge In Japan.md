@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013."
+description: "(often written all-caps: HUGE IN JAPAN) was an improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

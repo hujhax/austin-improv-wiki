@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "(formerly JonJohn) is an improv duo."
 ---
 <div>
 	<table class="infobox infobox-troupe">

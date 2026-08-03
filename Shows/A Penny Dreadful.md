@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "December 2014 student mainstage production at The Hideout Theatre."
 image: "File/A%20Penny%20Dreadful.jpg"
 ---
 <div>

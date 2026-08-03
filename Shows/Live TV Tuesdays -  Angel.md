@@ -1,5 +1,5 @@
 ---
-description: "|Tech = BK McKee."
+description: "Live TV Tuesdays presentation of the Angel episode \"Smile Time\"."
 image: "File/Live%20TV%20Tuesdays%20-%20Angel.jpg"
 ---
 <div>

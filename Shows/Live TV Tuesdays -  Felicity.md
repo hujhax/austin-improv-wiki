@@ -1,5 +1,5 @@
 ---
-description: "|Director = Carla Goodman."
+description: "Live TV Tuesdays presentation of the Felicity episode \"Gimme an..."
 image: "File/Live%20TV%20Tuesdays%20-%20Felicity.jpg"
 ---
 <div>

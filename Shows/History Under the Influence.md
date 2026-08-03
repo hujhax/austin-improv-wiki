@@ -1,5 +1,5 @@
 ---
-description: "|Director = Kevin Miller."
+description: "An improv format inspired by the YouTube/Comedy Central series Drunk..."
 image: "File/History%20Under%20the%20Influence%20Pic.jpg"
 ---
 <div>

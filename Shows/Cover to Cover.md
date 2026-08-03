@@ -1,5 +1,5 @@
 ---
-description: "|Producer = Gnap!"
+description: "Longform show inspired by the Nancy Drew and Hardy Boys..."
 image: "File/Cover%20to%20Cover.gif"
 ---
 <div>

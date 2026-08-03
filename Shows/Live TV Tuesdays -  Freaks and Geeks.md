@@ -1,5 +1,5 @@
 ---
-description: "|Tech = David Zimmerman."
+description: "Live TV Tuesdays presentation of the Freaks and Geeks episode..."
 image: "File/Live%20TV%20Tuesdays%20-%20Freaks%20and%20Geeks.jpg"
 ---
 <div>

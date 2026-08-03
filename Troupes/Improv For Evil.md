@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2006-2013."
+description: "An improv troupe that focused on experimental and unprepared formats."
 image: "File/Improv%20for%20Evil.jpg"
 ---
 <div>

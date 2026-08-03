@@ -1,5 +1,5 @@
 ---
-description: "|Producer=."
+description: "Live TV Tuesdays presentation of the Scrubs episodes \"My Overkill\"..."
 image: "File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg"
 ---
 <div>

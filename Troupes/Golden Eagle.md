@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2010."
+description: "== History ==."
 ---
 <div>
 	<table class="infobox infobox-troupe">

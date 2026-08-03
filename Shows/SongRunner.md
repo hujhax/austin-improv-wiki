@@ -1,5 +1,5 @@
 ---
-description: "|Assistant Director = Jordan T."
+description: "June 2015 student mainstage production at The Hideout Theatre."
 image: "File/SongRunner.jpg"
 ---
 <div>

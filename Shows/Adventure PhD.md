@@ -1,5 +1,5 @@
 ---
-description: "|Run = Oct 2016."
+description: "Will be the October 2016 student mainstage production at The..."
 image: "File/Adventure%20phd%20cast.jpg"
 ---
 <div>

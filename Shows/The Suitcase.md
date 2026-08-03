@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: "Mainstage show at The Institution Theater."
 image: "File/The%20Suitcase.jpg"
 ---
 <div>

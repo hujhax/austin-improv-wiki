@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Varies."
+description: "Close Quarters sketch comedy show created by Tim and Nicole..."
 image: "File/Townsville-duoposter1.jpg"
 ---
 <div>

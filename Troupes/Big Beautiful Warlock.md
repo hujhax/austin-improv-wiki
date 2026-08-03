@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-Present."
+description: "Troupe which performs a modified La Ronde."
 image: "File/Big%20Beautiful%20Warlock.jpg"
 ---
 <div>

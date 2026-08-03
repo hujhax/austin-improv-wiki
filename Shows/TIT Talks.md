@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Various."
+description: "An improv show inspired by TED Talks."
 image: "File/TIT%20Talks.jpg"
 ---
 <div>

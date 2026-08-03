@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Live TV Tuesdays presentation of the Buffy the Vampire Slayer..."
 image: "File/Live%20TV%20Tuesdays-%20Buffy.jpg"
 ---
 <div>

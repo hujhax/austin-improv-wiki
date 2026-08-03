@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Martini Ranch: Hidden Valley was a mainstage sketch show about..."
 image: "File/TBD.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009."
+description: "One-off Cagematch team."
 image: "File/Drinkies%20Galore%203.jpg"
 ---
 <div>

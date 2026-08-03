@@ -1,5 +1,5 @@
 ---
-description: "|Cast = Various."
+description: "Start Trekkin was an improvised longform narrative show inspired by..."
 image: "File/Start%20Trekkin%27.jpg"
 ---
 <div>

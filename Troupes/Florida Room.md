@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2012."
+description: "(full name: Florida Room: Improvised Golden Girls) was an improv..."
 image: "File/Florida%20Room.jpg"
 ---
 <div>

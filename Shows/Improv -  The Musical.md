@@ -1,5 +1,5 @@
 ---
-description: "|Cast = TBA."
+description: "An upcoming scripted musical at The Institution Theater."
 image: "File/Improv%20The%20Musical.jpg"
 ---
 <div>

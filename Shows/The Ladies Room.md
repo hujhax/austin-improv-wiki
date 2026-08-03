@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Asaf Ronen."
+description: "Mainstage show at The Institution Theater."
 image: "File/The%20Ladies%20Room.jpg"
 ---
 <div>

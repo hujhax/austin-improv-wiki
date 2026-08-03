@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: ":This page refers to the 2014 musical-improv troupe."
 image: "File/That%20Racket%21.jpg"
 ---
 <div>

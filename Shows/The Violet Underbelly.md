@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Mainstage show at The Hideout Theatre which presented narrative longform..."
 image: "File/The%20Violet%20Underbelly.jpg"
 ---
 <div>

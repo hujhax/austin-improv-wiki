@@ -1,5 +1,4 @@
 ---
-description: "|Director = Sara Farr."
 image: "File/Crack%21.jpg"
 ---
 <div>

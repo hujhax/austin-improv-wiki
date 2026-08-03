@@ -1,5 +1,5 @@
 ---
-description: "|."
+description: "Webseries set in a game-production company."
 ---
 <div>
 	<table class="infobox infobox-show">

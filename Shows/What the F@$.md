@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "(the symbols can vary) was the first student mainstage production..."
 image: "File/What%20the%20F%40%24.jpg"
 ---
 <div>

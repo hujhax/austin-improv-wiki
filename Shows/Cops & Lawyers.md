@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "An improvised longform narrative show inspired by Law & Order."
 image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 ---
 <div>

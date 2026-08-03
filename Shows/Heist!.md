@@ -1,5 +1,4 @@
 ---
-description: "|Cast =."
 image: "File/Heist.jpg"
 ---
 <div>

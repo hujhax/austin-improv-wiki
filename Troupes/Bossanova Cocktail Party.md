@@ -1,5 +1,5 @@
 ---
-description: "|Director = Chris Trew."
+description: "Improv/sketch duo from The New Movement Theater."
 ---
 <div>
 	<table class="infobox infobox-troupe">

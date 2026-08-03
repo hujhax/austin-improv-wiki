@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2018-Present."
+description: "An improv troupe in Austin, TX that creates and performs..."
 image: "File/Lucky%20Billy.jpeg"
 ---
 <div>

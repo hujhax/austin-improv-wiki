@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "An improvised longform narrative show inspired by The Twilight Zone."
 image: "File/Twilight%20Zoned.jpg"
 ---
 <div>

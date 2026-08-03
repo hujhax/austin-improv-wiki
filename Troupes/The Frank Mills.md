@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-Present."
+description: "An improv troupe of working actors who perform grounded, character-driven..."
 image: "File/The%20Frank%20Mills.jpg"
 ---
 <div>

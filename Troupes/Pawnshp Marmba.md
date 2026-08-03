@@ -1,5 +1,5 @@
 ---
-description: "|Director = Asaf Ronen."
+description: "(often written with an exclamation point: Pawnshp Marmba!) is an..."
 ---
 <div>
 	<table class="infobox infobox-troupe">

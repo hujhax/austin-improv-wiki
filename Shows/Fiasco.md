@@ -1,5 +1,5 @@
 ---
-description: "|Tech =."
+description: ".]]."
 image: "File/Fiasco%20Poster.jpg"
 ---
 <div>

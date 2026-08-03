@@ -1,5 +1,5 @@
 ---
-description: "|Run = Aug 2011."
+description: "Live TV Tuesdays presentation of the Party of Five episode..."
 image: "File/Live%20TV%20Tuesdays%20-%20Party%20of%20Five.jpg"
 ---
 <div>

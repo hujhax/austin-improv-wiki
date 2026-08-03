@@ -1,5 +1,4 @@
 ---
-description: "|Years = 2015-Present."
 image: "File/Andrew%20%26%20Jeremy%20Hypnotize%20Each%20Other%21.png"
 ---
 <div>

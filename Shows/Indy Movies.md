@@ -1,5 +1,5 @@
 ---
-description: "|Run = Aug/Sep 2013."
+description: "(full title: Indy Movies: The Filmmaking Misadventures Of Wade Wood)..."
 image: "File/Indy%20Movies.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Crew =."
+description: "(full title: Things You Love, The Musical) is a Hideout..."
 image: "File/Things%20You%20Love.jpg"
 ---
 <div>

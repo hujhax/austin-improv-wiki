@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2011-Present."
+description: "An improv troupe associated with ColdTowne Theater."
 image: "File/The%20Team.jpg"
 ---
 <div>

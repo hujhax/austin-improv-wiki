@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Michael Yew."
+description: "(full name: The Professor: Improv Inspired by Doctor Who) is..."
 image: "File/The%20Professor.jpg"
 ---
 <div>

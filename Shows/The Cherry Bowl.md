@@ -1,5 +1,5 @@
 ---
-description: "|Run = Feb/Mar 2012."
+description: "Show produced by Gnap!"
 image: "File/TheCherryBowl.jpg"
 ---
 <div>

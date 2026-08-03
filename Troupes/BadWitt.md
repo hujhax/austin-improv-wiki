@@ -1,5 +1,5 @@
 ---
-description: "|Picture = BadWitt.jpg."
+description: "An improv duo."
 image: "File/BadWitt.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Tech = Britney Salyer."
+description: "Live TV Tuesdays presentation of the Dawson's Creek episode \"The..."
 image: "File/Live%20TV%20Tuesdays%20-%20Dawson%27s%20Creek.jpg"
 ---
 <div>

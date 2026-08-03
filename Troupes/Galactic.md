@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "(formerly Battlestar Gillacktucka) is an improv duo consisting of Josh..."
 image: "File/Galactic.jpg"
 ---
 <div>

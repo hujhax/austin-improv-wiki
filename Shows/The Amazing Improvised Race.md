@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Longform improv show loosely inspired by the television show The..."
 image: "File/The%20Amazing%20Improvised%20Race.jpg"
 ---
 <div>

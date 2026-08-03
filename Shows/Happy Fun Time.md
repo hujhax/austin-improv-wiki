@@ -1,5 +1,5 @@
 ---
-description: "|Cast = T.B.A."
+description: "== Summary ==."
 ---
 <div>
 	<table class="infobox infobox-show">

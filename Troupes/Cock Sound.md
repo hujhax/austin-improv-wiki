@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2006-2007."
+description: "An all-female rap trio."
 ---
 <div>
 	<table class="infobox infobox-troupe">

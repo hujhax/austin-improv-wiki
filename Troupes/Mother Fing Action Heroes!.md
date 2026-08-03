@@ -1,5 +1,4 @@
 ---
-description: "|Director = Jason Oliver."
 image: "File/Mother%20Fing%20Action%20Heroes%21.jpg"
 ---
 <div>

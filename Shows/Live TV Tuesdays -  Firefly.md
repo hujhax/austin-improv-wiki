@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Live TV Tuesdays presentation of the Firefly episode \"Our Mrs."
 image: "File/FireflyPoster.jpg"
 ---
 <div>

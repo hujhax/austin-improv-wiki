@@ -1,5 +1,5 @@
 ---
-description: "|Music Director =."
+description: "Series of original comedy mini-musicals at The Institution Theater."
 image: "File/The%20Jukebox%20Musical%20Project.jpg"
 ---
 <div>

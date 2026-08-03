@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-2011."
+description: "An improv duo which featured Aden Kirschner and Mo Daviau..."
 image: "File/Battle%20Axe.jpg"
 ---
 <div>

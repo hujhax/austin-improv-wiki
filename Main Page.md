@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "The Austin Improv Wiki is a wiki devoted to the..."
 ---
 
 

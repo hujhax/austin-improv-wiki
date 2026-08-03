@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2014-Present."
+description: "An improv performer in Austin, Texas."
 image: "File/Austin%20monologue%20jam.jpg"
 ---
 <div>

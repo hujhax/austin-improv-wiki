@@ -1,5 +1,5 @@
 ---
-description: "|Former Members =."
+description: "Starting from a dream, Mirage Machine weaves a tapestry of..."
 image: "File/MMSquare.png"
 ---
 <div>

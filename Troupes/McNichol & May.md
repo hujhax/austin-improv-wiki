@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-Present."
+description: "An improv duo consisting of married couple Bob McNichol and..."
 image: "File/McNichol%20%26%20May%20Pic.jpg"
 ---
 <div>

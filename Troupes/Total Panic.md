@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2009-2011."
+description: "6th ColdTowne Student Troupe and was formed during the ColdTowne/New..."
 image: "File/Total%20Panic.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013."
+description: "An improv duo consisting of Curtis Luciani and Eric Heiberg."
 image: "File/Waiting%20for%20Batman.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "}}."
+description: "Restaurant/entertainment facility that serves as an adjunct to the Alamo..."
 image: "File/Highball%20Logo.jpg"
 ---
 <div>

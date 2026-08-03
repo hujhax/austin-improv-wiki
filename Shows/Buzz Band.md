@@ -1,5 +1,5 @@
 ---
-description: "|Cast =."
+description: "Mainstage show at The Institution Theater set in the 1990s..."
 image: "File/Buzz%20Band.jpg"
 ---
 <div>

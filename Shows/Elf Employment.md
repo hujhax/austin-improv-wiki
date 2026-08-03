@@ -1,5 +1,5 @@
 ---
-description: "|Producer= Puppet Improv Project."
+description: "Christmas-themed improvised puppet musical."
 image: "File/Elf%20Employment.jpg"
 ---
 <div>

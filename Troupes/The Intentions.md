@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2010-Present."
+description: "An improv troupe that focuses on fast-paced, high-energy montage."
 image: "File/The%20Intentions.jpg"
 ---
 <div>

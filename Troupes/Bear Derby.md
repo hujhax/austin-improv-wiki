@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2013-Present."
+description: "ColdTowne Student Troupe."
 image: "File/Bear%20Derby.jpg"
 ---
 <div>

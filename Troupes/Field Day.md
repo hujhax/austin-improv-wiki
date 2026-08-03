@@ -1,5 +1,5 @@
 ---
-description: "|Director = Ruby Willmann."
+description: "An improv troupe."
 image: "File/Field%20Day.jpg"
 ---
 <div>

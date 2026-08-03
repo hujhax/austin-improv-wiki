@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2012-Present."
+description: "(often written in all caps: MANDINKA) is a duo consisting..."
 image: "File/Mandinka.jpg"
 ---
 <div>

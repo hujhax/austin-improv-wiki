@@ -1,5 +1,5 @@
 ---
-description: "|Years = 2005-Present."
+description: "An improv musician and improv-singing teacher."
 image: "File/Michael%20Brockman%20Pic.jpg"
 ---
 <div>

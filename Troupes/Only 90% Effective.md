@@ -1,5 +1,5 @@
 ---
-description: "|Years = 1995-2000."
+description: "(AKA ONPE) was an improv and sketch troupe."
 image: "File/Only%2090%25%20Effective.jpg"
 ---
 <div>
