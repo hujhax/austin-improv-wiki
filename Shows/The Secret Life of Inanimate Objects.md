@@ -192,7 +192,7 @@ image: "File/The%20Secret%20Life%20of%20Inanimate%20Objects%20Image.jpg"
 	</table>
 </div>
 
-***The Secret Life of Inanimate Objects*** will be the June 2016 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***The Secret Life of Inanimate Objects*** will be the June 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## More Information
 What does your stuff get up to when you’re not around? Quite a bit, actually.

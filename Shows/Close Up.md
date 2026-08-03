@@ -188,7 +188,7 @@ image: "File/Close%20Up.jpg"
 	</table>
 </div>
 
-***Close Up*** (original working title: **Single Camera Comedy**) was the August 2015 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Close Up*** (original working title: **Single Camera Comedy**) was the August 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 This was a show based on single-camera 'mockumentaries' like *The Office*, *Parks and Recreation*, *Modern Family*, and  *Best in Show*.

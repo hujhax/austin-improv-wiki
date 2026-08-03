@@ -192,7 +192,7 @@ image: "File/One-Small-Step-Poster-2015-web-small.jpg"
 	</table>
 </div>
 
-***One Small Step*** was the February 2015 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. The run was extended with an extra show on March 7th. 
+***One Small Step*** was the February 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. The run was extended with an extra show on March 7th. 
 
 ## Summary
 The show played its space genre in a generally straightforward way, rather than acting as a knowing sendup.  It drew from a variety of works in and around the genre, including *Firefly*, *The Abyss*, and (especially) *Space Station 76*.

@@ -4,7 +4,7 @@ description: "==Summary==."
 <div style="text-align: center;"><img src="Pgraph goodman.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promo photo for [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] from their [[Reverend Goodman]] show.
+Promo photo for [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] from their [[Troupes/Reverend Goodman|Reverend Goodman]] show.
 
 Photo by [[Performers/Jon Bolden|Jon Bolden]].
 

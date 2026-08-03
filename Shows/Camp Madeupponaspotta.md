@@ -86,7 +86,7 @@ image: "File/Camp%20Madeupponaspotta.png"
 	</table>
 </div>
 
-***Camp Madeupponaspotta*** was the April 2014 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Camp Madeupponaspotta*** was the April 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 *Camp Madeupponaspotta* featured improvised coming-of-age stories about the lives of teens & camp counselors at a fictional summer camp. The characters and details were different every show. The show focused on positivity, ensemble, and creating endearing moments as well as hilarious ones.

@@ -27,7 +27,7 @@ image: "File/Cindy%20Page%20Pic.jpg"
 
 **Cindy Page** is a technical improviser, improv performer, musician, and Co-Technical Director of [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-She was awarded Favorite Tech Performer at the [[The 2013 Institution Theater Awards]].
+She was awarded [[The 2013 Institution Theater Awards#Favorite_Tech_Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
 
 She was Technical Director for the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] from 2013-2017.
 

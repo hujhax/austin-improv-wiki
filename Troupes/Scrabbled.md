@@ -87,7 +87,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 
 ## History
-This started as a *[[Shows/Free Fringe|Free Fringe]]* show on 10/24/13.
+This started as a *[[Shows/Free Fringe|Free Fringe]]* show on [[List of Free Fringes#Scrabble_.28Heidi_Rogers.29|10/24/13]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

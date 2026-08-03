@@ -478,7 +478,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
   <tr >
     <td >Jan 2017</td>
     <td >Feb 2017</td>
-    <td ><em>Start Trekkin'</em></td>
+    <td ><em><a class="internal-link" href="Shows-Start Trekkin'#Season_8">Start Trekkin'</a></em></td>
     <td ><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a>, Ben Sterling</td>
   </tr>
   <tr >

@@ -74,7 +74,7 @@ image: "File/Celebrity%20Alter%20Ego.jpg"
 	</table>
 </div>
 
-**Celebrity Alter Ego** was an improv troupe that started as a fringe format.
+**Celebrity Alter Ego** was an improv troupe that started as a [[List of Free Fringes#Celebrity_Alter-Ego_.28Andreas_Fabis.29|fringe format]].
 
 ## Summary
 ### Press Blurb

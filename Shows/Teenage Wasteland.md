@@ -137,7 +137,7 @@ image: "File/Teenage%20Wasteland.jpg"
 	</table>
 </div>
 
-***Teenage Wasteland*** was the October 2015 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It depicted an end-of-high-school party à la *Can't Hardly Wait*.
+***Teenage Wasteland*** was the October 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It depicted an end-of-high-school party à la *Can't Hardly Wait*.
 
 ## Summary
 Typically the whole cast played every night.  Before each show, the performers would mingle with the audience and talk to them about their (the audience's) experiences in high school.  The cast would use these stories to inform their characters for the night -- they would play somewhat heightened teen archetypes.  The show proper would begin with three character monologs, done in the style of a video yearbook.  Then the rest of the performance would be a monoscene from the 'Big Party', not focusing on any particular character -- different characters came and went over time.  The pace varied between slow, grounded scenework and more fast-paced party games (Truth or Dare, Spin-the-Bottle, etc.).  The show included a ten-to-fifteen-minut intermission.

@@ -1,4 +1,4 @@
 ---
-redirect: "Hideout Mainstage Shows#Student Mainstage Shows"
+redirect: "Hideout Mainstage Shows#Student_Mainstage_Shows"
 ---
-#REDIRECT [[Hideout Mainstage Shows#Student Mainstage Shows]]
+#REDIRECT [[Hideout Mainstage Shows#Student_Mainstage_Shows]]

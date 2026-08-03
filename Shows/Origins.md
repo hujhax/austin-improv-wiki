@@ -188,7 +188,7 @@ image: "File/Origins%20Placeholder%20Image.jpg"
 	</table>
 </div>
 
-***Origins*** will be the April 2016 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Origins*** will be the April 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb

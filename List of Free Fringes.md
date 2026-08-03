@@ -1529,19 +1529,19 @@ Headliners
 ### October 16, 2014 (the 125th show): "Best of the Free Fringe"
 As part of the Hideout's 15-year-anniversary weekend, they presented a special "Best of the Free Fringe" show.  It featured best-loved acts from earlier Fringes, as voted on by the AIC.
 
-#### The Floor is Lava ([[Performers/Jason Vines|Jason Vines]])
-This format originally appeared on 1/12/12, and was exactly what the title implies.
+#### [[List of Free Fringes#The_Floor_is_Lava.21_.28Jason_Vines.29|The Floor is Lava]] ([[Performers/Jason Vines|Jason Vines]])
+This format [[List of Free Fringes#The_Floor_is_Lava.21_.28Jason_Vines.29|originally appeared on 1/12/12]], and was exactly what the title implies.
 
-#### Evil Peter Rogers ([[Performers/Kevin Miller|Kevin Miller]])
-This format originally appeared on 5/7/12, and featured affable improvisor [[Performers/Peter Rogers|Peter Rogers]] justifying horrible actions in various scenes.
+#### [[List of Free Fringes#Evil_Peter_Rogers_.28Kevin_Miller.29|Evil Peter Rogers]] ([[Performers/Kevin Miller|Kevin Miller]])
+This format [[List of Free Fringes#Evil_Peter_Rogers_.28Kevin_Miller.29|originally appeared on 5/7/12]], and featured affable improvisor [[Performers/Peter Rogers|Peter Rogers]] justifying horrible actions in various scenes.
 
 The cast also included [[Performers/Roy Janik|Roy Janik]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Kaci Beeler|Kaci Beeler]], and [[Performers/Chuy Zarate|Chuy Zarate]].
 
-#### All Ladies Be Trekkin'
-This format originally appeared on 3/8/12, and featured a *[[Shows/Start Trekkin'|Start Trekkin']]* story with an all-female cast.
+#### [[List of Free Fringes#All_Ladies_Be_Trekkin.27|All Ladies Be Trekkin']]
+This format originally appeared on [[List of Free Fringes#All_Ladies_Be_Trekkin.27|3/8/12]], and featured a *[[Shows/Start Trekkin'|Start Trekkin']]* story with an all-female cast.
 
 #### [[Shows/Tech Nightmare|Tech Nightmare]]
-This was the beloved, recurring Free Fringe format (7/19/12, 9/27/12, 10/25/12, and 12/13/12) that features AIC techs inflicting sound- and light-cue madness on the performers onstage.
+This was the beloved, recurring Free Fringe format ([[List of Free Fringes#The_Triumphant_Return_of_the_Tech_Nightmare_.28Cortney_DeAngelo_.26_Cindy_Page.29|7/19/12]], [[List of Free Fringes#Tech_Nightmare_.28Cindy_Page.29|9/27/12]], [[List of Free Fringes#Tech_Nightmare_.28Cindy_Page.29_2|10/25/12]], and [[List of Free Fringes#Merry_Xmas_Tech_Nightmare_.28Cortney_DeAngelo.29|12/13/12]]) that features AIC techs inflicting sound- and light-cue madness on the performers onstage.
 
 #### Media
 * [Photoset](http://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3) by [[Steve Rogers]].
@@ -1563,7 +1563,7 @@ starring: [[Performers/Kevin Miller|Kevin Miller]], Rachel Denton, Joshua Bush, 
 #### The No Design ([[Performers/Valerie Ward|Valerie Ward]])
 A show inspired by the music of The Free Design... people hanging out in a cabin, swapping stories and singing songs in the style of Free Design.
 
-#### [[Tales from the Black Vault]] ([[Performers/Peter Rogers|Peter Rogers]])
+#### [[Shows/Tales from the Black Vault|Tales from the Black Vault]] ([[Performers/Peter Rogers|Peter Rogers]])
 This Thursday at the Free Fringe, we're premiering Tales from the Black Vault, an audiodrama podcast of stories inspired by the work of H. P. Lovecraft. And on Halloween, we're launching a kickstarter for a full season of episodes!
 
 #### Arjet Universe

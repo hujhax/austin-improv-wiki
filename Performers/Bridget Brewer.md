@@ -40,6 +40,6 @@ image: "File/BridgetBrewer.png"
 * *[[Shows/TheatreSports|TheatreSports]]*
 
 ## More Information
-* Info about her going-away show in *[[Shows/The Free Fringe|The Free Fringe]]* on 8/21/14.
+* [[List of Free Fringes#August_21.2C_2014_.28the_118th_show.29|Info about her going-away show]] in *[[Shows/The Free Fringe|The Free Fringe]]* on 8/21/14.
 
 [[Category/Performers|Brewer]]

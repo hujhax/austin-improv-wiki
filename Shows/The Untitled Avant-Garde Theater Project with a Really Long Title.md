@@ -145,7 +145,7 @@ image: "File/The%20Untitled%20Avant-Garde%20Theater%20Project%20with%20a%20Reall
 	</table>
 </div>
 
-***The Untitled Avant-Garde Theater Project with a Really Long Title*** will be the December 2016 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***The Untitled Avant-Garde Theater Project with a Really Long Title*** will be the December 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb

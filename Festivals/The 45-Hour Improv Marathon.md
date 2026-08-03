@@ -46,7 +46,7 @@ image: "File/The%2045-Hour%20Cover%20Photo.jpg"
 * Saturday 3pm (hour 23): "The Eye of the Storm": free-form improv from the core cast.
 * Saturday 4pm (hour 24): *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * Saturday 5pm (hour 25): [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-* Saturday 6pm (hour 26): *[[Cochise (Student Mainstage)|Cochise]]*
+* Saturday 6pm (hour 26): *[[Shows/Cochise (Student Mainstage)|Cochise]]*
 * Saturday 7pm (hour 27): TBA
 * Saturday 8pm (hour 28): *[[Shows/TheatreSports|TheatreSports]]*
 * Saturday 9pm (hour 29): [[Troupes/The Professor|The Professor]]

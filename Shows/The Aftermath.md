@@ -141,7 +141,7 @@ image: "File/The%20Aftermath.jpg"
 	</table>
 </div>
 
-***The Aftermath*** was a student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***The Aftermath*** was a [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 *The Aftermath* was a narrative show set in a post-apocalyptic world.  At the top of the show, the cast would enter and select one token (an item that another cast member had brought and placed on a block center stage before the start of the show). The two hosts would then take a suggestion from the audience of what ended the world, alternating between something that came into the world that caused its downfall or something that vanished from it. The cast then took turns, describing some consequence of that event, creating a chain of events that led to the new state of the world. After declaring that "that was the end. This is the Aftermath," three pre-selected cast members took turns giving testimonial monologues as survivors of the apocalypse, interspersed with scenes depicting or inspired by the events they described. Using the events and characters created in the opening sections, the narrative portion portrayed the lives of the survivors as they did their best to move forward in the new world and rebuild. After the first few scenes of the narrative, the show would take a brief intermission before resolving the narrative in the second act. The hosts would thank the audience and send them off with the declaration, "that was the Aftermath. This...is the end."
