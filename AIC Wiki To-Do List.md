@@ -1,7 +1,7 @@
 ---
 description: "Current page count: ."
 ---
-**Current page count: 1375.**
+**Current page count: 1374.**
 
 ## Tasks
 * Upload [[Performers/Sara Farr|Sara Farr]]'s AIC logo designs.

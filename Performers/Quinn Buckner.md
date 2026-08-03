@@ -69,12 +69,12 @@ In 2008 while attending UT Quinn saw some [[Troupes/GigglePants|GigglePants]] sh
 ## Festivals
 * 2010 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Anticdotes|Anticdotes]], *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
 * 2010 - [[Festivals/Wafflefest|Wafflefest]] - [[Troupes/GigglePants|GigglePants]]
-* 2011 - Del Close Marathon - [[Dukes of Bedside Manor]]
-* 2011 - Frontera Fest - [[Dukes of Bedside Manor]]
-* 2011 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Bolik Not ZIB|Bolik Not ZIB]], [[Dukes of Bedside Manor]], [[Troupes/Quayle|Quayle]]
+* 2011 - Del Close Marathon - [[Troupes/Dukes of Bedside Manor|Dukes of Bedside Manor]]
+* 2011 - Frontera Fest - [[Troupes/Dukes of Bedside Manor|Dukes of Bedside Manor]]
+* 2011 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Bolik Not ZIB|Bolik Not ZIB]], [[Troupes/Dukes of Bedside Manor|Dukes of Bedside Manor]], [[Troupes/Quayle|Quayle]]
 * 2011 - [[Festivals/Wafflefest|Wafflefest]] - [[Troupes/GigglePants|GigglePants]]
 * 2012 - Frontera Fest - [[Troupes/Bolik Not ZIB|Bolik Not ZIB]]
-* 2012 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Dukes of Bedside Manor]], [[Troupes/The Professor|The Professor]]
+* 2012 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Dukes of Bedside Manor|Dukes of Bedside Manor]], [[Troupes/The Professor|The Professor]]
 * 2012 - Improvaganza (Hawaii) - [[Troupes/The Professor|The Professor]]
 * 2013 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]], [[Troupes/Known Wizards|Known Wizards]], [[Troupes/The Professor|The Professor]], [[Troupes/Rhinodino|Rhinodino]]
 * 2013 - Sketchfest / Cover Night - [[Troupes/Tastemakers|Tastemakers]]
