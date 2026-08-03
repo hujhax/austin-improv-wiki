@@ -1,4 +1,4 @@
 ---
-redirect: "Merlin Works Graduation Shows"
+redirect: "Lists/Merlin Works Graduation Shows"
 ---
-#REDIRECT [[Merlin Works Graduation Shows]]
+#REDIRECT [[Lists/Merlin Works Graduation Shows]]

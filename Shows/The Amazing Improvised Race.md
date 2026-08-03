@@ -139,7 +139,7 @@ image: "File/The%20Amazing%20Improvised%20Race.jpg"
 
 ***The Amazing Improvised Race*** was a longform improv show loosely inspired by the television show *The Amazing Race*.
 
-It was one of the [[Merlin Works Graduation Shows]].
+It was one of the [[Lists/Merlin Works Graduation Shows|Merlin Works Graduation Shows]].
 
 ## History
 The show ran as part of *[[Shows/The Saturday Night Special|The Saturday Night Special]]* in December 2011, starting on 12/3/11 and continuing through to 12/17/11.

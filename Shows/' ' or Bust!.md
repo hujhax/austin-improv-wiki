@@ -90,7 +90,7 @@ image: "File/Blank%20or%20Bust.jpg"
 
 ***"_____" or Bust!*** was a longform improv show loosely inspired by National Lampoon's *Vacation* film series.
 
-It was one of the [[Merlin Works Graduation Shows]].
+It was one of the [[Lists/Merlin Works Graduation Shows|Merlin Works Graduation Shows]].
 
 ## History
 The show ran as part of *[[Shows/The Saturday Night Special|The Saturday Night Special]]* in October 2010, starting on 10/9/10 and continuing through to 10/30/10.

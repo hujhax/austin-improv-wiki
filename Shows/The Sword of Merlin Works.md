@@ -139,7 +139,7 @@ image: "File/The%20Sword%20of%20Merlin%20Works.jpg"
 
 ***The Sword of Merlin Works*** was an improvised narrative based on Arthurian fantasy.
 
-It was a [[Merlin Works Graduation Shows|Merlin Works graduation show]].
+It was a [[Lists/Merlin Works Graduation Shows|Merlin Works graduation show]].
 
 ## History
 The show ran for three performances: Saturday 10pm shows on 5/19/12, 6/2/12, and 6/9/12.

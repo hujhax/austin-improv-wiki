@@ -88,7 +88,7 @@ image: "File/Doctors%20Without%20Boundaries.jpg"
 
 ***Doctors Without Boundaries*** was an improvised longform inspired by the medical soap opera *Grey's Anatomy*
 
-It was one the [[Merlin Works Graduation Shows]].
+It was one the [[Lists/Merlin Works Graduation Shows|Merlin Works Graduation Shows]].
 
 ## History
 ### Guest Stars
