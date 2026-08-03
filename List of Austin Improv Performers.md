@@ -7,7 +7,7 @@ This is a list of improvisors who perform or who have performed regularly in the
 * <a class="internal-link" href="Performers/Lacy Alana">Lacy Alana</a>
 * <a class="internal-link" href="Performers/Chris Albano">Chris Albano</a>
 * <a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a>
-* <a class="internal-link" href="Performers-Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a>
+* <a class="internal-link" href="Performers/Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a>
 * <a class="internal-link" href="Performers/Dave alley">Dave alley</a>
 * <a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a>
 * <a class="internal-link" href="Performers/Monica Alquetz">Monica Alquetz</a>
