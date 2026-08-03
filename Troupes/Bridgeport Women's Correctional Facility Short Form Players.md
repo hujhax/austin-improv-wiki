@@ -9,7 +9,7 @@ image: "File/Bridgeport%20Women%27s%20Correctional%20Facility%20Short%20Form%20P
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Bridgeport Women's Correctional Facility Short Form Players.jpg.md"><img src="File/Bridgeport%20Women's%20Correctional%20Facility%20Short%20Form%20Players.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Bridgeport Women's Correctional Facility Short Form Players.jpg.md.md.md"><img src="File/File-Bridgeport%20Women's%20Correctional%20Facility%20Short%20Form%20Players.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,23 +18,23 @@ image: "File/Bridgeport%20Women%27s%20Correctional%20Facility%20Short%20Form%20P
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Erika May McNichol">Erika May McNichol</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Chrissy Shackleford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chrissy Shackleford">Chrissy Shackleford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erika May McNichol">Erika May McNichol</a></li><!--
   --><li style="">Jen Cargill</li><!--
   --><li style="">Jill Morris</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tami Nelson">Tami Nelson</a></li><!--
   --><!--
   --><!--
   --><!--

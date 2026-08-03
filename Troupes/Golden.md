@@ -9,7 +9,7 @@ image: "File/Golden%20%28troupe%29.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Golden (troupe).jpg.md"><img src="File/Golden%20(troupe).jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Golden (troupe).jpg.md.md.md"><img src="File/File-Golden%20(troupe).jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,19 +18,19 @@ image: "File/Golden%20%28troupe%29.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a> (2015-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (2015-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Suzanne Link">Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--

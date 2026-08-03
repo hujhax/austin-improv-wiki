@@ -9,7 +9,7 @@ image: "File/Super%20Sweet.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Super Sweet.jpg.md"><img src="File/Super%20Sweet.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Super Sweet.jpg.md.md.md"><img src="File/File-Super%20Sweet.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,9 +21,9 @@ image: "File/Super%20Sweet.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Craig Mcgreggor</li><!--
   --><li style="">Lori Hobbie</li><!--
-  --><li style=""><a class="internal-link" href="Performers/R. Lance Hunter">R. Lance Hunter</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-R. Lance Hunter">R. Lance Hunter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shannon Dale Stott">Shannon Dale Stott</a></li><!--
   --><!--
   --><!--
   --><!--

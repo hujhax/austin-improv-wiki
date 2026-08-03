@@ -9,7 +9,7 @@ image: "File/Andrew%20%26%20Jeremy%20Hypnotize%20Each%20Other%21.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Andrew & Jeremy Hypnotize Each Other!.png.md"><img src="File/Andrew%20&%20Jeremy%20Hypnotize%20Each%20Other!.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Andrew & Jeremy Hypnotize Each Other!.png.md.md.md"><img src="File/File-Andrew%20&%20Jeremy%20Hypnotize%20Each%20Other!.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@ image: "File/Andrew%20%26%20Jeremy%20Hypnotize%20Each%20Other%21.png"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrew Schwartz</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeremy Moran">Jeremy Moran</a></li><!--
   --><!--
   --><!--
   --><!--

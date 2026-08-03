@@ -9,36 +9,36 @@ image: "File/Ka-Baam%21%21%20Logo.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Ka-Baam!! Logo.png.md"><img src="File/Ka-Baam!!%20Logo.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Ka-Baam!! Logo.png.md.md.md"><img src="File/File-Ka-Baam!!%20Logo.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style="">Erik Adams</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -92,7 +92,7 @@ It was based on the Golden Age of superhero comics.
 
 ## Summary
 ### Show Structure
-![[Ka-Baam!! Audience Winner.jpg|After every performance, one lucky audience member would win the show's cover art.]]
+![[File/Ka-Baam!! Audience Winner.jpg.md|After every performance, one lucky audience member would win the show's cover art.]]
 The show would begin with origin stories for three different heroes, which were based on audience suggestions.  Meanwhile, a comics artist (often Kristin Hogan) would draw the cover art for an adventure for those heroes.  They would improvise a half-hour narrative superhero story based on that cover art, and one lucky audience member would receive the cover art as a prize.
 
 Throughout the show, director [[Performers/Asaf Ronen|Asaf Ronen]] served as the narrator, occasionally providing interstitials which introduced advertisements or responded to viewer mail.
@@ -122,7 +122,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Performers/Roy Janik|Roy Janik]]
 
 ### 2009 Cast
-![[Ka-Baam!! Promo.jpg|A promotional photo of *Ka-Baam!!*, with ninjas.]]
+![[File/Ka-Baam!! Promo.jpg.md|A promotional photo of *Ka-Baam!!*, with ninjas.]]
 * [[Performers/Aden Kirschner|Aden Kirschner]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
@@ -187,7 +187,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 	* [[Performers/Jason Vines|Jason Vines]] as Captain Jelly Belly
 
 ### Guest Artists
-![[Ka-Baam!! Cover Art.jpg|Cover art from *Ka-Baam!!* by Andrew Augustine.]]
+![[File/Ka-Baam!! Cover Art.jpg.md|Cover art from *Ka-Baam!!* by Andrew Augustine.]]
 #### 2008 Run
 * 5/3/08:  Thomas Reidy
 * 5/10/08:  Rob Osborne

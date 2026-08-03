@@ -9,12 +9,12 @@ image: "File/http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JK
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg.md"><img src="File/Http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg.md.md.md"><img src="File/File-Http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

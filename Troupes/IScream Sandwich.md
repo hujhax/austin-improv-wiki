@@ -11,7 +11,7 @@ image: "File/iScream%20Sandwich.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/IScream Sandwich.jpg.md"><img src="File/IScream%20Sandwich.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-IScream Sandwich.jpg.md.md.md"><img src="File/File-IScream%20Sandwich.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,12 +22,12 @@ image: "File/iScream%20Sandwich.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrew Robinson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Caldwell">Heidi Caldwell</a></li><!--
   --><li style="">Marv Pratt</li><!--
   --><li style="">Regina Soto</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--

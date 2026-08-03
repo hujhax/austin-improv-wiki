@@ -9,33 +9,33 @@ image: "File/I%27ll%20Be%20Home%20for%20Christmas.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/I'll Be Home for Christmas.jpg.md"><img src="File/I'll%20Be%20Home%20for%20Christmas.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-I'll Be Home for Christmas.jpg.md.md.md"><img src="File/File-I'll%20Be%20Home%20for%20Christmas.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Aaron Rubin</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Adam Mengesha">Adam Mengesha</a></li><!--
   --><li style="">Alex Walker</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
   --><li style="">Donnie Garcia</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica T. Von Schramm">Jessica T. Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica T. Von Schramm">Jessica T. Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lahari Samineni">Lahari Samineni</a></li><!--
   --><li style="">Patricia Harpst</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Rob Yoho">Rob Yoho</a></li><!--
   --><li style="">Trent Symmonds</li><!--
   --><!--
   --><!--

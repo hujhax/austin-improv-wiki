@@ -9,7 +9,7 @@ image: "File/Backpack%20Picnic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Backpack Picnic.jpg.md"><img src="File/Backpack%20Picnic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Backpack Picnic.jpg.md.md.md"><img src="File/File-Backpack%20Picnic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,10 +20,10 @@ image: "File/Backpack%20Picnic.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">David Bewley</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeremy Lamb">Jeremy Lamb</a></li><!--
   --><li style="">Mitch Baker</li><!--
   --><li style="">René Pinnell</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--

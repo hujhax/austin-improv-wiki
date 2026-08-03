@@ -9,7 +9,7 @@ image: "File/MMSquare.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/MMSquare.png.md"><img src="File/MMSquare.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-MMSquare.png.md.md.md"><img src="File/File-MMSquare.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/MMSquare.png"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">David Moses Fruchter</li><!--
   --><li style="">Juese Cutler</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kenny Madison">Kenny Madison</a></li><!--
   --><li style="">Amanda Smith</li><!--
   --><!--
   --><!--

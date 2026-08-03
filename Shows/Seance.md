@@ -9,35 +9,35 @@ image: "File/Seance.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Seance.jpg.md"><img src="File/Seance.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Seance.jpg.md.md.md"><img src="File/File-Seance.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bridget Brewer">Bridget Brewer</a></li><!--
   --><li style="">Cassidy Claire Riesen</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
   --><li style="">J. M. Specht</li><!--
   --><li style="">Jesse Overright</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

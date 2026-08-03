@@ -2,7 +2,7 @@
 description: "|Years = 2016-."
 image: "File/twinehands.jpg"
 ---
-![[Twinecover2.jpg]]
+![[File/Twinecover2.jpg.md]]
 
 <div>
 	<table class="infobox infobox-troupe">
@@ -11,7 +11,7 @@ image: "File/twinehands.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Twinehands.jpg.md"><img src="File/Twinehands.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Twinehands.jpg.md.md.md"><img src="File/File-Twinehands.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -23,7 +23,7 @@ image: "File/twinehands.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Benjamin Blattberg</li><!--
   --><li style="">Amar Dev</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style="">Graham Snow</li><!--
   --><li style="">Trent Symmonds</li><!--
   --><!--

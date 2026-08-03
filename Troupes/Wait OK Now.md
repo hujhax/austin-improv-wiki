@@ -9,7 +9,7 @@ image: "File/Wait%20OK%20Now.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Wait OK Now.jpg.md"><img src="File/Wait%20OK%20Now.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Wait OK Now.jpg.md.md.md"><img src="File/File-Wait%20OK%20Now.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,13 +19,13 @@ image: "File/Wait%20OK%20Now.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style="">Tai Hovanky</li><!--
   --><li style="">Nick Jimenez</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

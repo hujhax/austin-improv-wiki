@@ -9,7 +9,7 @@ image: "File/Look%20Cookie.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Look Cookie.jpg.md"><img src="File/Look%20Cookie.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Look Cookie.jpg.md.md.md"><img src="File/File-Look%20Cookie.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Look%20Cookie.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
   --><li style="">Eric Seufert</li><!--
   --><li style="">Jerry Bilbo</li><!--
   --><li style="">Kerri Lendo</li><!--

@@ -9,7 +9,7 @@ image: "File/Niceastro-2013-04-10.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Niceastro-2013-04-10.jpg.md"><img src="File/Niceastro-2013-04-10.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Niceastro-2013-04-10.jpg.md.md.md"><img src="File/File-Niceastro-2013-04-10.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,11 +22,11 @@ image: "File/Niceastro-2013-04-10.jpg"
   --><li style="">Abby Lincoln</li><!--
   --><li style="">AJ McKeon</li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
   --><li style="">Joseph Dailey</li><!--
   --><li style="">Katie Byrnes</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

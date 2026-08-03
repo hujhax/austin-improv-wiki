@@ -9,7 +9,7 @@ image: "File/Do%20You%20Still%20Want%20To%20Do%20This.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Do You Still Want To Do This.jpg.md"><img src="File/Do%20You%20Still%20Want%20To%20Do%20This.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Do You Still Want To Do This.jpg.md.md.md"><img src="File/File-Do%20You%20Still%20Want%20To%20Do%20This.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Do%20You%20Still%20Want%20To%20Do%20This.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><!--
   --><!--
   --><!--

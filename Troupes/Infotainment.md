@@ -9,7 +9,7 @@ image: "File/Infotainment.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Infotainment.jpg.md"><img src="File/Infotainment.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Infotainment.jpg.md.md.md"><img src="File/File-Infotainment.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ image: "File/Infotainment.jpg"
   --><li style="">Anna Giacomo</li><!--
   --><li style="">Brad Smith</li><!--
   --><li style="">Brett Weaver</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style="">Noah Wright</li><!--
   --><li style="">Patrick Yonkin</li><!--
   --><li style="">Rhett O'Hara</li><!--

@@ -9,7 +9,7 @@ image: "File/The%20Like%20Likes.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Like Likes.jpg.md"><img src="File/The%20Like%20Likes.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Like Likes.jpg.md.md.md"><img src="File/File-The%20Like%20Likes.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,7 +18,7 @@ image: "File/The%20Like%20Likes.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>

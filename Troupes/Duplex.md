@@ -9,7 +9,7 @@ image: "File/Duplex.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Duplex.jpg.md"><img src="File/Duplex.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Duplex.jpg.md.md.md"><img src="File/File-Duplex.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ image: "File/Duplex.jpg"
   --><li style="">Austen Silver</li><!--
   --><li style="">Catherine Grady</li><!--
   --><li style="">Evan Eggers</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Norman Tran">Norman Tran</a></li><!--
   --><!--
   --><!--
   --><!--

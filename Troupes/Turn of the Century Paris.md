@@ -9,7 +9,7 @@ image: "File/Turn%20of%20the%20Century%20Paris.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Turn of the Century Paris.jpg.md"><img src="File/Turn%20of%20the%20Century%20Paris.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Turn of the Century Paris.jpg.md.md.md"><img src="File/File-Turn%20of%20the%20Century%20Paris.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,10 +20,10 @@ image: "File/Turn%20of%20the%20Century%20Paris.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
   --><li style="">Matt Derman</li><!--
   --><li style="">Steve Donovan</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style="">Danny Catlow</li><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/IHOP%20Lovecraft.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/IHOP Lovecraft.jpg.md"><img src="File/IHOP%20Lovecraft.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-IHOP Lovecraft.jpg.md.md.md"><img src="File/File-IHOP%20Lovecraft.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/IHOP%20Lovecraft.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
   --><!--
   --><!--
   --><!--

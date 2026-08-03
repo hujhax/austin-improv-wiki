@@ -6,4 +6,4 @@ image: "File/Skull%20on%20a%20Stick%20Pic.jpg"
 
 It served as the MacGuffin in [[The Hideout Text Adventure]].
 
-![[Skull on a Stick Pic.jpg|The skull on stick in action.]]
+![[File/Skull on a Stick Pic.jpg.md|The skull on stick in action.]]

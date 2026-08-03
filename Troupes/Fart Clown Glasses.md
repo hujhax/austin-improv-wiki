@@ -9,7 +9,7 @@ image: "File/Fart%20Clown%20Glasses.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Fart Clown Glasses.jpg.md"><img src="File/Fart%20Clown%20Glasses.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Fart Clown Glasses.jpg.md.md.md"><img src="File/File-Fart%20Clown%20Glasses.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,9 +20,9 @@ image: "File/Fart%20Clown%20Glasses.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrea Young</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Trew">Chris Trew</a></li><!--
   --><li style="">Jill Morris</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></li><!--
   --><!--
   --><!--
   --><!--

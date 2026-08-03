@@ -9,7 +9,7 @@ image: "File/Senshi%20Sokyo.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Senshi Sokyo.jpg.md"><img src="File/Senshi%20Sokyo.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Senshi Sokyo.jpg.md.md.md"><img src="File/File-Senshi%20Sokyo.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,12 +19,12 @@ image: "File/Senshi%20Sokyo.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Colin Thomas Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Colin Thomas Bates">Colin Thomas Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

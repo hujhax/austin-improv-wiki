@@ -9,32 +9,32 @@ image: "File/The%20International%20Improv%20Experience.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The International Improv Experience.jpg.md"><img src="File/The%20International%20Improv%20Experience.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The International Improv Experience.jpg.md.md.md"><img src="File/File-The%20International%20Improv%20Experience.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shannon Dale Stott">Shannon Dale Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,9 +78,9 @@ image: "File/The%20International%20Improv%20Experience.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
   --><!--
   --><!--
   --><!--

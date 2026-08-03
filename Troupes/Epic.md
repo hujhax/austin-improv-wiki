@@ -9,7 +9,7 @@ image: "File/Epic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Epic.jpg.md"><img src="File/Epic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Epic.jpg.md.md.md"><img src="File/File-Epic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,22 +20,22 @@ image: "File/Epic.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Alex Gray</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brent Unger">Brent Unger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brent Unger">Brent Unger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style="">David C. Wells</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
   --><li style="">Edwin Wise</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a></li><!--
   --><li style="">Sophia Hoang</li><!--
   --><!--
   --><!--

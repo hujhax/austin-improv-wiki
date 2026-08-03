@@ -9,7 +9,7 @@ image: "File/Known%20wizards.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Known wizards.jpg.md"><img src="File/Known%20wizards.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Known wizards.jpg.md.md.md"><img src="File/File-Known%20wizards.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,16 +19,16 @@ image: "File/Known%20wizards.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Lauren Buck">Lauren Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Ted Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Jillian Summar">Jillian Summar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chuy Zarate">Chuy Zarate</a></li><!--
   --><!--
   --><!--
   --><!--

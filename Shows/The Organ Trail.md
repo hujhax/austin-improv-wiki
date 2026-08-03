@@ -8,38 +8,38 @@ description: "|Run = Oct 2014."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Show Default Image.jpg.md"><img src="File/Show%20Default%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Show Default Image.jpg.md.md.md"><img src="File/File-Show%20Default%20Image.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><li style="">Benjamin Bazan</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alejandro Garcia">Alejandro Garcia</a></li><!--
   --><li style="">KC HT</li><!--
   --><li style="">Ally Huston</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Hutchins">Sarah Hutchins</a></li><!--
   --><li style="" >Patrick Kail</li><!--
   --><li style="">Jessica Marpe</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris McKeever">Chris McKeever</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris McKeever">Chris McKeever</a></li><!--
   --><li style="">Lance Nealy</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Matt Needles">Matt Needles</a></li><!--
   --><li style="">Naomi Perryman</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style="">Richard Smith</li><!--
   --><li style="">Bobby Stover</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
   --><li style="">Logan Williams</li><!--
   --><!--
   --><!--

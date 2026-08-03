@@ -9,18 +9,18 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Cops & Lawyers Pic.jpg.md"><img src="File/Cops%20&%20Lawyers%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Cops & Lawyers Pic.jpg.md.md.md"><img src="File/File-Cops%20&%20Lawyers%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,16 +74,16 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
   --><li style="">Christina Bain</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christopher Orf">Christopher Orf</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Christopher Orf">Christopher Orf</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
   --><li style="" >Sean Cooper</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
   --><li style="">Wesley Bain</li><!--
   --><!--
   --><!--
@@ -133,7 +133,7 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 	</table>
 </div>
 
-![[Cops & Lawyers Postcard.jpg|Postcard for *Cops & Lawyers*]]
+![[File/Cops & Lawyers Postcard.jpg.md|Postcard for *Cops & Lawyers*]]
 ***Cops & Lawyers*** was an improvised longform narrative show inspired by *Law & Order*
 
 ## Summary

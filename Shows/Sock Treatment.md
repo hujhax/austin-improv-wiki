@@ -9,7 +9,7 @@ image: "File/Sock%20Treatment.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Sock Treatment.jpg.md"><img src="File/Sock%20Treatment.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Sock Treatment.jpg.md.md.md"><img src="File/File-Sock%20Treatment.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,7 +18,7 @@ image: "File/Sock%20Treatment.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -28,10 +28,10 @@ image: "File/Sock%20Treatment.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,17 +9,17 @@ image: "File/Late%20Night%20Time%20Machine%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Late Night Time Machine Poster.jpg.md"><img src="File/Late%20Night%20Time%20Machine%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Late Night Time Machine Poster.jpg.md.md.md"><img src="File/File-Late%20Night%20Time%20Machine%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a> (season 1)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a> (season 1)</li><!--
   --><li style="">Mason Pitluk (season 2)</li><!--
   --><!--
   --><!--
@@ -74,11 +74,11 @@ image: "File/Late%20Night%20Time%20Machine%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/James C. Leary">James C. Leary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-James C. Leary">James C. Leary</a></li><!--
   --><li style="">Sydney Huddleston</li><!--
   --><li style="">Mike Carreon</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Ayala">Alex Ayala</a></li><!--
   --><li style="">various guests</li><!--
   --><!--
   --><!--
@@ -140,7 +140,7 @@ image: "File/Late%20Night%20Time%20Machine%20Poster.jpg"
 ***Late Night Time Machine*** is an improvised historical talk show originating from [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
-![[Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]
+![[File/Late Night Time Machine.jpg.md|Teddy Hancox and Tildy Weatherspoon]]
 Late Night Time Machine with Teddy Hancox is a live comedy show created by Tess Hermes, James C. Leary, and Mason Pitluk. A late night show from 1968 hosted by Teddy Hancox ([[Performers/James C. Leary|James C. Leary]]), LNTM features celebrity guests flown in from all across time. Each live show features new guest improvisors in character as historical figures or celebrities from past, present, and future. Sydney Huddleston co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned executive producer, and Mike Carreon as Teddy's sidekick, Bud Grouper.
 
 Shows have featured a mixture of improvised on-air interviews and off-air interactions (both on-set and behind the scenes), as well as stand up performances, the occasional musical performance, and written sketch commercials satirizing the culture of the late 60's.

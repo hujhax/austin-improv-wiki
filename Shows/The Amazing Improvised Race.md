@@ -9,18 +9,18 @@ image: "File/The%20Amazing%20Improvised%20Race.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Amazing Improvised Race.jpg.md"><img src="File/The%20Amazing%20Improvised%20Race.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Amazing Improvised Race.jpg.md.md.md"><img src="File/File-The%20Amazing%20Improvised%20Race.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@ image: "File/The%20Amazing%20Improvised%20Race.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]</td>
+			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -81,10 +81,10 @@ image: "File/The%20Amazing%20Improvised%20Race.jpg"
   --><li style="">Abra Chusid</li><!--
   --><li style="">Ashlee Medlin</li><!--
   --><li style="">Brian Wittenbrook</li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Wells">David Wells</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Wells">David Wells</a></li><!--
   --><li style="">Jesse Overright</li><!--
   --><li style="">Karina Dominguez</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/Je%20Ju.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Je Ju.jpg.md"><img src="File/Je%20Ju.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Je Ju.jpg.md.md.md"><img src="File/File-Je%20Ju.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Je%20Ju.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Jeanette Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a></li><!--
   --><!--
   --><!--
   --><!--

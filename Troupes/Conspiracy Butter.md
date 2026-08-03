@@ -9,7 +9,7 @@ image: "File/Conspiracy%20Butter.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Conspiracy Butter.jpg.md"><img src="File/Conspiracy%20Butter.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Conspiracy Butter.jpg.md.md.md"><img src="File/File-Conspiracy%20Butter.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@ image: "File/Conspiracy%20Butter.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brian Boyko</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Trew">Chris Trew</a></li><!--
   --><!--
   --><!--
   --><!--

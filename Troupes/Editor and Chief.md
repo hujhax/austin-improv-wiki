@@ -9,7 +9,7 @@ image: "File/Editor%20and%20Chief.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Editor and Chief.jpg.md"><img src="File/Editor%20and%20Chief.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Editor and Chief.jpg.md.md.md"><img src="File/File-Editor%20and%20Chief.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Editor%20and%20Chief.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Sansom">Audrey Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Audrey Sansom">Audrey Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><!--
   --><!--
   --><!--

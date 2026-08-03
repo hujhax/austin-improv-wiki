@@ -9,19 +9,19 @@ image: "File/Start%20Trekkin%27.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Start Trekkin'.jpg.md"><img src="File/Start%20Trekkin'.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Start Trekkin'.jpg.md.md.md"><img src="File/File-Start%20Trekkin'.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -169,7 +169,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Season 7: Jan-Feb 2012
 
 ### Event Appearances
-![[TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
+![[File/TrekInVegas.jpg.md|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 *Start Trekkin*' performed at the [*Star Trek* Premiere Party](http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/) at the Bob Bullock State History Museum on May 8th, 2009.
 

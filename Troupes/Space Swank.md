@@ -9,7 +9,7 @@ image: "File/space%20swank.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Space swank.jpg.md"><img src="File/Space%20swank.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Space swank.jpg.md.md.md"><img src="File/File-Space%20swank.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -24,7 +24,7 @@ image: "File/space%20swank.jpg"
   --><li style="">Paul Mahaffey</li><!--
   --><li style="">Ross Puryear</li><!--
   --><li style="">Katie Mathews</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Casey">Chris Casey</a></li><!--
   --><!--
   --><!--
   --><!--

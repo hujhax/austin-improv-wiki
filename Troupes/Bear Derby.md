@@ -9,7 +9,7 @@ image: "File/Bear%20Derby.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Bear Derby.jpg.md"><img src="File/Bear%20Derby.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Bear Derby.jpg.md.md.md"><img src="File/File-Bear%20Derby.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -27,7 +27,7 @@ image: "File/Bear%20Derby.jpg"
   --><li style="">Dustin Finkelstein</li><!--
   --><li style="">Juliet Prather</li><!--
   --><li style="">Matthew Stoner</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style="">Sarah Coker</li><!--
   --><li style="">XJ Coleman</li><!--
   --><!--

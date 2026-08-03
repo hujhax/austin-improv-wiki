@@ -9,7 +9,7 @@ image: "File/Improvised%20Robocop.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Improvised Robocop.jpg.md"><img src="File/Improvised%20Robocop.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Improvised Robocop.jpg.md.md.md"><img src="File/File-Improvised%20Robocop.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -23,12 +23,12 @@ image: "File/Improvised%20Robocop.jpg"
   --><li style="">Andy Petruzzo</li><!--
   --><li style="">Collin Cannaday</li><!--
   --><li style="">Delaney Liming</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
   --><li style="">Jenny Carlson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Jericho Thorpe</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jericho Thorpe">Jericho Thorpe</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style="">Stephanie Redding</li><!--
   --><!--
   --><!--

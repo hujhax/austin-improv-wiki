@@ -9,16 +9,16 @@ image: "File/Only%20Three%20Will%20Survive.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Only Three Will Survive.jpg.md"><img src="File/Only%20Three%20Will%20Survive.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Only Three Will Survive.jpg.md.md.md"><img src="File/File-Only%20Three%20Will%20Survive.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
@@ -28,15 +28,15 @@ image: "File/Only%20Three%20Will%20Survive.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Tyler Booker</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kathy Rose Center">Kathy Rose Center</a></li><!--
   --><li style="">Megan Moten</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Wyatt Tall">Wyatt Tall</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ image: "File/Only%20Three%20Will%20Survive.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Cindy Page|Cindy Page]]</td>
+			<td class="category"><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

@@ -9,7 +9,7 @@ image: "File/The%20Sicks.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Sicks.jpg.md"><img src="File/The%20Sicks.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Sicks.jpg.md.md.md"><img src="File/File-The%20Sicks.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/The%20Sicks.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike D'Alonzo">Mike D'Alonzo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mike D'Alonzo">Mike D'Alonzo</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,8 +77,8 @@ image: "File/The%20Sicks.jpg"
   --><li style="">Ben Sterling</li><!--
   --><li style="">Jeffrey Amos</li><!--
   --><li style="">Jonathan Hunt</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Kate Caldwell</li><!--
   --><li style="">Lauren Hunt</li><!--
   --><li style="">Sarah Smiley</li><!--

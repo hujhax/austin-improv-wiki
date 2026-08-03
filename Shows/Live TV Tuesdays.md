@@ -9,12 +9,12 @@ image: "File/Live%20TV%20Tuesdays.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays.jpg.md"><img src="File/Live%20TV%20Tuesdays.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Live TV Tuesdays.jpg.md.md.md"><img src="File/File-Live%20TV%20Tuesdays.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -51,7 +51,7 @@ The show was known by a variety of names over the course of its run.  The first 
 
 Note that two of the productions were actually not TV episodes.  *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]* presented the famous Joss Whedon webseries, and the [[Shows/Live TV Tuesdays -  John Hughes Summer School|"John Hughes Summer School"]] presented a variety of scenes from classic John Hughes teen films.
 
-![[SouthParkCeaseAndDesist.jpg|South Park Live]]''.]]
+![[File/SouthParkCeaseAndDesist.jpg.md|South Park Live]]''.]]
 
 In 2011 and 2012, the Institution achieved great commercial success with a series of Joss-Whedon-based productions of *[[Shows/Live TV Tuesdays -  Buffy|Buffy]]*, *[[Shows/Live TV Tuesdays -  Buffy|Angel]]*, *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, and *[[Shows/Live TV Tuesdays -  Firefly|Firefly]]*.  (They then capitalized on that success with *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*.)  Unfortunately, with success, *Live TV Tuesdays* also got the attention of the TV companies' legal departments.  *[[Shows/Live TV Tuesdays -  Firefly|Firefly]]* received a cease-and-desist order from FOX after their second performance.  On 6/28/12, Viacom sent the theater [[File/SouthParkCeaseAndDesist.jpg.md|a cease-and-desist letter]] demanding an end to *[[Shows/Live TV Tuesdays -  South Park|South Park]]* because of copyright violation.
 

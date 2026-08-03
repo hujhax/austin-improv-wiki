@@ -9,7 +9,7 @@ image: "File/Firth%20%26%20Arjet%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Firth & Arjet Pic.jpg.md"><img src="File/Firth%20&%20Arjet%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Firth & Arjet Pic.jpg.md.md.md"><img src="File/File-Firth%20&%20Arjet%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Firth%20%26%20Arjet%20Pic.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,7 +84,7 @@ Firth and Arjet headlined *[[Shows/The Free Fringe|The Free Fringe]]* from its p
 The troupe went on hiatus in 2012, when Kristin moved to Philadelphia.
 
 ## Formats
-![[Firth&Arjet Logo.png|The Firth & Arjet logo.]]
+![[File/Firth&Arjet Logo.png.md|The Firth & Arjet logo.]]
 
 ### Duologues
 Based on an audience suggestion, Jessica and Kristin create unique characters with two simultaneous monologues. Throughout the rest of the show they alternate scenes and monologues to explore the characters and reveal their relationships. The show is theatrical in style and remains truthful even when culminating in absurd situations. Silly and sublime, ethereal and grounded, real and outlandish.

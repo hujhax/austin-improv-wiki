@@ -9,18 +9,18 @@ image: "File/local%20on%20the%208s.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Local on the 8s.jpg.md"><img src="File/Local%20on%20the%208s.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Local on the 8s.jpg.md.md.md"><img src="File/File-Local%20on%20the%208s.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,13 +73,13 @@ image: "File/local%20on%20the%208s.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Performers/Lindsey McGowen|Lindsey McGowen]]</td>
+			<td class="category"><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Dramaturg(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -144,7 +144,7 @@ image: "File/local%20on%20the%208s.jpg"
   --><li style="">Jennifer Banister</li><!--
   --><li style="">Marissa Macy</li><!--
   --><li style="">Scott Rose</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -193,7 +193,7 @@ image: "File/local%20on%20the%208s.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Caroline Dinges</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Greg Blank">Greg Blank</a></li><!--
   --><li style="">Daniel Ellsworth</li><!--
   --><li style="">Brad Geiger</li><!--
   --><li style="">Kay Krasin</li><!--

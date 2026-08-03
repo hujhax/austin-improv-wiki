@@ -9,35 +9,35 @@ image: "File/Live%20TV%20Tuesdays%20-%20Angel.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays - Angel.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Angel.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Live TV Tuesdays - Angel.jpg.md.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20Angel.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Adam Mengesha">Adam Mengesha</a></li><!--
   --><li style="">Angela Maldonado</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Caldwell">Heidi Caldwell</a></li><!--
   --><li style="">Joel Reese</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kevin Machate">Kevin Machate</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
   --><li style="">Robin Anderson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
   --><li style="">Vicki Bui</li><!--
   --><!--
   --><!--

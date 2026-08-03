@@ -9,18 +9,18 @@ image: "File/Rock%20poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Rock poster.jpg.md"><img src="File/Rock%20poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Rock poster.jpg.md.md.md"><img src="File/File-Rock%20poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Brockman">Michael Brockman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Brockman">Michael Brockman</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,25 +73,25 @@ image: "File/Rock%20poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Performers/Michael Brockman|Michael Brockman]]</td>
+			<td class="category"><a class="internal-link" href="Performers-Michael Brockman">Michael Brockman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style="">Amber Franklin</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Finkelman">Jason Finkelman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Kimberly Cox</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Finkelman">Jason Finkelman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -133,8 +133,8 @@ image: "File/Rock%20poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--

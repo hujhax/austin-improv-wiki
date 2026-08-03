@@ -13,7 +13,7 @@ This template lists standard, useful information about an improv show.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/.md"><img src="File/" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href=".md"><img src="" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -78,7 +78,7 @@ This template lists standard, useful information about an improv show.
   </tr>
   <tr >
     <td > <em>Producer</em>           </td>
-    <td > The entity (such as <a class="internal-link" href="Theatres/Gnap!">Gnap!</a>) that produced the show, if that's different from the theater.</td>
+    <td > The entity (such as <a class="internal-link" href="Theatres-Gnap!">Gnap!</a>) that produced the show, if that's different from the theater.</td>
   </tr>
   <tr >
     <td > <em>Cast</em>           </td>
@@ -86,7 +86,7 @@ This template lists standard, useful information about an improv show.
   </tr>
   <tr >
     <td > <em>Past Members</em>           </td>
-    <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+    <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template-Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
     <td > <em>Tech</em>           </td>
@@ -115,7 +115,7 @@ This template lists standard, useful information about an improv show.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Show Default Image.jpg.md"><img src="File/Show%20Default%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Show Default Image.jpg.md.md.md"><img src="File/File-Show%20Default%20Image.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

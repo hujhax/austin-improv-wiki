@@ -9,18 +9,18 @@ image: "File/Happily%20Ever%20After.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Happily Ever After.jpg.md"><img src="File/Happily%20Ever%20After.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Happily Ever After.jpg.md.md.md"><img src="File/File-Happily%20Ever%20After.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,22 +73,22 @@ image: "File/Happily%20Ever%20After.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
-			<td class="category">[[Performers/Ammon Taylor|Ammon Taylor]]</td>
+			<td class="category"><a class="internal-link" href="Performers-Ammon Taylor">Ammon Taylor</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -132,7 +132,7 @@ image: "File/Happily%20Ever%20After.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Jessica T. Von Schramm|Jessica T. Von Schramm]] (stage manager)</td>
+			<td class="category"><a class="internal-link" href="Performers-Jessica T. Von Schramm">Jessica T. Von Schramm</a> (stage manager)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

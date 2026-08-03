@@ -9,7 +9,7 @@ image: "File/Kingston.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Kingston.jpg.md"><img src="File/Kingston.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Kingston.jpg.md.md.md"><img src="File/File-Kingston.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,13 +19,13 @@ image: "File/Kingston.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris McKeever">Chris McKeever</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris McKeever">Chris McKeever</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
   --><li style="">Jillian Besemer</li><!--
   --><li style="">Lane Ingram</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

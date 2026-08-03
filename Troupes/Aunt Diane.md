@@ -8,7 +8,7 @@ description: "|Years = 2014."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Troupe default image.png.md.md.md"><img src="File/File-Troupe%20default%20image.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,10 +18,10 @@ description: "|Years = 2014."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Baia">Alex Baia</a></li><!--
   --><li style="">Kate Trammell</li><!--
   --><li style="">Kayla Newman</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Matt Needles">Matt Needles</a></li><!--
   --><li style="">Naomi Perryman</li><!--
   --><li style="">Nick Wuthrich</li><!--
   --><!--

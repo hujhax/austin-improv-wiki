@@ -9,34 +9,34 @@ image: "File/Reform%20School%20for%20Wayward%20Girls.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Reform School for Wayward Girls.jpg.md"><img src="File/Reform%20School%20for%20Wayward%20Girls.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Reform School for Wayward Girls.jpg.md.md.md"><img src="File/File-Reform%20School%20for%20Wayward%20Girls.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adrienne Brown</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Ash Nunley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Erickson">Halyn Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Halyn Erickson">Halyn Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,8 +78,8 @@ image: "File/Reform%20School%20for%20Wayward%20Girls.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a> (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Albano">Chris Albano</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--

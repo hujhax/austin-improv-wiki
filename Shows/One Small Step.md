@@ -9,18 +9,18 @@ image: "File/One-Small-Step-Poster-2015-web-small.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/One-Small-Step-Poster-2015-web-small.jpg.md"><img src="File/One-Small-Step-Poster-2015-web-small.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-One-Small-Step-Poster-2015-web-small.jpg.md.md.md"><img src="File/File-One-Small-Step-Poster-2015-web-small.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,19 +73,19 @@ image: "File/One-Small-Step-Poster-2015-web-small.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category">[[Michael Yew]]</td>
+			<td class="category"><a class="internal-link" href="Michael Yew">Michael Yew</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amanda Hinsman</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style="">Chris Canada</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Ray Goodson">Courtney Ray Goodson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Ray Goodson">Courtney Ray Goodson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
   --><!--
   --><!--
   --><!--

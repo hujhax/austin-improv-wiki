@@ -9,7 +9,7 @@ image: "File/The%20Nesting%20Dolls.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Nesting Dolls.jpg.md"><img src="File/The%20Nesting%20Dolls.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Nesting Dolls.jpg.md.md.md"><img src="File/File-The%20Nesting%20Dolls.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,14 +20,14 @@ image: "File/The%20Nesting%20Dolls.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ann Potter</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Elizabeth Brammer">Elizabeth Brammer</a></li><!--
   --><li style="">Jessica Hamilton</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

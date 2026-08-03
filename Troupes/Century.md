@@ -9,7 +9,7 @@ image: "File/Century.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Century.jpg.md"><img src="File/Century.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Century.jpg.md.md.md"><img src="File/File-Century.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,10 +19,10 @@ image: "File/Century.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ben Masten">Ben Masten</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ben Masten">Ben Masten</a></li><!--
   --><!--
   --><!--
   --><!--

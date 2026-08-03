@@ -9,14 +9,14 @@ image: "File/The%20Cagematch.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Cagematch.jpg.md"><img src="File/The%20Cagematch.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Cagematch.jpg.md.md.md"><img src="File/File-The%20Cagematch.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a> (2005-2007)</li><!--
-  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2007-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a> (2005-2007)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a> (2007-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,10 +70,10 @@ image: "File/The%20Cagematch.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a> (2007-2008)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Trew">Chris Trew</a> (2007-2008)</li><!--
   --><li style="">Michael Williams (2008-2012)</li><!--
   --><li style="">Adam Trabka (2012-2014)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a> (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a> (2014-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -141,7 +141,7 @@ In its current incarnation, the Cagematch is a single-elimination bracket tourna
 Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild" or "Trail of Terror."  It is scheduled by the so-called "Cagematch Commissioner", a position which has been held by [[Performers/Chris Trew|Chris Trew]] (2007-2008) and Michael Williams (2008-2012), Adam Trabka (August 2012 - April 2014), and which has been held by [[Performers/Nathan Sowell|Nathan Sowell]] since April 2014.
 
 ## History
-![[Cagematch2x4.jpg|The winners of *The Cagematch* are recorded on a 2x4 mounted on the wall at ColdTowne Theater.]]
+![[File/Cagematch2x4.jpg.md|The winners of *The Cagematch* are recorded on a 2x4 mounted on the wall at ColdTowne Theater.]]
 The Cagematch originated as an [[AIC]]-branded show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in November of 2005.  It moved to [[Theatres/Coldtowne Theater|Coldtowne Theater]] in 2007.  The AIC became largely inactive in 2009, and the Cagematch continued as a ColdTowne show.
 
 In its tenure at the Hideout, and in the first months of its move to ColdTowne, the Cagematch was a "King of the Hill"-style contest, where the winner would always return to compete next week.  The show returned to this format briefly in late 2010/early 2011.

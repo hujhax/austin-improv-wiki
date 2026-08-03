@@ -9,7 +9,7 @@ image: "File/The%20Library.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Library.jpg.md"><img src="File/The%20Library.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Library.jpg.md.md.md"><img src="File/File-The%20Library.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,16 +18,16 @@ image: "File/The%20Library.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeanette Bozied">Jeanette Bozied</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeanette Bozied">Jeanette Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole Beckley">Nicole Beckley</a></li><!--
   --><!--
   --><!--
   --><!--

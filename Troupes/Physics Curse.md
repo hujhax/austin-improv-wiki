@@ -9,7 +9,7 @@ image: "File/PhysicsCurseMooseBooth2014.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/PhysicsCurseMooseBooth2014.jpg.md"><img src="File/PhysicsCurseMooseBooth2014.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-PhysicsCurseMooseBooth2014.jpg.md.md.md"><img src="File/File-PhysicsCurseMooseBooth2014.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,10 +19,10 @@ image: "File/PhysicsCurseMooseBooth2014.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--

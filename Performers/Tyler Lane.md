@@ -9,12 +9,12 @@ image: "File/Tyler%20Lane.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Tyler Lane.jpg.md"><img src="File/Tyler%20Lane.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Tyler Lane.jpg.md.md.md"><img src="File/File-Tyler%20Lane.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

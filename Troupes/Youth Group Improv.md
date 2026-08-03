@@ -8,7 +8,7 @@ description: "|Years = 2012."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Troupe default image.png.md.md.md"><img src="File/File-Troupe%20default%20image.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,14 +21,14 @@ description: "|Years = 2012."
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
   --><li style="">Becca Westerkom</li><!--
   --><li style="">Caitlin Bumgartner</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
   --><li style="">Jeremy Logan</li><!--
   --><li style="">John Brewster</li><!--
   --><li style="" >Kayla Freeman</li><!--
   --><li style="">Milo Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

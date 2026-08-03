@@ -9,7 +9,7 @@ image: "File/Elevator%20Action.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Elevator Action.jpg.md"><img src="File/Elevator%20Action.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Elevator Action.jpg.md.md.md"><img src="File/File-Elevator%20Action.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,14 +19,14 @@ image: "File/Elevator%20Action.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">David Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
   --><li style="">Max Lipschitz</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style="" >Sandra Markarian</li><!--
   --><!--
   --><!--

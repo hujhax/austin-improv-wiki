@@ -9,7 +9,7 @@ image: "File/Three%20on%20a%20Match.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Three on a Match.jpg.md"><img src="File/Three%20on%20a%20Match.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Three on a Match.jpg.md.md.md"><img src="File/File-Three%20on%20a%20Match.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,11 +19,11 @@ image: "File/Three%20on%20a%20Match.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/The%20Control%20Group.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Control Group.jpg.md"><img src="File/The%20Control%20Group.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Control Group.jpg.md.md.md"><img src="File/File-The%20Control%20Group.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/The%20Control%20Group.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Alex Berry</li><!--
   --><li style="">Mandy Spivey</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaux Binder">Margaux Binder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Margaux Binder">Margaux Binder</a></li><!--
   --><li style="">Micheal Foulk</li><!--
   --><li style="">Tom Niland</li><!--
   --><!--

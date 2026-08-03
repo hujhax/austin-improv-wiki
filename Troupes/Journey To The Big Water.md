@@ -9,7 +9,7 @@ image: "File/Journey%20to%20the%20Big%20Water.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Journey to the Big Water.jpg.md"><img src="File/Journey%20to%20the%20Big%20Water.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Journey to the Big Water.jpg.md.md.md"><img src="File/File-Journey%20to%20the%20Big%20Water.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,22 +18,22 @@ image: "File/Journey%20to%20the%20Big%20Water.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Trabka</li><!--
   --><li style="">Ann Armstrong</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brad Temple">Brad Temple</a></li><!--
   --><li style="">Jacob Ellenberg</li><!--
   --><li style="">Joel Usher</li><!--
   --><li style="">Matt Derman</li><!--
   --><li style="">Matthew Derman</li><!--
   --><li style="">Meredith Newell</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style="">Sam Van Metre</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><!--
   --><!--
   --><!--

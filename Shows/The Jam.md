@@ -9,16 +9,16 @@ image: "File/The%20Jam%20with%20Oh%2C%20Science%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Jam with Oh, Science!.jpg.md"><img src="File/The%20Jam%20with%20Oh,%20Science!.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Jam with Oh, Science!.jpg.md.md.md"><img src="File/File-The%20Jam%20with%20Oh,%20Science!.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes/Oh, Science!">Oh, Science!</a></td>
+			<td class="category"><a class="internal-link" href="Troupes-Oh, Science!">Oh, Science!</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

@@ -9,7 +9,7 @@ image: "File/The%20Tastemakers.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Tastemakers.jpg.md"><img src="File/The%20Tastemakers.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Tastemakers.jpg.md.md.md"><img src="File/File-The%20Tastemakers.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,10 +19,10 @@ image: "File/The%20Tastemakers.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ben Masten">Ben Masten</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ben Masten">Ben Masten</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

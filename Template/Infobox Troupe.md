@@ -13,7 +13,7 @@ This template lists standard, useful information about an improv troupe.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/.md"><img src="File/" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href=".md"><img src="" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -49,23 +49,23 @@ This template lists standard, useful information about an improv troupe.
   </tr>
   <tr >
     <td > <em>Directed By</em>     </td>
-    <td > The director of the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+    <td > The director of the troupe (optional). To include a list of people, use <a class="internal-link" href="Template-Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
     <td > <em>Cast</em>           </td>
-    <td > The stage performers in the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+    <td > The stage performers in the troupe. To include a list of people, use <a class="internal-link" href="Template-Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
     <td > <em>Past Members</em>           </td>
-    <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+    <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template-Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
     <td > <em>Tech</em>           </td>
-    <td > The technical improvisors in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+    <td > The technical improvisors in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template-Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
     <td > <em>Crew</em>           </td>
-    <td > The backstage people involved in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+    <td > The backstage people involved in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template-Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
 </table>
 
@@ -78,7 +78,7 @@ This template lists standard, useful information about an improv troupe.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Troupe default image.png.md.md.md"><img src="File/File-Troupe%20default%20image.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/Uptowne%20cast%20and%20crew%202009.JPG"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Uptowne cast and crew 2009.JPG.md"><img src="File/Uptowne%20cast%20and%20crew%202009.JPG" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Uptowne cast and crew 2009.JPG.md.md.md"><img src="File/File-Uptowne%20cast%20and%20crew%202009.JPG.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,18 +20,18 @@ image: "File/Uptowne%20cast%20and%20crew%202009.JPG"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brent Foshee</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style="">Collin Cannaday</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
   --><li style="">Justin York</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style="">Katie Sicking</li><!--
   --><li style="">Leah Moss</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
   --><!--
   --><!--
   --><!--

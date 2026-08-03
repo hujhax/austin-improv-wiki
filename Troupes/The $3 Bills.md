@@ -9,7 +9,7 @@ image: "File/The%20%243%20Bills.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The $3 Bills.jpg.md"><img src="File/The%20$3%20Bills.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The $3 Bills.jpg.md.md.md"><img src="File/File-The%20$3%20Bills.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@ image: "File/The%20%243%20Bills.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Belinda Carroll</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cody Melcher">Cody Melcher</a></li><!--
   --><li style="">Marci Spivey</li><!--
   --><li style="">Kim Wilson</li><!--
   --><!--

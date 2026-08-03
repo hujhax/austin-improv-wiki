@@ -9,7 +9,7 @@ image: "File/Red%20Giant.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Red Giant.jpg.md"><img src="File/Red%20Giant.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Red Giant.jpg.md.md.md"><img src="File/File-Red%20Giant.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,11 +20,11 @@ image: "File/Red%20Giant.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andy Petruzzo</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style="">David Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Josh Krilov">Josh Krilov</a></li><!--
   --><li style="">Julia Kirchen</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style="">Stephanie Russo</li><!--
   --><li style="">Teresa Kubos</li><!--
   --><!--

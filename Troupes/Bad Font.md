@@ -9,7 +9,7 @@ image: "File/BadFont%20Hideout.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/BadFont Hideout.jpg.md"><img src="File/BadFont%20Hideout.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-BadFont Hideout.jpg.md.md.md"><img src="File/File-BadFont%20Hideout.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,15 +19,15 @@ image: "File/BadFont%20Hideout.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kelly Campbell">Kelly Campbell</a></li><!--
   --><li style="">Rachel Denton</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
   --><li style="">Griffin May</li><!--
   --><li style="">Johnny Sullivan</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Megan Venable">Megan Venable</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Megan Venable">Megan Venable</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,16 +74,16 @@ image: "File/BadFont%20Hideout.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Christina Parrish</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ron Morelli">Ron Morelli</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristen Kurtis">Kristen Kurtis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cene Hale">Cene Hale</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Christina Parrish">Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ron Morelli">Ron Morelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kristen Kurtis">Kristen Kurtis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alexander Hilary">Alexander Hilary</a></li><!--
   --><li style="">Megan Mowry</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Theo Daley">Theo Daley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Theo Daley">Theo Daley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessie Pascarelli">Jessie Pascarelli</a></li><!--
   --><!--
   --><!--
   --><!--

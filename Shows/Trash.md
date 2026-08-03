@@ -9,7 +9,7 @@ image: "File/Trash.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Trash.jpg.md"><img src="File/Trash.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Trash.jpg.md.md.md"><img src="File/File-Trash.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,7 +18,7 @@ image: "File/Trash.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -26,12 +26,12 @@ image: "File/Trash.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Ammon Taylor">Ammon Taylor</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chad Wellington">Chad Wellington</a></li><!--
   --><li style="">Elizabeth Buchanan</li><!--
   --><li style="">Jennifer Bateman</li><!--
   --><li style="">Joel Reese</li><!--

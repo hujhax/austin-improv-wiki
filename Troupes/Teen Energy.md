@@ -9,7 +9,7 @@ image: "File/Teen%20Energy.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Teen Energy.jpg.md"><img src="File/Teen%20Energy.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Teen Energy.jpg.md.md.md"><img src="File/File-Teen%20Energy.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,10 +19,10 @@ image: "File/Teen%20Energy.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heather Hasselle">Heather Hasselle</a></li><!--
   --><li style="">Jenn Buch</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><!--
   --><!--
   --><!--

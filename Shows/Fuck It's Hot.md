@@ -9,31 +9,31 @@ image: "File/Fuck%20Its%20Hot%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Fuck Its Hot Poster.jpg.md"><img src="File/Fuck%20Its%20Hot%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Fuck Its Hot Poster.jpg.md.md.md"><img src="File/File-Fuck%20Its%20Hot%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Ash Nunley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Claudio Fox">Claudio Fox</a></li><!--
   --><li style="">Duncan Coe</li><!--
   --><li style="">Elena Weinberg</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,8 +78,8 @@ image: "File/Fuck%20Its%20Hot%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -215,7 +215,7 @@ The initial run ran through July and August of 2013.  It sold out every performa
 * [[Performers/Tyler Bryce|Tyler Bryce]]
 
 ### Fuck It's Christmas
-![[Fuck It's Christmas.jpg|Publicity banner for "Fuck It's Christmas".]]
+![[File/Fuck It's Christmas.jpg.md|Publicity banner for "Fuck It's Christmas".]]
 
 The show returned for a holiday run in November and December of 2013.  [[Performers/Bryan Curry|Bryan Curry]] worked tech for this run.
 

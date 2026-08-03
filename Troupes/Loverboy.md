@@ -9,7 +9,7 @@ image: "File/Loverboy.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Loverboy.jpg.md"><img src="File/Loverboy.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Loverboy.jpg.md.md.md"><img src="File/File-Loverboy.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Loverboy.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cene Hale">Cene Hale</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelsea Bunn">Chelsea Bunn</a></li><!--
   --><li style="">Kim Lowery</li><!--
   --><li style="">Maria Pond</li><!--
   --><li style="">Stephanie Thoreson</li><!--

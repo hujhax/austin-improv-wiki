@@ -9,7 +9,7 @@ image: "File/B-Team.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/B-Team.jpg.md"><img src="File/B-Team.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-B-Team.jpg.md.md.md"><img src="File/File-B-Team.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -24,7 +24,7 @@ image: "File/B-Team.jpg"
   --><li style="">LeAnn Levering-Plant</li><!--
   --><li style="">Melissa Siele</li><!--
   --><li style="">Molly Harris</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Pius Wong">Pius Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Pius Wong">Pius Wong</a></li><!--
   --><!--
   --><!--
   --><!--

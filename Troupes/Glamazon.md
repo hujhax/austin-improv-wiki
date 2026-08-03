@@ -9,7 +9,7 @@ image: "File/Glamazon.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Glamazon.jpg.md"><img src="File/Glamazon.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Glamazon.jpg.md.md.md"><img src="File/File-Glamazon.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ image: "File/Glamazon.jpg"
   --><li style="">Amy Carpenter</li><!--
   --><li style="">XJ Coleman</li><!--
   --><li style="">Katie Moore</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

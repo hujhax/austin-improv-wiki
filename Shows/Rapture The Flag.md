@@ -9,16 +9,16 @@ image: "File/Rapture%20the%20Flag.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Rapture the Flag.jpg.md"><img src="File/Rapture%20the%20Flag.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Rapture the Flag.jpg.md.md.md"><img src="File/File-Rapture%20the%20Flag.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
@@ -31,10 +31,10 @@ image: "File/Rapture%20the%20Flag.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erica Lies">Erica Lies</a></li><!--
   --><li style="">Justin York</li><!--
   --><li style="">Teresa Kubos York</li><!--
   --><!--

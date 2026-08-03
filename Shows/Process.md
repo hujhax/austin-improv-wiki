@@ -9,52 +9,52 @@ image: "File/Process%20Publicity%20Image.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Process Publicity Image.jpg.md"><img src="File/Process%20Publicity%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Process Publicity Image.jpg.md.md.md"><img src="File/File-Process%20Publicity%20Image.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">2012 Run</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
   --><li style="">.</li><!--
   --><li style="">2016 Run</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style="">Haley Alea Erickson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Kaci Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rob Yoho">Rob Yoho</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -83,20 +83,20 @@ image: "File/Process%20Publicity%20Image.jpg"
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><li style="">.</li><!--
   --><li style="">2016 Run</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a> (Costumes/Set Asst)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a> (Costumes/Set Asst)</li><!--
   --><li style="">Bonnie Dilber (Lights/Run Crew)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a> (Lights/Audio/Run Crew)</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a> (Lights/Costume Asst)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (Costuming Lead)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a> (Costumes/Run Crew)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a> (Lights/Audio/Run Crew)</li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Carolyn Gjertsen">Carolyn Gjertsen</a> (Lights/Costume Asst)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (Costuming Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ellen Pizarek">Ellen Pizarek</a> (Costumes/Run Crew)</li><!--
   --><li style="">Jenn Hamm (Run Crew)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a> (Stage Manager)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (Technical Director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a> (Stage Manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a> (Technical Director)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (Audio Lead)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a> (Lights/Run Crew)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nichole Bennett">Nichole Bennett</a> (Lights/Run Crew)</li><!--
   --><li style="">Nicole Oglesby (Set Asst)</li><!--
   --><li style="">Sandra Ybarra (Assistant Stage Manager)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stuart m feild">Stuart m feild</a> (Set Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Stuart m feild">Stuart m feild</a> (Set Lead)</li><!--
   --><!--
   --><!--
   --><!--
@@ -144,7 +144,7 @@ image: "File/Process%20Publicity%20Image.jpg"
 ***Process*** is a longform improv show that takes the audience through the process of producing a (fictional) play.  It is a recurring mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
-![[Process Performance.jpg|A performance of *Process*.]]
+![[File/Process Performance.jpg.md|A performance of *Process*.]]
 Each show had a number of pre-assigned roles for that night's cast.  One performer would be the director of the (fictional) play, who would run the auditions and rehearsals within the world of the show.  Another would be the stage manager (again, with the world of the fictional production), who often gave the director someone to talk to and bounce ideas off of, and generally kept things on track.  Additional cast members would work tech for the evening, and several more would work as the "Desi Team".  It was the Desi Team's job to stay in the green room, listen to the first acts of the show as they happened (via a PA system installed in the Hideout) and build props, costumes, and scenery elements that could then be used in the show.
 
 The show itself began with the director getting the play's title as a suggestion from the audience.  The director typically let the audience shout out a number of titles before going with the most promising and inspiring one.  Then the show began with auditions, where the main cast went before the director and stage manager with prepared pieces, typically from plays based off of the unused audience title suggestions.

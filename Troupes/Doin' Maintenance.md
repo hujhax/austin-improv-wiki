@@ -9,7 +9,7 @@ image: "File/Doin%20Maintenance.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Doin Maintenance.jpg.md"><img src="File/Doin%20Maintenance.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Doin Maintenance.jpg.md.md.md"><img src="File/File-Doin%20Maintenance.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,10 +20,10 @@ image: "File/Doin%20Maintenance.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy Wright</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jillian Summar">Jillian Summar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stuart Feild">Stuart Feild</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Stuart Feild">Stuart Feild</a></li><!--
   --><!--
   --><!--
   --><!--

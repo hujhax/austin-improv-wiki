@@ -9,7 +9,7 @@ image: "File/Two%20Guys%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Two Guys Pic.jpg.md"><img src="File/Two%20Guys%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Two Guys Pic.jpg.md.md.md"><img src="File/File-Two%20Guys%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Two%20Guys%20Pic.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bobby Ford">Bobby Ford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bobby Ford">Bobby Ford</a></li><!--
   --><!--
   --><!--
   --><!--

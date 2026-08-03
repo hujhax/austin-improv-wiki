@@ -9,14 +9,14 @@ image: "File/The%20Monday%20Night%20Mash.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Monday Night Mash.jpg.md"><img src="File/The%20Monday%20Night%20Mash.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Monday Night Mash.jpg.md.md.md"><img src="File/File-The%20Monday%20Night%20Mash.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Kick Butt Coffee (2008-2009)</li><!--
-  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,8 +70,8 @@ image: "File/The%20Monday%20Night%20Mash.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes/Snackers">Snackers</a> (2008-2009)</li><!--
-  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Troupes-Snackers">Snackers</a> (2008-2009)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
   --><!--
   --><!--
   --><!--

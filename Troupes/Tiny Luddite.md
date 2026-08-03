@@ -9,7 +9,7 @@ image: "File/Tiny%20Luddite.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Tiny Luddite.jpg.md"><img src="File/Tiny%20Luddite.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Tiny Luddite.jpg.md.md.md"><img src="File/File-Tiny%20Luddite.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@ image: "File/Tiny%20Luddite.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
   --><!--
   --><!--
   --><!--

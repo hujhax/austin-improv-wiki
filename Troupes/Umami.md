@@ -9,7 +9,7 @@ image: "File/Umami.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Umami.jpg.md"><img src="File/Umami.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Umami.jpg.md.md.md"><img src="File/File-Umami.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,9 +21,9 @@ image: "File/Umami.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Dave Rosenbaum</li><!--
   --><li style="">Matt Craighead</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nancy Lyon">Nancy Lyon</a></li><!--
   --><li style="">Regina Soto</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

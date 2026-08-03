@@ -9,7 +9,7 @@ image: "File/Band%20of%20Liars.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Band of Liars.jpg.md"><img src="File/Band%20of%20Liars.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Band of Liars.jpg.md.md.md"><img src="File/File-Band%20of%20Liars.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/Band%20of%20Liars.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Daniel Rigney</li><!--
   --><li style="">Jackie Myers</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><li style="">Paul Wainwright</li><!--
   --><li style="">Petra Kelsey</li><!--
   --><li style="">Todd Mein</li><!--

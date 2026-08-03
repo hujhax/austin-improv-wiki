@@ -9,7 +9,7 @@ image: "File/The%20Intentions.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Intentions.jpg.md"><img src="File/The%20Intentions.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Intentions.jpg.md.md.md"><img src="File/File-The%20Intentions.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,11 +20,11 @@ image: "File/The%20Intentions.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Bob Khosravi</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Finkelman">Jason Finkelman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Finkelman">Jason Finkelman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kimberly Cox">Kimberly Cox</a></li><!--
   --><!--
   --><!--
   --><!--

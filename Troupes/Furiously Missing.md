@@ -9,7 +9,7 @@ image: "File/Furiously%20Missing.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Furiously Missing.jpg.md"><img src="File/Furiously%20Missing.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Furiously Missing.jpg.md.md.md"><img src="File/File-Furiously%20Missing.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ image: "File/Furiously%20Missing.jpg"
   --><li style="">Amy O'Connor</li><!--
   --><li style="">Cassidy Santaguida</li><!--
   --><li style="">Chris Sutphen</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
   --><!--
   --><!--
   --><!--

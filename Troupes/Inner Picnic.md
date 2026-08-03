@@ -9,7 +9,7 @@ image: "File/Innerpicnic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Innerpicnic.jpg.md"><img src="File/Innerpicnic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Innerpicnic.jpg.md.md.md"><img src="File/File-Innerpicnic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,15 +18,15 @@ image: "File/Innerpicnic.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Norman Tran">Norman Tran</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Norman Tran">Norman Tran</a></li><!--
   --><li style="">Brian Bonnet</li><!--
   --><li style="">Catherine Grady</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/Anticdotes.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Anticdotes.jpg.md"><img src="File/Anticdotes.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Anticdotes.jpg.md.md.md"><img src="File/File-Anticdotes.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,11 +19,11 @@ image: "File/Anticdotes.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Britney Salyer">Britney Salyer</a></li><!--
   --><li style="">Evan T. Atherton</li><!--
   --><li style="">Gary Richardson</li><!--
   --><li style="">Linsdey Reeves</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

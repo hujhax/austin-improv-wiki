@@ -9,33 +9,33 @@ image: "File/Indy%20Movies.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Indy Movies.jpg.md"><img src="File/Indy%20Movies.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Indy Movies.jpg.md.md.md"><img src="File/File-Indy%20Movies.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><li style="">Daniel Erving</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Eli Eidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Eli Eidson">Eli Eidson</a></li><!--
   --><li style="">Jake Millward</li><!--
   --><li style="">Katie Moore</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="">Maitland Lederer</li><!--
   --><li style="">Naomi Perryman</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Seth Johnson">Seth Johnson</a></li><!--
   --><li style="">Steve Moore</li><!--
   --><li style="">Will Casto</li><!--
   --><!--

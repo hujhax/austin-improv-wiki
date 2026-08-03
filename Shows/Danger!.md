@@ -9,12 +9,12 @@ image: "File/Danger.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Danger.jpg.md"><img src="File/Danger.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Danger.jpg.md.md.md"><img src="File/File-Danger.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -26,14 +26,14 @@ image: "File/Danger.jpg"
   --><li style="">Amy Carpenter</li><!--
   --><li style="">Ashley Lowe</li><!--
   --><li style="">Carla Goodman</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Madeline Chauvin">Madeline Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Madeline Chauvin">Madeline Chauvin</a></li><!--
   --><li style="">Michael Pedicano</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
   --><li style="">Regina Soto</li><!--
   --><!--
   --><!--

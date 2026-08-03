@@ -9,7 +9,7 @@ image: "File/Lunch%20Pail.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Lunch Pail.jpg.md"><img src="File/Lunch%20Pail.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Lunch Pail.jpg.md.md.md"><img src="File/File-Lunch%20Pail.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,9 +19,9 @@ image: "File/Lunch%20Pail.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Matt Needles">Matt Needles</a></li><!--
   --><!--
   --><!--
   --><!--

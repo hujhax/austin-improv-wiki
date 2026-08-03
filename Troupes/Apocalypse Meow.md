@@ -9,7 +9,7 @@ image: "File/Apocalypse%20Meow.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Apocalypse Meow.jpg.md"><img src="File/Apocalypse%20Meow.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Apocalypse Meow.jpg.md.md.md"><img src="File/File-Apocalypse%20Meow.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,12 +19,12 @@ image: "File/Apocalypse%20Meow.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style="">Kim Roche</li><!--
   --><li style="">Neal Trebewla</li><!--
   --><li style="">Sandra Ybarra</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
   --><li style="">Zach Leos</li><!--
   --><!--
   --><!--

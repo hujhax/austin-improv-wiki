@@ -9,7 +9,7 @@ image: "File/Mother%20Fing%20Action%20Heroes%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mother Fing Action Heroes!.jpg.md"><img src="File/Mother%20Fing%20Action%20Heroes!.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Mother Fing Action Heroes!.jpg.md.md.md"><img src="File/File-Mother%20Fing%20Action%20Heroes!.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,7 +18,7 @@ image: "File/Mother%20Fing%20Action%20Heroes%21.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Jason Oliver">Jason Oliver</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -26,11 +26,11 @@ image: "File/Mother%20Fing%20Action%20Heroes%21.jpg"
   --><li style="">Aaron Roxby</li><!--
   --><li style="">Cassidy Santaguida</li><!--
   --><li style="">Chris Sebilia</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Oliver">Jason Oliver</a></li><!--
   --><li style="">Maitland Lederer</li><!--
   --><li style="">Steve Jaffe</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--

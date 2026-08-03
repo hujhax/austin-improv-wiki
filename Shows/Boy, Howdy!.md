@@ -9,37 +9,37 @@ image: "File/Boy%2C%20Howdy%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Boy, Howdy!.jpg.md"><img src="File/Boy,%20Howdy!.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Boy, Howdy!.jpg.md.md.md"><img src="File/File-Boy,%20Howdy!.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Kaci Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Danger">Roy Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Danger">Kaci Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Roy Danger">Roy Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,9 +82,9 @@ image: "File/Boy%2C%20Howdy%21.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a> (lights)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a> (stage manager/dramaturg)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rob Yoho">Rob Yoho</a> (stage manager/dramaturg)</li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/Improv%20for%20Evil.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Improv for Evil.jpg.md"><img src="File/Improv%20for%20Evil.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Improv for Evil.jpg.md.md.md"><img src="File/File-Improv%20for%20Evil.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,14 +19,14 @@ image: "File/Improv%20for%20Evil.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Mo Daviau</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mike Kinald">Mike Kinald</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mo Daviau">Mo Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--

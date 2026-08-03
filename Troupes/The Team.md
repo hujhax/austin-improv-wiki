@@ -9,7 +9,7 @@ image: "File/The%20Team.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Team.jpg.md"><img src="File/The%20Team.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Team.jpg.md.md.md"><img src="File/File-The%20Team.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,8 +21,8 @@ image: "File/The%20Team.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Danny Catlow</li><!--
   --><li style="">David Lee Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,19 +9,19 @@ image: "File/The%20Joss%20Whedon%20Pajama%20Party.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Joss Whedon Pajama Party.jpg.md"><img src="File/The%20Joss%20Whedon%20Pajama%20Party.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Joss Whedon Pajama Party.jpg.md.md.md"><img src="File/File-The%20Joss%20Whedon%20Pajama%20Party.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,28 +74,28 @@ image: "File/The%20Joss%20Whedon%20Pajama%20Party.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Adam Mengesha">Adam Mengesha</a></li><!--
   --><li style="">Alex Kingston</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alexa Ramirez">Alexa Ramirez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alexa Ramirez">Alexa Ramirez</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
   --><li style="">Courtney DeAngelo</li><!--
   --><li style="" >David Higgins</li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Zimmerman">David Zimmerman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
   --><li style="">Jeremy Logan</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
   --><li style="">Laura Komkov</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Stephen Robinson">Stephen Robinson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Stephen Robinson">Stephen Robinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -129,8 +129,8 @@ image: "File/The%20Joss%20Whedon%20Pajama%20Party.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
   --><!--
   --><!--
   --><!--

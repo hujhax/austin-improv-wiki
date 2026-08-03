@@ -9,7 +9,7 @@ image: "File/Overstreet%20%26%20Johnson.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Overstreet & Johnson.jpg.md"><img src="File/Overstreet%20&%20Johnson.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Overstreet & Johnson.jpg.md.md.md"><img src="File/File-Overstreet%20&%20Johnson.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Overstreet%20%26%20Johnson.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/Brain%20Trust.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Brain Trust.jpg.md"><img src="File/Brain%20Trust.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Brain Trust.jpg.md.md.md"><img src="File/File-Brain%20Trust.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,9 +19,9 @@ image: "File/Brain%20Trust.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

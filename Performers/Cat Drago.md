@@ -9,14 +9,14 @@ image: "File/Cat%20Drago%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Cat Drago Pic.jpg.md"><img src="File/Cat%20Drago%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Cat Drago Pic.jpg.md.md.md"><img src="File/File-Cat%20Drago%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
   --><!--
   --><!--
   --><!--

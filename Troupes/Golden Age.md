@@ -9,7 +9,7 @@ image: "File/Golden%20Age.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Golden Age.jpg.md"><img src="File/Golden%20Age.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Golden Age.jpg.md.md.md"><img src="File/File-Golden%20Age.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,13 +20,13 @@ image: "File/Golden%20Age.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
   --><li style="">Cody Greenlee</li><!--
   --><li style="">Dave Michaels</li><!--
   --><li style="">Jake Milward</li><!--
   --><li style="">Joseph Dailey</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style="" >Will Casto</li><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@ image: "File/Golden%20Age.jpg"
 **Golden Age** is an improv troupe.
 
 ## Summary
-![[Golden Age Cagematch.jpg|Golden Age celebrates their 10/24/12 *[Cagematch](Shows/Cagematch)* championship.]]
+![[File/Golden Age Cagematch.jpg.md|Golden Age celebrates their 10/24/12 *[Cagematch](Shows/Cagematch)* championship.]]
 The troupe was formed by ColdTowne students and graduates to explore sci-fi-themed improv.
 
 At first, they performed a Bat -- that is, a Harold in the dark -- as their intro.

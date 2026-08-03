@@ -9,7 +9,7 @@ image: "File/Mr.%20and%20Mrs.%20Danger.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mr. and Mrs. Danger.jpg.md"><img src="File/Mr.%20and%20Mrs.%20Danger.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Mr. and Mrs. Danger.jpg.md.md.md"><img src="File/File-Mr.%20and%20Mrs.%20Danger.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Mr.%20and%20Mrs.%20Danger.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--

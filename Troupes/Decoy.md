@@ -9,7 +9,7 @@ image: "File/Decoy.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Decoy.jpg.md"><img src="File/Decoy.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Decoy.jpg.md.md.md"><img src="File/File-Decoy.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,12 +20,12 @@ image: "File/Decoy.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ben Bazan</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelsea Bunn">Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style="">Dustin Finkelstein</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
   --><li style="">Naomi Perryman</li><!--
   --><li style="" >Robert  Moncrieff</li><!--
   --><li style="">Steve  Moore</li><!--

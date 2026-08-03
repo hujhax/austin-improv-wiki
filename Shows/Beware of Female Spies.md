@@ -9,22 +9,22 @@ image: "File/Beware%20of%20Female%20Spies.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Beware of Female Spies.jpg.md"><img src="File/Beware%20of%20Female%20Spies.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Beware of Female Spies.jpg.md.md.md"><img src="File/File-Beware%20of%20Female%20Spies.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Seth Johnson">Seth Johnson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,16 +78,16 @@ image: "File/Beware%20of%20Female%20Spies.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Chrissy Shackleford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alejandro Garcia">Alejandro Garcia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chrissy Shackleford">Chrissy Shackleford</a></li><!--
   --><li style="">Liz Dykes</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -11,14 +11,14 @@ image: "File/blank.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Blank.jpg.md"><img src="File/Blank.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Blank.jpg.md.md.md"><img src="File/File-Blank.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></li><!--
   --><li style="">[Washington Improv Theater](http://washingtonimprovtheater.com)</li><!--
   --><li style="">[DCImprov](http://www.dcimprov.com/comedy-school/learn-improv.html)</li><!--
   --><li style="">[DC ComedySportz](http://comedyindc.com)</li><!--

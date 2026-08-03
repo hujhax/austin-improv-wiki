@@ -9,7 +9,7 @@ image: "File/Waterpark%20Publicity.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Waterpark Publicity.jpg.md"><img src="File/Waterpark%20Publicity.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Waterpark Publicity.jpg.md.md.md"><img src="File/File-Waterpark%20Publicity.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/Waterpark%20Publicity.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Niederpruem</li><!--
   --><li style="">Amy Pacheco Jordan</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Davidson">Justin Davidson</a></li><!--
   --><li style="">Justin Strackany</li><!--
   --><li style="">Megan Poncho Simon</li><!--
   --><!--
@@ -74,7 +74,7 @@ image: "File/Waterpark%20Publicity.jpg"
 	</table>
 </div>
 
-![[Waterpark Performance.jpg|A Waterpark performance.]]
+![[File/Waterpark Performance.jpg.md|A Waterpark performance.]]
 
 **Waterpark** is a musical improv troupe that is based out of [[Theatres/The New Movement Theater|The New Movement Theater]].
 

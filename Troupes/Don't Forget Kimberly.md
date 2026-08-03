@@ -9,7 +9,7 @@ image: "File/Don%27t%20Forget%20Kimberly.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Don't Forget Kimberly.jpg.md"><img src="File/Don't%20Forget%20Kimberly.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Don't Forget Kimberly.jpg.md.md.md"><img src="File/File-Don't%20Forget%20Kimberly.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,9 +20,9 @@ image: "File/Don%27t%20Forget%20Kimberly.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Niederpurem</li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

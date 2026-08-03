@@ -9,7 +9,7 @@ image: "File/Dandy.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Dandy.jpg.md"><img src="File/Dandy.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Dandy.jpg.md.md.md"><img src="File/File-Dandy.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/Dandy.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@ image: "File/Dandy.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Tech</th>
-			<td class="category">[[Performers/Cindy Page|Cindy Page]]</td>
+			<td class="category"><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></td>
 		</tr>
 	</table>
 </div>

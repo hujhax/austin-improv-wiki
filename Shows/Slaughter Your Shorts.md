@@ -9,32 +9,32 @@ image: "File/Slaughter%20Your%20Shorts.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Slaughter Your Shorts.jpg.md"><img src="File/Slaughter%20Your%20Shorts.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Slaughter Your Shorts.jpg.md.md.md"><img src="File/File-Slaughter%20Your%20Shorts.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Sam Malcolm">Sam Malcolm</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Trabka</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Courtney Sevener</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
   --><li style="" >Jessica Hamilton</li><!--
   --><!--
   --><!--

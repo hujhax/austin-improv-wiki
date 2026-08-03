@@ -9,30 +9,30 @@ image: "File/Batman.cast.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Batman.cast.jpg.md"><img src="File/Batman.cast.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Batman.cast.jpg.md.md.md"><img src="File/File-Batman.cast.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Jay Byrd</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jay Byrd">Jay Byrd</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><li style="">Teresa Troxel</li><!--
   --><!--
   --><!--
@@ -78,11 +78,11 @@ image: "File/Batman.cast.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Britney Salyer">Britney Salyer</a></li><!--
   --><li style="">Carl Ziegler</li><!--
   --><li style="">John Brewster</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/The%20Devil%20and%20Halyn%20Erickson.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Devil and Halyn Erickson.jpg.md"><img src="File/The%20Devil%20and%20Halyn%20Erickson.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Devil and Halyn Erickson.jpg.md.md.md"><img src="File/File-The%20Devil%20and%20Halyn%20Erickson.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,7 +18,7 @@ image: "File/The%20Devil%20and%20Halyn%20Erickson.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></td>
 		</tr>
 	</table>
 </div>

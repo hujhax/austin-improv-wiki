@@ -9,16 +9,16 @@ image: "File/Midnight%20Special%20and%20Gong%20Show.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Midnight Special and Gong Show.jpg.md"><img src="File/Midnight%20Special%20and%20Gong%20Show.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Midnight Special and Gong Show.jpg.md.md.md"><img src="File/File-Midnight%20Special%20and%20Gong%20Show.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes/Midnight Society">Midnight Society</a></td>
+			<td class="category"><a class="internal-link" href="Troupes-Midnight Society">Midnight Society</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

@@ -9,32 +9,32 @@ image: "File/Live%20TV%20Tuesdays%20-%20Dr.%20Horrible%27s%20Sing-Along%20Blog.j
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Dr.%20Horrible's%20Sing-Along%20Blog.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg.md.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20Dr.%20Horrible's%20Sing-Along%20Blog.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Heidi Caldwell">Heidi Caldwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style="">Allison Asher</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Zimmerman">David Zimmerman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Caldwell">Heidi Caldwell</a></li><!--
   --><li style="">James Pound</li><!--
   --><li style="" >Jeremy Logan</li><!--
   --><li style="">Justin LaVergne</li><!--
   --><li style="">Kevin Williamson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--

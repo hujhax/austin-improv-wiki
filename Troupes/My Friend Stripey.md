@@ -9,7 +9,7 @@ image: "File/My%20Friend%20Stripey.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/My Friend Stripey.jpg.md"><img src="File/My%20Friend%20Stripey.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-My Friend Stripey.jpg.md.md.md"><img src="File/File-My%20Friend%20Stripey.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,12 +19,12 @@ image: "File/My%20Friend%20Stripey.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style="">Kim Roche</li><!--
   --><li style="">Matt Craighead</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

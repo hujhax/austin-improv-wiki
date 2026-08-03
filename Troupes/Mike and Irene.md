@@ -9,7 +9,7 @@ image: "File/MikeIrenePoster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/MikeIrenePoster.jpg.md"><img src="File/MikeIrenePoster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-MikeIrenePoster.jpg.md.md.md"><img src="File/File-MikeIrenePoster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/MikeIrenePoster.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Irene White">Irene White</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Irene White">Irene White</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@ image: "File/MikeIrenePoster.jpg"
 	</table>
 </div>
 
-![[MikeIrene.jpg|Mike and Irene performing at [The Hideout Theatre](Theatres/The%20Hideout%20Theatre).]]
+![[File/MikeIrene.jpg.md|Mike and Irene performing at [The Hideout Theatre](Theatres/The%20Hideout%20Theatre).]]
 
 **Mike and Irene** is an improv duo.
 

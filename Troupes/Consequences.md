@@ -8,7 +8,7 @@ description: "|Years = 2011-2012."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Troupe default image.png.md.md.md"><img src="File/File-Troupe%20default%20image.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ description: "|Years = 2011-2012."
   --><li style="">Addison Billingsley</li><!--
   --><li style="">Ann Potter</li><!--
   --><li style="">Ashley Franks</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
   --><li style="">Lacy Cox</li><!--
   --><li style="">Lizzi Leslie</li><!--
   --><li style="">Stephanie Hardie</li><!--

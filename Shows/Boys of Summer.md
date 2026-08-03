@@ -9,7 +9,7 @@ image: "File/Boys%20of%20Summer%202012%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Boys of Summer 2012 Poster.jpg.md"><img src="File/Boys%20of%20Summer%202012%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Boys of Summer 2012 Poster.jpg.md.md.md"><img src="File/File-Boys%20of%20Summer%202012%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,11 +18,11 @@ image: "File/Boys%20of%20Summer%202012%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
+			<td class="category"><a class="internal-link" href="Troupes-Girls Girls Girls">Girls Girls Girls</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
+			<td class="category"><a class="internal-link" href="Troupes-Girls Girls Girls">Girls Girls Girls</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Initial Run</th>

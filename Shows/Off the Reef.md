@@ -9,7 +9,7 @@ image: "File/Off%20the%20Reef.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Off the Reef.png.md"><img src="File/Off%20the%20Reef.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Off the Reef.png.md.md.md"><img src="File/File-Off%20the%20Reef.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,7 +18,7 @@ image: "File/Off%20the%20Reef.png"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -34,17 +34,17 @@ image: "File/Off%20the%20Reef.png"
   --><li style="">Alyse Deller</li><!--
   --><li style="">Amy Smith</li><!--
   --><li style="">Chadwick Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ellen Pittsford">Ellen Pittsford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ellen Pittsford">Ellen Pittsford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Howard Katz">Howard Katz</a></li><!--
   --><li style="">Jenna Howard</li><!--
   --><li style="">Jesse Overright</li><!--
   --><li style="" >Jessica Salinas</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

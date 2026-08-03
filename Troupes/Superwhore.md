@@ -9,7 +9,7 @@ image: "File/Superwhore.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Superwhore.jpg.md"><img src="File/Superwhore.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Superwhore.jpg.md.md.md"><img src="File/File-Superwhore.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,10 +20,10 @@ image: "File/Superwhore.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amber Quick</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style="">Meredith Roberts</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
   --><li style="">Will Cleveland</li><!--
   --><!--
   --><!--

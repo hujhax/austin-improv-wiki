@@ -9,7 +9,7 @@ image: "File/Ctrl-Alt-Delight.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Ctrl-Alt-Delight.jpg.md"><img src="File/Ctrl-Alt-Delight.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Ctrl-Alt-Delight.jpg.md.md.md"><img src="File/File-Ctrl-Alt-Delight.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ image: "File/Ctrl-Alt-Delight.jpg"
   --><li style="">Gary Richardson</li><!--
   --><li style="">Hugo Vargas-Zesati</li><!--
   --><li style="">Jonathan Euseppi</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mike Sullivan">Mike Sullivan</a></li><!--
   --><!--
   --><!--
   --><!--

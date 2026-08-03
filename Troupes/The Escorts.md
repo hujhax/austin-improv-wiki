@@ -9,7 +9,7 @@ image: "File/The%20Escorts%202014.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Escorts 2014.jpg.md"><img src="File/The%20Escorts%202014.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Escorts 2014.jpg.md.md.md"><img src="File/File-The%20Escorts%202014.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,10 +19,10 @@ image: "File/The%20Escorts%202014.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a> (2014-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a> (2015-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aaron Saenz">Aaron Saenz</a> (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Shannon Dale Stott">Shannon Dale Stott</a> (2015-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,9 +74,9 @@ image: "File/The%20Escorts%202014.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a> (2011-2013)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (2011-2015)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a> (2011-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Dobrenko">Alex Dobrenko</a> (2011-2013)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a> (2011-2015)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a> (2011-2015)</li><!--
   --><!--
   --><!--
   --><!--

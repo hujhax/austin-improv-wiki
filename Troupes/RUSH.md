@@ -9,7 +9,7 @@ image: "File/Rush.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Rush.jpg.md"><img src="File/Rush.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Rush.jpg.md.md.md"><img src="File/File-Rush.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,10 +21,10 @@ image: "File/Rush.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ashley Seibels</li><!--
   --><li style="">Emily McDonald</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
   --><li style="">Juliet Prather</li><!--
   --><li style="">Kim Dilling</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
   --><li style="">Matt Stoner</li><!--
   --><li style="">Matt Vaughn</li><!--
   --><li style="" >Ricky Oliphant</li><!--

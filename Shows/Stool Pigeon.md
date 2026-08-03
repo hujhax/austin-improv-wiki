@@ -9,12 +9,12 @@ image: "File/Stool%20Pigeon.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Stool Pigeon.jpg.md"><img src="File/Stool%20Pigeon.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Stool Pigeon.jpg.md.md.md"><img src="File/File-Stool%20Pigeon.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -23,21 +23,21 @@ image: "File/Stool%20Pigeon.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christopher Orf">Christopher Orf</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chrissy Shackelford">Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Christopher Orf">Christopher Orf</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Josh Krilov">Josh Krilov</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style="">Katie Sicking</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style="">Nick Ramirez</li><!--
   --><!--
   --><!--

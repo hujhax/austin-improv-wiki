@@ -9,7 +9,7 @@ image: "File/Northshore%20Local.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Northshore Local.jpg.md"><img src="File/Northshore%20Local.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Northshore Local.jpg.md.md.md"><img src="File/File-Northshore%20Local.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,15 +19,15 @@ image: "File/Northshore%20Local.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style="">Collin Cannaday</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Delaney Liming</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
   --><li style="">Phil Wilhelm</li><!--
   --><li style="">Teresa Kubos</li><!--
   --><!--

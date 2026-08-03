@@ -9,7 +9,7 @@ image: "File/Narwhal.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Narwhal.jpg.md"><img src="File/Narwhal.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Narwhal.jpg.md.md.md"><img src="File/File-Narwhal.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/Narwhal.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Christie Grace</li><!--
   --><li style="">Dan Grimm</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
   --><li style="">Sarah Price</li><!--
   --><!--
   --><!--

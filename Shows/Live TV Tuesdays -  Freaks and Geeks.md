@@ -9,34 +9,34 @@ image: "File/Live%20TV%20Tuesdays%20-%20Freaks%20and%20Geeks.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays - Freaks and Geeks.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Freaks%20and%20Geeks.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Live TV Tuesdays - Freaks and Geeks.jpg.md.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20Freaks%20and%20Geeks.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Ted Meredith">Ted Meredith</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Ted Meredith">Ted Meredith</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Briana Mckeague</li><!--
   --><li style="">Carrie Pinkstaff</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></li><!--
   --><li style="">Guy Vizard</li><!--
   --><li style="">Katie Richter</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
   --><li style="">Laura Komkov</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20Freaks%20and%20Geeks.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/David Zimmerman|David Zimmerman]]</td>
+			<td class="category"><a class="internal-link" href="Performers-David Zimmerman">David Zimmerman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

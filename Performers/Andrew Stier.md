@@ -8,13 +8,13 @@ description: "|Years = 2010-2021."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/.md"><img src="File/" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href=".md"><img src="" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres/Hideout Theater">Hideout Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres-Hideout Theater">Hideout Theater</a></li><!--
   --><!--
   --><!--
   --><!--

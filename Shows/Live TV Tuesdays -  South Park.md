@@ -9,22 +9,22 @@ image: "File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live TV Tuesdays - South Park.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Live TV Tuesdays - South Park.jpg.md.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20South%20Park.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amber Shae</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carissa McAtee">Carissa McAtee</a></li><!--
   --><li style="">Christine Gwillam</li><!--
   --><li style="">Clinton Harris</li><!--
   --><li style="">Danine Lareu</li><!--
@@ -34,8 +34,8 @@ image: "File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg"
   --><li style="" >Jeremy Logan</li><!--
   --><li style="">Joel Ausanka Reese</li><!--
   --><li style="">Michael Pedicano</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -89,7 +89,7 @@ This production was referred to as "*South Park: Live*".
 
 It ran for its first month at [[Theatres/The Highball|The Highball]], and then moved to [[Theatres/The Institution Theater|The Institution Theater]] for its second month.
 
-![[SouthParkCeaseAndDesist.jpg|South Park Live]]''.]]
+![[File/SouthParkCeaseAndDesist.jpg.md|South Park Live]]''.]]
 
 On 6/28/12, Viacom sent [[File/SouthParkCeaseAndDesist.jpg.md|a cease-and-desist letter]], demanding an end to the show for reasons of copyright violation.
 

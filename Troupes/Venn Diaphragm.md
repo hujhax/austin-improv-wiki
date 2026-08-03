@@ -9,7 +9,7 @@ image: "File/Venn%20Diaphragm.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Venn Diaphragm.jpg.md"><img src="File/Venn%20Diaphragm.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Venn Diaphragm.jpg.md.md.md"><img src="File/File-Venn%20Diaphragm.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,7 +19,7 @@ image: "File/Venn%20Diaphragm.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erica Lies">Erica Lies</a></li><!--
   --><li style="">Nat Miller</li><!--
   --><li style="">Nitra Gutierrez</li><!--
   --><li style="">Pierce Purselley</li><!--

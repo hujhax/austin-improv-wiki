@@ -9,7 +9,7 @@ image: "File/The%20Better%20Half.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Better Half.jpg.md"><img src="File/The%20Better%20Half.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Better Half.jpg.md.md.md"><img src="File/File-The%20Better%20Half.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,7 +19,7 @@ image: "File/The%20Better%20Half.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
   --><li style="">Regina Soto</li><!--
   --><!--
   --><!--

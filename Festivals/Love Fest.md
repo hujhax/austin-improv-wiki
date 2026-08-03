@@ -8,33 +8,33 @@ description: "|Theater = The Institution Theater."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Love Fest.jpg ‎.md"><img src="File/Love%20Fest.jpg%20‎" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Love Fest.jpg ‎.md.md.md"><img src="File/File-Love%20Fest.jpg%20‎.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
   --><li style="">Ashley Jayne Carlisle</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><!--
   --><!--
   --><!--

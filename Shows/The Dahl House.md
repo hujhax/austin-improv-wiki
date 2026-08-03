@@ -9,31 +9,31 @@ image: "File/The%20Dahl%20House.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Dahl House.jpg.md"><img src="File/The%20Dahl%20House.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Dahl House.jpg.md.md.md"><img src="File/File-The%20Dahl%20House.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrew Schwartz</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heather Hasselle">Heather Hasselle</a></li><!--
   --><li style="">Michael Guy Bowman</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
   --><li style="">Tess Hermes</li><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ image: "File/The%20Dahl%20House.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Rachel Posey Austin|Rachel Posey Austin]] (sound)</td>
+			<td class="category"><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a> (sound)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

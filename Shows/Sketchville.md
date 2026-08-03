@@ -9,7 +9,7 @@ image: "File/Sketchville.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Sketchville.jpg.md"><img src="File/Sketchville.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Sketchville.jpg.md.md.md"><img src="File/File-Sketchville.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -24,23 +24,23 @@ image: "File/Sketchville.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andy Fleming</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style="">Brit Reese</li><!--
   --><li style="">Chibbi Orduna</li><!--
   --><li style="">Erick Anderson</li><!--
   --><li style="">Jake Pool</li><!--
   --><li style="">Jason Yackov</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeff Britt">Jeff Britt</a></li><!--
   --><li style="" >Jeremy Dozier</li><!--
   --><li style="">JM Specht</li><!--
   --><li style="">John Daws</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Karin L. Kross</li><!--
   --><li style="">Kirk Landson</li><!--
   --><li style="">Lani Steffens</li><!--
   --><li style="">Miguel Jimenez</li><!--
   --><li style="">Mike Dunlop</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
   --><li style="">Philip Emanuel</li><!--
   --><!--
   --><!--
@@ -92,7 +92,7 @@ image: "File/Sketchville.jpg"
   --><li style="">Micah Sampson</li><!--
   --><li style="">Nancy Smith</li><!--
   --><li style="">Nick Fang</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

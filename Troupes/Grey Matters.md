@@ -9,7 +9,7 @@ image: "File/Grey%20Matters.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Grey Matters.jpg.md"><img src="File/Grey%20Matters.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Grey Matters.jpg.md.md.md"><img src="File/File-Grey%20Matters.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,9 +19,9 @@ image: "File/Grey%20Matters.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kathy Rose Center">Kathy Rose Center</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

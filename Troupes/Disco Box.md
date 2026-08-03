@@ -9,7 +9,7 @@ image: "File/Disco%20Box.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Disco Box.jpg.md"><img src="File/Disco%20Box.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Disco Box.jpg.md.md.md"><img src="File/File-Disco%20Box.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,9 +19,9 @@ image: "File/Disco%20Box.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aaron Walther">Aaron Walther</a></li><!--
   --><li style="">Ariel Greenspoon</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Christina Parrish">Christina Parrish</a></li><!--
   --><li style="">G-su Paek</li><!--
   --><!--
   --><!--

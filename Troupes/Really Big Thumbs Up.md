@@ -9,7 +9,7 @@ image: "File/Really%20Big%20Thumbs%20Up.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Really Big Thumbs Up.jpg.md"><img src="File/Really%20Big%20Thumbs%20Up.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Really Big Thumbs Up.jpg.md.md.md"><img src="File/File-Really%20Big%20Thumbs%20Up.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,10 +20,10 @@ image: "File/Really%20Big%20Thumbs%20Up.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy Carpenter</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kristen Kurtis">Kristen Kurtis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kristen Kurtis">Kristen Kurtis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--

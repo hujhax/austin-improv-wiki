@@ -9,7 +9,7 @@ image: "File/Collective%20Alibi.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Collective Alibi.jpg.md"><img src="File/Collective%20Alibi.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Collective Alibi.jpg.md.md.md"><img src="File/File-Collective%20Alibi.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -25,7 +25,7 @@ image: "File/Collective%20Alibi.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy Wright</li><!--
   --><li style="">Emily McDonald</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ian Townsend">Ian Townsend</a></li><!--
   --><li style="">Jake Millward</li><!--
   --><li style="">Jared Robertson</li><!--
   --><li style="">Javier Ungo</li><!--

@@ -9,38 +9,38 @@ image: "File/You%20Can%27t%20Stay%20Here%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/You Can't Stay Here Poster.jpg.md"><img src="File/You%20Can't%20Stay%20Here%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-You Can't Stay Here Poster.jpg.md.md.md"><img src="File/File-You%20Can't%20Stay%20Here%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style="">Donnie Garcia</li><!--
   --><li style="">Jessy Schwartz</li><!--
   --><li style="" >Letty Tomlinson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@ image: "File/You%20Can%27t%20Stay%20Here%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -160,7 +160,7 @@ From the initial show announcement:
 
 
 ### Tom's Place
-![[Toms-place.jpg|Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)]]
+![[File/Toms-place.jpg.md|Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)]]
 *You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Kenny Madison|Kenny Madison]], and Will Cleveland served as quizmasters.
 
 Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director [[Performers/Brad Hawkins|Brad Hawkins]] announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.

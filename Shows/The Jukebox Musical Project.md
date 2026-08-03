@@ -9,18 +9,18 @@ image: "File/The%20Jukebox%20Musical%20Project.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Jukebox Musical Project.jpg.md"><img src="File/The%20Jukebox%20Musical%20Project.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Jukebox Musical Project.jpg.md.md.md"><img src="File/File-The%20Jukebox%20Musical%20Project.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@ image: "File/The%20Jukebox%20Musical%20Project.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -131,8 +131,8 @@ image: "File/The%20Jukebox%20Musical%20Project.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Content Love Knowles (piano)</li><!--
   --><li style="">Allen Fisher (piano/drums)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a> (piano)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a> (drums)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a> (piano)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a> (drums)</li><!--
   --><!--
   --><!--
   --><!--

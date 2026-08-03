@@ -9,16 +9,16 @@ image: "File/The%20ReSet%20Project.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The ReSet Project.png.md"><img src="File/The%20ReSet%20Project.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The ReSet Project.png.md.md.md"><img src="File/File-The%20ReSet%20Project.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -27,14 +27,14 @@ image: "File/The%20ReSet%20Project.png"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bobby Ford">Bobby Ford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bobby Ford">Bobby Ford</a></li><!--
   --><li style="">Circe Sturm</li><!--
   --><li style="">Jessica Salinas</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kathy Rose Center">Kathy Rose Center</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mike Kinald">Mike Kinald</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
   --><!--
   --><!--
   --><!--

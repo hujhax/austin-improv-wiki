@@ -9,7 +9,7 @@ image: "File/DJ%20Danger%20Dad.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/DJ Danger Dad.jpg.md"><img src="File/DJ%20Danger%20Dad.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-DJ Danger Dad.jpg.md.md.md"><img src="File/File-DJ%20Danger%20Dad.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,7 +19,7 @@ image: "File/DJ%20Danger%20Dad.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aaron Walther">Aaron Walther</a></li><!--
   --><li style="">Dan Mateer</li><!--
   --><li style="">Kevin Jacobson</li><!--
   --><!--

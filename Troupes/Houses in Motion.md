@@ -9,7 +9,7 @@ image: "File/Houses%20in%20Motion.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Houses in Motion.jpg.md"><img src="File/Houses%20in%20Motion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Houses in Motion.jpg.md.md.md"><img src="File/File-Houses%20in%20Motion.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,13 +20,13 @@ image: "File/Houses%20in%20Motion.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Casey Height</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cene Hale">Cene Hale</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cene Hale">Cene Hale</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
   --><li style="">Jessica Marpe</li><!--
   --><li style="">Joel Keith</li><!--
   --><li style="">Joseph Dailey</li><!--
-  --><li style=""><a class="internal-link" href="Performers/KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
   --><li style="" >Lane Ingram</li><!--
   --><!--
   --><!--

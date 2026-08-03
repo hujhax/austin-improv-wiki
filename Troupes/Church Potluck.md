@@ -9,7 +9,7 @@ image: "File/Church%20Potluck.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Church Potluck.jpg.md"><img src="File/Church%20Potluck.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Church Potluck.jpg.md.md.md"><img src="File/File-Church%20Potluck.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,10 +20,10 @@ image: "File/Church%20Potluck.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Christine Giordano</li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
   --><li style="">Ryan Thomas</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ted Meredith">Ted Meredith</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ted Meredith">Ted Meredith</a></li><!--
   --><!--
   --><!--
   --><!--

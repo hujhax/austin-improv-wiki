@@ -9,7 +9,7 @@ image: "File/You%20Bet%20Your%20Life.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/You Bet Your Life.jpg.md"><img src="File/You%20Bet%20Your%20Life.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-You Bet Your Life.jpg.md.md.md"><img src="File/File-You%20Bet%20Your%20Life.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/You%20Bet%20Your%20Life.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tim Coyle">Tim Coyle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tim Coyle">Tim Coyle</a></li><!--
   --><!--
   --><!--
   --><!--

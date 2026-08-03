@@ -9,12 +9,12 @@ image: "File/Sam%20Schak.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Sam Schak.jpg.md"><img src="File/Sam%20Schak.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Sam Schak.jpg.md.md.md"><img src="File/File-Sam%20Schak.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theatre">The Institution Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theatre">The Institution Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

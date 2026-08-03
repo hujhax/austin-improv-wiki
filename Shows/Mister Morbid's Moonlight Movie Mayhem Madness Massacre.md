@@ -9,22 +9,22 @@ image: "File/Mister%20Morbid.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mister Morbid.jpg.md"><img src="File/Mister%20Morbid.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Mister Morbid.jpg.md.md.md"><img src="File/File-Mister%20Morbid.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@ image: "File/Mister%20Morbid.jpg"
 	</table>
 </div>
 
-![[Booker as Morbid.jpg|[Tom Booker](Performers/Tom%20Booker), in character as Mister Morbid.]]
+![[File/Booker as Morbid.jpg.md|[Tom Booker](Performers/Tom%20Booker), in character as Mister Morbid.]]
 ***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** was an improv show.
 
 ## Summary

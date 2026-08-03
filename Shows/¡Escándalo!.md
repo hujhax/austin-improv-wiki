@@ -9,20 +9,20 @@ image: "File/escandalo.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Escandalo.jpg.md"><img src="File/Escandalo.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Escandalo.jpg.md.md.md"><img src="File/File-Escandalo.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -35,8 +35,8 @@ image: "File/escandalo.jpg"
   --><li style="">Alonso Salas</li><!--
   --><li style="">Andy Gonzalez-Bendiksen</li><!--
   --><li style="">Cindy Brio</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cristy Salinas">Cristy Salinas</a></li><!--
   --><li style="">Esperanza Rivadeneira</li><!--
   --><li style="">Gabriela Vargas</li><!--
   --><li style="" >Karlie Lemos</li><!--

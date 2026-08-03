@@ -9,7 +9,7 @@ image: "File/Precious%20Dads.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Precious Dads.jpg.md"><img src="File/Precious%20Dads.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Precious Dads.jpg.md.md.md"><img src="File/File-Precious%20Dads.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/Precious%20Dads.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Addison Billingsley</li><!--
   --><li style="">Byron Brown</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style="">Jeff Whitaker</li><!--
   --><li style="">Kirk Johnson</li><!--
   --><li style="">Max Lipchitz</li><!--

@@ -9,12 +9,12 @@ image: "File/AlexAddison.jpeg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/<a class="internal-link" href="File - AlexAddison.jpeg.md"><img src="File/[[File%20-%20AlexAddison.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>">File - AlexAddison.jpeg.md"><img src="File/[[File%20-%20AlexAddison.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/File-<a class="internal-link" href="File - AlexAddison.jpeg.md.md'img src='File-File-[[File%20-%20AlexAddison.jpeg.md' alt='' style='max-width -  220px; height -  auto; display -  block; margin -  0 auto;' --a.md">File - AlexAddison.jpeg.md.md"><img src="File/File-[[File%20-%20AlexAddison.jpeg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>.md</a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

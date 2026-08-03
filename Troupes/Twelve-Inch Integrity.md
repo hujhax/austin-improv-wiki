@@ -9,7 +9,7 @@ image: "File/Twelve-Inch%20Integrity.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Twelve-Inch Integrity.png.md"><img src="File/Twelve-Inch%20Integrity.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Twelve-Inch Integrity.png.md.md.md"><img src="File/File-Twelve-Inch%20Integrity.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,7 +18,7 @@ image: "File/Twelve-Inch%20Integrity.png"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -27,8 +27,8 @@ image: "File/Twelve-Inch%20Integrity.png"
   --><li style="">Aden Pennington</li><!--
   --><li style="">Alex Biasci</li><!--
   --><li style="">Ana Ward</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
   --><!--
   --><!--
   --><!--

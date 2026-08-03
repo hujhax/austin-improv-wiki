@@ -9,7 +9,7 @@ image: "File/The%20Dark%20Bloodlords.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Dark Bloodlords.jpg.md"><img src="File/The%20Dark%20Bloodlords.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Dark Bloodlords.jpg.md.md.md"><img src="File/File-The%20Dark%20Bloodlords.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,14 +20,14 @@ image: "File/The%20Dark%20Bloodlords.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy McKenna</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
   --><li style="">Andy Pereira</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mike Kinald">Mike Kinald</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--

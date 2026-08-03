@@ -9,7 +9,7 @@ image: "File/Only%2090%25%20Effective.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Only 90% Effective.jpg.md"><img src="File/Only%2090%%20Effective.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Only 90% Effective.jpg.md.md.md"><img src="File/File-Only%2090%%20Effective.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ image: "File/Only%2090%25%20Effective.jpg"
   --><li style="">Aaron Krebs</li><!--
   --><li style="">Amy Blackard</li><!--
   --><li style="">Andy Fisher</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brently Heilbron">Brently Heilbron</a></li><!--
   --><li style="">Eric Biffle</li><!--
   --><li style="">Jessy Schwartz</li><!--
   --><li style="">Jon Wiley</li><!--

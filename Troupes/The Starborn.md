@@ -9,7 +9,7 @@ image: "File/TheStarborn.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/TheStarborn.jpg.md"><img src="File/TheStarborn.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-TheStarborn.jpg.md.md.md"><img src="File/File-TheStarborn.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/TheStarborn.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@ image: "File/TheStarborn.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -129,9 +129,9 @@ image: "File/TheStarborn.jpg"
 	</table>
 </div>
 
-![[StarbornPoster.jpg|Poster promoting their return and first show as a dedicated troupe.]]
+![[File/StarbornPoster.jpg.md|Poster promoting their return and first show as a dedicated troupe.]]
 
-![[StarbornThreeferRun.jpg|Poster promoting their February 2014 run of headlining shows in The Threefer.]]
+![[File/StarbornThreeferRun.jpg.md|Poster promoting their February 2014 run of headlining shows in The Threefer.]]
 
 
 

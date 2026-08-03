@@ -9,7 +9,7 @@ image: "File/The%20Professor.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Professor.jpg.md"><img src="File/The%20Professor.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Professor.jpg.md.md.md"><img src="File/File-The%20Professor.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/The%20Professor.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a> (2011-2012)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a> (2013-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a> (2011-2012)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a> (2013-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,25 +74,25 @@ image: "File/The%20Professor.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Pish">Andrew Pish</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Colin Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Steve Harwood">Steve Harwood</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andrew Pish">Andrew Pish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Steve Harwood">Steve Harwood</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -128,7 +128,7 @@ image: "File/The%20Professor.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Tech</th>
-			<td class="category">[[Michael Yew]]</td>
+			<td class="category"><a class="internal-link" href="Michael Yew">Michael Yew</a></td>
 		</tr>
 	</table>
 </div>
@@ -151,7 +151,7 @@ At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as d
 
 ## Casts
 ### "Season Zero"
-![[The First Professor.jpg|[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor.]]
+![[File/The First Professor.jpg.md|[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor.]]
 The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] as the First Professor.
 
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
@@ -163,8 +163,8 @@ The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jo
 ([[Performers/Emily Breedlove|Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
 
 ### Season One
-![[The Second Professor.jpg|[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor.]]
-![[The Third Professor.jpg|[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor.]]
+![[File/The Second Professor.jpg.md|[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor.]]
+![[File/The Third Professor.jpg.md|[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor.]]
 The first run of shows, from October to November of 2011, featured [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] and [[Performers/Andrew Pish|Andrew Pish]] as the Second and Third Professors.
 
 * [[Performers/Clay Towery|Clay Towery]]
@@ -177,8 +177,8 @@ The first run of shows, from October to November of 2011, featured [[Performers/
 * [[Performers/Quinn Buckner|Quinn Buckner]]
 
 ### Season Two
-![[The Fourth Professor.jpg|[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor.]]
-![[The Fifth Professor.jpg|[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor.]]
+![[File/The Fourth Professor.jpg.md|[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor.]]
+![[File/The Fifth Professor.jpg.md|[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor.]]
 The second run of shows, from March to April of 2012, introduced [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] as the Fourth and Fifth Professors, with [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Performers/Clay Towery|Clay Towery]]

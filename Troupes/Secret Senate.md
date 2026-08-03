@@ -9,7 +9,7 @@ image: "File/Secret%20Senate.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Secret Senate.jpg.md"><img src="File/Secret%20Senate.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Secret Senate.jpg.md.md.md"><img src="File/File-Secret%20Senate.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -23,12 +23,12 @@ image: "File/Secret%20Senate.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
   --><li style="">Chaz Formichella</li><!--
   --><li style="">Danny Catlow</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
   --><li style="">Jessica Hamilton</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style="">Patricia Tate</li><!--
   --><li style="">Rick Heineman</li><!--
   --><li style="" >Steve Donovan</li><!--

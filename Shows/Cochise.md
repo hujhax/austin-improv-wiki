@@ -9,18 +9,18 @@ image: "File/Cochise%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Cochise Poster.jpg.md"><img src="File/Cochise%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Cochise Poster.jpg.md.md.md"><img src="File/File-Cochise%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a> (<a class="internal-link" href="Troupes/Improv For Evil">Improv For Evil</a> runs)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (all runs)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a> (<a class="internal-link" href="Troupes-Improv For Evil">Improv For Evil</a> runs)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a> (all runs)</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,23 +73,23 @@ image: "File/Cochise%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category">[[Performers/Paul Normandin|Paul Normandin]] (student mainstage run)</td>
+			<td class="category"><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a> (student mainstage run)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Barrett Phelan</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style="">Emma Czarnecki</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style="">Ericka Bundy</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Greg Blank">Greg Blank</a></li><!--
   --><li style="">Haley Alea Erickson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
   --><li style="" >Joshua Santo</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Matt Pollock">Matt Pollock</a></li><!--
   --><li style="">Matthew Davis</li><!--
   --><!--
   --><!--
@@ -216,7 +216,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [[Performers/Mike Kinald|Mike Kinald]]
 
 #### Student Mainstage Run
-![[Cochise2014.jpg|Poster for the student-mainstage run of *Cochise*.]]
+![[File/Cochise2014.jpg.md|Poster for the student-mainstage run of *Cochise*.]]
 * Barrett Phelan
 * Emma Czarnecki
 * Ericka Bundy
@@ -233,7 +233,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * January 31st, 2009 at 10:15pm
 
 ## Media
-![[Cochise Performance.jpg|A performance of *Cochise*.]]
+![[File/Cochise Performance.jpg.md|A performance of *Cochise*.]]
 ### Photos
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620623735851) by [[Michael Yew]] of their appearance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.746912335372285.1073742015.221927764537414&type=3) by [[Steve Rogers]] of the 6/7/14 show.

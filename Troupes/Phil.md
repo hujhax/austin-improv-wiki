@@ -9,7 +9,7 @@ image: "File/Phil.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Phil.jpg.md"><img src="File/Phil.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Phil.jpg.md.md.md"><img src="File/File-Phil.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@ image: "File/Phil.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jason Heffron</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Keegan Hines">Keegan Hines</a></li><!--
   --><li style="">Tim Lewis</li><!--
   --><li style="">Tyler Pratt</li><!--
   --><!--

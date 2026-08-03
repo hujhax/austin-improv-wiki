@@ -9,7 +9,7 @@ image: "File/Your%20Dad%27s%20Friends.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Your Dad's Friends.jpg.md"><img src="File/Your%20Dad's%20Friends.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Your Dad's Friends.jpg.md.md.md"><img src="File/File-Your%20Dad's%20Friends.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,10 +19,10 @@ image: "File/Your%20Dad%27s%20Friends.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></li><!--
   --><li style="">Summer Wilson Brow</li><!--
   --><!--
   --><!--

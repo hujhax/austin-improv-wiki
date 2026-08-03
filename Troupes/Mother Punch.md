@@ -9,7 +9,7 @@ image: "File/Mother%20Punch.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mother Punch.jpg.md"><img src="File/Mother%20Punch.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Mother Punch.jpg.md.md.md"><img src="File/File-Mother%20Punch.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,7 +19,7 @@ image: "File/Mother%20Punch.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style="">David Chambers</li><!--
   --><li style="">Donnie Garcia</li><!--
   --><li style="">Jenn Hamm</li><!--

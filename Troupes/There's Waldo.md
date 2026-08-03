@@ -9,7 +9,7 @@ image: "File/There%27s%20Waldo.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/There's Waldo.jpg.md"><img src="File/There's%20Waldo.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-There's Waldo.jpg.md.md.md"><img src="File/File-There's%20Waldo.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,10 +21,10 @@ image: "File/There%27s%20Waldo.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy Dietze</li><!--
   --><li style="">Christine Giordano</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-John Buseman">John Buseman</a></li><!--
   --><li style="">Sara Osburn</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><li style="">Tyler Reece Booker</li><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/Fatbuckle.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Fatbuckle.jpg.md"><img src="File/Fatbuckle.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Fatbuckle.jpg.md.md.md"><img src="File/File-Fatbuckle.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -25,7 +25,7 @@ image: "File/Fatbuckle.jpg"
   --><li style="">Jarrad Apperson</li><!--
   --><li style="">Jeffery Mills</li><!--
   --><li style="">Lee Eddy</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></li><!--
   --><!--
   --><!--
   --><!--

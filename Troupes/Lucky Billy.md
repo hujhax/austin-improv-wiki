@@ -9,7 +9,7 @@ image: "File/Lucky%20Billy.jpeg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Lucky Billy.jpeg.md"><img src="File/Lucky%20Billy.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Lucky Billy.jpeg.md.md.md"><img src="File/File-Lucky%20Billy.jpeg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,7 +19,7 @@ image: "File/Lucky%20Billy.jpeg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
   --><li style="">Ali Shepher</li><!--
   --><li style="">Brandi Gist</li><!--
   --><li style="">Dani Hendricks</li><!--

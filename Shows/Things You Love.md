@@ -9,20 +9,20 @@ image: "File/Things%20You%20Love.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Things You Love.jpg.md"><img src="File/Things%20You%20Love.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Things You Love.jpg.md.md.md"><img src="File/File-Things%20You%20Love.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>

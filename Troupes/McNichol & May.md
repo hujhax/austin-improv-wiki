@@ -9,7 +9,7 @@ image: "File/McNichol%20%26%20May%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/McNichol & May Pic.jpg.md"><img src="File/McNichol%20&%20May%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-McNichol & May Pic.jpg.md.md.md"><img src="File/File-McNichol%20&%20May%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,8 +19,8 @@ image: "File/McNichol%20%26%20May%20Pic.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erika May McNichol">Erika May McNichol</a></li><!--
   --><!--
   --><!--
   --><!--

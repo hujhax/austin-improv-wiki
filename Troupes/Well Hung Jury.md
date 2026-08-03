@@ -9,7 +9,7 @@ image: "File/Well%20Hung%20Jury.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Well Hung Jury.jpg.md"><img src="File/Well%20Hung%20Jury.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Well Hung Jury.jpg.md.md.md"><img src="File/File-Well%20Hung%20Jury.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,18 +19,18 @@ image: "File/Well%20Hung%20Jury.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
   --><li style="">Amy McCurdy</li><!--
   --><li style="">Andrei Haq</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style="">Ben Sterling</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bill Stern">Bill Stern</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bill Stern">Bill Stern</a></li><!--
   --><li style="">James Aldredge</li><!--
   --><li style="" >Jeffrey Amos</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeremy Lamb">Jeremy Lamb</a></li><!--
   --><li style="">Jonathan Benner</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@ image: "File/Well%20Hung%20Jury.jpg"
 **Well Hung Jury** was an improv troupe.
 
 ## History
-![[WHJ Final Show Flyer.jpg|Flyer from the Jury's final show in October 2003.]]
+![[File/WHJ Final Show Flyer.jpg.md|Flyer from the Jury's final show in October 2003.]]
 
 {{#widget:{{PAGENAME}}
 |id=159993611

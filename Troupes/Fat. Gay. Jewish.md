@@ -9,7 +9,7 @@ image: "File/Fat.%20Gay.%20Jewish.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Fat. Gay. Jewish.jpg.md"><img src="File/Fat.%20Gay.%20Jewish.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Fat. Gay. Jewish.jpg.md.md.md"><img src="File/File-Fat.%20Gay.%20Jewish.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/Fat.%20Gay.%20Jewish.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Britain Spellings</li><!--
   --><li style="">George Benedele</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,34 +9,34 @@ image: "File/Manson%20-%20The%20Musical.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Manson - The Musical.jpg.md"><img src="File/Manson%20-%20The%20Musical.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Manson - The Musical.jpg.md.md.md"><img src="File/File-Manson%20-%20The%20Musical.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ashley Lowe</li><!--
   --><li style="">Beth Shea</li><!--
-  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Caldwell">Heidi Caldwell</a></li><!--
   --><li style="">Joel Ausanka Reese</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kevin Machate">Kevin Machate</a></li><!--
   --><li style="" >Laura Komkov</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Madeline Chauvin">Madeline Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Madeline Chauvin">Madeline Chauvin</a></li><!--
   --><li style="">Robin Anderson</li><!--
   --><li style="">Roxy Castillo</li><!--
   --><li style="">Steve Glazer</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,10 +78,10 @@ image: "File/Manson%20-%20The%20Musical.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Carissa McAtee">Carissa McAtee</a></li><!--
   --><li style="">Doug Ewart</li><!--
   --><li style="">Joel Ausanka Reese</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--

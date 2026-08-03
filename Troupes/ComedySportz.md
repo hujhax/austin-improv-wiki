@@ -8,126 +8,156 @@ description: ": This page refers to the sports-themed short-form improv show..."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![[[[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84](https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84)]|ComedySportz]]. 
+				<a class="internal-link" href="File/File-[https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84](https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84).md.md.md"><img src="File/File-[https%20-%20--scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647%201452173014860061%20858548939201338246%20n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84](https%20-%20--scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647%201452173014860061%20858548939201338246%20n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84).md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+			</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Years Active</th>
+			<td class="category">1986-2012, 2017 - current</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Directed by</th>
+			<td class="category">Shawn Utterback, Terril Fischer</td>
+		</tr>
+		<tr class="">
+			<th class="category-header" scope="row">Cast</th>
+			<td class="category">Various</td>
+		</tr>
+	</table>
+</div>
+
+: *This page refers to the sports-themed short-form improv show that currently runs Saturday nights at Pinballz Lakecreek.  For the competitive short-form improv show that's had several runs as a [[Theatres/Hideout|Hideout]] mainstage show, see *[[Shows/TheatreSports|TheatreSports]]*.*
+
+**ComedySportz** refers to the Austin franchise of ComedySportz. 
+
 ## Summary
 ComedySportz is a format in which teams of improvisers compete to do the best short-form improv.  A referee oversees the competition, and a scorekeeper assigns points to each team's efforts.  The show emphasizes quick-witted, short-form, family-friendly comedy.  True to its name, the show includes many sports conventions -- the referee dresses in a vertically-striped jersey, the tech booth provides sports-arena-style music, and the players can get penalized for "fouls", including the "brown bag foul" (lewd or offensive humor), and the "groaner foul" (awful puns).
+
 ## History
 The franchise had its first audition on 1/22/86 (Superbowl Sunday).  Over their 28-year run, they put on over five thousand shows -- both in Austin and on tour around the world.
+
 In 2000, the Austin Audacities defeated the Chicago Jazz in a nail-biting finale to the ComedySportz National Tournament and were crowned the Champions of the Comedy League of America.  
-ComedySportz participated in both [The 40-Hour Improv Marathon](Festivals/The%2040-Hour%20Improv%20Marathon) and [The 41-Hour Improv Marathon](Festivals/The%2041-Hour%20Improv%20Marathon). 
+
+ComedySportz participated in both [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] and [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]]. 
+
 The Austin franchise closed up shop in 2012, but former players Shawn Utterback and Terrill Fischer acquired the license in 2017. Comedy Sportz now performs weekly at Zach North.
+
 ## Theaters
 ComedySportz ran in a number of theaters over the course of its existence, including:
-* 1991: [Olive's Pizza](Olive's%20Pizza)
-* 1992: [The Velveeta Room](The%20Velveeta%20Room) (at the time, called "The Deep End of Esther's Pool")
-* 1993: [Headliners East](Headliners%20East)
-* 1994-1996: [The ComedySportz Improv Club](The%20ComedySportz%20Improv%20Club) 
-* 1997: [The Velveeta Room](The%20Velveeta%20Room)
-* 1998-1999: [The Laugh Stop's Lounge](The%20Laugh%20Stop's%20Lounge)
-* 1999-2004: [The ComedySportz Playhouse](The%20ComedySportz%20Playhouse)
-* 2008-2012: [Café Caffeine](Café%20Caffeine)
-* 2017 - 2017: [Pinballz Lakecreek](Pinballz%20Lakecreek)
-* 2017 - Present: [Zach NW](Zach%20NW)
+* 1991: Olive's Pizza
+* 1992: The Velveeta Room (at the time, called "The Deep End of Esther's Pool")
+* 1993: Headliners East
+* 1994-1996: The ComedySportz Improv Club 
+* 1997: The Velveeta Room
+* 1998-1999: The Laugh Stop's Lounge
+* 1999-2004: The ComedySportz Playhouse
+* 2008-2012: Café Caffeine
+* 2017 - 2017: Pinballz Lakecreek
+* 2017 - Present: Zach NW
+
 ## Cast
 ComedySportz included some 350 members over the course of its existence, including:
-* [Aden Kirschner](Performers/Aden%20Kirschner)
-* [Allison Gobin Fischer](Allison%20Gobin%20Fischer)
-* [Amy Averett](Performers/Amy%20Averett)
-* [Andre Meadows](Andre%20Meadows)
-* [Ann Kirkham](Ann%20Kirkham)
-* [Ben Bartley](Ben%20Bartley)
-* [Ben Prince](Ben%20Prince)
-* [Brandi](Brandi)
-* [Britain Spellings](Britain%20Spellings)
-* [Briton Kolber](Briton%20Kolber)
-* [Camille Seely](Camille%20Seely)
-* [Christina Piazza](Christina%20Piazza)
-* [Craig Lee Davis](Craig%20Lee%20Davis)
-* [Cynthia Cobb Oelkers](Cynthia%20Cobb%20Oelkers)
-* [Darrell Barber](Performers/Darrell%20Barber)
-* [Dav Wallace](Performers/Dav%20Wallace)
-* [Dave Cox](Dave%20Cox)
-* [David Westerberg](David%20Westerberg)
-* [Dayne Choate](Dayne%20Choate)
-* [Debra Downing](Debra%20Downing)
-* [Devin Kennedy-Puthoff](Devin%20Kennedy-Puthoff)
-* [Don Johnson](Don%20Johnson)
-* [Donna Kay Yarborough](Donna%20Kay%20Yarborough)
-* [Eric Christianson](Eric%20Christianson)
-* [Eric Heiberg](Performers/Eric%20Heiberg)
-* [Eric Perry](Eric%20Perry)
-* [Erin Molson](Performers/Erin%20Molson)
-* [Erin Plischke](Performers/Erin%20Plischke)
-* [Francisco J. Benevides](Francisco%20J.%20Benevides)
-* [George Bendele](George%20Bendele)
-* [Greg Gondek](Greg%20Gondek)
-* [Harlan Gleeson](Harlan%20Gleeson)
-* [Hiram Flores](Hiram%20Flores)
-* [Holly Hepp-Galvan](Holly%20Hepp-Galvan)
-* [Jaime Gonzales](Jaime%20Gonzales)
-* [Jen Cargill](Jen%20Cargill)
-* [Jennifer Gray](Jennifer%20Gray)
-* [Jerm Pollet](Jerm%20Pollet)
-* [Jesse Pangelinan](Jesse%20Pangelinan)
-* [Jessica Arjet](Performers/Jessica%20Arjet)
-* [Jim Dogget](Jim%20Dogget)
-* [JJ Olson](JJ%20Olson)
-* [Jodi Egerton](Jodi%20Egerton)
-* [Joe Parsons](Joe%20Parsons)
-* [John Porter](John%20Porter)
-* [Josh Painting](Josh%20Painting)
-* [Joy Gohring](Joy%20Gohring)
-* [Joyce Garrison](Joyce%20Garrison)
-* [Keith Price](Keith%20Price)
-* [Laura House](Laura%20House)
-* [Laura Walberg](Laura%20Walberg)
-* [Lela Dawkins](Lela%20Dawkins)
-* [Les McGehee](Performers/Les%20McGehee)
-* [Lisa Perry](Lisa%20Perry)
-* [Louise Richardson](Louise%20Richardson)
-* [Liz Abersold](Liz%20Abersold)
-* [Madi Goff](Performers/Madi%20Goff)
-* [Marc Pruter](Marc%20Pruter)
-* [Mariella Krause](Mariella%20Krause)
-* [Marina McGehee](Marina%20McGehee)
-* [Mark Shoemaker](Performers/Mark%20Shoemaker)
-* [Martin Garcia](Martin%20Garcia)
-* [Matt Pollock](Performers/Matt%20Pollock)
-* [Megan Flynn](Megan%20Flynn)
-* [Meghan Wolff](Performers/Meghan%20Wolff)
-* [Melissa Cathcart](Melissa%20Cathcart)
-* [Michael Brockman](Performers/Michael%20Brockman)
-* [Michael Raffety](Michael%20Raffety)
-* [Monte Bingham](Monte%20Bingham)
-* [Murray Harvel](Murray%20Harvel)
-* [Owen Egerton](Performers/Owen%20Egerton)
-* [Quin Arbeitman](Quin%20Arbeitman)
-* [Rachel Arieff](Rachel%20Arieff)
-* [Rachel Madorsky](Performers/Rachel%20Madorsky)
-* [Rick Bartlet](Rick%20Bartlet)
-* [Robert Stanton](Robert%20Stanton)
-* [Sara Farr](Performers/Sara%20Farr)
-* [Scott Chester](Scott%20Chester)
-* [Scott Perry](Scott%20Perry)
-* [Sean Petrie](Sean%20Petrie)
-* [Shane Breaux](Shane%20Breaux)
-* [Shannon Pickard](Shannon%20Pickard)
-* [Shawn Utterback](Performers/Shawn%20Utterback)
-* [Steve Makler](Steve%20Makler)
-* [Steve Sanders](Steve%20Sanders)
-* [Sunny Sweeney](Performers/Sunny%20Sweeney)
-* [Tana Rogers](Tana%20Rogers)
-* [Terrill Fisher](Terrill%20Fisher)
-* [Tiffany Slay](Tiffany%20Slay)
-* [Tim Bauer](Tim%20Bauer)
-* [Tim Simek](Tim%20Simek)
-* [Tonie Perensky](Tonie%20Perensky)
-* [Topping Haggerty](Troupes/Topping%20Haggerty)
-* [Tyler Bryce](Performers/Tyler%20Bryce)
-* [Mike Kinald](Performers/Mike%20Kinald)
+* [[Performers/Aden Kirschner|Aden Kirschner]]
+* Allison Gobin Fischer
+* [[Performers/Amy Averett|Amy Averett]]
+* Andre Meadows
+* Ann Kirkham
+* Ben Bartley
+* Ben Prince
+* Brandi
+* Britain Spellings
+* Briton Kolber
+* Camille Seely
+* Christina Piazza
+* Craig Lee Davis
+* Cynthia Cobb Oelkers
+* [[Performers/Darrell Barber|Darrell Barber]]
+* [[Performers/Dav Wallace|Dav Wallace]]
+* Dave Cox
+* David Westerberg
+* Dayne Choate
+* Debra Downing
+* Devin Kennedy-Puthoff
+* Don Johnson
+* Donna Kay Yarborough
+* Eric Christianson
+* [[Performers/Eric Heiberg|Eric Heiberg]]
+* Eric Perry
+* [[Performers/Erin Molson|Erin Molson]]
+* [[Performers/Erin Plischke|Erin Plischke]]
+* Francisco J. Benevides
+* George Bendele
+* Greg Gondek
+* Harlan Gleeson
+* Hiram Flores
+* Holly Hepp-Galvan
+* Jaime Gonzales
+* Jen Cargill
+* Jennifer Gray
+* Jerm Pollet
+* Jesse Pangelinan
+* [[Performers/Jessica Arjet|Jessica Arjet]]
+* Jim Dogget
+* JJ Olson
+* Jodi Egerton
+* Joe Parsons
+* John Porter
+* Josh Painting
+* Joy Gohring
+* Joyce Garrison
+* Keith Price
+* Laura House
+* Laura Walberg
+* Lela Dawkins
+* [[Performers/Les McGehee|Les McGehee]]
+* Lisa Perry
+* Louise Richardson
+* Liz Abersold
+* [[Performers/Madi Goff|Madi Goff]]
+* Marc Pruter
+* Mariella Krause
+* Marina McGehee
+* [[Performers/Mark Shoemaker|Mark Shoemaker]]
+* Martin Garcia
+* [[Performers/Matt Pollock|Matt Pollock]]
+* Megan Flynn
+* [[Performers/Meghan Wolff|Meghan Wolff]]
+* Melissa Cathcart
+* [[Performers/Michael Brockman|Michael Brockman]]
+* Michael Raffety
+* Monte Bingham
+* Murray Harvel
+* [[Performers/Owen Egerton|Owen Egerton]]
+* Quin Arbeitman
+* Rachel Arieff
+* [[Performers/Rachel Madorsky|Rachel Madorsky]]
+* Rick Bartlet
+* Robert Stanton
+* [[Performers/Sara Farr|Sara Farr]]
+* Scott Chester
+* Scott Perry
+* Sean Petrie
+* Shane Breaux
+* Shannon Pickard
+* [[Performers/Shawn Utterback|Shawn Utterback]]
+* Steve Makler
+* Steve Sanders
+* [[Performers/Sunny Sweeney|Sunny Sweeney]]
+* Tana Rogers
+* Terrill Fisher
+* Tiffany Slay
+* Tim Bauer
+* Tim Simek
+* Tonie Perensky
+* [[Troupes/Topping Haggerty|Topping Haggerty]]
+* [[Performers/Tyler Bryce|Tyler Bryce]]
+* [[Performers/Mike Kinald|Mike Kinald]]
+
 ## Media
 ### Photos
-* Old photosets from [Tyler Bryce](Performers/Tyler%20Bryce): [1](http://www.facebook.com/tylerbryce/media_set?set=a.10151079418297704.498105.505207703&type=3), [2](http://www.facebook.com/tylerbryce/media_set?set=a.10151081452217704.498300.505207703&type=3)
+* Old photosets from [[Performers/Tyler Bryce|Tyler Bryce]]: [1](http://www.facebook.com/tylerbryce/media_set?set=a.10151079418297704.498105.505207703&type=3), [2](http://www.facebook.com/tylerbryce/media_set?set=a.10151081452217704.498300.505207703&type=3)
+
 ## More Information
 * [The homepage for ComedySportz Austin.](http://www.comedysportzaustin.com)
-[[Category:Troupes]]
+
+[[Category/Troupes|Category:Troupes]]

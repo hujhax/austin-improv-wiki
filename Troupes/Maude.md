@@ -8,7 +8,7 @@ description: "|Director = Liz Brammer."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Troupe default image.png.md.md.md"><img src="File/File-Troupe%20default%20image.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -17,16 +17,16 @@ description: "|Director = Liz Brammer."
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Delanie Liming</li><!--
   --><li style="">Jenny Carlson</li><!--
   --><li style="">Katie Sicking</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
   --><li style="">Stephanie Russo</li><!--
   --><li style="">Teresa Kubos</li><!--
   --><!--

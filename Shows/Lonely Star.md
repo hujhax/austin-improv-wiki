@@ -9,32 +9,32 @@ image: "File/Lonely%20Star%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Lonely Star Poster.jpg.md"><img src="File/Lonely%20Star%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Lonely Star Poster.jpg.md.md.md"><img src="File/File-Lonely%20Star%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Josh Santo">Josh Santo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lena Long">Lena Long</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Josh Santo">Josh Santo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lena Long">Lena Long</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,10 +82,10 @@ image: "File/Lonely%20Star%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (lights)</li><!--
   --><li style="">Emily Cawood (costume design)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (scoring)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a> (sound effects)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a> (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sarah Hutchins">Sarah Hutchins</a> (sound effects)</li><!--
   --><!--
   --><!--
   --><!--

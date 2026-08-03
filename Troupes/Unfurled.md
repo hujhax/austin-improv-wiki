@@ -9,7 +9,7 @@ image: "File/Unfurled%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Unfurled Pic.jpg.md"><img src="File/Unfurled%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Unfurled Pic.jpg.md.md.md"><img src="File/File-Unfurled%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,11 +20,11 @@ image: "File/Unfurled%20Pic.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Beth Lebwohl</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Gene Joe">Gene Joe</a></li><!--
   --><li style="">Hanna Woodruff</li><!--
   --><li style="">Jason Cohen</li><!--
-  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
   --><li style="">Julia Kirchen</li><!--
   --><li style="">Katie Sicking</li><!--
   --><li style="" >Scott Moss</li><!--

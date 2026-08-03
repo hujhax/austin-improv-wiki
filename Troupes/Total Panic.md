@@ -9,7 +9,7 @@ image: "File/Total%20Panic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Total Panic.jpg.md"><img src="File/Total%20Panic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Total Panic.jpg.md.md.md"><img src="File/File-Total%20Panic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -23,10 +23,10 @@ image: "File/Total%20Panic.jpg"
   --><li style="">Brandt Pileggi</li><!--
   --><li style="">Brian Engravalle</li><!--
   --><li style="">Brian Howard</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style="">Jenny Calrson</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></li><!--
   --><li style="" >Shyla Ray</li><!--
   --><!--
   --><!--

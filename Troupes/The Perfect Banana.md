@@ -8,7 +8,7 @@ description: "|Years = 2008."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/.md"><img src="File/" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href=".md"><img src="" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,11 +19,11 @@ description: "|Years = 2008."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{bulleted list | 
 * Phil Wilhelm
-* <a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a>
+* <a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a>
 * Zach Palmer
 * Michael Williams
-* <a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a>
-* <a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a>
+* <a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a>
+* <a class="internal-link" href="Performers-Frank Willmore">Frank Willmore</a>
 ] }}</td>
 		</tr>
 	</table>

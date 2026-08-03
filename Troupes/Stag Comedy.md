@@ -9,7 +9,7 @@ image: "File/Stag%20Comedy.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Stag Comedy.jpg.md"><img src="File/Stag%20Comedy.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Stag Comedy.jpg.md.md.md"><img src="File/File-Stag%20Comedy.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -23,7 +23,7 @@ image: "File/Stag%20Comedy.jpg"
   --><li style="">Dave Youmans</li><!--
   --><li style="">David Jara</li><!--
   --><li style="">Joe Parsons</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="">Mac Blake</li><!--
   --><li style="">Ximena Estrada</li><!--
   --><!--

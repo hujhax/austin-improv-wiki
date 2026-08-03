@@ -9,7 +9,7 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Kosher Bacon Pic.jpg.md"><img src="File/Kosher%20Bacon%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Kosher Bacon Pic.jpg.md.md.md"><img src="File/File-Kosher%20Bacon%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -18,18 +18,18 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amber Shae</li><!--
   --><li style="">Ashley Carlisle</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Ellen Pittsford">Ellen Pittsford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Ellen Pittsford">Ellen Pittsford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mitchell Deane">Mitchell Deane</a></li><!--
   --><li style="">Travis Devitt</li><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 	</table>
 </div>
 
-![[Under Waged Poster.jpg|The poster for *Under Waged*.]]
+![[File/Under Waged Poster.jpg.md|The poster for *Under Waged*.]]
 
 **Kosher Bacon** was an improv troupe.
 

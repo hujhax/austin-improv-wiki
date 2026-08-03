@@ -9,7 +9,7 @@ image: "File/The%20Box%20Social.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Box Social.jpg.md"><img src="File/The%20Box%20Social.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Box Social.jpg.md.md.md"><img src="File/File-The%20Box%20Social.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/The%20Box%20Social.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Annette Cantu</li><!--
   --><li style="">David Jara</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="">Mac Blake</li><!--
   --><li style="">Michael Pedicano</li><!--
   --><li style="">Ximena Estrada</li><!--

@@ -8,7 +8,7 @@ description: "|Years = 2009."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Troupe default image.png.md"><img src="File/Troupe%20default%20image.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Troupe default image.png.md.md.md"><img src="File/File-Troupe%20default%20image.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,8 +20,8 @@ description: "|Years = 2009."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brandt Pileggi</li><!--
   --><li style="">Brian Engravalle</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Elizabeth Brammer">Elizabeth Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></li><!--
   --><!--
   --><!--
   --><!--

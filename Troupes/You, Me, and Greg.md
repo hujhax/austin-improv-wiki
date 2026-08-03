@@ -9,7 +9,7 @@ image: "File/You%20Me%20%26%20Greg.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/You Me & Greg.jpg.md"><img src="File/You%20Me%20&%20Greg.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-You Me & Greg.jpg.md.md.md"><img src="File/File-You%20Me%20&%20Greg.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -21,7 +21,7 @@ image: "File/You%20Me%20%26%20Greg.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Doug Pena</li><!--
   --><li style="">Greg Spencer</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Phil Aulie">Phil Aulie</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Phil Aulie">Phil Aulie</a></li><!--
   --><!--
   --><!--
   --><!--

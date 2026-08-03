@@ -9,7 +9,7 @@ image: "File/MC%20Harold.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/MC Harold.jpg.md"><img src="File/MC%20Harold.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-MC Harold.jpg.md.md.md"><img src="File/File-MC%20Harold.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -27,7 +27,7 @@ image: "File/MC%20Harold.jpg"
   --><li style="">Maria Morrow</li><!--
   --><li style="">Mike Ponder</li><!--
   --><li style="">Ruzica Oldja</li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a> (music)</li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a> (music)</li><!--
   --><!--
   --><!--
   --><!--

@@ -9,28 +9,28 @@ image: "File/The%20Family%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Family Pic.jpg.md"><img src="File/The%20Family%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Family Pic.jpg.md.md.md"><img src="File/File-The%20Family%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Aron Taylor</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Deano Jones">Deano Jones</a></li><!--
   --><li style="">Elizabeth Bigger</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Erin Molson">Erin Molson</a></li><!--
   --><li style="">Gary Richardson</li><!--
   --><li style="">Hugo Vargas-Zesati</li><!--
   --><li style="">Jonathan Euseppi</li><!--

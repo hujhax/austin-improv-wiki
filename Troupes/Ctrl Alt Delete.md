@@ -9,7 +9,7 @@ image: "File/Ctrl%20Alt%20Delete.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Ctrl Alt Delete.jpg.md"><img src="File/Ctrl%20Alt%20Delete.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Ctrl Alt Delete.jpg.md.md.md"><img src="File/File-Ctrl%20Alt%20Delete.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,7 +19,7 @@ image: "File/Ctrl%20Alt%20Delete.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><li style="">Jessica Marpe</li><!--
   --><li style="">Naomi Perryman</li><!--
   --><!--

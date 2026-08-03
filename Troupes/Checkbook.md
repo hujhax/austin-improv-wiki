@@ -9,7 +9,7 @@ image: "File/Checkbook.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Checkbook.jpg.md"><img src="File/Checkbook.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Checkbook.jpg.md.md.md"><img src="File/File-Checkbook.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -24,7 +24,7 @@ image: "File/Checkbook.jpg"
   --><li style="">Jenna Marie Carey</li><!--
   --><li style="">Megan Simon</li><!--
   --><li style="">Reagan Ward</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Yamina Khouane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--
   --><!--

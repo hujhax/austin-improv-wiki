@@ -9,7 +9,7 @@ image: "File/Band%20Name.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Band Name.jpg.md"><img src="File/Band%20Name.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Band Name.jpg.md.md.md"><img src="File/File-Band%20Name.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -22,7 +22,7 @@ image: "File/Band%20Name.jpg"
   --><li style="">Caerial Crestin</li><!--
   --><li style="">Joe Ricks</li><!--
   --><li style="">Marcus Hysmith</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

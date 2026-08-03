@@ -9,18 +9,18 @@ image: "File/After%20School%20Improv%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/After School Improv Pic.jpg.md"><img src="File/After%20School%20Improv%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-After School Improv Pic.jpg.md.md.md"><img src="File/File-After%20School%20Improv%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a> (2009)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a> (2012)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a> (2009)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a> (2012)</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,9 +78,9 @@ image: "File/After%20School%20Improv%20Pic.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a> (2009)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (2012)</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a> (2012)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kathy Rose Center">Kathy Rose Center</a> (2009)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (2012)</li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a> (2012)</li><!--
   --><li style="">Dorah Masibo (2012)</li><!--
   --><!--
   --><!--

@@ -9,14 +9,14 @@ image: "File/Drew%27s%20Improv%20Gym.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Drew's Improv Gym.jpg.md"><img src="File/Drew's%20Improv%20Gym.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Drew's Improv Gym.jpg.md.md.md"><img src="File/File-Drew's%20Improv%20Gym.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Independent</li><!--
-  --><li style=""><a class="internal-link" href="Theatres/ColdTowne Conservatory">ColdTowne Conservatory</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres-ColdTowne Conservatory">ColdTowne Conservatory</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -69,7 +69,7 @@ image: "File/Drew%27s%20Improv%20Gym.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category">[[Performers/Drew Wesely|Drew Wesely]]</td>
+			<td class="category"><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

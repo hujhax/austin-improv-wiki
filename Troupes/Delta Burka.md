@@ -9,7 +9,7 @@ image: "File/Delta%20Burka.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Delta Burka.jpg.md"><img src="File/Delta%20Burka.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Delta Burka.jpg.md.md.md"><img src="File/File-Delta%20Burka.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -24,7 +24,7 @@ image: "File/Delta%20Burka.jpg"
   --><li style="">Michael Domangue</li><!--
   --><li style="">Mike Breese</li><!--
   --><li style="">Vanessa Gonzalez</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Yamina Khouane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--
   --><!--

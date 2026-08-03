@@ -9,7 +9,7 @@ image: "File/The%20Opener.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Opener.jpg.md"><img src="File/The%20Opener.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Opener.jpg.md.md.md"><img src="File/File-The%20Opener.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -73,7 +73,7 @@ image: "File/The%20Opener.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Theatres/The New Movement|The New Movement]]</td>
+			<td class="category"><a class="internal-link" href="Theatres-The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

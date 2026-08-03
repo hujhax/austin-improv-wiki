@@ -9,16 +9,16 @@ image: "File/The%20Ladies%20Room.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Ladies Room.jpg.md"><img src="File/The%20Ladies%20Room.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Ladies Room.jpg.md.md.md"><img src="File/File-The%20Ladies%20Room.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
@@ -28,14 +28,14 @@ image: "File/The%20Ladies%20Room.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ally Huston</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></li><!--
   --><li style="">Brittany Flurry</li><!--
   --><li style="">Jessica Brooks</li><!--
   --><li style="">Jessica Salinas</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jo Chauvin">Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jo Chauvin">Jo Chauvin</a></li><!--
   --><li style="">Molly Mckee</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ image: "File/The%20Ladies%20Room.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Performers/Asaf Ronen|Asaf Ronen]]</td>
+			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Initial Run</th>

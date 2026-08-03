@@ -9,7 +9,7 @@ image: "File/The%20Blah%20Blah%20Train.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Blah Blah Train.jpg.md"><img src="File/The%20Blah%20Blah%20Train.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Blah Blah Train.jpg.md.md.md"><img src="File/File-The%20Blah%20Blah%20Train.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -24,9 +24,9 @@ image: "File/The%20Blah%20Blah%20Train.jpg"
   --><li style="">John Porter</li><!--
   --><li style="">Laura Walberg</li><!--
   --><li style="">Mariella Krause</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Owen Egerton">Owen Egerton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Owen Egerton">Owen Egerton</a></li><!--
   --><li style="">Tim Bauer</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--

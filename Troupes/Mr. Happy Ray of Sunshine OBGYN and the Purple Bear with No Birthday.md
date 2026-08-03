@@ -9,7 +9,7 @@ image: "File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Be
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg.md"><img src="File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Bear%20with%20No%20Birthday.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg.md.md.md"><img src="File/File-Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Bear%20with%20No%20Birthday.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,7 +20,7 @@ image: "File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Be
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrea Young</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
   --><!--
   --><!--
   --><!--

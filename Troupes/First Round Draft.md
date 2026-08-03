@@ -9,7 +9,7 @@ image: "File/First%20Round%20Draft.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/First Round Draft.png.md"><img src="File/First%20Round%20Draft.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-First Round Draft.png.md.md.md"><img src="File/File-First%20Round%20Draft.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -20,13 +20,13 @@ image: "File/First%20Round%20Draft.png"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy McCurdy</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style="">Chris R. B. Fay</li><!--
   --><li style="">Ed Piston</li><!--
   --><li style="">Griffin Mauser</li><!--
   --><li style="">Katy Shea</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
   --><li style="" >Shelly Miller Bosse</li><!--
   --><li style="">Suzie Mihalak</li><!--
   --><!--

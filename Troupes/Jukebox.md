@@ -9,7 +9,7 @@ image: "File/Jukebox.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Jukebox.jpg.md"><img src="File/Jukebox.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Jukebox.jpg.md.md.md"><img src="File/File-Jukebox.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -24,7 +24,7 @@ image: "File/Jukebox.jpg"
   --><li style="">Arby Gonzales</li><!--
   --><li style="">Chris Sebilia</li><!--
   --><li style="">Jen Bernard</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
   --><li style="">Todd Geldon</li><!--
   --><li style="">Zack Phillips</li><!--
   --><!--

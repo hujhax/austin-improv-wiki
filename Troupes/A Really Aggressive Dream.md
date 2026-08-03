@@ -9,7 +9,7 @@ image: "File/A%20Really%20Aggressive%20Dream.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/A Really Aggressive Dream.jpg.md"><img src="File/A%20Really%20Aggressive%20Dream.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-A Really Aggressive Dream.jpg.md.md.md"><img src="File/File-A%20Really%20Aggressive%20Dream.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -23,7 +23,7 @@ image: "File/A%20Really%20Aggressive%20Dream.jpg"
   --><li style="">Erika Bundy</li><!--
   --><li style="">Jaci Kramer</li><!--
   --><li style="">Matt Davis</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Rachel Austin">Rachel Austin</a></li><!--
   --><li style="">Richard Gentry</li><!--
   --><!--
   --><!--

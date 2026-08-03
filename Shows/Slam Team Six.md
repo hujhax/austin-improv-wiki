@@ -9,36 +9,36 @@ image: "File/Slam%20Team%20Six.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Slam Team Six.jpg.md"><img src="File/Slam%20Team%20Six.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Slam Team Six.jpg.md.md.md"><img src="File/File-Slam%20Team%20Six.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
   --><li style="">Benjamin Bazan</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style="">Joseph Dailey</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="" >Meredith Mae Roberts</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
   --><li style="">Michael Williams</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style="">Will Casto</li><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@ image: "File/Slam%20Team%20Six.jpg"
 	</table>
 </div>
 
-![[Slam Team Cartoon.png|Publicity art for the show.]]
+![[File/Slam Team Cartoon.png.md|Publicity art for the show.]]
 ***Slam Team Six*** was a mainstage improv show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] about a team of professional wrestlers who fight crime in their off-hours.
 
 ## Summary

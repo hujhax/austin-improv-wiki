@@ -9,30 +9,30 @@ image: "File/Golden.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Golden.jpg.md"><img src="File/Golden.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Golden.jpg.md.md.md"><img src="File/File-Golden.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Heidi Penix</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Heidi Penix">Heidi Penix</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style="">Kathleen McFerrin</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style="">Rachel Denton</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Robert Slack">Robert Slack</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers-Suzanne Link">Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,8 +78,8 @@ image: "File/Golden.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/R. Lance Hunter">R. Lance Hunter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-R. Lance Hunter">R. Lance Hunter</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -9,7 +9,7 @@ image: "File/The%20Special%20Features.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Special Features.jpg.md"><img src="File/The%20Special%20Features.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Special Features.jpg.md.md.md"><img src="File/File-The%20Special%20Features.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,18 +19,18 @@ image: "File/The%20Special%20Features.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Beth Doughty">Beth Doughty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Beth Doughty">Beth Doughty</a></li><!--
   --><li style="">Megan Thornton</li><!--
   --><li style="">Sandra Ybarra</li><!--
   --><li style="">Devon Ragsdale</li><!--
   --><li style="">Mike Carrion</li><!--
   --><li style="">Adam Worries</li><!--
   --><li style="" >Taylor Howe</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a></li><!--
   --><!--
   --><!--
   --><!--

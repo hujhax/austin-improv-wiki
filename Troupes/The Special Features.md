@@ -9,7 +9,7 @@ image: "File/The%20Special%20Features%201.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Special Features 1.jpg.md"><img src="File/The%20Special%20Features%201.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Special Features 1.jpg.md.md.md"><img src="File/File-The%20Special%20Features%201.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -23,10 +23,10 @@ image: "File/The%20Special%20Features%201.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
   --><li style="">Matthew Arisheh Falkenberg</li><!--
   --><li style="">Ali Meier</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Robert Slack">Robert Slack</a></li><!--
   --><li style="">Carl Ziegler</li><!--
   --><li style="">Barrett Phelan</li><!--
   --><li style="">Ripley Adams</li><!--

@@ -9,7 +9,7 @@ image: "File/Mutual%20of%20Omaha%27s%20Wild%20Kingdom.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mutual of Omaha's Wild Kingdom.jpg.md"><img src="File/Mutual%20of%20Omaha's%20Wild%20Kingdom.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Mutual of Omaha's Wild Kingdom.jpg.md.md.md"><img src="File/File-Mutual%20of%20Omaha's%20Wild%20Kingdom.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -19,7 +19,7 @@ image: "File/Mutual%20of%20Omaha%27s%20Wild%20Kingdom.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Jeff Britt">Jeff Britt</a></li><!--
   --><li style="">Paul Wainright</li><!--
   --><!--
   --><!--

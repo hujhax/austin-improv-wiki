@@ -9,24 +9,24 @@ image: "File/clickclickwhir.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Clickclickwhir.jpg.md"><img src="File/Clickclickwhir.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Clickclickwhir.jpg.md.md.md"><img src="File/File-Clickclickwhir.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a></td>
+			<td class="category"><a class="internal-link" href="Performers-Jay Mahavier">Jay Mahavier</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -35,7 +35,7 @@ image: "File/clickclickwhir.jpg"
   --><li style="">Frank Sánchez</li><!--
   --><li style="">Kendall Raymond</li><!--
   --><li style="">Marissa Macy</li><!--
-  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers-Mary Henderson">Mary Henderson</a></li><!--
   --><li style="">Shane Gannaway</li><!--
   --><li style="">Trent Thomson</li><!--
   --><li style="">Way Spurr-Chen</li><!--
