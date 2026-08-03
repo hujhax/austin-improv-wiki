@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Physics Curse** is an improv troupe consisting of [[Performers/Rosemarie Frezza|Rosemarie Frezza]], [[Performers/Ann Symmonds|Ann Symmonds]], [[Performers/Aspen Webster|Aspen Webster]], and [[Performers/Rachel Posey Austin|Rachel Posey Austin]].

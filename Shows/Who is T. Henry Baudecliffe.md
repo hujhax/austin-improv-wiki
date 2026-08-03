@@ -182,7 +182,6 @@
 			<td class="category">Jul/Aug 2010</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Who is T. Henry Baudecliffe?*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was inspired by the 'outsider art' of artists like [[Wikipedia - Henry Darger|Henry Darger]].

@@ -17,7 +17,6 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Tom Booker** is an improv performer and director.  He co-runs [[Theatres/The Institution Theater|The Institution Theater]].

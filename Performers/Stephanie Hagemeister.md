@@ -68,7 +68,6 @@
 			<td class="category">2010-2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **Stephanie Hagemeister** is an improv performer and photographer.

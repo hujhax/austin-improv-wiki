@@ -76,7 +76,6 @@
 			<td class="category">Oct 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Organ Trail*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]], an audience-interactive, zombie-fied take on the classic computer educational game [[Wikipedia - The Oregon Trail (video game)|The Oregon Trail]].

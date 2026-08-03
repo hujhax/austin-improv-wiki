@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **$2 Lobsters** was an improv duo.

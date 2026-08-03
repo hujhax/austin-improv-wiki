@@ -17,7 +17,6 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Jen Kaplan** is an improv performer who has worked with a variety of theaters.

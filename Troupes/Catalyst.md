@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Catalyst** was an improv troupe.

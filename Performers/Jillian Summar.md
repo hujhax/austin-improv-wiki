@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 Jillian Summar is an improv performer, singing improv teacher, and vocal performer.

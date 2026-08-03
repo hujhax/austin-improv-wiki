@@ -17,7 +17,6 @@
 			<td class="category">1986-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Les McGehee** is an improv comedian, producer and director.

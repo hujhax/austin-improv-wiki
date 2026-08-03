@@ -186,8 +186,8 @@
 			<td class="category">Oct/Nov 2011</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Live TV Tuesdays: Buffy*** refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of the [[Wikipedia - Buffy the Vampire Slayer|*Buffy the Vampire Slayer*]] episode [[Wikipedia - The Prom (Buffy the Vampire Slayer)|"The Prom"]].
 
 ## History

@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Elvis' Rockin' Nativity*** was a mainstage improv show about XXX. 

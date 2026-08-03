@@ -17,8 +17,8 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 __NOINDEX__
 **Jason Finkelman** is an Austin improvisor.
 

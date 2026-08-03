@@ -76,7 +76,6 @@
 			<td class="category">Apr-Aug 2006</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Whirled News Tonight*** was an improv show that used newspaper articles to inspire short, satirical scenes.  It was based on the show of the same name from the iO Theater in Chicago, directed by the late Jason Chin.

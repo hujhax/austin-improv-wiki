@@ -80,7 +80,6 @@
 			<td class="category">???-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Opener*** is a weekly stand-up open mic.

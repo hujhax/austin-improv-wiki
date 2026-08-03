@@ -17,7 +17,6 @@
 			<td class="category">2013 - present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Eli Eidson** is an improv performer known for work with [[Theatres/Coldtowne Theater|Coldtowne Theater]].

@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 : *This page refers to the narrative troupe in which each player improvises in a particular genre.  For the narrative troupe in which each player improvised in the style of a particular playwright, see [[Troupes/The Plagiarists|The Plagiarists]].*

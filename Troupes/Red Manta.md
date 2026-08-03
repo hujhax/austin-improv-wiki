@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Red Manta** is a *[[Shows/Cagematch|Cagematch]]* team.

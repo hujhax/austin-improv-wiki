@@ -182,7 +182,6 @@
 			<td class="category">Jun 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Rock N Roll Purgatory*** was an original comedy musical mainstage show at [[Theatres/The Institution Theater|The Institution Theater]]. It was written by the cast through improvised rehearsals.

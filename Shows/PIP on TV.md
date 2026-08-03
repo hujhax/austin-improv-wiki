@@ -80,8 +80,8 @@
 			<td class="category">Mar 2011</td>
 		</tr>
 	</table>
-
 </div>
+
 ***PIP on TV*** was an improvised puppet show.
 
 ## Summary

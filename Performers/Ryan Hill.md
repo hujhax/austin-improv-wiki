@@ -17,7 +17,6 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Ryan Hill** is an improv performer and founding member of the grounded troupe [[Troupes/In Our Prime|In Our Prime]].

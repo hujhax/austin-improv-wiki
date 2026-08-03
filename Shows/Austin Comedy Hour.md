@@ -29,7 +29,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Austin Comedy Hour*** is a monthly stand-up showcase.

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Hit and Rundberg** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

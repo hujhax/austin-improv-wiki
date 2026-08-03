@@ -17,7 +17,6 @@
 			<td class="category">1995-2000, 2011-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Brently Heilbron** is an improv performer, director, teacher, and musician.

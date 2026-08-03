@@ -123,7 +123,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 ![[Stone Airplane.jpg|Publicity photo of Stone Airplane.]]

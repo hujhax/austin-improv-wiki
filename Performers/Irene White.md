@@ -68,7 +68,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Irene White** is an actor, improviser, and improv/acting teacher.

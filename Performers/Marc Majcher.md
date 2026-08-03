@@ -17,7 +17,6 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Marc Majcher** ([[Wikipedia - Help - IPA for English#Key|/ˈmeɪtʃər/]]) is an improv performer, director, and teacher. He has enormous hands.

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Frogtown Hollow Jubilee Jugband** was an improv troupe.

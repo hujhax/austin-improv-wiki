@@ -80,7 +80,6 @@
 			<td class="category">Sep/Oct 2009</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Ka-Baam!!*** (often written in all-caps: ***KA-BAAM!!***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

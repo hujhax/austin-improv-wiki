@@ -80,8 +80,8 @@
 			<td class="category">2009</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Dear Frailty*** is a one-man show created by and starring [[Performers/Arthur Simone|Arthur Simone]].  Simone went on to win [Best Actor/Actress 2009](http://www.austinchronicle.com/gyrobase/Awards/BestOfAustin?Award=808768) in the Austin Chronicle shortly after Dear Frailty's run ended.
 
 ## History

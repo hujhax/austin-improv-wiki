@@ -17,7 +17,6 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Troy Miller** is an improv performer, director, and teacher.

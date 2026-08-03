@@ -241,7 +241,6 @@
 			<td class="category">May/Jun 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ![[Live TV Tuesdays - Firefly.jpg|The cast of *Firefly* takes a bow.]]

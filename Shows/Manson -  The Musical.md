@@ -131,7 +131,6 @@
 			<td class="category">May 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Manson: The Musical*** was a scripted musical about 60s cult leader [[Wikipedia - Charles Manson|Charles Manson]].

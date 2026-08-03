@@ -21,7 +21,6 @@
 			<td class="category">2006-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **ColdTowne Theater** is an Austin improv theater that focuses on Chicago-style improv.

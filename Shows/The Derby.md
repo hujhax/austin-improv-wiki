@@ -25,7 +25,6 @@
 			<td class="category">2011-2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **The Derby** was a biweekly competitive short-form show produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]. It ran every second and fourth Friday of the month at 10pm. The show was discontinued with Gnap!'s exit from regular improv shows at the end of 2012. The Derby was created by [[Performers/Eric Heiberg|Eric Heiberg]], with a rotating cast of directors.

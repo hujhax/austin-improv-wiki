@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Pendulum Presents: The Ascendant*** was a mainstage sketch show about XXX. 

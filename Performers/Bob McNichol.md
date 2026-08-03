@@ -17,7 +17,6 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Bob McNichol** is an improv performer.

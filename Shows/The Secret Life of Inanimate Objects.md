@@ -186,7 +186,6 @@
 			<td class="category">June 2016</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Secret Life of Inanimate Objects*** will be the June 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

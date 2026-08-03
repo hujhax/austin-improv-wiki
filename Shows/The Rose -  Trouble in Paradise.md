@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Rose: Trouble in Paradise*** was a mainstage improv show about XXX. 

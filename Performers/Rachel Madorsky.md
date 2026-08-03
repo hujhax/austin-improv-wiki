@@ -17,7 +17,6 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Rachel Madorsky** is an improv teacher and performer.

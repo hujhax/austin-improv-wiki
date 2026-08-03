@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Everyone But Shea** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

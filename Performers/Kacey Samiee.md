@@ -17,7 +17,6 @@
 			<td class="category">2000-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Kacey Samiee** ([[Wikipedia - Help - IPA for English#Key|/ˈsæmiːˌiː/]]) is a performer, director, coach, teacher, and singer of improv.  

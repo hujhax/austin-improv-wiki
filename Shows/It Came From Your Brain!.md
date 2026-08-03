@@ -190,7 +190,6 @@
 			<td class="category">Oct 2017</td>
 		</tr>
 	</table>
-
 </div>
 
 ## Summary

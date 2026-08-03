@@ -17,7 +17,6 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Keegan Hines** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].

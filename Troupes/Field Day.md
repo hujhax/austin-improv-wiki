@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Field Day** is an improv troupe.

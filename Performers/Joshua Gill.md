@@ -17,7 +17,6 @@
 			<td class="category">2009-present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Joshua Gill** is an improv performer who works primarily with [[Theatres/Coldtowne Theater|Coldtowne Theater]].

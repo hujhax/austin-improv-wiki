@@ -17,7 +17,6 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-
 </div>
  
 **Jayme Ramsay** is an improv performer and director.

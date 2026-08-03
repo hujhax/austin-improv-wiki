@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Adorables** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

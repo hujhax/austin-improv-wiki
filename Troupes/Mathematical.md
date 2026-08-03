@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Mathematical** (often written with an exclamation point: **Mathematical!**) was an improv troupe.

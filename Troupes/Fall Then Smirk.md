@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Fall Then Smirk** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

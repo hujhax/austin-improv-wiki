@@ -68,7 +68,6 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **David Zimmerman** is a stage and technical improvisor.

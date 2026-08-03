@@ -80,8 +80,8 @@
 			<td class="category">Dec 2009</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Sock Treatment*** was an improvised all-female puppet show.
 
 ## Summary

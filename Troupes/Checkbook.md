@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Checkbook** was an improv troupe at [[Theatres/The New Movement|The New Movement]].

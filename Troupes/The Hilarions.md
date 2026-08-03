@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Hilarions** were an improv troupe -- possibly the first regularly-performing troupe in Austin.

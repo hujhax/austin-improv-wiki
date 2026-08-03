@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Intervention** is a *[[Shows/Cagematch|Cagematch]]* team.

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Silent Letters** (formerly **Men in Chrissy's Life**) is an improv troupe.

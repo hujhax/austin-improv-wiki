@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **I'm With Genius** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

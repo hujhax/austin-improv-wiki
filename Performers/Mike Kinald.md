@@ -17,7 +17,6 @@
 			<td class="category">2006-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Mike Kinald** is an improv performer.

@@ -186,7 +186,6 @@
 			<td class="category">Jul/Aug 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Source*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].  It combined improv games, monologs, and music into an audience-interactive experience inspired by 1960s cult indoctrinations.

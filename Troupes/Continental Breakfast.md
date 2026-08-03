@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Continental Breakfast** was a troupe cast from one of the [[Merlin Works Mixers]].

@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Angola (a comedy)*** was a mainstage improv show about XXX. 

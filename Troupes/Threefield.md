@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Threefield** (AKA **John Frum Day**) was an improv troupe. More specifically, it was a subset of [[Troupes/Parallelogramophonograph|Parallelogramophonograph]].

@@ -135,7 +135,6 @@
 			<td class="category">Jan/Feb 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Wanderlust*** was a mainstage at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It depicted two people going on a journey.

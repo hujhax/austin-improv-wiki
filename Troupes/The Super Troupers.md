@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Super Troopers** was a troupe of newer improvisors associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].

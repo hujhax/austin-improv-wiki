@@ -17,7 +17,6 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Heather Hasselle** is an improv performer.

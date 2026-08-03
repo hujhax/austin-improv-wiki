@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Pom-Pom Sisterhood** was an all-girl improv troupe.

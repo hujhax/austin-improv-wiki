@@ -173,7 +173,6 @@ To do that, you just include an "infobox" template at the top of the page.  For 
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
-
 </div></nowiki>
 
 For more information about infoboxes, check the documentation on infoboxes for [[Template/Infobox Troupe|troupes]], [[Template/Infobox Performer|performers]], [[Template/Infobox Show|shows]], and [[Template/Infobox Theater|theaters]].

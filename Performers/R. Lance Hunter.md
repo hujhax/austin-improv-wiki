@@ -17,7 +17,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Lance Hunter** is an improviser and stand-up.

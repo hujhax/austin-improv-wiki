@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Alexander Hilary** is an actor and improv performer.

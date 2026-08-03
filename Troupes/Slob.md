@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Slob** (usually written all-caps: **SLOB**) is an improv troupe.

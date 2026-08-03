@@ -21,8 +21,8 @@ This template lists standard, useful information about an improv troupe.
 			<td class="category"></td>
 		</tr>
 	</table>
-
 </div>
+
 </pre>
 
 ## Attributes
@@ -86,5 +86,4 @@ This template lists standard, useful information about an improv troupe.
 			<td class="category">Unknown</td>
 		</tr>
 	</table>
-
 </div>

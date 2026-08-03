@@ -72,7 +72,6 @@
 			<td class="category">TBA</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Project 23A*** was a webseries set in a game-production company.

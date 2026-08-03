@@ -17,7 +17,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Rob Chenoweth** is an improv performer and founding member of the musical troupe [[Troupes/Lazer Wolf|Lazer Wolf]].

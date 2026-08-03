@@ -25,8 +25,8 @@
 			<td class="category">1999-2003</td>
 		</tr>
 	</table>
-
 </div>
+
 ***More or Less*** was a Johnstone format put on by [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary

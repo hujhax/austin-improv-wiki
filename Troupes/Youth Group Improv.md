@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Youth Group Improv** was an improv troupe that did persona-prov as a pastor and youth group.

@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***What Had Happened Was*** was a mainstage improv show about XXX. 

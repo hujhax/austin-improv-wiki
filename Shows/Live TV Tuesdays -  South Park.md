@@ -76,8 +76,8 @@
 			<td class="category">Jun/Jul 2012</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Live TV Tuesdays: South Park*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - South Park|*South Park*]] episodes [[Wikipedia - Something You Can Do with Your Finger|"Something You Can Do with Your Finger"]] and [[Wikipedia - Professor Chaos|"Professor Chaos"]].
 
 ## Summary

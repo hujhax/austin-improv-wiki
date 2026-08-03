@@ -25,7 +25,6 @@
 			<td class="category">2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***ImprompTwo*** is a weekly performance slot at [[Theatres/The Institution Theater|The Institution Theater]].

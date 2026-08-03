@@ -76,7 +76,6 @@
 			<td class="category">[[Lisa Brown]]</td>
 		</tr>
 	</table>
-
 </div>
 
 **The Heroes of Comedy** (formerly **Austin Theatresports** and **We Could Be Heroes**) was the house improv troupe of [[Theatres/The Hideout Theatre|The Hideout Theatre]] during its first years of operation.

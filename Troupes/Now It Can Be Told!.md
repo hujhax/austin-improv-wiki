@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Now It Can Be Told!** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Prayer Circle Presents: Holy Shit*** was a mainstage sketch show about XXX. 

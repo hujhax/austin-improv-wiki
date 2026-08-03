@@ -17,7 +17,6 @@
 			<td class="category">??-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Bryan Curry** is an actor, improviser, singer, and technical improviser.

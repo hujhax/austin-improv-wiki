@@ -17,7 +17,6 @@
 			<td class="category">?-2015</td>
 		</tr>
 	</table>
-
 </div>
 
 **Lindsay Hejl** is an improv performer. She moved away to Chicago in 2015. 

@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Twelve-Inch Integrity** was an improv troupe.

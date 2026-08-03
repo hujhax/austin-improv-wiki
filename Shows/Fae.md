@@ -29,7 +29,7 @@
 			<td class="category">Winter 2014</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Fae*** is an upcoming show from the [[Puppet Improv Project]].
 [[Category/Shows|Category:Shows]]

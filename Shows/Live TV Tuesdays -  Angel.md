@@ -84,8 +84,8 @@
 			<td class="category">Apr/May 2012</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Live TV Tuesdays: Angel*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Angel (TV series)|*Angel*]] episode [[Wikipedia - Smile Time|"Smile Time"]].
 
 ## History

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Toby Keith and the French Guy** was a persona-prov improv duo.

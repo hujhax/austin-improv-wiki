@@ -135,7 +135,6 @@
 			<td class="category">Nov/Dec 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Boy, Howdy!*** will be the November/December 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

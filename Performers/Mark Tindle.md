@@ -17,7 +17,6 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Mark Tindle** is a UK-based improv performer who has worked primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].

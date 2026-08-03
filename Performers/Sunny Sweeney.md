@@ -17,7 +17,6 @@
 			<td class="category">1997-1998</td>
 		</tr>
 	</table>
-
 </div>
 
 **Sunny Sweeney** was an improv performer.

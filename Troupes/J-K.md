@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 :*This page refers to the 2011 Pinter-themed improv duo.  For the 2015-founded high-energy duo, see [[Troupes/JK|JK]].*

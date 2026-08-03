@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **3, 2, 1, Kill!** was an improv troupe that showed improvised movies.

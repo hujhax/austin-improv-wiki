@@ -25,7 +25,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Pass the Mic*** is a stand-up showcase.

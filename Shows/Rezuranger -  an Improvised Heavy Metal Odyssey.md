@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Rezuranger: an Improvised Heavy Metal Odyssey*** was a mainstage improv show about XXX. 

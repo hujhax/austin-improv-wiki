@@ -17,8 +17,8 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 [[Category/Performers|Crouch]]
 [[Category/Teachers|Crouch]]
 [[Category/Directors|Crouch]]

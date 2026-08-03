@@ -17,7 +17,6 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Emma Holder** is an improv performer.

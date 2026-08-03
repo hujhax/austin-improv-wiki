@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Turn of the Century Paris** was a sketch troupe based at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

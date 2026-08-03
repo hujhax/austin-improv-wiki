@@ -17,7 +17,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Donna Rice** is an actor, improviser, writer and director.

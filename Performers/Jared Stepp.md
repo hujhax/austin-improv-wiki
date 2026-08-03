@@ -17,7 +17,6 @@
 			<td class="category">2008-2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **Jared Stepp** was an improv performer.

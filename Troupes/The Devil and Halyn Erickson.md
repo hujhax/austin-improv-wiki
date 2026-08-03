@@ -17,7 +17,6 @@
 			<td class="category"><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Devil and Halyn Erickson** was a solo show that headlined *[[Shows/The Threefer|The Threefer]]* in June 2014.

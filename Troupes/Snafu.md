@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **SNAFU Improv** is UT Austin's ONLY long-form improv troupe. They perform biweekly shows for free on the UT Austin campus on Fridays at 8 PM. They can also be seen performing at venues throughout the Austin area.

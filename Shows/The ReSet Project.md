@@ -80,7 +80,6 @@
 			<td class="category">Aug/Sep 2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The ReSet Project*** was an improv show based on exploring alternate paths that lives of older performers could have taken.

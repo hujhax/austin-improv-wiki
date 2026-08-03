@@ -131,7 +131,6 @@
 			<td class="category">May 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Buzz Band*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]] set in the 1990s music scene.

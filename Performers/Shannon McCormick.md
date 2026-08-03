@@ -17,7 +17,6 @@
 			<td class="category">2000-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Shannon McCormick** is an improv performer, director, and teacher.  He runs [[Gnap! Theater Projects]], which produced improv shows from 2008 to 2012.

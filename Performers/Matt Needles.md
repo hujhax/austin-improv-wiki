@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Matt Needles** is a writer, director and improviser.

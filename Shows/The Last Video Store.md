@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Last Video Store*** was a mainstage improv show about XXX. 

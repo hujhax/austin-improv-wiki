@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Who Wants Attention?!** is an improv games-based troupe associated with [[Theatres/The Hideout Theatre|The Hideout Theatre]].

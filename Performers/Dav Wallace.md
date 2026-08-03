@@ -17,7 +17,6 @@
 			<td class="category">1998-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Dav Wallace** is an improv performer.

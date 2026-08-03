@@ -17,7 +17,6 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Zac Grantham** is an improv performer.

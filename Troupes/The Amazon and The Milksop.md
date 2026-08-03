@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Amazon and the Milksop** is an improv duo consisting of [[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Curtis Luciani|Curtis Luciani]].

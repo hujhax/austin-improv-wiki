@@ -17,7 +17,6 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Jay Byrd** is an improv performer.

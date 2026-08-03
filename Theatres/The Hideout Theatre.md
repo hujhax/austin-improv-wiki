@@ -21,7 +21,6 @@
 			<td class="category">1998-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ![[Hideout Exterior.jpg|The view from Congress of the Hideout Theatre.]]

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday** was an improv duo.

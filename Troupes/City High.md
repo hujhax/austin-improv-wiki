@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **City High** was the first house Harold troupe at [[Theatres/The New Movement|The New Movement]].

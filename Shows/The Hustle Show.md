@@ -127,7 +127,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Hustle Show*** is a variety show. 

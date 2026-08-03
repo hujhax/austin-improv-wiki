@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Echo Lake** is an improv troupe. [[Performers/Lisa Jackson|Lisa Jackson]] joined in 2015. 

@@ -127,7 +127,6 @@
 			<td class="category">May-Jun 2017</td>
 		</tr>
 	</table>
-
 </div>
 
 ***How I Saved the World Over Summer Vacation*** (often referred to by the nickname ***Kids on Bikes***) was a Hideout mainstage show that drew inspiration from kid-oriented ensemble action/sci-fi/horror movies set in the 1980s. 

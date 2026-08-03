@@ -123,7 +123,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Bad Font** is an independent, Harold oriented, improv team.

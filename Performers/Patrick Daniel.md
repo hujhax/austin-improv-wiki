@@ -17,7 +17,6 @@
 			<td class="category">1999-2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **Patrick Daniel** is an improv performer.

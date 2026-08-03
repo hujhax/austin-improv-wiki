@@ -76,7 +76,6 @@
 			<td class="category">June/July 2016</td>
 		</tr>
 	</table>
-
 </div>
 
 ## Summary

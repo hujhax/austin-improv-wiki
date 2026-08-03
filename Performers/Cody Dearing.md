@@ -17,7 +17,6 @@
 			<td class="category">2006-2007, 2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Cody Dearing** is an improv performer, teacher, and director.

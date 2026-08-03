@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Fatbuckle** was a short-form improv troupe comprised of St. Edward's students.

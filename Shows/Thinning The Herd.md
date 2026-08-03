@@ -131,8 +131,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
+
 ***Thinning the Herd*** is an improv show based around a (real-life) team-based weight-loss competition.
 
 ## Summary

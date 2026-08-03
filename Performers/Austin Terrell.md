@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Austin Terrell** is an improv performer.

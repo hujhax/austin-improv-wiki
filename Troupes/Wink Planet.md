@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Wink Planet** is a sketch troupe based out of [[Theatres/Coldtowne Theater|Coldtowne Theater]].

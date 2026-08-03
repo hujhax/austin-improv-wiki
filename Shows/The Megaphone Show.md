@@ -76,7 +76,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **The Megaphone Show** is a weekly [Armando](http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny) that features local celebrities as monologists.

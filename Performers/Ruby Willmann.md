@@ -17,8 +17,8 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 **Ruby Willmann** is an Austin improviser.
 
 ## History

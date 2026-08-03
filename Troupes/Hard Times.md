@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Hard Times** was a one-off Cagematch team that aimed for dramatic improv.

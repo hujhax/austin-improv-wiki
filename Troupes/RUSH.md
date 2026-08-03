@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Rush** (often written all-caps: **RUSH**) is a [[ColdTowne Student Troupe]].

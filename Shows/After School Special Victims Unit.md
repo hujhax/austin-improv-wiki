@@ -84,7 +84,6 @@
 			<td class="category">Sep 2011</td>
 		</tr>
 	</table>
-
 </div>
 
 ***After School Special Victims Unit*** was a sketch revue at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

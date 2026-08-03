@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Last Detail** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.

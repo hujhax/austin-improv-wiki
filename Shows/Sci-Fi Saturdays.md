@@ -25,7 +25,6 @@
 			<td class="category">Feb 2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ## Summary

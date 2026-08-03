@@ -19,7 +19,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Cindy Page** is a technical improviser, improv performer, musician, and Co-Technical Director of [[Theatres/The Hideout Theatre|The Hideout Theatre]].

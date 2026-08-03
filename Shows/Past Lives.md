@@ -76,7 +76,6 @@
 			<td class="category">Apr 2013-Apr 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Past Lives*** is an improvised play.

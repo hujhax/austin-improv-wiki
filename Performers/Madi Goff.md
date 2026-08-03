@@ -17,7 +17,6 @@
 			<td class="category">2008-2011</td>
 		</tr>
 	</table>
-
 </div>
 
 **Madi Goff** is an actress and improv performer.

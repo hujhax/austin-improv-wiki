@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Andrew Buck** is an improviser living and performing in Austin, Texas.

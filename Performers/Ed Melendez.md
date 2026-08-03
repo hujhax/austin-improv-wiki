@@ -17,7 +17,6 @@
 			<td class="category">2009-2015</td>
 		</tr>
 	</table>
-
 </div>
 
 **Ed Melendez** is an improv performer.

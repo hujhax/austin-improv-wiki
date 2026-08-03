@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Duran & Johsnon** (originally **Heather Has Two Oprahs**) is an improv duo.

@@ -17,7 +17,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Paul Normandin** is an Storyteller and Improv performer who works primarily with [[Merlin Works Institute for Improvisation]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]].

@@ -80,7 +80,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Monologue Jam*** is a competitive improvised-monolog show.

@@ -17,7 +17,6 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Patrick Knisely** ([[Wikipedia - Help - IPA for English#Key|/ˈnaɪzliː/]])  is an improv performer and instructor who works primarily with [[Theatres/The New Movement Theater|The New Movement Theater]].

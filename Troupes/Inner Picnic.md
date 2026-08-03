@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 Inner Picnic writes and performs [Neo-Futurist](https://en.wikipedia.org/wiki/Neo-Futurists) inspired short plays.

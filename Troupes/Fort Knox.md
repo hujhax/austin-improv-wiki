@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Fort Knox** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

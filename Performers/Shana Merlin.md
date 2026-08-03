@@ -17,8 +17,8 @@
 			<td class="category">1995-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Shana Merlin*** is an improv performer, director, and teacher.  She founded and runs [[The Merlin Works Institute for Improvisation]].
 
 ## Summary

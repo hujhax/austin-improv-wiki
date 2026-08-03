@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Danger! Warning! Improv!** is an improv duo that focuses on fast-paced, high-production-value narrative genre improv with heavy audience involvement.

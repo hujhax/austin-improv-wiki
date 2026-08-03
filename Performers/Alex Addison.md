@@ -17,7 +17,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Alex "Seymour" Addison** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].

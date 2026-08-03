@@ -68,7 +68,6 @@
 			<td class="category">2007-2015</td>
 		</tr>
 	</table>
-
 </div>
 
 **Neal Tibrewala** was an improv performer and technical improvisor.

@@ -25,7 +25,6 @@
 			<td class="category">????-2010</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Franchise*** is a weekly improv showcase at [[Theatres/The New Movement|The New Movement]].

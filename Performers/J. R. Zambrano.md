@@ -17,7 +17,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **J. R. Zambrano** is an improv performer.

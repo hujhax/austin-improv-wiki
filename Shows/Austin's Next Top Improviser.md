@@ -29,7 +29,6 @@
 			<td class="category">Oct 2008-Dec 2009</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Austin's Next Top Improviser*** was a short-form competitive improv show inspired by reality-TV competitions.

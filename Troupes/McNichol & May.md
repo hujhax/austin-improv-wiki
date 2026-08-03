@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **McNichol & May** is an improv duo consisting of married couple [[Performers/Bob McNichol|Bob McNichol]] and [[Performers/Erika May McNichol|Erika May McNichol]].

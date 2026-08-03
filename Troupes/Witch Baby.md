@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Witch Baby** was an improv student troupe from [[Theatres/The New Movement|The New Movement]].

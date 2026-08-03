@@ -68,7 +68,6 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Mike Nystul** (AKA **Alex Gray**) is an improv performer and director.

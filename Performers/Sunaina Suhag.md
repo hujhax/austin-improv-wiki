@@ -17,7 +17,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Sunaina Suhag** is an improv performer.

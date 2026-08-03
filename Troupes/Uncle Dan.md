@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Uncle Dan** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

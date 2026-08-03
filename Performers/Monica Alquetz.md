@@ -18,7 +18,6 @@
 			<td class="category">2014</td>
 		</tr>
 	</table>
-
 </div>
 
 **Monica Alquetz** is an improv performer, director, and teacher. She has been performing improv since 2014 and teaching improv since 2017. She has directed and performed in various improvised productions in Austin, including - but not limited to! - mainstage productions such as Start Trekkin (improvised Star Trek), Fiasco (improvised stories in the style of the Coen brothers' movies), Sexy Future Space Lady (inspired by Barbarella), Coven (improvised witch stories), The Black Vault (improvised Lovecraft), and more. Monica's favorite improv experience to date is being a core cast member of the 48-Hour Improv Marathon at the Hideout Theater in 2019, wherein she performed for 48 hours straight without sleeping!

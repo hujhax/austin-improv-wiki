@@ -68,8 +68,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
+
 :*This page refers to the 2014 musical-improv troupe.  For the 2012 improv show inspired by *Stomp'', see [[Shows/Racket|Racket]].
 **That Racket!** is a musical improv troupe.
 

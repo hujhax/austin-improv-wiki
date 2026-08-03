@@ -127,7 +127,6 @@
 			<td class="category">May-Jun 2018</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Sexy Future Space Lady*** was a Hideout mainstage show inspired by *[Barbarella](http://en.wikipedia.org/wiki/Barbarella_(film))*.

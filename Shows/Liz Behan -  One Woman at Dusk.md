@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Liz Behan: One Woman at Dusk*** was a mainstage sketch show about XXX. 

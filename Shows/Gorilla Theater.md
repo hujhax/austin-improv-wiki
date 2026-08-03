@@ -29,8 +29,8 @@
 			<td class="category">Oct-Dec 2006</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Gorilla Theater*** was a Johnstonian format put on by [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary

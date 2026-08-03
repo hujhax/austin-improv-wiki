@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Aunt Diane** is a *[[Shows/Cagematch|Cagematch]]* team.

@@ -80,7 +80,6 @@
 			<td class="category">3/22/13</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Myth Debunkers*** was an improvised version of *[[Wikipedia - MythBusters|MythBusters]]*.

@@ -76,8 +76,8 @@
 			<td class="category">May 2013-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Improvised Comedy with Oh, Science!*** is a double-header improv show featuring [[Troupes/Oh, Science!|Oh, Science!]] at 8:30PM every Sunday at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History

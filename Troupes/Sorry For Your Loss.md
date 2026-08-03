@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Sorry For Your Loss** started as a *[[Shows/Cagematch|Cagematch]]* team and now perform regularly at ColdTowne Theater in Austin, TX

@@ -186,7 +186,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 ***Cochise*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] based on late-70s cop shows.  It was originally produced and performed by [[Troupes/Improv For Evil|Improv For Evil]].

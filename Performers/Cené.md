@@ -17,7 +17,6 @@
 			<td class="category">2013 - present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Cené** (Cené Hale) is an actress known for performances with [[Theatres/Coldtowne Theater|Coldtowne Theater]] and [[Theatres/The Institution Theater|The Institution Theater]].

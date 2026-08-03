@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Huge In Japan** (often written all-caps: **HUGE IN JAPAN**) was an improv troupe.

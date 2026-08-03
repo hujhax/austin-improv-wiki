@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Lazer Wolf** is an musical improv troupe that grew out of a [[Merlin Works]] improvised singing class.

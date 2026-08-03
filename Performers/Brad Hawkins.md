@@ -17,7 +17,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Brad Hawkins** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]].

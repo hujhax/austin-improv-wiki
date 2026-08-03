@@ -123,8 +123,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
+
 **RhinoDino** is an improv troupe that focuses on short-form improv and modifying existing games to make them more interesting.
 
 ## History

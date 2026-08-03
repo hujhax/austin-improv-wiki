@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Florida Room** (full name: **Florida Room: Improvised Golden Girls**) was an improv troupe that did shows inspired by the 1980s sitcom *[[Wikipedia - The Golden Girls|The Golden Girls]]*.

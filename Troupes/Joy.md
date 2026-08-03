@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Joy** (typically written all-caps: **JOY**) was an improv troupe.

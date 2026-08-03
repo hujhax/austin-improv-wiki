@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **An Englishman and a Belle** is a duo made up of English gentleman, Mark Tindle, and 7th Generation Floridian, Austinite and Belle, Aspen Webster. Until anyone can prove otherwise, these close friends claim to be the most geographically-distant improv troupe in the world!

@@ -131,7 +131,6 @@
 			<td class="category">Sep/Oct 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Reform School for Wayward Girls*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] set in a 1970s all-girl reform school.

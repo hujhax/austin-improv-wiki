@@ -17,7 +17,6 @@
 			<td class="category">2011-2015</td>
 		</tr>
 	</table>
-
 </div>
 
 **Melissa Patterson** is an improv performer. In 2015 she moved away to Chicago. 

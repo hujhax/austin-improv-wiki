@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Ghost Prom** was the first house troupe at [[Theatres/The New Movement|The New Movement]].

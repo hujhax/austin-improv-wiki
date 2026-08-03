@@ -17,7 +17,6 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Kathy Rose Center** is an improv performer and professional actor, represented by Agence Talent. Her online bio and resume are available at http://kathyrosecenter.nowcasting.com and http://www.imdb.com/name/nm2180001/

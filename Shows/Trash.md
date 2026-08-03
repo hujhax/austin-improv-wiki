@@ -84,8 +84,8 @@
 			<td class="category">July 2013</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Trash*** was a scripted puppet musical for kids.
 
 ## Summary

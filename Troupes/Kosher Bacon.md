@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 ![[Under Waged Poster.jpg|The poster for *Under Waged*.]]

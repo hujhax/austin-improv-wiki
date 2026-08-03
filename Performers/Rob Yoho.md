@@ -17,7 +17,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 Rob Yoho is an improv performer, tech, and director and is the Operations Manager at the [[Theatres/Hideout Theatre|Hideout Theatre]]. 

@@ -80,7 +80,6 @@
 			<td class="category">May 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***History Under the Influence*** was an improv format inspired by the YouTube/Comedy Central series *Drunk History*. Almost all shows featured [[Performers/Kevin Miller|Kevin Miller]] as the drunken narrator with a rotating cast.

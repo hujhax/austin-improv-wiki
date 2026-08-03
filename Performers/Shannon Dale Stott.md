@@ -17,7 +17,6 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Shannon Dale Stott** is an improv performer.

@@ -139,7 +139,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 ***False Matters*** was a longform mainstage improv production with [[Gnap! Theater Projects]] based on the work of [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)."

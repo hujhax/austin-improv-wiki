@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Kevlar** (full name: **Kevlar: We're Bulletproof**) is an improv duo.

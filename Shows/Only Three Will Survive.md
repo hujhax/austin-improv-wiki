@@ -84,7 +84,6 @@
 			<td class="category">Jul/Aug 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Only Three Will Survive*** (often written with a trailing ellipsis: ***Only Three Will Survive...***) was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].

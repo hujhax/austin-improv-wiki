@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Achatina Achatina** (often written with an exclamation point: **Achatina Achatina!**) was an improv troupe associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].

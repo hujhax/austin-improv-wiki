@@ -123,7 +123,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Human People** is a musical improv troupe.

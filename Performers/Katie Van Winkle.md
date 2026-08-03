@@ -17,7 +17,6 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Katie Van Winkle** is an improv performer.

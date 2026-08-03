@@ -237,7 +237,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Jukebox Musical Project*** is a series of original comedy mini-musicals at [[Theatres/The Institution Theater|The Institution Theater]]. 

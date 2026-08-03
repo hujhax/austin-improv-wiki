@@ -80,7 +80,6 @@
 			<td class="category">7/19/12, 9/27/12, 10/25/12, 12/13/12, 10/16/14</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Tech Nightmare*** is an improv show in which the technical improvisors control the show with bold and often arbitrary sound and light choices.

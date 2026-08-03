@@ -17,7 +17,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
  
 **Caeriel Crestin** is an improviser who is a graduate of, and works for, [[Theatres/The Hideout Theatre|The Hideout Theatre]]. He is the Hideout Registrar, Intern Coordinator, House Manager, and Instructor.

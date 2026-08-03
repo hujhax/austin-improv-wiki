@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Latinacional: Live Comedy Telenovela*** was a mainstage improv show about XXX. 

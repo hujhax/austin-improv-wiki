@@ -72,7 +72,6 @@
 			<td class="category">Various</td>
 		</tr>
 	</table>
-
 </div>
 
 **Got Your Back** is an Austin comedy podcast featuring interviews with Austin comedians.

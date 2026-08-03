@@ -25,7 +25,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Comedy Bazaar***  is a monthly sketch show at Coldtowne Theater

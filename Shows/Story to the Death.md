@@ -194,7 +194,6 @@
 			<td class="category">Feb 2018</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Story to the Death*** is a recurring [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. It first ran in August 2016, and had second run in February 2018.

@@ -131,7 +131,6 @@
 			<td class="category">Dec 2010</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as *[[Wikipedia - The Office|The Office]]*.

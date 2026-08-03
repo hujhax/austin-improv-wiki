@@ -17,7 +17,6 @@
 			<td class="category">2010-current</td>
 		</tr>
 	</table>
-
 </div>
 
 Yamina is an actor and improv comic based in Austin, TX.

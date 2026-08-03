@@ -80,7 +80,6 @@
 			<td class="category">Jul/Aug 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***You Think You're So Smart*** is an improvised panel show in the style of British programs like *[[Wikipedia - QI|QI]]*, *[[Wikipedia - Never Mind the Buzzcocks|Never Mind the Buzzcocks]]*, and *[[Wikipedia - Would I Lie to You (TV series)|Would I Lie to You?]]*

@@ -21,7 +21,6 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **The Institution Theater** presents and teaches both improv and scripted theater.  Their improv draws equally from a wide variety of sources.

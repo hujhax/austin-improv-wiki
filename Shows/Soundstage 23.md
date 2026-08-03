@@ -127,7 +127,6 @@
 			<td class="category">October 2017</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Soundstage 23*** was a Hideout student mainstage show.  It was a musical set behind the scenes at a film studio during the Golden Age of Hollywood.  It was inspired by *La La Land*, *Hail, Caesar!*, *Noises Off*, and *Singin' in the Rain*.

@@ -131,7 +131,6 @@
 			<td class="category">May/Jun 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Sword of Merlin Works*** was an improvised narrative based on [[Wikipedia - King Arthur|Arthurian]] fantasy.

@@ -76,7 +76,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Red Envelope*** is a monthly variety show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

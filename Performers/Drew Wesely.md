@@ -17,7 +17,6 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Drew Wesely**, aka Andrew Wesely, is an improv comedian, sketch actor, and improv teacher in Austin, Texas. 

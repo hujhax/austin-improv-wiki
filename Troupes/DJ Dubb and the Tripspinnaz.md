@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **DJ Dubb and the Tripspinnaz** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

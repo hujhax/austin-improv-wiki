@@ -76,7 +76,6 @@
 			<td class="category">Oct-Dec 2009</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Eye for an iPhone*** was a sketch revue at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

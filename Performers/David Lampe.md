@@ -17,8 +17,8 @@
 			<td class="category">1988-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 [[Category/Performers|Lampe]]
 
 **David Lampe** is an Austin improviser.

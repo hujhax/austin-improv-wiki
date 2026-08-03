@@ -17,7 +17,6 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Erika May McNichol** is an improv performer and director.

@@ -76,8 +76,8 @@
 			<td class="category">March 2015-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Drew's Improv Gym*** is a weekly improv jam at 7:00 pm Fridays, at ColdTowne Conservatory, 6929 Airport Blvd.  
 
 ## Summary

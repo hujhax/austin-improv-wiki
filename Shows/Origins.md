@@ -182,7 +182,6 @@
 			<td class="category">Apr 2016</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Origins*** will be the April 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

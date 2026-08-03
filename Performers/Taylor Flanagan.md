@@ -17,7 +17,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Taylor Flanagan** is an actress and  improv performer.

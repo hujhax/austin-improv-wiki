@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **You're in Big Trouble, Mister!** was a *[[Shows/Cagematch|Cagematch]]* team.

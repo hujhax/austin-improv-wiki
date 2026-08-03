@@ -131,7 +131,6 @@
 			<td class="category">Mar/Apr 2011</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Showdown*** was a serialized narrative longform western that ran as a mainstage show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].

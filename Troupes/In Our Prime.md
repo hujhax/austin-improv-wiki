@@ -72,7 +72,6 @@
 			<td class="category">[[Performers/Jessica Arjet|Jessica Arjet]] (2012-2015)</td>
 		</tr>
 	</table>
-
 </div>
 
 **In Our Prime** is an improv troupe that focuses on grounded, dramatic longforms.

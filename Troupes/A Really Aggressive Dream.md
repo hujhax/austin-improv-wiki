@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **A Really Aggressive Dream** (often shortened to **ARAD**) is an improv troupe.

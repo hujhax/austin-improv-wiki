@@ -17,7 +17,6 @@
 			<td class="category">2009 - 2011</td>
 		</tr>
 	</table>
-
 </div>
 
 **Cody Melcher** started in improv and sketch in Austin with The University of Texas' [[Troupes/GigglePants|GigglePants]]. He moved to Chicago in 2011 to primarily focus on stand-up.

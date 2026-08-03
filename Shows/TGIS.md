@@ -127,7 +127,6 @@
 			<td class="category">Mar/Apr 2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***TGIS*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  It was an improv double-bill inspired by 1990s TV sitcoms.

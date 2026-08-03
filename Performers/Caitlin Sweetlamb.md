@@ -17,7 +17,6 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Caitlin Sweetlamb** (née **Caitlin Sweet**) is an improv performer.

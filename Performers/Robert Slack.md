@@ -68,7 +68,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Robert Slack** is an improv performer.

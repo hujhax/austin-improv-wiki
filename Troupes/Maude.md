@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Maude** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

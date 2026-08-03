@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Echo Lake Midsommer - A Comedy Cult Ritual*** was a mainstage improv show about XXX. 

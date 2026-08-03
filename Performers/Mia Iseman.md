@@ -17,7 +17,6 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Mia Iseman** left Austin, and improvises in Seattle now.

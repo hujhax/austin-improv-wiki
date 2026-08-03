@@ -131,7 +131,6 @@
 			<td class="category">Dec 2011</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Amazing Improvised Race*** was a longform improv show loosely inspired by the television show *[[Wikipedia - The Amazing Race|The Amazing Race]]*.

@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Hellhole: Improvised Teen Supernatural Comedy*** was a mainstage improv show about XXX. 

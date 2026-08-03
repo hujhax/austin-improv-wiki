@@ -17,7 +17,6 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Ed Reed** is an improv performer.

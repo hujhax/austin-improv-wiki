@@ -131,7 +131,6 @@
 			<td class="category">Jul-Sep 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Manhattan Stories*** was an improvised longform show in style of the films of [[Wikipedia - Woody Allen|Woody Allen]].

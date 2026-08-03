@@ -76,7 +76,6 @@
 			<td class="category">2007-2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Stool Pigeon*** was a weekly [Armando](http://wiki.improvresourcecenter.com/index.php?title=The_Armando_Diaz_Experience,_Theatrical_Movement_and_Hootenanny) at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

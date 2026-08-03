@@ -131,8 +131,8 @@
 			<td class="category">Oct/Nov 2011</td>
 		</tr>
 	</table>
-
 </div>
+
 ![[Cover to Cover Performance.jpg|A performance of *Cover to Cover*.]]
 ![[Cover to Cover Blackboard.jpg|The *Cover to Cover* blackboard, showing the book title and the chapter assignments.]]
 

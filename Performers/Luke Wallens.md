@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
  
 **Luke Wallens** is an improv performer who has studied improv at the Hideout Theatre (May 2011-February 2012), Coldtowne Theater (August 2012-March 2014) and improvised singing at Merlin Works, Improvised Singing (April-June 2012, January-July 2013). He has also taken workshops with Parallelogrammaphonograph with their Narrative Intensive and Deanna Fleyscher with her 'Naked Comedy' workshop.

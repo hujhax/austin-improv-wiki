@@ -17,7 +17,6 @@
 			<td class="category">Unknown</td>
 		</tr>
 	</table>
-
 </div>
 
 **Margaux Binder** is an improv performer who works primarily with [[The&nbsp;New&nbsp;Movement]].

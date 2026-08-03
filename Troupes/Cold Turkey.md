@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Cold Turkey** was a one-off *[[Shows/Cagematch|Cagematch]]* team that did an "improvised intervention".

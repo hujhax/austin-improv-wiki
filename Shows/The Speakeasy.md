@@ -25,7 +25,6 @@
 			<td class="category">2010-2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Speakeasy*** was a monthly open mic at [[Theatres/Coldtowne Theater|Coldtowne Theater]] presented by [[Troupes/Turn of the Century Paris|Turn of the Century Paris]].

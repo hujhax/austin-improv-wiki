@@ -17,7 +17,6 @@
 			<td class="category">2004-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Julie Gillis** is an improv performer.

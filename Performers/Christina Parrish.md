@@ -17,8 +17,8 @@
 			<td class="category">?-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 [[Category/Performers|Parrish]]
 
 **Christina Parrish** is an improviser, stand up comic, actor, and sketch writer/performer. She is a founding member of [[Troupes/Bad Font|Bad Font]] and [[Troupes/Disco Box|Disco Box]].

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Texas Jim Crago** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

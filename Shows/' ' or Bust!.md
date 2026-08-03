@@ -80,7 +80,6 @@
 			<td class="category">Oct 2010</td>
 		</tr>
 	</table>
-
 </div>
 
 

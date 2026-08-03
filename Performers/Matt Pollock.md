@@ -17,7 +17,6 @@
 			<td class="category">2002-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Matt Pollock** is an improv performer. 

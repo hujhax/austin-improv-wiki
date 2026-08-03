@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Celebrity Alter Ego** was an improv troupe that started as a [[List of Free Fringes#Celebrity Alter-Ego .28Andreas Fabis.29|fringe format]].

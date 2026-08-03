@@ -80,7 +80,6 @@
 			<td class="category">May 2011</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Doctors Without Boundaries*** was an improvised longform inspired by the medical soap opera *[[Wikipedia - Grey's Anatomy|Grey's Anatomy]]*

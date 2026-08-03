@@ -70,7 +70,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Greg Blank** is an improv performer and tech.

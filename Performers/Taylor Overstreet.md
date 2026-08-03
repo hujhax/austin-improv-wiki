@@ -17,7 +17,6 @@
 			<td class="category">2010-2014</td>
 		</tr>
 	</table>
-
 </div>
 
 **Taylor Overstreet** is an improv performer.

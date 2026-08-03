@@ -17,8 +17,8 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 **Mitchell Deane** is an improv performer.
 
 ## History

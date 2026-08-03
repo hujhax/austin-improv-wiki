@@ -131,7 +131,6 @@
 			<td class="category">Jan/Feb 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.

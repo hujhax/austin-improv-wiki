@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 Chris Villafano is an improv performer in Austin, Tx. He's one of the few improvisers that is actively pursuing the MITCH (Merlin Works, Institution,The New Movement, ColdTowne, and Hideout).

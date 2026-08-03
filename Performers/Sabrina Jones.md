@@ -17,7 +17,6 @@
 			<td class="category">2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **Sabrina Jones** is an actress.  She played Saffron in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*.

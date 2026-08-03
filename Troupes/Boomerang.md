@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Boomerang** was an improv troupe comprised of Level Seven Hideout graduates.

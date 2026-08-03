@@ -182,7 +182,6 @@
 			<td class="category">Jul/Aug 2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Fakespeare*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was a slight variation on previous runs of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*.

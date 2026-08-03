@@ -17,7 +17,6 @@
 			<td class="category">2011-2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **Colin Thomas Bates** is an improv performer.

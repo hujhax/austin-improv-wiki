@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Elevator Action** is a [[Theatres/ColdTowne|ColdTowne]] improv troupe whose format centers around people trapped in an elevator.

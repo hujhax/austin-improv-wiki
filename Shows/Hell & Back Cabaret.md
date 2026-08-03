@@ -80,7 +80,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 ***Hell & Back Cabaret*** is a variety show at [[Theatres/The Institution Theater|The Institution Theater]].

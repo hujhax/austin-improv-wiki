@@ -17,7 +17,6 @@
 			<td class="category">1989-1994</td>
 		</tr>
 	</table>
-
 </div>
 
 

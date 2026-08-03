@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Disco Box** is an improv troupe that frequently plays at [[Theatres/The New Movement|The New Movement]].

@@ -80,7 +80,6 @@
 			<td class="category">Mar-Apr 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Improv: The Musical*** is an upcoming scripted musical at [[Theatres/The Institution Theater|The Institution Theater]].

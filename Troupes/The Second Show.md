@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Second Show** was an improv troupe.  They specialized in the so-called "second show" -- the improvisors messing with each other beneath the surface of the scene.

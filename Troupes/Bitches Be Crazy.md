@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Bitches Be Crazy** is an improv-duo offshoot of [[Troupes/IScream Sandwich|IScream Sandwich]].

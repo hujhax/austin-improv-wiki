@@ -17,7 +17,6 @@
 			<td class="category">Various</td>
 		</tr>
 	</table>
-
 </div>
 
 ***All Ages Improv Night*** (formerly ***Teen Improv Night***) is a monthly show/mixer at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

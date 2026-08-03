@@ -76,7 +76,6 @@
 			<td class="category">May 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Kaleidoscope*** was an improv show.

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Intentions** are an improv troupe that focuses on fast-paced, high-energy montage.

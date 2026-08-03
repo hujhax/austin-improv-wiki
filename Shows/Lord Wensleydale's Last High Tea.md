@@ -72,7 +72,6 @@
 			<td class="category">Saturday April 27 2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Lord Wensleydale's Last High Tea*** was an improvised, interactive farce performed as part of Digestible Feats in the 2013 Fusebox Festival.

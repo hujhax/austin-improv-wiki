@@ -17,7 +17,6 @@
 			<td class="category">1995-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Sean Hill** is an improv performer, director, and teacher.  He is the founder of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and ran the theater until 2009.

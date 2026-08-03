@@ -17,7 +17,6 @@
 			<td class="category">2014</td>
 		</tr>
 	</table>
-
 </div>
 
 **Jay Mahavier** is an improv performer, photographer and tech.

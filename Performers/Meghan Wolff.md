@@ -17,7 +17,6 @@
 			<td class="category">2004-2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **Meghan Wolff** is an improv performer who worked primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]], and now lives in Minneapolis.

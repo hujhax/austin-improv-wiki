@@ -80,7 +80,6 @@
 			<td class="category">Apr 2007</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Vinyl Destination*** was an improv show set in a record store.

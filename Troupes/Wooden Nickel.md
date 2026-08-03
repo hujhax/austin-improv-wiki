@@ -123,7 +123,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Wooden Nickel** was an improv troupe.

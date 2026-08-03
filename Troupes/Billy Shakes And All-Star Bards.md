@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Billy Shakes and All-Star Bards** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

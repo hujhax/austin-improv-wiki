@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Y'all, We Asian Presents: Summer Vacation!*** was a mainstage improv show about XXX. 

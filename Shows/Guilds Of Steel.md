@@ -135,7 +135,6 @@
 			<td class="category">Jul 2010</td>
 		</tr>
 	</table>
-
 </div>
 
 **Guilds of Steel** was a narrative longform show based on [[Wikipedia - Massively multiplayer online role-playing game|MMORPG]]s such as *[[Wikipedia - World of Warcraft|World of Warcraft]]*.

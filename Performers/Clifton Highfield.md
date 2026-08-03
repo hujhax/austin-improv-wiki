@@ -17,7 +17,6 @@
 			<td class="category">2004-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Clifton Highfield** is an improv performer, instructor, and director who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].

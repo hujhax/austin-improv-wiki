@@ -68,7 +68,6 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Jessie Pascarelli** is an improv performer.

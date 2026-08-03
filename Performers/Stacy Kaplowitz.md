@@ -17,7 +17,6 @@
 			<td class="category">2009-2010</td>
 		</tr>
 	</table>
-
 </div>
 
 **Stacy Kaplowitz** was an improv performer.

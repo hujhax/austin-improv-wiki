@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **I Snood Bear** (AKA **A Bride Soon**) was an improv duo.

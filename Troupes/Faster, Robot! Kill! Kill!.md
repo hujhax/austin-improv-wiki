@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Faster, Robot! Kill! Kill!** is an improv duo consisting of [[Performers/Brett Tribe|Brett Tribe]] and [[Performers/Lisa Jackson|Lisa Jackson]].

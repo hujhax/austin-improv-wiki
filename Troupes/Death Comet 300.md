@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Death Comet 300** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.

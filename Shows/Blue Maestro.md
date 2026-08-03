@@ -25,8 +25,8 @@
 			<td class="category">2000-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 **Blue Maestro** is the non-family-friendly version of [[Shows/Maestro|Maestro]].
 
 ## Summary

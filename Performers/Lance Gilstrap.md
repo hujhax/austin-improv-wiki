@@ -17,7 +17,6 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Lance Gilstrap** is an improv performer.

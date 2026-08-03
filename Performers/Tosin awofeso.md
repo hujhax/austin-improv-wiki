@@ -21,7 +21,6 @@
 			<td class="category">Piano</td>
 		</tr>
 	</table>
-
 </div>
 
 **Tosin Awofeso** is an improv musician.

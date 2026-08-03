@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Jocks and Nerds** was a *[[Shows/Cagematch|Cagematch]]* team.

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Mexican Free-Tailed Bat** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

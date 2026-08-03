@@ -17,7 +17,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Bobby Ford** is an Improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]].

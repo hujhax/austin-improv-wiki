@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Total Panic** was the 6th [[ColdTowne Student Troupe]] and was formed during the [[ColdTowne-New Movement Split]].

@@ -84,7 +84,6 @@
 			<td class="category">Jan 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Reframed*** is an improv show inspired by improv-show photographs.

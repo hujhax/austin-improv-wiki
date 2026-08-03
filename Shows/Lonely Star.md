@@ -135,7 +135,6 @@
 			<td class="category">Nov 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Lonely Star*** is an upcoming mainstage show at [[Theatres/The Institution Theater|The Institution Theater]], inspired by "space westerns" such as *[[Wikipedia - Firefly (TV series)|Firefly]]* and *[[Wikipedia - Cowboy Bebop|Cowboy Bebop]]*.  It will run on Fridays and Saturdays at 8pm, from 11/6/15 to 11/21/15.

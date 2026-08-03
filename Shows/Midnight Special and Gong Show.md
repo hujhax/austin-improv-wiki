@@ -25,7 +25,6 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Midnight Special and Gong Show*** is a free monthly [[Wikipedia - The Gong Show|gong show]], presented by [[Troupes/Midnight Society|Midnight Society]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]] .

@@ -80,7 +80,6 @@
 			<td class="category">Oct 2011</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Slaughter Your Shorts*** was an improvised mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

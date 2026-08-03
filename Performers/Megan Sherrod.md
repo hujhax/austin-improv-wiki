@@ -17,7 +17,6 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Megan Sherrod** is an improv performer, teacher, and opera singer.

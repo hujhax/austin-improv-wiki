@@ -29,7 +29,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Rucker Park*** is a monthly improv show featuring students and alumni of [[Theatres/The New Movement|The New Movement]] theater.

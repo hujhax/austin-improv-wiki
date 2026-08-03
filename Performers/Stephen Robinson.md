@@ -17,7 +17,6 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Stephen Robinson** is an improv performer.

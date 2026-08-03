@@ -17,7 +17,6 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Danielle Saar** is an improv performer in Austin, TX.

@@ -17,8 +17,8 @@
 			<td class="category">1982-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 [[Category/Performers|Zarate]]
 [[Category/Teachers|Zarate]]
 

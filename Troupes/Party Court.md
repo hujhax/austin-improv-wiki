@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Party Court** was an improv troupe associated with [[Theatres/The New Movement|The New Movement]].

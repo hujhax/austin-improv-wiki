@@ -186,7 +186,6 @@
 			<td class="category">Feb 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***One Small Step*** was the February 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. The run was extended with an extra show on March 7th. 

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Indigo Shift** is a musical improv troupe set in a cabaret at the end of the world.

@@ -17,7 +17,6 @@
 			<td class="category">20012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Beth Doughty** is an improviser, writer, and sketch performer.

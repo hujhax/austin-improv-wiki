@@ -25,7 +25,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].

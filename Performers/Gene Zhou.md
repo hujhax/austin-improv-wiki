@@ -17,7 +17,6 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Gene Zhou** is an improv performer.

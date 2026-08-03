@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Sarah Swofford** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].

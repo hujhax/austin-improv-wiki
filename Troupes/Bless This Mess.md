@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Bless This Mess** was a ColdTowne conservatory class troupe.

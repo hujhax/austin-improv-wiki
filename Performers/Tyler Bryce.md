@@ -68,7 +68,6 @@
 			<td class="category">1991-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Tyler Bryce** is an improv performer and director.

@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Monks' Night Out** (often misspelled **Monk's Night Out**) was one of the best-known troupes in Austin in the 1990s.  It focused on short-form games, as well as sketch and musical comedy.

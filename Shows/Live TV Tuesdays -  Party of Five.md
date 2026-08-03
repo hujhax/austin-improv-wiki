@@ -76,8 +76,8 @@
 			<td class="category">Aug 2011</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Live TV Tuesdays: Party of Five*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode ["The Wedding"](http://www.imdb.com/title/tt0670372/).
 
 ## Summary

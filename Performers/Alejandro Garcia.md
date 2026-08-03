@@ -17,7 +17,6 @@
 			<td class="category">2012 - present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Alejandro Garcia** is an improv performer who works primarily at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

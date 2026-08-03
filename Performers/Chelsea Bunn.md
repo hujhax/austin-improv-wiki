@@ -17,7 +17,6 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Chelsea Bunn** is an improviser and actor based in Austin, Texas. She has been studying improv at [[Theatres/Coldtowne Theater|Coldtowne Theater]] since January 2014 and is a graduate of their conservatory. She currently performs every Wednesday at ColdTowne Theater with her troupe [[Troupes/Loverboy|Loverboy]]. Chelsea has been nominated as “Rookie of Year” (ColdTowne Theater, 2014) and for “Best Leading Actress in a Comedy” (Broadwayworld Austin, 2013).

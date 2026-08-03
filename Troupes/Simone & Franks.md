@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Simone & Franks** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.

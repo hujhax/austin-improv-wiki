@@ -80,8 +80,8 @@
 			<td class="category">Mar/Apr 2007</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Six Degrees*** was a mainstage show put on by [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary

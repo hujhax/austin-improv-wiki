@@ -17,7 +17,6 @@
 			<td class="category">2000-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Ace Manning** is an improv performer.

@@ -17,7 +17,6 @@
 			<td class="category">2000-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Jay Michael** is an improv performer and director.

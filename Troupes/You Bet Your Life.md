@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **You Bet Your Life** is an improv duo that performs a format based on [the Groucho Marx game show of the same name](http://en.wikipedia.org/wiki/You_Bet_Your_Life).

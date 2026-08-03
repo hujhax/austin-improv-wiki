@@ -17,7 +17,6 @@
 			<td class="category">2003-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Jason Vines** is a versatile and bold Austin improviser.

@@ -25,7 +25,6 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Threefer*** (AKA ***The Thursday Threefer***; formerly ***Threefer Madness***) is a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

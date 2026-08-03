@@ -131,7 +131,6 @@
 			<td class="category">May/Jun 2011</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Holy 1960's Batman, Batman!*** was an improvised longform narrative show inspired by [[Wikipedia - Batman (TV series)|the 1960's *Batman* TV series]].

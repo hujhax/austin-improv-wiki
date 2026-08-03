@@ -25,7 +25,6 @@
 			<td class="category">????-2010</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Student Union*** is an improv jam for students and alumni of [[Theatres/The New Movement|The New Movement]].

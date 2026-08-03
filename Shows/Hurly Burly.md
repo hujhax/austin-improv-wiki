@@ -190,7 +190,6 @@
 			<td class="category">Feb/Mar 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Hurly Burly*** was an improvised burlesque narrative mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].

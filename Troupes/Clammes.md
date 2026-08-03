@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Clammes** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

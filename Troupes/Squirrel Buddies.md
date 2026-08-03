@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Squirrel Buddies** is an improv duo that focuses on positivity.

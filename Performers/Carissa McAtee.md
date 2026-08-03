@@ -17,7 +17,6 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Carissa McAtee** ([[Wikipedia - Help - IPA for English#Key|/ˈmækəˌtiː/]]) is an improv performer.

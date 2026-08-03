@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **We're Here to Date Your Daughter** (often referred to by its acronym, **WHTDYD**) is an ensemble improv troupe focusing on relationships.

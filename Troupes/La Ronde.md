@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **La Ronde** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

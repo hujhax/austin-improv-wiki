@@ -25,7 +25,6 @@
 			<td class="category">????-2010</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Lights Up!*** is a triple bill at [[Theatres/The New Movement|The New Movement]] that features student troupes from that theater.

@@ -17,7 +17,6 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Alex Ayala** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].

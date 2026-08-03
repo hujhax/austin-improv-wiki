@@ -17,7 +17,6 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Mark Carpenter** is an improv performer and instructor who works primarily with [[Theatres/The New Movement Theater|The New Movement Theater]].

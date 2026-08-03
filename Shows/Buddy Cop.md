@@ -84,7 +84,6 @@
 			<td class="category">June 2017</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Buddy Cop*** (full title: ***Buddy Cop: Metro City Nights***) was a Hideout student mainstage show inspired by 80s cop TV shows.

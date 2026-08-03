@@ -135,7 +135,6 @@
 			<td class="category">Feb/Mar 2009</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Lola*** was a mainstage improv show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].  It was loosely inspired by *[[Wikipedia - Run Lola Run|Run Lola Run]]*.

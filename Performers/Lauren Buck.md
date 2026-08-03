@@ -17,7 +17,6 @@
 			<td class="category">1998-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Lauren Buck** (née **Lauren Zinn**) is an improv performer, director, and teacher.

@@ -18,7 +18,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Rachel Posey Austin** is an improv performer and sound tech improviser. 

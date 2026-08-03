@@ -25,7 +25,6 @@
 			<td class="category">Feb-Jun 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Narrative Improv Jam*** was a monthly Friday-night show at [[Theatres/The Hideout|The Hideout]] where the cast collaborated with the audience to perform a narrative longform.

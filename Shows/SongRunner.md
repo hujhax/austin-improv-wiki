@@ -194,7 +194,6 @@
 			<td class="category">Jun 2015</td>
 		</tr>
 	</table>
-
 </div>
 
 ***SongRunner*** was the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

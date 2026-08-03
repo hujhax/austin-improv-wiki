@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Roast of St. Nick*** was a mainstage sketch show about XXX. 

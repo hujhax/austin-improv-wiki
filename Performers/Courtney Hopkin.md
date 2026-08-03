@@ -17,7 +17,6 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Courtney Hopkin** (AKA **Courtney Salinas**) is an improv performer.  She handles public relations for [[Theatres/The Hideout Theatre|The Hideout Theatre]].

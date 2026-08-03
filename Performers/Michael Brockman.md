@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Michael Brockman** is an improv musician and improv-singing teacher.

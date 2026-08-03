@@ -17,7 +17,6 @@
 			<td class="category">2012-2014</td>
 		</tr>
 	</table>
-
 </div>
 
 **Chrissy Shackelford** is an improviser, actress, and audience member who works primarily with [[Theatres/Coldtowne Theater|Coldtowne Theater]].

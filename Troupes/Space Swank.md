@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Space Swank** is a troupe of improvisers that went through levels one through six together at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

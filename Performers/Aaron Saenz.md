@@ -17,7 +17,6 @@
 			<td class="category">2000-2003, 2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Aaron Saenz** is a classically-trained improviser.

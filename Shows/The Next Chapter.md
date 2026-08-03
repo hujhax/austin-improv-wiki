@@ -84,7 +84,6 @@
 			<td class="category">May/Jun 2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Next Chapter*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]] that performed improvised continuations of the works of a published author.

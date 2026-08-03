@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Martini Ranch Presents: Queer & Now*** was a mainstage sketch show about XXX. 

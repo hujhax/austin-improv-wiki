@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Big Beautiful Warlock** is a troupe which performs a modified La Ronde.

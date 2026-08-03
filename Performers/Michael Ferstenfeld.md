@@ -17,7 +17,6 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Michael Ferstenfeld** is an actor, improviser, musician, director, teacher, producer, and pseudo-scientist.

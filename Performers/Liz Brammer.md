@@ -17,7 +17,6 @@
 			<td class="category">2009-2012</td>
 		</tr>
 	</table>
-
 </div>
 
 **Liz Brammer** is an improv performer.

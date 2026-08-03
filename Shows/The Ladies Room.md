@@ -88,7 +88,6 @@
 			<td class="category">2016</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Ladies Room*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].

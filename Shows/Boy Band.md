@@ -131,7 +131,6 @@
 			<td class="category">Feb 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Boy Band*** was a mainstage improv show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  It chronicled the career of "M*Pulse", a fictionalized boy band from the early 2000's, à la *[[Wikipedia - Behind the Music|Behind the Music]]*.

@@ -76,8 +76,8 @@
 			<td class="category">Feb/Mar 2012</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Live TV Tuesdays: Dr. Horrible's Sing-Along Blog*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of [[Wikipedia - Dr. Horrible's Sing-Along Blog|*Dr. Horrible's Sing-Along Blog*]].
 
 ## Summary

@@ -25,7 +25,6 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Plugged*** is a weekly themed stand-up showcase.

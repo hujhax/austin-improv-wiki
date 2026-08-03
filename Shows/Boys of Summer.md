@@ -80,7 +80,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 ***Boys of Summer*** is a longform musical improv show from [[Troupes/Girls Girls Girls|Girls Girls Girls]] which features a different male improvisor guesting with the troupe in every performance.

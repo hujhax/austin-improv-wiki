@@ -131,7 +131,6 @@
 			<td class="category">Jul/Aug 2014</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The International Improv Experience*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It drew inspiration from friends of the Hideout around the world.

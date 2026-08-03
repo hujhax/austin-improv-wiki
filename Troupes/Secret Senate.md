@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Secret Senate** was an [[ColdTowne Student Troupe]].

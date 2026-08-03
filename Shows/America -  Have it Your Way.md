@@ -131,7 +131,6 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
-
 </div>
 
 ***America: Have it Your Way*** was a mainstage improv show about XXX. 

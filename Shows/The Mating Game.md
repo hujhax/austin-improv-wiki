@@ -25,7 +25,6 @@
 			<td class="category">Feb 2013</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Mating Game*** (sometimes listed as ***The Dating Game***) was a live game show based on [[Wikipedia - The Dating Game|the TV show of the same title]].

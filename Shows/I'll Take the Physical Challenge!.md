@@ -29,7 +29,6 @@
 			<td class="category">Sep/Oct 2016</td>
 		</tr>
 	</table>
-
 </div>
 
 ***I'll Take the Physical Challenge!*** will be the September/October 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

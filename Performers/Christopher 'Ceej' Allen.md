@@ -17,7 +17,6 @@
 			<td class="category">2003-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Christopher "Ceej" Allen** is an Austin improviser.

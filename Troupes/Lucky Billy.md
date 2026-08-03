@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Lucky Billy** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms.  

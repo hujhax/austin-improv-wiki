@@ -25,7 +25,6 @@
 			<td class="category">Sep 2010-Dec 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***The Nightmare Video Project*** was a shortform show at [[Theatres/The Hideout Theater|The Hideout Theater]] that was directed by pre-recorded footage.

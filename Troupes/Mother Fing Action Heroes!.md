@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Mother F***ing Action Heroes!** was an improv troupe.

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Murphy** was a [[ColdTowne Student Troupe]].

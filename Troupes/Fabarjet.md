@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Fabarjet** is a duo consisting of [[Performers/Andreas Fabis|Andreas Fabis]] and [[Performers/Jessica Arjet|Jessica Arjet]], focusing on long-form genre stories.

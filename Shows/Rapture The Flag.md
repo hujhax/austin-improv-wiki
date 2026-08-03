@@ -84,7 +84,6 @@
 			<td class="category">Oct-Dec 2010</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Rapture the Flag*** (AKA **No Holes Bear'd**) was a comedy revue at [[Theatres/Coldtowne Theater|Coldtowne Theater]] themed around the [[Wikipedia - Rapture|Rapture]].

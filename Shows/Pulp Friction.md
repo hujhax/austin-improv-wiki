@@ -131,7 +131,6 @@
 			<td class="category">Sep/Oct 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Pulp Friction*** was an improvised longform narrative show inspired by the works of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]].

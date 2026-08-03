@@ -29,7 +29,6 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Booker and a Buddy*** is a recurring show at [[Theatres/The Institution Theater|The Institution Theater]] featuring [[Performers/Tom Booker|Tom Booker]] and one of his friends.

@@ -17,8 +17,8 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-
 </div>
+
 **Brent Unger** is an improv performer.
 
 ## History

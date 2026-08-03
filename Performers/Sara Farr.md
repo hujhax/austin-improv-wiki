@@ -68,7 +68,6 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Sara Farr** is an improv performer and technical improvisor.  She is the woman behind the [[Puppet Improv Project]].

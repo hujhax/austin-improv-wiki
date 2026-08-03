@@ -76,7 +76,6 @@
 			<td class="category">Nov 2010</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Victrola*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]], a 19<sup>th</sup>-century themed improv show in the dark.

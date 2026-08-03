@@ -17,7 +17,6 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Curtis Luciani** ([[Wikipedia - Help - IPA for English#Key|/ˈluːtʃiːˌɑːniː/]]) is an improv performer and director.

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Hyena** was a one-off *[[Shows/Cagematch|Cagematch]]* duo.

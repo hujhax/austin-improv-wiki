@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Duplex** is an improv troupe made up of recent graduates of [[Theatres/The Hideout Theatre|The Hideout Theatre]].

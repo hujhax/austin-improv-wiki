@@ -72,7 +72,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Bossanova Cocktail Party** was a improv/sketch duo from [[Theatres/The New Movement Theater|The New Movement Theater]].

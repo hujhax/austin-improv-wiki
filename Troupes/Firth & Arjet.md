@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Firth & Arjet** (frequently written with no spaces: **Firth&Arjet**) was an improv duo.

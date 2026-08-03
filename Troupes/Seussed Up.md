@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Seussed Up** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

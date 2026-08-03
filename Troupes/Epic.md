@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Epic** is an improv troupe loosely based on [[Wikipedia - Dungeons & Dragons|Dungeons & Dragons]].

@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **Lucy** (often written in all-caps: **LUCY**) was a [[Theatres/New Movement|New Movement]] improv troupe.

@@ -80,8 +80,8 @@
 			<td class="category">Jun 2011</td>
 		</tr>
 	</table>
-
 </div>
+
 ***Puppet Katamari*** was an improvised puppet show.
 
 ## Summary

@@ -17,7 +17,6 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Brett Tribe** is a graduate of the [[Theatres/ColdTowne|ColdTowne]] Conservatory as well as Binghamton University's Theatre Arts program. He currently performs with [[Troupes/Bad Boys Improv|Bad Boys Improv]], [[Troupes/The Intentions|The Intentions]], and [[Troupes/Faster, Robot! Kill! Kill!|Faster, Robot! Kill! Kill!]].  Cast in [[Shows/Fakespeare|Fakespeare]] as Macbeth in "Macbeth" and Verges in "Much Ado About Nothing". Renowned for his Facebook antics. Has been referred to as 'the hardest working man in Austin Improv' but this title may no longer be accurate.

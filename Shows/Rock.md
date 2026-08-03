@@ -186,7 +186,6 @@
 			<td class="category">May/Jun 2012</td>
 		</tr>
 	</table>
-
 </div>
 
 ***Rock*** (full title: ***Rock: The Improvised Rock Opera***) was an improvised longform narrative show inspired by rock operas.  All dialog was sung, and punctuated by rock'n'roll musical numbers.  Musician [[Performers/Michael Brockman|Michael Brockman]] improvised accompaniment using two keyboards, a drum machine, and an electric guitar.

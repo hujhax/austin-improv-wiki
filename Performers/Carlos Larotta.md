@@ -17,7 +17,6 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
-
 </div>
 
 **Carlos LaRotta** is an improv performer and sketch writer/performer.

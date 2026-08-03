@@ -68,7 +68,6 @@
 --></ul></div></td>
 		</tr>
 	</table>
-
 </div>
 
 **The Foreign Legion** was an improv troupe composed entirely of foreign-born improvisers.
