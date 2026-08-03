@@ -1,3 +1,7 @@
+---
+description: "An improv performer who worked primarily with The Hideout Theatre,..."
+image: "File/Meghan%20Wolff%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

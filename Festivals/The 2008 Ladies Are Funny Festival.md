@@ -1,3 +1,6 @@
+---
+description: "Second annual Ladies Are Funny Festival."
+---
 **The 2008 Ladies Are Funny Festival** was the second annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 
 ## Summary

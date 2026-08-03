@@ -1,3 +1,6 @@
+---
+description: "These troupes are duos, consisting of two members."
+---
 These troupes are duos, consisting of two members.
 
 ## Pages in category "Duos"

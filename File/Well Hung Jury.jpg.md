@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Well Hung Jury.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

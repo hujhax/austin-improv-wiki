@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/You%20Can%27t%20Stay%20Here%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -151,7 +155,9 @@ The cast of ten rotated through the four main character positions, with a differ
 *You Can't Stay Here* was nominated for two [[B. Iden Payne Awards]], for *Outstanding Improvised Production* and *Outstanding Direction - Improv*, for 2015.
 
 ### Press Blurb
-From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad city. The bars are closed, but the night is just beginning. Beware: Things are different when it gets this late. In this unscripted play, a group of friends will find out how"</blockquote>
+From the initial show announcement: 
+> "It’s two a.m. in the big, bad city. The bars are closed, but the night is just beginning. Beware: Things are different when it gets this late. In this unscripted play, a group of friends will find out how"
+
 
 ### Tom's Place
 ![[Toms-place.jpg|Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)]]

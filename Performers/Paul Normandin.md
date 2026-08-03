@@ -1,3 +1,7 @@
+---
+description: "An Storyteller and Improv performer who works primarily with Merlin..."
+image: "File/Paul%20Normandin%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -10,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,7 +23,7 @@
 	</table>
 </div>
 
-**Paul Normandin** is an Storyteller and Improv performer who works primarily with [[Merlin Works Institute for Improvisation]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+**Paul Normandin** is an Storyteller and Improv performer who works primarily with [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Education
 * *Texas A&M University, B.A. 1989, Speech Communication*
@@ -101,7 +105,7 @@
 * ''[Cochise: Student Mainstage Run](http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run) Assistant Director (2014)
 
 ## Improv History
-Paul decided to take Improv classes after seeing a [[Troupes/Firth & Arjet|Firth & Arjet]] show at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. He completed the classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Merlin Works Institute for Improvisation]]. And is now the dean of the [[Merlin Works Institute for Improvisation]]. Paul is a teacher and performer with a focus on narrative Improvisation and true, personal Storytelling.   
+Paul decided to take Improv classes after seeing a [[Troupes/Firth & Arjet|Firth & Arjet]] show at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. He completed the classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]]. And is now the dean of the [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]]. Paul is a teacher and performer with a focus on narrative Improvisation and true, personal Storytelling.   
 
 Paul completed classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with his friend and classmate, [[Performers/Bobby Ford|Bobby Ford]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Troupes/Two Guys from Yonkers|Two Guys from Yonkers]]" on October 31, 2011.  
 
@@ -109,15 +113,15 @@ Other classmates included [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers
 
 Paul conceived of and started a dramedy focused troupe [[Troupes/In Our Prime|In Our Prime]] in 2011 with [[Performers/Gloria Rabil-Bankler|Gloria Rabil-Bankler]], [[Performers/Ryan Hill|Ryan Hill]], and [[Performers/Jessica Arjet|Jessica Arjet]].
 
-Paul completed classes with Todd Geldon and Jennifer Dorsey at [[Merlin Works]]. The three performed with their 601 class in the show [[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]] founded in 2012. 
+Paul completed classes with Todd Geldon and Jennifer Dorsey at [[Theatres/Merlin Works|Merlin Works]]. The three performed with their 601 class in the show [[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]] founded in 2012. 
 
 He has also produced one off shows for [[Shows/The Free Fringe|The Free Fringe]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Prairie.
 
 Paul was a regular performer at Austin No Shame Theater. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show Testify in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Performers/Ryan Hill|Ryan Hill]] on guitar at FronteraFest. Paul won the ["2017 Texas Storytelling Festival StorySlam"](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf) in March.
 
-Paul was a teaching assistant at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s annual [[Festivals/Wafflefest|Wafflefest]] from 2014 to 2018. 
+Paul was a teaching assistant at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2013 and [[Theatres/Merlin Works|Merlin Works]] in 2019. Paul was the producer of [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s annual [[Festivals/Wafflefest|Wafflefest]] from 2014 to 2018. 
 
-Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul took on the Role of Dean of [[Merlin Works Institute for Improvisation]] in 2021 and left the role in 2024. Paul continues to teach to include Improv and Storytelling classes and workshops. In his spare time, he lives to play ["Ultimate"](http://https://austinultimate.org/), run weekly ["Tabletop Role-Playing Game"](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) Campaigns, and write speculative fiction.
+Paul retired from the position of Senior Planning and Project Advisor for Laboratory and Infectious Diseases for the State of Texas in October of 2018. Paul remains a Project Management Institute certified Project Management Professional. Paul took on the Role of Dean of [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]] in 2021 and left the role in 2024. Paul continues to teach to include Improv and Storytelling classes and workshops. In his spare time, he lives to play ["Ultimate"](http://https://austinultimate.org/), run weekly ["Tabletop Role-Playing Game"](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) Campaigns, and write speculative fiction.
 
 ## More Information
 * ["In Praise Of..." post](http://yesandrew.com/2013/10/11/in-praise-of-paul-normandin/) by [[Performers/Mia Iseman|Mia Iseman]].

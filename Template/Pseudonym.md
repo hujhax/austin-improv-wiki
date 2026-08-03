@@ -1,1 +1,4 @@
+---
+description: "This article employs a Pseudonym."
+---
 *This article employs a [[Pseudonyms|Pseudonym]].  Please do not replace that pseudonym with a real name without that person's permission.*

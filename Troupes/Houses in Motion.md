@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Houses%20in%20Motion.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Houses in Motion uses organic work and bold moves within a slacker form to create a full bore, high energy show. Audience quotes that cannot be verified include "I'm amazed at the bold, funny moves you guys do" and "You're that group that does organic edits right? That was really cool." Oh, and we start with the invocation, so that's pretty cool too.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Houses in Motion uses organic work and bold moves within a slacker form to create a full bore, high energy show. Audience quotes that cannot be verified include "I'm amazed at the bold, funny moves you guys do" and "You're that group that does organic edits right? That was really cool." Oh, and we start with the invocation, so that's pretty cool too.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We start with the invocation. We take our time with it, draw the audience in with exploration, pacing, focus, and intensity. Then WHAMMO. We go high energy, big choices, commitment, total support, lots of reacting to the last thing, occasional mind blowing organic edits and a loose interpretation of the slacker form make for a unique improv experience.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We start with the invocation. We take our time with it, draw the audience in with exploration, pacing, focus, and intensity. Then WHAMMO. We go high energy, big choices, commitment, total support, lots of reacting to the last thing, occasional mind blowing organic edits and a loose interpretation of the slacker form make for a unique improv experience.
+
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/walkingaline)

@@ -1,3 +1,7 @@
+---
+description: "|Cast = Various."
+image: "File/Six%20Degrees%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

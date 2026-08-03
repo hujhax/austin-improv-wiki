@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013."
+image: "File/Lane%20and%20Jane.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Kayla Lane and Karen Jane jump off a cliff and build their rainbow wings together on the way down. </blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Kayla Lane and Karen Jane jump off a cliff and build their rainbow wings together on the way down. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform character-driven 2-person fun stuff. And we love each other a lot. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We perform character-driven 2-person fun stuff. And we love each other a lot. 
+
 
 ## Media
 ### Videos

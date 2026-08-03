@@ -1,3 +1,6 @@
+---
+description: "|Years = 2013."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>HUGE IN JAPAN whips together every form of inspiration they can get their grubby little paws on to kick off a montage of massive proportions (at least in Japan). Actual performance experience in the Orient not included.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> HUGE IN JAPAN whips together every form of inspiration they can get their grubby little paws on to kick off a montage of massive proportions (at least in Japan). Actual performance experience in the Orient not included.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Montage from whatever moves us to get inspired. Rorsach tests, word association, impassioned monologues, real-life stories. Then we delight the ever living shit out of each other and you can watch if you'd like.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Montage from whatever moves us to get inspired. Rorsach tests, word association, impassioned monologues, real-life stories. Then we delight the ever living shit out of each other and you can watch if you'd like.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

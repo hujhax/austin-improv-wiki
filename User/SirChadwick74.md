@@ -1,1 +1,4 @@
+---
+description: "Studying and performing improv comedy since 2009 and teaching improv..."
+---
 Studying and performing improv comedy since 2009 and teaching improv since 2011.  Chadwick as been cast member in The Megaphone Show and Fuck This Week, is a referee and producer of Penalty Box,  and is a producer and performer of puppets with Puppet Revolt! with Patrick Knisely.  He also performs as puppet guitarist Kyle Danko in Austin's only emo puppet band, Fragile Rock.  He has played movie roles in movies, The Trolls and Maybe Shower, and several other shorts.  Chadwick also builds puppets and crafts costumes, and designs and builds woodcraft projects.

@@ -1,1 +1,4 @@
+---
+description: "Marc Jalandoon is an active improviser residing in Austin, TX."
+---
 Marc Jalandoon is an active improviser residing in Austin, TX. He began improvising in November of 2015. He enjoys performing long form narrative and musical improvisation. He is primarily an improviser at The Hideout Theatre. Now he's just filling up space because there's apparently a 50-word minimum for a biography no one reads. He really hopes this is fifty words because he's had to retype this confirmation code several times now.

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2011."
+image: "File/Ghost%20Prom.png"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Ghost Prom was formed in January 2010 as the New Movement Theater's first casted house troupe. Ghost Prom hosts monthly shows showcasing their fellow improv troupes; after each show is a prom with punch and a DJ. We are: Amy Pacheco, James Patrick Robinson, Jennifer Monsees, Dan Rumney, Chad Smith, Milo Smith, and Dave Ward.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Ghost Prom was formed in January 2010 as the New Movement Theater's first casted house troupe. Ghost Prom hosts monthly shows showcasing their fellow improv troupes; after each show is a prom with punch and a DJ. We are: Amy Pacheco, James Patrick Robinson, Jennifer Monsees, Dan Rumney, Chad Smith, Milo Smith, and Dave Ward.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We host themed proms and our sets often revolve around the them of our event. We have an evolving format that utilizes tap-outs, split scenes with an eye on connections either thru place or time. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We host themed proms and our sets often revolve around the them of our event. We have an evolving format that utilizes tap-outs, split scenes with an eye on connections either thru place or time. 
+
 
 ## Media
 * [Video of their 2/12/11 show.](http://youtu.be/sfEVsAFAeH4)

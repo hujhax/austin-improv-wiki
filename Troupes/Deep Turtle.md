@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-2016."
+image: "File/Deep%20Turtle.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Deep Turtle went through 6 levels of classes together at the Hideout Theatre, creating class t-shirts and a class song along the way. They are still together for the love of each other and the love of improv. Deep Turtle lives!</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Deep Turtle went through 6 levels of classes together at the Hideout Theatre, creating class t-shirts and a class song along the way. They are still together for the love of each other and the love of improv. Deep Turtle lives!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We have been working on the format that probably has another name but we call "Sidetracked Yo-Yo". We start with a simple base scene, then once a past event or separate event is mentioned, we transition to that scene. We do that roughly 5-6 times, and then we reverse and go back through all of the scenes and resolve them until we get back to the original base scene.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We have been working on the format that probably has another name but we call "Sidetracked Yo-Yo". We start with a simple base scene, then once a past event or separate event is mentioned, we transition to that scene. We do that roughly 5-6 times, and then we reverse and go back through all of the scenes and resolve them until we get back to the original base scene.
+
 
 ## Media
 ### Photos

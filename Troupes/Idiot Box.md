@@ -1,3 +1,6 @@
+---
+description: "|Years = 2010."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Idiot Box is Nick Ramirez, Katie Sicking, Lisa Jackson, a television and a wheelchair.</blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Idiot Box is Nick Ramirez, Katie Sicking, Lisa Jackson, a television and a wheelchair.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Katie and Lisa improvise scenes with a tv sitting in a wheelchair with Nick's head in real time on the screen</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Katie and Lisa improvise scenes with a tv sitting in a wheelchair with Nick's head in real time on the screen
+
 
 ## History
 The troupe lost a [[Shows/Cagematch|Cagematch]] on 5/23/09.

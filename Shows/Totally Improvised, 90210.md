@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/90210.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -22,7 +26,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
@@ -145,7 +149,7 @@
 	</table>
 </div>
 
-:*This page refers to the [[Gnap! Theater Projects]] improv show based on *90210*.  For the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* staging of the *90210* episode "Spring Dance", see *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]''.
+:*This page refers to the [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] improv show based on *90210*.  For the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* staging of the *90210* episode "Spring Dance", see *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]''.
 ***Totally Improvised, 90210*** was an improvised take on *Beverly Hills, 90210*.
 
 ## Summary
@@ -155,7 +159,7 @@ Much of the rehearsal process focused on *slowing down*, getting the cast to con
 
 In addition to the main run, *Totally Improvised, 90210* performed a special one-off show for *[[Shows/The TV Set|The TV Set]]* in November 2012.
 
-The show was produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+The show was produced by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 ## Full Cast & Crew
 * [[Performers/Bryan Cruz|Bryan Cruz]] as Dylan McKay

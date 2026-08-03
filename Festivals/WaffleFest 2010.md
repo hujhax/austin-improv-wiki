@@ -1,3 +1,6 @@
+---
+description: "Ninth annual WaffleFest."
+---
 **WaffleFest 2010** was the ninth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

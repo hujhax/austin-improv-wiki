@@ -1,3 +1,7 @@
+---
+description: "An improv performer who has worked with a variety of..."
+image: "File/Jen%20Kaplan%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

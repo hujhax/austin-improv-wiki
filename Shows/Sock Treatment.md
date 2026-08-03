@@ -1,3 +1,7 @@
+---
+description: "|Run = Dec 2009."
+image: "File/Sock%20Treatment.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

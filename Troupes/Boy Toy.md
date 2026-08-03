@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-2010."
+image: "File/Boy%20Toy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Harold. Fast and furious for now. Working on a Chicago-style "Suggestion as Show" Harold but still getting comfortable with ... everything. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Harold. Fast and furious for now. Working on a Chicago-style "Suggestion as Show" Harold but still getting comfortable with ... everything. 
+
 
 ## More Information
 * [The troupe's web site (defunct).](http://www.boytoyimprov.com)

@@ -1,3 +1,6 @@
+---
+description: "Danielle Saar is an improviser in Austin, TX."
+---
 Danielle Saar is an improviser in Austin, TX. You can watch Danielle perform regularly in Maestro RAW and Maestro (Austin’s longest-running improv show!). 
 Danielle can be seen in the upcoming Hideout student mainstage "Adventure PhD" in October. 
 Previously, Danielle re-lived high school hell in the Hideout student mainstage "Teenage Wasteland." 

@@ -1,3 +1,6 @@
+---
+description: "An annual improv show/party held on December 30th at The..."
+---
 **Same Year's Eve** is an annual improv show/party held on December 30th at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary

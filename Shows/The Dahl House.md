@@ -1,3 +1,7 @@
+---
+description: "|Tech = Rachel Posey Austin (sound)."
+image: "File/The%20Dahl%20House.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -104,11 +108,15 @@ The narrative followed a single (child) protagonist; no one else was guaranteed 
 The opening and post-intermission dances had setpiece songs; the rest of the show had improvised scoring from a playlist.  The narrative had improvised lights throughout.
 
 ### Publicity Blurbs
-From the show announcement:<blockquote>"Improvised stories inspired by Roald Dahl. British children’s fantasy with a distinctly fizz-wizzing flair."</blockquote>
+From the show announcement:
+> "Improvised stories inspired by Roald Dahl. British children’s fantasy with a distinctly fizz-wizzing flair."
 
-Long version from the [show page](http://www.hideouttheatre.com/shows/TheDahlHouse):<blockquote>This August, the Hideout brings you brand-new improvised plays inspired by childhood favorite Roald Dahl. The Dahl House takes the audience on an adventure through a world of brave children, horrid grown-ups, playful allies, and a marvelous array of animals, creatures, and thingamajigs.
 
-The world can be a scary and flamboozled place for the good-at-heart, but Roald Dahl has a wonderful way of showing us that goodness can prevail in the end, or at least stand up for itself.</blockquote>
+Long version from the [show page](http://www.hideouttheatre.com/shows/TheDahlHouse):
+> This August, the Hideout brings you brand-new improvised plays inspired by childhood favorite Roald Dahl. The Dahl House takes the audience on an adventure through a world of brave children, horrid grown-ups, playful allies, and a marvelous array of animals, creatures, and thingamajigs.
+> 
+> The world can be a scary and flamboozled place for the good-at-heart, but Roald Dahl has a wonderful way of showing us that goodness can prevail in the end, or at least stand up for itself.
+
 
 ## Media
 ### Photos

@@ -1,3 +1,7 @@
+---
+description: "An Austin improviser and the dean of the Merlin Works..."
+image: "File/Kevin%20Miller.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -10,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a>, <a class="internal-link" href="Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a>, <a class="internal-link" href="Theatres/Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -19,11 +23,11 @@
 	</table>
 </div>
 
-**Kevin Miller** is an Austin improviser and the dean of the [[Merlin Works Institute for Improvisation]]. He started improv on October 24, 2001, the morning after seeing his friend [[Performers/Andy Crouch|Andy Crouch]]'s graduation show at the [[Theatres/Hideout Theatre|Hideout Theatre]]. His first instructor was [[Performers/Shana Merlin|Shana Merlin]]. Kevin graduated from Level 3 at the Hideout on March 26, 2002 and became a member of [[Troupes/We Could Be Heroes|We Could Be Heroes]].
+**Kevin Miller** is an Austin improviser and the dean of the [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]]. He started improv on October 24, 2001, the morning after seeing his friend [[Performers/Andy Crouch|Andy Crouch]]'s graduation show at the [[Theatres/Hideout Theatre|Hideout Theatre]]. His first instructor was [[Performers/Shana Merlin|Shana Merlin]]. Kevin graduated from Level 3 at the Hideout on March 26, 2002 and became a member of [[Troupes/We Could Be Heroes|We Could Be Heroes]].
 
 Kevin took time off from improv starting in late 2004 to be a guide for Austin Ghost Tours. His time away continued through February 2009, when he participated in the Hideout Theatre 10th Anniversary show. He then played in the July 25, 2009 Maestro, and gradually rejoined the improv community from there. On March 6, 2011, Kevin successfully auditioned for [[Shows/False Matters|False Matters]], his first mainstage show after the long break.
 
-In 2012, Kevin joined [[Merlin Works]] as a TA and then instructor shortly before its move from Salvage Vanguard Theater to ZACH Theatre. On January 14, 2013, he taught his first solo class. In January 2015 he became the dean of the school, running its operations. He continues to teach there and is a member of the faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].
+In 2012, Kevin joined [[Theatres/Merlin Works|Merlin Works]] as a TA and then instructor shortly before its move from Salvage Vanguard Theater to ZACH Theatre. On January 14, 2013, he taught his first solo class. In January 2015 he became the dean of the school, running its operations. He continues to teach there and is a member of the faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].
 
 In June 2013, after initially suggesting it as a joke, Kevin joined his troupe [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]] at the Finland International Improv Festival. It is believed to be the farthest north that an AIC troupe has ever performed. The following year he returned to FIIF by himself. It was his first time teaching at a festival, and also the first of many festival appearances for his format [[Shows/History Under the Influence|History Under the Influence]]. Kevin retired the format in 2017 but continues to travel for improv.
 
@@ -31,13 +35,18 @@ In June 2013, after initially suggesting it as a joke, Kevin joined his troupe [
 In September 2011, Kevin went on a solo backpacking trip to Montana. In the weeks and months preceding the trip, [[Performers/Chuy Zarate|Chuy Zarate]]—an avowed indoorsman—expressed his confidence that Kevin would be eaten by a bear while hiking through the wilderness. Upon Kevin's return, Chuy adopted the theory that Kevin **had** been eaten by a bear, and was now actually a bear wearing Kevin Miller's skin as camouflage. The joke became strangely persistent, even among AIC members who had no idea as to its origin.
 
 ## History
-A post from him about the first improv show he ever saw:<blockquote><p>My first show was Freudian Slip in College Station on a weekend visit to A&M, circa 1998. They asked for a volunteer. I leapt onstage. It was a courtroom game; I was the defendant, and both lawyers left the room while the crowd decided on what I was being accused of. Then the lawyers returned and tried to determine what the case was while they tried it.</p> 
+A post from him about the first improv show he ever saw:
+> My first show was Freudian Slip in College Station on a weekend visit to A&M, circa 1998. They asked for a volunteer. I leapt onstage. It was a courtroom game; I was the defendant, and both lawyers left the room while the crowd decided on what I was being accused of. Then the lawyers returned and tried to determine what the case was while they tried it.
+>  
+> 
+> When the defense attorney started his opening statement, he said: "Ladies and gentlemen of the jury! The only thing this man is guilty of is a receding hairline!" (Insulting an audience volunteer? SERIOUSLY?) Of course I took it in stride, feigned despair, and crawled under my chair.
+>  
+> 
+> Show #2 was *[[Troupes/ComedySportz|ComedySportz]]* on the UT campus, circa 2000.
+>  
+> 
+> Show #3 was [[Performers/Andy Crouch|Andy]]'s graduation show, fall 2001. I started Level One with [[Performers/Shana Merlin|Shana]] the very next morning.
 
-<p>When the defense attorney started his opening statement, he said: "Ladies and gentlemen of the jury! The only thing this man is guilty of is a receding hairline!" (Insulting an audience volunteer? SERIOUSLY?) Of course I took it in stride, feigned despair, and crawled under my chair.</p> 
-
-<p>Show #2 was *[[Troupes/ComedySportz|ComedySportz]]* on the UT campus, circa 2000.</p> 
-
-Show #3 was [[Performers/Andy Crouch|Andy]]'s graduation show, fall 2001. I started Level One with [[Performers/Shana Merlin|Shana]] the very next morning.</blockquote>
 
 ## Troupes
 * [[Troupes/Foolish Mortals|Foolish Mortals]] (2003-2004)

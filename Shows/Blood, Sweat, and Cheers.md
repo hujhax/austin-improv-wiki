@@ -1,3 +1,7 @@
+---
+description: "|Run = May/Jun 2013."
+image: "File/Blood%2C%20Sweat%2C%20and%20Cheers%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

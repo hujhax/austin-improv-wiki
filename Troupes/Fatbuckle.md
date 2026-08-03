@@ -1,3 +1,7 @@
+---
+description: "|Years = 1997-2000."
+image: "File/Fatbuckle.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

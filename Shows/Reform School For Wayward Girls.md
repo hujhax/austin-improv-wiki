@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Reform%20School%20for%20Wayward%20Girls.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

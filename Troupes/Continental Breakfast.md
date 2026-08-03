@@ -1,3 +1,7 @@
+---
+description: "|Director = Michael Joplin."
+image: "File/Continental%20Breakfast.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

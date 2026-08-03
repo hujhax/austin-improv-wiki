@@ -1,3 +1,6 @@
+---
+description: "|Director = Chris Trew."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,11 +81,15 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Welcome! We're so glad you could make it to the party. Have a scotch and soda, a highball, or martini. Make yourself at home. Share a toast with your hosts Mr and Mrs Bossanova as they joke, sing, and dance their way into and out of hilarious situations. You'll never know who you'll meet at the Bossanova</p> 
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Welcome! We're so glad you could make it to the party. Have a scotch and soda, a highball, or martini. Make yourself at home. Share a toast with your hosts Mr and Mrs Bossanova as they joke, sing, and dance their way into and out of hilarious situations. You'll never know who you'll meet at the Bossanova
+>  
+> 
+> Cocktail Party!
+> 
+> 
+> Bossanova Cocktail Party is a 2 person sketch-prov variety show directed by Chris Trew. The show consists of music, props, and costumes bound together by cocktail-party-themed banter between the hosts and audience.
 
-<p>Cocktail Party!</p>
-
-<p>Bossanova Cocktail Party is a 2 person sketch-prov variety show directed by Chris Trew. The show consists of music, props, and costumes bound together by cocktail-party-themed banter between the hosts and audience.</p></blockquote>
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

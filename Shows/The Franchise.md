@@ -1,3 +1,7 @@
+---
+description: "Weekly improv showcase at The New Movement."
+image: "File/The%20Franchise.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

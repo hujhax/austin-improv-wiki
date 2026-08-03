@@ -1,3 +1,7 @@
+---
+description: "|Music =."
+image: "File/Boy%20Band.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

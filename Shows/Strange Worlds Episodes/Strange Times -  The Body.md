@@ -1,3 +1,6 @@
+---
+description: "This was the first \"Strange Times\" story from Strange Worlds."
+---
 This was the first "Strange Times" story from [[Shows/Strange Worlds|Strange Worlds]].  It was improvised on March 2nd, 2013. 
 
 ## Episode Summary

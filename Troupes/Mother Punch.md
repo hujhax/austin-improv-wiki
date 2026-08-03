@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Mother%20Punch.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>In Mother Punch Presents: Hollywouldn't, "Girl, Interrupted" could be a story about a girl going on a killing spree after being interrupted, and "Star Wars" about a teen's fight for opera stardom. That's because, in this show, an improviser will narrate an actual film he/she has never seen (suggested by the audience) while the other improvisers act it out. It's bound to be nothing like the real films -- and hilarious!</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> In Mother Punch Presents: Hollywouldn't, "Girl, Interrupted" could be a story about a girl going on a killing spree after being interrupted, and "Star Wars" about a teen's fight for opera stardom. That's because, in this show, an improviser will narrate an actual film he/she has never seen (suggested by the audience) while the other improvisers act it out. It's bound to be nothing like the real films -- and hilarious!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We all started playing together in level 3 at the hideout. Our format, Hollywouldn't was created after interesting interpretations of both Rocky IV and St. Elmo's fire during class breaks. We had so much fun playing with this in the free fringe we wanted to bring it back!</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We all started playing together in level 3 at the hideout. Our format, Hollywouldn't was created after interesting interpretations of both Rocky IV and St. Elmo's fire during class breaks. We had so much fun playing with this in the free fringe we wanted to bring it back!
+
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/motherpunch512)

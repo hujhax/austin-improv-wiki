@@ -1,3 +1,7 @@
+---
+description: "An improv performer, director, and teacher."
+image: "File/Troy%20Miller%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

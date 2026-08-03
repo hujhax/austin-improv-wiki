@@ -1,3 +1,7 @@
+---
+description: "(née Lauren Zinn) is an improv performer, director, and teacher."
+image: "File/Lauren%20Buck%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Lauren Buck** (née **Lauren Zinn**) is an improv performer, director, and teacher.
 
 ## History
-Lauren was a company member of [[Gnap! Theater Projects]].
+Lauren was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 ## Troupes
 * [[Troupes/Blink|Blink]]

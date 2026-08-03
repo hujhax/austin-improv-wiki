@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="NiceAstro-2011Lineup.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

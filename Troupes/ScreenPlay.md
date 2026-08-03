@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014."
+image: "File/ScreenPlay.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,16 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Combine the visual vocabulary of film with the drawn out character dynamics of theater. Clifton Highfield and Asaf Ronen are fans of both and rather than have to choose between them are performing this mash-up that speeds up and slows down as the story requires it to.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Combine the visual vocabulary of film with the drawn out character dynamics of theater. Clifton Highfield and Asaf Ronen are fans of both and rather than have to choose between them are performing this mash-up that speeds up and slows down as the story requires it to.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Clif and I do a mix of the improvised movie and the improvised play format. We've performed it a few times at The Institution under the name Two-Man Movie/Play because it was part of a larger show. We hate that name. 
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Clif and I do a mix of the improvised movie and the improvised play format. We've performed it a few times at The Institution under the name Two-Man Movie/Play because it was part of a larger show. We hate that name. 
+> 
+> Anyway, the idea is that we use all the cinematic techniques to transition us between drawn out character scenes. Sarah Marie has been coaching us. We'd like to perform this more.
 
-Anyway, the idea is that we use all the cinematic techniques to transition us between drawn out character scenes. Sarah Marie has been coaching us. We'd like to perform this more.</blockquote>
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

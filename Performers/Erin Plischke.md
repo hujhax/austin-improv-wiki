@@ -1,3 +1,7 @@
+---
+description: "An improv performer who was a cofounder of Tight."
+image: "File/Erin%20Plischke%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

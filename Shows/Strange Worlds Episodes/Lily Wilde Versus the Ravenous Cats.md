@@ -1,3 +1,6 @@
+---
+description: "This was the first Strange Worlds story about Lily Wilde,..."
+---
 This was the first [[Shows/Strange Worlds|Strange Worlds]] story about Lily Wilde, Jungle Professor.  It was improvised on March 30th, 2013. 
 
 ## Episode Summary

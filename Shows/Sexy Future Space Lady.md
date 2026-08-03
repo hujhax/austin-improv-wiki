@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/sexyfuturespacelady.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

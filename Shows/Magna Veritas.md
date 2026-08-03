@@ -1,3 +1,7 @@
+---
+description: "|Run = Sep-Dec 2011."
+image: "File/MagnaVeritas.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -18,7 +22,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -85,13 +89,13 @@
 **Magna Veritas** was an improv show.
 
 ## Summary
-Magna Veritas was a monthly show put on by [[Gnap! Theater Projects]] that ran for four performances, from September to December 2011. The show, inspired by the French roleplaying game In Nomine Satanis/Magna Veritas, cast the players as angels and demons battling for the soul of humanity.
+Magna Veritas was a monthly show put on by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] that ran for four performances, from September to December 2011. The show, inspired by the French roleplaying game In Nomine Satanis/Magna Veritas, cast the players as angels and demons battling for the soul of humanity.
 
 ## Format
 Two "supernatural" characters were pre-selected prior to each show, one angelic, one demonic. The remainder of the cast mainly played humans or minor supernatural figures. The show took the form of a single narrative which pitted the two supernatural forces against each other, usually revolving around tropes found in such religious/apocalyptic fiction as *The Omen*, *Left Behind*, or *Good Omens*.
 
 ## Scheduling
-*Magna Veritas* represented something of an experiment for Gnap! scheduling, intended to build a show by a conventional rehearsal process and then a run spread out over an extended period of time. The show was slotted at 10pm on one Saturday a month, in a 45-minute time slot. The bill was shared with a [[Merlin Works]] troupe or other local troupe.
+*Magna Veritas* represented something of an experiment for Gnap! scheduling, intended to build a show by a conventional rehearsal process and then a run spread out over an extended period of time. The show was slotted at 10pm on one Saturday a month, in a 45-minute time slot. The bill was shared with a [[Theatres/Merlin Works|Merlin Works]] troupe or other local troupe.
 
 ## Media
 ### Photos

@@ -1,3 +1,6 @@
+---
+description: "|Theater = The Institution Theater."
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

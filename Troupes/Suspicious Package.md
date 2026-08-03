@@ -1,3 +1,6 @@
+---
+description: "|Years = 2007-2009."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +77,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>2-person improv revolving around character monologues</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> 2-person improv revolving around character monologues
+
 
 ## History
 The duo premiered on 8/9/07.

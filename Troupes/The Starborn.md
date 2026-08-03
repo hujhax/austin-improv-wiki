@@ -1,3 +1,7 @@
+---
+description: "|Crew =."
+image: "File/TheStarborn.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "(formerly The Sunday Showcase) is a performance slot at The..."
+image: "File/Weekender%20Publicity.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "An improv performer, singer, musician, and technical improvisor."
+image: "File/Adriane%20Shown%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

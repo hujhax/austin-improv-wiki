@@ -1,3 +1,7 @@
+---
+description: "|Run = Apr 2007."
+image: "File/Vinyl%20Destination.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -86,7 +90,8 @@
 
 ## Summary
 ### Press Blurb
-<blockquote>Set in a record store, Vinyl Destination follows the fortunes of a diverse group of employees who can't agree on anything about music except that it sounds better on black wax. Although the same rotating cast of characters will populate the show each week, every show will be completely improvised -- including the songs and music that underscore their lives, performed onstage by the cast throughout each performance.</blockquote> 
+> Set in a record store, Vinyl Destination follows the fortunes of a diverse group of employees who can't agree on anything about music except that it sounds better on black wax. Although the same rotating cast of characters will populate the show each week, every show will be completely improvised -- including the songs and music that underscore their lives, performed onstage by the cast throughout each performance.
+ 
 
 ## History
 The show was subsequently brought back for [[Festivals/The 2007 Out of Bounds Comedy Festival|The 2007 Out of Bounds Comedy Festival]].

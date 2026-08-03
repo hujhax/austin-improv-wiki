@@ -1,3 +1,7 @@
+---
+description: "An improviser and the Director of Education for The Hideout..."
+image: "File/Andy%20Crouch.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -26,7 +30,10 @@
 **Andy Crouch** is an improviser and the Director of Education for [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-A post from him about the first improv show he ever saw:<blockquote><p>I think mine was actually a [[Troupes/Monks' Night Out|Monks' Night Out]] show at The Bad Dog Theater in the spring of 2001. I was taking the world's worst Improv for Non Majors class in the theater department at UT and we were supposed to go see shows during the semester. As awful as the class was, that show was fun, and then the ones I saw at the Hideout around the same time (*[[Shows/TheatreSports|TheatreSports]]*, *[[Shows/Maestro|Maestro]]*, and *[[Shows/Six Degrees|Six Degrees]]*) got me hooked for good.</p> </blockquote>
+A post from him about the first improv show he ever saw:
+> I think mine was actually a [[Troupes/Monks' Night Out|Monks' Night Out]] show at The Bad Dog Theater in the spring of 2001. I was taking the world's worst Improv for Non Majors class in the theater department at UT and we were supposed to go see shows during the semester. As awful as the class was, that show was fun, and then the ones I saw at the Hideout around the same time (*[[Shows/TheatreSports|TheatreSports]]*, *[[Shows/Maestro|Maestro]]*, and *[[Shows/Six Degrees|Six Degrees]]*) got me hooked for good.
+>  
+
 
 ## Troupes
 * [[Troupes/Ed 32|Ed 32]]

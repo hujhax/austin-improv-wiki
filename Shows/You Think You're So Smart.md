@@ -1,3 +1,7 @@
+---
+description: "|Theater = The Institution Theater."
+image: "File/You%20Think%20You%27re%20So%20Smart%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

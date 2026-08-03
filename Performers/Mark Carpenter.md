@@ -1,3 +1,7 @@
+---
+description: "An improv performer and instructor who works primarily with The..."
+image: "File/Mark%20Carpenter%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

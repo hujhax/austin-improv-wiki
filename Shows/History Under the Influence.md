@@ -1,3 +1,7 @@
+---
+description: "|Director = Kevin Miller."
+image: "File/History%20Under%20the%20Influence%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

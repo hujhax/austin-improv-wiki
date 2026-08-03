@@ -1,3 +1,7 @@
+---
+description: "The first annual Institution Theater Awards."
+image: "File/TITie2013.jpg"
+---
 **The 2013 Institution Theater Awards** were the first annual [[Institution Theater Awards]].
 
 ![[TITie2013.jpg|[There's Waldo](Troupes/There's%20Waldo) presents an award at The 2013 Institution Theater Awards.]]

@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

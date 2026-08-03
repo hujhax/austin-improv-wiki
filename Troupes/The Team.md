@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-Present."
+image: "File/The%20Team.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,17 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Balancing grounded scene work with wildly physical play, The Team's sharp-witted cast is always eager to support whatever strange, darkly-funny, or dangerous idea is on the table. There's little hesitation, so the Team often find themselves in scenes playing fantastical or creepy characters, often stuck in physically uncomfortable positions. But these guys boost every move with an infectious energy that lights up audiences from their unique opening sequences to their exhilarating finales.</p>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Balancing grounded scene work with wildly physical play, The Team's sharp-witted cast is always eager to support whatever strange, darkly-funny, or dangerous idea is on the table. There's little hesitation, so the Team often find themselves in scenes playing fantastical or creepy characters, often stuck in physically uncomfortable positions. But these guys boost every move with an infectious energy that lights up audiences from their unique opening sequences to their exhilarating finales.
+> 
+> 
+> The Team is an improv quartet constructed of Danny Catlow, David Hess, [[Performers/Joshua Krilov|Joshua Krilov]], and [[Performers/Kyle Sweeney|Kyle Sweeney]]. The Team was awarded Coldtowne Theater's Best New Troupe (2011).
 
-<p>The Team is an improv quartet constructed of Danny Catlow, David Hess, [[Performers/Joshua Krilov|Joshua Krilov]], and [[Performers/Kyle Sweeney|Kyle Sweeney]]. The Team was awarded Coldtowne Theater's Best New Troupe (2011).</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Suggestion, Lights Up, Lights Down. That's all.  We'll get a suggestion. Perform a silent scene with one person (supported from the sides). Then launch into a run of scenes taking/deconstructing elements provided in the silent scene. These scenes typically recur in some way as the show takes shape (via characters, theme, plot and beyond). New scenes can also be presented if further inspirations strikes. Typically the show tends to get more and more physical, big, and absurd. Light Out on a huge laugh.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Suggestion, Lights Up, Lights Down. That's all.  We'll get a suggestion. Perform a silent scene with one person (supported from the sides). Then launch into a run of scenes taking/deconstructing elements provided in the silent scene. These scenes typically recur in some way as the show takes shape (via characters, theme, plot and beyond). New scenes can also be presented if further inspirations strikes. Typically the show tends to get more and more physical, big, and absurd. Light Out on a huge laugh.
+
 
 ## Media
 ### Videos

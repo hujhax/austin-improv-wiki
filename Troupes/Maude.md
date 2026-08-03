@@ -1,3 +1,6 @@
+---
+description: "|Director = Liz Brammer."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

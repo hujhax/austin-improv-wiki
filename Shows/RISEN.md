@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Risen.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

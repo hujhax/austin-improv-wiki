@@ -1,3 +1,7 @@
+---
+description: "|Run = August 2015."
+image: "File/Close%20Up.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -196,7 +200,9 @@ Each show opened with the cast forming a tableau.  Then the directors would ask 
 The show tended towards the whimsical.  (Example: one performance featured Jenna Howard as Barack Obama and [[Performers/Kenny Madison|Kenny Madison]] as Joe Biden.)  Its pace varied, slowing down with extended monologs, but speeding up for quick pop-outs within scenes.  It had a fairly minimal visual style, with straightforward lighting changes for cueing monologs, and a basic black/white/gray costume palette with accent colors.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>"A comedic narrative in the style of single-camera comedies like *The Office*, *Parks and Recreation*, and *Modern Family*, as well as borrowing from mockumentaries like *Best in Show*."</blockquote>
+From the show announcement:
+> "A comedic narrative in the style of single-camera comedies like *The Office*, *Parks and Recreation*, and *Modern Family*, as well as borrowing from mockumentaries like *Best in Show*."
+
 
 ## Media
 ### Photos

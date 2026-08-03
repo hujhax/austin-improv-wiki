@@ -1,3 +1,6 @@
+---
+description: "Lance Hunter is an improviser and stand-up."
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -32,7 +32,10 @@ export default (() => {
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    const pageImage = fileData.frontmatter?.image as string | undefined
+    const ogImagePath = pageImage
+      ? (pageImage.startsWith("http") ? pageImage : `https://${cfg.baseUrl}/${pageImage}`)
+      : null
 
     const coreStylesheet = css[0]?.content
     const coreScript = js.find(
@@ -69,14 +72,14 @@ export default (() => {
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
 
-        {!usesCustomOgImage && (
+        {!usesCustomOgImage && ogImagePath && (
           <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
+            <meta property="og:image" content={ogImagePath} />
+            <meta property="og:image:url" content={ogImagePath} />
+            <meta name="twitter:image" content={ogImagePath} />
             <meta
               property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+              content={`image/${getFileExtension(ogImagePath) ?? "png"}`}
             />
           </>
         )}

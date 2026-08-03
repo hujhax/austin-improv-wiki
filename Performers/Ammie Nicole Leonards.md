@@ -1,3 +1,7 @@
+---
+description: "An actress."
+image: "File/Ammie%20Nicole%20Leonards%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

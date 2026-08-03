@@ -1,1 +1,4 @@
+---
+description: "Austin Improviser trained at the New Movement theater."
+---
 Austin Improviser trained at the New Movement theater. He does Sketch Improv and Podcasting in Austin. He performs shows with Chris Kyle: American Improvisers, Subject 2 Change, Starla and The Megaphone Show. He coaches improv as well with 2 troupes, Dusty Fingers and The Panel Show. His sketch group, Loyle Comedy, performs monthly at the New Movement, and his weekly podcast "The Watson" talks in depth on television.

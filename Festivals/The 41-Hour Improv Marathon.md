@@ -1,3 +1,6 @@
+---
+description: "Second annual Hideout Improv Marathon."
+---
 **The 41-Hour Improv Marathon** was the second annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It was performed from 6/4/2010 to 6/6/2010.
 
 ## Core Players

@@ -1,3 +1,6 @@
+---
+description: "This list of Hideout Shows includes all the shows that..."
+---
 <noinclude>This **list of Hideout Shows** includes all the shows that have run at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 </noinclude>=== Shows That Are Currently Running ===

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-2013."
+image: "File/The%20Super%20Troopers.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,17 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>New group in town featuring fresh new faces eager to rock your world or die trying.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> New group in town featuring fresh new faces eager to rock your world or die trying.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We do montages mostly, occasionally the Harold.</p> 
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do montages mostly, occasionally the Harold.
+>  
+> 
+> We love finding the game and focusing on relationships.
 
-<p>We love finding the game and focusing on relationships.</p></blockquote>
 
 ## History
 They played in the *[[Shows/Cagematch|Cagematch]]* on 12/12/12 and 1/9/13.

@@ -1,3 +1,7 @@
+---
+description: "Three-act improv night headlined by iScream Sandwich."
+image: "File/The%20Triple%20Scoop.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

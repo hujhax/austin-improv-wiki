@@ -1,3 +1,7 @@
+---
+description: "An improviser that can be found regularly playing at ColdTowne..."
+image: "File/123%201006661697184%207424%20n.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2014."
+image: "File/Lucy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,18 +78,26 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Bound together in early spring of 2011, Sheila, Stephanie, Adam, Atticus and Henry have quickly developed into a tight-knit, open-minded group of improvisers who support the crap out of anything and everything that happens on the stage.</p> 
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Bound together in early spring of 2011, Sheila, Stephanie, Adam, Atticus and Henry have quickly developed into a tight-knit, open-minded group of improvisers who support the crap out of anything and everything that happens on the stage.
+>  
+> 
+> High energy, relationship driven scenes with explosive wackiness thrown in shape the backbone of their free flowing sets.
+>  
+> 
+> You can basically just think of us as the Oasis of the improv world, including the dodgy foreign accents....
+>  
+> 
+> So if you like to party, fill your red Dixie cup with the delightfully intoxicating essence that is Lucy, and spread-o the love around.
+>  
+> 
+> Party.
 
-<p>High energy, relationship driven scenes with explosive wackiness thrown in shape the backbone of their free flowing sets.</p> 
-
-<p>You can basically just think of us as the Oasis of the improv world, including the dodgy foreign accents....</p> 
-
-<p>So if you like to party, fill your red Dixie cup with the delightfully intoxicating essence that is Lucy, and spread-o the love around.</p> 
-
-<p>Party.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>So Lucy starts off the set by doing 5-7 quick scenes (4 lines or so similar the to Doctor Doctor warm up game) and then begin the piece. We don't do sweep edits - mainly french edits with one scene morphing into the next at times. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> So Lucy starts off the set by doing 5-7 quick scenes (4 lines or so similar the to Doctor Doctor warm up game) and then begin the piece. We don't do sweep edits - mainly french edits with one scene morphing into the next at times. 
+
 
 ## Media
 ### Photos

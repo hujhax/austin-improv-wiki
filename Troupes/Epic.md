@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-Present."
+image: "File/Epic.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,11 +78,13 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>EPIC! is an episodic theatrical experience that will bring the joy of old school role playing games such as Dungeons & Dragons to the stage.
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> EPIC! is an episodic theatrical experience that will bring the joy of old school role playing games such as Dungeons & Dragons to the stage.
+> 
+> We will send a special guest hero on an improvised adventure - which will be fun to watch for both hardcore tabletop geeks and role-playing virgins alike.
+> 
+> Our cast will provide the inhabitants of the game world - heroes, villains, monsters and scenery. There will be costumes, stage settings, exciting battles, dice rolling and lots of audience interaction.
 
-We will send a special guest hero on an improvised adventure - which will be fun to watch for both hardcore tabletop geeks and role-playing virgins alike.
-
-Our cast will provide the inhabitants of the game world - heroes, villains, monsters and scenery. There will be costumes, stage settings, exciting battles, dice rolling and lots of audience interaction.</blockquote>
 
 ## Media
 ### Photos

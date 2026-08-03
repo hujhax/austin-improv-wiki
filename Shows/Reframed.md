@@ -1,3 +1,7 @@
+---
+description: "|Music = Content Love Knowles."
+image: "File/Reframed.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

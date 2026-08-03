@@ -1,3 +1,7 @@
+---
+description: "|Run = Aug/Sep 2013."
+image: "File/The%20ReSet%20Project.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -86,8 +90,10 @@
 
 ## Summary
 ### Press Blurb
-<blockquote><p>"The life you've lived is only the first draft."</p>
-<p>What if you could take a point in your life and reset it? *The ReSet Project* brings together eight older improv actors to reflect on their lives and share true stories of crucial crossroads from their past. The resulting improvised fantasy and fantastical tales is a theater piece infused with authenticity, playfulness and intimacy.</p></blockquote>
+> "The life you've lived is only the first draft."
+> 
+> What if you could take a point in your life and reset it? *The ReSet Project* brings together eight older improv actors to reflect on their lives and share true stories of crucial crossroads from their past. The resulting improvised fantasy and fantastical tales is a theater piece infused with authenticity, playfulness and intimacy.
+
 
 ## History
 ### Performance Dates

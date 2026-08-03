@@ -1,3 +1,6 @@
+---
+description: "Tenth annual WaffleFest."
+---
 **WaffleFest 2011** was the tenth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

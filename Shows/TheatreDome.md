@@ -1,3 +1,7 @@
+---
+description: "Cagematch-style performance slot at The Hideout Theatre."
+image: "File/theatredome.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

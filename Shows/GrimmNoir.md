@@ -1,3 +1,7 @@
+---
+description: "| Tech =."
+image: "File/GrimmNoir.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -190,11 +194,15 @@
 *GrimmNoir* is a narrative longform show takes place in a world that combines gritty, classic film noir with the fantasy world of fairy tales.  It features a grizzled, old-school private eye who investigates a couple of 'cases' (i.e., classic fairy tales) in that world of 'noir fantasy'.
 
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>With fairy tale shows such as "Wicked" and "Into the Woods" being Broadway and touring hits, and the Noir style being popular both as a movie and play genre, our concept highlights what makes both genres special.</p>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> With fairy tale shows such as "Wicked" and "Into the Woods" being Broadway and touring hits, and the Noir style being popular both as a movie and play genre, our concept highlights what makes both genres special.
+> 
+> 
+> It brings a gritty theme into what would normally be the fantasy world of the fairy tale. What would the story of Humpty Dumpty look like if it were not an accident but a murder? How about the domestic like of "Peter, Peter, Pumpkin Eater" who sequestered his wife in some isolated place because their relationship went sour? Or what was the real reason the Wolf kept destroying the Pigs' homes?
+> 
+> 
+> In our play you get more of the "why" behind certain character motives and that could create a fuller plot and experience for the audience.
 
-<p>It brings a gritty theme into what would normally be the fantasy world of the fairy tale. What would the story of Humpty Dumpty look like if it were not an accident but a murder? How about the domestic like of "Peter, Peter, Pumpkin Eater" who sequestered his wife in some isolated place because their relationship went sour? Or what was the real reason the Wolf kept destroying the Pigs' homes?</p>
-
-<p>In our play you get more of the "why" behind certain character motives and that could create a fuller plot and experience for the audience.</p></blockquote>
 
 ## History
 The show premiered as a *[[Shows/Free Fringe|Free Fringe]]* on 2/2/12.  It then went on to a number of one-off performances that year, including [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].

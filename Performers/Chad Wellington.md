@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Chad%20Wellington%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -75,7 +79,9 @@
 ## History
 Chad began taking improv classes in June 2010.
 
-A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with special guest Joel Watson of HijinksEnsue, 10/23/09.  The one protagonist had a wombat theme, the other some sort of radioactive Mario knockoff. Fighting the Twittler. Good times.</blockquote>
+A post from him about the first improv show he ever saw:
+> Ka-Baam with special guest Joel Watson of HijinksEnsue, 10/23/09.  The one protagonist had a wombat theme, the other some sort of radioactive Mario knockoff. Fighting the Twittler. Good times.
+
 
 ## Troupes
 * [[Troupes/Apocalypse (troupe)|Apocalypse]]

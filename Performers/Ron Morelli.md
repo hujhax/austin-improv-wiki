@@ -1,3 +1,7 @@
+---
+description: "An improviser and sketch writer/performer."
+image: "File/RonMorelli.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

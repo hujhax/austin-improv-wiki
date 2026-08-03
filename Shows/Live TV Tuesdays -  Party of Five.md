@@ -1,3 +1,7 @@
+---
+description: "|Run = Aug 2011."
+image: "File/Live%20TV%20Tuesdays%20-%20Party%20of%20Five.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

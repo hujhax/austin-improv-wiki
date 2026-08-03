@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"Pages incorrectly using the quote template\"."
+---
 ## Pages in category "Pages incorrectly using the quote template"
 
 * [[Template/Quote|Quote]]

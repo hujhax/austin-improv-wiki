@@ -1,3 +1,7 @@
+---
+description: "An improviser, stand up comic, actor, and sketch writer/performer."
+image: "File/ChristinaParrish.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

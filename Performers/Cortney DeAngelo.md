@@ -1,3 +1,7 @@
+---
+description: "An improv performer and technical improvisor."
+image: "File/Cortney%20DeAngelo%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,9 @@
 **Cortney DeAngelo** is an improv performer and technical improvisor.
 
 ## History
-A post from her about the first improv show she ever saw:<blockquote>I was actually *in* the very first improv show I ever saw... Now, to be fair, the original *[[Troupes/Epic|Epic]]* was partially scripted, but only to the point of: Here's a Start; and; Here's an End; and how you get there is your business. I'd never had to come up with things to say on the spot, or figure how to get the conversation where I needed it to go on the fly. I was completely in awe of the people who could do smoothly, like [[Performers/Andreas Fabis|Andreas]]; and when I met [[Performers/Brad Hawkins|Brad]] and [[Performers/Leng Wong|Leng]]... things really took off. It was only after that, that I learned there was such a thing as "Improv Classes" and other shows that exist in this realm. Really, I got into this whole wonderful crazy fulfilling medium; entirely backwards. And I'm so glad I did.</blockquote>
+A post from her about the first improv show she ever saw:
+> I was actually *in* the very first improv show I ever saw... Now, to be fair, the original *[[Troupes/Epic|Epic]]* was partially scripted, but only to the point of: Here's a Start; and; Here's an End; and how you get there is your business. I'd never had to come up with things to say on the spot, or figure how to get the conversation where I needed it to go on the fly. I was completely in awe of the people who could do smoothly, like [[Performers/Andreas Fabis|Andreas]]; and when I met [[Performers/Brad Hawkins|Brad]] and [[Performers/Leng Wong|Leng]]... things really took off. It was only after that, that I learned there was such a thing as "Improv Classes" and other shows that exist in this realm. Really, I got into this whole wonderful crazy fulfilling medium; entirely backwards. And I'm so glad I did.
+
 
 ## Shows
 * *[[Shows/After School Improv|After School Improv]]* (tech, 2012)

@@ -1,3 +1,6 @@
+---
+description: "Second annual Institution Theater Awards."
+---
 **The 2014 Institution Theater Awards** was the second annual [[Institution Theater Awards]].
 
 ## Summary

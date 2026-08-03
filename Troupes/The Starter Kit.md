@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-2011."
+image: "File/The%20Starter%20Kit%20logo.jpeg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

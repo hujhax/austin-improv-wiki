@@ -1,3 +1,7 @@
+---
+description: "|Music Director = Tosin Awofeso."
+image: "File/Immigrants.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

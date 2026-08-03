@@ -1,3 +1,7 @@
+---
+description: "(AKA Courtney Salinas) is an improv performer."
+image: "File/Courtney%20Hopkin%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Courtney Hopkin** (AKA **Courtney Salinas**) is an improv performer.  She handles public relations for [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of creating publicity images for the group.
+Courtney Hopkin was a member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]], and was in charge of creating publicity images for the group.
 
 ## Troupes
 * [[Shows/False Matters|False Matters]]

@@ -1,3 +1,7 @@
+---
+description: "|Director = Sara Farr."
+image: "File/Crack%21.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -19,7 +23,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></li><!--
   --><li style=""><a class="internal-link" href="The Puppet Improv Project">The Puppet Improv Project</a></li><!--
   --><!--
   --><!--

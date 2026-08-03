@@ -1,3 +1,7 @@
+---
+description: "An improv double-bill that ran Saturday nights at Salvage Vanguard..."
+image: "File/The%20Saturday%20Night%20Special%20Publicity.gif"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -18,7 +22,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -39,7 +43,7 @@ The acts were scheduled by [[Performers/Shannon McCormick|Shannon McCormick]].
 Often, a single act would open a month of shows.
 
 ## History
-The first *Saturday Night Special* happened on 3/8/08.  It started out running on the second and fourth Saturdays of each month at 10:30pm.  Then the following February, [[Gnap! Theater Projects]] restructured its schedule, expanding to include 8pm and 10pm shows on both Friday and Saturday.  At that point, *The Saturday Night Special* became a weekly show that ran every Saturday at 10pm.
+The first *Saturday Night Special* happened on 3/8/08.  It started out running on the second and fourth Saturdays of each month at 10:30pm.  Then the following February, [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] restructured its schedule, expanding to include 8pm and 10pm shows on both Friday and Saturday.  At that point, *The Saturday Night Special* became a weekly show that ran every Saturday at 10pm.
 
 On Dec. 19, 2009 there was a wedding proposal on stage during the Saturday Night Special. One of the troupe members of Hugaday proposed to his then girlfriend. She said yes.
 

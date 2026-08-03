@@ -1,3 +1,7 @@
+---
+description: "Timothy (Tim) Coyle is an improv performer and member of..."
+image: "File/timcoyle.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

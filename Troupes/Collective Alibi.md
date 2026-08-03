@@ -1,3 +1,7 @@
+---
+description: "|Director = Adam Trabka."
+image: "File/Collective%20Alibi.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,10 +82,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Collective Alibi, the latest [[Theatres/ColdTowne|ColdTowne]] Conservatory Production, presents the classic NYC Improv Format: The Evente. The Evente is a show that examines a group of disparate people thrown together for a particular event and then jumps back in time to see what molded these people into what they are today. The show concludes by returning to the original event where we see how everything comes to a head. Think ABC's *LOST*, but a comedy.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Collective Alibi, the latest [[Theatres/ColdTowne|ColdTowne]] Conservatory Production, presents the classic NYC Improv Format: The Evente. The Evente is a show that examines a group of disparate people thrown together for a particular event and then jumps back in time to see what molded these people into what they are today. The show concludes by returning to the original event where we see how everything comes to a head. Think ABC's *LOST*, but a comedy.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Collective Alibi is the latest ColdTowne Conservatory Production and is directed by Adam Trabka of Bad Boys. Our troupe performs The Evente, an improv format that takes a peek at a group of disparate people thrown together for a suggestion-inspired event before going back in time to see what molded these people into what they are today. The show concludes by returning to the original event where we see how everything comes to a head.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Collective Alibi is the latest ColdTowne Conservatory Production and is directed by Adam Trabka of Bad Boys. Our troupe performs The Evente, an improv format that takes a peek at a group of disparate people thrown together for a suggestion-inspired event before going back in time to see what molded these people into what they are today. The show concludes by returning to the original event where we see how everything comes to a head.
+
 
 ## Media
 ### Photo

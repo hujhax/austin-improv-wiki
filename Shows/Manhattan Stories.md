@@ -1,3 +1,7 @@
+---
+description: "|Theater = The Hideout Theatre."
+image: "File/Manhattan-stories.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

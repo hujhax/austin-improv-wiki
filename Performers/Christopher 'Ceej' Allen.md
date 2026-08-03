@@ -1,3 +1,7 @@
+---
+description: "An Austin improviser."
+image: "File/Ceej.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -26,16 +30,23 @@
 ## History
 Ceej was a core cast member of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
-A post from him about the first improv show he ever saw:<blockquote><p>I know it was a Micetro (as it was originally spelled). But I saw a few in a couple months...so my memory may trick me...</p> 
+A post from him about the first improv show he ever saw:
+> I know it was a Micetro (as it was originally spelled). But I saw a few in a couple months...so my memory may trick me...
+>  
+> 
+> But kevin Miller, Rene Pinnell, Bob Apthorpe and Andrea Young were in a show I remember.
+>  
+> 
+> Kevin did Demon Voice very well. Got a five. since then, I've done several Demon Voices.
+>  
+> 
+> Andrea had a solo scene where she had to play herself and her dad and I think it was her first solo scene. 
+> I could tell she was nervous, but I loved that she played the scene anyway.
+>  
+> 
+> Bob...and I think Andrea had a school principal's office scene...I loved it!
+>  
 
-<p>But kevin Miller, Rene Pinnell, Bob Apthorpe and Andrea Young were in a show I remember.</p> 
-
-<p>Kevin did Demon Voice very well. Got a five. since then, I've done several Demon Voices.</p> 
-
-<p>Andrea had a solo scene where she had to play herself and her dad and I think it was her first solo scene. 
-I could tell she was nervous, but I loved that she played the scene anyway.</p> 
-
-<p>Bob...and I think Andrea had a school principal's office scene...I loved it!</p> </blockquote>
 
 ## Troupes
 * [[Troupes/Confidence Men|Confidence Men]]

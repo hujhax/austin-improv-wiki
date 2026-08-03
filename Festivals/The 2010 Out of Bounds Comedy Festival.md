@@ -1,3 +1,6 @@
+---
+description: "Ninth annual Out of Bounds Comedy Festival."
+---
 **The 2010 Out of Bounds Comedy Festival** was the ninth annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Summary

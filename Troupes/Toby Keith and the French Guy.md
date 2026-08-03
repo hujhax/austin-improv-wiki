@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2013."
+image: "File/Toby%20Keith%20and%20the%20French%20Guy.gif"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,16 +78,23 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>One is a famous country singer. The other is a French guy.</p>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> One is a famous country singer. The other is a French guy.
+> 
+> 
+> One is a beer drinking everyman. The other is a French guy.
+> 
+> 
+> One is a pickup truck driving, flag waving patriot. The other is a French guy.
+> 
+> 
+> What happens when this mismatched pair are forced to team up? Watch for yourself in the hottest new sitcom of the fall - "Toby Keith and the French Guy."
 
-<p>One is a beer drinking everyman. The other is a French guy.</p>
-
-<p>One is a pickup truck driving, flag waving patriot. The other is a French guy.</p>
-
-<p>What happens when this mismatched pair are forced to team up? Watch for yourself in the hottest new sitcom of the fall - "Toby Keith and the French Guy."</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Two person sitcom format that features the adventures of Toby Keith and a French guy.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Two person sitcom format that features the adventures of Toby Keith and a French guy.
+
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/tktfg)

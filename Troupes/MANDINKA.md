@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-Present."
+image: "File/Mandinka.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,7 +82,9 @@ The pair perform character-driven "mono-pop" shows with a focus on pacing, heigh
 ## History
 After being thrown together as inaugural members of [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]], they decided to form their own duo troupe in late 2012. Their debut show was on December 6, 2012, as part of the [[Shows/Thursday Threefer|Thursday Threefer]] at [[Theatres/The Hideout Theater|The Hideout Theater]]. Since then, Mandinka has performed at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], [[Theatres/The Institution Theater|The Institution Theater]], and at [[Theatres/Coldtowne Theater|Coldtowne Theater]] (as part of the inaugural Duo [[Shows/Cagematch|Cagematch]] tournament).
 
-Here is [[Performers/Andrew Buck|Andrew Buck]]'s explanation of the name's origin:<blockquote>Mandinka is named Mandinka because the song "Mandinka" popped up on my Pandora "Simply Red" station while sitting around thinking up potential troupe names. It's a pretty kick-ass representation of early-90s Eurotrash pop music by Ms. Sinead O'Connor. And it kind of contains the names of its two members: "Mia" and "Andy." </blockquote>
+Here is [[Performers/Andrew Buck|Andrew Buck]]'s explanation of the name's origin:
+> Mandinka is named Mandinka because the song "Mandinka" popped up on my Pandora "Simply Red" station while sitting around thinking up potential troupe names. It's a pretty kick-ass representation of early-90s Eurotrash pop music by Ms. Sinead O'Connor. And it kind of contains the names of its two members: "Mia" and "Andy." 
+
 
 ## Media
 ### Videos

@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with The Institution Theater."
+image: "File/Adam%20Mengesha%20Headshot.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

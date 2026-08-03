@@ -1,3 +1,7 @@
+---
+description: "|Run = Jun/Jul 2012."
+image: "File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

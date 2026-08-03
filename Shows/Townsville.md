@@ -1,3 +1,7 @@
+---
+description: "|Cast = Varies."
+image: "File/Townsville-duoposter1.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

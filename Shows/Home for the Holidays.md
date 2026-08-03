@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/I%27ll%20Be%20Home%20for%20Christmas.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -141,7 +145,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>"In *I'll Be Home for Christmas*, the holidays are happening whether you make it home or not.  This is the classic story of someone trying to make it home for the holidays, and all the wacky misadventures and interesting characters they meet along the way."</blockquote>
+From the show announcement:
+> "In *I'll Be Home for Christmas*, the holidays are happening whether you make it home or not.  This is the classic story of someone trying to make it home for the holidays, and all the wacky misadventures and interesting characters they meet along the way."
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.

@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"The Institution Theater\"."
+---
 ## Pages in category "The Institution Theater"
 
 * [[Shows/Booker and a Buddy|Booker and a Buddy]]

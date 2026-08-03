@@ -1,3 +1,7 @@
+---
+description: "An active improviser, primarily performing at The Hideout Theatre."
+image: "File/marcjalandoon.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -26,18 +30,22 @@ Marc began taking improvisation classes at [[Theatres/The Hideout Theatre|The Hi
 
 A post from him about why he chose to begin improvising:
 
-<blockquote>
-<p>
-My first experience watching improvised theater was at a Maestro show possibly a couple of years ago or so; of what I can remember now, the thing that stood out to me the most was a (relatively, for his ego's sake) good-looking dude basically spend the entire show making people laugh and kissing people, and I remember thinking to myself, "Man, those two things sound like fun, and I feel like I'm a solid B- to C+ at both - maybe improv is something I'd love to try one day!"
-</p>
 
-<p>
-But real talk, I honestly started improvising in November of last year for more than just a fun new Frodo adventure where I'd be challenged, be brave, and make friends along the way - for me, it was a way to cope with, distract myself from, and (if we're being completely honest) escape the canonical quarter life crisis / post-long term relationship / self-identity blues that people go through, one way or another.
-</p>
+> 
+> 
+> My first experience watching improvised theater was at a Maestro show possibly a couple of years ago or so; of what I can remember now, the thing that stood out to me the most was a (relatively, for his ego's sake) good-looking dude basically spend the entire show making people laugh and kissing people, and I remember thinking to myself, "Man, those two things sound like fun, and I feel like I'm a solid B- to C+ at both - maybe improv is something I'd love to try one day!"
+> 
+> 
+> 
+> 
+> But real talk, I honestly started improvising in November of last year for more than just a fun new Frodo adventure where I'd be challenged, be brave, and make friends along the way - for me, it was a way to cope with, distract myself from, and (if we're being completely honest) escape the canonical quarter life crisis / post-long term relationship / self-identity blues that people go through, one way or another.
+> 
+> 
+> 
+> 
+> Over the past 10 months, I've met some of my best friends, been welcomed to an incredible community, became ravenous at wanting to learn more and try to master this art form, and - most importantly - found a lot of myself along the way. I realized that the improv that I love watching and love performing is funny second, honest first, and the only way I could ever be honest on stage was to be honest off of it; I used improv to get away from the dissonance in my personal life, only to see me using improv to address it head on.
+> 
 
-<p>
-Over the past 10 months, I've met some of my best friends, been welcomed to an incredible community, became ravenous at wanting to learn more and try to master this art form, and - most importantly - found a lot of myself along the way. I realized that the improv that I love watching and love performing is funny second, honest first, and the only way I could ever be honest on stage was to be honest off of it; I used improv to get away from the dissonance in my personal life, only to see me using improv to address it head on.
-</p></blockquote>
 
 ## Classes
 ### The Hideout Theatre

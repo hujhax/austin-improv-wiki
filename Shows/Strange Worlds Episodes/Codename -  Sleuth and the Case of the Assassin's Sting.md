@@ -1,3 +1,6 @@
+---
+description: "This was the first Strange Worlds story about Simon Doyle,..."
+---
 This was the first [[Shows/Strange Worlds|Strange Worlds]] story about Simon Doyle, AKA "Codename: Sleuth".  It was improvised on March 30th, 2013. 
 
 ## Episode Summary

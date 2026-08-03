@@ -1,3 +1,7 @@
+---
+description: "An improv performer and director."
+image: "File/Avimaan%20Syam%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Avimaan Syam** was an improv performer and director.
 
 ## History
-Avimaan was a company member of [[Gnap! Theater Projects]].
+Avimaan was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 In 2012, he moved away to Los Angeles.
 

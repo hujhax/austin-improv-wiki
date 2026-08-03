@@ -1,3 +1,7 @@
+---
+description: "|Years = 1998-2003."
+image: "File/Well%20Hung%20Jury.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -86,7 +90,9 @@ Over the course of their run, they performed Austin's first improv marathon with
 
 They performed in [[Festivals/The 2005 Out of Bounds Comedy Festival|The 2005 Out of Bounds Comedy Festival]], and did a one-off "ten-year reunion" show on 4/30/09 at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>The legend has always held that Jeremy heard the phrase "hung jury" in Mr. Smiley's economics class (because it's impossible to actually pay attention to anything pertinent in Mr. Smiley's economics class), and the synaptic reflex to a dick joke was instantaneous. The origins of our troupe pseudonyms, Mad Ezekiel and the Oedipus Freaks and Free Falling Malfactors, have been lost to the sands of time...</blockquote>
+Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the name's origin:
+> The legend has always held that Jeremy heard the phrase "hung jury" in Mr. Smiley's economics class (because it's impossible to actually pay attention to anything pertinent in Mr. Smiley's economics class), and the synaptic reflex to a dick joke was instantaneous. The origins of our troupe pseudonyms, Mad Ezekiel and the Oedipus Freaks and Free Falling Malfactors, have been lost to the sands of time...
+
 
 ## Formats
 ### Conceptual Improv Formats

@@ -1,3 +1,6 @@
+---
+description: "This was the fourth \"Strange Times\" story from Strange Worlds."
+---
 This was the fourth "Strange Times" story from [[Shows/Strange Worlds|Strange Worlds]].  It was improvised on March 30th, 2013. 
 
 ## Episode Summary

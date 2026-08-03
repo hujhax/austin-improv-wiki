@@ -1,3 +1,6 @@
+---
+description: "|Director = Madeline M."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

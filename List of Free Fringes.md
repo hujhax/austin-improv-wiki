@@ -1,3 +1,6 @@
+---
+description: "This list of Free Fringes includes all the formats for..."
+---
 This **list of *[[Shows/Free Fringe|Free Fringe]]s*** includes all the formats for every performance of [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s experimental-show slot, from the 1/5/12 inaugural show to 10/1/15.
 
 ## 2012 Shows
@@ -1697,9 +1700,12 @@ David Lynch (Ceej Allen) invites you to join him as three improvisers ([[Perform
 
 #### Ich Bin Ein Improviser ([[Performers/Ryan Hill|Ryan Hill]])
 The pitch from Ryan:
-<blockquote><p>"I, Ryan Hill, am traveling to Germany for work the first week in February. I would like to learn some useful German before I go. I will ask my improv friends who speak German to teach me. Yeah, this should go well.</p>
 
-<p>I will have each of them give me a quick mini-German lesson on stage and then the whole cast will improvise a scene in Germany where I will have to use my newfound knowledge."</p></blockquote>
+> "I, Ryan Hill, am traveling to Germany for work the first week in February. I would like to learn some useful German before I go. I will ask my improv friends who speak German to teach me. Yeah, this should go well.
+> 
+> 
+> I will have each of them give me a quick mini-German lesson on stage and then the whole cast will improvise a scene in Germany where I will have to use my newfound knowledge."
+
 
 #### Arjet Universe
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Michael Jastroch|Michael Jastroch]].
@@ -1722,7 +1728,9 @@ We're going to break through the clichés and make the scenes about the relation
 
 ### February 12th, 2015 (the 137th show)
 #### Hug Day ([[Performers/Tim Coyle|Tim Coyle]])
-Every year Paul Normandin, the nicest guy in the universe, organizes a Hug Day downtown. This show will be a tribute and a recreation of that. The idea couldn't be simpler, even if it is a little tricky to grasp. Here's Tim's pitch to Paul:<blockquote>"Say you and others who were giving out hugs play while people are walking on stage from time to time to get or decline hugs.  It could be neat to see the actual conversations that take place between hug times, as well as end with everyone in the audience."</blockquote>The Perfect Free Fringe show.
+Every year Paul Normandin, the nicest guy in the universe, organizes a Hug Day downtown. This show will be a tribute and a recreation of that. The idea couldn't be simpler, even if it is a little tricky to grasp. Here's Tim's pitch to Paul:
+> "Say you and others who were giving out hugs play while people are walking on stage from time to time to get or decline hugs.  It could be neat to see the actual conversations that take place between hug times, as well as end with everyone in the audience."
+The Perfect Free Fringe show.
 
 #### PLANK-A-THON! ([[Performers/Joy Parks|Joy Parks]])
 Want to support the Hideout's Special Needs program? Sweet! So do we! It's awesome! To learn more about the program, check out [www.specialneedsimprov.com](http://www.hideouttheatre.com/improv-for-kids/special-needs-improv).
@@ -1769,7 +1777,7 @@ That Racket! is an Austin-based troupe that combines the three great arts of imp
 A Magical souffle of improvised rap stuffed with delicious stories with just a dash of outlandish characters sauteed to perfection when the beat drops.
 
 #### Curry, Kirschner and Taylor
-[[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], and [[Performers/Ammon Taylor|Ammon Taylor]] are all members of two time [[B. Iden Payne Awards|B.-Iden-Payne-Award]]-winning, musical-performance collective [[Troupes/Girls Girls Girls|Girls Girls Girls]]. As faculty members of [[Merlin Works Institute for Improvisation]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/The Hideout Theatre|The Hideout Theatre]], these three put on an unforgettably theatrical performance weaving together characters scenes and songs that are magical, catchy and adorable!
+[[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], and [[Performers/Ammon Taylor|Ammon Taylor]] are all members of two time [[B. Iden Payne Awards|B.-Iden-Payne-Award]]-winning, musical-performance collective [[Troupes/Girls Girls Girls|Girls Girls Girls]]. As faculty members of [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/The Hideout Theatre|The Hideout Theatre]], these three put on an unforgettably theatrical performance weaving together characters scenes and songs that are magical, catchy and adorable!
 
 ### March 12th, 2015 (the 141st show)
 #### Swedish Exchange Students ([[Performers/Kevin Miller|Kevin Miller]])

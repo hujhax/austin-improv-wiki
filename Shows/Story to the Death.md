@@ -1,3 +1,7 @@
+---
+description: "|Run = Aug 2016."
+image: "File/Story%20to%20the%20Death%20Promo.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -200,10 +204,10 @@
 
 ## Summary
 ### Publicity Blurb
-<blockquote>Life is short and you deserve only the best. The cast of *Story to the Death* begin five completely different improvised stories, only to have the audience slowly but surely kill off the ones that fail to thrill and/or intrigue. One amazing story will survive to its exciting conclusion in the second half of the show.
+> Life is short and you deserve only the best. The cast of *Story to the Death* begin five completely different improvised stories, only to have the audience slowly but surely kill off the ones that fail to thrill and/or intrigue. One amazing story will survive to its exciting conclusion in the second half of the show.
+> 
+> Every single element of Story To The Death is completely improvised based on audience suggestions. It might start the night with 1) a Western, 2) a Soap Opera, 3) a touching story of redemption, 4) an Action Movie and 5) a Mockumentary. By the end of the night, based on Audience Choices, the show will end up with a story that has compelling characters, hilarious “special effects” and an epic, climactic ending.
 
-Every single element of Story To The Death is completely improvised based on audience suggestions. It might start the night with 1) a Western, 2) a Soap Opera, 3) a touching story of redemption, 4) an Action Movie and 5) a Mockumentary. By the end of the night, based on Audience Choices, the show will end up with a story that has compelling characters, hilarious “special effects” and an epic, climactic ending.
-</blockquote>
 
 ## Production Teams
 ### Aug 2016

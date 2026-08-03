@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-Present."
+image: "File/WHTDYD.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -72,7 +76,7 @@
 
 **We're Here to Date Your Daughter** (often referred to by its acronym, **WHTDYD**) is an ensemble improv troupe focusing on relationships.
 
-The troupe has members who have taken classes from [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/Coldtowne Theater|Coldtowne Theater]], [[Theatres/The Institution Theater|The Institution Theater]], and [[The Merlin Works Institute for Improvisation]].  
+The troupe has members who have taken classes from [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/Coldtowne Theater|Coldtowne Theater]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/The Merlin Works Institute for Improvisation|The Merlin Works Institute for Improvisation]].  
 
 The troupe was briefly named "I'm Here to Date Your Daughter" until the name "We're Here to Date Your Daughter" was decided on.  WHTDYD performed their debut show as part of *[[Shows/The Triple Scoop|The Triple Scoop]]* at the [[Theatres/The Institution Theater|The Institution Theater]] on 12/8/12.  The original planned debut was [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 1/20/13.  
 

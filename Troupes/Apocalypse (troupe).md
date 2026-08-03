@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2012."
+image: "File/Apocalypse%20%28troupe%29.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,7 @@
 	</table>
 </div>
 
-:*This page refers to the troupe that performed a La Ronde set in a post-apocalyptic world.  For the similarly-themed [[Gnap! Theater Projects]] mainstage show, see [[Shows/Apocalypse! (Show)|Apocalypse! (Show)]].*
+:*This page refers to the troupe that performed a La Ronde set in a post-apocalyptic world.  For the similarly-themed [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] mainstage show, see [[Shows/Apocalypse! (Show)|Apocalypse! (Show)]].*
 
 **Apocalypse (troupe)** refers to Apocalypse, an improv troupe that performed narratives set in a post-apocalyptic world.
 

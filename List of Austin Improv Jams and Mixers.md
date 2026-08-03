@@ -1,3 +1,6 @@
+---
+description: "This list of Austin improv jams and mixers covers jams..."
+---
 This **list of Austin improv jams and mixers** covers jams and mixers, which differ from shows in that they are participatory: a group of improvisors comes to the event and puts on scenes and games for each other.
 
 ## Active Jams and Mixers
@@ -20,4 +23,4 @@ This **list of Austin improv jams and mixers** covers jams and mixers, which dif
 * From 2010 to 2012, [[Theatres/The New Movement Theater|The New Movement Theater]] hosted *The Shootaround*
 * In 2013, every Tuesday night at 6:30pm, Harold's House happened at RLM on the UT campus.
 * Every Sunday at 7pm in the month of January 2014, [[Theatres/The New Movement Theater|The New Movement Theater]] hosted an open jam. The jam was preceded by a 6pm workshop.
-* Until 2018, [[Merlin Works]] hosted *[[The Merlin Works Mixer]]* monthly at the ZACH Theater.
+* Until 2018, [[Theatres/Merlin Works|Merlin Works]] hosted *[[The Merlin Works Mixer]]* monthly at the ZACH Theater.

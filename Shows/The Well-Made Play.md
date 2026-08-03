@@ -1,3 +1,7 @@
+---
+description: "|Technical Director = Nichole Bennett."
+image: "File/wellmadeplay%20poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

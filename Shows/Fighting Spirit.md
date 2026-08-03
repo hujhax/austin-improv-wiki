@@ -1,3 +1,7 @@
+---
+description: "An improv tournament at The New Movement."
+image: "File/Fighting%20Spirit.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

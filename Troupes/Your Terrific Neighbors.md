@@ -1,3 +1,7 @@
+---
+description: "|Years = 2008-Present."
+image: "File/Your%20Terrific%20Neighbors.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -75,9 +79,12 @@
 ## Summary
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote><p>"Join Your Terrific Neighbors for a evening of humorous situations with colorful characters that escalate into amusing, unexpected climaxes. It's a little something that they like to call 'sketch' 'comedy', which they have invented and which they fully intend to patent.</P>
 
-<p>Volleyball children, magic sex pencilists, submarine dads, jazzercise preachers, and dudes who love to 69, bro - these are but a few of Your Terrific Neighbors. One of Austin's most passionately loved (and loving) sketch troupes, Your Terrific Neighbors are out there dropping fresh sketches on the community's head on a monthly basis. They've been doing it for 4(ish) years and pride themselves on creating some of the most smartly dumb, dumbly smart, sweetly sick, sickly sweet comedy around, depending on what you mean by 'around.'"</p></blockquote>
+> "Join Your Terrific Neighbors for a evening of humorous situations with colorful characters that escalate into amusing, unexpected climaxes. It's a little something that they like to call 'sketch' 'comedy', which they have invented and which they fully intend to patent.
+> 
+> 
+> Volleyball children, magic sex pencilists, submarine dads, jazzercise preachers, and dudes who love to 69, bro - these are but a few of Your Terrific Neighbors. One of Austin's most passionately loved (and loving) sketch troupes, Your Terrific Neighbors are out there dropping fresh sketches on the community's head on a monthly basis. They've been doing it for 4(ish) years and pride themselves on creating some of the most smartly dumb, dumbly smart, sweetly sick, sickly sweet comedy around, depending on what you mean by 'around.'"
+
 
 ## History
 The troupe participated in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] and [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]] with their "Parlor Games" format.

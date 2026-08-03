@@ -1,3 +1,6 @@
+---
+description: "Eighth annual Out of Bounds Comedy Festival."
+---
 **The 2009 Out of Bounds Comedy Festival** was the eighth annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Summary

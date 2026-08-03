@@ -1,3 +1,6 @@
+---
+description: "This List of New Movement Shows is designed to be..."
+---
 <noinclude>
 This **List of New Movement Shows** is designed to be transcluded into any "[[Theatres/New Movement|New Movement]] shows" section on the wiki.
 </noinclude>

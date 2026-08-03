@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-Present."
+image: "File/Confidence%20Men.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -80,7 +84,9 @@ They also do a variation on the format called "The Variations," inspired by Mame
 
 ### Press Blurb
 This is their bio from their web site:
-<blockquote><p>"Legendary American playwright David Mamet has a certain way with language–rapid fire dialogue, unfinished sentences, meaningful pauses, raucous cursing, jazz symphonic rhythms . . . meanwhile, Confidence Men: Improvised Mamet have a certain way of lifting that style and making it their own. In the realm of improvised theatre. Every show is a wild testosterone-fueled romp of comedy that can turn deadly serious at the drop of a hat. These six acclaimed and dishonorable menschen will sell you a plot of fuck yes in a two-act play made off the cuffs of their three-piece suits. And, yes, there will be a 45-second musical intermission."</p></blockquote>
+
+> "Legendary American playwright David Mamet has a certain way with language–rapid fire dialogue, unfinished sentences, meaningful pauses, raucous cursing, jazz symphonic rhythms . . . meanwhile, Confidence Men: Improvised Mamet have a certain way of lifting that style and making it their own. In the realm of improvised theatre. Every show is a wild testosterone-fueled romp of comedy that can turn deadly serious at the drop of a hat. These six acclaimed and dishonorable menschen will sell you a plot of fuck yes in a two-act play made off the cuffs of their three-piece suits. And, yes, there will be a 45-second musical intermission."
+
 
 ## Media
 ### Videos

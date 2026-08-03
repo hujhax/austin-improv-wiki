@@ -1,3 +1,6 @@
+---
+description: "This is a list of photos of Boys of Summer,..."
+---
 <noinclude>This is a list of photos of *[[Shows/Boys of Summer|Boys of Summer]]*, designed for transclusion.</noinclude>
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449206698434164.100559.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 7/21/12 performance with [[Performers/Clay Towery|Clay Towery]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers|Peter Rogers]].

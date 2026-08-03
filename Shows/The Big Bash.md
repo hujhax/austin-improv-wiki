@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/The%20Big%20Bash.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

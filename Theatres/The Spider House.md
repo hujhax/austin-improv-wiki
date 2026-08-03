@@ -1,3 +1,7 @@
+---
+description: "An coffeehouse that has occasionally hosted improv productions."
+image: "File/Spider%20House%20Logo.jpg"
+---
 <div>
 	<table class="infobox infobox-theater">
 		<tr>

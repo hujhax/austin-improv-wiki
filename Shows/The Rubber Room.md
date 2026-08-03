@@ -1,3 +1,7 @@
+---
+description: "|Cast = Various."
+image: "File/The%20Rubber%20Room.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

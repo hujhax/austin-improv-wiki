@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2014."
+image: "File/The%20Special%20Features.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

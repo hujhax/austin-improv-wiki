@@ -1,3 +1,7 @@
+---
+description: "An Improv performer who works primarily with The Hideout Theatre..."
+image: "File/Bob%20Olmstead%20Reset%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Music =."
+image: "File/A%20Deed%20So%20Dark.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -196,8 +200,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>We're digging in deep among the roots of America, and presenting a show inspired by traditional American Murder Ballads.  Crime and sin, all wrapped up in haunting folk music and improvised storytelling.
-</blockquote>
+From the show announcement:
+> We're digging in deep among the roots of America, and presenting a show inspired by traditional American Murder Ballads.  Crime and sin, all wrapped up in haunting folk music and improvised storytelling.
+
 
 ### Murder Census
 * September 19th - "Poor Moon": Rebecca (Erin) killed Elizabeth (Kacey) with a rock bludgeoning to the face out of jealousy. 

@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Andreas.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -10,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Gnap!">Gnap!</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap!">Gnap!</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -24,7 +28,9 @@ Andreas Fabis is an improv performer.
 ## History
 Fabis was born on July 9th 1970 in Düsseldorf, Germany. In 2005 he moved to Austin, TX to work for an IT security company. Before doing improv he organized live action role-playing games in Germany.
 
-A post from him about the first improv show he ever saw:<blockquote>It was [[Troupes/Get Up|Get Up]] at the Hideout. [[Performers/Shana Merlin|Shana]] and [[Performers/Shannon McCormick|Shannon]] did an Amazon adventure story that turned into a virtual reality piece. That got me hooked.</blockquote>
+A post from him about the first improv show he ever saw:
+> It was [[Troupes/Get Up|Get Up]] at the Hideout. [[Performers/Shana Merlin|Shana]] and [[Performers/Shannon McCormick|Shannon]] did an Amazon adventure story that turned into a virtual reality piece. That got me hooked.
+
 
 ## Troupes
 * [[Troupes/Apocalypse (troupe)|Apocalypse]]

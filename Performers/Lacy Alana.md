@@ -1,3 +1,7 @@
+---
+description: "==History==."
+image: "File/Lacy%20Shawn%20Profile.jpg"
+---
 *This article employs a [[Pseudonyms|Pseudonym]].  Please do not replace that pseudonym with a real name without that person's permission.*<div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -24,12 +28,12 @@
 
 
 ## History
-Lacy completed levels 101-601 at the [[Merlin Works Institute for Improvisation]].  In her first year of improvising, Lacy also took all of the other classes offered by [[Merlin Works]], including Improv Singing 101-301 and several "Improv Labs."  Lacy has also taken classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]], and has taken workshops with a wide variety of traveling instructors (Joe Bill, Patti Stiles, Susan Messing, Rachel Mason, Rafe Chase, David Razowsky, Stephen Kearin, Tim Orr etc.
+Lacy completed levels 101-601 at the [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]].  In her first year of improvising, Lacy also took all of the other classes offered by [[Theatres/Merlin Works|Merlin Works]], including Improv Singing 101-301 and several "Improv Labs."  Lacy has also taken classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]], and has taken workshops with a wide variety of traveling instructors (Joe Bill, Patti Stiles, Susan Messing, Rachel Mason, Rafe Chase, David Razowsky, Stephen Kearin, Tim Orr etc.
 
-Since starting to improvise, Lacy has been cast in mainstage shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (*[[Shows/Strange Worlds|Strange Worlds]], [[Shows/Kenjutsu|Kenjutsu]]*, *[[Shows/The International Improv Experience|The International Improv Experience]]*, and *[[Shows/Theatresports (mainstage run)|TheatreSports]]*), [[Theatres/Coldtowne Theater|Coldtowne Theater]] (*[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*), [[Theatres/The Institution Theater|The Institution Theater]] (*[[Shows/Only Three Will Survive|Only Three Will Survive]]*) and with [[Gnap! Theater Projects]] ([[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]).  Lacy has played in [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], [[Festivals/The Improvised Play Festival|The Improvised Play Festival]], Unscripted New York, and Improvaganza (in Hawaii).  Lacy is an active member of [[Troupes/Rhinodino|Rhinodino]], [[Troupes/The Delightfuls|The Delightfuls]] and [[Troupes/The Known Wizards|The Known Wizards]], a [[Merlin Works]] teacher troupe.  
+Since starting to improvise, Lacy has been cast in mainstage shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (*[[Shows/Strange Worlds|Strange Worlds]], [[Shows/Kenjutsu|Kenjutsu]]*, *[[Shows/The International Improv Experience|The International Improv Experience]]*, and *[[Shows/Theatresports (mainstage run)|TheatreSports]]*), [[Theatres/Coldtowne Theater|Coldtowne Theater]] (*[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]*), [[Theatres/The Institution Theater|The Institution Theater]] (*[[Shows/Only Three Will Survive|Only Three Will Survive]]*) and with [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] ([[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]).  Lacy has played in [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], [[Festivals/The Improvised Play Festival|The Improvised Play Festival]], Unscripted New York, and Improvaganza (in Hawaii).  Lacy is an active member of [[Troupes/Rhinodino|Rhinodino]], [[Troupes/The Delightfuls|The Delightfuls]] and [[Troupes/The Known Wizards|The Known Wizards]], a [[Theatres/Merlin Works|Merlin Works]] teacher troupe.  
 
 
-Lacy currently teaches adult improv classes at [[Merlin Works]] and is the Special Needs Program Director at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  
+Lacy currently teaches adult improv classes at [[Theatres/Merlin Works|Merlin Works]] and is the Special Needs Program Director at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  
 
 
 Lacy directed the Fourth Run of *[[Shows/Theatresports (mainstage run)|TheatreSports]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with [[Performers/Ryan Austin|Ryan Austin]], and regularly directs Maestro and [[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]].

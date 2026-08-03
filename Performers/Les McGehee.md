@@ -1,3 +1,7 @@
+---
+description: "An improv comedian, producer and director."
+image: "File/Les%20McGehee%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

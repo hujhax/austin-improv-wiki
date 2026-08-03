@@ -1,3 +1,6 @@
+---
+description: "|Years = 2009."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,11 +77,15 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We do no gimmicks long form.</p> 
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do no gimmicks long form.
+>  
+> 
+> Our style can be zany and game-oriented, yet we aim to be grounded in strong characters and solid scene work.
+>  
+> 
+> That's it!
 
-<p>Our style can be zany and game-oriented, yet we aim to be grounded in strong characters and solid scene work.</p> 
-
-<p>That's it!</p></blockquote>
 
 ## History
 They lost a "Slash of the Talons" Cagematch quarterfinal on 5/2/09.

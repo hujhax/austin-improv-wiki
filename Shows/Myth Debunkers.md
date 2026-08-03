@@ -1,3 +1,7 @@
+---
+description: "|Run = 6/14/12."
+image: "File/Myth%20Debunkers.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

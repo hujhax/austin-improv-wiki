@@ -1,1 +1,4 @@
+---
+description: "Katie Dahm is an improvisor and native Austinite."
+---
 Katie Dahm is an improvisor and native Austinite.  She is a regular performer at the Hideout Theatre, playing in such shows as "Theater Sports," "Fakespeare," and "The International Improv Experience" and recently performed in "Risen" at the Institution Theater. Katie brings a background in theatre and dance to the stage and has been performing improv since 2007.

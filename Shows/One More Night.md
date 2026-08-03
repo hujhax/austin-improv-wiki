@@ -1,3 +1,7 @@
+---
+description: "__FORCETOC__."
+image: "File/One%20More%20Night.gif"
+---
 
 
 <div>
@@ -20,7 +24,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -92,7 +96,7 @@
 ## Summary
 *One More Night* featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
 
-The show was produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+The show was produced by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 ## Soundtrack
 The following are links to songs that were frequently used in the *One More Night* score.

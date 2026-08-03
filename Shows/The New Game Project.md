@@ -1,3 +1,7 @@
+---
+description: "(AKA The New Game People) is a shortform show that..."
+image: "File/The%20New%20Game%20Project%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "Alex \"Seymour\" Addison is an improv performer who works primarily..."
+image: "File/AlexAddison.jpeg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "The New Movement is a family of comedy theaters and..."
+image: "File/TNM%20logo.jpg"
+---
 <div>
 	<table class="infobox infobox-theater">
 		<tr>

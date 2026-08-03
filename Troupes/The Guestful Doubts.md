@@ -1,3 +1,6 @@
+---
+description: "|Years = 2013."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The Guestful Doubts are a group of undead goth kids who burned down with the original Florida limelight. They lost all their instruments in the fire with the exception of a drum machine and synth. They will battle to the undeath over lyrics, afterlife, and all things goth for the audience's pleasure.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> The Guestful Doubts are a group of undead goth kids who burned down with the original Florida limelight. They lost all their instruments in the fire with the exception of a drum machine and synth. They will battle to the undeath over lyrics, afterlife, and all things goth for the audience's pleasure.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>This will be musical narrative in costumes poking fun at The Doubtful Guests, teenagers, and the goth world.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> This will be musical narrative in costumes poking fun at The Doubtful Guests, teenagers, and the goth world.
+
 
 [[Category/Troupes|Guestful Doubts]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

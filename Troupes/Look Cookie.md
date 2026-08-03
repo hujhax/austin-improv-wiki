@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-2010."
+image: "File/Look%20Cookie.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are doing a format called craigslist where we use ads the audience picks out.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We are doing a format called craigslist where we use ads the audience picks out.
+
 
 ## Media
 ### Videos

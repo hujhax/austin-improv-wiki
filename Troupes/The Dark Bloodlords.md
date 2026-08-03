@@ -1,3 +1,7 @@
+---
+description: "|Years = 2005-2007."
+image: "File/The%20Dark%20Bloodlords.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

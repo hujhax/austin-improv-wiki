@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/183%20Dewberry%20Lane%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -144,8 +148,9 @@ A delightful family, much like yours, but perhaps even better, moves into a char
 
 You know…maybe there is something a little strange about that house on 183 Dewberry Lane.
 
-From the show announcement:<blockquote>Don't Blink.  Don't Sleep.  There's Something in the House.  Something otherworldly inhabits 183 Deberry Lane.  For its new residents, that's a draw.  It's all fun and games... until someone loses a life.
-</blockquote>
+From the show announcement:
+> Don't Blink.  Don't Sleep.  There's Something in the House.  Something otherworldly inhabits 183 Deberry Lane.  For its new residents, that's a draw.  It's all fun and games... until someone loses a life.
+
 
 ## More Information
 * [The show announcement](https://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.

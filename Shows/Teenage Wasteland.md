@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Teenage%20Wasteland.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -141,7 +145,9 @@ Typically the whole cast played every night.  Before each show, the performers w
 Performers dressed each night as various high-school stereotypes.  Lighting was pretty straightforward (lights up and lights down), while scoring was based on 90s alternative artists like Eve 6 and Blink 182.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>"Inspired by teen comedies like *Can't Hardly Wait* and *Dazed and Confused*, *Teenage Wasteland* follows one group of students through the events of the 'Big Party' where secrets are revealed, roles are reversed, revenge schemes are hatched, and loves are confessed."</blockquote>
+From the show announcement:
+> "Inspired by teen comedies like *Can't Hardly Wait* and *Dazed and Confused*, *Teenage Wasteland* follows one group of students through the events of the 'Big Party' where secrets are revealed, roles are reversed, revenge schemes are hatched, and loves are confessed."
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.

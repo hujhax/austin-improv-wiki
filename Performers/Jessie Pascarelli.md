@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-Present."
+image: "File/Jessie%20Pascarelli%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

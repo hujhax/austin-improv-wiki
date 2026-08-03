@@ -1,3 +1,7 @@
+---
+description: "|Director = Marc Majcher."
+image: "File/The%20tribunal.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

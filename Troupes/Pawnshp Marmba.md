@@ -1,3 +1,6 @@
+---
+description: "|Director = Asaf Ronen."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,10 +81,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Pawnshp Marmba! is a duo that focuses on how people communicate with one another. Coached by [[Performers/Asaf Ronen|Asaf Ronen]], we explore a variety of interpersonal dynamics during our improvisation including silence, over-talking, and discussion with the audience.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Pawnshp Marmba! is a duo that focuses on how people communicate with one another. Coached by [[Performers/Asaf Ronen|Asaf Ronen]], we explore a variety of interpersonal dynamics during our improvisation including silence, over-talking, and discussion with the audience.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We started performing a unified montage where one player is silent and the other speaks in each scene. We are currently messing with our format, but that is the basis for the troupe. We want to explore comedy through the variety of ways that people communicate. We are coached by [[Performers/Asaf Ronen|Asaf Ronen]].</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We started performing a unified montage where one player is silent and the other speaks in each scene. We are currently messing with our format, but that is the basis for the troupe. We want to explore comedy through the variety of ways that people communicate. We are coached by [[Performers/Asaf Ronen|Asaf Ronen]].
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

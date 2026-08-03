@@ -1,3 +1,7 @@
+---
+description: "|Past Members=."
+image: "File/Innerpicnic.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Tech = BK McKee."
+image: "File/Live%20TV%20Tuesdays%20-%20Angel.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

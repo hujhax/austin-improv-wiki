@@ -1,3 +1,7 @@
+---
+description: "Started in improv and sketch in Austin with The University..."
+image: "File/Cody%20Melcher%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

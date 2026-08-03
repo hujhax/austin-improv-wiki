@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-Present."
+image: "File/Furiously%20Missing.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,9 +82,12 @@ The troupe formed in 2011 from students at [[Theatres/The Hideout Theatre|The Hi
 ## Summary
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote><p>"Life is propelled by a sense of lack, and Furiously Missing is dedicated to embodying this principle on stage. Our narratives explore the stories we create when we obey our inner longings, whether wistfully or desperately. Whether it be 'my dad', 'true love' or even 'my favorite candy bar', the suggestion will inform their show as they develop a world that helps us realize: its not just finding what we're missing that counts, but the delightful, improvised journey we take to get there.</p>
 
- <p>Furiously Missing hails from Austin, TX where they met while taking classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. They love connecting with their audiences by telling stories inspired by the things they miss most. They have done over 25 shows together in their first year, including performances at [[Festivals/The Improvised Play Festival|The Improvised Play Festival]], [[Festivals/Wafflefest|Wafflefest]], and NYC Improv Festival at The People's Improv Theater."</p></blockquote>
+> "Life is propelled by a sense of lack, and Furiously Missing is dedicated to embodying this principle on stage. Our narratives explore the stories we create when we obey our inner longings, whether wistfully or desperately. Whether it be 'my dad', 'true love' or even 'my favorite candy bar', the suggestion will inform their show as they develop a world that helps us realize: its not just finding what we're missing that counts, but the delightful, improvised journey we take to get there.
+> 
+> 
+>  Furiously Missing hails from Austin, TX where they met while taking classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. They love connecting with their audiences by telling stories inspired by the things they miss most. They have done over 25 shows together in their first year, including performances at [[Festivals/The Improvised Play Festival|The Improvised Play Festival]], [[Festivals/Wafflefest|Wafflefest]], and NYC Improv Festival at The People's Improv Theater."
+
 
 ## Media
 ### Videos

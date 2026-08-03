@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-Present."
+image: "File/Miller%20and%20Purselley.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -76,7 +80,9 @@ They played a weekly show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] ev
 
 ## Summary
 ### Press Bio
-From [their facebook page](http://www.facebook.com/pages/Miller-and-Purselley/122244037880791):<blockquote>Miller and Purselley is a two person improv group that looks to tell a story. They explore the narratives of everyday life, concentrating on the intricacies and nuance of grounded characters and the truth of those lives in the moment. They seek the story that's already happening on stage and with the audience and follow it.</blockquote>
+From [their facebook page](http://www.facebook.com/pages/Miller-and-Purselley/122244037880791):
+> Miller and Purselley is a two person improv group that looks to tell a story. They explore the narratives of everyday life, concentrating on the intricacies and nuance of grounded characters and the truth of those lives in the moment. They seek the story that's already happening on stage and with the audience and follow it.
+
 
 ## Media
 ### Photos

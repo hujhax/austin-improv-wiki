@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-2010."
+image: "File/Dick%20Rambuck.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,17 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Starting as a CageMatch champion team between a teacher and student, Dick Rambuck has quietly become a cult-favorite with Austin audiences.</p> 
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Starting as a CageMatch champion team between a teacher and student, Dick Rambuck has quietly become a cult-favorite with Austin audiences.
+>  
+> 
+> Every Dick Rambuck show is a one-scene show. A patient thought provoking conversation between two knuckleheads. Their single scene show format allows for a slower pace, strongly developed characters, and hilarious call backs.
 
-<p>Every Dick Rambuck show is a one-scene show. A patient thought provoking conversation between two knuckleheads. Their single scene show format allows for a slower pace, strongly developed characters, and hilarious call backs.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>a single 2 person scene</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> a single 2 person scene
+
 
 ## History
 The duo played [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] in 2009 and 2010.

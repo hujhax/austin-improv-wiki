@@ -1,3 +1,7 @@
+---
+description: "|Years = 2004-Present."
+image: "File/Available%20Cupholders.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -77,11 +81,13 @@ The troupe was formed in 2004, mostly out of members of [[Troupes/Well Hung Jury
 
 ### Press Blurb
 This is their bio from their facebook page:
-<blockquote>"The Available Cupholders theatre ensemble is dedicated to producing experimental, enriching and entertaining improvisational comedy. The Cupholders aspire to explore and expose an art form cloaked in natural communication, believing Improv to be the theatre of everyday existence. 
 
-Unlocking the power of this art form through live performance and various performative media, they strive to be on the cusp of a daring theatrical experience that takes place anytime, anywhere. 
+> "The Available Cupholders theatre ensemble is dedicated to producing experimental, enriching and entertaining improvisational comedy. The Cupholders aspire to explore and expose an art form cloaked in natural communication, believing Improv to be the theatre of everyday existence. 
+> 
+> Unlocking the power of this art form through live performance and various performative media, they strive to be on the cusp of a daring theatrical experience that takes place anytime, anywhere. 
+> 
+> Their goal is to elevate the form and playing field, shedding light on the ever-changing zeitgeist in which we live, with belly laughs along the way. "
 
-Their goal is to elevate the form and playing field, shedding light on the ever-changing zeitgeist in which we live, with belly laughs along the way. "</blockquote>
 
 ## Media
 ### Videos

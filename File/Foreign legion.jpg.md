@@ -1,3 +1,6 @@
+---
+description: "The Foreign Legion - poster design by Deano Jones."
+---
 <div style="text-align: center;"><img src="Foreign legion.jpg" style="max-width: 100%; height: auto;" /></div>
 
 [[Troupes/The Foreign Legion|The Foreign Legion]] - poster design by [[Performers/Deano Jones|Deano Jones]]

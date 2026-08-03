@@ -1,3 +1,7 @@
+---
+description: "|Years = 2008-Present."
+image: "File/Niceastro-2013-04-10.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

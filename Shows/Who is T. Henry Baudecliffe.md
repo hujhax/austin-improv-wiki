@@ -1,3 +1,7 @@
+---
+description: "|Run= Jul/Aug 2010."
+image: "File/Who%20is%20T.%20Henry%20Baudecliffe.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -187,17 +191,24 @@
 ***Who is T. Henry Baudecliffe?*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was inspired by the 'outsider art' of artists like Henry Darger.
 
 ## Summary
-The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and [[Theatres/The Hideout Theatre|The Hideout Theatre]] was presenting stagings of some of his work.  An excerpt from a blog post from [[Performers/Curtis Luciani|Curtis Luciani]] explains the conceit in further detail:<blockquote><p>"Late in 2009, I received an email from an artist friend of mine. She had sent me and several other friends a collection of digital images. The images looked like severely demented children's drawings, and each drawing had handwritten captions that seemed to be drawn from some equally demented narrative. This was my first encounter with the work of T. Henry Baudecliffe.</p>
+The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and [[Theatres/The Hideout Theatre|The Hideout Theatre]] was presenting stagings of some of his work.  An excerpt from a blog post from [[Performers/Curtis Luciani|Curtis Luciani]] explains the conceit in further detail:
+> "Late in 2009, I received an email from an artist friend of mine. She had sent me and several other friends a collection of digital images. The images looked like severely demented children's drawings, and each drawing had handwritten captions that seemed to be drawn from some equally demented narrative. This was my first encounter with the work of T. Henry Baudecliffe.
+> 
+> 
+> Thomas Henry Baudecliffe, who passed away in 2009, was a resident of St. Mark's Community Home, a center for transfers from Austin State Hospital who have been judged to be no danger to themselves or others but still require daily care. After his death, the staff of St. Mark's discovered thousands of pages of original illustrated children's stories among Baudecliffe's belongings. Given the sheer volume, Baudecliffe must have been working on them for nearly his whole life. Since this discovery, there has been a great deal of interest in Baudecliffe among local artists, folk historians, and collectors of cultural oddities.
+> 
+> 
+> We only know a little about his life. He was born in 1925 in Lukenbach, served in Europe for a few months in WW2, and was sent home after receiving a friendly fire injury. He lost his parents in an auto accident and then passed several decades of quiet seclusion until 1984, when he was arrested for setting fire to a toy store in Fredericksburg. Baudecliffe was determined to be “mildly schizophrenic” and was sent to State Hospital, then transferred to St. Marks where he lived the rest of his life in relative peace and privacy.
+> 
+> 
+> As for the (fragmentary) stories, they're pastiches of American children's literature filtered through the very peculiar mind of Baudecliffe — a mind equally naive, troubled, and exuberant. They are fantastic tales of adventure, virtue, and creeping darkness.
+> 
+> 
+> Kaci and I got the idea to direct an improv show based on Baudecliffe's work earlier this year, while comparing some work of his that had fallen into our hands. (Friends of friends or friends, you know….) It was a joke that began to make sense. Baudecliffe's stories are incomplete, but the show would give us a chance to see what a finished Baudecliffe story might be like. And though we'd be making the stories up as we went along, it's clear that Baudecliffe was doing the same thing.
+> 
+> 
+> We hope that you'll join us for this unique show. The Hideout Theatre has managed to acquire an impressive collection of Baudecliffe's work, which will be on display during the run. We've also been recording and editing a short documentary that will help introduce people to the Baudecliffe phenomenon."
 
-<p>Thomas Henry Baudecliffe, who passed away in 2009, was a resident of St. Mark's Community Home, a center for transfers from Austin State Hospital who have been judged to be no danger to themselves or others but still require daily care. After his death, the staff of St. Mark's discovered thousands of pages of original illustrated children's stories among Baudecliffe's belongings. Given the sheer volume, Baudecliffe must have been working on them for nearly his whole life. Since this discovery, there has been a great deal of interest in Baudecliffe among local artists, folk historians, and collectors of cultural oddities.</p>
-
-<p>We only know a little about his life. He was born in 1925 in Lukenbach, served in Europe for a few months in WW2, and was sent home after receiving a friendly fire injury. He lost his parents in an auto accident and then passed several decades of quiet seclusion until 1984, when he was arrested for setting fire to a toy store in Fredericksburg. Baudecliffe was determined to be “mildly schizophrenic” and was sent to State Hospital, then transferred to St. Marks where he lived the rest of his life in relative peace and privacy.</p>
-
-<p>As for the (fragmentary) stories, they're pastiches of American children's literature filtered through the very peculiar mind of Baudecliffe — a mind equally naive, troubled, and exuberant. They are fantastic tales of adventure, virtue, and creeping darkness.</p>
-
-<p>Kaci and I got the idea to direct an improv show based on Baudecliffe's work earlier this year, while comparing some work of his that had fallen into our hands. (Friends of friends or friends, you know….) It was a joke that began to make sense. Baudecliffe's stories are incomplete, but the show would give us a chance to see what a finished Baudecliffe story might be like. And though we'd be making the stories up as we went along, it's clear that Baudecliffe was doing the same thing.</p>
-
-<p>We hope that you'll join us for this unique show. The Hideout Theatre has managed to acquire an impressive collection of Baudecliffe's work, which will be on display during the run. We've also been recording and editing a short documentary that will help introduce people to the Baudecliffe phenomenon."</p></blockquote>
 
 ## Media
 ### Videos

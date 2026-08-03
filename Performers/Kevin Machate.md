@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with The Institution Theater."
+image: "File/Kevin%20Machate%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

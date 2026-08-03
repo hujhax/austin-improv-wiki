@@ -1,3 +1,7 @@
+---
+description: "==Guide to the AIC Wiki==."
+image: "File/Edit%20Button.jpg"
+---
 ## Guide to the AIC Wiki
 **What is it?**<br/>
 This site is like Wikipedia, only it's devoted to Austin improv. It's here to accumulate useful information about shows, troupes, performers, and anything else relevant to our improv scene.

@@ -1,3 +1,7 @@
+---
+description: "|Past Members =."
+image: "File/BadFont%20Hideout.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

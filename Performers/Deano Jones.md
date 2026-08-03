@@ -1,3 +1,7 @@
+---
+description: "An Austin improvisor."
+image: "File/Deano%20jones%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Deano Jones** is an Austin improvisor.
 
 ## History
-Moving to Austin in 2005 from New York City, Deano began taking improv classes at [[Merlin Works]] in 2009. 
+Moving to Austin in 2005 from New York City, Deano began taking improv classes at [[Theatres/Merlin Works|Merlin Works]] in 2009. 
 
 He has appeared in [[Performers/Michael Joplin|Michael Joplin]]'s *[[Shows/The Family|The Family]]*, Hideout mainstage shows *[[Shows/The Andersons|The Andersons]]*, *[[Shows/The Violet Underbelly|The Violet Underbelly]]* and *[[Shows/Holy 1960's Batman, Batman!|Holy 1960's Batman, Batman!]]*. He is a member of troupes [[Troupes/Simply D-VINE|Simply D-VINE]], [[Troupes/The Intentions|The Intentions]] and [[Troupes/The Knuckleball Now|The Knuckleball Now]].
 

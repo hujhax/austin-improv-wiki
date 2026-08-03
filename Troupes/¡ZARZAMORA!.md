@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/%C2%A1ZARZAMORA%21.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -84,7 +88,9 @@ The current members of ¡Zarzamora! are:
 * Cole Spainhour
 * [[Performers/Patrick Daniel|Patrick Daniel]] (member at large)
 
-Here is [[Performers/Chuy Zarate|Chuy Zarate]]'s explanation of the name's origin:<blockquote>Lampe and I had always wanted to try a duo together and we were discussing names while having some beers (go figure)... It is pretty common for The Oxymmorons to mention the street, Zarzamora when referencing San Antonio locales in shows. It has kind of become a running joke... Anyway, since we are both from SA and Oxy, we decided to name our duo, iZarzamora! Then we proceeded to invite other people to join. So much for our duo...  :D</blockquote>
+Here is [[Performers/Chuy Zarate|Chuy Zarate]]'s explanation of the name's origin:
+> Lampe and I had always wanted to try a duo together and we were discussing names while having some beers (go figure)... It is pretty common for The Oxymmorons to mention the street, Zarzamora when referencing San Antonio locales in shows. It has kind of become a running joke... Anyway, since we are both from SA and Oxy, we decided to name our duo, iZarzamora! Then we proceeded to invite other people to join. So much for our duo...  :D
+
 
 ## Festivals
 ¡Zarzamora! has played the following festivals:

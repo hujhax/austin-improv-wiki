@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Sweet%20Justice.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,18 +78,22 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Luke and Nicole play two incredibly nice, cheery, chipper co-workers who happen to be homicide detectives that regularly get assigned to the grisliest cases. 
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Luke and Nicole play two incredibly nice, cheery, chipper co-workers who happen to be homicide detectives that regularly get assigned to the grisliest cases. 
+> 
+> Kevin Miller is their no-nonsense boss who regularly doles out the assignments and has had it up to here with their unrelenting cheeriness. 
+> 
+> Expect games and audience interaction.
 
-Kevin Miller is their no-nonsense boss who regularly doles out the assignments and has had it up to here with their unrelenting cheeriness. 
-
-Expect games and audience interaction.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We essentially do a narrative that follows the exploits of two well-meaning detectives. 
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We essentially do a narrative that follows the exploits of two well-meaning detectives. 
+> 
+> As the story evolves, members of the audience may be invited to take on certain roles and help guide where the story ends up. 
+> 
+> It's fun!
 
-As the story evolves, members of the audience may be invited to take on certain roles and help guide where the story ends up. 
-
-It's fun!</blockquote>
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

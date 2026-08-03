@@ -1,3 +1,7 @@
+---
+description: "|Years = 2005-2008."
+image: "File/Comedic%20Amoeba.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

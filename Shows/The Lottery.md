@@ -1,3 +1,7 @@
+---
+description: "Show at The Hideout Theatre where four audience winners got..."
+image: "File/The%20Lottery.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

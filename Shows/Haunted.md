@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Haunted%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -69,7 +73,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category">[[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

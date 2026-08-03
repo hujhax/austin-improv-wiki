@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/IreneWhite.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

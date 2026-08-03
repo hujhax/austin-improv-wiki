@@ -1,3 +1,6 @@
+---
+description: "|Theater = The Hideout Theatre."
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

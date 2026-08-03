@@ -1,3 +1,7 @@
+---
+description: "Theatrical forum where anyone can sign up to perform five..."
+image: "File/Block%20Party.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

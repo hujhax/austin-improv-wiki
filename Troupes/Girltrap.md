@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009."
+image: "File/Girltrap.png"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Simply....we rule.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Simply....we rule.
+
 
 ## More Information
 * [The troupe's web site.](http://girltrap.wordpress.com/)

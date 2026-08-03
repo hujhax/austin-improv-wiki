@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011."
+image: "File/IHOP%20Lovecraft.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>IHOP Lovecraft is [[Performers/Jason Vines|Jason Vines]] and [[Performers/Emily Breedlove|Emily Breedlove]]. It's two strangers in a strange land. It's an exploration of life's sweetness, oddness, and universality, with the occasional roasting of park benches and interdimensional jumping.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> IHOP Lovecraft is [[Performers/Jason Vines|Jason Vines]] and [[Performers/Emily Breedlove|Emily Breedlove]]. It's two strangers in a strange land. It's an exploration of life's sweetness, oddness, and universality, with the occasional roasting of park benches and interdimensional jumping.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We're demons making a go of this dimension. It's the ultimate fish out of water world, where two individuals are learning more about themsleves and how their new environment is changing them and the way they relate to one another.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We're demons making a go of this dimension. It's the ultimate fish out of water world, where two individuals are learning more about themsleves and how their new environment is changing them and the way they relate to one another.
+
 
 ## Media
 ### Photos

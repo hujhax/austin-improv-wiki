@@ -1,3 +1,7 @@
+---
+description: "Performance slot at The Hideout Theatre."
+image: "File/The%20TV%20Set.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

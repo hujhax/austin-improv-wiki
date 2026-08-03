@@ -1,3 +1,7 @@
+---
+description: "|Director = Marc Majcher."
+image: "File/Blink.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

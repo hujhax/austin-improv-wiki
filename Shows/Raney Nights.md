@@ -1,3 +1,7 @@
+---
+description: "Monthly ColdTowne talk show hosted by Scott Raney."
+image: "File/Raney%20Nights.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

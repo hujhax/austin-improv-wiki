@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/Meal%20of%20Sides.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,16 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Meal of Sides is an ensemble cast of veteran performers at TNM including G-Su Paek (Judge G-Su, The Megaphone Show), Karen Early (Liar Liar, The Megaphone Show), Elizabeth Nowrouz (Part II, Tourceratops) and Allen Rogers (Nixon, Bananas Foster Wallace).
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Meal of Sides is an ensemble cast of veteran performers at TNM including G-Su Paek (Judge G-Su, The Megaphone Show), Karen Early (Liar Liar, The Megaphone Show), Elizabeth Nowrouz (Part II, Tourceratops) and Allen Rogers (Nixon, Bananas Foster Wallace).
+> 
+> Playing their own version of Close Quarters-a pithy, Pulp Fiction-esque show form-Meal of Sides offers the audience everything from teeming, show-stopping, cerebral brilliance to the lowest form of primordial comedy-the pun. Most of all they have fun and you will too.
 
-Playing their own version of Close Quarters-a pithy, Pulp Fiction-esque show form-Meal of Sides offers the audience everything from teeming, show-stopping, cerebral brilliance to the lowest form of primordial comedy-the pun. Most of all they have fun and you will too.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a Close Quarters style troupe. We keep all of our scenes/characters within the same universe and literally just travel 50 yards in 15 minutes. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a Close Quarters style troupe. We keep all of our scenes/characters within the same universe and literally just travel 50 yards in 15 minutes. 
+
 
 ## Media
 ### Videos

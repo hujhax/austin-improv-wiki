@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Live%20TV%20Tuesdays-%20Buffy.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

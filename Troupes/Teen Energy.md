@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014."
+image: "File/Teen%20Energy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Teen Energy is a group of high school girls who are all very different from each other (you know, classic high school stereotypes--artsy, nerd, cheerleader, edgy) but who all happen to have magical powers and use them for everyday high school challenges (casting spells on boys, telekinesis to clean your room, etc.) </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Teen Energy is a group of high school girls who are all very different from each other (you know, classic high school stereotypes--artsy, nerd, cheerleader, edgy) but who all happen to have magical powers and use them for everyday high school challenges (casting spells on boys, telekinesis to clean your room, etc.) 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We tell a story. It takes place in a high school. There's some magic involved. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We tell a story. It takes place in a high school. There's some magic involved. 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-2008."
+image: "File/I%20Snood%20Bear.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### Press Blurb
-From their web site: <blockquote>We specialize in improvised theater which explores atypical storytelling techniques, dramatic comedy, and realistic characters.  We believe that real life is fascinating, and honesty is one of the most compelling things to see on stage.  Our goal is to tell stories that resonate on an emotional level.</blockquote>
+From their web site: 
+> We specialize in improvised theater which explores atypical storytelling techniques, dramatic comedy, and realistic characters.  We believe that real life is fascinating, and honesty is one of the most compelling things to see on stage.  Our goal is to tell stories that resonate on an emotional level.
+
 
 ## History
 The troupe premiered in the 2007 *[[Shows/Cagematch|Cagematch]]*, under the name "A Bride Soon".

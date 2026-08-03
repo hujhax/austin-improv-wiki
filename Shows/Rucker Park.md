@@ -1,3 +1,7 @@
+---
+description: "Monthly improv show featuring students and alumni of The New..."
+image: "File/Rucker%20Park.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

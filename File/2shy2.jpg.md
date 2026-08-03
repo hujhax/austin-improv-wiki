@@ -1,3 +1,6 @@
+---
+description: "== Licensing ==."
+---
 <div style="text-align: center;"><img src="2shy2.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Licensing

@@ -1,3 +1,6 @@
+---
+description: "Seventh annual WaffleFest."
+---
 **WaffleFest 2008** was the seventh annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

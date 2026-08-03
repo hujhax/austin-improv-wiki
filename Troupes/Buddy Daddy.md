@@ -1,3 +1,7 @@
+---
+description: "|Director = Arthur Simone."
+image: "File/Buddy%20Daddy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

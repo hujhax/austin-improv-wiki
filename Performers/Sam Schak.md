@@ -1,3 +1,7 @@
+---
+description: "An improviser living and performing in Austin, Texas."
+image: "File/Sam%20Schak.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

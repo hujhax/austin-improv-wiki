@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011."
+image: "File/The%20NASA%20Musical%20Outreach%20Program.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -76,10 +80,14 @@
 In this duo, the two performers played a series of songs in character as nerdy NASA scientists.
 
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>N.A.S.A scientists teach about the beauty of space and clear misconceptions about our country's space program.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> N.A.S.A scientists teach about the beauty of space and clear misconceptions about our country's space program.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We killed at Nerd Nite recently. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We killed at Nerd Nite recently. 
+
 
 ## Media
 ### Videos

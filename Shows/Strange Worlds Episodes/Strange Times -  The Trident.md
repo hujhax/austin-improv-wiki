@@ -1,3 +1,6 @@
+---
+description: "This was the third \"Strange Times\" story from Strange Worlds."
+---
 This was the third "Strange Times" story from [[Shows/Strange Worlds|Strange Worlds]].  It was improvised on March 23rd, 2013. 
 
 ## Episode Summary

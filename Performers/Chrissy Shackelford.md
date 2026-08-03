@@ -1,3 +1,7 @@
+---
+description: "An improviser, actress, and audience member who works primarily with..."
+image: "File/Chrissy%20Shackelford%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

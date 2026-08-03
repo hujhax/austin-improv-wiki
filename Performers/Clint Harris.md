@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with ColdTowne Theater and..."
+image: "File/Clint%20Harris.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

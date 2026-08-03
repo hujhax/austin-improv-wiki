@@ -1,3 +1,7 @@
+---
+description: "|Past Members =."
+image: "File/Control%20Issues.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

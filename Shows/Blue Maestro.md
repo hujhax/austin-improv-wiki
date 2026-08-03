@@ -1,3 +1,7 @@
+---
+description: "Non-family-friendly version of Maestro."
+image: "File/Blue%20Maestro%20Picture.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

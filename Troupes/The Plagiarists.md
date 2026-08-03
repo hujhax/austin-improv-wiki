@@ -1,3 +1,7 @@
+---
+description: "|Director = Asaf Ronen."
+image: "File/The%20Plagiarists.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -81,7 +85,9 @@
 ## Summary
 ### Press Blurb
 This is their bio from the web site for [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]]:
-<blockquote><p>The Plagiarists will absorb the delicious talents of some of the greatest playwrights. Five great actors will work together, each on a steady diet of their own author’s style, to cook up a never-before-seen improvised play.</p></blockquote>
+
+> The Plagiarists will absorb the delicious talents of some of the greatest playwrights. Five great actors will work together, each on a steady diet of their own author’s style, to cook up a never-before-seen improvised play.
+
 
 ### The Cast's Styles
 Each cast member acted in the style of a particular playwright, as follows:

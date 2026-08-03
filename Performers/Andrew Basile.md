@@ -1,3 +1,7 @@
+---
+description: "An improvisor based out of ColdTowne Theater in Austin, TX."
+image: "File/Andrew%20Basile%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

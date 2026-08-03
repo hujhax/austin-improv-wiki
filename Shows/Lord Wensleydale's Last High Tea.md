@@ -1,3 +1,7 @@
+---
+description: "|Run = Saturday April 27 2013."
+image: "File/Lord%20Wensleydale%27s%20Last%20High%20Tea.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

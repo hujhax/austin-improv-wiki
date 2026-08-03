@@ -1,3 +1,7 @@
+---
+description: "==Summary==."
+image: "File/SciFiSaturdays-Duo-v2.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

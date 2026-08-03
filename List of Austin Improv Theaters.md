@@ -1,10 +1,13 @@
+---
+description: "== Active Theaters ==."
+---
 ## Active Theaters
 There are three theaters in Austin, Texas that produce improv shows:
 * [[Theatres/Coldtowne Theater|Coldtowne Theater]]
 * [[Theatres/The Hideout Theatre|The Hideout Theatre]]
 * [[Theatres/Fallout Theater|Fallout Theater]]
 
-The [[Merlin Works Institute for Improvisation]] also teaches classes and produces shows at the ZACH theater.
+The [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]] also teaches classes and produces shows at the ZACH theater.
 
 ## Inactive Theaters
 [[Theatres/The Institution Theater|The Institution Theater]], run by [[Performers/Tom Booker|Tom Booker]], began teaching classes in 2008 and moved into a physical space in 2011. The theater closed in 2020, but continued to offer classes until Booker moved to Nashville later that year.
@@ -19,6 +22,6 @@ Cafe Caffeine was the home of Austin [[Troupes/ComedySportz|ComedySportz]] betwe
 
 The Lair was an improv theater in Round Rock that opened and closed in 2010.
 
-Prior to 2013, [[Gnap! Theater Projects]] produced improv shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]. 
+Prior to 2013, [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] produced improv shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]. 
 
 [[Theatres/The New Movement Theater|The New Movement Theater]] began at 1819 Rosewood Ave, then moved to 616 Lavaca St. In February 2018, TNM's owners transferred the space to the new Fallout Theater.

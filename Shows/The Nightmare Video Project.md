@@ -1,3 +1,7 @@
+---
+description: "Shortform show at The Hideout Theater that was directed by..."
+image: "File/The%20Nightmare%20Video%20Project.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

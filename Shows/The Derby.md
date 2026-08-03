@@ -1,3 +1,7 @@
+---
+description: "Biweekly competitive short-form show produced by Gnap!"
+image: "File/TheDerby.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -10,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a>/<a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a>/<a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -27,7 +31,7 @@
 	</table>
 </div>
 
-**The Derby** was a biweekly competitive short-form show produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]. It ran every second and fourth Friday of the month at 10pm. The show was discontinued with Gnap!'s exit from regular improv shows at the end of 2012. The Derby was created by [[Performers/Eric Heiberg|Eric Heiberg]], with a rotating cast of directors.
+**The Derby** was a biweekly competitive short-form show produced by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]. It ran every second and fourth Friday of the month at 10pm. The show was discontinued with Gnap!'s exit from regular improv shows at the end of 2012. The Derby was created by [[Performers/Eric Heiberg|Eric Heiberg]], with a rotating cast of directors.
 
 ## Format
 The Derby's personnel consisted of two directors, a cast of twelve improvisers broken into four three-person teams, and, in later months, a scorekeeper. The directors would pair two teams against each other, assign improv games, then the directors (or the scorekeeper) would gather the audience's vote as to which was better. The winning team gained a predetermined amount of points. The team with the greatest number of points at the end of the show was the winner. In earlier shows, the winning team won the "prized possessions" of the other teams --- usually knick knacks brought from home, or found lying around the theater's green room, around which tales of sentimental value would be spun; in any event, the items were returned to their original owners after the show. In later shows, a professional wrestling-style belt was the prize for the victorious team.

@@ -1,3 +1,6 @@
+---
+description: "Third annual Ladies Are Funny Festival."
+---
 **The 2009 Ladies Are Funny Festival** was the third annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 
 ## Summary

@@ -1,3 +1,7 @@
+---
+description: "Recurring show at The Institution Theater featuring Tom Booker and..."
+image: "File/Booker%20and%20a%20Buddy.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Director = Chuy Zarate."
+image: "File/Shades%20of%20Brown.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -79,7 +83,9 @@
 ## Summary
 ### Press Blurb
 This is their bio from their facebook page:
-<blockquote><p>"Coming from different backgrounds and experiences...SOB came together with one thing in common..a love of improv. Yes, we are all latinos but we are all very diverse and unique just like the culture we represent. Our goal is to bring a new point of view and fun experience to the improv stage. So come check us out! Nos vemos!"</p></blockquote>
+
+> "Coming from different backgrounds and experiences...SOB came together with one thing in common..a love of improv. Yes, we are all latinos but we are all very diverse and unique just like the culture we represent. Our goal is to bring a new point of view and fun experience to the improv stage. So come check us out! Nos vemos!"
+
 
 ## Media
 ### Photos

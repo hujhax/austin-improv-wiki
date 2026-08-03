@@ -1,3 +1,7 @@
+---
+description: "An Austin improviser who began taking classes a The Hideout..."
+image: "File/Seth%20Johnson%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

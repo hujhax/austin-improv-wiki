@@ -1,3 +1,6 @@
+---
+description: "|Years = 2013."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +77,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Kareem and Kaci have performed well over 1000 shows together, both as the award-winning improv troupe Parallelogramophonograph and with The Hideout Theatre. But until now they have never performed a show with just the two of them. Whatever happens, it's sure to be a super-connected, delightful show.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Kareem and Kaci have performed well over 1000 shows together, both as the award-winning improv troupe Parallelogramophonograph and with The Hideout Theatre. But until now they have never performed a show with just the two of them. Whatever happens, it's sure to be a super-connected, delightful show.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

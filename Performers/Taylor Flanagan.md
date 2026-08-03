@@ -1,3 +1,7 @@
+---
+description: "An actress and improv performer."
+image: "File/Taylor%20Flanagan%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

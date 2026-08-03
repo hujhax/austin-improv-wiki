@@ -1,3 +1,7 @@
+---
+description: "First annual WaffleFest festival at the Hideout Theatre."
+image: "File/Image%20may%20contain-%20one%20or%20more%20people.jpeg"
+---
 **WaffleFest 2002** was the first annual [[Festivals/Wafflefest|Wafflefest]] festival at the [[Theatres/Hideout Theatre|Hideout Theatre]].
 
 ![[Image may contain- one or more people.jpeg]]

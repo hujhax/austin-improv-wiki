@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Manson%20-%20The%20Musical.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

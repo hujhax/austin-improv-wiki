@@ -1,3 +1,7 @@
+---
+description: "|Assistant Director = Ryan Austin (2013)."
+image: "File/TheatreSports.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2012."
+image: "File/The%20Control%20Group.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,18 +78,26 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
-<p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[Theatres/The New Movement|The New Movement]], the members of TCG consist of Tom Niland, Alex Berry, Micheal Foulk, [[Performers/Margaux Binder|Margaux Binder]], and Mandy Spivey. </p>
-<p>They came to know/adore/fear each other through the skillful crafting and assembling of [[Performers/Chris Trew|Chris]] and [[Performers/Tami Nelson|Tami]]. The world has never been the same since.</p>
-</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> 
+> Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[Theatres/The New Movement|The New Movement]], the members of TCG consist of Tom Niland, Alex Berry, Micheal Foulk, [[Performers/Margaux Binder|Margaux Binder]], and Mandy Spivey. 
+> 
+> They came to know/adore/fear each other through the skillful crafting and assembling of [[Performers/Chris Trew|Chris]] and [[Performers/Tami Nelson|Tami]]. The world has never been the same since.
+> 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
-<p>We start all our sets with a conversation among the performers. </p>
-<p>Hopefully, it makes us seem friendly and charming and likable while generating information to use in our pieces. </p>
-<p>We then use the information we've generated just moments before to name our piece on the spot and begin doing long form scenes. </p>
-<p>We try to pull elements through from scene to scene.</p>
-</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> 
+> We start all our sets with a conversation among the performers. 
+> 
+> Hopefully, it makes us seem friendly and charming and likable while generating information to use in our pieces. 
+> 
+> We then use the information we've generated just moments before to name our piece on the spot and begin doing long form scenes. 
+> 
+> We try to pull elements through from scene to scene.
+> 
+
 
 ## Media
 ### Photos

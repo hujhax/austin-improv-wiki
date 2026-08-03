@@ -1,3 +1,7 @@
+---
+description: "An improv performer who has studied improv at the Hideout..."
+image: "File/Luke%20Wallens.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

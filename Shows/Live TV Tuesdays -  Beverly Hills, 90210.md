@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Live%20TV%20Tuesdays-%2090210.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -133,7 +137,7 @@
 	</table>
 </div>
 
-:*This page refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Gnap! Theater Projects]] improv show based on *90210*, see *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]''.
+:*This page refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] improv show based on *90210*, see *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]''.
 
 ***Live TV Tuesdays: 90210*** refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of the *Beverly Hills, 90210* episode ["Spring Dance"](http://90210.wikia.com/wiki/Spring_Dance).
 

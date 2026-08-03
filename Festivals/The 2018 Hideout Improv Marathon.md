@@ -1,3 +1,6 @@
+---
+description: "The 2018 Improv Marathon was the tenth annual Hideout Improv..."
+---
 **The 2018 Improv Marathon** was the tenth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It took place from June 22-24, 2018.
 
 ## Core Players

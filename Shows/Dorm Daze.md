@@ -1,3 +1,7 @@
+---
+description: "|Producer = Scott Hearne."
+image: "File/Dorm%20Daze.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -142,13 +146,17 @@
 ## Summary
 Summary for the second run at The Institution:
 
-<blockquote>
-<p>Another summer school semester is in session within the gilded hallways of the Institution Institute of Institutional Learning. Once again, two ancient rivals, the Preppies and the Fuck-ups, will battle it out in an Animal House-inspired improv clash of class versus crass!</p>
 
-<p>Bad Font want to keep it clean. As the Resident Advisors, they’ve been working hard to create a welcoming (and theatrical) environment for you, the new wave of incoming freshmen. But will all their hard work be ruined by the rowdy Empty Promises fraternity? They reside a hundred yards away on Greek row, partying down under the sagging eaves of an old Victorian building in their Chicago-style fury.</p>
+> 
+> Another summer school semester is in session within the gilded hallways of the Institution Institute of Institutional Learning. Once again, two ancient rivals, the Preppies and the Fuck-ups, will battle it out in an Animal House-inspired improv clash of class versus crass!
+> 
+> 
+> Bad Font want to keep it clean. As the Resident Advisors, they’ve been working hard to create a welcoming (and theatrical) environment for you, the new wave of incoming freshmen. But will all their hard work be ruined by the rowdy Empty Promises fraternity? They reside a hundred yards away on Greek row, partying down under the sagging eaves of an old Victorian building in their Chicago-style fury.
+> 
+> 
+> If it weren't for the longstanding and antiquated campus bylaws, Institution Dean Thomas Charles Booker would have had their charter dissolved several semester ago. Perhaps this term is the one where it all goes to pot! Who will reign in this wacky intramural contest?
+> 
 
-<p>If it weren't for the longstanding and antiquated campus bylaws, Institution Dean Thomas Charles Booker would have had their charter dissolved several semester ago. Perhaps this term is the one where it all goes to pot! Who will reign in this wacky intramural contest?</p>
-</blockquote>
 
 ## Media
 ### Photos

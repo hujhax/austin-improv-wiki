@@ -1,3 +1,7 @@
+---
+description: "Philip \"Phil\" Aulie (1986-2012) was an improv performer, musician, and..."
+image: "File/Philspin.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

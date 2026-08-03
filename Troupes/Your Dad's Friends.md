@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2014."
+image: "File/Your%20Dad%27s%20Friends.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -73,7 +77,9 @@
 **Your Dad's Friends** was an improv troupe that consists mainly of improvisors who were around for the early days of the Austin-improv scene.
 
 ## History
-Here is [[Performers/Chuy Zarate|Chuy Zarate]]'s explanation of the name's origin:<blockquote>Your Dad's Friends were named at Barfly's on Airport Blvd. The name cones from a Bobcat Goldthwait stand-up bit in which he told about how creepy your dad's friends were growing up. We started the troupe to get a bunch of folks who played with Monk's Night Out and RP4GC back on stage. Matt Sadler recommended the name because we are older than dirt.</blockquote>
+Here is [[Performers/Chuy Zarate|Chuy Zarate]]'s explanation of the name's origin:
+> Your Dad's Friends were named at Barfly's on Airport Blvd. The name cones from a Bobcat Goldthwait stand-up bit in which he told about how creepy your dad's friends were growing up. We started the troupe to get a bunch of folks who played with Monk's Night Out and RP4GC back on stage. Matt Sadler recommended the name because we are older than dirt.
+
 
 ## Media
 ### Video

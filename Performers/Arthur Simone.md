@@ -1,3 +1,7 @@
+---
+description: "An improv performer, teacher, and director."
+image: "File/Arthur%20Simone%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -23,9 +27,12 @@
 
 ## Summary
 From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/arthur-simone):
-<blockquote><p>Arthur Simone is an actor, artist and co-founder of Austin's ColdTowne Theater. He graduated in Theatre from Oberlin College and studied improvisation at Chicago's Improv Olympic. Notable live performances have included [[Troupes/Buddy Daddy|improv with a dog]], Carla Goodman's Failure: a Big StupidMess, Rubber Repertory's Jubilee and his one-man show *[[Shows/Dear Frailty|Dear Frailty]]*, which earned him an award as Best Actor in Austin.</p>
 
-<p>As a film and television actor, he's appeared in everything from *Big Momma's House 2* to *Parkland*. Arthur has been a sometime fixture on the annual East Austin Studio Tour and has been a finalist for the Hunting Art Prize.</p></blockquote>
+> Arthur Simone is an actor, artist and co-founder of Austin's ColdTowne Theater. He graduated in Theatre from Oberlin College and studied improvisation at Chicago's Improv Olympic. Notable live performances have included [[Troupes/Buddy Daddy|improv with a dog]], Carla Goodman's Failure: a Big StupidMess, Rubber Repertory's Jubilee and his one-man show *[[Shows/Dear Frailty|Dear Frailty]]*, which earned him an award as Best Actor in Austin.
+> 
+> 
+> As a film and television actor, he's appeared in everything from *Big Momma's House 2* to *Parkland*. Arthur has been a sometime fixture on the annual East Austin Studio Tour and has been a finalist for the Hunting Art Prize.
+
 
 ## Troupes
 * [[Troupes/3, 2, 1, Kill!|3, 2, 1, Kill!]]

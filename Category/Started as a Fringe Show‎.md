@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"Started as a Fringe Show‎\"."
+---
 ## Pages in category "Started as a Fringe Show‎"
 
 * [[Shows/Epic Telescope|Epic Telescope]]

@@ -1,3 +1,7 @@
+---
+description: "Sketch writer/producer/actor/instructor in Austin, Texas and performed comedy in Austin..."
+image: "File/Tim%20Honker%20headshot.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

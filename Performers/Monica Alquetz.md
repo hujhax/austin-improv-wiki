@@ -1,3 +1,7 @@
+---
+description: "An improv performer, director, and teacher."
+image: "File/Monica%20Alquetz.jpeg"
+---
 ![[Performance picture 2.jpg]]
 <div>
 	<table class="infobox infobox-performer">
@@ -11,7 +15,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="Merlin Works">Merlin Works</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a>, <a class="internal-link" href="Theatres/Merlin Works">Merlin Works</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

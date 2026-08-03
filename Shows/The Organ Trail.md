@@ -1,3 +1,6 @@
+---
+description: "|Run = Oct 2014."
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -82,6 +85,7 @@
 
 ## Summary
 ### Publicity Blurb
-<blockquote>"As if snake bites and dysentery weren't enough to worry about, in this highly interactive (and highly bloody) live simulation of the game 'The Organ Trail', a zombie version of the game 'The Oregon Trail', audience members will attempt to survive a cross country trip in their trusty station wagon to a safe zone in Seattle. Along the way the audience will help by making crucial decisions, participating in hunting and scavenging challenges, and – if worst comes to worst – making a tombstone for the friend they brought to the show."</blockquote>
+> "As if snake bites and dysentery weren't enough to worry about, in this highly interactive (and highly bloody) live simulation of the game 'The Organ Trail', a zombie version of the game 'The Oregon Trail', audience members will attempt to survive a cross country trip in their trusty station wagon to a safe zone in Seattle. Along the way the audience will help by making crucial decisions, participating in hunting and scavenging challenges, and – if worst comes to worst – making a tombstone for the friend they brought to the show."
+
 
 Category:Shows

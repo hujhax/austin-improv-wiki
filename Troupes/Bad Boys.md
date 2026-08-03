@@ -1,3 +1,7 @@
+---
+description: "|Previous Members =."
+image: "File/Bad%20Boys%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -85,9 +89,12 @@ Their initial format involved interviewing an audience member as inspiration for
 Bad Boys currently has an open-ended run on Friday nights at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
-Here is Adam Trabka's explanation of the name's origin:<blockquote><p>Our *[[Shows/Cagematch|Cagematch]]* submission was due and we were spitballing names in RLM when Byron made this big dramatic proclamation that he knew exactly the name that would exemplify us and walked up to the chalkboard and wrote "BAD BOYS" in big letters. No one could come up with an argument against it so we went with it since at that time we were only committed to doing a Cagematch.</p>
+Here is Adam Trabka's explanation of the name's origin:
+> Our *[[Shows/Cagematch|Cagematch]]* submission was due and we were spitballing names in RLM when Byron made this big dramatic proclamation that he knew exactly the name that would exemplify us and walked up to the chalkboard and wrote "BAD BOYS" in big letters. No one could come up with an argument against it so we went with it since at that time we were only committed to doing a Cagematch.
+> 
+> 
+> In hindsight, he was probably doing a bit.
 
-<p>In hindsight, he was probably doing a bit.</p></blockquote>
 ## Awards
 * Most Outstanding Troupe - ColdTowne Awards - 2011, 2014
 * B. Iden Payne Award for Outstanding Work in Improvisational Theatre Nominee - 2012, 2013, 2014

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010."
+image: "File/Apocalypse%20Meow.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Still mostly doing montage, though if we are going to start experimenting with new formats. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Still mostly doing montage, though if we are going to start experimenting with new formats. 
+
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/pages/Apocalypse-Meow/184172271700?ref=ts)

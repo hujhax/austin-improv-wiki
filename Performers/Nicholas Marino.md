@@ -1,3 +1,7 @@
+---
+description: "Born December 11th, 1991."
+image: "File/jpg"
+---
 Born December 11th, 1991
 6'0"
 White Dude

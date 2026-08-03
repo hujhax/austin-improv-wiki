@@ -1,3 +1,7 @@
+---
+description: "|Run = Jun 2013."
+image: "File/Care%20Bears.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

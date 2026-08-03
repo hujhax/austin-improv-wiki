@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2011."
+image: "File/Delta%20Burka.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Delta Burka was conceived by six improv-hungry individuals, after a post-class outing to Rio Rita one night. These six Level 2 classmates thought, "We respect eachother a lot and play so well together in class, so why not form a troupe?" And that's how it began. You couldn't get six people more different in one troupe, but that's why the love runs deep in Delta Burka.</blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Delta Burka was conceived by six improv-hungry individuals, after a post-class outing to Rio Rita one night. These six Level 2 classmates thought, "We respect eachother a lot and play so well together in class, so why not form a troupe?" And that's how it began. You couldn't get six people more different in one troupe, but that's why the love runs deep in Delta Burka.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are working on a new form, but for now we mostly just do montage style long-form. We will probably stick to that for a while, as we are still developing our skills. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We are working on a new form, but for now we mostly just do montage style long-form. We will probably stick to that for a while, as we are still developing our skills. 
+
 
 ## Media
 ### Photos

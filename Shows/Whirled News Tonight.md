@@ -1,3 +1,7 @@
+---
+description: "|Directed by = | Bob McNicholErika McNichol | Jennifer Cargill."
+image: "File/Whirled%20News%20Tonight.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

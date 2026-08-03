@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"The New Movement\"."
+---
 ## Pages in category "The New Movement"
 
 * [[Shows/Fighting Spirit|Fighting Spirit]]

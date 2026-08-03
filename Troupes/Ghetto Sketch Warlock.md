@@ -1,3 +1,7 @@
+---
+description: "An alter ego of Bryan \"Lubu\" Roberts that he uses..."
+image: "File/Ghetto%20Sketch%20Warlock.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

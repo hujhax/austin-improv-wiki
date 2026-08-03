@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Gnome%20noir.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

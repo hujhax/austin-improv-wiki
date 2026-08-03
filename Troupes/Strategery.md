@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2012."
+image: "File/Strategery.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Strategery is a Chicago style long form improvisational troupe consisting of 5 members that all live in Austin, Tx. Its members have trained at conservatories in Austin, Chicago, Phoenix, and Los Angeles and are all currently faculty members at conservatories in Austin, Tx. Our goal is to discover the moment as an ensemble and then play it out to its logical (or illogical conclusion) without regard to any specific form.</blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Strategery is a Chicago style long form improvisational troupe consisting of 5 members that all live in Austin, Tx. Its members have trained at conservatories in Austin, Chicago, Phoenix, and Los Angeles and are all currently faculty members at conservatories in Austin, Tx. Our goal is to discover the moment as an ensemble and then play it out to its logical (or illogical conclusion) without regard to any specific form.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a loose Harold in that we all start onstage together and see what happens. As such our shows can be anything from a mono scene to a more traditional 3 beat structure. Ideally the content of our shows informs the structure and vice versa.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a loose Harold in that we all start onstage together and see what happens. As such our shows can be anything from a mono scene to a more traditional 3 beat structure. Ideally the content of our shows informs the structure and vice versa.
+
 
 ## Media
 ### Videos

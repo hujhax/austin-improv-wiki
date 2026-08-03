@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"The Hideout Theatre\"."
+---
 ## Pages in category "The Hideout Theatre"
 
 * [[Shows/183 Dewberry Lane|183 Dewberry Lane]]

@@ -1,3 +1,7 @@
+---
+description: "|Director = Marc Pruter."
+image: "File/Monks%27%20Night%20Out.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

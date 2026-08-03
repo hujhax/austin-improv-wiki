@@ -1,3 +1,6 @@
+---
+description: "|Years = 2011."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Five of ColdTowne Theater's best performers will try their hand at narrative improv and attempt to improvise a movie on the spot. Complete with cut-to's and closeups, zoom-ins and voiceovers, Movie: The Movie will make you feel like you're sitting at the local multiplex instead of the Hideout Theater. And after winning the AIC's *[[Shows/Cagematch|Cagematch]]* a record 6 times in a row, they've gotten pretty good at it.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Five of ColdTowne Theater's best performers will try their hand at narrative improv and attempt to improvise a movie on the spot. Complete with cut-to's and closeups, zoom-ins and voiceovers, Movie: The Movie will make you feel like you're sitting at the local multiplex instead of the Hideout Theater. And after winning the AIC's *[[Shows/Cagematch|Cagematch]]* a record 6 times in a row, they've gotten pretty good at it.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform a movie.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We perform a movie.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

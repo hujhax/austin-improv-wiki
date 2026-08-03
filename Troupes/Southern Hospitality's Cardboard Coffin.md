@@ -1,3 +1,6 @@
+---
+description: "|Years = 2010."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Plucky Southerners explore the subtle truths in life. Every action has unintended consequences. Hilarity ensues.</blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Plucky Southerners explore the subtle truths in life. Every action has unintended consequences. Hilarity ensues.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Each scene takes something that is true about the previous scene and explores what else would be true as a consequence.  Scenes are edited without sweep edits.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Each scene takes something that is true about the previous scene and explores what else would be true as a consequence.  Scenes are edited without sweep edits.
+
 
 ## History
 They played one Cagematch on 8/7/10.

@@ -1,3 +1,7 @@
+---
+description: "|Tech = Neal Tibrewala."
+image: "File/Spirited.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

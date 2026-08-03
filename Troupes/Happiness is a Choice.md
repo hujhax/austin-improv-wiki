@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Happiness%20is%20a%20Choice.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

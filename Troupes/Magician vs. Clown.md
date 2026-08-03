@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Magician%20Versus%20Clown.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,9 +78,12 @@
 
 ## Summary
 Their bio, from the web site for [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]]:
-<blockquote><p>"Magician vs. Clown writes a new show from scratch for every each performance and featuring ectoplasm, seances, fog, pathos, and a crotch-kick (that's what they're into right now).</p>
 
-<p>Nathan Livni and Jericho Thorp use comedy, slapstick, and good ol' fashioned hocus-pocus to continually undermine each other. Be preparaed for threats, pies in the face, moral degradation, and approximately one magic trick."</p></blockquote>
+> "Magician vs. Clown writes a new show from scratch for every each performance and featuring ectoplasm, seances, fog, pathos, and a crotch-kick (that's what they're into right now).
+> 
+> 
+> Nathan Livni and Jericho Thorp use comedy, slapstick, and good ol' fashioned hocus-pocus to continually undermine each other. Be preparaed for threats, pies in the face, moral degradation, and approximately one magic trick."
+
 
 ## Media
 ### Videos

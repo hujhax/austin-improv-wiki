@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2013."
+image: "File/Subject%20Object.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Subject: Object is a duo that uses an object supplied from an audience member as the suggestion for the show. </blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Subject: Object is a duo that uses an object supplied from an audience member as the suggestion for the show. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Wacky way to get a suggestion, strong character work, we actually show up.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Wacky way to get a suggestion, strong character work, we actually show up.
+
 
 ## History
 The duo premiered at the [[Theatres/Coldtowne Theater|Coldtowne Theater]] *Shakedown* on 7/8/11.

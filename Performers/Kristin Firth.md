@@ -1,3 +1,7 @@
+---
+description: "Canadian improv performer who lived in and performed regularly in..."
+image: "File/Kristin%20firth.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

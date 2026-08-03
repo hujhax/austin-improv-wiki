@@ -1,3 +1,7 @@
+---
+description: "An anthology of Christmas-themed performances of previous mainstage shows at..."
+image: "File/The%20Hideout%20Holiday%20Super%20Special%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Run = Sep 2011."
+image: "File/After%20School%20Special%20Victims%20Unit.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,1 +1,4 @@
+---
+description: "3-2-1 Kill played at the Hideout, and I think at..."
+---
 3-2-1 Kill played at the Hideout, and I think at Coldtowne for a while. I don't know when those were, though.

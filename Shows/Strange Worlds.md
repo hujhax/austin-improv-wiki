@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Strange%20Worlds%20Image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -144,7 +148,9 @@ The show was an improvised serial anthology based in the tropes of the pulps of 
 The technical improvisors for the show are [[Performers/Cindy Page|Cindy Page]], [[Performers/Chad Wellington|Chad Wellington]], and [[Michael Yew]].
 
 ## History
-Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>I got turned on to the pulps after reading the first issue of Planetary, the last line (and pseudo-motto) of which is "Strange world. Let's keep it that way." When I was trying to think of something that sounded like the title of an old pulp anthology, those first two words were just right. </blockquote>
+Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the name's origin:
+> I got turned on to the pulps after reading the first issue of Planetary, the last line (and pseudo-motto) of which is "Strange world. Let's keep it that way." When I was trying to think of something that sounded like the title of an old pulp anthology, those first two words were just right. 
+
 
 ## Characters
 * **The Beacon** ([[Performers/Marc Majcher|Marc Majcher]]) is a stage magician and debunker named Rick White, cursed to attract supernatural forces at all times.
@@ -161,21 +167,21 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 
 ## Show Summaries
 * Episode 1 (3/2/13):
-	* [[Maxine Maker and the Scintillating Confabulator!]]
-	* [[Strange Times -  The Body]]
-	* [[The Grey Bishop -  The Ruby and the Tiger]]
+	* [[Shows/Strange Worlds Episodes/Maxine Maker and the Scintillating Confabulator!|Maxine Maker and the Scintillating Confabulator!]]
+	* [[Shows/Strange Worlds Episodes/Strange Times -  The Body|Strange Times -  The Body]]
+	* [[Shows/Strange Worlds Episodes/The Grey Bishop -  The Ruby and the Tiger|The Grey Bishop -  The Ruby and the Tiger]]
 * Episode 2 (3/9/13):
-	* [[The Beacon and the Dancing Skeleton]]
-	* [[Strange Times -  The Pendant]]
-	* [[Bellwether Blue Versus the Shadow Asps]]
+	* [[Shows/Strange Worlds Episodes/The Beacon and the Dancing Skeleton|The Beacon and the Dancing Skeleton]]
+	* [[Shows/Strange Worlds Episodes/Strange Times -  The Pendant|Strange Times -  The Pendant]]
+	* [[Shows/Strange Worlds Episodes/Bellwether Blue Versus the Shadow Asps|Bellwether Blue Versus the Shadow Asps]]
 * Episode 3 (3/23/13):
-	* [[Jack Ryder and the Temples of Neptune]]
-	* [[Strange Times -  The Trident]]
+	* [[Shows/Strange Worlds Episodes/Jack Ryder and the Temples of Neptune|Jack Ryder and the Temples of Neptune]]
+	* [[Shows/Strange Worlds Episodes/Strange Times -  The Trident|Strange Times -  The Trident]]
 	* [[The Peregrine and the Web of Youth]]
 * Episode 4 (3/30/13):
-	* [[Lily Wilde Versus the Ravenous Cats]]
-	* [[Strange Times -  The Tattoo]]
-	* [[Codename -  Sleuth and the Case of the Assassin's Sting]]
+	* [[Shows/Strange Worlds Episodes/Lily Wilde Versus the Ravenous Cats|Lily Wilde Versus the Ravenous Cats]]
+	* [[Shows/Strange Worlds Episodes/Strange Times -  The Tattoo|Strange Times -  The Tattoo]]
+	* [[Shows/Strange Worlds Episodes/Codename -  Sleuth and the Case of the Assassin's Sting|Codename -  Sleuth and the Case of the Assassin's Sting]]
 
 ## Media
 ### Main Run

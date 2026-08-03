@@ -1,3 +1,7 @@
+---
+description: "|Years = 2005-Present."
+image: "File/Sara%20Farr%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -81,9 +85,12 @@ She's scored many shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]],
 
 Sara also designed the [[Austin Improv Collective]]'s "kitchen sink" logo.
 
-A post from her about the first improv show she ever saw:<blockquote><p>A stand-up show at a comedy club in Santa Monica (early 1990s; not Laugh Factory, not Comedy Store, hm...) while attending college at USC. The last set, after all the other stand-ups, was a group of LA character actors (whose names I can't remember, but who I distinctly remember were staring in sitcoms or playing secondary rolls in films). It was shockingly fun. I remember thinking, "Why weren't these guys the opening act???!!" The one game they played that I remember was "Directed Story". A year later, [[Performers/Tom Booker|Tom Booker]] and I unknowingly ALMOST crossed paths when my friends and I discussed going to see his production of "The Brady Bunch".</p> 
+A post from her about the first improv show she ever saw:
+> A stand-up show at a comedy club in Santa Monica (early 1990s; not Laugh Factory, not Comedy Store, hm...) while attending college at USC. The last set, after all the other stand-ups, was a group of LA character actors (whose names I can't remember, but who I distinctly remember were staring in sitcoms or playing secondary rolls in films). It was shockingly fun. I remember thinking, "Why weren't these guys the opening act???!!" The one game they played that I remember was "Directed Story". A year later, [[Performers/Tom Booker|Tom Booker]] and I unknowingly ALMOST crossed paths when my friends and I discussed going to see his production of "The Brady Bunch".
+>  
+> 
+> Also, saw some USC Theater students doing improv on the grass in the "quad". Only thing I remember was them doing an improvised "Death By..." scene. Fav was "Death By Admissions" where the players grew old and died while waiting in line.
 
-<p>Also, saw some USC Theater students doing improv on the grass in the "quad". Only thing I remember was them doing an improvised "Death By..." scene. Fav was "Death By Admissions" where the players grew old and died while waiting in line.</p></blockquote>
 
 ## Troupes
 * [[Troupes/ComedySportz|ComedySportz]]

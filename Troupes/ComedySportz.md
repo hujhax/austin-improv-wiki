@@ -1,3 +1,6 @@
+---
+description: ": This page refers to the sports-themed short-form improv show..."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

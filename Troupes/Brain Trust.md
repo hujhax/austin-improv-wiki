@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-Present."
+image: "File/Brain%20Trust.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/Known%20wizards.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -70,7 +74,7 @@
 	</table>
 </div>
 
-**The Known Wizards** is a troupe consisting of faculty members from the [[Merlin Works Institute for Improvisation]].
+**The Known Wizards** is a troupe consisting of faculty members from the [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]].
 
 ## Summary
 The troupe was founded in conjunction with Merlin Works' move from [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] to ZACH Theater specifically to perform in Merlin Works' monthly *[[Shows/Second Sundays|Second Sundays]]* shows.
@@ -81,7 +85,7 @@ The troupe was founded in conjunction with Merlin Works' move from [[Theatres/Sa
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.472343332829188.114046.221927764537414&type=3) by [[Steve Rogers]] of their 1/10/13 dress rehearsal.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3) by [[Michael Yew]] which includes their 1/13/13 performance in the [[Merlin Works]] grand opening.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3) by [[Michael Yew]] which includes their 1/13/13 performance in the [[Theatres/Merlin Works|Merlin Works]] grand opening.
 	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.519628588058641.116285.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.537592239637630.1073741866.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/12/13 performance at ZACH Theater.
 * [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.10151904171902704.1073741842.505207703&type=3) by [[Performers/Tyler Bryce|Tyler Bryce]] of their show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].

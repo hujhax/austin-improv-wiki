@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Fandom%20cover%20photo.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

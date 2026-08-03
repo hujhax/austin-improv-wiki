@@ -1,3 +1,7 @@
+---
+description: "|Run = Oct/Nov 2009."
+image: "File/Dusk%20Image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -83,7 +87,7 @@
 </div>
 
 
-***Dusk*** (full name: ***Dusk: Improvised Tween Erotica***) was a longform narrative improv show produced by [[Gnap! Theater Projects]].
+***Dusk*** (full name: ***Dusk: Improvised Tween Erotica***) was a longform narrative improv show produced by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 It was an improvised take on The *Twilight* Saga.
 

@@ -1,3 +1,6 @@
+---
+description: "Be the eighth annual Hideout Improv Marathon."
+---
 **The 47-Hour Improv Marathon** was be the eighth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It took place from June 17-19, 2016.
 
 ## Core Players

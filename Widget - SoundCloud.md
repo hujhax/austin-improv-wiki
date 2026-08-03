@@ -1,3 +1,6 @@
+---
+description: "__NOTOC__."
+---
 <noinclude>
 This widget allows you to embed **[SoundCloud](http://www.soundcloud.com/)** on your wiki page.
 

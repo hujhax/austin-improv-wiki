@@ -1,3 +1,7 @@
+---
+description: "|Music Director = Ammon Taylor."
+image: "File/Happily%20Ever%20After.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -141,8 +145,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>Improvised musicals inspired by Disney characters!  Princesses, magic, talking animals, heartfelt songs, nefarious villains, and a firm belief that good will triumph over evil.
-</blockquote>
+From the show announcement:
+> Improvised musicals inspired by Disney characters!  Princesses, magic, talking animals, heartfelt songs, nefarious villains, and a firm belief that good will triumph over evil.
+
 
 ## Media
 ### Photos

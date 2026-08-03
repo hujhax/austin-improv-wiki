@@ -1,3 +1,6 @@
+---
+description: "First performance of Showdown, which was improvised on 3/25/11."
+---
 ***Showdown* – First Episode: "Pilot"** refers to the first performance of *[[Shows/Showdown|Showdown]]*, which was improvised on 3/25/11.
 
 ## Episode Summary

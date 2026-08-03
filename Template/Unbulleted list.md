@@ -1,3 +1,6 @@
+---
+description: "== Usage ==."
+---
 <noinclude>
 ## Usage
 This template formats sets of items into an unbulleted list.  It accepts up to fifty items.

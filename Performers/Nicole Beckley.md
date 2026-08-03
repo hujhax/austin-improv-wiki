@@ -1,3 +1,7 @@
+---
+description: "An improviser and sketch writer/performer."
+image: "File/Nicole%20Beckley%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

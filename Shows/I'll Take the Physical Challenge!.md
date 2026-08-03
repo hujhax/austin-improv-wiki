@@ -1,3 +1,6 @@
+---
+image: "File/I%27ll%20Take%20the%20Physical%20Challenge%21%20placeholder%20image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -35,8 +38,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>Improvisors' physical and mental limits are stretched in this most extreme challenge show.  In the style of Japanese game shows like *Gaki No Tsukai* and 80s American classics like *Double Dare*
-</blockquote>
+From the show announcement:
+> Improvisors' physical and mental limits are stretched in this most extreme challenge show.  In the style of Japanese game shows like *Gaki No Tsukai* and 80s American classics like *Double Dare*
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/) on the Hideout's facebook group.

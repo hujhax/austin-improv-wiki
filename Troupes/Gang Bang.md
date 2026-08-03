@@ -1,3 +1,6 @@
+---
+description: "|Years = 2010-2012."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The audience writes down a phrase that one player silently mouths to another player who hasn't seen the phrase. The lip reader interprets what was said and that becomes the first line of a scene. The first player (the one in the know) tries to find a way to get the lip reader to say the actual phrase, ending the scene!</blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> The audience writes down a phrase that one player silently mouths to another player who hasn't seen the phrase. The lip reader interprets what was said and that becomes the first line of a scene. The first player (the one in the know) tries to find a way to get the lip reader to say the actual phrase, ending the scene!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Explained in blurb. However, unlike most of Gang Bang's shows, this one will not be done very drunk.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Explained in blurb. However, unlike most of Gang Bang's shows, this one will not be done very drunk.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

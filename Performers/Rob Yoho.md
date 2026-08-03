@@ -1,3 +1,7 @@
+---
+description: "An improv performer, tech, and director and is the Operations..."
+image: "File/robyoho.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

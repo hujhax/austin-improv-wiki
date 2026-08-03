@@ -1,3 +1,7 @@
+---
+description: "Fourth annual Out of Bounds Comedy Festival."
+image: "File/2005%20Out%20of%20Bounds%20Postcard.jpg"
+---
 **The 2005 Out of Bounds Comedy Festival** was the fourth annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].  It ran from 9/7/05 to 9/10/05.
 
 ![[2005 Out of Bounds Postcard.jpg|A postcard for the 2003 Out of Bounds Comedy Festival.]]

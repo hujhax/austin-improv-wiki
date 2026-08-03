@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-2013."
+image: "File/Malk.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,17 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Malk is the two person troupe mashing up [[Performers/Lance Gilstrap|Lance Gilstrap]] and Mac Blake.</p> 
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Malk is the two person troupe mashing up [[Performers/Lance Gilstrap|Lance Gilstrap]] and Mac Blake.
+>  
+> 
+> Between them, half of Austin's comedy has been covered... [[Troupes/Midnight Society|Midnight Society]], KOOP's Mascot Wedding, Master Pancake Theater, *[[Shows/The Hustle Show|The Hustle Show]]*, [[Troupes/Stag Comedy|Stag Comedy]], [[Troupes/Hot Property|Hot Property]], and a finalist in the Funniest Person in Austin.
 
-<p>Between them, half of Austin's comedy has been covered... [[Troupes/Midnight Society|Midnight Society]], KOOP's Mascot Wedding, Master Pancake Theater, *[[Shows/The Hustle Show|The Hustle Show]]*, [[Troupes/Stag Comedy|Stag Comedy]], [[Troupes/Hot Property|Hot Property]], and a finalist in the Funniest Person in Austin.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>In the past we've done shows based on a topic one of us knows a lot about, and then other is a novice. We've also just taken a suggestion, talked about what we think of with that and then dive right in.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> In the past we've done shows based on a topic one of us knows a lot about, and then other is a novice. We've also just taken a suggestion, talked about what we think of with that and then dive right in.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

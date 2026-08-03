@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/You%20Bet%20Your%20Life.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Groucho Marx returns in his classic quiz show!! Watch as audience members compete for prizes and enter dialogue with Groucho himself in this improvised game show! There may even be special appearances from Groucho's famous friends.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Groucho Marx returns in his classic quiz show!! Watch as audience members compete for prizes and enter dialogue with Groucho himself in this improvised game show! There may even be special appearances from Groucho's famous friends.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Improvised game show format with audience contestants.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Improvised game show format with audience contestants.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

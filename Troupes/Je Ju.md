@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/Je%20Ju.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -76,10 +80,14 @@
 Je Ju (pronounced Jay Joo) explores the depths to which people care and about those—people, things, and ideas—that they care about. Real-life improviser couple, Jeanette and Justin Bozied, find delight in every scene by playing multiple characters in revolving and evolving relationships, but they never shy away from entering dark territory, emotionally-charged situations, or heady themes. Je Ju explores the range of dynamics in the different types of relationships a person can have, tying scenes together with a theme discovered throughout the course of the show. 
 
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Love can play out, successfully and unsuccessfully, in many different ways. Whether it's romantic, platonic, familial, or mutual, lost, or imagined, no love story is like any other. Je Ju (pronounced Jay Jew) explores the depths to which people care and about those -- people, things, and ideas -- that they care about. Two people, real-life couple Justin and Jeanette Bozied, play multiple characters in revolving and evolving relationships. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Love can play out, successfully and unsuccessfully, in many different ways. Whether it's romantic, platonic, familial, or mutual, lost, or imagined, no love story is like any other. Je Ju (pronounced Jay Jew) explores the depths to which people care and about those -- people, things, and ideas -- that they care about. Two people, real-life couple Justin and Jeanette Bozied, play multiple characters in revolving and evolving relationships. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We focus on the different dynamics of multiple relationships that all fit within a theme discovered through the course of the show. Je Ju does this through performing a two-person La Ronde[http://wiki.improvresourcecenter.com/index.php?title=La_Ronde](http://wiki.improvresourcecenter.com/index.php?title=La_Ronde), which allows us to show the different sides of a character based on who he or she is interacting with and for each performer to play wildly different characters in each show. A goal of Je Ju's is to focus on stories that express the feeling of love in some way. This doesn't mean every expression of love is positive or even successful, but that doesn't negate the feeling of connection to the stories told. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We focus on the different dynamics of multiple relationships that all fit within a theme discovered through the course of the show. Je Ju does this through performing a two-person La Ronde[http://wiki.improvresourcecenter.com/index.php?title=La_Ronde](http://wiki.improvresourcecenter.com/index.php?title=La_Ronde), which allows us to show the different sides of a character based on who he or she is interacting with and for each performer to play wildly different characters in each show. A goal of Je Ju's is to focus on stories that express the feeling of love in some way. This doesn't mean every expression of love is positive or even successful, but that doesn't negate the feeling of connection to the stories told. 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

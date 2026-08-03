@@ -1,3 +1,7 @@
+---
+description: "An actor, improviser, and improv teacher."
+image: "File/AshleyNugent.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

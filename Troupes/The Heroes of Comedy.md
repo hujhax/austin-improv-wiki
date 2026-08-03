@@ -1,3 +1,7 @@
+---
+description: "|Tech = Lisa Brown."
+image: "File/The%20Heroes%20of%20Comedy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

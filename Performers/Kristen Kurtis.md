@@ -1,3 +1,7 @@
+---
+description: "An improviser, actor, stand-up, and sketch writer/performer."
+image: "File/KristenKurtis.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

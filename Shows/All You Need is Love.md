@@ -1,3 +1,7 @@
+---
+description: "|Stage Manager = Sandra Ybarra."
+image: "File/all%20you%20need%20is%20love.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -195,7 +199,8 @@
 ***All You Need Is Love*** was an unapologetic, hopelessly romantic improvised rom-com &aacute; la *Serendipity* and *Sleepless in Seattle*, done as the Hideout Student Mainstage show in February of 2017.
 
 ## Promotional Blurb
-<blockquote>In the world where destiny and fate exist to bring us inevitably to our one and only soulmate, the journey to that special someone will be full of adventure, mishaps, and missed connections full of humor, heart, and a fairy-tale-style happy ending.</blockquote>
+> In the world where destiny and fate exist to bring us inevitably to our one and only soulmate, the journey to that special someone will be full of adventure, mishaps, and missed connections full of humor, heart, and a fairy-tale-style happy ending.
+
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/AllYouNeedisLove)

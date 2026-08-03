@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Heist.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -69,7 +73,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Gnap! Theater Projects]]</td>
+			<td class="category">[[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -138,7 +142,7 @@
 ## Summary
 This show ran in [[Shows/The Saturday Night Special|The Saturday Night Special]] at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] in March 2010.
 
-It was made up of graduates of the 601 class offered by [[The Merlin Works Institute for Improvisation]], who also came up with the format.
+It was made up of graduates of the 601 class offered by [[Theatres/The Merlin Works Institute for Improvisation|The Merlin Works Institute for Improvisation]], who also came up with the format.
 
 ### Press Blurb
 A crack team of improvisers pull off a the crime of a lifetime. Expect elaborate schemes, special skills, desperate men, and double-crossing deals. But be careful, while they lift your spirits, they just might steal your heart.

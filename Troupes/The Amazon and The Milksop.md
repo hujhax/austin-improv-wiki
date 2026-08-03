@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-Present."
+image: "File/The%20Amazon%20and%20the%20Milksop.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -75,11 +79,16 @@
 ## Summary
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] site:
-<blockquote>"[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Curtis Luciani|Curtis Luciani]] are two Austin improvisers and good friends who like to make the people laugh, squirm, think, cry, and experience other wonderful and/or troubling things. They frequently explore gender and relationships in their improvisation while delighting, surprising, and disgusting each other as much as they possibly can. TA&TM have been performing regularly since 2009, including two month-long residences at The Hideout Theatre in 2011 and 2012. Their 'Fitzgeralds For Hire' show won them a Best of Fest accolade at the 2011 FronteraFest Fringe Festival."</blockquote>
+
+> "[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Curtis Luciani|Curtis Luciani]] are two Austin improvisers and good friends who like to make the people laugh, squirm, think, cry, and experience other wonderful and/or troubling things. They frequently explore gender and relationships in their improvisation while delighting, surprising, and disgusting each other as much as they possibly can. TA&TM have been performing regularly since 2009, including two month-long residences at The Hideout Theatre in 2011 and 2012. Their 'Fitzgeralds For Hire' show won them a Best of Fest accolade at the 2011 FronteraFest Fringe Festival."
+
 
 ## History
-Here is [[Performers/Kaci Beeler|Kaci Beeler]]'s explanation of the name's origin:<blockquote><p>This is my duo with Curtis Luciani. We first started improving together in the Hideout show "This Week Tonight" that happened on Fridays at 8pm at the Hideout from 2008-2009 or so? We had a couple of scenes together through the course of the run where Curtis played a more effeminate character and I played a more masculine character. In these scenes we worked with some interesting status stuff, and it was a ton of fun. We decided to try this idea of playing with gender roles in a longer show. Thus, our duo was born. An "amazon" is a somewhat derogatory name for an aggressive or imposing woman and a "milksop" is a derogatory name for a feeble or ineffectual man, the word derived from the dish of bread soaked in milk, which was fed to infants and invalids.</p> 
-<p>We thought more people would recognize these two words, but many seemed to not have heard of them. No matter! In the years since we started working together we've moved on from just looking at gender in our improv, but I still feel like it forms the basis of how we work. I like it!</p></blockquote>
+Here is [[Performers/Kaci Beeler|Kaci Beeler]]'s explanation of the name's origin:
+> This is my duo with Curtis Luciani. We first started improving together in the Hideout show "This Week Tonight" that happened on Fridays at 8pm at the Hideout from 2008-2009 or so? We had a couple of scenes together through the course of the run where Curtis played a more effeminate character and I played a more masculine character. In these scenes we worked with some interesting status stuff, and it was a ton of fun. We decided to try this idea of playing with gender roles in a longer show. Thus, our duo was born. An "amazon" is a somewhat derogatory name for an aggressive or imposing woman and a "milksop" is a derogatory name for a feeble or ineffectual man, the word derived from the dish of bread soaked in milk, which was fed to infants and invalids.
+>  
+> We thought more people would recognize these two words, but many seemed to not have heard of them. No matter! In the years since we started working together we've moved on from just looking at gender in our improv, but I still feel like it forms the basis of how we work. I like it!
+
 
 ## Formats
 ### Fitzgeralds for Hire

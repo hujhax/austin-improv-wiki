@@ -1,3 +1,7 @@
+---
+description: "|Crew =."
+image: "File/Things%20You%20Love.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

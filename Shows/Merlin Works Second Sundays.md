@@ -1,3 +1,7 @@
+---
+description: "The monthly shows at the ZACH Theatre hosted by the..."
+image: "File/Merlin%20Works%20Second%20Sundays.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -27,7 +31,7 @@
 	</table>
 </div>
 
-**Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].
+**Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].
 
 <table class="wikitable">
   <tr >

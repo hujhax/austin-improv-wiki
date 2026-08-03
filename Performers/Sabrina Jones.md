@@ -1,3 +1,7 @@
+---
+description: "An actress."
+image: "File/Sabrina%20Jones%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"Inactive\"."
+---
 ## Pages in category "Inactive"
 
 * [[Troupes/1813 Drake|1813 Drake]]

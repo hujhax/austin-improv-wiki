@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-Present."
+image: "File/Junk.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -75,7 +79,9 @@
 ## Summary
 ### Press Blurb
 Here is their bio from [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]] web site:
-<blockquote>"Junk presents their signature format, in which they combine everything they love about improv into one show - a wild tapestry of: scenes with games, scenes with audience members, and even a mini-narrative in a particular genre. Junk features a who's-who of the improv comedy scene in Austin in the last 10 years, including Hideout Theatre founder Sean Hill, Hideout Theatre education director Andy Crouch, Start Trekkin producer Troy A. Miller, GNAP! Theatre show director Audrey Sansom, and MerlinWorks teacher Ted Rutherford. Together, they have nearly 60 years of improv experience, and they're not afraid to use it."</blockquote>
+
+> "Junk presents their signature format, in which they combine everything they love about improv into one show - a wild tapestry of: scenes with games, scenes with audience members, and even a mini-narrative in a particular genre. Junk features a who's-who of the improv comedy scene in Austin in the last 10 years, including Hideout Theatre founder Sean Hill, Hideout Theatre education director Andy Crouch, Start Trekkin producer Troy A. Miller, GNAP! Theatre show director Audrey Sansom, and MerlinWorks teacher Ted Rutherford. Together, they have nearly 60 years of improv experience, and they're not afraid to use it."
+
 
 ## History
 Junk formed from after the breakup of [[Troupes/Foolish Mortals|Foolish Mortals]] in 2007, with only [[Performers/Ted Rutherford|Ted Rutherford]], Andrea Young, and [[Performers/Troy Miller|Troy Miller]] moving from the one troupe to the other.

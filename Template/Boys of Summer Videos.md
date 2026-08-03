@@ -1,3 +1,6 @@
+---
+description: "This is a list of video of Boys of Summer,..."
+---
 <noinclude>This is a list of video of *[[Shows/Boys of Summer|Boys of Summer]]*, designed for transclusion.</noinclude>
 * [Video](http://youtu.be/RAIGgBSf0rA) of [[Performers/Marc Majcher|Marc Majcher]] guesting with *Boys of Summer* on 8/9/08.
 * [Video](http://vimeo.com/13888720) of [[Performers/Peter Rogers|Peter Rogers]] guesting with *Boys of Summer* on 7/30/10.

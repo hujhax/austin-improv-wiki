@@ -1,3 +1,6 @@
+---
+description: "Eleventh annual Out of Bounds Comedy Festival."
+---
 **The 2012 Out of Bounds Comedy Festival** was the eleventh annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Summary

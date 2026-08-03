@@ -1,3 +1,7 @@
+---
+description: "(formerly Teen Improv Night) is a monthly show/mixer at ColdTowne..."
+image: "File/Teen%20Improv%20Night.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

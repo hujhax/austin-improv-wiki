@@ -1,3 +1,7 @@
+---
+description: "|Years = 2006-2007."
+image: "File/Frogtown%20Hollow%20Jubilee%20Jugband.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

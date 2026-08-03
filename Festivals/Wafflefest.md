@@ -1,3 +1,7 @@
+---
+description: "Festival devoted to local improv acts."
+image: "File/Wafflefest%20Logo.png"
+---
 **WaffleFest** is a festival devoted to local improv acts.
 
 ![[Wafflefest Logo.png|The WaffleFest logo; a variation on the Hideout logo.]]

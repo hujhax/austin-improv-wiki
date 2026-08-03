@@ -1,3 +1,6 @@
+---
+description: "|Years = 2012."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,22 +77,29 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>A mysterious stranger hands you a wish-granting object.</p> 
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> A mysterious stranger hands you a wish-granting object.
+>  
+> 
+> And a warning.
+>  
+> 
+> Join the Improvised Monkey's Paw as they live out the dreams -and nightmares - of those who make wishes.
+>  
+> 
+> IF YOU DARE!
 
-<p>And a warning.</p> 
-
-<p>Join the Improvised Monkey's Paw as they live out the dreams -and nightmares - of those who make wishes.</p> 
-
-<p>IF YOU DARE!</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our format is based on the short story "The Monkey's Paw" by W. W. Jacobs. 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Our format is based on the short story "The Monkey's Paw" by W. W. Jacobs. 
+> 
+> We ask the audience for a suggestion of an object. 
+> 
+> The object becomes central to the show, granting three wishes, always with unintended consequences. 
+> 
+> Our shows are grounded, honest, and patient. 
 
-We ask the audience for a suggestion of an object. 
-
-The object becomes central to the show, granting three wishes, always with unintended consequences. 
-
-Our shows are grounded, honest, and patient. </blockquote>
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

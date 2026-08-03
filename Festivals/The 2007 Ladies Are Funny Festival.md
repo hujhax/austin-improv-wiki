@@ -1,3 +1,6 @@
+---
+description: "First annual Ladies Are Funny Festival."
+---
 **The 2007 Ladies Are Funny Festival** was the first annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 
 ## Summary

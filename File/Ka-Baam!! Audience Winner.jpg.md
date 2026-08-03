@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Ka-Baam!! Audience Winner.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

@@ -1,3 +1,7 @@
+---
+description: "|Run = Apr-Jul 2010."
+image: "File/Shanty%20Town%20Lake.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

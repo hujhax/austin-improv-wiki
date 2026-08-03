@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Elevator%20Action.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,16 +78,23 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>It's the technological marvel that made modern cities possible. It's the closest physical contact most of us ever have with people we don't know (unless we're Greco-Roman wrestlers, or prostitutes). And it's the basis for Elevator Action, the improv show that doesn't go all the way to the top floor.</p>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> It's the technological marvel that made modern cities possible. It's the closest physical contact most of us ever have with people we don't know (unless we're Greco-Roman wrestlers, or prostitutes). And it's the basis for Elevator Action, the improv show that doesn't go all the way to the top floor.
+> 
+> 
+> First, cram a bunch of complete strangers into a metal box so small they can practically smell each other's hopes, fears, and sweaty underpants. Next, physically invade their personal space from every side, even as they desperately try to remain "polite." Then watch as the thin film of civilized behavior burns away, revealing a primal, roiling clusterboink of hilariously inexcusable behavior.
+> 
+> 
+> Think of the most awkward, embarrassing, please-god-let-it-end elevator ride you've ever been on. It was, what, 45 seconds long?
+> 
+> 
+> This one is 25 minutes. Come on, we're not holding the door forever.
 
-<p>First, cram a bunch of complete strangers into a metal box so small they can practically smell each other's hopes, fears, and sweaty underpants. Next, physically invade their personal space from every side, even as they desperately try to remain "polite." Then watch as the thin film of civilized behavior burns away, revealing a primal, roiling clusterboink of hilariously inexcusable behavior.</p>
-
-<p>Think of the most awkward, embarrassing, please-god-let-it-end elevator ride you've ever been on. It was, what, 45 seconds long?</p>
-
-<p>This one is 25 minutes. Come on, we're not holding the door forever.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>One person in elevator. Two people waiting on the elevator on one floor. Two people waiting on the elevator on another floor. Gradually we get all 7 improvisers on the elevator (and all of the relationships/characteristics that have developed why they waited) and see what happens as we ride up the building for some (soon to be known) reason. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> One person in elevator. Two people waiting on the elevator on one floor. Two people waiting on the elevator on another floor. Gradually we get all 7 improvisers on the elevator (and all of the relationships/characteristics that have developed why they waited) and see what happens as we ride up the building for some (soon to be known) reason. 
+
 
 ## Media
 ### Videos

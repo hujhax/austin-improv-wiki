@@ -1,3 +1,7 @@
+---
+description: "Fifth annual Improvised Play Festival."
+image: "File/IPF%202015.jpg"
+---
 ![[IPF 2015.jpg|Publicity image for the festival.]]
 **The 2015 Improvised Play Festival** was the fifth annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 

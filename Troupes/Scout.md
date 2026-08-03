@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2013."
+image: "File/Scout.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Scout is an improv troupe made up of graduates from ColdTowne theater. They are one of the only troupes in Austin currently preforming the harold; a classic Chicago improvisational structure. Scout performs a show where the form and shape of their show is discovered on the fly. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Scout is an improv troupe made up of graduates from ColdTowne theater. They are one of the only troupes in Austin currently preforming the harold; a classic Chicago improvisational structure. Scout performs a show where the form and shape of their show is discovered on the fly. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform our version of the harold. Some refer to this as a "modern" harold...specifically, it is a show where everything that happens is built off of what has come before, and typically patterns emerge which give the show shape. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We perform our version of the harold. Some refer to this as a "modern" harold...specifically, it is a show where everything that happens is built off of what has come before, and typically patterns emerge which give the show shape. 
+
 
 ## Media
 ### Videos

@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Lonely%20Star%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

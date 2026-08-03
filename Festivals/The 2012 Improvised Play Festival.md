@@ -1,3 +1,6 @@
+---
+description: "Second annual Improvised Play Festival."
+---
 **The 2012 Improvised Play Festival** was the second annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 
 It ran from 4/12/12 to 4/14/12.

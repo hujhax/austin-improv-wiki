@@ -1,3 +1,7 @@
+---
+description: "|Tech = Asaf Ronen."
+image: "File/The%20Ladies%20Room.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -106,7 +110,9 @@ The show used lighting cues to enhance the mood.  The show did not use sound eff
 Costume-wise, the leads were free to dress as they pleased, though sometimes they met before the performance to coordinate wardrobes.  The supporting players wore various shades of blue, filling out their outfits with black as needed.
 
 ### Press Blurb
-From the initial show announcement: <blockquote>"There is a lot women hide and only reveal when they go to the restroom together. The Ladies Room is an improvised show about seeing all sides of woman the good the bad and the ugly."</blockquote>
+From the initial show announcement: 
+> "There is a lot women hide and only reveal when they go to the restroom together. The Ladies Room is an improvised show about seeing all sides of woman the good the bad and the ugly."
+
 
 ## History
 The show ran Fridays at 10pm from 6/26/15 to 7/17/15.

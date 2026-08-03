@@ -1,3 +1,7 @@
+---
+description: "Free monthly gong show, presented by Midnight Society at ColdTowne..."
+image: "File/Midnight%20Special%20and%20Gong%20Show.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

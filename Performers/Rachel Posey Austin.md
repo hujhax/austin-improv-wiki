@@ -1,3 +1,7 @@
+---
+description: "An improv performer and sound tech improviser."
+image: "File/Rachel%20Posey%20Austin.jpg"
+---
 
 <div>
 	<table class="infobox infobox-performer">

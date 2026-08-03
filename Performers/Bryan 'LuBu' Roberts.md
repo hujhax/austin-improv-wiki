@@ -1,3 +1,7 @@
+---
+description: "An improv/sketch performer and director."
+image: "File/Bryan%20Lubu%20Roberts%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -23,7 +27,7 @@
 
 ## History
 Bryan (also referred to as "Lubu") performs regularly at [[Theatres/Coldtowne Theater|Coldtowne Theater]] and occasionally at Austin's other improv theaters.
-He was additionally a company member of [[Gnap! Theater Projects]]. 
+He was additionally a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]. 
 
 Bryan originally began working as a contributor to Gnap!'s No Shame Theater, regularly providing comedy sketches. Shortly afterward, he joined [[Troupes/GigglePants|GigglePants]] as a member of its inaugural cast and began performing shortform improv. In 2006, he began classes at Coldtowne Theater, eventually emerging as a member of its first graduating class of improvisers (along with [[Performers/Cody Dearing|Cody Dearing]], Michael Williams, and Joel Keith). He was also a member of [[Troupes/Look Cookie|Look Cookie]], Coldtowne's first student troupe, and is the only member of the Coldtowne Mainstage cast to appear in all five Mainstage revues. In 2009 and 2010, he directed *[[Shows/Guilds Of Steel|Guilds Of Steel]]*, a show he created for Gnap!, to critical acclaim.
 
@@ -32,9 +36,13 @@ On December 1, 2007, a special "Maestro of Maestros" edition of the [[Theatres/H
 Bryan currently maintains the comedy website ghettosketchwarlock.com and performs as [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]]. He additionally performs with [[Troupes/The Tastemakers|The Tastemakers]], [[Shows/Stool Pigeon|Stool Pigeon]], and [[Troupes/Boss|Boss]].
 
 ### The First Improv Show He Saw
-A post from him about the first improv show he ever saw:<blockquote><p>I was in the first one I ever saw. UIL competition at Bryan High School in 2000. Group Improv was an optional event(you signed up when you got there) and so me and a few other guys from my Speech Team went for it.</p> 
+A post from him about the first improv show he ever saw:
+> I was in the first one I ever saw. UIL competition at Bryan High School in 2000. Group Improv was an optional event(you signed up when you got there) and so me and a few other guys from my Speech Team went for it.
+>  
+> 
+> If that doesn't count, then it's got to be [[Troupes/Ed32|Ed32]]/*[[Shows/Gorilla Theatre|Gorilla Theatre]]* which I watched sometime in late 2003, when I was planning to audition for [[Troupes/Ed32|Ed32]] (I was soon not able to). Good stuff, of course.
+>  
 
-<p>If that doesn't count, then it's got to be [[Troupes/Ed32|Ed32]]/*[[Shows/Gorilla Theatre|Gorilla Theatre]]* which I watched sometime in late 2003, when I was planning to audition for [[Troupes/Ed32|Ed32]] (I was soon not able to). Good stuff, of course.</p> </blockquote>
 
 ## Troupes
 * [[Troupes/Boss|Boss]]

@@ -1,3 +1,6 @@
+---
+description: "Thirteenth annual WaffleFest."
+---
 **WaffleFest 2014** was the thirteenth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

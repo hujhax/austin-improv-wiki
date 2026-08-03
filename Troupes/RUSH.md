@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/Rush.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Creative forces have come together to define the Tom Sawyer format.  Improv troupe RUSH brings their stadium anthem presence to the stage for a hard core experience.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Creative forces have come together to define the Tom Sawyer format.  Improv troupe RUSH brings their stadium anthem presence to the stage for a hard core experience.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Rush was formed as class troupe at ColdTowne Theater and performs the Tom Sawyer, a form created by the troupe themselves. The Tom Sawyer combines elements from the La Ronde and the Harold and is specifically designed to allow a large cast to still create a holistic piece.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Rush was formed as class troupe at ColdTowne Theater and performs the Tom Sawyer, a form created by the troupe themselves. The Tom Sawyer combines elements from the La Ronde and the Harold and is specifically designed to allow a large cast to still create a holistic piece.
+
 
 ## Media
 ### Videos

@@ -1,3 +1,7 @@
+---
+description: "An improv performer and teacher."
+image: "File/Ted%20Rutherford%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

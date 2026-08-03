@@ -1,3 +1,7 @@
+---
+description: "|Crew=."
+image: "File/abiggaymusicalplaceholder.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

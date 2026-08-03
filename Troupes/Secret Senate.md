@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2011."
+image: "File/Secret%20Senate.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,10 +82,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Secret Senate is ColdTowne's 8th student troupe and is also the craziest. Our surreal blend of comedy will have you questioning your life and reality itself. A big supportive mess of a troupe that you won't be able to resist getting sucked into.</blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Secret Senate is ColdTowne's 8th student troupe and is also the craziest. Our surreal blend of comedy will have you questioning your life and reality itself. A big supportive mess of a troupe that you won't be able to resist getting sucked into.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do the JTS Brown opening followed by a tightly controlled montage.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do the JTS Brown opening followed by a tightly controlled montage.
+
 
 ## Media
 ### Videos

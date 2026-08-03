@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"Active\"."
+---
 ## Pages in category "Active"
 
 * [[Troupes/20 Years and Counting|20 Years and Counting]]

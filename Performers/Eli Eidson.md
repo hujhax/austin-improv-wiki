@@ -1,3 +1,7 @@
+---
+description: "An improv performer known for work with ColdTowne Theater."
+image: "File/Eli%20Eidson%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

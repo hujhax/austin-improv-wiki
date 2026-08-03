@@ -1,3 +1,6 @@
+---
+description: "This was the first Strange Worlds story about The Grey..."
+---
 This was the first [[Shows/Strange Worlds|Strange Worlds]] story about The Grey Bishop.  It was improvised on March 2nd, 2013. 
  
 ## Episode Summary

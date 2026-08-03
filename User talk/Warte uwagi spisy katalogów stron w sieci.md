@@ -1,3 +1,6 @@
+---
+description: "Dodawanie do katalogów to jedno z najistotniejszych czynności w trakcie..."
+---
 Dodawanie do katalogów to jedno z najistotniejszych czynności w trakcie promowania witryny www w wyszukiwarce internetowej. Warto do tego procesu użyć wartościowych katalogów, takich które są stale rozwijane i unowocześniane. Takie grupy katalogów oferują też multikody - czyli tańszą możliwość zaproponowania wpisu do wszystkich katalogów. Czyli wybierając [seo katalogi](http://www.gcx.pl/seo-katalogi-s-1812/) dostajemy możliwość uzyskania dużej ilości BL nie płacąc wiele.
 
 Powinniśmy wszystko przeanalizować zanim zrezygnujemy z płatnych katalogów podczas katalogowania. Mimo że wiąże się to z dość sporymi wydatkami, gdyż dodanie opisu do dobrego katalogu może kosztować od kilku do kilkudziesięciu złotych, to dzięki takiemu działaniu oszczędzamy bardzo dużo czasu. Powinniśmy sobie uświadomić, że promocja stron www wymaga niemałych opłat i czasem warto kupić [seokatalogi multikody](http://www.intercore.pl/s-6250/seokatalogi-multikody/).

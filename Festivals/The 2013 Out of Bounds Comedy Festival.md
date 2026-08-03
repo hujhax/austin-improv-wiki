@@ -1,3 +1,6 @@
+---
+description: "Twelfth annual Out of Bounds Comedy Festival."
+---
 **The 2013 Out of Bounds Comedy Festival** was the twelfth annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Summary

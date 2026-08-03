@@ -1,3 +1,7 @@
+---
+description: "Weekly themed stand-up showcase."
+image: "File/Plugged.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

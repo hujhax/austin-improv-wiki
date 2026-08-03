@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2012."
+image: "File/Church%20Potluck.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,15 +78,22 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Made up of current Institution Theater students and alums, Church Potluck is a physical, mad-cap improv troupe whose high-octane scenes and experienced, fearless performers promise a belly-shaking good time.</p>  
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Made up of current Institution Theater students and alums, Church Potluck is a physical, mad-cap improv troupe whose high-octane scenes and experienced, fearless performers promise a belly-shaking good time.
+>   
+> 
+> Not for the faint of heart or those who are easily offended. Church Potluck prides itself on its physicality; we like to keep the audience visually engaged by using the whole stage and sometimes the whole theatre to make the experience theatrical.
+>  
 
-<p>Not for the faint of heart or those who are easily offended. Church Potluck prides itself on its physicality; we like to keep the audience visually engaged by using the whole stage and sometimes the whole theatre to make the experience theatrical.</p> </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We will be doing a montage with callbacks, tag outs, and messing with each other. Church Potluck prides itself on its physicality; we like to keep the audience visually engaged by using the whole stage and sometimes the whole theatre to make the experience theatrical.</p> 
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We will be doing a montage with callbacks, tag outs, and messing with each other. Church Potluck prides itself on its physicality; we like to keep the audience visually engaged by using the whole stage and sometimes the whole theatre to make the experience theatrical.
+>  
+> 
+> We use found objects as props and take inspiration from "clues" given to us by the audience.
+> 
 
-<p>We use found objects as props and take inspiration from "clues" given to us by the audience.</p>
-</blockquote>
 
 ## Media
 ### Photos

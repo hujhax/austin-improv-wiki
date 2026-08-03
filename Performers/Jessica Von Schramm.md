@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-Present."
+image: "File/Jessica%20T.%20Von%20Schramm%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

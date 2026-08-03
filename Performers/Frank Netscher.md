@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Frank%20Netscher%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -23,7 +27,9 @@
 
 ## Summary
 From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/frank-netscher):
-<blockquote>I've been performing and studying improv and sketch since 2009. I'm based out of [[Theatres/Coldtowne Theater|Coldtowne Theater]], but I’ve studied with teachers from iO, Second City, Annoyance, BATS, UCB, ImproMelbourne, The Institution and The Hideout. I've performed in NYC, Melbourne, and on YouTube. I hate summer homework.</blockquote>
+
+> I've been performing and studying improv and sketch since 2009. I'm based out of [[Theatres/Coldtowne Theater|Coldtowne Theater]], but I’ve studied with teachers from iO, Second City, Annoyance, BATS, UCB, ImproMelbourne, The Institution and The Hideout. I've performed in NYC, Melbourne, and on YouTube. I hate summer homework.
+
 
 ## Troupes
 * [[Troupes/Array|Array]]

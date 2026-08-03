@@ -1,3 +1,7 @@
+---
+description: "Stand-up comedy venue."
+image: "File/Comedy%20Workshop%20Logo.jpg"
+---
 <div>
 	<table class="infobox infobox-theater">
 		<tr>

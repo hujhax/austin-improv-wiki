@@ -1,3 +1,7 @@
+---
+description: "|Picture= GoatLogo.gif."
+image: "File/GoatLogo.gif"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

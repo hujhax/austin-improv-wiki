@@ -1,3 +1,7 @@
+---
+description: "|Tech = Mark Shoemaker."
+image: "File/Breaking%20Beckett%20Poster%20Ryan.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

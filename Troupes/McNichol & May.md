@@ -1,3 +1,7 @@
+---
+description: "|Years = 2005-Present."
+image: "File/McNichol%20%26%20May%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Crew=."
+image: "File/clickclickwhir.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

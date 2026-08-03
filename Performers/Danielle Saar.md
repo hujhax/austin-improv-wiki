@@ -1,3 +1,7 @@
+---
+description: "An improv performer in Austin, TX."
+image: "File/Danielle%20Saar%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

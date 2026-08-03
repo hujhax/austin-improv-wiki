@@ -1,3 +1,7 @@
+---
+description: "Holiday comedy show at ColdTowne Theater with a different theme..."
+image: "File/Festival%20Festival.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

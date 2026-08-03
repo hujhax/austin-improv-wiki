@@ -1,3 +1,6 @@
+---
+description: "Program of improv classes taught at The Hideout Theater for..."
+---
 Building Connections is a program of improv classes taught at [[Theatres/The Hideout Theater|The Hideout Theater]] for students with special needs, including at-risk youth and youth on the Autism Spectrum.
 
 ## Summary

@@ -1,3 +1,6 @@
+---
+description: "The AIC Wiki follows the Wikipedia Manual of Style except..."
+---
 The AIC Wiki follows the Wikipedia Manual of Style except in cases noted below.
 
 ## Names and Titles

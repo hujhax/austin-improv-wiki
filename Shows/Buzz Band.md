@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Buzz%20Band.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -141,7 +145,9 @@ The show ran about 80 minutes (with an intermission), with the entire cast playi
 It ran Fridays and Saturdays at 8pm, from 5/8/15 to 5/23/15.
 
 ### Press Blurb
-From the initial show announcement: <blockquote>"Enter the world of musicians on the cusp – of stardom, of reaching the next level, of bottoming out, of personal disaster.  This improvised narrative journey follows characters as they realize how high the stakes are when they strive for fame -- or infamy -- in the music industry."</blockquote>
+From the initial show announcement: 
+> "Enter the world of musicians on the cusp – of stardom, of reaching the next level, of bottoming out, of personal disaster.  This improvised narrative journey follows characters as they realize how high the stakes are when they strive for fame -- or infamy -- in the music industry."
+
 
 ## Media
 ### Photos

@@ -1,3 +1,7 @@
+---
+description: "|Musical Director = Ryan Fechter."
+image: "File/death%20by%20musical.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

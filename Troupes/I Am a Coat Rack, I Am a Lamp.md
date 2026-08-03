@@ -1,3 +1,6 @@
+---
+description: "|Director = Tami Nelson."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -77,7 +80,9 @@
 **I Am a Coat Rack, I Am a Lamp** was an one-off Cagematch team.
 
 ## Summary
-From founder [[Performers/Tami Nelson|Tami Nelson]]: <blockquote>The concept here is that the majority of the players will be environment (ala lois caz) and there will only be 5-6 actual players.</blockquote> 
+From founder [[Performers/Tami Nelson|Tami Nelson]]: 
+> The concept here is that the majority of the players will be environment (ala lois caz) and there will only be 5-6 actual players.
+ 
 
 ## History
 They played one match against [[Troupes/You, Me, and Greg|You, Me, and Greg]] on 3/31/06.  They lost.

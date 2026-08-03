@@ -1,3 +1,6 @@
+---
+description: "The Austin Improv Wiki is a wiki devoted to the..."
+---
 **The Austin Improv Wiki** is a wiki devoted to the Austin Improv scene.
 
 ## Summary

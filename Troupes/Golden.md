@@ -1,3 +1,7 @@
+---
+description: "|Director = Marc Majcher."
+image: "File/Golden%20%28troupe%29.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

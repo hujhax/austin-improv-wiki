@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010."
+image: "File/Gerrbobble.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We start each scene in gibberish to get to heighten the emotion, then we switch to English</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We start each scene in gibberish to get to heighten the emotion, then we switch to English
+
 
 ## History
 The troupe played in the 2009 "Theater of Cruelty" *[[Shows/Cagematch|Cagematch]]*.

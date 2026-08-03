@@ -1,3 +1,7 @@
+---
+description: "An all-female musical-improv troupe."
+image: "File/GGG-Logo%20G.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -165,7 +169,7 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3) by [[Michael Yew]] which includes their 12/8/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.502172756470891.113111.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/25/13 performance with [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3) by [[Michael Yew]] which includes their 1/13/13 performance in the [[Merlin Works]] grand opening.
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3) by [[Michael Yew]] which includes their 1/13/13 performance in the [[Theatres/Merlin Works|Merlin Works]] grand opening.
 	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.519628588058641.116285.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same event.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.539914026030097.118722.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 2/9/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4573289653028.1073741829.1315383518&type=3) by [[Michael Yew]] of their 4/5/13 "Stage Door" performance.

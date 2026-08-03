@@ -1,3 +1,7 @@
+---
+description: "|Director =."
+image: "File/Wooden%20Nickel.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

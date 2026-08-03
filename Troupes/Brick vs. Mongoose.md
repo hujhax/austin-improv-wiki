@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013."
+image: "File/Brick%20vs.%20Mongoose.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Brick vs. Mongoose is a 3-man Improv Troupe that performs Long-Form productions. We focus on the diverse social interactions between people, the absurd in everyday living, and the macabre that sometimes brings out the astonishing in situations. Without any suggestion from the audience, we create a One-Act plays for your entertainment. </blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Brick vs. Mongoose is a 3-man Improv Troupe that performs Long-Form productions. We focus on the diverse social interactions between people, the absurd in everyday living, and the macabre that sometimes brings out the astonishing in situations. Without any suggestion from the audience, we create a One-Act plays for your entertainment. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a version of the Harold that ends up as a short, 30-40 min play without a suggestion from the audience.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a version of the Harold that ends up as a short, 30-40 min play without a suggestion from the audience.
+
 
 ## More Information
 * [The troupe's web site.](https://www.facebook.com/BRICKVSMONGOOSE)

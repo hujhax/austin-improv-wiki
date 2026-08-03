@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014."
+image: "File/Superwhore.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,16 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Improvised look behind the scenes of a porn that's never been made. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Improvised look behind the scenes of a porn that's never been made. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Close Quarters format.
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Close Quarters format.
+> 
+> We ask for a suggestion of a Porn Movie that has never been shot before. We do a group game opening that emulates a scene from that movie (No sex.) followed by a montage of scenes inspired by the opening that happen behind the scenes. 
 
-We ask for a suggestion of a Porn Movie that has never been shot before. We do a group game opening that emulates a scene from that movie (No sex.) followed by a montage of scenes inspired by the opening that happen behind the scenes. </blockquote>
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/pages/Superwhore/1481144185488636)

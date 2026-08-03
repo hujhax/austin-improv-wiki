@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012."
+image: "File/Wait%20OK%20Now.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -73,7 +77,7 @@
 **Wait OK Now** is an improv troupe.
 
 ## History
-Wait OK Now was formed in January 2012 as one of [[Gnap!]]'s student troupes and was cast at one of the
+Wait OK Now was formed in January 2012 as one of [[Theatres/Gnap!|Gnap!]]'s student troupes and was cast at one of the
 [[Merlin Works Mixers]]. It originally consisted of [[Performers/Sam Schak|Sam Schak]], [[Performers/Jen Kaplan|Jen Kaplan]], [[Performers/Lacy Shawn|Lacy Shawn]], [[Performers/Luke Wallens|Luke Wallens]], Tai Hovanky, Nick Jimenez, and [[Performers/Caeriel Crestin|Caeriel Crestin]], with [[Performers/Ruby Willmann|Ruby Willmann]] as coach/director.
 The troupe did a run of shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] performing an improvised sitcom called *The Good Life*.
 

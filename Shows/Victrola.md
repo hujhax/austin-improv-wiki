@@ -1,3 +1,7 @@
+---
+description: "|Run = Nov 2010."
+image: "File/Victrola.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

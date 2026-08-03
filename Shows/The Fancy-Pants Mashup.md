@@ -1,3 +1,7 @@
+---
+description: "Shortform show featuring two-person scenes."
+image: "File/Dance%20Battle.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

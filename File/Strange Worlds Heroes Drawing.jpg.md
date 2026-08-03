@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Strange Worlds Heroes Drawing.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
@@ -17,7 +20,7 @@ Bottom row, from left: Dr. Lily Wilde, The Grey Bishop, The Peregrine
 ## Additional Details
 The tech crew is credited in a scroll just to the right of Jack Ryder's hand.
 
-Nate Jester's notebook contains a drawing of a trident, an item which figured in [[Strange Times -  The Trident|one of his adventures]].
+Nate Jester's notebook contains a drawing of a trident, an item which figured in [[Shows/Strange Worlds Episodes/Strange Times -  The Trident|one of his adventures]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

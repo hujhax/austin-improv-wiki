@@ -1,3 +1,6 @@
+---
+description: "|Years = 2012."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Chronobear is time travel in the sense that they take you to a moment in 3 guys's life and then show you the next 25 minutes. It's very funny.</blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Chronobear is time travel in the sense that they take you to a moment in 3 guys's life and then show you the next 25 minutes. It's very funny.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a monoscene.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a monoscene.
+
 
 ## History
 They played a *[[Shows/Cagematch|Cagematch]]* on 5/11/12.

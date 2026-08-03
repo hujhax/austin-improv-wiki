@@ -1,3 +1,7 @@
+---
+description: "(AKA The Thursday Threefer; formerly Threefer Madness) is a performance..."
+image: "File/Threefer%20Publicity.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "An improv teacher and performer."
+image: "File/Rachel%20Madorsky%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

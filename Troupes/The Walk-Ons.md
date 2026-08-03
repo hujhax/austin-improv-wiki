@@ -1,3 +1,6 @@
+---
+description: "|Years = 2011."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -70,7 +73,7 @@
 	</table>
 </div>
 
-**The Walk-Ons** was a [[Gnap!]] house troupe, assembled and coached by [[Performers/Jason Vines|Jason Vines]]. They played four performances in January of 2011.
+**The Walk-Ons** was a [[Theatres/Gnap!|Gnap!]] house troupe, assembled and coached by [[Performers/Jason Vines|Jason Vines]]. They played four performances in January of 2011.
 
 
 [[Category/Troupes|Walk-Ons]]

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2012."
+image: "File/Hot%20Property.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,16 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Hot Property specializes in sketch-prov. Basically, before each show, they write a bunch of sketches, forget all the lines, and try to put it back together again on stage. Mac Blake and David Jara have worked together for years, in Austin's movie-mocking mainstay Master Pancake Theater, on their KOOP radio show Mascot Wedding, and in the sketch comedy troupe Stag.Nick Ramirez and Lance Gilstrap have worked together for years, in the improv and sketch troupe Midnight Society, in the sketch comedy duo Ramirez and Gilstrap, and as producers of the annual Austin Sketch Fest. 
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Hot Property specializes in sketch-prov. Basically, before each show, they write a bunch of sketches, forget all the lines, and try to put it back together again on stage. Mac Blake and David Jara have worked together for years, in Austin's movie-mocking mainstay Master Pancake Theater, on their KOOP radio show Mascot Wedding, and in the sketch comedy troupe Stag.Nick Ramirez and Lance Gilstrap have worked together for years, in the improv and sketch troupe Midnight Society, in the sketch comedy duo Ramirez and Gilstrap, and as producers of the annual Austin Sketch Fest. 
+> 
+> Separately, they're two sets of talented writers and performers. Together, they're an unstoppable comedy juggernaut.
 
-Separately, they're two sets of talented writers and performers. Together, they're an unstoppable comedy juggernaut.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do sketch prov. We performed at Out of Bounds this year.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do sketch prov. We performed at Out of Bounds this year.
+
 
 ## Media
 ### Videos

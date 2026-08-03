@@ -1,3 +1,7 @@
+---
+description: "|Past Members =."
+image: "File/The%20Escorts%202014.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -129,9 +133,11 @@
 
 ## Summary
 ### Press Blurb
-<blockquote><p>"The Escorts will take the audience anywhere they want to go! Inspired from a location suggested by an audience member, The Escorts perform a one-act play focused on relationships, discovery and mischief. Where will we take you next?</p>
+> "The Escorts will take the audience anywhere they want to go! Inspired from a location suggested by an audience member, The Escorts perform a one-act play focused on relationships, discovery and mischief. Where will we take you next?
+> 
+> 
+> [[Performers/Marc Majcher|Marc Majcher]] is both a performer and teacher at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. [[Performers/Andreas Fabis|Andreas Fabis]], a member of the [[Theatres/Gnap!|Gnap!]] company and director of *[[Shows/Magna Veritas|Magna Veritas]]*, has also performed in game-changing shows such as *[[Shows/Live Nude Improv|Live Nude Improv]]*. [[Performers/Ruby Willmann|Ruby Willmann]] is director of [[Shows/What the F@$|What the F@$]] and a [[Theatres/Hideout|Hideout]] improv teacher, and [[Performers/Alex Dobrenko|Alex Dobrenko]] is a recent participant in the New York Improv Festival. [[Performers/Lindsey Reeves|Lindsey Reeves]] is played in [[Troupes/The Professor|The Professor]] and *[[Shows/Live TV Tuesdays -  Firefly|Firefly: The musical]]*."
 
-<p>[[Performers/Marc Majcher|Marc Majcher]] is both a performer and teacher at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. [[Performers/Andreas Fabis|Andreas Fabis]], a member of the [[Gnap!]] company and director of *[[Shows/Magna Veritas|Magna Veritas]]*, has also performed in game-changing shows such as *[[Shows/Live Nude Improv|Live Nude Improv]]*. [[Performers/Ruby Willmann|Ruby Willmann]] is director of [[Shows/What the F@$|What the F@$]] and a [[Theatres/Hideout|Hideout]] improv teacher, and [[Performers/Alex Dobrenko|Alex Dobrenko]] is a recent participant in the New York Improv Festival. [[Performers/Lindsey Reeves|Lindsey Reeves]] is played in [[Troupes/The Professor|The Professor]] and *[[Shows/Live TV Tuesdays -  Firefly|Firefly: The musical]]*."</p></blockquote>
 
 [[Performers/Aaron Saenz|Aaron Saenz]] joined in January 2014 after [[Performers/Alex Dobrenko|Alex Dobrenko]] left for Los Angeles.
 [[Performers/Shannon Dale Stott|Shannon Dale Stott]] joined in 2015 after [[Performers/Ruby Willmann|Ruby Willmann]] moved to Los Angeles

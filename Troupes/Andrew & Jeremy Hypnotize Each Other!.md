@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Andrew%20%26%20Jeremy%20Hypnotize%20Each%20Other%21.png"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Watch Andrew and Jeremy entrance each other in an innovative feat of mutual somnambulism! Behold a dream-like journey of theater and comedy!</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Watch Andrew and Jeremy entrance each other in an innovative feat of mutual somnambulism! Behold a dream-like journey of theater and comedy!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We comedically hypnotize each other, vaudeville-style, then perform a series of dream-like scenes, where the content is bizarre, but there is an underlying emotional logic, and a loose narrative flow. At the end we wake up!</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We comedically hypnotize each other, vaudeville-style, then perform a series of dream-like scenes, where the content is bizarre, but there is an underlying emotional logic, and a loose narrative flow. At the end we wake up!
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

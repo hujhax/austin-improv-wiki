@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012."
+image: "File/Celebrity%20Alter%20Ego.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,14 +78,21 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
-<p>Andy Warhol, Black Hole Wrestler?</p>
-<p>Ghandi, Tornado Whisperer?</p>
-<p>Josef Stalin, Hornet Salesman?</p>
-<p>Joan of Arc, Zombie Consultant?</p></blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> 
+> Andy Warhol, Black Hole Wrestler?
+> 
+> Ghandi, Tornado Whisperer?
+> 
+> Josef Stalin, Hornet Salesman?
+> 
+> Joan of Arc, Zombie Consultant?
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do scenes based on audience suggestions about the secret occupations of historical and mythical figures, a la Abraham Lincoln, Vampire Hunter.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do scenes based on audience suggestions about the secret occupations of historical and mythical figures, a la Abraham Lincoln, Vampire Hunter.
+
 
 ## Media
 ### Videos

@@ -1,3 +1,7 @@
+---
+description: "(/ˈdʒæstroʊ/) is an improv performer, director, and teacher."
+image: "File/Jastroch.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

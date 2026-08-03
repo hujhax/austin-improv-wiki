@@ -1,3 +1,7 @@
+---
+description: "An actor and improv performer."
+image: "File/Alexander%20Hilary%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

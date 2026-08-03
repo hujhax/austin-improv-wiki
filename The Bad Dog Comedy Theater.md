@@ -1,3 +1,6 @@
+---
+description: "One of several Improv theaters hosting shows during Austin's Improv..."
+---
 **The Bad Dog Comedy Theater** was one of several Improv theaters hosting shows during Austin's Improv "Boom" period of the mid-to-late 1990's. It was founded and owned by Marc Pruter and Jon Wiley (of [[Troupes/Monks Night Out|Monks Night Out]] fame,) and Anna Bartkowski.
 
 ## Links

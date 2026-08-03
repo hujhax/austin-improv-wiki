@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Process%20Publicity%20Image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

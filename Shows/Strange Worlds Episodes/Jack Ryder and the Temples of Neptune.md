@@ -1,3 +1,6 @@
+---
+description: "This was the first Strange Worlds story about Jack Ryder."
+---
 This was the first [[Shows/Strange Worlds|Strange Worlds]] story about Jack Ryder.  It was improvised on March 23rd, 2013. 
 
 ## Episode Summary

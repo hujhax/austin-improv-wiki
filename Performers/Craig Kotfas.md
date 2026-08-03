@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Craig%20Kotfas%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -24,7 +28,7 @@
 ## History
 Craig Kotfas has been an improvisor since 1994, and moved to Austin in 1998.
 
-He was a company member of [[Gnap! Theater Projects]].
+He was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 He has been a guest musician for [[Troupes/Indigo Shift|Indigo Shift]] and a guest boy for *[[Shows/Boys of Summer|Boys of Summer]]*.
 

@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/FireflyPoster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

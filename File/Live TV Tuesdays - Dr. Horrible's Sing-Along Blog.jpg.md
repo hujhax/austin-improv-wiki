@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

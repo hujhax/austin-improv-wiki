@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-2011."
+image: "File/My%20Friend%20Stripey.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>A group of 4 recent Hideout graduates who play together both on the stage and off. You can expect the gamut from 9-syllable words to off-color humor to just plain silliness. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> A group of 4 recent Hideout graduates who play together both on the stage and off. You can expect the gamut from 9-syllable words to off-color humor to just plain silliness. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We've pretty much only done montage style shows. We have been trying to find some formats that might work for us, including the Harold.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We've pretty much only done montage style shows. We have been trying to find some formats that might work for us, including the Harold.
+
 
 ## Media
 ### Photos

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/20%20Years%20and%20Counting.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,16 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>20 Years and Counting is a husband and wife duo that will answer all of your questions about being in the same relationship for more than 20 years. They invite the audience to dig deep for inquiries and will try to give answers through improv and discussion. 
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> 20 Years and Counting is a husband and wife duo that will answer all of your questions about being in the same relationship for more than 20 years. They invite the audience to dig deep for inquiries and will try to give answers through improv and discussion. 
+> 
+> Help them figure out love and hopefully they will help you.
 
-Help them figure out love and hopefully they will help you.</blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Basically, we invite the audience to ask us relationship questions and we try to answer those questions through pop out scenes and discussions. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Basically, we invite the audience to ask us relationship questions and we try to answer those questions through pop out scenes and discussions. 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

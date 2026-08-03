@@ -1,3 +1,7 @@
+---
+description: "|Assistant Director = Suzanne Link."
+image: "File/The%20Secret%20Life%20of%20Inanimate%20Objects%20Image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

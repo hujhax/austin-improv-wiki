@@ -1,3 +1,6 @@
+---
+description: "This is a list of improv troupes that are operating..."
+---
 This is a list of improv troupes that are operating or have operated in the AIC.
 
 ## Active

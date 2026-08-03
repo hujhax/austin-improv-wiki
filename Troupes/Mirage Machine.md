@@ -1,3 +1,7 @@
+---
+description: "|Former Members =."
+image: "File/MMSquare.png"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -75,11 +79,13 @@ Starting from a dream, **Mirage Machine** weaves a tapestry of slapstick heartbr
 
 ## Summary
 ### About the MACHINE
-<blockquote>They begin by getting a suggestion from the audience of an image from a dream someone has actually had, and from there do a montage in which formats will mysteriously emerge and dissipate.  Although they don't set out for narrative sometimes one arises; what they're aiming for is more like thematic unity and subliminal throughline.
-</blockquote>
+> They begin by getting a suggestion from the audience of an image from a dream someone has actually had, and from there do a montage in which formats will mysteriously emerge and dissipate.  Although they don't set out for narrative sometimes one arises; what they're aiming for is more like thematic unity and subliminal throughline.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a montage of scene work, but a little bit more surreal.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a montage of scene work, but a little bit more surreal.
+
 
 ## Media
 ### Photoset

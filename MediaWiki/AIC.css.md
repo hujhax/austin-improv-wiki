@@ -1,3 +1,6 @@
+---
+description: "/* CSS in this file will only apply to the..."
+---
 /* CSS in this file will only apply to the AIC theme. */
 
 table.infobox th {

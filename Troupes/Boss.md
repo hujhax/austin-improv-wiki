@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-Present."
+image: "File/BOSS.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>BOSS is a duo specializing in the deconstruction an argument that takes place at the beginning of the show based on an audience suggestion. For example, if someone says "bananas," Meredith will probably yell at Bryan about how much she hates Gwen Stafani, even though Gwen Stefani is not that bad in small doses. After the argument? Wonderful scenes that make use of the yelling! (Gwen Stefani not included)</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> BOSS is a duo specializing in the deconstruction an argument that takes place at the beginning of the show based on an audience suggestion. For example, if someone says "bananas," Meredith will probably yell at Bryan about how much she hates Gwen Stafani, even though Gwen Stefani is not that bad in small doses. After the argument? Wonderful scenes that make use of the yelling! (Gwen Stefani not included)
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We deconstruct an argument we have at the beginning of the show. The argument is based on an audience suggestion.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We deconstruct an argument we have at the beginning of the show. The argument is based on an audience suggestion.
+
 
 ## Media
 ### Photos

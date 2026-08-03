@@ -1,3 +1,7 @@
+---
+description: "An improv performer and professional actor, represented by Agence Talent."
+image: "File/Kathy%20Rose%20Center%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "(formerly The Twofer and The Style Show) was a performance..."
+image: "File/The%20Double%20Barrel.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

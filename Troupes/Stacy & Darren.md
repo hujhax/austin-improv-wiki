@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010."
+image: "File/Stacy%20%26%20Darren.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,16 +82,24 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Come be delighted by Stacy & Darren, one of Austin's newest and tallest two person improv troupes.</p> 
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Come be delighted by Stacy & Darren, one of Austin's newest and tallest two person improv troupes.
+>  
+> 
+> No theme...no gimmick....so no limits to what you will experience.
+>  
 
-<p>No theme...no gimmick....so no limits to what you will experience.</p> </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Stacey & Darren delight the audience with a simple approach - a montage performance based on an audience suggestion.</p> 
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Stacey & Darren delight the audience with a simple approach - a montage performance based on an audience suggestion.
+>  
+> 
+> We mix in some pretty sweet organic edits between scenes which maintains a nice flow throughout the set.
+> 
+> 
+> Of course this is all based on the phenomenal skills we both learned taking classes at The Hideout Theater as well as what we've learned from being coached by John Ratliff since May.
 
-<p>We mix in some pretty sweet organic edits between scenes which maintains a nice flow throughout the set.</p>
-
-<p>Of course this is all based on the phenomenal skills we both learned taking classes at The Hideout Theater as well as what we've learned from being coached by John Ratliff since May.</p></blockquote>
 
 ## History
 The duo had only one performance, on 12/2/10.

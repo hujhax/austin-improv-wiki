@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/The%20Cubbies.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -75,7 +79,9 @@
 ## Summary
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote>This troupe formed due to their individual ties to the city of Chicago and common love for improv. Members have studied at iO Chicago, Second City, and [[Theatres/The New Movement Theater|The New Movement Theater]]. The Cubbies' style of improv displays playfulness and fondness for each other.</blockquote>
+
+> This troupe formed due to their individual ties to the city of Chicago and common love for improv. Members have studied at iO Chicago, Second City, and [[Theatres/The New Movement Theater|The New Movement Theater]]. The Cubbies' style of improv displays playfulness and fondness for each other.
+
 
 ## Media
 ## More Information

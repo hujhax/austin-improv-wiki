@@ -1,3 +1,7 @@
+---
+description: "|Director = Jason Oliver."
+image: "File/Mother%20Fing%20Action%20Heroes%21.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,14 +82,20 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Mother F***ing Action Heroes! is one part narrative improv and two parts uppercut.</p> 
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Mother F***ing Action Heroes! is one part narrative improv and two parts uppercut.
+>  
+> 
+> We bring you an original story inspired by the action hero movies of the 80's and 90's.
+>  
+> 
+> If you have been waiting for improv based on the action hero movie genre, then your dreams are coming true.
 
-<p>We bring you an original story inspired by the action hero movies of the 80's and 90's.</p> 
-
-<p>If you have been waiting for improv based on the action hero movie genre, then your dreams are coming true.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a multi-scene narrative based on the action hero genre of film.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a multi-scene narrative based on the action hero genre of film.
+
 
 ## Media
 ### Photos

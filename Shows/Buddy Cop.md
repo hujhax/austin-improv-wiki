@@ -1,3 +1,7 @@
+---
+description: "|Tech Director = Cindy Page."
+image: "File/buddycop.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

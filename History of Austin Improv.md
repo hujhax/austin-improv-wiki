@@ -1,3 +1,6 @@
+---
+description: "==Early Days==."
+---
 ## Early Days
 In 1985 [[Theatres/The Comedy Workshop|The Comedy Workshop]] at 15th St. and Lavaca was home to [[Troupes/The Hilarions|The Hilarions: Gladiators of Comedy]], possibly the first serious improv troupe in Austin. The owner of the Comedy Workshop in Houston (which gave Bill Hicks, Sam Kinison and the other so-called Outlaw stand-up comics their start) would drive up to Austin on Fridays and teach improv to anyone who would show up. The Hilarions formed in early 1985 and did late-night short-form shows Tuesday through Thursday for about a year and a half. 
 
@@ -26,7 +29,7 @@ In 2004 and 2005 a variety of factors led to a second renaissance in Austin impr
 
 Things began to bubble up at the Hideout and by October of 2006, ColdTowne struck out and opened a self-titled theater and conservatory on Airport Boulevard, offering improv, sketch and stand up comedy. 
 
-In March of 2008 [[The Merlin Works Institute for Improvisation]] and [[Gnap! Theater Projects]] began teaching classes and performing shows at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] on Manor Road. 
+In March of 2008 [[Theatres/The Merlin Works Institute for Improvisation|The Merlin Works Institute for Improvisation]] and [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] began teaching classes and performing shows at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] on Manor Road. 
 
 ComedySportz resumed weekly shows at Cafe Caffeine in south Austin in the fall of 2008. 
 

@@ -1,3 +1,7 @@
+---
+description: "An improv performer, director, teacher, and co-owner of The Hideout..."
+image: "File/Jessica%20Arjet%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

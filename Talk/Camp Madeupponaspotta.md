@@ -1,1 +1,4 @@
+---
+description: "Archive.org link for later reference: https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta."
+---
 Archive.org link for later reference: https://web.archive.org/web/20140706192345/http://www.hideouttheatre.com/shows/camp-madeupponaspotta

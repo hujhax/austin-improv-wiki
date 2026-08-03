@@ -1,3 +1,7 @@
+---
+description: "|Years = 1991-Present."
+image: "File/Tyler%20Bryce%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -73,7 +77,9 @@
 **Tyler Bryce** is an improv performer and director.
 
 ## History
-A post from him about the first improv show he ever saw:<blockquote>The first show I saw was in Dallas in 1990. My friend Greg Wilson was cast in ComedySportz Dallas (they later became Ad Libs). I went to the show and thought it was wonderfully crazy. Moved to Austin a year later and auditioned here. Never looked back. Perhaps I should get a rearview mirror.</blockquote>
+A post from him about the first improv show he ever saw:
+> The first show I saw was in Dallas in 1990. My friend Greg Wilson was cast in ComedySportz Dallas (they later became Ad Libs). I went to the show and thought it was wonderfully crazy. Moved to Austin a year later and auditioned here. Never looked back. Perhaps I should get a rearview mirror.
+
 
 ## Troupes
 * [[Troupes/ComedySportz|ComedySportz]] (Austin and NYC) 

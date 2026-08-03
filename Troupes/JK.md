@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/JK.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -76,10 +80,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>JK is a high energy duo! With the audience's assistance, they will run through 10 scenes, and then revisit any of the scenes the audience want to see again. Like changing the channels on the stage, the audience has a huge say in which funny they want to see again! </blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> JK is a high energy duo! With the audience's assistance, they will run through 10 scenes, and then revisit any of the scenes the audience want to see again. Like changing the channels on the stage, the audience has a huge say in which funny they want to see again! 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>JK is a high energy duo, consisting of multiple scenes, set up by the audience, and then per audience suggestion, certain scenes revisited in quick time. A sort of fast-paced Pan Left/Pan Right, with heavy audience involvement. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> JK is a high energy duo, consisting of multiple scenes, set up by the audience, and then per audience suggestion, certain scenes revisited in quick time. A sort of fast-paced Pan Left/Pan Right, with heavy audience involvement. 
+
 
 ## Media
 ### Videos

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Pals%21.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>It seems odd to call a duo a "supertroupe", but there isn't really any other way to describe "Pals!". [[Troupes/Midnight Society|Midnight Society]]'s [[Performers/Lance Gilstrap|Lance Gilstrap]] and [[Troupes/Patio Talk|Patio Talk]]'s Kasey Borger are undeniably Pals and they won't stop (comedically) shoving it in your face.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> It seems odd to call a duo a "supertroupe", but there isn't really any other way to describe "Pals!". [[Troupes/Midnight Society|Midnight Society]]'s [[Performers/Lance Gilstrap|Lance Gilstrap]] and [[Troupes/Patio Talk|Patio Talk]]'s Kasey Borger are undeniably Pals and they won't stop (comedically) shoving it in your face.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform the "WeirDass" format created by Stephnie Weir and Bob Dassie. It starts with an in-character interview and this informs a run of scenes and a return to the interview.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We perform the "WeirDass" format created by Stephnie Weir and Bob Dassie. It starts with an in-character interview and this informs a run of scenes and a return to the interview.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

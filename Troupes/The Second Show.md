@@ -1,3 +1,6 @@
+---
+description: "|Years = 2014."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +77,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>This troupe has been together for nine months! They graduated from The Hideout this past June and are ready to take the improv world by storm! Their narratives are quirky, weird, and always leave you laughing. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> This troupe has been together for nine months! They graduated from The Hideout this past June and are ready to take the improv world by storm! Their narratives are quirky, weird, and always leave you laughing. 
+
 
 [[Category/Troupes|Second Show]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

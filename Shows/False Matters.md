@@ -1,3 +1,7 @@
+---
+description: "|Tech = Sam Schak."
+image: "File/False%20Matters.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -18,7 +22,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -141,7 +145,7 @@
 	</table>
 </div>
 
-***False Matters*** was a longform mainstage improv production with [[Gnap! Theater Projects]] based on the work of [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)."
+***False Matters*** was a longform mainstage improv production with [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] based on the work of [Philip K. Dick](http://en.wikipedia.org/wiki/Philip_K._Dick)."
 
 ## Summary
 The show explores similar themes to those in Dick's works, including dystopian futures, shifting identities, questionable reality, and intrusive government. *False Matters* includes many tropes common in PKD stories, including interplanetary travel, time travel, drug use, intelligent robots, and omnipresent media.

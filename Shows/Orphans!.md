@@ -1,3 +1,7 @@
+---
+description: "|Musical Director =."
+image: "File/orphans.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

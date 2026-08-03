@@ -1,3 +1,7 @@
+---
+description: "Short-form improv troupe at the University of Texas."
+image: "File/Gigglepants%20Logo.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

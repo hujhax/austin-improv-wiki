@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Jorak%20and%20Jorak%20Do%20Movie.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -75,7 +79,9 @@
 ## Summary
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote><p>"Jorak and Jorak are two Eastern European brothers who have a movie theater. The only problem seems to be that never actually have an actual movie to show the audience. Their solution? They simply attempt to do the movie themselves and, of course, hilarity ensues. Aside from taking your money and not showing you a film, they may also attempt to sell you food and whatever they happen to have in the truck they "found" behind the theater."</p></blockquote>
+
+> "Jorak and Jorak are two Eastern European brothers who have a movie theater. The only problem seems to be that never actually have an actual movie to show the audience. Their solution? They simply attempt to do the movie themselves and, of course, hilarity ensues. Aside from taking your money and not showing you a film, they may also attempt to sell you food and whatever they happen to have in the truck they "found" behind the theater."
+
 
 ## Media
 ### Videos

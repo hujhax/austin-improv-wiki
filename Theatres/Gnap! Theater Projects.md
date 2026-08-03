@@ -1,3 +1,6 @@
+---
+description: "Gnap!"
+---
 Gnap! Theater Projects is a theater production company that, between 2008 and 2012, produced improv shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
@@ -68,3 +71,4 @@ Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
 * Chris Lucas
 * Don Swaynos
 * [[Performers/Jon Bolden|Jon Bolden]]
+Category:Theatres

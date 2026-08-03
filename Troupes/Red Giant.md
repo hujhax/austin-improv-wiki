@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011."
+image: "File/Red%20Giant.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Red Giant is [[Performers/Josh Krilov|Josh Krilov]], Andy Petruzzo, David Hess, Julia Kirchen, Stephanie Russo, Teresa Kubos York, [[Performers/Chris Baldenhofer|Chris Baldenhofer]], [[Performers/Kyle Sweeney|Kyle Sweeney]]. The super group focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play. DO NOT MISS THE RED GIANT!!!</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Red Giant is [[Performers/Josh Krilov|Josh Krilov]], Andy Petruzzo, David Hess, Julia Kirchen, Stephanie Russo, Teresa Kubos York, [[Performers/Chris Baldenhofer|Chris Baldenhofer]], [[Performers/Kyle Sweeney|Kyle Sweeney]]. The super group focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play. DO NOT MISS THE RED GIANT!!!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The super group known as Red Giant focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> The super group known as Red Giant focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play.
+
 
 ## More Information
 * [The troupe's web site.](http://redgiantimprov.wordpress.com)

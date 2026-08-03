@@ -1,3 +1,6 @@
+---
+description: "This is a list of Austin improv teachers:."
+---
 This is a list of Austin improv teachers:
 
 

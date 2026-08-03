@@ -1,3 +1,7 @@
+---
+description: "An improv performer and director."
+image: "File/Audrey%20Rachel%20Sansom%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Audrey Rachel Sansom** is an improv performer and director.
 
 ## Summary
-Audrey was a company member of [[Gnap! Theater Projects]], and directed several shows for that company.
+Audrey was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]], and directed several shows for that company.
 
 ## Troupes
 * [[Troupes/Junk|Junk]] (2007-2012)

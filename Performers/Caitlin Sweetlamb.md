@@ -1,3 +1,7 @@
+---
+description: "(née Caitlin Sweet) is an improv performer."
+image: "File/Caitlin%20Sweetlamb%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

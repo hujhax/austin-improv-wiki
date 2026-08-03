@@ -1,3 +1,7 @@
+---
+description: "(/ˈnaɪzliː/) is an improv performer and instructor who works primarily..."
+image: "File/Patrick%20Knisely%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

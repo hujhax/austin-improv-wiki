@@ -1,3 +1,7 @@
+---
+description: "|Director = Justin Bozied."
+image: "File/The%20Library.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

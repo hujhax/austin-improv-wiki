@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="You Me & Greg.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

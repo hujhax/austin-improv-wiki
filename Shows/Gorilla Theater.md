@@ -1,3 +1,7 @@
+---
+description: "Johnstonian format put on by The Hideout Theatre."
+image: "File/Gorilla%20Theater%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Tech = Cindy Page."
+image: "File/Only%20Three%20Will%20Survive.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

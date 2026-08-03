@@ -1,3 +1,7 @@
+---
+description: "An improv and sketch comedy performer and stand-up comedian."
+image: "File/Katie%20Doran%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

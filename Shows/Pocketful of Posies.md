@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Posies.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -133,7 +137,7 @@
 	</table>
 </div>
 
-***Pocketful of Posies*** was an improvised show based around the films of the European New Wave of the 1960s. It was staged at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] through [[Gnap! Theater Projects]] in July and August of 2012.
+***Pocketful of Posies*** was an improvised show based around the films of the European New Wave of the 1960s. It was staged at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] through [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] in July and August of 2012.
 
 ## Media
 ### Photos

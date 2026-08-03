@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Ted Rutherford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

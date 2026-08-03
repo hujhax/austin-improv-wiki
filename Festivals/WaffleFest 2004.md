@@ -1,3 +1,7 @@
+---
+description: "Third annual WaffleFest."
+image: "File/WaffleFest%202004%20Poster.jpg"
+---
 ![[WaffleFest 2004 Poster.jpg|Poster for WaffleFest 2004.]]
 
 **WaffleFest 2004** was the third annual [[Festivals/Wafflefest|Wafflefest]].

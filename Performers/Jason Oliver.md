@@ -1,3 +1,7 @@
+---
+description: "An improv performer and staff member at ColdTowne Theater."
+image: "File/Jason%20Oliver%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "(/ˈmækəˌtiː/) is an improv performer."
+image: "File/Carissa%20McAtee%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

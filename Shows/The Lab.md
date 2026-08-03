@@ -1,3 +1,7 @@
+---
+description: "Monthly sketch-comedy open mic."
+image: "File/The%20Lab.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

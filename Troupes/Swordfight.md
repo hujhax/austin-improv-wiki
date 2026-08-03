@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-2010."
+image: "File/Swordfight.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Swordfight is a troupe of silver-tongued wit wielders, skilled in the art of cutting up. Sharpened on the fabled stage of The Institution Theater, they incite vicious belly laughter while swinging their long form. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Swordfight is a troupe of silver-tongued wit wielders, skilled in the art of cutting up. Sharpened on the fabled stage of The Institution Theater, they incite vicious belly laughter while swinging their long form. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do suggestion based montage scenes... attempting the harold, usually. We always show up, we always have fun, and we try not to offend too many people. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do suggestion based montage scenes... attempting the harold, usually. We always show up, we always have fun, and we try not to offend too many people. 
+
 
 ## Media
 ### Videos

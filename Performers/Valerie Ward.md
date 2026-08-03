@@ -1,3 +1,7 @@
+---
+description: "An improv performer, teacher, coach, and director."
+image: "File/Valerie%20Ward.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

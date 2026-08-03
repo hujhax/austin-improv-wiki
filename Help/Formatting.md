@@ -1,3 +1,7 @@
+---
+description: "==Basic Wiki Formatting==."
+image: "File/John%20Doe%20Pic.jpg"
+---
 ## Basic Wiki Formatting
 Here's a quick list of some of the most useful ways to format text in a wiki page.
 

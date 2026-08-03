@@ -1,3 +1,7 @@
+---
+description: "|Run = 6/3/12."
+image: "File/Tech%20Nightmare%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

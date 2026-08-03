@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"Shows\"."
+---
 ## Pages in category "Shows"
 
 * [[Shows/' ' or Bust!|' ' or Bust!]]

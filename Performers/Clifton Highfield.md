@@ -1,3 +1,7 @@
+---
+description: "An improv performer, instructor, and director who works primarily with..."
+image: "File/Clifton%20Highfield%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

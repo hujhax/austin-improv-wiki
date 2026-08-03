@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Julie%20Gillis%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Julie Gillis** is an improv performer.
 
 ## History
-Julie started doing improv in Austin in 2004, joined [[Troupes/Girls Girls Girls|Girls Girls Girls]] in 2005, and performed longform narrative with [[Gnap! Theater Projects]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]] from then until early 2012.
+Julie started doing improv in Austin in 2004, joined [[Troupes/Girls Girls Girls|Girls Girls Girls]] in 2005, and performed longform narrative with [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]] from then until early 2012.
 
 She produced  [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]] from its inception until 2012, and currently produces *Bedpost Confessions*.
 

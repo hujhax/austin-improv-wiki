@@ -1,3 +1,7 @@
+---
+description: "An improv performer and producer."
+image: "File/Leng%20Wong%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

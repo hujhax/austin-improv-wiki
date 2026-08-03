@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with The Institution Theater."
+image: "File/Mark%20Shoemaker.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

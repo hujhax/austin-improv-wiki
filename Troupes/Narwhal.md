@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2012."
+image: "File/Narwhal.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,14 +78,20 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Narwhal, Christie Grace, Sarah Price, Dan Grimm and [[Performers/Patrick Knisely|Patrick Knisely]], formed in early 2011, deciding to make an official troupe after nearly two years worth of playing in various shows and ensembles together.</p> 
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Narwhal, Christie Grace, Sarah Price, Dan Grimm and [[Performers/Patrick Knisely|Patrick Knisely]], formed in early 2011, deciding to make an official troupe after nearly two years worth of playing in various shows and ensembles together.
+>  
+> 
+> A mixture of fast and slow paced comedy, Narwhal throws out a handful of scenes through their show and brings them all home together weaving the storylines together in the end.
 
-<p>A mixture of fast and slow paced comedy, Narwhal throws out a handful of scenes through their show and brings them all home together weaving the storylines together in the end.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We're working on a more unique format, but for the moment we're starting with a general montage that opens with three or four extremely short scenes featuring mirroring and repetition.</p> 
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We're working on a more unique format, but for the moment we're starting with a general montage that opens with three or four extremely short scenes featuring mirroring and repetition.
+>  
+> 
+> We hope to close with a fast-paced connection based series of call-backs that tie the threads together.
 
-<p>We hope to close with a fast-paced connection based series of call-backs that tie the threads together.</p></blockquote>
 
 ## Media
 ### Videos

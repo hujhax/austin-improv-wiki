@@ -1,3 +1,7 @@
+---
+description: "|Director = Rodney Rincon."
+image: "File/The%20Laff%20Staff.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

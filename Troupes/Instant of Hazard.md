@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-2013."
+image: "File/Instant%20of%20Hazard.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,22 +78,32 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>"...in this instant of hazard, can a different meaning appear?" -Peter Brook, The Empty Space</p>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> "...in this instant of hazard, can a different meaning appear?" -Peter Brook, The Empty Space
+> 
+> 
+> Milo Smith and Valerie Ward explore alternating moments of tension and release, calm and chaos, aggression and connection.
+>  
+> 
+> Organic transitions create a collage of scenes with a strong thematic drive.
+>  
+> 
+> Instant of Hazard seeks to explore the depths of possibility in improv.
+>  
+> 
+> And there are jokes.
 
-<p>Milo Smith and Valerie Ward explore alternating moments of tension and release, calm and chaos, aggression and connection.</p> 
-
-<p>Organic transitions create a collage of scenes with a strong thematic drive.</p> 
-
-<p>Instant of Hazard seeks to explore the depths of possibility in improv.</p> 
-
-<p>And there are jokes.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>It's a duo with organic and dramatic elements.</p> 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> It's a duo with organic and dramatic elements.
+>  
+> 
+> Think Scram meets Cook County Social Club.
+>  
+> 
+> We think and talk and do a lot about improv and theory, and are constantly trying out new stuff.
 
-<p>Think Scram meets Cook County Social Club.</p> 
-
-<p>We think and talk and do a lot about improv and theory, and are constantly trying out new stuff.</p></blockquote>
 
 ## Media
 ### Videos

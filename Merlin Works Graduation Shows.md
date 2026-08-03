@@ -1,4 +1,7 @@
-**Merlin Works Graduation Shows** were limited-run longform shows put on by [[Gnap! Theater Projects]] and the [[Merlin Works Institute of Improvisation]] from 2008 to 2012.
+---
+description: "Limited-run longform shows put on by Gnap!"
+---
+**Merlin Works Graduation Shows** were limited-run longform shows put on by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] and the [[Theatres/Merlin Works Institute of Improvisation|Merlin Works Institute of Improvisation]] from 2008 to 2012.
 
 Each run was the culmination of the school's "601" class which specialized in creating a longform format.
 

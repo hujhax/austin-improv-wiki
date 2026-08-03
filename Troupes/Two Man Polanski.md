@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2012."
+image: "File/Two%20Man%20Polanski%20Vid.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

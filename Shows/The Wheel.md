@@ -1,3 +1,7 @@
+---
+description: "Rotating set of Friday 8pm shows at The Hideout Theatre."
+image: "File/The%20Wheel.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

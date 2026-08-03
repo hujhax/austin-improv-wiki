@@ -1,3 +1,7 @@
+---
+description: "(formerly Jeanette Jones) is an improv performer."
+image: "File/Jeanette%20Jones%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

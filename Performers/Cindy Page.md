@@ -1,3 +1,7 @@
+---
+description: "Technical improviser, improv performer, musician, and Co-Technical Director of The..."
+image: "File/Cindy%20Page%20Pic.jpg"
+---
 *This article employs a [[Pseudonyms|Pseudonym]].  Please do not replace that pseudonym with a real name without that person's permission.*
 
 <div>

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011."
+image: "File/Somewhat%20Brittish.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>She's Britt and he's a Brit. Together, they are Somewhat Brittish. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> She's Britt and he's a Brit. Together, they are Somewhat Brittish. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We chat a bit on stage before we begin our set, to get some ideas. Then we begin our monoscene. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We chat a bit on stage before we begin our set, to get some ideas. Then we begin our monoscene. 
+
 
 ## History
 The duo disbanded in August 2011, when the two members moved to Chicago and New Orleans.

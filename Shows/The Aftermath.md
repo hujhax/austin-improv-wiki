@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/The%20Aftermath.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -149,11 +153,16 @@ The soundtrack was a mix of acoustic guitar and percussion.
 In light of the announcements of *[[Shows/RISEN|RISEN]]* and *[[Shows/The Organ Trail|The Organ Trail]]*, director [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] instituted a soft "no zombies" rule for the run.
 
 ### Publicity Blurbs
-From the show announcement:<blockquote>An improvised post-post-apocalyptic adventure, chronicling the lives of the survivors of a world ending cataclysm. Inspired by works like *World War Z*, *Y the Last Man*, *The Hunger Games*, *Revolution*, and *The Walking Dead*.</blockquote>
+From the show announcement:
+> An improvised post-post-apocalyptic adventure, chronicling the lives of the survivors of a world ending cataclysm. Inspired by works like *World War Z*, *Y the Last Man*, *The Hunger Games*, *Revolution*, and *The Walking Dead*.
 
-From the show's web page:<blockquote><p>The world has ended. Something came and took it all away. Or something vanished and everything fell apart. Billions are dead. Civilization has crumbled. That is not our story. Our story is what comes after. A story of survivors. A story of rebuilding. A story of our first steps out of the ashes. Welcome... to *The Aftermath*!</p>
 
-<p>Inspired by the worlds created (and destroyed) in such visionary works as *World War Z*, *Y the Last Man*, *Children of Men*, *Falling Skies*, and *Jericho* (along with countless others), *The Aftermath* is an improvised look into the lives of the survivors of a world ending cataclysm, their hardships and hopes, what they had to give up and what they’ll never let go of, and most importantly how they move forward.</p></blockquote>
+From the show's web page:
+> The world has ended. Something came and took it all away. Or something vanished and everything fell apart. Billions are dead. Civilization has crumbled. That is not our story. Our story is what comes after. A story of survivors. A story of rebuilding. A story of our first steps out of the ashes. Welcome... to *The Aftermath*!
+> 
+> 
+> Inspired by the worlds created (and destroyed) in such visionary works as *World War Z*, *Y the Last Man*, *Children of Men*, *Falling Skies*, and *Jericho* (along with countless others), *The Aftermath* is an improvised look into the lives of the survivors of a world ending cataclysm, their hardships and hopes, what they had to give up and what they’ll never let go of, and most importantly how they move forward.
+
 
 ## Media
 ### Videos

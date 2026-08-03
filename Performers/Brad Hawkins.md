@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with The Hideout Theatre..."
+image: "File/Brad%20Hawkins.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "An award winning performer, skilled improv teacher, facilitator and trainer,..."
+image: "File/Aden%20Kirschner%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -19,7 +23,7 @@
 	</table>
 </div>
 
-**Aden Kirschner** is an award winning performer, skilled improv teacher, facilitator and trainer, and operated as the Corporate Training and Events Coordinator for [[The Merlin Works Institute for Improvisation]]. Her performance and corporate training clients included Austin Waldorf High School, Hewlett Packard, Safe Place and Dell. As a teacher, Aden sought to create a fun, safe environment where people can explore and grow new practical skills to help them on stage, in business and in their private life.
+**Aden Kirschner** is an award winning performer, skilled improv teacher, facilitator and trainer, and operated as the Corporate Training and Events Coordinator for [[Theatres/The Merlin Works Institute for Improvisation|The Merlin Works Institute for Improvisation]]. Her performance and corporate training clients included Austin Waldorf High School, Hewlett Packard, Safe Place and Dell. As a teacher, Aden sought to create a fun, safe environment where people can explore and grow new practical skills to help them on stage, in business and in their private life.
 
 ## Teacher
 Aden has an extensive background in education. She has been teaching and facilitating using improv comedy skills since 1995. In addition to giving performance and communication skills training, she has also taught writing and conversational ESL. In 2000 she was published in the Fort Lewis College Freshman Writing Course book. Aden joined educational software powerhouse Compass Learning in 2006, where she spent nearly three years crafting topics like algebra and biology into fun, dynamic and engaging learning activities that retained 110% of their curricular importance. She holds a BA in European history from Fort Lewis College, and in 2002 she facilitated the creation of a brand new Leadership program for their students that explored the application of improv performance in professional skills areas like communication, customer service and entrepreneurship.
@@ -33,13 +37,17 @@ Labeled as “The funniest person in Austin,” by improv giant, [[Performers/To
 ## History
 Though Aden began improvising early, she joined the Austin Improv Collective in 2005 when she relocated to ATX following living two years of living in South Korea.
 
-She joined [[Troupes/Girls Girls Girls|Girls Girls Girls]] in 2007 and began teaching for [[Merlin Works]] in 2009.
+She joined [[Troupes/Girls Girls Girls|Girls Girls Girls]] in 2007 and began teaching for [[Theatres/Merlin Works|Merlin Works]] in 2009.
 
-A post from her about the first improv show she ever saw:<blockquote><p>The first improv show I saw was one I produced and directed in High School in February of 1995. Improv was so much a part of my theatrical training (which started at the age of 6), that I wanted to dedicate my senior project work to it. I even wrote my senior thesis on the use of improv as a teaching tool... and went on to teach improv for a couple of years.</p> 
+A post from her about the first improv show she ever saw:
+> The first improv show I saw was one I produced and directed in High School in February of 1995. Improv was so much a part of my theatrical training (which started at the age of 6), that I wanted to dedicate my senior project work to it. I even wrote my senior thesis on the use of improv as a teaching tool... and went on to teach improv for a couple of years.
+>  
+> 
+> The show I created was called Random Things. It was a mix of monologue, scripted sketch, improvised dialogue inside of already blocked scenes, and included two mini-episodes of a fully improvised soap opera. It was two acts of roughly 45 minutes and had a fifteen minute intermission. The show ran for two weekends and each night was completely different. My parents have one of the nights on video somewhere.
+>  
+> 
+> In comparison the improv I see and participate in here in Austin is sooooo much simpler!
 
-<p>The show I created was called Random Things. It was a mix of monologue, scripted sketch, improvised dialogue inside of already blocked scenes, and included two mini-episodes of a fully improvised soap opera. It was two acts of roughly 45 minutes and had a fifteen minute intermission. The show ran for two weekends and each night was completely different. My parents have one of the nights on video somewhere.</p> 
-
-<p>In comparison the improv I see and participate in here in Austin is sooooo much simpler!</p></blockquote>
 
 In 2014, she moved away to Oregon, but visits Austin regularly and is still involved in several local projects, including [[Troupes/Girls Girls Girls|Girls Girls Girls]], The World Peace Project and [[Troupes/The Known Wizards|The Known Wizards]].
 

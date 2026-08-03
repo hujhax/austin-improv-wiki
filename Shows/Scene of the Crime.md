@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Scene%20of%20the%20Crime%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -155,8 +159,9 @@ The first scene would depict the murder.  To preserve the mystery, the 'victim' 
 The set featured a custom-built door upstage center.  The show was scored live by James Blair, who provided classically suspenseful keyboard music.  There were also ambient sound effects -- birdsong, etc. -- depending on the location.  Costumes were 'timeless' -- nice, classic, elegant outfits from anywhere from the 1940s to the present.  Lighting was stylized for the flashback scenes, to make them distinct.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>*Scene of the Crime* takes its cue from classic whodunits crafted by the likes of Agatha Christie, wherein a murder is committed at the outset of our story, and everyone is a suspect.
-</blockquote>
+From the show announcement:
+> *Scene of the Crime* takes its cue from classic whodunits crafted by the likes of Agatha Christie, wherein a murder is committed at the outset of our story, and everyone is a suspect.
+
 
 ## Media
 ### Videos

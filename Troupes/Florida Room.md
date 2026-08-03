@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-2012."
+image: "File/Florida%20Room.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Florida Room: Improvised Golden Girls creates a completely improvised episode of the show complete with cheesecake and lots of floral. Starring: [[Performers/Ashley Nugent|Ashley Nugent]] as Dorothy, Leah Moss as Sophia, [[Performers/Katie Thornton|Katie Thornton]] as Blanche and [[Performers/Emma Holder|Emma Holder]] as Rose. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Florida Room: Improvised Golden Girls creates a completely improvised episode of the show complete with cheesecake and lots of floral. Starring: [[Performers/Ashley Nugent|Ashley Nugent]] as Dorothy, Leah Moss as Sophia, [[Performers/Katie Thornton|Katie Thornton]] as Blanche and [[Performers/Emma Holder|Emma Holder]] as Rose. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We improvise an episode of *The Golden Girls* based on an audience suggestion. We eat lots of cheescake during the show and wear costumes. It's a good time!</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We improvise an episode of *The Golden Girls* based on an audience suggestion. We eat lots of cheescake during the show and wear costumes. It's a good time!
+
 
 ## Media
 ### Photos

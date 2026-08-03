@@ -1,3 +1,6 @@
+---
+description: "Topping Haggerty Experience is the one-person improvised long form show..."
+---
 **Topping Haggerty Experience** is the one-person improvised long form show performed by [[Troupes/Topping Haggerty|Topping Haggerty]].
 
 

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2011."
+image: "File/Improvised%20Robocop.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Welcome to Improvised Robocop, the future of genre improv. Will Robocop be able to save old Austin from Omni Consumer Products and hordes of vicious gangs when he's forced to be a doctor, lawyer or indian chief? Can he still find time to rattle off his trademark catch phrases? Only one way to find out. Come see our show! Go Robo!</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Welcome to Improvised Robocop, the future of genre improv. Will Robocop be able to save old Austin from Omni Consumer Products and hordes of vicious gangs when he's forced to be a doctor, lawyer or indian chief? Can he still find time to rattle off his trademark catch phrases? Only one way to find out. Come see our show! Go Robo!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform a narrative genre show based loosely on the 1987 movie Robocop, we get a profession from the audience for a new occupation to give to Robocop and do a show based upon that suggestion. We may also do sub-games within the show, such as lines from a hat. There is also a video introduction and act-break.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We perform a narrative genre show based loosely on the 1987 movie Robocop, we get a profession from the audience for a new occupation to give to Robocop and do a show based upon that suggestion. We may also do sub-games within the show, such as lines from a hat. There is also a video introduction and act-break.
+
 
 ## Media
 ### Videos

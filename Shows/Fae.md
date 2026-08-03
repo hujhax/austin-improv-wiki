@@ -1,3 +1,7 @@
+---
+description: "An upcoming show from the Puppet Improv Project."
+image: "File/Fae.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

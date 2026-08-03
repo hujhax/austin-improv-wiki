@@ -1,3 +1,6 @@
+---
+description: "This List of Fallout Theater Shows is designed to be..."
+---
 <noinclude>
 This **List of [[Theatres/Fallout Theater|Fallout Theater]] Shows** is designed to be transcluded into any "[[Theatres/Fallout Theater|Fallout Theater]] shows" section on the wiki.
 </noinclude>

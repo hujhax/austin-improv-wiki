@@ -1,3 +1,7 @@
+---
+description: "|Crew =."
+image: "File/The%20Sicks.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

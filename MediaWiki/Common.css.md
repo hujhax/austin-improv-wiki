@@ -1,3 +1,6 @@
+---
+description: "/* CSS placed here will be applied to all skins..."
+---
 /* CSS placed here will be applied to all skins */
 
 .DPLTest ul {

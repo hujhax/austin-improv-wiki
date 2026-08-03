@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2013."
+image: "File/Tomato%20Pie.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,14 +78,21 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>A two-person troupe that will bring you to tears, in good ways.</p> 
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> A two-person troupe that will bring you to tears, in good ways.
+>  
+> 
+> Expect to see scenes that are layered with real emotional depth and character.
+>  
+> 
+> Then when you least expect it, Joshua and Ashley will take those scenes to their emotional peak, rendering you speechless because you can't stop crying/laughing/yelling.
+>  
 
-<p>Expect to see scenes that are layered with real emotional depth and character.</p> 
-
-<p>Then when you least expect it, Joshua and Ashley will take those scenes to their emotional peak, rendering you speechless because you can't stop crying/laughing/yelling.</p> </blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a two-person improv show, usually with many scenes and characters that are sometimes connected and sometimes not. We try to have as much fun as Middleage Comeback while being as believable as TJ & Dave. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a two-person improv show, usually with many scenes and characters that are sometimes connected and sometimes not. We try to have as much fun as Middleage Comeback while being as believable as TJ & Dave. 
+
 
 ## Media
 ### Videos

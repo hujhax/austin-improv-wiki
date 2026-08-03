@@ -1,3 +1,7 @@
+---
+description: "|Run= Nov/Dec 2014."
+image: "File/Nothing%20and%20Everything.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

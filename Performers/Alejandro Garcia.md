@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily at ColdTowne Theater."
+image: "File/Alejandro%20Garcia%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

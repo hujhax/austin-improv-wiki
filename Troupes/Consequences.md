@@ -1,3 +1,6 @@
+---
+description: "|Years = 2011-2012."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>For every action, and equal opposite reaction. For every decision, a consequence. When decisions are made Consequences will transpire. A smorgasbord of group mind. For every trip to the moon, Consequences. Ask someone to prom, Consequences. Bid on Ebay, Consequences. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> For every action, and equal opposite reaction. For every decision, a consequence. When decisions are made Consequences will transpire. A smorgasbord of group mind. For every trip to the moon, Consequences. Ask someone to prom, Consequences. Bid on Ebay, Consequences. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We ask the audience for a suggestion of a non-geographic location. We then do a lengthy scene that establishes the world in which our specific location exists, and then exponentially expand that world. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We ask the audience for a suggestion of a non-geographic location. We then do a lengthy scene that establishes the world in which our specific location exists, and then exponentially expand that world. 
+
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/consequencesimprov)

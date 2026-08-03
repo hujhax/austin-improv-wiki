@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Kenjutsu.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

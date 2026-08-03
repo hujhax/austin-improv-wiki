@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Current."
+image: "File/nugefield.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "Writer, director and improviser."
+image: "File/Matt%20Needles%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,6 @@
+---
+description: "|Years = 2010."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>5 improvisers looking for love or something like it. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> 5 improvisers looking for love or something like it. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>A one-act play using improvised personal ad "posts" to explore characters and their relationships. It's a free form with harold, narrative, and other influences. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> A one-act play using improvised personal ad "posts" to explore characters and their relationships. It's a free form with harold, narrative, and other influences. 
+
 
 ## History
 The troupe premiered at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 6/17/10.

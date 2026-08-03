@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Slam Team Six.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

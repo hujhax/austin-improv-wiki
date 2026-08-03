@@ -1,3 +1,7 @@
+---
+description: "Show that uses interviews and improv to explore mental health..."
+image: "File/Improv%20Anonymous.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

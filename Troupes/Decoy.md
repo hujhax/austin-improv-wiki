@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Decoy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Armando troupe! We are used to performing for at least 30 and up to 90 minutes, so a 30 min slot would be ideal if we get cast. Thanks!</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Armando troupe! We are used to performing for at least 30 and up to 90 minutes, so a 30 min slot would be ideal if we get cast. Thanks!
+
 
 ## Media
 ### Videos

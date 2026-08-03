@@ -1,3 +1,7 @@
+---
+description: "|Years = 1984-1986."
+image: "File/The%20Hilarions.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

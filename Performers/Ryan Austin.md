@@ -1,3 +1,7 @@
+---
+description: "Well-dressed improviser who works mostly with The Hideout Theatre."
+image: "File/RyanAustin2.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -28,13 +32,19 @@ He began directing improv in August of 2012 when [[Performers/Ruby Willmann|Ruby
 
 
 ### First Improv Show He Saw
-A post from him about the first improv show he ever saw:<blockquote><p>The first live show I saw was when I was in level one. I went to see [[Troupes/Pgraph|Pgraph]] (I think maybe [[Troupes/Improv For Evil|Improv For Evil]] opened for them?) because [[Performers/Roy Janik|Roy]] was my teacher and I thought I'd go and support him. Until that night I had never seen -nor was I aware- that people improvised long-form narratives.</p> 
+A post from him about the first improv show he ever saw:
+> The first live show I saw was when I was in level one. I went to see [[Troupes/Pgraph|Pgraph]] (I think maybe [[Troupes/Improv For Evil|Improv For Evil]] opened for them?) because [[Performers/Roy Janik|Roy]] was my teacher and I thought I'd go and support him. Until that night I had never seen -nor was I aware- that people improvised long-form narratives.
+>  
+> 
+> It blew me away.
+>  
+> 
+> I studied screenwriting in college and had been working/pursuing writing so the idea of an improvised story that still maintained structure and character arcs was incredible.
+>  
+> 
+> They did a Sci Fi story that involved death chambers and a planet of rednecks. (I could probably reenact the whole thing, it was so vivid) I was convinced that they had at least worked out ahead of time who would be the protagonist. Roy assured me it was all spontaneous and though I walked in that night with only a mild interest in improv, I came out knowing that I wanted to do what they were doing.
+>  
 
-<p>It blew me away.</p> 
-
-<p>I studied screenwriting in college and had been working/pursuing writing so the idea of an improvised story that still maintained structure and character arcs was incredible.</p> 
-
-<p>They did a Sci Fi story that involved death chambers and a planet of rednecks. (I could probably reenact the whole thing, it was so vivid) I was convinced that they had at least worked out ahead of time who would be the protagonist. Roy assured me it was all spontaneous and though I walked in that night with only a mild interest in improv, I came out knowing that I wanted to do what they were doing.</p> </blockquote>
 
 ## Troupes
 * [[Troupes/Austin-Austin|Austin-Austin]]

@@ -1,3 +1,6 @@
+---
+description: "|Years = 2014-Present."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>John Ratliff and Juliet Prather are a study in contrasts: young and old, short and tall, woman and man, mind-blowingly beautiful and mind-blowingly handsome. And yet they meet as kindred spirits on the ancient plain of improv, where none of this matters, except that it's funnier when she plays a big ol' biker dude or he acts like a fancy lady. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> John Ratliff and Juliet Prather are a study in contrasts: young and old, short and tall, woman and man, mind-blowingly beautiful and mind-blowingly handsome. And yet they meet as kindred spirits on the ancient plain of improv, where none of this matters, except that it's funnier when she plays a big ol' biker dude or he acts like a fancy lady. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Grounded scenework.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Grounded scenework.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

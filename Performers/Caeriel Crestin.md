@@ -1,3 +1,7 @@
+---
+description: "An improviser who is a graduate of, and works for,..."
+image: "File/Caeriel%20Crestin%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

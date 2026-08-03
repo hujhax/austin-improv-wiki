@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/SSHH%21.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>SSHH is an improv duo made of two dear friends who love to laugh. When one of them laughs, the other one does. That's the goal in SSHH. If they laugh, you will too!</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> SSHH is an improv duo made of two dear friends who love to laugh. When one of them laughs, the other one does. That's the goal in SSHH. If they laugh, you will too!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>High energy montage!.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> High energy montage!.
+
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/SSHH/701887433257004?fref=ts)

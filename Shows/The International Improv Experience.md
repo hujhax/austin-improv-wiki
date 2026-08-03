@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/The%20International%20Improv%20Experience.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Golden.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -149,7 +153,9 @@ The scoring relied heavily on music by Ludovic Bource, Heinz Kiessling, and Wern
 The performers dressed in 60s-mod-inspired clothing.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>"A full-length improvised narrative, performed without words.  *Golden* will draw its inspiration from classic silent films, without being slavishly beholden to them.  Mime, clowning, physicality, and emotional sounds will all come into play"</blockquote>
+From the show announcement:
+> "A full-length improvised narrative, performed without words.  *Golden* will draw its inspiration from classic silent films, without being slavishly beholden to them.  Mime, clowning, physicality, and emotional sounds will all come into play"
+
 
 ## Media
 ### Videos

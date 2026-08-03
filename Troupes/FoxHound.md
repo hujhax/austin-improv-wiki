@@ -1,3 +1,6 @@
+---
+description: "|Years = 2010."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Collin Cannaday is a local writer, performer and artist. Jenny Carlson is a PhD candidate in anthropology at the University of Texas. Together they form a two-person improv show spanning time, space, class, culture and spirit. It's cute, it's funny, it's less than half an hour of two-person improv.</blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Collin Cannaday is a local writer, performer and artist. Jenny Carlson is a PhD candidate in anthropology at the University of Texas. Together they form a two-person improv show spanning time, space, class, culture and spirit. It's cute, it's funny, it's less than half an hour of two-person improv.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are a couple we perform a rotating series of scenes on an interconnected theme.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We are a couple we perform a rotating series of scenes on an interconnected theme.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

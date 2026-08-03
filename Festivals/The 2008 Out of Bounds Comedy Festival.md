@@ -1,3 +1,6 @@
+---
+description: "Seventh annual Out of Bounds Comedy Festival."
+---
 **The 2008 Out of Bounds Comedy Festival** was the seventh annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Summary

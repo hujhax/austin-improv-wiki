@@ -1,3 +1,7 @@
+---
+description: "|Tech = Michael Yew."
+image: "File/The%20Professor.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -141,7 +145,7 @@ Typically, one actor plays the Professor for a contiguous run of shows, with dif
 ## History
 Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329](http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)  In June 2011, [[Performers/Justin Bozied|Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[Shows/The Threefer|The Threefer]], and played an 8pm show at the Hideout two days later.
 
-Its first full run was a six-week set of Friday shows at [[Theatres/The Institution Theater|The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] (produced by [[Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738](http://forum.austinimprov.com/viewtopic.php?t=13738)
+Its first full run was a six-week set of Friday shows at [[Theatres/The Institution Theater|The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] (produced by [[Theatres/Gnap!|Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738](http://forum.austinimprov.com/viewtopic.php?t=13738)
 
 At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as director.  At the start of 2013, [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[Shows/The TV Set|The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613](http://forum.austinimprov.com/viewtopic.php?f=20&t=14613).  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
 

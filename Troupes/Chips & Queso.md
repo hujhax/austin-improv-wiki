@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/Chips%20%26%20Queso.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,14 +78,18 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Lots of stories and secrets get shared over chips & queso. Matthew & Regina use audience chips & queso confessions, stories, and secrets as inspiration to create authentic relationships, and explore spontaneous spaces.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Lots of stories and secrets get shared over chips & queso. Matthew & Regina use audience chips & queso confessions, stories, and secrets as inspiration to create authentic relationships, and explore spontaneous spaces.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are a duo troupe. 
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We are a duo troupe. 
+> 
+> Matt and I have been performing improv in various troupes for almost 5 years as individuals, but just recently decided to do a duo together and it's been great fun. 
+> 
+> We usually do monoscenes, but also enjoy doing popouts at times and switching into different characters.
 
-Matt and I have been performing improv in various troupes for almost 5 years as individuals, but just recently decided to do a duo together and it's been great fun. 
-
-We usually do monoscenes, but also enjoy doing popouts at times and switching into different characters.</blockquote>
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/chipsandquesoimprov)

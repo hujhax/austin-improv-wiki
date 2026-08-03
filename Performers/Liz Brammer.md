@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Liz%20Brammer%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Liz Brammer** is an improv performer.
 
 ## History
-Liz Brammer was a company member of [[Gnap! Theater Projects]].
+Liz Brammer was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 In 2012, Liz moved to Seattle.
 

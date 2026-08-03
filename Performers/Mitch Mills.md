@@ -1,3 +1,7 @@
+---
+description: "An improviser."
+image: "File/Mitch%20Mills.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

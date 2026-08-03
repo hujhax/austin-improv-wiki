@@ -1,3 +1,6 @@
+---
+description: "An improv performer and musical improviser."
+---
 **David Rosenbaum** is an improv performer and musical improviser.
 
 ## Troupes

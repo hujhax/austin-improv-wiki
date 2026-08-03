@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/B-Team.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,16 +78,23 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We are all about exploring the feeling of being 2nd best, the underdog, the feeling of being junior varsity, when you may feel like Luigi, rather than Mario; Chloe, rather than Kim; Bush, rather than Cheney.</p> 
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We are all about exploring the feeling of being 2nd best, the underdog, the feeling of being junior varsity, when you may feel like Luigi, rather than Mario; Chloe, rather than Kim; Bush, rather than Cheney.
+>  
+> 
+> You are the Robin when you wish you were Batman.
+>  
+> 
+> We want to dig up that old story and turn into something that will make you laugh and smile or cringe.
 
-<p>You are the Robin when you wish you were Batman.</p> 
-
-<p>We want to dig up that old story and turn into something that will make you laugh and smile or cringe.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Right now, we are a mix of short form games and montage.</p> 
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Right now, we are a mix of short form games and montage.
+>  
+> 
+> We want to be heavy on audience participation, and aren't afraid of use of music, dance, singing.
 
-<p>We want to be heavy on audience participation, and aren't afraid of use of music, dance, singing.</p></blockquote>
 
 ## Media
 ### Photos

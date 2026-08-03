@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with The&nbsp;New&nbsp;Movement."
+image: "File/Margaux%20Binder.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

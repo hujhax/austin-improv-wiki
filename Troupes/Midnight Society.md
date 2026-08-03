@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-Present."
+image: "File/Midnight%20Society.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 Their bio, from their web site:
-<blockquote><p>"Made up of stand up and sketch comedians, filmmakers, and writers, Midnight Society was named Austin’s best improv troupe by the Austin American Satesman’s A-List and was recently nominated for a B. Iden Payne Award. They’ve performed all around the country, including one show where star of stage and screen Matthew Lillard was in the audience. Midnight Society performs every Saturday night at 10PM at [[Theatres/Coldtowne Theater|Coldtowne Theater]] along with improv veterans [[Troupes/The Frank Mills|The Frank Mills]]."</p></blockquote>
+
+> "Made up of stand up and sketch comedians, filmmakers, and writers, Midnight Society was named Austin’s best improv troupe by the Austin American Satesman’s A-List and was recently nominated for a B. Iden Payne Award. They’ve performed all around the country, including one show where star of stage and screen Matthew Lillard was in the audience. Midnight Society performs every Saturday night at 10PM at [[Theatres/Coldtowne Theater|Coldtowne Theater]] along with improv veterans [[Troupes/The Frank Mills|The Frank Mills]]."
+
 
 ## Former Members
 * Stephanie Cook

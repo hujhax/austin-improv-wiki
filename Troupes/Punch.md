@@ -1,3 +1,6 @@
+---
+description: "|Years = 2007."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -73,7 +76,9 @@
 **Punch** was a one-off Cagematch team.
 
 ## Summary
-They described themselves thus:<blockquote>[[Performers/Lance Gilstrap|Lance Gilstrap]], Leah Moss, and [[Performers/John Ratliff|John Ratliff]] perform riveting improv scenes inspired by their own misspent lives.</blockquote>
+They described themselves thus:
+> [[Performers/Lance Gilstrap|Lance Gilstrap]], Leah Moss, and [[Performers/John Ratliff|John Ratliff]] perform riveting improv scenes inspired by their own misspent lives.
+
 
 ## History
 The troupe played a Cagematch on 12/13/07.

@@ -1,3 +1,7 @@
+---
+description: "An improv performer, and an instructor with Building Connections."
+image: "File/Joy%20Parks%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

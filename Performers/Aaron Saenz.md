@@ -1,3 +1,7 @@
+---
+description: "Classically-trained improviser."
+image: "File/Aaron%20Saenz.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

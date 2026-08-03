@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Twilight%20Zoned.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

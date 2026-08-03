@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Savage%20Swords.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -141,8 +145,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>SAVAGE SWORDS! is a swords and sorcery adventure narrative set in Conan the Barbarian's Hyborian age "sometime after the sinking of Atlantis and the dawn of recorded history" as created by pulp writer Robert E. Howard and popularized by Conan comics and films. The show will be lusty, bold and adventurous with the tone shifting between grim and jovial.
-</blockquote>
+From the show announcement:
+> SAVAGE SWORDS! is a swords and sorcery adventure narrative set in Conan the Barbarian's Hyborian age "sometime after the sinking of Atlantis and the dawn of recorded history" as created by pulp writer Robert E. Howard and popularized by Conan comics and films. The show will be lusty, bold and adventurous with the tone shifting between grim and jovial.
+
 
 ### Narrators and Protagonists
 * 1/9/16: narrated by [[Performers/Peter Rogers|Peter Rogers]], featuring [[Performers/Manuel Duran|Manuel Duran]].

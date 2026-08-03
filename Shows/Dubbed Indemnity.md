@@ -1,3 +1,7 @@
+---
+description: "Shortform show at The Hideout Theater where improvisors dubbed a..."
+image: "File/Dubbed%20Indemnity.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

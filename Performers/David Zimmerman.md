@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-Present."
+image: "File/David%20Zimmerman%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -75,7 +79,9 @@
 ## History
 David was nominated for "Favorite Tech Performer" in [[The 2013 Institution Theater Awards]].
 
-A post from him about the first improv show he ever saw:<blockquote>Winter of 2006, I saw [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s *[[Shows/After School Special|After School Special]]* at [[Theatres/Coldtowne Theater|Coldtowne Theater]] after hearing about it from Wesley from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up|Get Up]] was also there, doing a sea epic. </blockquote>
+A post from him about the first improv show he ever saw:
+> Winter of 2006, I saw [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s *[[Shows/After School Special|After School Special]]* at [[Theatres/Coldtowne Theater|Coldtowne Theater]] after hearing about it from Wesley from [[The Tuesday Night Jam]], and I gave the suggestion of teen pregnancy for the show. [[Troupes/Get Up|Get Up]] was also there, doing a sea epic. 
+
 
 ## Troupes
 * [[Troupes/Midnight Society|Midnight Society]]

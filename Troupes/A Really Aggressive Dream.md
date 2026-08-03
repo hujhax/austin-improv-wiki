@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/A%20Really%20Aggressive%20Dream.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>What do an actor, a lawyer, a student, a handy woman, a nurse, and a PR gal have in common? A Really Aggressive Dream and this is not the beginning of a joke. A Really Aggressive Dream (ARAD) is an improv troupe that combines the detail of narrative with the fluidity of montage and will have you laughing, crying and falling out of your seat. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> What do an actor, a lawyer, a student, a handy woman, a nurse, and a PR gal have in common? A Really Aggressive Dream and this is not the beginning of a joke. A Really Aggressive Dream (ARAD) is an improv troupe that combines the detail of narrative with the fluidity of montage and will have you laughing, crying and falling out of your seat. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We ask for an object and then we do a montage inspired by the object.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We ask for an object and then we do a montage inspired by the object.
+
 
 ## Media
 ### Photos

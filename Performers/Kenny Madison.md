@@ -1,3 +1,7 @@
+---
+description: "An improv performer and director."
+image: "File/Kenny%20Madison%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

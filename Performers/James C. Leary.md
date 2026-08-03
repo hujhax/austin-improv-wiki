@@ -1,3 +1,7 @@
+---
+description: "James C."
+image: "File/James%20C.%20Leary.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

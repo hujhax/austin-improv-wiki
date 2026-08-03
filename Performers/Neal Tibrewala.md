@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-2015."
+image: "File/Neal%20Tibrewala%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -73,7 +77,7 @@
 **Neal Tibrewala** was an improv performer and technical improvisor.
 
 ## History
-Neal started out by taking classes at [[Theatres/The Hideout Theater|The Hideout Theater]] and then [[Merlin Works]] and the [[Theatres/Institution Theater|Institution Theater]]s.  After being in a few student troupes, he performed with the [[Shows/Flying Theater Machine|Flying Theater Machine]] and [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]].  
+Neal started out by taking classes at [[Theatres/The Hideout Theater|The Hideout Theater]] and then [[Theatres/Merlin Works|Merlin Works]] and the [[Theatres/Institution Theater|Institution Theater]]s.  After being in a few student troupes, he performed with the [[Shows/Flying Theater Machine|Flying Theater Machine]] and [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]].  
 
 Throughout his improv career he specialized in Technical Improv, having done a great many mainstage shows and serving as dedicated tech for several troupes.  He retired from improv in 2015.
 

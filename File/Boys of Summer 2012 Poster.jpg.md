@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Boys of Summer 2012 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

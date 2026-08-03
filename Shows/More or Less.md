@@ -1,3 +1,7 @@
+---
+description: "Johnstone format put on by The Hideout Theatre."
+image: "File/More%20or%20Less%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

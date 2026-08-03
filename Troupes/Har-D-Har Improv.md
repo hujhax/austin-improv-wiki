@@ -1,3 +1,6 @@
+---
+description: "Short-form improv comedy troupe and is the largest troupe at..."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

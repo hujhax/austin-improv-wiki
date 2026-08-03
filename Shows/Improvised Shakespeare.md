@@ -1,3 +1,7 @@
+---
+description: "|Run = Jan-Mar 2008."
+image: "File/Improvised%20Shakespeare.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

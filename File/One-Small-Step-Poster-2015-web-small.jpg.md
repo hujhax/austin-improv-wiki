@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="One-Small-Step-Poster-2015-web-small.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

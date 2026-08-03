@@ -1,3 +1,7 @@
+---
+description: "Weekly performance slot at The Institution Theater."
+image: "File/ImprompTwo.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

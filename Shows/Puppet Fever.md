@@ -1,3 +1,7 @@
+---
+description: "|Music= Michael Brockman."
+image: "File/Puppet%20Fever.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

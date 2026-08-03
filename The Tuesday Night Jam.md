@@ -1,3 +1,6 @@
+---
+description: "Weekly free improv jam at the Hideout Theatre."
+---
 **The Tuesday Night Jam** was a weekly free improv jam at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History

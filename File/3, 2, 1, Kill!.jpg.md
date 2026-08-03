@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="3, 2, 1, Kill!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

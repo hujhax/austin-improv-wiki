@@ -1,3 +1,7 @@
+---
+description: "(/ˈbɑːdrə/) is an improv performer, director, and teacher."
+image: "File/Kareem%20Badr%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

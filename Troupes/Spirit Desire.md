@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2012."
+image: "File/Spirit%20Desire.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Spirit Desire formed in January 2010 through the power of friendship and [[Theatres/The New Movement Theater|The New Movement Theater]]. Since then this quartet of mostly bearded bros has played throughout Texas and have been on stage at [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], Dallas Comedy Festival and Hell Yes Fest in New Orleans. Wild and unpredictable these four attack whatever stage they are with complete comic abandon. Their monthly variety show at The New Movement, which showcases improv, sketch and videos from the troupe has become one of the biggest draws The New Movement has. </blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Spirit Desire formed in January 2010 through the power of friendship and [[Theatres/The New Movement Theater|The New Movement Theater]]. Since then this quartet of mostly bearded bros has played throughout Texas and have been on stage at [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], Dallas Comedy Festival and Hell Yes Fest in New Orleans. Wild and unpredictable these four attack whatever stage they are with complete comic abandon. Their monthly variety show at The New Movement, which showcases improv, sketch and videos from the troupe has become one of the biggest draws The New Movement has. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our format is fairly loose. We begin with an organic opening where we find a non-verbal game to carry us into our first scene. After that we move from scene to scene via organic transition and tap-outs. Sweep edits are banned.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Our format is fairly loose. We begin with an organic opening where we find a non-verbal game to carry us into our first scene. After that we move from scene to scene via organic transition and tap-outs. Sweep edits are banned.
+
 
 ## Media
 ### Photos

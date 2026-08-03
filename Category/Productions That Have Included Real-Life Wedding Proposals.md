@@ -1,3 +1,6 @@
+---
+description: "This is a list of shows that have included real-life..."
+---
 This is a list of shows that have included real-life wedding proposals.
 
 ## Pages in category "Productions That Have Included Real-Life Wedding Proposals"

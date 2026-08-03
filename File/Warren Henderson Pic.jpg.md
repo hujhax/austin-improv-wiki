@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Warren Henderson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

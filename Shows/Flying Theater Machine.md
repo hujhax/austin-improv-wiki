@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Flying%20Theater%20Machine.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

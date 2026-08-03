@@ -1,3 +1,7 @@
+---
+description: "|Years = 2006-2013."
+image: "File/Improv%20for%20Evil.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -75,7 +79,9 @@
 ## Summary
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote>"Improv For Evil has been entertaining and surprising audiences with their unique brand of improvised comedy since 2006. They have performed as a troupe and individually at venues across Austin, including [[Theatres/The Hideout Theatre|The Hideout Theatre]], Frontera Fest, The Houston Improv Festival, [[Theatres/Coldtowne Theater|Coldtowne Theater]], Cap City Comedy Club, [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], where they premiered their Cochise! format as part of [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]. They push the boundaries that few other performers are willing to approach."</blockquote>
+
+> "Improv For Evil has been entertaining and surprising audiences with their unique brand of improvised comedy since 2006. They have performed as a troupe and individually at venues across Austin, including [[Theatres/The Hideout Theatre|The Hideout Theatre]], Frontera Fest, The Houston Improv Festival, [[Theatres/Coldtowne Theater|Coldtowne Theater]], Cap City Comedy Club, [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], where they premiered their Cochise! format as part of [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]. They push the boundaries that few other performers are willing to approach."
+
 
 ## History
 After two years of relative inactivity, the troupe performed their final show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]. 

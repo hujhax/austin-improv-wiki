@@ -1,3 +1,6 @@
+---
+description: "|Years = 2010."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The compact profile and simple silhouette of the Metropolitan Collection sketch comedy team adds a touch of class to any comedy space. The richly layered cast is beautifully crafted of 5 stylish comedy talents with incredible durability.</blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> The compact profile and simple silhouette of the Metropolitan Collection sketch comedy team adds a touch of class to any comedy space. The richly layered cast is beautifully crafted of 5 stylish comedy talents with incredible durability.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Sketch comedy</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Sketch comedy
+
 
 ## History
 The troupe played in [[Theatres/ColdTowne|ColdTowne]]'s 24-Hour Sketch Challenge.

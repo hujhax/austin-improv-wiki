@@ -1,3 +1,7 @@
+---
+description: "An improv performer, instructor, director, and photographer who works primarily..."
+image: "File/Jon%20Bolden%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

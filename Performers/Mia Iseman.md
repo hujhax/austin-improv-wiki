@@ -1,3 +1,7 @@
+---
+description: "Left Austin, and improvises in Seattle now."
+image: "File/Mia%20Iseman.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

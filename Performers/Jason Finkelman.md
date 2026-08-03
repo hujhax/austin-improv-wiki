@@ -1,3 +1,7 @@
+---
+description: "__NOINDEX__."
+image: "File/JF%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

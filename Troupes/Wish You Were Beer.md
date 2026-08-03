@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/Wish%20You%20Were%20Beer.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>A unique improv comedy trio with eclectic backgrounds and experiences. Regina, Steve, and Matt find common humorous ground tackling their love and hatred of life's little surprises through narrative. Expect the unexpected in this emotionally charged mexi-kosher show.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> A unique improv comedy trio with eclectic backgrounds and experiences. Regina, Steve, and Matt find common humorous ground tackling their love and hatred of life's little surprises through narrative. Expect the unexpected in this emotionally charged mexi-kosher show.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a narrative inspired by personal stories of the troupe members that are inspired by a one word suggestion from the audience.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a narrative inspired by personal stories of the troupe members that are inspired by a one word suggestion from the audience.
+
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/WYWBaustin)

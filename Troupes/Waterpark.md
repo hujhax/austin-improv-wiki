@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012-Present."
+image: "File/Waterpark%20Publicity.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

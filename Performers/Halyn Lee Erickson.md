@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Halyn%20Lee%20Erickson.png"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -24,13 +28,18 @@
 ## History
 She began watching shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]] when she was in 6th grade, and started taking improv classes there in 2009. Her first mainstage show at the Hideout was Season 2 of *[[Shows/Austin Secrets|Austin Secrets]]* in January/February of 2011. After that she was in Season 2 of *[[Shows/Austin Secrets|Austin Secrets]]*, LNI, *[[Shows/Spirited|Spirited]]* (as Alice), *[[Shows/Charles Dickens Unleashed!|Charles Dickens Unleashed!]]*, *[[Shows/Process|Process]]*, *[[Shows/Rock|Rock]]* (during this run she was one of the main cast members of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]) *[[Shows/Fandom|Fandom]]*, Season 4 of *[[Shows/Austin Secrets|Austin Secrets]]*, *[[Shows/Hurly Burly|Hurly Burly]]*, and *[[Shows/TheatreSports|TheatreSports]]*. In June 2014 she headlined *[[Shows/The Threefer|The Threefer]]* at [[Theatres/The Hideout Theatre|the Hideout]] with her solo show, *[[Troupes/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*, based on the classic *[[Shows/Maestro|Maestro]]* game Demon Voice.
 
-A post from her about the first improv show she ever saw:<blockquote><p>My dad took me to see a *[[Shows/Maestro|Maestro]]* when I was in the 6th grade. The drive down I was super skeptical, and I thought it was going to be some weird lame one-off type thing. I think I thought it was like a play/performance art piece.</p> 
+A post from her about the first improv show she ever saw:
+> My dad took me to see a *[[Shows/Maestro|Maestro]]* when I was in the 6th grade. The drive down I was super skeptical, and I thought it was going to be some weird lame one-off type thing. I think I thought it was like a play/performance art piece.
+>  
+> 
+> From then on I begged him to take me as often as we could make the hour drive from Georgetown, and we saw it as often as we could. I remember leaving and us feeling so tired and exhausted because they were just so mind-blowing and hilarious to us. We would try and remember every scene, and it was virtually impossible.
+>  
+> 
+> One of the only scenes I can ever remember from all those shows was of a guy (I always think it was [[Performers/Ceej Allen|Ceej]] or [[Performers/Marc Majcher|Marc]]) who was Amish but secretly blogging about like these evil crops or something. He was trying to post to the outside world, and I think in the end the town just blew up. It was awesome.
+>  
+> 
+> I saw Maesetros for years until I actually saw another improv show that wasn't *Maestro* and it was a [[Troupes/Pgraph|Pgraph]] show. I don't really remember anything about it except for being confused that they were doing an entire story, and not understanding how that could possibly be a thing.
 
-<p>From then on I begged him to take me as often as we could make the hour drive from Georgetown, and we saw it as often as we could. I remember leaving and us feeling so tired and exhausted because they were just so mind-blowing and hilarious to us. We would try and remember every scene, and it was virtually impossible.</p> 
-
-<p>One of the only scenes I can ever remember from all those shows was of a guy (I always think it was [[Performers/Ceej Allen|Ceej]] or [[Performers/Marc Majcher|Marc]]) who was Amish but secretly blogging about like these evil crops or something. He was trying to post to the outside world, and I think in the end the town just blew up. It was awesome.</p> 
-
-<p>I saw Maesetros for years until I actually saw another improv show that wasn't *Maestro* and it was a [[Troupes/Pgraph|Pgraph]] show. I don't really remember anything about it except for being confused that they were doing an entire story, and not understanding how that could possibly be a thing.</p></blockquote>
 
 In 2015 she moved to Paris.
 

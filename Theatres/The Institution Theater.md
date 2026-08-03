@@ -1,3 +1,7 @@
+---
+description: "Presents and teaches both improv and scripted theater."
+image: "File/Institution%20logo.jpg"
+---
 <div>
 	<table class="infobox infobox-theater">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "(formerly The Laff Stop) is a professional stand-up comedy club..."
+image: "File/Cap%20City%20Comedy%20Club.png"
+---
 <div>
 	<table class="infobox infobox-theater">
 		<tr>

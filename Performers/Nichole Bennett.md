@@ -1,3 +1,7 @@
+---
+description: "An improv performer, director, technical designer, and teacher."
+image: "File/Nichole%20Bennett%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

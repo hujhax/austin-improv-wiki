@@ -1,3 +1,7 @@
+---
+description: "|Cast = Varied."
+image: "File/Charles%20Dickens%20Unleashed.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

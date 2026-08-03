@@ -1,3 +1,7 @@
+---
+description: "An improv performer and director."
+image: "File/Clay%20Towery%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -24,7 +28,7 @@
 ## History
 Clay had a long history of performance in music, scripted theater, dance and improv. He studied acting at St. Edward's University.
 
-Clay was a company member of [[Gnap! Theater Projects]].
+Clay was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 He passed away unexpectedly the morning of February 13, 2014.
 

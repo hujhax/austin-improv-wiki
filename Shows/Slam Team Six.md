@@ -1,3 +1,7 @@
+---
+description: "|Run = Apr 2014."
+image: "File/Slam%20Team%20Six.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -87,7 +91,8 @@
 
 ## Summary
 ### Publicity Blurb
-<blockquote>"A group of America's most beloved professional wrestlers use their athletic prowess and 'powers' outside of the ring to fight crime, help children, and protect the environment. The wrestlers will face the challenges of the nefarious plots of other evil villainous wrestlers, the temptations that risk leading them astray from being a good example for kids to look up to, and maybe worst of all their own distractibility. Presented like a kids show, but likely not appropriate for kids to actually watch, this show will be a wild blend of fantasy and reality. This show is produced by Cody Dearing and directed by Lance Gilstrap."</blockquote>
+> "A group of America's most beloved professional wrestlers use their athletic prowess and 'powers' outside of the ring to fight crime, help children, and protect the environment. The wrestlers will face the challenges of the nefarious plots of other evil villainous wrestlers, the temptations that risk leading them astray from being a good example for kids to look up to, and maybe worst of all their own distractibility. Presented like a kids show, but likely not appropriate for kids to actually watch, this show will be a wild blend of fantasy and reality. This show is produced by Cody Dearing and directed by Lance Gilstrap."
+
 
 ## History
 The show returned for performances including an exhibition match in the 2014 [[Shows/TheatreSports|TheatreSports]] run as well as [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].

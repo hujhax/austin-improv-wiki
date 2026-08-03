@@ -1,3 +1,7 @@
+---
+description: "|Director = Matthew Arisheh Falkenberg."
+image: "File/The%20Special%20Features%201.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

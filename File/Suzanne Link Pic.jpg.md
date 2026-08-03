@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Suzanne Link Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

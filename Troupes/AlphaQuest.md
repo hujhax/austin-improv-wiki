@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/typewriter.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

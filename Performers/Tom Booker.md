@@ -1,3 +1,7 @@
+---
+description: "An improv performer and director."
+image: "File/Tom%20Booker%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "An actor and musician who thus far has worked primarily..."
+image: "File/heath-vip.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

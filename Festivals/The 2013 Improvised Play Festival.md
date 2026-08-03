@@ -1,3 +1,6 @@
+---
+description: "Third annual Improvised Play Festival."
+---
 **The 2013 Improvised Play Festival** was the third annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 
 It ran from 4/11/13 to 4/13/13.

@@ -1,3 +1,7 @@
+---
+description: "An improv performer, director, producer and teacher."
+image: "File/Kristin%20Henn%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

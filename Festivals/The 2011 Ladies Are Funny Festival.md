@@ -1,3 +1,6 @@
+---
+description: "Fifth annual Ladies Are Funny Festival."
+---
 **The 2011 Ladies Are Funny Festival** was the fifth annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 
 ## Summary

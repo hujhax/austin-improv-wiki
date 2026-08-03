@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="LAFF 2012 Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

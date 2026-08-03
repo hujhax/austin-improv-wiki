@@ -1,3 +1,6 @@
+---
+description: "/* All CSS here will be loaded for users of..."
+---
 /* All CSS here will be loaded for users of the Timeless skin */
 /* Top bar font modernization */
 1. mw-header *,

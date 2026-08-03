@@ -1,3 +1,7 @@
+---
+description: "Yamina is an actor and improv comic based in Austin,..."
+image: "File/ok.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

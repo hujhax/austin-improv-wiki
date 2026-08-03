@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/A%20Penny%20Dreadful.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -158,7 +162,9 @@ The stage performers wore formal blacks, reds, and grays that suggested the 19th
 The show was scored with classical music, and used red washes to emphasize murder scenes. Washes were preferred over spotlight scenes as per the genre.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>"Inspired by the tales of Bram Stoker and Edgar Allen Poe, by the British Hammer Studios horror films of the 1960s, and featuring a dash of Scooby Doo, comes an improvised gothic horror tale replete with rich characters, terrible secrets, and all kinds of spooky goings-on."</blockquote>
+From the show announcement:
+> "Inspired by the tales of Bram Stoker and Edgar Allen Poe, by the British Hammer Studios horror films of the 1960s, and featuring a dash of Scooby Doo, comes an improvised gothic horror tale replete with rich characters, terrible secrets, and all kinds of spooky goings-on."
+
 
 ## Media
 ### Photos

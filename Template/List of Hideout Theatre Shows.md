@@ -1,3 +1,6 @@
+---
+description: "This List of Hideout Theatre Shows is designed to be..."
+---
 <noinclude>
 This **List of Hideout Theatre Shows** is designed to be transcluded into any "Hideout shows" section on the wiki.
 </noinclude>

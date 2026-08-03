@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2012."
+image: "File/Senshi%20Sokyo.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

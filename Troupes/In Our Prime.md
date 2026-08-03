@@ -1,3 +1,7 @@
+---
+description: "|Past Members = Jessica Arjet (2012-2015)."
+image: "File/In%20Our%20Prime%20Three.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -90,7 +94,9 @@ IOP has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawai
 They were coached for a period of several months in 2012 by [[Performers/Jeremy Sweetlamb|Jeremy Lamb]]. [[Performers/Shannon McCormick|Shannon McCormick]] also coached them for several months starting in June of 2013. [[Performers/Chuy Zarate|Chuy Zarate]] and [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]] have coached them in 2015.
 
 ## History
-Here is [[Performers/Paul Normandin|Paul Normandin]]'s explanation of the name's origin:<blockquote>In Our Prime came from a place holder name when we started (pre-Jessica) - Tripod - Everyone hated it. Later we used Late Bloomers - a reference to the idea that we were all coming late to the Improv scene relatively speaking. Satisfied that Late Bloomers was a false start, we changed it to, "It'll Come to Us." Turns out it did and not much longer. We all liked the play on words and it still had the air of late bloomingness. I am not sure who said "In Our Prime" first, but we all agreed on the spot.</blockquote>
+Here is [[Performers/Paul Normandin|Paul Normandin]]'s explanation of the name's origin:
+> In Our Prime came from a place holder name when we started (pre-Jessica) - Tripod - Everyone hated it. Later we used Late Bloomers - a reference to the idea that we were all coming late to the Improv scene relatively speaking. Satisfied that Late Bloomers was a false start, we changed it to, "It'll Come to Us." Turns out it did and not much longer. We all liked the play on words and it still had the air of late bloomingness. I am not sure who said "In Our Prime" first, but we all agreed on the spot.
+
 
 ### 2012 Shows
 * 03/01/2012 - Debut @ [[Theatres/The Hideout|The Hideout]] ("Printing Presses")

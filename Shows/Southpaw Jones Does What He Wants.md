@@ -1,3 +1,7 @@
+---
+description: "One-man sketch/music show at The Institution Theater."
+image: "File/Southpaw%20Jones%20Does%20What%20He%20Wants.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

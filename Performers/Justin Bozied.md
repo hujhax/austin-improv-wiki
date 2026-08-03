@@ -1,3 +1,7 @@
+---
+description: "(formerly Justin Davis) is an improv performer, director, and teacher."
+image: "File/Justin%20Davis.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

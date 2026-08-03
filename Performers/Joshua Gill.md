@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with Coldtowne Theater."
+image: "File/Joshua%20Gill%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

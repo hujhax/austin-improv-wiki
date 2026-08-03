@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2013."
+image: "File/Baldenholder.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Baldenholder is improv and sketch comedy from the Germanic brains of best friends and birthday twins, Chris Baldenhofer and Emma Holder. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Baldenholder is improv and sketch comedy from the Germanic brains of best friends and birthday twins, Chris Baldenhofer and Emma Holder. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform a collection of scenes based on one suggestion. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We perform a collection of scenes based on one suggestion. 
+
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/search.php?q=baldenholder&init=quick&tas=search_preload#!/pages/Baldenholder/153045524733347)

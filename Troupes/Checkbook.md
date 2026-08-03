@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2013."
+image: "File/Checkbook.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Checkbook (formerly Joy Behar Book Club) was formed in 2011. Each of the members has studied with The New Movement Theatre, based in Austin, and performs improv and sketch there regularly. Some of their favorite group activities include trapeze arts, cruise shuffleboard competitions, scuba diving off the coast of Belize, extreme bingo and watching <i>Shutter Island</i>.</blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Checkbook (formerly Joy Behar Book Club) was formed in 2011. Each of the members has studied with The New Movement Theatre, based in Austin, and performs improv and sketch there regularly. Some of their favorite group activities include trapeze arts, cruise shuffleboard competitions, scuba diving off the coast of Belize, extreme bingo and watching <i>Shutter Island</i>.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are currently performing a modified La Ronde, starting with character monologues, moving into two person scenes to develop relationships, and finishing with a montage performed as the characters established at the top.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We are currently performing a modified La Ronde, starting with character monologues, moving into two person scenes to develop relationships, and finishing with a montage performed as the characters established at the top.
+
 
 ## Media
 ### Videos

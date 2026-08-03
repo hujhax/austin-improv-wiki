@@ -1,3 +1,6 @@
+---
+description: "Here is a list of shows that have run or..."
+---
 Here is a list of shows that have run or are running in Austin, organized by producer.
 
 ## [[Theatres/Coldtowne Theater|Coldtowne Theater]]
@@ -79,7 +82,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * *[[Shows/The Mating Game|The Mating Game]]*
 * *[[Shows/Rapture The Flag|Rapture The Flag]]*
 
-## [[Gnap! Theater Projects]]
+## [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]
 ### Ongoing Shows
 * *[[Shows/Austin's Next Top Improviser|Austin's Next Top Improviser]]*
 * *[[Shows/The Derby|The Derby]]*

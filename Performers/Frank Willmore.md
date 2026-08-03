@@ -1,3 +1,6 @@
+---
+description: "An improv performer."
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

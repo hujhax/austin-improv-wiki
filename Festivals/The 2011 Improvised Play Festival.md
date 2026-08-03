@@ -1,3 +1,6 @@
+---
+description: "First annual Improvised Play Festival."
+---
 **The 2011 Improvised Play Festival** was the first annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 
 It ran from 6/30/11 to 7/2/11.

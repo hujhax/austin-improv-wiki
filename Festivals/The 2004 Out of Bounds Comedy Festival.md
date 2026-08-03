@@ -1,3 +1,6 @@
+---
+description: "Third annual Out of Bounds Comedy Festival."
+---
 **The 2004 Out of Bounds Comedy Festival** was the third annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Acts

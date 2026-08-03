@@ -1,3 +1,6 @@
+---
+description: "An improv and scripted theater performer."
+---
 Chelsea Beth is an improv and scripted theater performer.
 
 ## Resume

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Squirrel%20Buddies.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -73,7 +77,9 @@
 **Squirrel Buddies** is an improv duo that focuses on positivity.
 
 ## History
-Here is [[Performers/Jon Bolden|Jon Bolden]]'s explanation of the name's origin:<blockquote>Roy and I started Squirrel Buddies because we wanted to do really positive improv (at least to start). I don't even remember who said it first, but it sounded so ridiculous and it stuck. Since then people have told us we should consider changing our name if want to be taken more seriously. I say "poo poo" to that. The Beatles is one of the dumbest names of all time.</blockquote>
+Here is [[Performers/Jon Bolden|Jon Bolden]]'s explanation of the name's origin:
+> Roy and I started Squirrel Buddies because we wanted to do really positive improv (at least to start). I don't even remember who said it first, but it sounded so ridiculous and it stuck. Since then people have told us we should consider changing our name if want to be taken more seriously. I say "poo poo" to that. The Beatles is one of the dumbest names of all time.
+
 
 Squirrel Buddies attended the Alaska Improv Festival in 2013, the District Improv Festival (Washington DC) in 2014, and were guest artists at The Contemporary Theater in Wakefield, RI in 2015.
 

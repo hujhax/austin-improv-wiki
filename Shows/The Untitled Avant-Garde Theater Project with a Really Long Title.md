@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/The%20Untitled%20Avant-Garde%20Theater%20Project%20with%20a%20Really%20Long%20Title%20Placeholder%20Image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -145,8 +149,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>(Lights).  (Silence) ... THEN .... The sound of a single tear...  Or is it?  Maybe it's laughter, OR maybe... It's an improvised over-the-top artistic theatrical experience.  Maybe it's a group of up-and-coming performers showcasing their natural talents without taking themselves too seriously.  A simultaneously whimsical / endearing / pretentious / but committed look into the world of experimental theater, but all written in front of you... (Curtain) ... (That one Coldplay song)
-</blockquote>
+From the show announcement:
+> (Lights).  (Silence) ... THEN .... The sound of a single tear...  Or is it?  Maybe it's laughter, OR maybe... It's an improvised over-the-top artistic theatrical experience.  Maybe it's a group of up-and-coming performers showcasing their natural talents without taking themselves too seriously.  A simultaneously whimsical / endearing / pretentious / but committed look into the world of experimental theater, but all written in front of you... (Curtain) ... (That one Coldplay song)
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.

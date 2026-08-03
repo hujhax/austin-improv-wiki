@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Fiasco%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -160,8 +164,9 @@ The show aims for a sort of gasping laughter -- the avalanche of disaster is hil
 The set includes a large display screen, which shows 'hosting videos' (short video segments that convey the information that a live host would normally do) and displays words and phrases that inspire the onstage activity.  (A prompt for the initial monolog; short descriptions of the five relationships; the tilt.)
 
 ### Publicity Blurb
-From the show announcement:<blockquote>A crime caper goes disastrously wrong in this improvised dark comedy, inspired by Coen Brothers classics like *Fargo* and *The Big Lebowski*.  Based on the award-winning RPG.
-</blockquote>
+From the show announcement:
+> A crime caper goes disastrously wrong in this improvised dark comedy, inspired by Coen Brothers classics like *Fargo* and *The Big Lebowski*.  Based on the award-winning RPG.
+
 
 ## Media
 ### Photos

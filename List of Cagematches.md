@@ -1,3 +1,6 @@
+---
+description: "This List of Cagematches lists all the known performances of..."
+---
 This **List of Cagematches** lists all the known performances of *[[Shows/The Cagematch|The Cagematch]]*, a bracketed improv tournament that runs every two months at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 Winners of each match are listed **in bold**.

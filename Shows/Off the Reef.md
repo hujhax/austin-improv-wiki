@@ -1,3 +1,7 @@
+---
+description: "|Tech = Kat Greco."
+image: "File/Off%20the%20Reef.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

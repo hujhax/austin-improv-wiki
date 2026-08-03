@@ -1,3 +1,7 @@
+---
+description: "An improv theater in downtown Austin that draws its primary..."
+image: "File/Hideout%20logo.png"
+---
 <div>
 	<table class="infobox infobox-theater">
 		<tr>

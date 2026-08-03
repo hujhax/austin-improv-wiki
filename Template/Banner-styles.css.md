@@ -1,3 +1,6 @@
+---
+description: ".banner-image {."
+---
 .banner-image {
 	position: relative;
 	overflow: hidden;

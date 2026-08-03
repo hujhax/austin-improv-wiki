@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Shannon Dale Stott Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

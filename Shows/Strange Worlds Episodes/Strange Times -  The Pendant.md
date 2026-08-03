@@ -1,3 +1,6 @@
+---
+description: "This was the second \"Strange Times\" story from Strange Worlds."
+---
 This was the second "Strange Times" story from [[Shows/Strange Worlds|Strange Worlds]].  It was improvised on March 9th, 2013. 
 
 ## Episode Summary

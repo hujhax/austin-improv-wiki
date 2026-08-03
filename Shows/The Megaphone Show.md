@@ -1,3 +1,7 @@
+---
+description: "|Director = Varies."
+image: "File/The%20Megaphone%20Show.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

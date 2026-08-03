@@ -1,3 +1,6 @@
+---
+description: "== Licensing ==."
+---
 <div style="text-align: center;"><img src="Sam Schak.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Licensing

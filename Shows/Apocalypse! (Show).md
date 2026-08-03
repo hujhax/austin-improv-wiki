@@ -1,3 +1,7 @@
+---
+description: "|Tech = Audrey Rachel Sansom."
+image: "File/Apocalypse%20%28Show%29.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -18,7 +22,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -86,7 +90,7 @@
 	</table>
 </div>
 
-:''This page refers to the [[Gnap! Theater Projects]] mainstage show based on post-apocalyptic fiction.  For the similarly-themed troupe that performed a La Ronde set in a post-apocalyptic world, see [[Troupes/Apocalypse (troupe)|Apocalypse (troupe)]].
+:''This page refers to the [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] mainstage show based on post-apocalyptic fiction.  For the similarly-themed troupe that performed a La Ronde set in a post-apocalyptic world, see [[Troupes/Apocalypse (troupe)|Apocalypse (troupe)]].
 ***Apocalypse!* (show)** refers to ***Apocalypse!*** (often written all-lower-case: ***apocalypse!***), an improvised longform mainstage show based on post-acopalyptic stories such as *The Road Warrior* and *The Walking Dead*.
 
 ## Summary
@@ -100,7 +104,7 @@ A narrator brought a mythic quality to the show, along with focus and structure 
 Each night, the roles of Hero 1, Hero 2, Villain, and Narrator were decided beforehand.
 
 ## History
-Brandon Salinas pestered [[Performers/Shannon McCormick|Shannon McCormick]] about this concept for months before Shannon agreed to let him stage it as one of [[Gnap! Theater Projects|Gnap!]]'s mainstage shows. A small group workshopped the show in December 2009. The format was formalized over the course of full rehearsals, which began in February 2010.  It then ran Fridays and Saturdays, from 3/26/2010 to 4/17/2010.  [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] ran lights for the show, and [[Performers/Courtney Hopkin|Courtney Hopkin]] created its costumes.
+Brandon Salinas pestered [[Performers/Shannon McCormick|Shannon McCormick]] about this concept for months before Shannon agreed to let him stage it as one of [[Theatres/Gnap! Theater Projects|Gnap!]]'s mainstage shows. A small group workshopped the show in December 2009. The format was formalized over the course of full rehearsals, which began in February 2010.  It then ran Fridays and Saturdays, from 3/26/2010 to 4/17/2010.  [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] ran lights for the show, and [[Performers/Courtney Hopkin|Courtney Hopkin]] created its costumes.
 
 ### Casts
 #### Workshop Cast

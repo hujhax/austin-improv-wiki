@@ -1,3 +1,7 @@
+---
+description: "|Run = Sep/Oct 2012."
+image: "File/Pulp%20Friction%20poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

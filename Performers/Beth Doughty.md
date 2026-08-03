@@ -1,3 +1,7 @@
+---
+description: "An improviser, writer, and sketch performer."
+image: "File/Beth%20Doughtyc.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

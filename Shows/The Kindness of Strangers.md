@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/kindness%20of%20strangers.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

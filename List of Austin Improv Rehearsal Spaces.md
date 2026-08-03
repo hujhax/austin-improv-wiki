@@ -1,3 +1,6 @@
+---
+description: "This list of Austin Improv rehearsal spaces includes places that..."
+---
 This **list of Austin Improv rehearsal spaces** includes places that troupes and shows can rehearse around town.
 
 <table class="wikitable sortable" style="text-align:center">
@@ -10,8 +13,8 @@ This **list of Austin Improv rehearsal spaces** includes places that troupes and
   <tr >
     <td > <a class="internal-link" href="RLM">RLM</a></td>
     <td data-sort-value="$0"><em>free</em></td>
-    <td > it's complicated<ref>When school is in session: <strong>Su</strong> 2pm-10pm / <strong>Mo</strong>-<strong>Tu</strong> 8am-10pm / <strong>Fr</strong> 8am-6pm / <strong>Sa</strong> 1pm-5pm ; much more sporadically between sessions. See the [Hours Page for the library therein. Also note, that the closing time is when they lock the doors; if you are already inside you can hang around longer as long as you manage to stay out of the way of the cleaning crew.</ref></td>
-    <td data-sort-value="78712">[https://www.google.com/maps/place/Robert+Lee+Moore+Hall/@30.288949,-97.736336,17z/data=!3m1!4b1!4m2!3m1!1s0x8644b5835f0c5309:0xd8baf3a8ad82bf6c 2515 Speedway, Austin, TX 78712](http://www.lib.utexas.edu/about/hours/pma)</td>
+    <td > it's complicated<ref>When school is in session: <strong>Su</strong> 2pm-10pm / <strong>Mo</strong>-<strong>Tu</strong> 8am-10pm / <strong>Fr</strong> 8am-6pm / <strong>Sa</strong> 1pm-5pm ; much more sporadically between sessions. See the [http://www.lib.utexas.edu/about/hours/pma Hours Page for the library therein. Also note, that the closing time is when they lock the doors; if you are already inside you can hang around longer as long as you manage to stay out of the way of the cleaning crew.</ref></td>
+    <td data-sort-value="78712">[2515 Speedway, Austin, TX 78712](https://www.google.com/maps/place/Robert+Lee+Moore+Hall/@30.288949,-97.736336,17z/data=!3m1!4b1!4m2!3m1!1s0x8644b5835f0c5309:0xd8baf3a8ad82bf6c)</td>
   </tr>
   <tr >
     <td > [Music Lab](http://www.musiclabaustin.com/)</td>

@@ -1,3 +1,7 @@
+---
+description: "An actor, improviser, writer and director."
+image: "File/Donna%20RicePic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

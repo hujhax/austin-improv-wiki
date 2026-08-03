@@ -1,3 +1,6 @@
+---
+description: "/* CSS placed here will affect users of the Vector..."
+---
 /* CSS placed here will affect users of the Vector skin */
 
 .infobox {

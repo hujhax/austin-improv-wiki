@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2013."
+image: "File/Billy%20Icon.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Joshua Krilov and Stephanie Russo join forces for an improvised two person show where memorable characters are created and thoughtful relationships are explored. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Joshua Krilov and Stephanie Russo join forces for an improvised two person show where memorable characters are created and thoughtful relationships are explored. 
+
 
 ## Media
 ### Photos

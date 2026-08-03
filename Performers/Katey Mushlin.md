@@ -1,3 +1,7 @@
+---
+description: "An improv performer and member of Monks Night Out."
+image: "File/Katey%20Mushlin%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

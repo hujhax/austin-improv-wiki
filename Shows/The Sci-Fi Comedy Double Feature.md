@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/The%20Sci-Fi%20Comedy%20Double%20Feature.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

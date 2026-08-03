@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/Lola%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -18,7 +22,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -143,7 +147,7 @@
 The show improvised the same narrative three times, with three radically different outcomes based on slight changes in causal incidents. 
 
 ## History
-*[[Shows/Lola|Lola]]* was the first 8pm show put on by [[Gnap! Theater Projects]].  It ran on Fridays and Saturdays from 2/6/09 to 3/14/09, and comprised one of the hours of [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] on 6/27/09.
+*[[Shows/Lola|Lola]]* was the first 8pm show put on by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].  It ran on Fridays and Saturdays from 2/6/09 to 3/14/09, and comprised one of the hours of [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] on 6/27/09.
 
 ## Media
 ### Photos

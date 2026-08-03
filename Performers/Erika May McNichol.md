@@ -1,3 +1,7 @@
+---
+description: "An improv performer and director."
+image: "File/Erika%20May%20McNichol%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

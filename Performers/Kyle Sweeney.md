@@ -1,3 +1,7 @@
+---
+description: "== Summary ==."
+image: "File/http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,8 +26,10 @@
 ## Summary
 A physical improviser/sketch comedian with a penchant for the absurb*
 
-From [his ColdTowne bio](http://www.coldtownetheater.com/performer/kyle-sweeney):<blockquote>
-An avid improvisor, Kyle graduated from ColdTowne Conservatory in 2008 and since then has studied under a variety of the biggest names in improv (UCB, IO, Torch). Kyle performs regularly with the hit movie format in [[Shows/Movie Riot|Movie Riot]] (Fridays at 7pm).</blockquote>
+From [his ColdTowne bio](http://www.coldtownetheater.com/performer/kyle-sweeney):
+> 
+> An avid improvisor, Kyle graduated from ColdTowne Conservatory in 2008 and since then has studied under a variety of the biggest names in improv (UCB, IO, Torch). Kyle performs regularly with the hit movie format in [[Shows/Movie Riot|Movie Riot]] (Fridays at 7pm).
+
 
 ## History
 Always the class clown, Kyle made his way through university attaining both a B.S. in Professional Aviation and an MA in Speech-Theatre from the prestigious Louisiana Tech University. He moved to Austin in 2007 to pursue his career in comedy and filmmaking.

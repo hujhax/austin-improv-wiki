@@ -1,3 +1,6 @@
+---
+description: "Third performance of Showdown, which was improvised on 4/1/11."
+---
 ***Showdown* – Third Episode: "Texas, My Texas"** refers to the third performance of *[[Shows/Showdown|Showdown]]*, which was improvised on 4/1/11.
 
 ## Episode Summary

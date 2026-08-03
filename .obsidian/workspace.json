@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Performers/Cat Drago.md",
+                "file": "Troupes/Parallelogramophonograph.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cat Drago"
+              "title": "Parallelogramophonograph"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Performers/Cat Drago.md",
+                "file": "Troupes/Parallelogramophonograph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cat Drago"
+              "title": "Backlinks for Parallelogramophonograph"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Performers/Cat Drago.md",
+                "file": "Troupes/Parallelogramophonograph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cat Drago"
+              "title": "Outgoing links from Parallelogramophonograph"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Performers/Cat Drago.md",
+                "file": "Troupes/Parallelogramophonograph.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cat Drago"
+              "title": "Outline of Parallelogramophonograph"
             }
           }
         ]
@@ -185,32 +184,32 @@
   },
   "active": "b297e52ef8bade30",
   "lastOpenFiles": [
-    "Theatres/The Institution Theater.md",
-    "Troupes/Lazer Wolf.md",
-    "Troupes/Channel 2.md",
-    "Troupes/Bless This Mess.md",
-    "Troupes/The Awkwards.md",
-    "Troupes/Bric-a-Brac.md",
-    "Troupes/Tarantina Turner.md",
-    "Troupes/Foolish Mortals.md",
-    "Troupes/Straight Men.md",
-    "Troupes/I Am a Coat Rack, I Am a Lamp.md",
-    "Troupes/Fall Then Smirk.md",
-    "Troupes/Physics Curse.md",
-    "Troupes/The Dark Bloodlords.md",
-    "Troupes/Pack Of Cigarettes & Some Milk.md",
-    "Troupes/Faster, Robot! Kill! Kill!.md",
-    "Troupes/Paul Bunyan.md",
-    "Troupes/I Snood Bear.md",
-    "Troupes/Mundane.md",
-    "Troupes/Dragons.md",
-    "Troupes/Mickle.md",
-    "Troupes/Pariah.md",
-    "Troupes/Be Prepared.md",
-    "Troupes/Threefield.md",
-    "Troupes/Shamrock.md",
-    "Troupes/Space Earth.md",
-    "Troupes/Fart Clown Glasses.md",
+    "Reverend Goodman.md",
+    "The Grey Bishop -  The Ruby and the Tiger.md",
+    "Test Page 3.md",
+    "Test Page 2.md",
+    "Test Page 1.md",
+    "Temp.md",
+    "Monica Mahertinez.md",
+    "Maxine Maker and the Scintillating Confabulator!.md",
+    "Lily Wilde Versus the Ravenous Cats.md",
+    "Jack Ryder and the Temples of Neptune.md",
+    "Codename -  Sleuth and the Case of the Assassin's Sting.md",
+    "Bellwether Blue Versus the Shadow Asps.md",
+    "B. Iden Payne Awards.md",
+    "Shows/RISEN.md",
+    "Austin Improv Potluck.md",
+    "Gnap! Theater Projects.md",
+    "Gnap!.md",
+    "Merlin Works.md",
+    "Merlin Works Institute for Improvisation.md",
+    "Merlin Works Institute of Improvisation.md",
+    "The Beacon and the Dancing Skeleton.md",
+    "The Hideout Text Adventure.md",
+    "The Bad Dog Comedy Theater.md",
+    "The Austin Improv Wiki.md",
+    "The Austin Improv Wiki (description).md",
+    "Widget - SoundCloud.md",
     "Theatres",
     "Festivals",
     "Festival",

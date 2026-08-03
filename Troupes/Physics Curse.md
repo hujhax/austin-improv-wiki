@@ -1,3 +1,7 @@
+---
+description: "|Years = July 2014-Present."
+image: "File/PhysicsCurseMooseBooth2014.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

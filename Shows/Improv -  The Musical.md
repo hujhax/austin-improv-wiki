@@ -1,3 +1,7 @@
+---
+description: "|Cast = TBA."
+image: "File/Improv%20The%20Musical.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -90,7 +94,8 @@ The show is written by [[Performers/Tom Booker|Tom Booker]] and [[Performers/Sar
 It will run Fridays and Saturdays at 8pm from 3/27/15 to 4/11/15.
 
 ### Press Blurb
-<blockquote>"Everything you love about the world of improv, scripted and set to music.  Any suggestions?"</blockquote>
+> "Everything you love about the world of improv, scripted and set to music.  Any suggestions?"
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090), on the [[Theatres/Institution Theater|Institution Theater]] facebook page.

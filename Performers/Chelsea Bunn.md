@@ -1,3 +1,7 @@
+---
+description: "An improviser and actor based in Austin, Texas."
+image: "File/Chelsea%20Bunn%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

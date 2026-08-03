@@ -1,3 +1,7 @@
+---
+description: "|Run = May/Jun 2008."
+image: "File/Ka-Baam%21%21%20Logo.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -96,7 +100,9 @@ Throughout the show, director [[Performers/Asaf Ronen|Asaf Ronen]] served as the
 Each hero and villain would cobble together a costume from the show's collection of capes, masks, and attachable felt decorative pieces.
 
 ### Press Blurb
-The press blurb for the show from the show's web site:<blockquote>"*Ka-Baam!!* is every four-color fantasy writ large and on-the-spot by a cast of Austin's most heroic improv comedians.  Every week audience suggestions will inspire the origins and adventures of three never-before-seen heroes in a comic book story that will never be seen again.  The Golden Age will be reborn with the deadliest of villains, most ridiculous brawls and special guest comic book artists every week to capture the action in pencil and ink."</blockquote>
+The press blurb for the show from the show's web site:
+> "*Ka-Baam!!* is every four-color fantasy writ large and on-the-spot by a cast of Austin's most heroic improv comedians.  Every week audience suggestions will inspire the origins and adventures of three never-before-seen heroes in a comic book story that will never be seen again.  The Golden Age will be reborn with the deadliest of villains, most ridiculous brawls and special guest comic book artists every week to capture the action in pencil and ink."
+
 
 ## History
 Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up with the idea for *Ka-Baam!!* in New York City in 1998.  Ronen performed in the show's four-year run there.  Once he arrived in Austin, he mounted the show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Its first run, which was from 5/3/2008 to 7/5/2008, was sponsored by Austin Books and Comics (who provided free comics).  Its second run was from 9/11/09 to 10/24/09, and included both Friday and Saturday shows.

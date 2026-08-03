@@ -1,3 +1,6 @@
+---
+description: "Fourth annual WaffleFest."
+---
 **WaffleFest 2005** was the fourth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

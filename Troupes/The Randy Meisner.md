@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/The%20Randy%20Meisner.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -77,7 +81,9 @@ The troupe was founded by [[Performers/Jon Bolden|Jon Bolden]], David Hess, and 
 
 A few years later, they asked [[Performers/Kareem Badr|Kareem Badr]] to join the troupe to further differentiate the troupe from [[Troupes/The Glamping Trip|The Glamping Trip]], a frequently performing duo comprised of [[Performers/John Ratliff|John Ratliff]], and David Hess.
 
-Here is [[Performers/John Ratliff|John Ratliff]]'s explanation of the name's origin:<blockquote>Hess and I were doing Meisner exercises in rehearsal (all wrong, as it turns out) and invited Jon Bolden to join us. When we played a show I suggested calling ourselves the Randy Meisner. I assumed that almost nobody would realize that was also the name of the first bassist for the Eagles and I was right.  </blockquote>
+Here is [[Performers/John Ratliff|John Ratliff]]'s explanation of the name's origin:
+> Hess and I were doing Meisner exercises in rehearsal (all wrong, as it turns out) and invited Jon Bolden to join us. When we played a show I suggested calling ourselves the Randy Meisner. I assumed that almost nobody would realize that was also the name of the first bassist for the Eagles and I was right.  
+
 
 Category:Active
 [[Category/Troupes|Randy Meisner]]

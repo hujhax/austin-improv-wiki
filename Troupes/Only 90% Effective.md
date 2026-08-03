@@ -1,3 +1,7 @@
+---
+description: "|Years = 1995-2000."
+image: "File/Only%2090%25%20Effective.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

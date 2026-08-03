@@ -1,3 +1,7 @@
+---
+description: "Estevan J."
+image: "File/Chuy%20Zarate.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

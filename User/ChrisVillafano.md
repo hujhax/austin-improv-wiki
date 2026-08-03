@@ -1,1 +1,4 @@
+---
+description: "Chris Villafano is an improv performer in Austin, Tx."
+---
 Chris Villafano is an improv performer in Austin, Tx. He's one of the few improvisers that is actively pursuing the MITCH (Merlin Works, Institution,The New Movement, ColdTowne, and Hideout).Chris moved to Round Rock in 2011, where he would frequently visit Austin. It wasn't until July 2011 when he saw an improv show at The Hideout. His life would forever change. Despite being an avid audience member, Chris had no desires to become a performer. It wasn't until late 2011, after the demise of the lottery shows, that he decided to pursue improv classes. The journey started in 2012 and the rest is history.

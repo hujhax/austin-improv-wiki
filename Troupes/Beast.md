@@ -1,3 +1,6 @@
+---
+description: "|Years = 2011."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,14 +77,18 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Alex Baia and Shea Scott present character-driven long-form improvisation that teeters on the fine line between grounded drama and comedic delirium. 
-<br><br>
-This is improvisation unified by its unbridled commitment to characters that matter. 
-<br><br>
-This is improvisation with guts and brains.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Alex Baia and Shea Scott present character-driven long-form improvisation that teeters on the fine line between grounded drama and comedic delirium. 
+> <br><br>
+> This is improvisation unified by its unbridled commitment to characters that matter. 
+> <br><br>
+> This is improvisation with guts and brains.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The two of us--Alex and Shea--love improvising together, and we have a long history of successful performances in Oh, Science! </blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> The two of us--Alex and Shea--love improvising together, and we have a long history of successful performances in Oh, Science! 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

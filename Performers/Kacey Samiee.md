@@ -1,3 +1,7 @@
+---
+description: "(/ˈsæmiːˌiː/) is a performer, director, coach, teacher, and singer of..."
+image: "File/Kacey%20Samiee%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

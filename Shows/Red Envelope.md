@@ -1,3 +1,7 @@
+---
+description: "|Cast = Various."
+image: "File/Red%20Envelope.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

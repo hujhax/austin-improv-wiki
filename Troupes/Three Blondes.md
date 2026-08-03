@@ -1,3 +1,7 @@
+---
+description: "|Years = 2012."
+image: "File/Three%20Blondes.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

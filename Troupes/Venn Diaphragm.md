@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-2010."
+image: "File/Venn%20Diaphragm.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,15 +78,21 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Venn Diaphragm performs character-driven Chicago-style longform comedy.</p> 
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Venn Diaphragm performs character-driven Chicago-style longform comedy.
+>  
+> 
+> Audiences are treated to patient, realistic scenes that build into fast-paced edits and tag-outs where worlds collide and the nature of reality is undone.
+>  
+> 
+> Okay, maybe that last part was hyperbole.
+>  
+> 
+> But Venn Diaphragm's specialty is committed scenework that finds humor in everyday situations, mixed with some light-hearted absurdity with characters that range from lovable nerds to self-centered aunts to blood thirsty squirrels. VD is a strong, consistent group with a collective 50 years of stage experience as well as training from iO Chicago, the Upright Citizens Brigade, the People's Improv Theater, and the Magnet Theater.
+>  
+> 
+> They'll make you laugh and--if you're lucky (or just really sensitive)--cry.
 
-<p>Audiences are treated to patient, realistic scenes that build into fast-paced edits and tag-outs where worlds collide and the nature of reality is undone.</p> 
-
-<p>Okay, maybe that last part was hyperbole.</p> 
-
-<p>But Venn Diaphragm's specialty is committed scenework that finds humor in everyday situations, mixed with some light-hearted absurdity with characters that range from lovable nerds to self-centered aunts to blood thirsty squirrels. VD is a strong, consistent group with a collective 50 years of stage experience as well as training from iO Chicago, the Upright Citizens Brigade, the People's Improv Theater, and the Magnet Theater.</p> 
-
-<p>They'll make you laugh and--if you're lucky (or just really sensitive)--cry.</p></blockquote>
 
 ## History
 The troupe performed in [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] in 2009 and 2010.

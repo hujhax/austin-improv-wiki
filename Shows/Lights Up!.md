@@ -1,3 +1,6 @@
+---
+image: "File/Lights%20Up%21.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

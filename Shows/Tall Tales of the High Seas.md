@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

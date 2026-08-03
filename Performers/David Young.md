@@ -1,3 +1,7 @@
+---
+description: "An actor."
+image: "File/David%20Young%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

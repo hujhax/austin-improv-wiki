@@ -1,3 +1,7 @@
+---
+description: "(Cené Hale) is an actress known for performances with ColdTowne..."
+image: "File/Cene%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

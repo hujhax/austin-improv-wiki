@@ -1,1 +1,4 @@
+---
+description: "Courtney Ray is one of 8 siblings and grew up..."
+---
 Courtney Ray is one of 8 siblings and grew up in the small town of Magnolia, TX. She graduated with a degree from Texas A&M with a BBA in Marketing with a Certificate of International Business. She joined the Hideout Theatre in January of 2014 where she completed levels 1-6 and since then has performed in a student mainstage production.

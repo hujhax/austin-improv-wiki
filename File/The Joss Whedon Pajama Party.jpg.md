@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="The Joss Whedon Pajama Party.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

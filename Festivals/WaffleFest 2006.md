@@ -1,3 +1,6 @@
+---
+description: "Fifth annual WaffleFest."
+---
 **WaffleFest 2006** was the fifth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

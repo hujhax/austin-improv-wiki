@@ -1,7 +1,10 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="Megan Sherrod Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Megan Sherrod|Megan Sherrod]], performing in the 7/13/14 Second Sunday [[Merlin Works]] graduation show at ZACH Theatre.
+[[Performers/Megan Sherrod|Megan Sherrod]], performing in the 7/13/14 Second Sunday [[Theatres/Merlin Works|Merlin Works]] graduation show at ZACH Theatre.
 
 Photo by [[Performers/Chris Curl|Chris Curl]], from [this photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152470500872107.1073741836.549002106&type=3).
 ## Licensing

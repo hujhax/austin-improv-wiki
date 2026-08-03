@@ -1,3 +1,6 @@
+---
+description: "This was the first Strange Worlds story about The Beacon."
+---
 This was the first [[Shows/Strange Worlds|Strange Worlds]] story about The Beacon.  It was improvised on March 9th, 2013. 
 
 ## Episode Summary

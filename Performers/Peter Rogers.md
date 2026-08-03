@@ -1,3 +1,7 @@
+---
+description: "An improv performer and director who works primarily with The..."
+image: "File/Peter%20Rogers%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

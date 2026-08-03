@@ -1,3 +1,6 @@
+---
+description: "Fourth performance of Showdown, which was improvised on 4/2/11."
+---
 ***Showdown* – Fourth Episode: "Trial and Error"** refers to the fourth performance of *[[Shows/Showdown|Showdown]]*, which was improvised on 4/2/11.
 
 ## Episode Summary

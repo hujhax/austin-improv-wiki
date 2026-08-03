@@ -1,3 +1,6 @@
+---
+description: "|Years = 2012-2013."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Like recounting awkward teenage memories or complaining about your soul-sucking office job, Royston crafts comedy out of schadenfreude. Sure, we kick you while your down, but we always help you get back up. </blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Like recounting awkward teenage memories or complaining about your soul-sucking office job, Royston crafts comedy out of schadenfreude. Sure, we kick you while your down, but we always help you get back up. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a "Groundhog Day" monoscene format. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a "Groundhog Day" monoscene format. 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

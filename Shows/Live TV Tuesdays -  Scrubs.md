@@ -1,3 +1,7 @@
+---
+description: "|Producer=."
+image: "File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

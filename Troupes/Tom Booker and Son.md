@@ -1,3 +1,6 @@
+---
+description: "|Years = 2009-2010."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>One old and the other young, Tom Booker and Son is a swell collaboration of aged experience and youthful vigor. Focusing on long character-driven scenes, TB&S explore absurd and normal characters in absurd and normal situations. TB&S hopes you can join them for a show of fun times. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> One old and the other young, Tom Booker and Son is a swell collaboration of aged experience and youthful vigor. Focusing on long character-driven scenes, TB&S explore absurd and normal characters in absurd and normal situations. TB&S hopes you can join them for a show of fun times. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Character driven scenes. So far monoscenes, but for a next shows we are hoping to change our format a little more.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Character driven scenes. So far monoscenes, but for a next shows we are hoping to change our format a little more.
+
 
 ## History
 They played one exhibition *[[Shows/Cagematch|Cagematch]]* on 8/15/09.

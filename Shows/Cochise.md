@@ -1,3 +1,7 @@
+---
+description: "|Assistant Director = Paul Normandin (student mainstage run)."
+image: "File/Cochise%20Poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "(/ˈmeɪtʃər/) is an improv performer, director, and teacher."
+image: "File/Marc%20Majcher%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -24,11 +28,16 @@
 ## History
 Marc began taking improv classes at the [[Theatres/Hideout Theatre|Hideout Theatre]] in August of 2005. He's done a whole bunch of stuff since then.
 
-A post from him about the first improv show he ever saw:<blockquote><p>I'm pretty sure the first improv show I saw was in New York around 1996 or so. My friend from college Tim was in a group called Newman's Nose (or something close to that), and got us to come out a show. I think they were doing some kind of *[[Shows/TheatreSports|TheatreSports]]* type of format, maybe not exactly that, but definitely some team-based competitive short form thing. It was pretty funny, and I was (at the time) impressed that my buddy Tim's team won the world championship of improv or whatever they called it back then, without realizing it was just the thing for the show they were doing. I'm pretty sure that I kept getting flyers and kept not going back, though.</p> 
+A post from him about the first improv show he ever saw:
+> I'm pretty sure the first improv show I saw was in New York around 1996 or so. My friend from college Tim was in a group called Newman's Nose (or something close to that), and got us to come out a show. I think they were doing some kind of *[[Shows/TheatreSports|TheatreSports]]* type of format, maybe not exactly that, but definitely some team-based competitive short form thing. It was pretty funny, and I was (at the time) impressed that my buddy Tim's team won the world championship of improv or whatever they called it back then, without realizing it was just the thing for the show they were doing. I'm pretty sure that I kept getting flyers and kept not going back, though.
+>  
+> 
+> (The interesting part of that story is that [[Performers/Asaf Ronen|Asaf]] was in one or more troupes with Tim around then, so I probably saw him in there, and talked to him at a party or something after. Shortly after arriving in Austin, Asaf brought me some photos that he took at a juggling club thing, and there I was. Crazy.)
+>  
+> 
+> The first improv that I saw in Austin (and I don't think I'd seen any in between, aside from zapping through *Whose Line* on the teevee a couple times) was a show that [[Performers/Les McGehee|Les McGehee]] put together for the Alamo in 2003 or so. I'd been doing roller derby stuff a bunch in the years around then, and Les was emceeing the matches, and got a bunch of us to go to his show. It was mostly short formy stuff, with Les and Cynthia Oelkers and Scott Chester and... someone else. Again, funny, but didn't go to see it more than once.
+>  
 
-<p>(The interesting part of that story is that [[Performers/Asaf Ronen|Asaf]] was in one or more troupes with Tim around then, so I probably saw him in there, and talked to him at a party or something after. Shortly after arriving in Austin, Asaf brought me some photos that he took at a juggling club thing, and there I was. Crazy.)</p> 
-
-<p>The first improv that I saw in Austin (and I don't think I'd seen any in between, aside from zapping through *Whose Line* on the teevee a couple times) was a show that [[Performers/Les McGehee|Les McGehee]] put together for the Alamo in 2003 or so. I'd been doing roller derby stuff a bunch in the years around then, and Les was emceeing the matches, and got a bunch of us to go to his show. It was mostly short formy stuff, with Les and Cynthia Oelkers and Scott Chester and... someone else. Again, funny, but didn't go to see it more than once.</p> </blockquote>
 
 ## Troupes
 * [[Troupes/Monster|Monster]]

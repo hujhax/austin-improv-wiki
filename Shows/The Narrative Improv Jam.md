@@ -1,3 +1,7 @@
+---
+description: "Monthly Friday-night show at The Hideout where the cast collaborated..."
+image: "File/The%20Narrative%20Improv%20Jam.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

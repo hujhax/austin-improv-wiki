@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/Kevlar.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>[[Performers/David Lampe|David Lampe]] and [[Performers/Kevin Miller|Kevin Miller]] have played improv together in various shows for over a decade. One day over a couple of Lone Stars, Lampe suggested to Kevin that they ditch all the other improvisers and go it alone. The result was Kevlar: We're Bulletproof, a two-man show with a rotating cast of characters and no other rules.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> [[Performers/David Lampe|David Lampe]] and [[Performers/Kevin Miller|Kevin Miller]] have played improv together in various shows for over a decade. One day over a couple of Lone Stars, Lampe suggested to Kevin that they ditch all the other improvisers and go it alone. The result was Kevlar: We're Bulletproof, a two-man show with a rotating cast of characters and no other rules.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a two-man La Ronde. One of us begins a solo scene, then is joined onstage by the other, then the first person finds an excuse to leave and re-enters as a new character, and so on. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a two-man La Ronde. One of us begins a solo scene, then is joined onstage by the other, then the first person finds an excuse to leave and re-enters as a new character, and so on. 
+
 
 ## Media
 ### Videos

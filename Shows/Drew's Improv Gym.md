@@ -1,3 +1,7 @@
+---
+description: "|Director = Drew Wesely."
+image: "File/Drew%27s%20Improv%20Gym.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

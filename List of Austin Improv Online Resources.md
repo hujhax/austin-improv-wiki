@@ -1,3 +1,6 @@
+---
+description: "This list of Austin improv online resources includes information about..."
+---
 This **list of Austin improv online resources** includes information about web sites run by and for the Austin Improv scene.
 
 ## Web Resources

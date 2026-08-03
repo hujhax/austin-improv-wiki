@@ -1,3 +1,7 @@
+---
+description: "An improv performer and sketch writer/performer."
+image: "File/CarlosLaRotta.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -23,11 +27,15 @@
 
 ## Summary
 From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/carlos-larotta):
-<blockquote><p>Carlos LaRotta used to be a filmmaker who liked to perform improv and sketch, but currently he identifies himself as an improv/sketch performer who likes to make films.</p>
 
-<p>As ColdTowne’s (arguably) hottest "Chubby Hispanic Guy", Carlos can be seen every Friday at 7pm with [[Shows/Movie Riot|Movie Riot]], as well as frequently performing with such house troupes as [[Troupes/Precious Dads|Precious Dads]], [[Troupes/Skutch|Skutch]], [[Troupes/Whalehouse|Whalehouse]], and Carlos and Chrissy are Twins.</p>
+> Carlos LaRotta used to be a filmmaker who liked to perform improv and sketch, but currently he identifies himself as an improv/sketch performer who likes to make films.
+> 
+> 
+> As ColdTowne’s (arguably) hottest "Chubby Hispanic Guy", Carlos can be seen every Friday at 7pm with [[Shows/Movie Riot|Movie Riot]], as well as frequently performing with such house troupes as [[Troupes/Precious Dads|Precious Dads]], [[Troupes/Skutch|Skutch]], [[Troupes/Whalehouse|Whalehouse]], and Carlos and Chrissy are Twins.
+> 
+> 
+> Also, he is known to switch from third person to first person in one sentence, I think.
 
-<p>Also, he is known to switch from third person to first person in one sentence, I think.</p></blockquote>
 
 ## Troupes
 * [[Troupes/Bad Font|Bad Font]]

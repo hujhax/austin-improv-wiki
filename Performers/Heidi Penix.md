@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with The Institution Theatre."
+image: "File/Heidi%20Penix.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

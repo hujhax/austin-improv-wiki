@@ -1,3 +1,7 @@
+---
+description: "An improviser living and performing in Austin, Texas."
+image: "File/Andrew%20Buck%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Andrew Buck** is an improviser living and performing in Austin, Texas.
 
 ## History
-Andrew began his improv career as a student at [[Merlin Works]] in July 2011. He has performed improv at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/Coldtowne Theater|Coldtowne Theater]]. 
+Andrew began his improv career as a student at [[Theatres/Merlin Works|Merlin Works]] in July 2011. He has performed improv at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/Coldtowne Theater|Coldtowne Theater]]. 
 
 Before discovering improv, Andrew was a regular performer at the weekly Austin Poetry Slam (1997-2009). He was a member of two of the three Austin Poetry Slam teams to reach the Finals of the National Poetry Slam (taking third place both times). Andrew also hosted the weekly Austin Slam for four years and was featured on the HBO program "Def Poetry Jam" in 2004. While in college at The University of Texas, he was a member of the UT Forensics Team, where he reached the final round of the National Speech Tournament five times, including helping UT win the National Championship in 2001. 
 

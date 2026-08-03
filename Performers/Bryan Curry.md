@@ -1,3 +1,7 @@
+---
+description: "An actor, improviser, singer, and technical improviser."
+image: "File/Bryan%20Curry.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

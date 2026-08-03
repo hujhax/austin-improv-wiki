@@ -1,3 +1,6 @@
+---
+description: "Cult Daddy."
+---
 **Cult Daddy**
 
 likes: power, acclaim, shedding beard hair across the nation

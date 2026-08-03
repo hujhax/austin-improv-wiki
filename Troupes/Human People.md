@@ -1,3 +1,7 @@
+---
+description: "|Past Members =."
+image: "File/Hp.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "Chris is a dad from Austin, TX."
+image: "File/chriscasey.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

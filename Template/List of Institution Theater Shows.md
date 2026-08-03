@@ -1,3 +1,6 @@
+---
+description: "This List of Institution Theater Shows is designed to be..."
+---
 <noinclude>
 This **List of Institution Theater Shows** is designed to be transcluded into any "[[Theatres/Institution Theater|Institution Theater]] shows" section on the wiki.
 </noinclude>

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Grounded%20in%20Harmony.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Have you ever thought how life would be so much more dramatic if you went through it with a theme song? Or at least a backing track? Come see how the power of music brings the improv world to life. You will laugh, cry, and feel some tension. But most importantly, you will LIVE!</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Have you ever thought how life would be so much more dramatic if you went through it with a theme song? Or at least a backing track? Come see how the power of music brings the improv world to life. You will laugh, cry, and feel some tension. But most importantly, you will LIVE!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We are a cast of talented improvisors as well as talented improvising musicians. In this show we aim to use music as the foundation for the scenes and to allow the music to act as another improvisor which can make offerings to change the mood or direction of scenes. This show is fully scored and in the form of a loose harold.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We are a cast of talented improvisors as well as talented improvising musicians. In this show we aim to use music as the foundation for the scenes and to allow the music to act as another improvisor which can make offerings to change the mood or direction of scenes. This show is fully scored and in the form of a loose harold.
+
 
 ## Media
 ### Videos

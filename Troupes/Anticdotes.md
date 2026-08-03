@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010."
+image: "File/Anticdotes.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,16 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Anticdotes is the newest improv troupe to be created out of [[Gnap! Theater Projects]]. Comprised of an all-star cast of students from The MerlinWorks Institute of Improvisation, Anticdotes plays with an explosive, high-risk style that explores physical movement. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Anticdotes is the newest improv troupe to be created out of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]. Comprised of an all-star cast of students from The MerlinWorks Institute of Improvisation, Anticdotes plays with an explosive, high-risk style that explores physical movement. 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Right now, we use the audience's suggestion to run a series of freezes that then inspire a montage (flowy) of scenes. 
+Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Right now, we use the audience's suggestion to run a series of freezes that then inspire a montage (flowy) of scenes. 
+> 
+> Within the context of those scenes, anything goes (i.e. we range from 10 second scenes, to multiple scenes from the same storyline).
 
-Within the context of those scenes, anything goes (i.e. we range from 10 second scenes, to multiple scenes from the same storyline).</blockquote>
 
 ## More Information
 * [The troupe's web site.](http://www.facebook.com/anticdotes)

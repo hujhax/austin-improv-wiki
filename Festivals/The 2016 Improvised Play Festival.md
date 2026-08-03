@@ -1,3 +1,7 @@
+---
+description: "Will be the sixth annual Improvised Play Festival."
+image: "File/IPF%202016.jpg"
+---
 ![[IPF 2016.jpg|Publicity image for the festival.]]
 **The 2016 Improvised Play Festival** will be the sixth annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 

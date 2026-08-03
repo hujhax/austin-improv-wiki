@@ -1,3 +1,7 @@
+---
+description: "An improv performer and tech."
+image: "File/Chris%20Albano%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "An improv performer, director, teacher, and musician."
+image: "File/Brently%20Heilbron%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

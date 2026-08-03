@@ -1,3 +1,7 @@
+---
+description: "An improv performer, technical improvisor, and photographer."
+image: "File/Warren%20Henderson%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

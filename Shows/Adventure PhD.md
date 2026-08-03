@@ -1,3 +1,7 @@
+---
+description: "|Run = Oct 2016."
+image: "File/Adventure%20phd%20cast.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -195,9 +199,10 @@
 
 ## Summary
 ### Publicity Blurb
-From the Hideout website:<blockquote>Grab your passport and your trusty revolver, this is no time for caution. Adventure PhD is swinging into action! We'll hunt for the hidden, uncover the obscured and... procure the artifact. Help us discover the mysteries of the world - and save humanity in the process! Our heroes will face traps, betrayal, powerful villains, secret societies, and most dangerous of all: love! 
-Every Saturday at 6pm at the Hideout bold adventures will delight you with their daring escapades. Miss this at your own peril!
-</blockquote>
+From the Hideout website:
+> Grab your passport and your trusty revolver, this is no time for caution. Adventure PhD is swinging into action! We'll hunt for the hidden, uncover the obscured and... procure the artifact. Help us discover the mysteries of the world - and save humanity in the process! Our heroes will face traps, betrayal, powerful villains, secret societies, and most dangerous of all: love! 
+> Every Saturday at 6pm at the Hideout bold adventures will delight you with their daring escapades. Miss this at your own peril!
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.

@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works primarily with The Hideout Theatre."
+image: "File/Sara%20Hutchins.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Sarah Hutchins** is an improv performer who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-Sarah began taking classes at the [[Theatres/Hideout|Hideout]] in 2013 and singing classes at [[Merlin Works]] in 2014.
+Sarah began taking classes at the [[Theatres/Hideout|Hideout]] in 2013 and singing classes at [[Theatres/Merlin Works|Merlin Works]] in 2014.
 
 ## Troupes
 ## Shows

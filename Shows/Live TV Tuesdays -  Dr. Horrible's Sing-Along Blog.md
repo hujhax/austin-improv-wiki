@@ -1,3 +1,7 @@
+---
+description: "|Run = Feb/Mar 2012."
+image: "File/Live%20TV%20Tuesdays%20-%20Dr.%20Horrible%27s%20Sing-Along%20Blog.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

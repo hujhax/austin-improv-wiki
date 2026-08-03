@@ -1,3 +1,7 @@
+---
+description: "The inaugural second stage production of the 2015 Stargazer Series..."
+image: "File/The%20tribunal.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

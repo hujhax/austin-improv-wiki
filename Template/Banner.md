@@ -1,3 +1,7 @@
+---
+description: "}."
+image: "File/%7B%7B%7Bimage%7D%7D%7D"
+---
 <div class="banner-image nomobile">
 <div class="banner-box banner-box-">
 <div class="name"></div>

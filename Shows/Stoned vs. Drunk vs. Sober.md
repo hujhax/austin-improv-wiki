@@ -1,3 +1,7 @@
+---
+description: "Stoned vs."
+image: "File/Stoned%20vs.%20Drunk%20vs.%20Sober.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

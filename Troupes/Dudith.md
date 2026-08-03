@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/Dudith.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Judith and David came together after realizing their mutual appreciation and playfulness in improv. The two enjoy the thrill of surprising the other on stage, and diving into nuanced character work. "Dudith will have you on the edge of your seat, and laughing the whole time!", the pair says.</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Judith and David came together after realizing their mutual appreciation and playfulness in improv. The two enjoy the thrill of surprising the other on stage, and diving into nuanced character work. "Dudith will have you on the edge of your seat, and laughing the whole time!", the pair says.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2011."
+image: "File/Tender%20Nightmare.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,17 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>ColdTowne theater's powerhouse improv troupe,Tender Nightmare, doesn't know what your dreams say about your wants or fears but we do know how to make them funny. That's why we are taking your dreams and turning them into comic gold. Tender Nightmare presents Interpretation of Dreams. We ask you the audience to email us descriptions of your dreams and then we will pick one of those dreams at random to inspire a completely improvised show. Want to know what it means when you dream that you are flying? Or hooking up with your not so attractive boss? We do too. Our answers may not be the same as Freud's but we promise they will be funnier and we won't make everything about crushing on your parents. Tell us what your brain sees. Your Id wants to, give in. If you would like to a dream you've had to possibly be featured in a show please email a brief description (3-5 sentences) of your dream to Tender Nightmare</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> ColdTowne theater's powerhouse improv troupe,Tender Nightmare, doesn't know what your dreams say about your wants or fears but we do know how to make them funny. That's why we are taking your dreams and turning them into comic gold. Tender Nightmare presents Interpretation of Dreams. We ask you the audience to email us descriptions of your dreams and then we will pick one of those dreams at random to inspire a completely improvised show. Want to know what it means when you dream that you are flying? Or hooking up with your not so attractive boss? We do too. Our answers may not be the same as Freud's but we promise they will be funnier and we won't make everything about crushing on your parents. Tell us what your brain sees. Your Id wants to, give in. If you would like to a dream you've had to possibly be featured in a show please email a brief description (3-5 sentences) of your dream to Tender Nightmare
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We open with a one character monologue, taking turns as that character. Then we do a montage, all soft edits.</p> 
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We open with a one character monologue, taking turns as that character. Then we do a montage, all soft edits.
+>  
+> 
+> No sweeps or tag edits.
 
-<p>No sweeps or tag edits.</p></blockquote>
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/tendernightmare)

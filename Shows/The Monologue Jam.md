@@ -1,3 +1,7 @@
+---
+description: "|Cast = Varies."
+image: "File/The%20Monologue%20Jam.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

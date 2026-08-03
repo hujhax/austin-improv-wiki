@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/Three%20on%20a%20Match.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,11 +78,15 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Three on a Match is considered to be bad luck, but this troupe consists of four ladies that have only brought each other good luck so far.</p> 
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Three on a Match is considered to be bad luck, but this troupe consists of four ladies that have only brought each other good luck so far.
+>  
+> 
+> Yes, there are four ladies in the troupe.
+>  
+> 
+> ONE OF THEM IS A MATCH!
 
-<p>Yes, there are four ladies in the troupe.</p> 
-
-<p>ONE OF THEM IS A MATCH!</p></blockquote>
 
 ## Media
 ### Videos

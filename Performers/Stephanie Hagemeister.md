@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2012."
+image: "File/Stephanie%20Hagemeister%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

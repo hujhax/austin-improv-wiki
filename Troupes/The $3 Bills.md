@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-2012."
+image: "File/The%20%243%20Bills.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,18 @@
 
 ## Summary
 ## Press Blurb
-Their press blurb from [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]]:<blockquote><p>The $3 Bills improvise fast-paced, touching, face-slapping, over-the-top series of scenes based on a descriptive verb, such as "hope" or "love" and a monologue that expands on that word.</p>
-<p>The $3 Bills are a group of GLBTQIAA improvisers that work to not only bring a higher and deeper level of improvised comedy to the greater Austin community, but to also bring a more GLBTQIIAA-friendly atmosphere to an otherwise straight and mainstream-dominated improv community. The $3 Bills are the queerest thing in comedy, and not just because of their sexual orientation.</p>
-<p>The $3 Bills have appeared at the Butch Voices Gender Blender Splendor and the Austin Gay and Lesbian International Film Festival.</p></blockquote>
+Their press blurb from [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]]:
+> The $3 Bills improvise fast-paced, touching, face-slapping, over-the-top series of scenes based on a descriptive verb, such as "hope" or "love" and a monologue that expands on that word.
+> 
+> The $3 Bills are a group of GLBTQIAA improvisers that work to not only bring a higher and deeper level of improvised comedy to the greater Austin community, but to also bring a more GLBTQIIAA-friendly atmosphere to an otherwise straight and mainstream-dominated improv community. The $3 Bills are the queerest thing in comedy, and not just because of their sexual orientation.
+> 
+> The $3 Bills have appeared at the Butch Voices Gender Blender Splendor and the Austin Gay and Lesbian International Film Festival.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do short form scenes, games, etc with a Queer twist. For example we may do a town hall style game with the subject being gay marriage, with someone taking a extreme Right view and another an extreme liberal view. Or, we may do a scene where the suggestion asked for is "a good name for a drag queen". </blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do short form scenes, games, etc with a Queer twist. For example we may do a town hall style game with the subject being gay marriage, with someone taking a extreme Right view and another an extreme liberal view. Or, we may do a scene where the suggestion asked for is "a good name for a drag queen". 
+
 
 ## Media
 ### Photos

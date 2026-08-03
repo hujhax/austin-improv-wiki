@@ -1,3 +1,7 @@
+---
+description: "|Tech = David Zimmerman."
+image: "File/Live%20TV%20Tuesdays%20-%20Freaks%20and%20Geeks.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Run = Feb 2015."
+image: "File/One-Small-Step-Poster-2015-web-small.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -213,9 +217,11 @@ The show included light scoring.  Party scenes typically had jazz/bossa nova mus
 The show also included a special sound effect and thrust spotlighting for the computer-diary sequences, and appropriate sound effects for the initial countdown/takeoff.  The alarm sequence featured a klaxon sound effect, a red wash, and foreboding ambient music.
 
 ### Publicity Blurb
-From the Hideout web page:<blockquote>"Space – terrifying and vast, only the bravest men and women will face this final frontier. Locked together in their lonely space ship these intrepid explorers will face a journey full of discovery, danger and romance. One Small Step follows these bold space travelers as they improvise their way from lift-off to touchdown on their new distant planet.
+From the Hideout web page:
+> "Space – terrifying and vast, only the bravest men and women will face this final frontier. Locked together in their lonely space ship these intrepid explorers will face a journey full of discovery, danger and romance. One Small Step follows these bold space travelers as they improvise their way from lift-off to touchdown on their new distant planet.
+> 
+> From hilarious moments of triumph over everyday obstacles like eating in Zero G to thrilling space walks, this improvised comedy features some of The Hideout’s upcoming best and brightest performers in a brand new show directed by Jessica Arjet and Andreas Fabis."
 
-From hilarious moments of triumph over everyday obstacles like eating in Zero G to thrilling space walks, this improvised comedy features some of The Hideout’s upcoming best and brightest performers in a brand new show directed by Jessica Arjet and Andreas Fabis."</blockquote>
 
 ## Media
 ### Videos

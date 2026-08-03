@@ -1,3 +1,6 @@
+---
+description: "Hideout Theater Graduate 2013-2014."
+---
 Hideout Theater Graduate 2013-2014
 
 Non performing supporter of the Special Needs Program at The Hideout Theatre

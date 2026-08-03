@@ -1,3 +1,7 @@
+---
+description: "An improv performer and producer."
+image: "File/Shawn%20Utterback%20Pic.png"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

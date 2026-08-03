@@ -1,3 +1,7 @@
+---
+description: "|Cast =."
+image: "File/rewind.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -148,7 +152,8 @@
 ***Rewind*** was a Hideout student mainstage show inspired by "time-loop" stories such as *Groundhog Day* and "Run Lola Run". 
 
 ## Promotional Blurb
-<blockquote>How much of our lives is directed by choices whose consequences we could never expect? It asks the question, “What if you could do it all over again?”</blockquote>
+> How much of our lives is directed by choices whose consequences we could never expect? It asks the question, “What if you could do it all over again?”
+
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/rewind)

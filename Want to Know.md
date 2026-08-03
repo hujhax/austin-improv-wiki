@@ -1,9 +1,15 @@
+---
+description: "(AKA The Wu Yun Saga) was a collaboratively-written western novella..."
+image: "File/Wu%20Yun.jpg"
+---
 **Want to Know** (AKA **The Wu Yun Saga**) was a collaboratively-written western novella that originated on [[The Austin Improv Forums]].
 
 ![[Wu Yun.jpg|A photo used to represent Wu Yun in an online meme.]]
 
 ## History
-The thread began on 4/24/12, when a spambot posted the following text to the "General Discussion" forum (with the topic "want to know"):<blockquote>Chapter 30 1 ...He looked at Wu Yun, slowly asked: "I find you not to ask you this, I just want to know, you refuse me, drew this picture of that person?"</blockquote>A few hours later (before moderators could delete the spam), [[Performers/Peter Rogers|Peter Rogers]] added a continuation of "Chapter 30", re-contextualizing the original garbled line as a story about a Chinese-American bounty hunter in the Old West.
+The thread began on 4/24/12, when a spambot posted the following text to the "General Discussion" forum (with the topic "want to know"):
+> Chapter 30 1 ...He looked at Wu Yun, slowly asked: "I find you not to ask you this, I just want to know, you refuse me, drew this picture of that person?"
+A few hours later (before moderators could delete the spam), [[Performers/Peter Rogers|Peter Rogers]] added a continuation of "Chapter 30", re-contextualizing the original garbled line as a story about a Chinese-American bounty hunter in the Old West.
 
 Ten minutes after that, [[Performers/Brad Hawkins|Brad Hawkins]] added "Chapter 31", and the thread became a collaborative novella, with AIC members adding subsequent chapters.  At one point, [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] tasked the *[[Shows/Strange Worlds|Strange Worlds]]* cast with adding chapters to the story.  Over time, the story incorporated many new characters and complications, until 2/20/13, when [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] posted chapter 70.  After that, the thread went dormant.
 

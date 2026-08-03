@@ -1,3 +1,7 @@
+---
+description: "Stand-up showcase."
+image: "File/Pass%20the%20Mic.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

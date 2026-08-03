@@ -1,3 +1,7 @@
+---
+description: "|Years = 2008-2011."
+image: "File/Antique%20Limax.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We're Antique Limax. Fun, fast, and furioius. Let's slug it out.</blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We're Antique Limax. Fun, fast, and furioius. Let's slug it out.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Fast, fun, clean short form improv comedy games</blockquote>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Fast, fun, clean short form improv comedy games
+
 
 ## Media
 ### Photos

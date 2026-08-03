@@ -1,3 +1,6 @@
+---
+description: "Photographer who has worked frequently with the Austin improv community,..."
+---
 **Steve Rogers** is a photographer who has worked frequently with the Austin improv community, both photographing shows and shooting publicity photos.
 
 ## Summary

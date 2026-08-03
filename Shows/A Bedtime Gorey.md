@@ -1,3 +1,7 @@
+---
+description: "}}."
+image: "File/A%20Bedtime%20Gorey.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

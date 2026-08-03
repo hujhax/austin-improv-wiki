@@ -1,3 +1,7 @@
+---
+description: "|Assistant Director = Jordan T."
+image: "File/SongRunner.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -210,7 +214,9 @@ First, the cast member would ask the audience for a favorite song lyric or line 
 It was a narrative show which spread its focus across a broad ensemble, ten to eleven performers per night.  It ran 75-80 minutes, with a brief intermission.  The 'runners' were dressed in retro-sci-fi "cyber-punk" styles, while the other characters wore neutral, beige ensembles.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>"A futuristic blade-runner/cyber-punk/cyborg/robot-styled MUSCAL.  So... the best thing ever?  Yes."</blockquote>
+From the show announcement:
+> "A futuristic blade-runner/cyber-punk/cyborg/robot-styled MUSCAL.  So... the best thing ever?  Yes."
+
 
 ## Media
 ### Photos

@@ -1,3 +1,7 @@
+---
+description: "Will be the November/December 2016 mainstage production at The Hideout..."
+image: "File/Peter%20Pan%20and%20the%20Great%20Unknown%20Placeholder%20image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -35,8 +39,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>Never-before-seen improvised adventures of Peter Pan with all of his enchanted and dangerous creatures of Neverland along for the ride: Pirates, Fairies, Mermaids, Natives, and of course, those impetuous and inimitable Lost Boys.
-</blockquote>
+From the show announcement:
+> Never-before-seen improvised adventures of Peter Pan with all of his enchanted and dangerous creatures of Neverland along for the ride: Pirates, Fairies, Mermaids, Natives, and of course, those impetuous and inimitable Lost Boys.
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/) on the Hideout's facebook group.

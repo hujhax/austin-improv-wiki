@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/Honey%20Ladies.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -76,16 +80,17 @@
 ### Press Blurb
 Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
 
-<blockquote>
-Developed as a Free Fringe and born from five diverse women, Honey Ladies aims to explore the archetypes of women in every aspect of our life. From "mean girls" to "best frenemies" to "motherly love", Honey Ladies explores the relationships of women and how not that much changes from age 5 to 50.
-</blockquote>
+
+> 
+> Developed as a Free Fringe and born from five diverse women, Honey Ladies aims to explore the archetypes of women in every aspect of our life. From "mean girls" to "best frenemies" to "motherly love", Honey Ladies explores the relationships of women and how not that much changes from age 5 to 50.
+
 
 ### "What's Your Damage?"
-<blockquote>
-Honey Ladies is an all-female troupe that leans towards a grounded and fun experience. We aim to embark on a journey of women stereotypes and slash them down in a funny/thought provoking way.
+> 
+> Honey Ladies is an all-female troupe that leans towards a grounded and fun experience. We aim to embark on a journey of women stereotypes and slash them down in a funny/thought provoking way.
+> 
+> Showing that women aren't only the stereotypes that we're (at times) perceived to be by pop culture. We start with the stereotypes and then peel back the layers as the show progresses.
 
-Showing that women aren't only the stereotypes that we're (at times) perceived to be by pop culture. We start with the stereotypes and then peel back the layers as the show progresses.
-</blockquote>
 
 ## Media
 ### Photos

@@ -1,3 +1,6 @@
+---
+description: "Tenth annual Out of Bounds Comedy Festival."
+---
 **The 2011 Out of Bounds Comedy Festival** was the tenth annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Summary

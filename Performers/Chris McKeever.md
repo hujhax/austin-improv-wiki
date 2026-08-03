@@ -1,3 +1,7 @@
+---
+description: "An improviser, sketch writer, instructor, and director."
+image: "File/ChrisMcKeever.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Director = Ruby Willmann."
+image: "File/Field%20Day.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

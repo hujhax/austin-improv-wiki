@@ -1,3 +1,6 @@
+---
+description: "First annual Hideout Improv Marathon."
+---
 **The 40-Hour Improv Marathon** was the first annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It was performed in 2009.
 
 ## Core Players

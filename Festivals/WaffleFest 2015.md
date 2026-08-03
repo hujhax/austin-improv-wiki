@@ -1,3 +1,6 @@
+---
+description: "Fourteenth annual WaffleFest."
+---
 **WaffleFest 2015** was the fourteenth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

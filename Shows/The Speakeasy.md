@@ -1,3 +1,7 @@
+---
+description: "Monthly open mic at ColdTowne Theater presented by Turn of..."
+image: "File/The%20Speakeasy.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

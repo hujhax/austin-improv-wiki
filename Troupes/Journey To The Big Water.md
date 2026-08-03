@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-2012."
+image: "File/Journey%20to%20the%20Big%20Water.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,22 +82,32 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Journey to the Big Water uses signature elements and its large cast of ten improvisers to create fully inhabited comic worlds. On a quest to discover the unifying themes and key elements of each show, Big Water leaves no stone unturned and no scene unexplored.</p>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Journey to the Big Water uses signature elements and its large cast of ten improvisers to create fully inhabited comic worlds. On a quest to discover the unifying themes and key elements of each show, Big Water leaves no stone unturned and no scene unexplored.
+> 
+> 
+> Journey to the Big Water creates comedic scenes taking place in different parts of a very connected and often times absurd world. Taking advantage of its large cast, Journey to the Big Water fills each scene with extras and background environment to be explored throughout the show.
+> 
+> 
+> Journey to the Big Water is a ColdTowne Theater house troupe.
 
-<p>Journey to the Big Water creates comedic scenes taking place in different parts of a very connected and often times absurd world. Taking advantage of its large cast, Journey to the Big Water fills each scene with extras and background environment to be explored throughout the show.</p>
-
-<p>Journey to the Big Water is a ColdTowne Theater house troupe.</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Inspired equally by the Harold and Close Quarters, we have developed a format that is intended to create and explore a fully realized world.</p>
+Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Inspired equally by the Harold and Close Quarters, we have developed a format that is intended to create and explore a fully realized world.
+> 
+> 
+> We begin by playing patient relationship scenes that flesh out characters and establish the unique world in which they exist. We use our large cast to fill the stage with extras and background characters to populate rich, realistic environments and a create a cinematic effect.
+> 
+> 
+> As the show progresses we return to the locations we have created. Extras in past scenes return as featured characters, and our world becomes even more defined.
+> 
+> 
+> By the end of the show, characters and relationships that had previously seemed unconnected are revealed to be crucially related, similar to the final scene in a Harold. The world we created becomes even more unique and textured, and we finish the show by aggressively exploring this world with a simple philosophy of "Go There".
+> 
+> 
+> This results in a show that combines realistic and playful, that transitions from slow and patient to quick and energetic, and that stays intriguing for both the performers and the audience throughout.
 
-<p>We begin by playing patient relationship scenes that flesh out characters and establish the unique world in which they exist. We use our large cast to fill the stage with extras and background characters to populate rich, realistic environments and a create a cinematic effect.</p>
-
-<p>As the show progresses we return to the locations we have created. Extras in past scenes return as featured characters, and our world becomes even more defined.</p>
-
-<p>By the end of the show, characters and relationships that had previously seemed unconnected are revealed to be crucially related, similar to the final scene in a Harold. The world we created becomes even more unique and textured, and we finish the show by aggressively exploring this world with a simple philosophy of "Go There".</p>
-
-<p>This results in a show that combines realistic and playful, that transitions from slow and patient to quick and energetic, and that stays intriguing for both the performers and the audience throughout.</p></blockquote>
 
 ## Media
 ### Photos

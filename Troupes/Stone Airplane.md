@@ -1,3 +1,7 @@
+---
+description: "|Director =."
+image: "File/457986%2010151011200081351%202110136360%20o.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

@@ -1,3 +1,6 @@
+---
+description: "Pages in category \"Musicians\"."
+---
 ## Pages in category "Musicians"
 
 * [[Performers/Tosin awofeso|Tosin awofeso]]

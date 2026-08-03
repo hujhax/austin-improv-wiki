@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Lgs%20grouphug.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -100,7 +104,9 @@ Bringing a stack of cards with thematic (e.g. the confession) or specific (e.g. 
 ## History
 Local Genius Society formed in late 2010 by a group of improv students from [[Theatres/The Hideout Theatre|The Hideout Theatre]]. After building their early career performing shortform, including a run of successful “Groundhog Day” shows, the geniuses embarked on longform narrative in the summer of 2011. Since then, Local Genius Society has opened for notable Austin improv troupes such as: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]], [[Troupes/Girls Girls Girls|Girls Girls Girls]], The Glamping Trip, and [[Troupes/Confidence Men|Confidence Men]]. In 2012 they hosted a weekly show, “Underground Improv” at Dive Bar.  They have performed in [[Festivals/Wafflefest|Wafflefest]] (2011, 2012), the [[Festivals/Improvised Play Festival|Improvised Play Festival]] (2011, 2012, 2013), the 42 and 43-Hour Improv Marathons (2011, 2012), and the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] (2012) in Austin, TX, and the Improvaganza Festival in Honolulu, HI (2012).
 
-Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's origin:<blockquote>We put a ton of different words on a whiteboard and drew lines between them to make phrases. Then we voted for which phrases we liked the most. Local Genius Society came in second behind "Global Improv Corporation". We went with Local Genius Society anyways...</blockquote>
+Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's origin:
+> We put a ton of different words on a whiteboard and drew lines between them to make phrases. Then we voted for which phrases we liked the most. Local Genius Society came in second behind "Global Improv Corporation". We went with Local Genius Society anyways...
+
 
 ### Former Members
 * [[Performers/Andrew Pish|Andrew Pish]]

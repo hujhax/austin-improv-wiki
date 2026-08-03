@@ -1,3 +1,7 @@
+---
+description: "|Music = Ammon Taylor."
+image: "File/Trash.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

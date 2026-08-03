@@ -1,3 +1,7 @@
+---
+description: "UK-based improv performer who has worked primarily with The Hideout..."
+image: "File/Mark%20Tindle%20pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,6 @@
+---
+description: "|Years = 2008."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -73,7 +76,9 @@
 **Mr. Rather** was an improv duo.
 
 ## Summary
-They described themselves thus:<blockquote>Mr. Rather is [[Performers/Christopher Orf|Christopher Orf]] and [[Performers/Justin Davis|Justin Davis]] teaming up to present the dilemmas of life pitted against the dilemmas of life.</blockquote>
+They described themselves thus:
+> Mr. Rather is [[Performers/Christopher Orf|Christopher Orf]] and [[Performers/Justin Davis|Justin Davis]] teaming up to present the dilemmas of life pitted against the dilemmas of life.
+
 
 ## History
 The troupe played a Cagematch on 1/10/08, and a number of other shows at [[Theatres/Coldtowne Theater|Coldtowne Theater]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]], occasionally including guests such as [[Performers/Tom Booker|Tom Booker]] and [[Performers/Kareem Badr|Kareem Badr]].

@@ -1,3 +1,7 @@
+---
+description: "}}."
+image: "File/Camp%20Madeupponaspotta.png"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

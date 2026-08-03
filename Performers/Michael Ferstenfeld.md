@@ -1,3 +1,7 @@
+---
+description: "An actor, improviser, musician, director, teacher, producer, and pseudo-scientist."
+image: "File/Not%20Ira%20Glass.jpeg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Michael Ferstenfeld** is an actor, improviser, musician, director, teacher, producer, and pseudo-scientist.
 
 ## Summary
-Michael is the co-founder and artistic director of [Dystheatre](http://dystheatre.com), co-creator of [The Exquisite Zombies](http://wiki.exquisitezombies.com), an [e-learning and digital media](http://www.pointandclickstudios.com) guy, and a teacher of Singing Improv at [[Merlin Works]], with the occasional elective at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/Institution Theater|Institution Theater]].
+Michael is the co-founder and artistic director of [Dystheatre](http://dystheatre.com), co-creator of [The Exquisite Zombies](http://wiki.exquisitezombies.com), an [e-learning and digital media](http://www.pointandclickstudios.com) guy, and a teacher of Singing Improv at [[Theatres/Merlin Works|Merlin Works]], with the occasional elective at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/Institution Theater|Institution Theater]].
 
 ## Active Troupes
 * [[Troupes/Confidence Men|Confidence Men]]

@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Real%20Live%20Men.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Real Live Men are three real, live men: Will Cleveland, Michael Jastroch, and Sam Malcolm. They will perform improv that will make your belly chuckle, your heart melt, and your brain hurt (in a good way). </blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Real Live Men are three real, live men: Will Cleveland, Michael Jastroch, and Sam Malcolm. They will perform improv that will make your belly chuckle, your heart melt, and your brain hurt (in a good way). 
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform an opening where we match each other's characters and energy, heighten, and then break away into a montage - though often connected - of scenes. Very game heavy. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We perform an opening where we match each other's characters and energy, heighten, and then break away into a montage - though often connected - of scenes. Very game heavy. 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

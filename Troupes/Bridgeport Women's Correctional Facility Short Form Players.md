@@ -1,3 +1,7 @@
+---
+description: "|Director = Erika May McNichol."
+image: "File/Bridgeport%20Women%27s%20Correctional%20Facility%20Short%20Form%20Players.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

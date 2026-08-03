@@ -1,3 +1,7 @@
+---
+description: "|Years = 2005?-Present."
+image: "File/Rachel%20and%20Dave.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,9 +78,12 @@
 
 ### Press Blurb
 This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] web site:
-<blockquote><p>"Rachel and Dave are a long form improv and sketch group based out of Austin, Texas. The group features the married duo of Rachel Madorsky and David Buckman who weave spontaneous comedy about the foibles and complexities of relationships like a modern-day Stiller and Meara. Rachel and Dave shows are filled with real characters, love, whimsy and delightfully inappropriate situations.</p> 
 
-<p>Rachel and Dave teach on the faculty of ColdTowne Theater, perform regularly as members of the award-winning improv ensemble The Frank Mills and live in Austin, Texas. Together, they have appeared in the Web Series: The Bank Manager, Finding Love at Whole Foods, Finding Troo Helth at Whole Foods and Hungry Todd Rungy. They also appear in the feature films: Ultiamte's Guide to Flight and Days of Delusion and the short films: Last Day of School and Master Cleanse"</p></blockquote>
+> "Rachel and Dave are a long form improv and sketch group based out of Austin, Texas. The group features the married duo of Rachel Madorsky and David Buckman who weave spontaneous comedy about the foibles and complexities of relationships like a modern-day Stiller and Meara. Rachel and Dave shows are filled with real characters, love, whimsy and delightfully inappropriate situations.
+>  
+> 
+> Rachel and Dave teach on the faculty of ColdTowne Theater, perform regularly as members of the award-winning improv ensemble The Frank Mills and live in Austin, Texas. Together, they have appeared in the Web Series: The Bank Manager, Finding Love at Whole Foods, Finding Troo Helth at Whole Foods and Hungry Todd Rungy. They also appear in the feature films: Ultiamte's Guide to Flight and Days of Delusion and the short films: Last Day of School and Master Cleanse"
+
 
 ## Media
 ### Videos

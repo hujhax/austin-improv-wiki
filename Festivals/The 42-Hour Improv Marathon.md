@@ -1,3 +1,6 @@
+---
+description: "Third annual Hideout Improv Marathon."
+---
 **The 42-Hour Improv Marathon** was the third annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It was performed in 2011, running from 6/3/11 to 6/5/11.
 
 Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/Cat Drago|Cat Drago]], decided to start doing improv after watching long stretches of the marathon.  The following year, they would come back to perform in one of the hours of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].

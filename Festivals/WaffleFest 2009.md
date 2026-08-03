@@ -1,3 +1,6 @@
+---
+description: "Eighth annual WaffleFest."
+---
 **WaffleFest 2009** was the eighth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

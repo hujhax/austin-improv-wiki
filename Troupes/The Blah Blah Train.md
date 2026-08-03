@@ -1,3 +1,7 @@
+---
+description: "|Years = 1997."
+image: "File/The%20Blah%20Blah%20Train.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -73,6 +77,8 @@
 **The Blah Blah Train** was an improv troupe.
 
 ## Summary
-A description by [[Performers/Tyler Bryce|Tyler Bryce]]:<blockquote>We did 90 minutes shows divided into three parts. The first half hour was a Harold. Then, we would do a 30 minute segment that was an improvised sitcom called "The Nielsons". We wrapped up the show by performing a 30 minute improved musical. We based the musicals on a film synopsis chosen randomly from a film guide. After watching me do short form for years, my brother watched the show and said, "Wow, that is amazing. Is there an audience for this?" In 1997, it would seem, the answer was no.</blockquote>
+A description by [[Performers/Tyler Bryce|Tyler Bryce]]:
+> We did 90 minutes shows divided into three parts. The first half hour was a Harold. Then, we would do a 30 minute segment that was an improvised sitcom called "The Nielsons". We wrapped up the show by performing a 30 minute improved musical. We based the musicals on a film synopsis chosen randomly from a film guide. After watching me do short form for years, my brother watched the show and said, "Wow, that is amazing. Is there an audience for this?" In 1997, it would seem, the answer was no.
+
 
 [[Category/Troupes|Blah Blah Train]]

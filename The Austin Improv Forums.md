@@ -1,3 +1,6 @@
+---
+description: "BBS devoted to the Austin improv community."
+---
 **The Austin Improv Forums** are a BBS devoted to the Austin improv community.
 
 The BBS was started by [[Performers/Bob Apthorpe|Bob Apthorpe]] in August 2005, as part of Austinimprov.com.  As of 2014, he is still the site's administrator.

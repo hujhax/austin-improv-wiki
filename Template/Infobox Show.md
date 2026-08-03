@@ -1,3 +1,7 @@
+---
+description: "== Usage ==."
+image: "File/%7B%7B%7BPicture"
+---
 <noinclude>
 ## Usage
 This template lists standard, useful information about an improv show.
@@ -74,7 +78,7 @@ This template lists standard, useful information about an improv show.
   </tr>
   <tr >
     <td > <em>Producer</em>           </td>
-    <td > The entity (such as <a class="internal-link" href="Gnap!">Gnap!</a>) that produced the show, if that's different from the theater.</td>
+    <td > The entity (such as <a class="internal-link" href="Theatres/Gnap!">Gnap!</a>) that produced the show, if that's different from the theater.</td>
   </tr>
   <tr >
     <td > <em>Cast</em>           </td>

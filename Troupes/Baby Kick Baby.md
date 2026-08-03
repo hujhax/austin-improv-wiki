@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009."
+image: "File/Baby%20Kick%20Baby.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,19 +78,27 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We do the Peak and Pop.</p> 
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do the Peak and Pop.
+>  
+> 
+> The first 10 minutes of the show are very fast, with scenes lasting anywhere from 10 seconds to 2 minutes.
+>  
+> 
+> As soon as the scene peaks, we pop it and instantly start the new scene.
+> 
+> 
+> After 10 minutes, the idea is that the crowd as been drawn in without a chance to breathe.
+>  
+> 
+> We slow it down a bit for the last 15 minutes, but still keep the Peak and Pop style.
+>  
+> 
+> Our scene edits are our scene starts.
+>  
+> 
+> We don't stop improvising.
 
-<p>The first 10 minutes of the show are very fast, with scenes lasting anywhere from 10 seconds to 2 minutes.</p> 
-
-<p>As soon as the scene peaks, we pop it and instantly start the new scene.</p>
-
-<p>After 10 minutes, the idea is that the crowd as been drawn in without a chance to breathe.</p> 
-
-<p>We slow it down a bit for the last 15 minutes, but still keep the Peak and Pop style.</p> 
-
-<p>Our scene edits are our scene starts.</p> 
-
-<p>We don't stop improvising.</p></blockquote>
 
 ## Media
 ### Photos

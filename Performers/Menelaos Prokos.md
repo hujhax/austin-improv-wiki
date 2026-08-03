@@ -1,3 +1,6 @@
+---
+description: "An improviser who, during his tenure in Austin, was associated..."
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

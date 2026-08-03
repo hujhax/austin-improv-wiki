@@ -1,3 +1,7 @@
+---
+description: "|Tech =."
+image: "File/The%20Suitcase.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

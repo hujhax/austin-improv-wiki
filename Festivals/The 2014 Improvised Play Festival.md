@@ -1,3 +1,6 @@
+---
+description: "Fourth annual Improvised Play Festival."
+---
 **The 2014 Improvised Play Festival** was the fourth annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 
 It ran from 4/10/14 through 4/12/14.

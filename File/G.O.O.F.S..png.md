@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="G.O.O.F.S..png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

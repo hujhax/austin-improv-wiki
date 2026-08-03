@@ -1,3 +1,7 @@
+---
+description: "(/ˈluːtʃiːˌɑːniː/) is an improv performer and director."
+image: "File/Curtis%20Luciani%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

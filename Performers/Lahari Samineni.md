@@ -1,3 +1,7 @@
+---
+description: "New performer who performs primarily with The Hideout Theatre and..."
+image: "File/13483369%2010206502157095436%202326651694853821892%20o.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,6 @@
+---
+description: "Sixth annual WaffleFest."
+---
 **WaffleFest 2007** was the sixth annual [[Festivals/Wafflefest|Wafflefest]].
 
 ## Summary

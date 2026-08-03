@@ -1,3 +1,7 @@
+---
+description: "|Producer= Puppet Improv Project."
+image: "File/Elf%20Employment.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

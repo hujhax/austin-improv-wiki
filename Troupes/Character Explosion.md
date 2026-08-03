@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/Character%20Explosion.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Hideout Theatre students / graduates will challenge one member by playing a variety of characters that he/she must then play. After running through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Hideout Theatre students / graduates will challenge one member by playing a variety of characters that he/she must then play. After running through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.
+
 
 ### What We Do
 Character Explosion - Culminating absurdism through the variety of characters, Character Explosion delights its audiences. 
@@ -86,7 +92,9 @@ Once this has been completed, the pivot player will be challenged to copy the pr
 During the pivot challenge, these scenes will take place within the locale, for example if given a Mall, the two person scenes can be take place in the food court, a store, mall security office, broom closet, basement, on top of the roof, the parking lot, you get the idea.  Once the pivot has played each of the characters, all of Character Explosion has the open floor to reintroduce any of the characters in a montage, who knows where the scenes will take us.
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>the plan is that we want to do what it takes to do that thing that is needed to be done so people like us and come see us again</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> the plan is that we want to do what it takes to do that thing that is needed to be done so people like us and come see us again
+
 
 ### Format Orgin
 The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coyle a free fringe was submitted and played out on August 7th 2014 billed as "Ceej Character Explosion" 

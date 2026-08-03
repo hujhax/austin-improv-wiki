@@ -1,3 +1,7 @@
+---
+description: "|Director =."
+image: "File/The%20Monday%20Night%20Mash.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

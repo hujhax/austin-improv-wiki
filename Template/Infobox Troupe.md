@@ -1,3 +1,7 @@
+---
+description: "== Usage ==."
+image: "File/%7B%7B%7BPicture"
+---
 <noinclude>
 ## Usage
 This template lists standard, useful information about an improv troupe.

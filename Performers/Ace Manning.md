@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Ace%20Manning%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Ace Manning** is an improv performer.
 
 ## History
-Ace was a company member of [[Gnap! Theater Projects]].
+Ace was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 ## Troupes
 * [[Troupes/Available Cupholders|Available Cupholders]]

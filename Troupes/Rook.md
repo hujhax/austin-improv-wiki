@@ -1,3 +1,7 @@
+---
+description: "|Picture= Rook.png."
+image: "File/Rook.png"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

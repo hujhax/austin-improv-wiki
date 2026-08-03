@@ -1,3 +1,7 @@
+---
+description: "(full title Beautiful Warlock Presents: Big Beautiful Warriors) is a..."
+image: "File/Big%20Beautiful%20Warriors.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

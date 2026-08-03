@@ -1,3 +1,6 @@
+---
+description: "|Years = 2012."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +77,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Everyone has a their own version of the truth. Spyglass (Brandon Salinas, [[Performers/Lindsey Reeves|Lindsey Reeves]], & [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]]) improvises slice-of-life tales that explore these different perspectives through the use of meta monologues, time dashes, and grounded scenework.</blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Everyone has a their own version of the truth. Spyglass (Brandon Salinas, [[Performers/Lindsey Reeves|Lindsey Reeves]], & [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]]) improvises slice-of-life tales that explore these different perspectives through the use of meta monologues, time dashes, and grounded scenework.
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Each show focuses on a relationship between two or more people. We examine that relationship by jumping around in time and space with one central scene at the show's core. Characters frequently break out of the scene to talk to the audience and provide additional insight or to ask the audience's opinion on how to handle certain problems. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Each show focuses on a relationship between two or more people. We examine that relationship by jumping around in time and space with one central scene at the show's core. Characters frequently break out of the scene to talk to the audience and provide additional insight or to ask the audience's opinion on how to handle certain problems. 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/Kyle%20Traughber%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Kyle Traughber** is an improv performer.
 
 ## History
-Kyle was a company member with [[Gnap! Theater Projects]].
+Kyle was a company member with [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 ## Troupes
 * [[Troupes/Blink|Blink]]

@@ -1,3 +1,7 @@
+---
+description: "An improv performer, teacher, and director."
+image: "File/Michael%20Joplin%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -10,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Merlin Works">Merlin Works</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Merlin Works">Merlin Works</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

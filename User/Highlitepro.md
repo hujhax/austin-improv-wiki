@@ -1,3 +1,6 @@
+---
+description: "Barista at The Hideout Coffeehouse."
+---
 Barista at The Hideout Coffeehouse.
 
 Hideout Theatre student, level 5!

@@ -1,3 +1,6 @@
+---
+description: "An improv performer and festival producer with The New Movement..."
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "(formerly Ann Nelson) is an improv performer."
+image: "File/Ann%20Symmonds%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "|Run = Apr 2016."
+image: "File/Origins%20Placeholder%20Image.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
@@ -188,8 +192,9 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>Every superhero has an origin; fraught with danger and excitement, these once ordinary people must learn to control unstable powers, protect friends and family, and confront powerful new threats.  But ultimately their origins are not about how they became super -- it's about how they became a hero.
-</blockquote>
+From the show announcement:
+> Every superhero has an origin; fraught with danger and excitement, these once ordinary people must learn to control unstable powers, protect friends and family, and confront powerful new threats.  But ultimately their origins are not about how they became super -- it's about how they became a hero.
+
 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.

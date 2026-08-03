@@ -1,3 +1,7 @@
+---
+description: "|Director = Lisa Jackson."
+image: "File/Twelve-Inch%20Integrity.png"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -78,7 +82,9 @@
 
 ## Summary
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a fast-paced montage with call backs that is game-heavy and irreverant.</blockquote>
+Their answer to the "What's Your Deal?" question on a 2009 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a fast-paced montage with call backs that is game-heavy and irreverant.
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

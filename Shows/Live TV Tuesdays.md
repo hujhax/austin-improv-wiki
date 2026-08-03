@@ -1,3 +1,7 @@
+---
+description: "(formerly known as Teen Angst Tuesdays) were a series of..."
+image: "File/Live%20TV%20Tuesdays.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

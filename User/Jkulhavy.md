@@ -1,1 +1,4 @@
+---
+description: "Joseph Kulhavy is an Austin-based improv student and performer, and..."
+---
 Joseph Kulhavy is an Austin-based improv student and performer, and a member of the "Ricochet" troupe. Once, long ago, he regularly provided half-time entertainment for musical shows at the late, lamented downtown Austin Venue "Chicago House," and was a member of a local collective of writers for the performing arts.

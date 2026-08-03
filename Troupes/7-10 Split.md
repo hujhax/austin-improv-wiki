@@ -1,3 +1,7 @@
+---
+description: "|Years = 2009-Present."
+image: "File/710%20Split.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,16 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Jeffrey Amos and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] founded 710 Split to establish a unique hybrid of their idiosyncratic sensibilities. The two have a long history together, having been frequent collaborators in groups such as Austin's [[Troupes/Well Hung Jury|Well Hung Jury]] and [[Troupes/The Sicks|The Sicks]]. Each has a wealth of experience in the entertainment industry in Austin, Los Angeles, and Chicago. They search not simply for the laughter that comes with comedic performance, but the startling moments of discovery that can be found in between. </blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Jeffrey Amos and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] founded 710 Split to establish a unique hybrid of their idiosyncratic sensibilities. The two have a long history together, having been frequent collaborators in groups such as Austin's [[Troupes/Well Hung Jury|Well Hung Jury]] and [[Troupes/The Sicks|The Sicks]]. Each has a wealth of experience in the entertainment industry in Austin, Los Angeles, and Chicago. They search not simply for the laughter that comes with comedic performance, but the startling moments of discovery that can be found in between. 
+
 
 ## History
 They've played every [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] from 2009 to 2013.
 
-Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the name's origin:<blockquote>Jeff's idea. because as two tall white guys, it's what we look like onstage together. Our friend Karie briefly joined us while we were in L.A. Jeff asked how she fit into the name. I thought about it and told him, "she's the ball." We laughed. She left after three shows. </blockquote>
+Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the name's origin:
+> Jeff's idea. because as two tall white guys, it's what we look like onstage together. Our friend Karie briefly joined us while we were in L.A. Jeff asked how she fit into the name. I thought about it and told him, "she's the ball." We laughed. She left after three shows. 
+
 
 ## Media
 ### Videos

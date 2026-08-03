@@ -1,3 +1,7 @@
+---
+description: "|Tech = Cindy Page."
+image: "File/Dandy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

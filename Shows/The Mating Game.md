@@ -1,3 +1,7 @@
+---
+description: "(sometimes listed as The Dating Game) was a live game..."
+image: "File/The%20Mating%20Game.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

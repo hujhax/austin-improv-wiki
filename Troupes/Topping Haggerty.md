@@ -1,3 +1,7 @@
+---
+description: "An actress, sketch comedy writer & director, and improv performer."
+image: "File/Topping%20Haggerty%20Pic3.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -36,7 +40,7 @@ In 2016, her short film *Day of the Dingus* won an honorable mention from the Au
 
 Topping received her BA in Drama from San Francisco State University, and studied improv with Bay Area Thearesports, The Upright Citizens Brigade, Second City NYC, Armando Diaz, Michael Gellman, Mark Sutton, Joe Bill,  Billy Merritt, and Mick Napier, among others.
 
-Topping was a company member with [[Gnap! Theater Projects]].
+Topping was a company member with [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 ## Troupes
 * [[Troupes/BatShyt Crazy|BatShyt Crazy]]

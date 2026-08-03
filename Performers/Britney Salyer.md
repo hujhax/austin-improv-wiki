@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-Present."
+image: "File/Britney%20Salyer%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -73,7 +77,7 @@
 **Britney Salyer** is an improv performer.
 
 ## History
-Britney was a company member of [[Gnap! Theater Projects]].
+Britney was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 ## Shows
 * *[[Shows/Dusk|Dusk]]* (box office)

@@ -1,3 +1,6 @@
+---
+description: "This is a list of stage entities that only had..."
+---
 This is a list of stage entities that only had a single performance.
 
 ## Pages in category "Only One Performance"

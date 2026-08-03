@@ -1,4 +1,8 @@
-**The Merlin Works Mixer** is a recurring improv mixer put on by [[The Merlin Works Institute for Improvisation]].
+---
+description: "Recurring improv mixer put on by The Merlin Works Institute..."
+image: "File/Merlin%20Works%20Mixer.jpg"
+---
+**The Merlin Works Mixer** is a recurring improv mixer put on by [[Theatres/The Merlin Works Institute for Improvisation|The Merlin Works Institute for Improvisation]].
 
 ![[Merlin Works Mixer.jpg|Attendees perform a scene at a Merlin Works Mixer.]]
 
@@ -9,14 +13,14 @@ The mixers originally took place at the [[Theatres/Salvage Vanguard Theater|Salv
 
 They have always been a monthly event; currently, they take place on the first Saturday of the month at 2pm.
 
-A mixer usually lasts between 1½ and 2 hours.  For the first half-hour or so, a [[Merlin Works]] teacher (typically [[Performers/Shana Merlin|Shana Merlin]]) leads attendees in group warm-ups.  Then the attendees are split into mini ad-hoc troupes, and each such troupe performs a short montage set, with light direction from the teacher.
+A mixer usually lasts between 1½ and 2 hours.  For the first half-hour or so, a [[Theatres/Merlin Works|Merlin Works]] teacher (typically [[Performers/Shana Merlin|Shana Merlin]]) leads attendees in group warm-ups.  Then the attendees are split into mini ad-hoc troupes, and each such troupe performs a short montage set, with light direction from the teacher.
 
 Sometimes local improv directors scout for talent at the mixers, or announce projects to the attendees to connect with people interested in participating.
 
 ## History
-From 2008 to 2012, the Merlin Works Mixers also served as auditions for [[Gnap!]]'s mainstage shows, which ran regularly at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+From 2008 to 2012, the Merlin Works Mixers also served as auditions for [[Theatres/Gnap!|Gnap!]]'s mainstage shows, which ran regularly at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
-They went on hiatus through late 2012 and early 2013, as [[Merlin Works]] completed its move to ZACH Theater.
+They went on hiatus through late 2012 and early 2013, as [[Theatres/Merlin Works|Merlin Works]] completed its move to ZACH Theater.
 
 ## Media
 ### Photos

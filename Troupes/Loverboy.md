@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Loverboy.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,10 +78,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Loverboy uses real dating stories to inspire their fast-paced and exciting improv show. Each performance features a different guest monologist that will delight the audience with their most shocking, cringe-worthy, and downright hilarious tales of dating gone wrong (or right!).</blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Loverboy uses real dating stories to inspire their fast-paced and exciting improv show. Each performance features a different guest monologist that will delight the audience with their most shocking, cringe-worthy, and downright hilarious tales of dating gone wrong (or right!).
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Armando</blockquote>
+Their answer to the "What's Your Deal?" question on a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Armando
+
 
 ## Media
 ### Videos

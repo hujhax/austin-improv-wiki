@@ -1,3 +1,6 @@
+---
+description: "The B."
+---
 The **B. Iden Payne Awards** are annual awards for local theater in Austin.
 
 The awards currently include improv categories for "Outstanding Production" and "Outstanding Director", as well as the "Rudy Kloptik Award for Outstanding Improvisational Troupe".
@@ -100,7 +103,7 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 	* Nominees:
 		* [[Shows/Austin Secrets|Austin Secrets]] ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
 		* [[Troupes/Confidence Men|Confidence Men]] ([[Theatres/The Institution Theater|The Institution Theater]])
-		* [[Troupes/Get Up|Get Up]] ([[Gnap! Theater Projects]])
+		* [[Troupes/Get Up|Get Up]] ([[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]])
 		* [[Shows/The Megaphone Show|The Megaphone Show]] ([[Theatres/The New Movement Theater|The New Movement Theater]])
 		* [[Troupes/Midnight Society|Midnight Society]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
 

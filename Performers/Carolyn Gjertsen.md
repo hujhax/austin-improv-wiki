@@ -1,3 +1,7 @@
+---
+description: "An improv performer and member of the troupe Character Explosion."
+image: "File/CarolynGjertsen.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

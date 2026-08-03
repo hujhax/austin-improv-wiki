@@ -1,3 +1,7 @@
+---
+description: "|Technical Director = TBA."
+image: "File/meat%20cute%20poster.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

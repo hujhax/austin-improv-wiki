@@ -1,3 +1,7 @@
+---
+description: ", aka Andrew Wesely, is an improv comedian, sketch actor,..."
+image: "File/Drew%20Wesely%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "An improv performer who played primarily at The Hideout Theatre."
+image: "File/Bob%20Apthorpe%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

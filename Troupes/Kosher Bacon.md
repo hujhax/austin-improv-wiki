@@ -1,3 +1,7 @@
+---
+description: "|Director = Kevin Miller."
+image: "File/Kosher%20Bacon%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

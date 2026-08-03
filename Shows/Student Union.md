@@ -1,3 +1,7 @@
+---
+description: "An improv jam for students and alumni of The New..."
+image: "File/Student%20Union.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

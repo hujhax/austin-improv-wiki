@@ -1,3 +1,7 @@
+---
+description: "An improv performer and artist."
+image: "File/Nathan%20Livni.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

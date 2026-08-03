@@ -1,3 +1,7 @@
+---
+description: "|Picture= TheeHotChicks.jpg."
+image: "File/TheeHotChicks.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

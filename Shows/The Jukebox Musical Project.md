@@ -1,3 +1,7 @@
+---
+description: "|Music Director =."
+image: "File/The%20Jukebox%20Musical%20Project.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

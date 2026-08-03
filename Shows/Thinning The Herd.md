@@ -1,3 +1,7 @@
+---
+description: "|Run = Oct 2012-Jan 2013."
+image: "File/Thinning%20the%20Herd.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

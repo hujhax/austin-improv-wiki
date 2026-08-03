@@ -1,3 +1,7 @@
+---
+description: "An improv performer and founding member of the grounded troupe..."
+image: "File/ryanonstage.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "An improv performer."
+image: "File/David%20Wells%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -10,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Merlin Works">Merlin Works</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Merlin Works">Merlin Works</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -22,7 +26,7 @@
 **David Wells** is an improv performer.
 
 ## History
-David has studied primarily with [[Merlin Works]] and [[Theatres/The Institution Theater|The Institution Theater]].
+David has studied primarily with [[Theatres/Merlin Works|Merlin Works]] and [[Theatres/The Institution Theater|The Institution Theater]].
 * Merlin Works Improv 601 graduate, 2012
 * Institution Theater Improv 601 graduate, 2018
 

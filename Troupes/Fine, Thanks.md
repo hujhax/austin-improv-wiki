@@ -1,3 +1,7 @@
+---
+description: "|Years = 2007-2011."
+image: "File/Fine%2C%20Thanks.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Alex, Amy, Bradley, Keegan are Fine, Thanks. Our format is never to use the same format twice. No matter what we are doing our passion for Improv and a strong sense of play insure a good time be had by all. We plan to rock your world and many others.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Alex, Amy, Bradley, Keegan are Fine, Thanks. Our format is never to use the same format twice. No matter what we are doing our passion for Improv and a strong sense of play insure a good time be had by all. We plan to rock your world and many others.
+
 
 ## Media
 ### Photos

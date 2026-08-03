@@ -1,3 +1,7 @@
+---
+description: "|Years = 2014-Present."
+image: "File/Kingston.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,12 +78,18 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Kingston is a new troupe of players from Austin's Coldtowne Theater and New York City's Upright Citizens Brigade Theater! We perform game of the scene improv inspired by the Harold!</blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Kingston is a new troupe of players from Austin's Coldtowne Theater and New York City's Upright Citizens Brigade Theater! We perform game of the scene improv inspired by the Harold!
+
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We do a loose Harold.</p> 
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> We do a loose Harold.
+>  
+> 
+> Cortnie, Frank, Sanjay and Drew have all played together a bunch. Chris and Jillian are from UCBT NY, new to Austin, and they are extremely experienced there. Jillian also trained at Jill Bernard's Huge Theater before going to NYC.
+>  
 
-<p>Cortnie, Frank, Sanjay and Drew have all played together a bunch. Chris and Jillian are from UCBT NY, new to Austin, and they are extremely experienced there. Jillian also trained at Jill Bernard's Huge Theater before going to NYC.</p> </blockquote>
 
 ## Media
 ### Videos

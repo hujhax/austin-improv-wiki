@@ -1,3 +1,7 @@
+---
+description: "An improv performer who works with The Hideout Theatre and..."
+image: "File/Mike%20Reed%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

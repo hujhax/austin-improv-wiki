@@ -1,3 +1,7 @@
+---
+description: "An improviser, producer, and podcaster."
+image: "File/ScottHearne.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>

@@ -1,3 +1,6 @@
+---
+description: "== Traditional Mainstage Shows ==."
+---
 ## Traditional Mainstage Shows
 The Hideout's traditional mainstage shows happen at 8pm on Saturdays.  Starting in 2009, each show has had a run that lasts for two months -- though on rare occasions, especially successful shows are 'held over' into 6pm productions in the following month.
 

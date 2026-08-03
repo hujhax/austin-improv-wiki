@@ -1,3 +1,7 @@
+---
+description: "An improv performer and videographer."
+image: "File/Michael%20Thomas%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -22,7 +26,7 @@
 **Michael Thomas** is an improv performer and videographer.
 
 ## History
-Michael Thomas got his start in 2008, in the heyday of [[The Tuesday Night Jam]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Eventually, he performed frequently, and became a company member of [[Gnap! Theater Projects]].  He was a frequent videographer for [[Gnap!]], putting together (among other things) the opening sequence for *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* and the trailers for *[[Shows/Dusk|Dusk]]*.  He also wrote the music for the songs in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*, with [[Performers/Asaf Ronen|Asaf Ronen]] writing the lyrics.
+Michael Thomas got his start in 2008, in the heyday of [[The Tuesday Night Jam]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Eventually, he performed frequently, and became a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].  He was a frequent videographer for [[Theatres/Gnap!|Gnap!]], putting together (among other things) the opening sequence for *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* and the trailers for *[[Shows/Dusk|Dusk]]*.  He also wrote the music for the songs in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*, with [[Performers/Asaf Ronen|Asaf Ronen]] writing the lyrics.
 
 In 2012, Michael Thomas moved away to San Francisco.
 

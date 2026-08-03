@@ -1,3 +1,6 @@
+---
+description: "This is the source code, in Inform 7, as of..."
+---
 This is the source code, in Inform 7, as of 4/1/2013, for [[The Hideout Text Adventure]].
 
 ----

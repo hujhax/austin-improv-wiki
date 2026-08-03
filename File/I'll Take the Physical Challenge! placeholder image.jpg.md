@@ -1,3 +1,6 @@
+---
+description: "== Summary ==."
+---
 <div style="text-align: center;"><img src="I'll Take the Physical Challenge! placeholder image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary

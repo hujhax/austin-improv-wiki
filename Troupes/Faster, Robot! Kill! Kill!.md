@@ -1,3 +1,7 @@
+---
+description: "|Years = 2013-Present."
+image: "File/Faster%2C%20Robot%21%20Kill%21%20Kill%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -73,14 +77,18 @@
 **Faster, Robot! Kill! Kill!** is an improv duo consisting of [[Performers/Brett Tribe|Brett Tribe]] and [[Performers/Lisa Jackson|Lisa Jackson]].
 
 ## History
-Here is [[Performers/Brett Tribe|Brett Tribe]]'s explanation of the name's origin:<blockquote><p>Brett Tribe posted to Lisa Michelle Jackson<br>
-June 20, 2011<br>
-When are we going to get to play together? Two person troupe? "Faster Robot Kill Kill"?</p>
+Here is [[Performers/Brett Tribe|Brett Tribe]]'s explanation of the name's origin:
+> Brett Tribe posted to Lisa Michelle Jackson<br>
+> June 20, 2011<br>
+> When are we going to get to play together? Two person troupe? "Faster Robot Kill Kill"?
+> 
+> 
+> Lisa Michelle Jackson <br>
+> Heck yeah! DOES compute. I would love to play with you. You're the bees knees.
+> 
+> 
+> I came up with the name as I was typing. From the film 'Faster, Pussycat! Kill! Kill!'
 
-<p>Lisa Michelle Jackson <br>
-Heck yeah! DOES compute. I would love to play with you. You're the bees knees.</p>
-
-<p>I came up with the name as I was typing. From the film 'Faster, Pussycat! Kill! Kill!'</p></blockquote>
 
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/fasterrobotkillkill)

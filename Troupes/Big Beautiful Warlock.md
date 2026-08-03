@@ -1,3 +1,7 @@
+---
+description: "|Years = 2011-Present."
+image: "File/Big%20Beautiful%20Warlock.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

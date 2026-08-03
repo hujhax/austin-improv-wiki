@@ -1,3 +1,7 @@
+---
+description: "|Years = 2015-Present."
+image: "File/Miserable%20Skillet.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,7 +78,9 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Miserable Skillet is a comedy group based in Austin, Texas. Each show begins with a brief, goofed-out conversation between the players, followed by a high-energy run so crazy and fun, it inspired one audience member to comment favorably on the show. Their members have been trained at Coldtowne, iO, Annoyance theaters, and have taken workshops from prominent educators in the Austin, LA, Chicago, and New York scenes, not to mention, love to make new friends. </blockquote>
+Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:
+> Miserable Skillet is a comedy group based in Austin, Texas. Each show begins with a brief, goofed-out conversation between the players, followed by a high-energy run so crazy and fun, it inspired one audience member to comment favorably on the show. Their members have been trained at Coldtowne, iO, Annoyance theaters, and have taken workshops from prominent educators in the Austin, LA, Chicago, and New York scenes, not to mention, love to make new friends. 
+
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

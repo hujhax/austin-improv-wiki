@@ -1,3 +1,7 @@
+---
+description: "An actress and improv performer."
+image: "File/Madi%20Goff%20Pic.jpg"
+---
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -24,7 +28,7 @@
 ## History
 Madi started improvising in 2008 with [[Troupes/ComedySportz|ComedySportz]].  Shortly afterwards, she started taking classes with [[Performers/Shana Merlin|Shana Merlin]] and [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-Over the next few years, Madi performed in longform shows with [[Gnap! Theater Projects]].
+Over the next few years, Madi performed in longform shows with [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]].
 
 In 2011, she moved to Los Angeles.  Since then, she's performed with Impro Theatre's LAB Company in the styles of Tennessee Williams, film noir, soap opera, and others. She is the computer for LA's Star Trek: The Improvised Generation. And in December 2015, she began performing as a guest artist with Impro Theatre's main company in Jane Austen UnScripted and in February of 2016 in Fairytales UnScripted.
 

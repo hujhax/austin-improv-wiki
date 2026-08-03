@@ -1,3 +1,7 @@
+---
+description: "Monthly stand-up showcase."
+image: "File/Austin%20Comedy%20Hour.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

@@ -1,3 +1,7 @@
+---
+description: "| Tech =."
+image: "File/Batman.cast.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

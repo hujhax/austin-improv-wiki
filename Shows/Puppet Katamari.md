@@ -1,3 +1,7 @@
+---
+description: "|Run = Jun 2011."
+image: "File/Puppet%20Katamari.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

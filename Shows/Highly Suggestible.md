@@ -1,3 +1,7 @@
+---
+description: "(formerly Whiteboard) is an ongoing montage show at the Institution..."
+image: "File/Highly%20Suggestible.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>

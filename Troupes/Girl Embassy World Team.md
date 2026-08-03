@@ -1,3 +1,7 @@
+---
+description: "|Years = 2010-2011."
+image: "File/Girl%20Embassy%20World%20Team.jpg"
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
@@ -74,9 +78,10 @@
 
 ## Summary
 ## Publicity Blurb
-<blockquote>"This super group comprised of 5 ladies and 1 gentleman present to you a pop world the likes of which you have never seen before. This is a world in which global sensation Girl Embassy World Team, a five-lady troupe of international dancers, tours the world performing vibrant dances to upbeat girl-sung tracks and spreads messages of positivity and femininity to young girls through comedic skits. After viewing one of their 'concerts,' the audience goes on a wild ride backstage with the girls and their manager as they navigate what life's like on the road as a corporate-controlled pop sensation.
+> "This super group comprised of 5 ladies and 1 gentleman present to you a pop world the likes of which you have never seen before. This is a world in which global sensation Girl Embassy World Team, a five-lady troupe of international dancers, tours the world performing vibrant dances to upbeat girl-sung tracks and spreads messages of positivity and femininity to young girls through comedic skits. After viewing one of their 'concerts,' the audience goes on a wild ride backstage with the girls and their manager as they navigate what life's like on the road as a corporate-controlled pop sensation.
+> 
+> GEWT is comprised of some of Austin's top improvisational performers from all over the stylistic map. Individually they've toured to over 30 cities and have performed in such festivals as The Chicago Improv Fest, The Seattle Festival of Improvisation, and the Del Close Marathon, among many others. They have won FronteraFest Best of Fest, Austin Chronicle Best of Year, and B. Iden Payne award accolades. They all perform weekly in various shows at the Hideout Theatre, Salvage Vanguard Theater, and ColdTowne Theater."
 
-GEWT is comprised of some of Austin's top improvisational performers from all over the stylistic map. Individually they've toured to over 30 cities and have performed in such festivals as The Chicago Improv Fest, The Seattle Festival of Improvisation, and the Del Close Marathon, among many others. They have won FronteraFest Best of Fest, Austin Chronicle Best of Year, and B. Iden Payne award accolades. They all perform weekly in various shows at the Hideout Theatre, Salvage Vanguard Theater, and ColdTowne Theater."</blockquote>
 
 ## Cast
 * [[Performers/Courtney Hopkin|Courtney Hopkin]] - Blodeuwedd

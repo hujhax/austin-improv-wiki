@@ -1,2 +1,5 @@
+---
+description: "Studied acting at ACC, State Theatre and with Mona Lee..."
+---
 Studied acting at ACC, State Theatre and with Mona Lee and interested in joining or forming an Improv group in Austin.I took an improv class with Arthur at Coldtown and regularly participate in Tuesday night improv there...
 I am an Artist(poet/painter/singer/songwriter)and part time professional massage therapist.

@@ -1,3 +1,7 @@
+---
+description: "Monthly sketch show at Coldtowne Theater."
+image: "File/Comedy%20Bazaar.jpg"
+---
 <div>
 	<table class="infobox infobox-show">
 		<tr>
