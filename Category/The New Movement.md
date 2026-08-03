@@ -1,6 +1,6 @@
 ## Pages in category "The New Movement"
 
-* [[Shows/Fighting Spirit]]
-* [[Shows/Lights Up!]]
-* [[Shows/Student Union]]
-* [[Shows/The Franchise]]
+* [[Shows/Fighting Spirit|Fighting Spirit]]
+* [[Shows/Lights Up!|Lights Up!]]
+* [[Shows/Student Union|Student Union]]
+* [[Shows/The Franchise|The Franchise]]

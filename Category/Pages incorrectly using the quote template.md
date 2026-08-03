@@ -1,4 +1,4 @@
 ## Pages in category "Pages incorrectly using the quote template"
 
-* [[Template/Quote]]
-* [[Template/Quote]]
+* [[Template/Quote|Quote]]
+* [[Template/Quote|Quote]]

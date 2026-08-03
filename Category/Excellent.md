@@ -1,3 +1,3 @@
 ## Pages in category "Excellent"
 
-* [[Troupes/Buttholes]]
+* [[Troupes/Buttholes|Buttholes]]

@@ -11,10 +11,14 @@
             "id": "b297e52ef8bade30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Performers/Cat Drago.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cat Drago"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cat drag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Performers/Cat Drago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Cat Drago"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Performers/Cat Drago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Cat Drago"
             }
           },
           {
@@ -150,20 +157,20 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Performers/Cat Drago.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Cat Drago"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b297e52ef8bade30",
+  "active": "7768c500bd385f2f",
   "lastOpenFiles": [
+    "Category/Active.md",
+    "The Austin Improv Collective.md",
+    "AIC.md",
+    "Steam – Eighth Night.md",
+    "Skull on Stick.md",
+    "Talk/Adriane Shown.md",
+    "Troupes/Eenie Meanie Beanie Babies.md",
     "Shows/Blank or Bust.md",
     "Troupes/Topping Haggerty.md",
     "Troupes/Drinkies Galore.md",
@@ -197,13 +211,6 @@
     "Shows/The Joss Whedon Pajama Party.md",
     "Shows/Live TV Tuesdays -  Firefly.md",
     "Shows/It Came From Your Brain!.md",
-    "Shows/Live TV Tuesdays -  Angel.md",
-    "Shows/Only Three Will Survive.md",
-    "Shows/Hyperlinks.md",
-    "Festivals/The 47-Hour Improv Marathon.md",
-    "Shows/Live TV Tuesdays -  Freaks and Geeks.md",
-    "Festivals/Love Fest.md",
-    "Shows/Damn Gina Night Watch.md",
     "Theatres",
     "Festivals",
     "Festival",

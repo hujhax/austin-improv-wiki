@@ -1,3 +1,3 @@
 ## Pages in category "Started as a Cagematch Troupe"
 
-* [[Troupes/Bad Boys]]
+* [[Troupes/Bad Boys|Bad Boys]]

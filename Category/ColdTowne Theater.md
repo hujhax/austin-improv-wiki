@@ -1,3 +1,3 @@
 ## Pages in category "ColdTowne Theater"
 
-* [[Shows/The Cagematch]]
+* [[Shows/The Cagematch|The Cagematch]]

@@ -1,3 +1,21 @@
 This is a list of Austin's technical improvisors:
 
-<categorytree mode=pages hideroot=on style="-moz-column-width:20em;-webkit-column-width:20em">Techs</categorytree>
+* [[Performers-Chris Albano|Chris Albano]]
+* [[Performers-Rachel Posey Austin|Rachel Posey Austin]]
+* [[Performers-Nichole Bennett|Nichole Bennett]]
+* [[Performers-Thedward Blevins|Thedward Blevins]]
+* [[Performers-Kelly Campbell|Kelly Campbell]]
+* [[Performers-Brent Chismark|Brent Chismark]]
+* [[Performers-Cortney DeAngelo|Cortney DeAngelo]]
+* [[Performers-Sara Farr|Sara Farr]]
+* [[Performers-Stuart Feild|Stuart Feild]]
+* [[Performers-Claudio Fox|Claudio Fox]]
+* [[Performers-Warren Henderson|Warren Henderson]]
+* [[Performers-Jay Mahavier|Jay Mahavier]]
+* [[Performers-Lindsey McGowen|Lindsey McGowen]]
+* [[Performers-Cindy Page|Cindy Page]]
+* [[Performers-Mike Reed|Mike Reed]]
+* [[Performers-Neal Tibrewala|Neal Tibrewala]]
+* [[Performers-Chad Wellington|Chad Wellington]]
+* [[Performers-Rob Yoho|Rob Yoho]]
+* [[Performers-David Zimmerman|David Zimmerman]]
