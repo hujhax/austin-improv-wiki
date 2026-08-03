@@ -174,7 +174,9 @@ The show included special guests every week, as follows:
 * 4/28 - every available guest returned for a finale "clip show"
 
 ## Media
+
 <references/>
+
 ### Other
 * [Opening credits for "Boy Greets World".](http://www.youtube.com/watch?feature=player_embedded&v=I5KiIDC3DkU)
 * [Opening credits for "Buddies".](http://www.youtube.com/watch?feature=player_embedded&v=yKYpk8ZjQBw)

@@ -233,7 +233,8 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10207893234355168.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the 8/22/15 performance.
 
 ## Notes
-<references />
+
+<references/>
 
 ## More Information
 * [The Improv Encyclopedia's summary of Maestro.](http://improvencyclopedia.org/games//Micetro.html)

@@ -85,5 +85,7 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * [A blogpost about the 11/1/12 "unification day"](http://www.hideouttheatre.com/happy-unification-day), when the upstairs theater, the downstairs theater, and the coffeehouse were united under the Hideout management.
 
 ## Notes
+
 <references/>
+
 Category:Theatres
