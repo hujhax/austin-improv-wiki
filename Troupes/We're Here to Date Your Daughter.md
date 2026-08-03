@@ -1,5 +1,5 @@
 ---
-description: "(often referred to by its acronym, WHTDYD) is an ensemble..."
+description: "An ensemble improv troupe focusing on relationships."
 image: "File/WHTDYD.jpg"
 ---
 <div>

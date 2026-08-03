@@ -1,5 +1,5 @@
 ---
-description: "J."
+description: "An improv performer."
 image: "File/J.%20R.%20Zambrano%20Pic.jpg"
 ---
 <div>

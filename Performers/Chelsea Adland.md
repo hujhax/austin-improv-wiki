@@ -1,5 +1,5 @@
 ---
-description: "(née Gilman) is an improv performer."
+description: "An improv performer."
 image: "File/Chelsea%20Gilman%20Pic.jpg"
 ---
 <div>

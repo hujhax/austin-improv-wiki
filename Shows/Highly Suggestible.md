@@ -1,5 +1,5 @@
 ---
-description: "(formerly Whiteboard) is an ongoing montage show at the Institution..."
+description: "An ongoing montage show at the Institution Theater."
 image: "File/Highly%20Suggestible.jpg"
 ---
 <div>

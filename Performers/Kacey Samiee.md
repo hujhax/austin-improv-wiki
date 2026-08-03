@@ -1,5 +1,5 @@
 ---
-description: "(/ˈsæmiːˌiː/) is a performer, director, coach, teacher, and singer of..."
+description: "Performer, director, coach, teacher, and singer of improv."
 image: "File/Kacey%20Samiee%20Pic.jpg"
 ---
 <div>

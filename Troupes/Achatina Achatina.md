@@ -1,5 +1,5 @@
 ---
-description: "(often written with an exclamation point: Achatina Achatina!) was an..."
+description: "An improv troupe associated with ColdTowne Theater."
 image: "File/Achatina%20Achatina.jpg"
 ---
 <div>

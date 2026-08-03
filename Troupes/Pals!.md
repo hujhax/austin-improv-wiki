@@ -1,4 +1,5 @@
 ---
+description: "An improv duo."
 image: "File/Pals%21.jpg"
 ---
 <div>

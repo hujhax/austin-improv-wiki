@@ -1,5 +1,5 @@
 ---
-description: "(full title: Indy Movies: The Filmmaking Misadventures Of Wade Wood)..."
+description: "Mainstage show about a 1940's film director and his efforts..."
 image: "File/Indy%20Movies.jpg"
 ---
 <div>

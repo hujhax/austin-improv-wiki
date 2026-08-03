@@ -1,5 +1,5 @@
 ---
-description: "(often written in all caps: BUTTHOLES) is a group consisting..."
+description: "Group consisting of Mia Iseman, Elena Martinez, Hannah Monson, and..."
 image: "File/Mandinka.jpg"
 ---
 <div>

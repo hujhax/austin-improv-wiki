@@ -1,5 +1,5 @@
 ---
-description: "(often written in all-caps: LUCY) was a New Movement improv..."
+description: "New Movement improv troupe."
 image: "File/Lucy.jpg"
 ---
 <div>

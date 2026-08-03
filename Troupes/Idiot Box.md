@@ -1,5 +1,5 @@
 ---
-description: "(formerly PhotoRealism) was an improv troupe."
+description: "An improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

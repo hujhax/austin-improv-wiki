@@ -1,5 +1,5 @@
 ---
-description: "(formerly Justin Davis) is an improv performer, director, and teacher."
+description: "An improv performer, director, and teacher."
 image: "File/Justin%20Davis.jpg"
 ---
 <div>

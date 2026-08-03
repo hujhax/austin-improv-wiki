@@ -1,5 +1,5 @@
 ---
-description: "(sometimes listed as The Dating Game) was a live game..."
+description: "Live game show based on the TV show of the..."
 image: "File/The%20Mating%20Game.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(often written with an exclamation point: Mathematical!) was an improv..."
+description: "An improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

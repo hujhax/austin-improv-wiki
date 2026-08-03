@@ -1,5 +1,5 @@
 ---
-description: "(AKA Kaci Danger) is an improv performer, director, scenic painter,..."
+description: "An improv performer, director, scenic painter, teacher, and the Director..."
 image: "File/Kaci%20Beeler.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(formerly The Laff Stop) is a professional stand-up comedy club..."
+description: "Professional stand-up comedy club in Austin, Texas and home to..."
 image: "File/Cap%20City%20Comedy%20Club.png"
 ---
 <div>

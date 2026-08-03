@@ -1,5 +1,5 @@
 ---
-description: "(also styled Grimm Noir) is an Institution Theater mainstage show..."
+description: "An Institution Theater mainstage show that combines film noir with..."
 image: "File/GrimmNoir.jpg"
 ---
 <div>

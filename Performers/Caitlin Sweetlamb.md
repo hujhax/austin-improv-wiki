@@ -1,5 +1,5 @@
 ---
-description: "(née Caitlin Sweet) is an improv performer."
+description: "An improv performer."
 image: "File/Caitlin%20Sweetlamb%20Pic.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "Who is T."
+description: "Mainstage show at The Hideout Theatre. It was inspired by..."
 image: "File/Who%20is%20T.%20Henry%20Baudecliffe.jpg"
 ---
 <div>

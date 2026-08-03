@@ -1,5 +1,5 @@
 ---
-description: "Brick vs."
+description: "An improv troupe."
 image: "File/Brick%20vs.%20Mongoose.jpg"
 ---
 <div>

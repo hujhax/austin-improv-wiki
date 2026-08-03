@@ -1,5 +1,5 @@
 ---
-description: "(usually written all-caps: SLOB) is an improv troupe."
+description: "An improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

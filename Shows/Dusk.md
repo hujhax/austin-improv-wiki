@@ -1,5 +1,5 @@
 ---
-description: "(full name: Dusk: Improvised Tween Erotica) was a longform narrative..."
+description: "Longform narrative improv show produced by Gnap!"
 image: "File/Dusk%20Image.jpg"
 ---
 <div>

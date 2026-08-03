@@ -1,5 +1,5 @@
 ---
-description: "(often referred to by the nickname Kids on Bikes) was..."
+description: "Hideout mainstage show that drew inspiration from kid-oriented ensemble action/sci-fi/horror..."
 image: "File/KidsOnBikes.jpg"
 ---
 <div>

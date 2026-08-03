@@ -1,5 +1,5 @@
 ---
-description: "(the symbols can vary) was the first student mainstage production..."
+description: "First student mainstage production at The Hideout Theatre."
 image: "File/What%20the%20F%40%24.jpg"
 ---
 <div>

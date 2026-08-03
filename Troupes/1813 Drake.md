@@ -1,5 +1,5 @@
 ---
-description: "An improv duo (with one cast change)."
+description: "An improv duo ."
 ---
 <div>
 	<table class="infobox infobox-troupe">

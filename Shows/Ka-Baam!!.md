@@ -1,4 +1,5 @@
 ---
+description: "Mainstage show at The Hideout Theatre."
 image: "File/Ka-Baam%21%21%20Logo.png"
 ---
 <div>

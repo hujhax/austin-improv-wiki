@@ -1,4 +1,5 @@
 ---
+description: "Hideout mainstage improvised musicals about plucky orphans at the turn..."
 image: "File/orphans.jpg"
 ---
 <div>

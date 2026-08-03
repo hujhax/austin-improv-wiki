@@ -1,5 +1,5 @@
 ---
-description: "An improv show based around a (real-life) team-based weight-loss competition."
+description: "An improv show based around a team-based weight-loss competition."
 image: "File/Thinning%20the%20Herd.jpg"
 ---
 <div>

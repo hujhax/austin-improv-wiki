@@ -1,5 +1,5 @@
 ---
-description: "(original title: I'll Be Home for Christmas) will be the..."
+description: "Will be the December 2015 student mainstage production at The..."
 image: "File/I%27ll%20Be%20Home%20for%20Christmas.jpg"
 ---
 <div>

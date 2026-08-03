@@ -1,5 +1,5 @@
 ---
-description: "Mr."
+description: "An improv duo."
 image: "File/Mr.%20and%20Mrs.%20Danger.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "Danger!"
+description: "An improv duo that focuses on fast-paced, high-production-value narrative genre..."
 image: "File/Danger%21%20Warning%21%20Improv%21.jpg"
 ---
 <div>

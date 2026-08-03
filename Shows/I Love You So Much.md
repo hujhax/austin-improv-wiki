@@ -1,5 +1,5 @@
 ---
-description: "(full title: I Love You So Much: Improvised Stories of..."
+description: "Mainstage show at The Hideout Theatre about love, with a..."
 image: "File/I%20Love%20You%20So%20Much.jpg"
 ---
 <div>

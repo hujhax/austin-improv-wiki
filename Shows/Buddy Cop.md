@@ -1,5 +1,5 @@
 ---
-description: "(full title: Buddy Cop: Metro City Nights) was a Hideout..."
+description: "Hideout student mainstage show inspired by 80s cop TV shows."
 image: "File/buddycop.jpg"
 ---
 <div>

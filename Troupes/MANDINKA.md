@@ -1,5 +1,5 @@
 ---
-description: "(often written in all caps: MANDINKA) is a duo consisting..."
+description: "Duo consisting of Mia Iseman and Andrew Buck."
 image: "File/Mandinka.jpg"
 ---
 <div>

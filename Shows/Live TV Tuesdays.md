@@ -1,5 +1,5 @@
 ---
-description: "(formerly known as Teen Angst Tuesdays) were a series of..."
+description: "Series of theatrical presentations put on by The Institution Theater..."
 image: "File/Live%20TV%20Tuesdays.jpg"
 ---
 <div>

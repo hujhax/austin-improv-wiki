@@ -1,5 +1,5 @@
 ---
-description: "(often abbreviated to Pgraph) is a theatre company in Austin,..."
+description: "Theatre company in Austin, TX that specializes in improvising plays."
 image: "File/Pgraph%20goodman.jpg"
 ---
 <div>

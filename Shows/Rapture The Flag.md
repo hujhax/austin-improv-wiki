@@ -1,5 +1,5 @@
 ---
-description: "(AKA No Holes Bear'd) was a comedy revue at ColdTowne..."
+description: "Comedy revue at ColdTowne Theater themed around the Rapture."
 image: "File/Rapture%20the%20Flag.jpg"
 ---
 <div>

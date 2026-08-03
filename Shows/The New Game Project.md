@@ -1,5 +1,5 @@
 ---
-description: "(AKA The New Game People) is a shortform show that..."
+description: "Shortform show that generates shortform formats based on audience suggestions."
 image: "File/The%20New%20Game%20Project%20Pic.jpg"
 ---
 <div>

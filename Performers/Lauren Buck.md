@@ -1,5 +1,5 @@
 ---
-description: "(née Lauren Zinn) is an improv performer, director, and teacher."
+description: "An improv performer, director, and teacher."
 image: "File/Lauren%20Buck%20Pic.jpg"
 ---
 <div>

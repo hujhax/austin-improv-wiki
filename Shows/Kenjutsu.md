@@ -1,5 +1,5 @@
 ---
-description: "(full title: Kenjutsu: The Art of the Sword) was a..."
+description: "Mainstage show at The Hideout Theatre that was inspired by..."
 image: "File/Kenjutsu.jpg"
 ---
 <div>

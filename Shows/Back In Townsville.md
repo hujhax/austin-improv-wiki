@@ -1,5 +1,5 @@
 ---
-description: "(full name: Back In Townsville: Townsville Community Center) was a..."
+description: "Scripted comedic play written by members of Nice Astronaut, written..."
 ---
 <div>
 	<table class="infobox infobox-show">

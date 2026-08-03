@@ -1,5 +1,5 @@
 ---
-description: "(more commonly known simply as Orf) is an improv and..."
+description: "An improv and sketch comedy performer currently based in Austin,..."
 image: "File/Christopher%20Orf%20Pic.jpg"
 ---
 <div>

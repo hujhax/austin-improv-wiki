@@ -1,5 +1,5 @@
 ---
-description: "(full name: Kevlar: We're Bulletproof) is an improv duo."
+description: "An improv duo."
 image: "File/Kevlar.jpg"
 ---
 <div>

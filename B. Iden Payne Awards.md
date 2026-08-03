@@ -1,5 +1,5 @@
 ---
-description: "The B."
+description: "The B. Iden Payne Awards are annual awards for local..."
 ---
 The **B. Iden Payne Awards** are annual awards for local theater in Austin.
 

@@ -1,5 +1,5 @@
 ---
-description: "James C."
+description: "An improv performer who works primarily with The Institution Theatre."
 image: "File/James%20C.%20Leary.jpg"
 ---
 <div>

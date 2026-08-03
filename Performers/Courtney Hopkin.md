@@ -1,5 +1,5 @@
 ---
-description: "(AKA Courtney Salinas) is an improv performer."
+description: "An improv performer."
 image: "File/Courtney%20Hopkin%20Pic.jpg"
 ---
 <div>

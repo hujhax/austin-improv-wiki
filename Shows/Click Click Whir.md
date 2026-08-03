@@ -1,5 +1,5 @@
 ---
-description: "(full title: Click Click Whir: A Rhythmic Steampunk Adventure) was..."
+description: "Hideout student mainstage show."
 image: "File/clickclickwhir.jpg"
 ---
 <div>

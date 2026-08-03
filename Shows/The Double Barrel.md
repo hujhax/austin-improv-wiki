@@ -1,5 +1,5 @@
 ---
-description: "(formerly The Twofer and The Style Show) was a performance..."
+description: "Performance slot at The Hideout Theatre."
 image: "File/The%20Double%20Barrel.png"
 ---
 <div>

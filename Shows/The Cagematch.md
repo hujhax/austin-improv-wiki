@@ -1,5 +1,5 @@
 ---
-description: "(AKA Cage Match, Cagematch) is a competitive performance slot at..."
+description: "Competitive performance slot at ColdTowne Theater in which two to..."
 image: "File/The%20Cagematch.jpg"
 ---
 <div>

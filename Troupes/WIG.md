@@ -1,5 +1,5 @@
 ---
-description: "(also stylized W.I.G."
+description: "Group of female improvisers performing in Austin."
 image: "File/WIG.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(full title Beautiful Warlock Presents: Big Beautiful Warriors) is a..."
+description: "Monthly late-night show that is structured as a traditional game..."
 image: "File/Big%20Beautiful%20Warriors.jpg"
 ---
 <div>

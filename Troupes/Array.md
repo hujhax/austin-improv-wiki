@@ -1,5 +1,5 @@
 ---
-description: "(formerly Arkay) is an improv troupe."
+description: "An improv troupe."
 image: "File/Arkay.jpg"
 ---
 <div>

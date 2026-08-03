@@ -1,5 +1,5 @@
 ---
-description: "Fat."
+description: "One-off Cagematch team."
 image: "File/Fat.%20Gay.%20Jewish.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(typically written all-caps: JOY) was an improv troupe."
+description: "An improv troupe."
 image: "File/Joy.jpg"
 ---
 <div>

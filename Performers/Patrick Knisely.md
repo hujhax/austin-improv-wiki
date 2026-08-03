@@ -1,5 +1,5 @@
 ---
-description: "(/ˈnaɪzliː/) is an improv performer and instructor who works primarily..."
+description: "An improv performer and instructor who works primarily with The..."
 image: "File/Patrick%20Knisely%20Pic.jpg"
 ---
 <div>

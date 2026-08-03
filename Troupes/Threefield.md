@@ -1,5 +1,5 @@
 ---
-description: "(AKA John Frum Day) was an improv troupe."
+description: "An improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

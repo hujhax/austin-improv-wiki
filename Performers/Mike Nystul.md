@@ -1,5 +1,5 @@
 ---
-description: "(AKA Alex Gray) is an improv performer and director."
+description: "An improv performer and director."
 image: "File/Mike%20Nystul%20Pic.jpg"
 ---
 <div>

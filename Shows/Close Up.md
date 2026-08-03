@@ -1,5 +1,5 @@
 ---
-description: "(original working title: Single Camera Comedy) was the August 2015..."
+description: "August 2015 student mainstage production at The Hideout Theatre."
 image: "File/Close%20Up.jpg"
 ---
 <div>

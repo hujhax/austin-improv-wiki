@@ -1,5 +1,5 @@
 ---
-description: "(/ˈjɑːnɪk/; AKA Roy Danger) is an improv performer, teacher, and..."
+description: "An improv performer, teacher, and director."
 image: "File/Roy%20Janik.jpg"
 ---
 <div>

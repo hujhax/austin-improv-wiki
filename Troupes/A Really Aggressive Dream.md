@@ -1,5 +1,5 @@
 ---
-description: "(often shortened to ARAD) is an improv troupe."
+description: "An improv troupe."
 image: "File/A%20Really%20Aggressive%20Dream.jpg"
 ---
 <div>

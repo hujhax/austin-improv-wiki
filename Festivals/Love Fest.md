@@ -1,5 +1,5 @@
 ---
-description: "(AKA Lovefest) is an annual improvised longform show based on..."
+description: "An annual improvised longform show based on the theme of..."
 ---
 <div>
 	<table class="infobox infobox-show">

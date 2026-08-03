@@ -1,5 +1,5 @@
 ---
-description: "(often written with a trailing ellipsis: Only Three Will Survive...)..."
+description: "Mainstage show at The Institution Theater."
 image: "File/Only%20Three%20Will%20Survive.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(often written with an exclamation point: Pawnshp Marmba!) is an..."
+description: "An improv duo."
 ---
 <div>
 	<table class="infobox infobox-troupe">

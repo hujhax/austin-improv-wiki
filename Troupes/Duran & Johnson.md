@@ -1,5 +1,5 @@
 ---
-description: "Duran & Johsnon (originally Heather Has Two Oprahs) is an..."
+description: "Duran & Johsnon is an improv duo."
 image: "File/Duran%20%26%20Johsnon.jpg"
 ---
 <div>

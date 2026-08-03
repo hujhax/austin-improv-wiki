@@ -1,5 +1,5 @@
 ---
-description: "(né Jeremy Lamb) is an improv performer, director, and teacher."
+description: "An improv performer, director, and teacher."
 image: "File/Jeremy%20Sweetlamb%20Pic.jpg"
 ---
 <div>

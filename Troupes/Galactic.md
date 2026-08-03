@@ -1,5 +1,5 @@
 ---
-description: "(formerly Battlestar Gillacktucka) is an improv duo consisting of Josh..."
+description: "An improv duo consisting of Josh Gill and Lisa Jackson."
 image: "File/Galactic.jpg"
 ---
 <div>

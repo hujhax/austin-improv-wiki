@@ -1,5 +1,5 @@
 ---
-description: "(Cené Hale) is an actress known for performances with ColdTowne..."
+description: "An actress known for performances with ColdTowne Theater and The..."
 image: "File/Cene%20pic.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(AKA The Thursday Threefer; formerly Threefer Madness) is a performance..."
+description: "Performance slot at The Hideout Theatre."
 image: "File/Threefer%20Publicity.jpg"
 ---
 <div>

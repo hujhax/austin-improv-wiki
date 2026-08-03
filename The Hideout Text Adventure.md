@@ -1,5 +1,5 @@
 ---
-description: "(actual title: The Hideout Theatre Adventures: Quest for the Secret..."
+description: "An interactive-fiction game that takes place in and around the..."
 image: "File/Hideout%20Text%20Adventure%20Gamplay.jpg"
 ---
 ![Sample gameplay from The Hideout Text Adventure.](/File/Hideout%20Text%20Adventure%20Gamplay.jpg)

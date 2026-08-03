@@ -1,5 +1,5 @@
 ---
-description: "(/ˈbɑːdrə/) is an improv performer, director, and teacher."
+description: "An improv performer, director, and teacher."
 image: "File/Kareem%20Badr%20Pic.jpg"
 ---
 <div>

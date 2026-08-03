@@ -1,5 +1,5 @@
 ---
-description: "(formerly The Out of Bounds Improv Festival) is an annual..."
+description: "An annual comedy festival that occurs during and around Labor..."
 ---
 **The Out of Bounds Comedy Festival** (formerly **The Out of Bounds Improv Festival**) is an annual comedy festival that occurs during and around Labor Day weekend.
 

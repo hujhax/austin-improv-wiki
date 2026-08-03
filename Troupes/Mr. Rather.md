@@ -1,5 +1,5 @@
 ---
-description: "Mr."
+description: "An improv duo."
 ---
 <div>
 	<table class="infobox infobox-troupe">

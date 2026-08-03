@@ -1,5 +1,5 @@
 ---
-description: "(also written Lunchpail) is a ColdTowne improv troupe."
+description: "ColdTowne improv troupe."
 image: "File/Lunch%20Pail.jpg"
 ---
 <div>

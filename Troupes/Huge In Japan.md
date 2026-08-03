@@ -1,5 +1,5 @@
 ---
-description: "(often written all-caps: HUGE IN JAPAN) was an improv troupe."
+description: "An improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

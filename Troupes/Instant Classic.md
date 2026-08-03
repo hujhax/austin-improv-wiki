@@ -1,5 +1,5 @@
 ---
-description: "(AKA Instant Classic of America) is an improv duo."
+description: "An improv duo."
 ---
 <div>
 	<table class="infobox infobox-troupe">

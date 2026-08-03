@@ -1,5 +1,5 @@
 ---
-description: "Tom (piano, keyboards) and his partner Carol moved to Austin..."
+description: "Tom and his partner Carol moved to Austin July 2016..."
 ---
 Tom (piano, keyboards) and his partner Carol moved to Austin July 2016 from Chicago. 
 He was in the music director program at Second City for a year, playing for classes at all levels.

@@ -1,5 +1,5 @@
 ---
-description: "(full name: Florida Room: Improvised Golden Girls) was an improv..."
+description: "An improv troupe that did shows inspired by the 1980s..."
 image: "File/Florida%20Room.jpg"
 ---
 <div>

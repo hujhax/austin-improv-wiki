@@ -1,5 +1,5 @@
 ---
-description: "Jordan T."
+description: "An actor and director of both improvised and scripted works,..."
 image: "File/Jordan%20T.%20Maxwell%20Pic.jpg"
 ---
 <div>

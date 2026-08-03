@@ -1,5 +1,5 @@
 ---
-description: "(formerly Ann Nelson) is an improv performer."
+description: "An improv performer."
 image: "File/Ann%20Symmonds%20Pic.jpg"
 ---
 <div>

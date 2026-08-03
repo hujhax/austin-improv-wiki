@@ -1,3 +1,6 @@
+---
+description: "An improv troupe composed of members from several theaters and..."
+---
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>

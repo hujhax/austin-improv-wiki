@@ -1,5 +1,5 @@
 ---
-description: "(formerly Austin Theatresports and We Could Be Heroes) was the..."
+description: "House improv troupe of The Hideout Theatre during its first..."
 image: "File/The%20Heroes%20of%20Comedy.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "Hello."
+description: "Hello. And Bye."
 ---
 Hello. And Bye.
 

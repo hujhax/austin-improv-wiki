@@ -1,5 +1,5 @@
 ---
-description: "(full title: Things You Love, The Musical) is a Hideout..."
+description: "Hideout student mainstage musical told from the perspective of beloved..."
 image: "File/Things%20You%20Love.jpg"
 ---
 <div>

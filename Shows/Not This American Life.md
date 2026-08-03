@@ -1,5 +1,5 @@
 ---
-description: "(original title: This American Live) was a variety show that..."
+description: "Variety show that explores a topic via scripted and improvised..."
 image: "File/Not%20This%20American%20Life.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(originally spelled Micetro) is a competitive short-form improv format."
+description: "Competitive short-form improv format."
 image: "File/Default%20Maestro%20Image.jpg"
 ---
 <div>

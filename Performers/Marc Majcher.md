@@ -1,5 +1,5 @@
 ---
-description: "(/ˈmeɪtʃər/) is an improv performer, director, and teacher."
+description: "An improv performer, director, and teacher."
 image: "File/Marc%20Majcher%20Pic.jpg"
 ---
 <div>

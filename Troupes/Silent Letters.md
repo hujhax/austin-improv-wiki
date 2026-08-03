@@ -1,5 +1,5 @@
 ---
-description: "(formerly Men in Chrissy's Life) is an improv troupe."
+description: "An improv troupe."
 ---
 <div>
 	<table class="infobox infobox-troupe">

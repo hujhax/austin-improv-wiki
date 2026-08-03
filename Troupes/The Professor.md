@@ -1,5 +1,5 @@
 ---
-description: "(full name: The Professor: Improv Inspired by Doctor Who) is..."
+description: "Narrative improv troupe that presents improv in the style of..."
 image: "File/The%20Professor.jpg"
 ---
 <div>

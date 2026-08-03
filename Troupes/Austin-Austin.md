@@ -1,5 +1,5 @@
 ---
-description: "(said Austin and Austin) is a duo of friends Ryan..."
+description: "Duo of friends Ryan Austin and Quinn Buckner with the..."
 image: "File/AustinAustinPromo.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(formerly Movie Versus Movie) is a improv team that specializes..."
+description: "Improv team that specializes in the [movie format]] at ColdTowne..."
 image: "File/Movie%20Riot.jpg"
 ---
 <div>

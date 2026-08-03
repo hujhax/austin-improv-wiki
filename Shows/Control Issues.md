@@ -1,5 +1,5 @@
 ---
-description: "(previous titles: Pick Your Own Path, Choose Your Own Adventure)..."
+description: "Hideout Theatre's monthly Friday-night show based on Choose Your Own..."
 image: "File/Control%20Issues.jpg"
 ---
 <div>

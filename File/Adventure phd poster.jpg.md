@@ -1,5 +1,5 @@
 ---
-description: "Adventure PhD poster (photos by Steve Rogers, design by Kaci..."
+description: "Adventure PhD poster."
 ---
 <div style="text-align: center;"><img src="Adventure phd poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

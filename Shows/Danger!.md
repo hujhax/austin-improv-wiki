@@ -1,4 +1,5 @@
 ---
+description: "An improvised longform narrative inspired by Lifetime movies."
 image: "File/Danger.jpg"
 ---
 <div>

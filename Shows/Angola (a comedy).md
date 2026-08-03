@@ -1,5 +1,5 @@
 ---
-description: "Mainstage improv show about XXX."
+description: "Angola was a mainstage improv show about XXX."
 image: "File/TBD.jpg"
 ---
 <div>

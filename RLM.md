@@ -1,5 +1,5 @@
 ---
-description: "(AKA Robert Lee Moore Hall) is a building on the..."
+description: "Building on the University of Texas campus frequently used for..."
 ---
 **RLM** (AKA **Robert Lee Moore Hall**) is a building on the University of Texas campus frequently used for improv rehearsals.
 

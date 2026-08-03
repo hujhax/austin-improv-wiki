@@ -1,5 +1,5 @@
 ---
-description: "(/ˈluːtʃiːˌɑːniː/) is an improv performer and director."
+description: "An improv performer and director."
 image: "File/Curtis%20Luciani%20Pic.jpg"
 ---
 <div>

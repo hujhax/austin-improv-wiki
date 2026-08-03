@@ -1,5 +1,5 @@
 ---
-description: "(formerly The Sunday Showcase) is a performance slot at The..."
+description: "Performance slot at The Hideout Theatre that provides stage time..."
 image: "File/Weekender%20Publicity.jpg"
 ---
 <div>

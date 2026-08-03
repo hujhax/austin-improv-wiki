@@ -1,5 +1,5 @@
 ---
-description: "(full title: Steam, Rose-Colored Goggles, and the Flight of the..."
+description: "Serialized narrative longform show that had set characters from week..."
 image: "File/Steam.jpg"
 ---
 <div>

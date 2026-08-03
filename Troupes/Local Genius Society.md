@@ -1,5 +1,5 @@
 ---
-description: "."
+description: ". Each object on the crest represents a member of..."
 image: "File/Lgs%20grouphug.jpg"
 ---
 <div>

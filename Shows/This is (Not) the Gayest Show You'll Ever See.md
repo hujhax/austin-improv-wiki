@@ -1,5 +1,5 @@
 ---
-description: "Mainstage sketch show about XXX."
+description: "This is the Gayest Show You'll Ever See was a..."
 image: "File/TBD.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "Musical improv troupe."
+description: "Beans Beans was a musical improv troupe."
 image: "File/Beans%20Beans%20%28the%20musical%20troupe%29.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(AKA A Bride Soon) was an improv duo."
+description: "An improv duo."
 image: "File/I%20Snood%20Bear.jpg"
 ---
 <div>

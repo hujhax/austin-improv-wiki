@@ -1,5 +1,5 @@
 ---
-description: "(full name: Revlis: Improv..."
+description: "Solo improv act featuring Kristin Firth as a time-traveller from..."
 image: "File/Revlis.jpg"
 ---
 <div>

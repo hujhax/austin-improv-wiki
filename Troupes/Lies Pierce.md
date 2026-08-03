@@ -1,5 +1,5 @@
 ---
-description: "(AKA Erica and Pierce) was an improv duo."
+description: "An improv duo."
 ---
 <div>
 	<table class="infobox infobox-troupe">

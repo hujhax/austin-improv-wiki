@@ -1,5 +1,5 @@
 ---
-description: "Gnap!"
+description: "Theater production company that, between 2008 and 2012, produced improv..."
 ---
 Gnap! Theater Projects is a theater production company that, between 2008 and 2012, produced improv shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 

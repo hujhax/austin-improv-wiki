@@ -1,5 +1,5 @@
 ---
-description: "Timothy (Tim) Coyle is an improv performer and member of..."
+description: "An improv performer and member of the troupe Character Explosion..."
 image: "File/timcoyle.jpg"
 ---
 <div>

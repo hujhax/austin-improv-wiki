@@ -1,5 +1,5 @@
 ---
-description: "(often written all-caps: \"BRAIN TRUST\") is an improv troupe."
+description: "An improv troupe."
 image: "File/Brain%20Trust.jpg"
 ---
 <div>

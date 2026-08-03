@@ -1,5 +1,5 @@
 ---
-description: "(formerly Teen Improv Night) is a monthly show/mixer at ColdTowne..."
+description: "Monthly show/mixer at ColdTowne Theater."
 image: "File/Teen%20Improv%20Night.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "(AKA DewBuck) was an improv duo."
+description: "An improv duo."
 image: "File/Lane%20and%20Jane.jpg"
 ---
 <div>

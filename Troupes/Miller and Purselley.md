@@ -1,5 +1,5 @@
 ---
-description: "(originally Nat and Pierce) are an improv duo consisting of..."
+description: "An improv duo consisting of ColdTowne faculty members Nat Miller..."
 image: "File/Miller%20and%20Purselley.jpg"
 ---
 <div>
