@@ -4,7 +4,7 @@ description: "== Summary ==."
 <div style="text-align: center;"><img src="710 Split.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity photo of [[710 Split]].
+Publicity photo of [[Troupes/710 Split|710 Split]].
 
 Photo by Noelene Clark.
 
