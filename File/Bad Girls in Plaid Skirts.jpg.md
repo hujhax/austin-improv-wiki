@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity banner for Bad Girls in Plaid Skirts."
 ---
 <div style="text-align: center;"><img src="Bad Girls in Plaid Skirts.jpg" style="max-width: 100%; height: auto;" /></div>
 

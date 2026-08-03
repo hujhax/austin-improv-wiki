@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo submitted for Gravy's 2014 reunion show."
 ---
 <div style="text-align: center;"><img src="GravyReunion.jpg" style="max-width: 100%; height: auto;" /></div>
 

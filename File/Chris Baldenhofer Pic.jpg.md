@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Chris Baldenhofer, in the 9/30/11 performance of After School Special..."
 ---
 <div style="text-align: center;"><img src="Chris Baldenhofer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Eye for an iPhone."
 ---
 <div style="text-align: center;"><img src="Eye for an iPhone.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Galactic."
 ---
 <div style="text-align: center;"><img src="Galactic.jpg" style="max-width: 100%; height: auto;" /></div>
 

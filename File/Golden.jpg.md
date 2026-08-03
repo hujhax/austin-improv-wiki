@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Golden, featuring Tyler Lane in a homage to..."
 ---
 <div style="text-align: center;"><img src="Golden.jpg" style="max-width: 100%; height: auto;" /></div>
 

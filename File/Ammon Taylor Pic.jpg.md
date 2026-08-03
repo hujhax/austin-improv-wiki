@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ammon Taylor, warming up for Same Year's Eve 12/30/12."
 ---
 <div style="text-align: center;"><img src="Ammon Taylor Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

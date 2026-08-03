@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder image for Vampire High School."
 ---
 <div style="text-align: center;"><img src="Vampire High School Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

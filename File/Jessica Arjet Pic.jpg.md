@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jessica Arjet performing with In Our Prime at the Oklahoma..."
 ---
 <div style="text-align: center;"><img src="Jessica Arjet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

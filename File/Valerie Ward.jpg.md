@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Valerie Ward, performing in the premiere of The Tribunal on..."
 ---
 <div style="text-align: center;"><img src="Valerie Ward.jpg" style="max-width: 100%; height: auto;" /></div>
 

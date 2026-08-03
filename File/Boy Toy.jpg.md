@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Boy Toy."
 ---
 <div style="text-align: center;"><img src="Boy Toy.jpg" style="max-width: 100%; height: auto;" /></div>
 

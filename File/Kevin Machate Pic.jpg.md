@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kevin Machate, appearing as Dr."
 ---
 <div style="text-align: center;"><img src="Kevin Machate Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

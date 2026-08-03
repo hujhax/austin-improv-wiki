@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Default image for Maestro."
 ---
 <div style="text-align: center;"><img src="Default Maestro Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

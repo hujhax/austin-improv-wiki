@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for The Narrative Improv Jam."
 ---
 <div style="text-align: center;"><img src="The Narrative Improv Jam.jpg" style="max-width: 100%; height: auto;" /></div>
 

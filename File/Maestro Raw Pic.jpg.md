@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional image for Maestro Raw."
 ---
 <div style="text-align: center;"><img src="Maestro Raw Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

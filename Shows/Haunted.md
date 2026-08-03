@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the Salvage Vanguard graduation show run..."
+description: "This page refers to the Salvage Vanguard graduation show run..."
 image: "File/Haunted%20Poster.jpg"
 ---
 <div>

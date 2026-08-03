@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Patrick Knisely, in the 10/2/11 performance of \"Puppet Katamari\" by..."
 ---
 <div style="text-align: center;"><img src="Patrick Knisely Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Local Genius Society performing at the 2012 WaffleFest."
 ---
 <div style="text-align: center;"><img src="Local Genius Society.jpg" style="max-width: 100%; height: auto;" /></div>
 

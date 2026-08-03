@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Beware of Female Spies."
 ---
 <div style="text-align: center;"><img src="Beware of Female Spies.jpg" style="max-width: 100%; height: auto;" /></div>
 

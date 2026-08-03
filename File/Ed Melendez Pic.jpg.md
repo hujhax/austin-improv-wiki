@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ed Melendez, performing with Oh, Science!"
 ---
 <div style="text-align: center;"><img src="Ed Melendez Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

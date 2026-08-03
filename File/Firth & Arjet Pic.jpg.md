@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Firth & Arjet perform their \"Always a Bridesmaid\" format in..."
 ---
 <div style="text-align: center;"><img src="Firth & Arjet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

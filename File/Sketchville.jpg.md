@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Opening title card for Sketchville."
 ---
 <div style="text-align: center;"><img src="Sketchville.jpg" style="max-width: 100%; height: auto;" /></div>
 

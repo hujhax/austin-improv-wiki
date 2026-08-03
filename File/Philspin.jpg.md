@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Philip Aulie taken by Kaci Beeler."
 ---
 <div style="text-align: center;"><img src="Philspin.jpg" style="max-width: 100%; height: auto;" /></div>
 

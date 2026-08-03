@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Buckets of Buckets."
 ---
 <div style="text-align: center;"><img src="Buckets of Buckets.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Owen Egerton's headshot from his imdb page."
 ---
 <div style="text-align: center;"><img src="Owen Egerton Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bob McNichol, performing with The Frank Mills in The 2010..."
 ---
 <div style="text-align: center;"><img src="Bob McNichol Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

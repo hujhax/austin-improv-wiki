@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for City High."
 ---
 <div style="text-align: center;"><img src="City High.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Caeriel Crestin, in the 5/26/12 performance of Rock."
 ---
 <div style="text-align: center;"><img src="Caeriel Crestin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

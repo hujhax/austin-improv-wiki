@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lauren Buck and Dan O'Connor play in a talk-show game..."
 ---
 <div style="text-align: center;"><img src="Gorilla Theater Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

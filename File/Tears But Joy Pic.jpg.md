@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Tears But Joy."
 ---
 <div style="text-align: center;"><img src="Tears But Joy Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jordan T. Maxwell comforts Cat Drago in the premiere of..."
 ---
 <div style="text-align: center;"><img src="The tribunal.jpg" style="max-width: 100%; height: auto;" /></div>
 

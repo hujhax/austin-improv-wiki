@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "B-Team, performing in The Triple Scoop on 10/5/13."
 ---
 <div style="text-align: center;"><img src="B-Team.jpg" style="max-width: 100%; height: auto;" /></div>
 

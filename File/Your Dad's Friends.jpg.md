@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "YDF logo, taken from the group's facebook page."
 ---
 <div style="text-align: center;"><img src="Your Dad's Friends.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Space Swank hanging out together before their first troupe show..."
 ---
 <div style="text-align: center;"><img src="Space swank.jpg" style="max-width: 100%; height: auto;" /></div>
 

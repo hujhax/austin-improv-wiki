@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kayla Lane Freeman, in the 7/27/12 performance of Pocketful of..."
 ---
 <div style="text-align: center;"><img src="Kayla Lane Freeman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

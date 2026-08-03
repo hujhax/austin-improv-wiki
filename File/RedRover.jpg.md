@@ -1,6 +1,3 @@
----
-description: "== Licensing ==."
----
 <div style="text-align: center;"><img src="RedRover.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Licensing

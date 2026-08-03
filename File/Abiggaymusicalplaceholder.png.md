@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "(placeholder graphic for A Big Gay Musical."
 ---
 <div style="text-align: center;"><img src="Abiggaymusicalplaceholder.png" style="max-width: 100%; height: auto;" /></div>
 

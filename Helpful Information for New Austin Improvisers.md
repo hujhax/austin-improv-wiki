@@ -1,5 +1,5 @@
 ---
-description: "* Austin Improv Forums."
+description: "Austin Improv Forums."
 ---
 * [[Austin Improv Forums]]
 * [[Lists/List of Austin Improv Theaters|List of Austin Improv Theaters]]

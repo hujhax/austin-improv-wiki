@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jordan T. Maxwell wielding The Skull on a Stick in..."
 ---
 <div style="text-align: center;"><img src="Skull on a Stick Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

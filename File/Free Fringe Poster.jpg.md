@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Free Fringe."
 ---
 <div style="text-align: center;"><img src="Free Fringe Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

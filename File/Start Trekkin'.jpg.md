@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Nicole Beckley carries the classic \"Enterprise-on-a-stick\" during the opening sequence..."
 ---
 <div style="text-align: center;"><img src="Start Trekkin'.jpg" style="max-width: 100%; height: auto;" /></div>
 

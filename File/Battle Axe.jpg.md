@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Mo Daviau and Aden Kirschner perform as Battle Axe in..."
 ---
 <div style="text-align: center;"><img src="Battle Axe.jpg" style="max-width: 100%; height: auto;" /></div>
 

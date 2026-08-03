@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "John Buseman, performing with Blink in The Saturday Night Special..."
 ---
 <div style="text-align: center;"><img src="John Buseman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

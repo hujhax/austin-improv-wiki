@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Cindy Page, in the booth for The Black Vault on..."
 ---
 <div style="text-align: center;"><img src="Cindy Page Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

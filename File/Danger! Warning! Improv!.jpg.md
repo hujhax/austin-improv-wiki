@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Andy Crouch and Troy Miller as Danger!"
 ---
 <div style="text-align: center;"><img src="Danger! Warning! Improv!.jpg" style="max-width: 100%; height: auto;" /></div>
 

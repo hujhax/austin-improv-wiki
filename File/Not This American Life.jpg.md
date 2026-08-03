@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for the 2013 run of Not This American..."
 ---
 <div style="text-align: center;"><img src="Not This American Life.jpg" style="max-width: 100%; height: auto;" /></div>
 

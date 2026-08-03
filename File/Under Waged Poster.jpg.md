@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for the Kosher Bacon show Under Waged."
 ---
 <div style="text-align: center;"><img src="Under Waged Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

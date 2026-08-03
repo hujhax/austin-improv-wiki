@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Ammie Nicole Leonards for Live TV Tuesdays:..."
 ---
 <div style="text-align: center;"><img src="Ammie Nicole Leonards Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

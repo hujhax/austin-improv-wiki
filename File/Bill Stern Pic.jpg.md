@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bill Stern, performing in hour 30 of The 41-Hour Improv..."
 ---
 <div style="text-align: center;"><img src="Bill Stern Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

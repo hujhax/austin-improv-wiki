@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for the May 2010 mainstage run by Turn..."
 ---
 <div style="text-align: center;"><img src="Turn of the Century Paris.jpg" style="max-width: 100%; height: auto;" /></div>
 

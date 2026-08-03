@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Topping Haggerty, during warm-ups for Same Year's Eve on 12/30/12."
 ---
 <div style="text-align: center;"><img src="Topping Haggerty Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

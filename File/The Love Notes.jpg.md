@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Love Notes take their final bow with troupe member..."
 ---
 <div style="text-align: center;"><img src="The Love Notes.jpg" style="max-width: 100%; height: auto;" /></div>
 

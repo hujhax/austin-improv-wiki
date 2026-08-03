@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The program for Live TV Tuesdays: Scrubs."
 ---
 <div style="text-align: center;"><img src="ScrubsProgram.jpeg" style="max-width: 100%; height: auto;" /></div>
 

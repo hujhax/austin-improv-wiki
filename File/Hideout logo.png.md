@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Logo of the Hideout Theatre."
 ---
 <div style="text-align: center;"><img src="Hideout logo.png" style="max-width: 100%; height: auto;" /></div>
 

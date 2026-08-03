@@ -1,5 +1,5 @@
 ---
-description: ": This page refers to the competitive short-form improv show..."
+description: "This page refers to the competitive short-form improv show that's..."
 image: "File/TheatreSports.jpg"
 ---
 <div>

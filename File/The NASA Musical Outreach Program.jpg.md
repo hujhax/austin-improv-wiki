@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Patrick Daniel and Ryan Thomas, performing in character as The..."
 ---
 <div style="text-align: center;"><img src="The NASA Musical Outreach Program.jpg" style="max-width: 100%; height: auto;" /></div>
 

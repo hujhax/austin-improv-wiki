@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for \"Pocketful of Posies,\" designed by Michael Ferstenfeld."
 ---
 <div style="text-align: center;"><img src="Posies.jpg" style="max-width: 100%; height: auto;" /></div>
 

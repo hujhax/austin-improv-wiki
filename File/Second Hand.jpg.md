@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Second Hand, performing in The Threefer on 12/2/10."
 ---
 <div style="text-align: center;"><img src="Second Hand.jpg" style="max-width: 100%; height: auto;" /></div>
 

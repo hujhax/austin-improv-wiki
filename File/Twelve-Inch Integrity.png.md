@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Twelve-Inch Integrity."
 ---
 <div style="text-align: center;"><img src="Twelve-Inch Integrity.png" style="max-width: 100%; height: auto;" /></div>
 

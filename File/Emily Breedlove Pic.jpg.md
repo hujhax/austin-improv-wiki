@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Emily Breedlove, performing in the sixth night of Steam, on..."
 ---
 <div style="text-align: center;"><img src="Emily Breedlove Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

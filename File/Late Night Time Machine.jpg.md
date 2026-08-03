@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Teddy Hancox and his PA in the 9/5/14 performance of..."
 ---
 <div style="text-align: center;"><img src="Late Night Time Machine.jpg" style="max-width: 100%; height: auto;" /></div>
 

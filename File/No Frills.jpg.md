@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "No Frills unofficially debuting at a special outdoor edition of..."
 ---
 <div style="text-align: center;"><img src="No Frills.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Katie Thornton, performing in Totally Improvised, 90210 on 8/12/11."
 ---
 <div style="text-align: center;"><img src="Katie Thornton Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

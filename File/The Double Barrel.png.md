@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Double Barrel."
 ---
 <div style="text-align: center;"><img src="The Double Barrel.png" style="max-width: 100%; height: auto;" /></div>
 

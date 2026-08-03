@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Jay Mahavier for Fiasco."
 ---
 <div style="text-align: center;"><img src="Jay Mahavier Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

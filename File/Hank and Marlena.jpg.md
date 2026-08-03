@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Tyler Reece Booker and Taylor Overstreet as Hank..."
 ---
 <div style="text-align: center;"><img src="Hank and Marlena.jpg" style="max-width: 100%; height: auto;" /></div>
 

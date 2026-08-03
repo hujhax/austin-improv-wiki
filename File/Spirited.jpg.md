@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Spirited, depicting \"Alices\" Halyn Lee Erickson and..."
 ---
 <div style="text-align: center;"><img src="Spirited.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lisa Jackson performing with Galactic at The 2012 Out of..."
 ---
 <div style="text-align: center;"><img src="Lisa Jackson.jpg" style="max-width: 100%; height: auto;" /></div>
 

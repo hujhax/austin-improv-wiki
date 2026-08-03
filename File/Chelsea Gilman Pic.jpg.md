@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Chelsea Gilman, in the 1/23/10 performance of One More Night."
 ---
 <div style="text-align: center;"><img src="Chelsea Gilman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

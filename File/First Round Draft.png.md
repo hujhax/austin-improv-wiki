@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "First Round Draft logo, taken from the troupe web site."
 ---
 <div style="text-align: center;"><img src="First Round Draft.png" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Wafflefest logo; a variation on the Hideout Theatre's logo."
 ---
 <div style="text-align: center;"><img src="Wafflefest Logo.png" style="max-width: 100%; height: auto;" /></div>
 

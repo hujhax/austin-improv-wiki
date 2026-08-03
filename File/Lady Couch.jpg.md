@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lady Couch performing at The Saturday Night Special on 4/9/11."
 ---
 <div style="text-align: center;"><img src="Lady Couch.jpg" style="max-width: 100%; height: auto;" /></div>
 

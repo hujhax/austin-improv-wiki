@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A promotional image for the 2012 Wafflefest."
 ---
 <div style="text-align: center;"><img src="Wafflefest ad.jpg" style="max-width: 100%; height: auto;" /></div>
 

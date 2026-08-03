@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Flyer for The Heroes of Comedy for Jan/Feb 2000, featuring..."
 ---
 <div style="text-align: center;"><img src="The Heroes of Comedy.jpg" style="max-width: 100%; height: auto;" /></div>
 

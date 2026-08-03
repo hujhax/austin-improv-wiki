@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kayla Lane Freeman, performing in The Fancy-Pants Mashup on 4/6/12."
 ---
 <div style="text-align: center;"><img src="Kaylalane.png" style="max-width: 100%; height: auto;" /></div>
 

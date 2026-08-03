@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Casual photo of Chrissy Shackelford."
 ---
 <div style="text-align: center;"><img src="Chrissy Shackelford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

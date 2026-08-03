@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Program for Live TV Tuesdays: Dawson's Creek."
 ---
 <div style="text-align: center;"><img src="DawsonsProgram.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Online promo image for Orphans!."
 ---
 <div style="text-align: center;"><img src="Orphans.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Golden silently asks for a suggestion in The Knockout semifinals..."
 ---
 <div style="text-align: center;"><img src="Golden (troupe).jpg" style="max-width: 100%; height: auto;" /></div>
 

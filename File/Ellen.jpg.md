@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ellen Pizarek performing in the Saturday Night Special with troupe..."
 ---
 <div style="text-align: center;"><img src="Ellen.jpg" style="max-width: 100%; height: auto;" /></div>
 

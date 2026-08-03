@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Les McGehee, from the 8/13/10 performance of Crack!"
 ---
 <div style="text-align: center;"><img src="Les McGehee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

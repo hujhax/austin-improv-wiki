@@ -127,6 +127,12 @@ a {
       fill: var(--dark);
     }
   }
+
+  &.external.link-404 .external-icon {
+    > path {
+      fill: #ff4d4d !important;
+    }
+  }
 }
 
 .flex-component {

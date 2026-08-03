@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Curtis Luciani, performing with The Amazon and the Milksop at..."
 ---
 <div style="text-align: center;"><img src="Curtis Luciani Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "This is the standard logo for Girls Girls Girls Improvised..."
 ---
 <div style="text-align: center;"><img src="GGG-Logo G.jpg" style="max-width: 100%; height: auto;" /></div>
 

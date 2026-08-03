@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Heath Allyn at the first annual Institution Theater Awards."
 ---
 <div style="text-align: center;"><img src="Heath-vip.jpg" style="max-width: 100%; height: auto;" /></div>
 

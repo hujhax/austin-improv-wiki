@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Awkwards, posing just before their 5/9/13 premiere."
 ---
 <div style="text-align: center;"><img src="The Awkwards.jpg" style="max-width: 100%; height: auto;" /></div>
 

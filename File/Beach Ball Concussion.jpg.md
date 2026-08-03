@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Beach Ball Concussion."
 ---
 <div style="text-align: center;"><img src="Beach Ball Concussion.jpg" style="max-width: 100%; height: auto;" /></div>
 

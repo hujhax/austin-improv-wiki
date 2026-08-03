@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Austin Playback Theatre."
 ---
 <div style="text-align: center;"><img src="Austin Playback Theatre.jpg" style="max-width: 100%; height: auto;" /></div>
 

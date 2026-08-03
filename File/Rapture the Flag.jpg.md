@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Rapture the Flag."
 ---
 <div style="text-align: center;"><img src="Rapture the Flag.jpg" style="max-width: 100%; height: auto;" /></div>
 

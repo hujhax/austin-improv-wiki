@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jeanette Jones performing in Bad Girls in Plaid Skirts on..."
 ---
 <div style="text-align: center;"><img src="Jeanette Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

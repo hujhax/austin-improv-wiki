@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of David Schwartz for Reform School for Wayward..."
 ---
 <div style="text-align: center;"><img src="David Schwartz Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

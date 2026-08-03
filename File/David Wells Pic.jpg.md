@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "David Wells in Lucky Chaos Production's \"The Depression Chronicles.\" Photo..."
 ---
 <div style="text-align: center;"><img src="David Wells Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

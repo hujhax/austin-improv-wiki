@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Promotional photo collage for Manhattan Stories."
 ---
 <div style="text-align: center;"><img src="Manhattan-stories.jpg" style="max-width: 100%; height: auto;" /></div>
 

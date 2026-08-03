@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Look Cookie."
 ---
 <div style="text-align: center;"><img src="Look Cookie.jpg" style="max-width: 100%; height: auto;" /></div>
 

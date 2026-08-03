@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Shannon McCormick, performing with Get Up at the 2012 WaffleFest."
 ---
 <div style="text-align: center;"><img src="Shannon McCormick Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

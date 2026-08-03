@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Cody Melcher, appearing with The $3 Bills in The 2011..."
 ---
 <div style="text-align: center;"><img src="Cody Melcher pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

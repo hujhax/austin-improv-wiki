@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Headshot of Rosemarie Frezza."
 ---
 <div style="text-align: center;"><img src="Rosemarie Frezza Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

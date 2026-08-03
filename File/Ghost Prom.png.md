@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Screencap from the video of Ghost Prom's 2/12/11 performance."
 ---
 <div style="text-align: center;"><img src="Ghost Prom.png" style="max-width: 100%; height: auto;" /></div>
 

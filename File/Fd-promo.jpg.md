@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Franz & Dave perform at The Institution Theater."
 ---
 <div style="text-align: center;"><img src="Fd-promo.jpg" style="max-width: 100%; height: auto;" /></div>
 

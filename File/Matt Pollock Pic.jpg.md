@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promo picture for Improv for Evil, 2010."
 ---
 <div style="text-align: center;"><img src="Matt Pollock Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Heidi Penix performing in Risen at the Institution Theater."
 ---
 <div style="text-align: center;"><img src="Heidi Penix.jpg" style="max-width: 100%; height: auto;" /></div>
 

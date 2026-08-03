@@ -1,5 +1,5 @@
 ---
-description: "== History ==."
+description: "The troupe was part of ColdTowne's sixth graduating class ."
 ---
 <div>
 	<table class="infobox infobox-troupe">

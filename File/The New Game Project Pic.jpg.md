@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lauren Buck's game suggestion gets chosen in the premiere of..."
 ---
 <div style="text-align: center;"><img src="The New Game Project Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

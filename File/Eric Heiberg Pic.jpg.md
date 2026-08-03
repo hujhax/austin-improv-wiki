@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Eric Heiberg, in the 1/19/13 performance of Fandom."
 ---
 <div style="text-align: center;"><img src="Eric Heiberg Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

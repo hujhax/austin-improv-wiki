@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Triple Scoop, featuring iScream Sandwich."
 ---
 <div style="text-align: center;"><img src="The Triple Scoop.jpg" style="max-width: 100%; height: auto;" /></div>
 

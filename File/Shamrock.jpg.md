@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Shamrock."
 ---
 <div style="text-align: center;"><img src="Shamrock.jpg" style="max-width: 100%; height: auto;" /></div>
 

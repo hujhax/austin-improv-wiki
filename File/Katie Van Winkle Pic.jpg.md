@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Katie Van Winkle, in the 4/9/11 performance of Showdown."
 ---
 <div style="text-align: center;"><img src="Katie Van Winkle Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

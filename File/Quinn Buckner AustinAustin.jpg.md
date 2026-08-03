@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promo picture of Quinn Buckner for Austin/Austin."
 ---
 <div style="text-align: center;"><img src="Quinn Buckner AustinAustin.jpg" style="max-width: 100%; height: auto;" /></div>
 

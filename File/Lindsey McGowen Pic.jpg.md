@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A quick selfie of Lindsey McGowen."
 ---
 <div style="text-align: center;"><img src="Lindsey McGowen Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

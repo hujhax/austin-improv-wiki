@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for A Deed So Dark, featuring Kareem Badr."
 ---
 <div style="text-align: center;"><img src="A Deed So Dark.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Publicity photo of Rise & Shine."
 ---
 <div style="text-align: center;"><img src="Rise shine.jpg" style="max-width: 100%; height: auto;" /></div>
 

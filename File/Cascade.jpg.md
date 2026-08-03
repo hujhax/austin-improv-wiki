@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Cascade by Ryan Austin."
 ---
 <div style="text-align: center;"><img src="Cascade.jpg" style="max-width: 100%; height: auto;" /></div>
 

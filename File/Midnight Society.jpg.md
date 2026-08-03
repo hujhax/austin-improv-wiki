@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Midnight Society performs at ColdTowne Theater."
 ---
 <div style="text-align: center;"><img src="Midnight Society.jpg" style="max-width: 100%; height: auto;" /></div>
 

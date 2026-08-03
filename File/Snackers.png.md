@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Snackers by Jon Bolden."
 ---
 <div style="text-align: center;"><img src="Snackers.png" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ka-Baam!! logo."
 ---
 <div style="text-align: center;"><img src="Ka-Baam!! Logo.png" style="max-width: 100%; height: auto;" /></div>
 

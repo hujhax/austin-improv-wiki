@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Mike D'Alonzo, performing with Covered and Smothered in The 2010..."
 ---
 <div style="text-align: center;"><img src="Mike D'Alonzo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

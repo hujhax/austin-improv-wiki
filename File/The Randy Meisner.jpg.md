@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Randy Meisner, just after their 7/15/12 performance at ColdTowne..."
 ---
 <div style="text-align: center;"><img src="The Randy Meisner.jpg" style="max-width: 100%; height: auto;" /></div>
 

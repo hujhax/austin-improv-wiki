@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Katie Doran posing with JK at The 2015 Out of..."
 ---
 <div style="text-align: center;"><img src="Katie Doran Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

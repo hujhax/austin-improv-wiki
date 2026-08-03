@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the 2012 improv show inspired by..."
+description: "This page refers to the 2012 improv show inspired by..."
 image: "File/Racket.jpg"
 ---
 <div>

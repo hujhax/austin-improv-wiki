@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of PJ Party."
 ---
 <div style="text-align: center;"><img src="PJ Party.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Sunaina Suhag at the Steve Rogers photobooth from the 11/13/15..."
 ---
 <div style="text-align: center;"><img src="Sunaina Suhag Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

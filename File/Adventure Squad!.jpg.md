@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kaci Beeler and Valerie Ward performing as Adventure Squad!"
 ---
 <div style="text-align: center;"><img src="Adventure Squad!.jpg" style="max-width: 100%; height: auto;" /></div>
 

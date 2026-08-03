@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Picture of improv performer Luke Wallens, performing in Only Three..."
 ---
 <div style="text-align: center;"><img src="Luke Wallens.jpg" style="max-width: 100%; height: auto;" /></div>
 

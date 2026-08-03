@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jason Finkelman, performing in Rock on 6/9/12."
 ---
 <div style="text-align: center;"><img src="JF pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

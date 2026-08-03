@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Megan Venable performing in The Next Chapter on 6/21/13."
 ---
 <div style="text-align: center;"><img src="Megan Venable Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

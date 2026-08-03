@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Crimpz."
 ---
 <div style="text-align: center;"><img src="Crimpz.png" style="max-width: 100%; height: auto;" /></div>
 

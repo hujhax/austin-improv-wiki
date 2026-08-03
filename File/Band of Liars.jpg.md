@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Band of Liars."
 ---
 <div style="text-align: center;"><img src="Band of Liars.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lorne cares for a critically-injured Angel , in the Live..."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays - Angel.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kakkerlakken, performing in The Weekender on 3/6/11."
 ---
 <div style="text-align: center;"><img src="Kakkerlakken.png" style="max-width: 100%; height: auto;" /></div>
 

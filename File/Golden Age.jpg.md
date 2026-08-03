@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Golden Age."
 ---
 <div style="text-align: center;"><img src="Golden Age.jpg" style="max-width: 100%; height: auto;" /></div>
 

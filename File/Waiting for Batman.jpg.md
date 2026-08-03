@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Commissioner Gordon assaults a gift chair while Chief O'Hara looks..."
 ---
 <div style="text-align: center;"><img src="Waiting for Batman.jpg" style="max-width: 100%; height: auto;" /></div>
 

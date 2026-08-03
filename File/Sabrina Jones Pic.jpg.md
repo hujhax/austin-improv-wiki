@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Sabrina Jones for Live TV Tuesdays: Firefly,..."
 ---
 <div style="text-align: center;"><img src="Sabrina Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

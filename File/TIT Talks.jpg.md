@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for TIT Talks."
 ---
 <div style="text-align: center;"><img src="TIT Talks.jpg" style="max-width: 100%; height: auto;" /></div>
 

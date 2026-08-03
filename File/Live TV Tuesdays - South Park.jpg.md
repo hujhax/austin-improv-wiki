@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional art for Live TV Tuesdays: South Park."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays - South Park.jpg" style="max-width: 100%; height: auto;" /></div>
 

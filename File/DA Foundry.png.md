@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of DA Foundry."
 ---
 <div style="text-align: center;"><img src="DA Foundry.png" style="max-width: 100%; height: auto;" /></div>
 

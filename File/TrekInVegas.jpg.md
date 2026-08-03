@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The season-two cast of Start Trekkin poses for a photo..."
 ---
 <div style="text-align: center;"><img src="TrekInVegas.jpg" style="max-width: 100%; height: auto;" /></div>
 

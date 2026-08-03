@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Toby Keith and the French Guy."
 ---
 <div style="text-align: center;"><img src="Toby Keith and the French Guy.gif" style="max-width: 100%; height: auto;" /></div>
 

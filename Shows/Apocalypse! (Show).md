@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the Gnap!"
+description: "This page refers to the Gnap!"
 image: "File/Apocalypse%20%28Show%29.jpg"
 ---
 <div>

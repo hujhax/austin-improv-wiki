@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Headshot of Kacey Samiee from 2012, by Stephen Pruitt."
 ---
 <div style="text-align: center;"><img src="Kacey Samiee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

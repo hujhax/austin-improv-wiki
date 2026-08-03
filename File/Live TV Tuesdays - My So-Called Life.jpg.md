@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ruby Willmann and Christine Giordano, in the 7/12/11 performance of..."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays - My So-Called Life.jpg" style="max-width: 100%; height: auto;" /></div>
 

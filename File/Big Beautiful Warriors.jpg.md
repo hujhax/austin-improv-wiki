@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Big Beautiful Warriors."
 ---
 <div style="text-align: center;"><img src="Big Beautiful Warriors.jpg" style="max-width: 100%; height: auto;" /></div>
 

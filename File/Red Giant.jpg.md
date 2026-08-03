@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Red Giant."
 ---
 <div style="text-align: center;"><img src="Red Giant.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Preliminary poster art for Fae."
 ---
 <div style="text-align: center;"><img src="Fae.jpg" style="max-width: 100%; height: auto;" /></div>
 

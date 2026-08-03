@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Sandbox."
 ---
 <div style="text-align: center;"><img src="The Sandbox.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder image for The Well-Made Play, featuring the set of..."
 ---
 <div style="text-align: center;"><img src="Wellmadeplay.jpg" style="max-width: 100%; height: auto;" /></div>
 

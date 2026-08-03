@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Florida Room, in costume."
 ---
 <div style="text-align: center;"><img src="Florida Room.jpg" style="max-width: 100%; height: auto;" /></div>
 

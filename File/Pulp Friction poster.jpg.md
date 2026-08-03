@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Pulp Friction."
 ---
 <div style="text-align: center;"><img src="Pulp Friction poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

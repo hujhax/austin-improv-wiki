@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A promotional photo for the 2009 run of Ka-Baam!!, featuring..."
 ---
 <div style="text-align: center;"><img src="Ka-Baam!! Promo.jpg" style="max-width: 100%; height: auto;" /></div>
 

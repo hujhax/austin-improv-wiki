@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The logo for The 2012 Ladies Are Funny Festival."
 ---
 <div style="text-align: center;"><img src="LAFF 2012 Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 

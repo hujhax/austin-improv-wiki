@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jon Bolden, introducing Manhattan Stories."
 ---
 <div style="text-align: center;"><img src="Jon Bolden Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

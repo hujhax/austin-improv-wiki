@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Photo by Jon Bolden."
 ---
 <div style="text-align: center;"><img src="Dukes-bedside-manor.jpg" style="max-width: 100%; height: auto;" /></div>
 

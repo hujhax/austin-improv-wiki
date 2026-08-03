@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "From a That Racket!"
 ---
 <div style="text-align: center;"><img src="Mitch Mills.jpg" style="max-width: 100%; height: auto;" /></div>
 

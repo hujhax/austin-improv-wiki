@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Karen Jane DeWitt, performing with Local Genius Society at the..."
 ---
 <div style="text-align: center;"><img src="Karen Jane DeWitt Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

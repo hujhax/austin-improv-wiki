@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Improvised Robocop."
 ---
 <div style="text-align: center;"><img src="Improvised Robocop.jpg" style="max-width: 100%; height: auto;" /></div>
 

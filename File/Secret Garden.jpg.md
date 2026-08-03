@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Secret Garden, performing in the 6/21/12 Threefer."
 ---
 <div style="text-align: center;"><img src="Secret Garden.jpg" style="max-width: 100%; height: auto;" /></div>
 

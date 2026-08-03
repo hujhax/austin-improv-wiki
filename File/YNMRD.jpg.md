@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of You're Not My Real Dad."
 ---
 <div style="text-align: center;"><img src="YNMRD.jpg" style="max-width: 100%; height: auto;" /></div>
 

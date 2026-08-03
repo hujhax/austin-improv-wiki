@@ -1,5 +1,5 @@
 ---
-description: ": This page refers to the narrative troupe in which..."
+description: "This page refers to the narrative troupe in which each..."
 image: "File/The%20Plagiarists.jpg"
 ---
 <div>

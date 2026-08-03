@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Antique Limax."
 ---
 <div style="text-align: center;"><img src="Antique Limax.jpg" style="max-width: 100%; height: auto;" /></div>
 

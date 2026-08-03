@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The schedule/program for The 2003 Out of Bounds Comedy Festival."
 ---
 <div style="text-align: center;"><img src="2003 Out of Bounds Schedule.jpg" style="max-width: 100%; height: auto;" /></div>
 

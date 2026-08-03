@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Nice Astronaut's 2011 lineup."
 ---
 <div style="text-align: center;"><img src="NiceAstro-2011Lineup.jpg" style="max-width: 100%; height: auto;" /></div>
 

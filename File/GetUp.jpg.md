@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photographer unknown."
 ---
 <div style="text-align: center;"><img src="GetUp.jpg" style="max-width: 100%; height: auto;" /></div>
 

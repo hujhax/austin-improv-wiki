@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Ctrl Alt Delete."
 ---
 <div style="text-align: center;"><img src="Ctrl Alt Delete.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Picture taken by Warren Henderson."
 ---
 <div style="text-align: center;"><img src="Cagney Ortiz.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Firth & Arjet logo."
 ---
 <div style="text-align: center;"><img src="Firth&Arjet Logo.png" style="max-width: 100%; height: auto;" /></div>
 

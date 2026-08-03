@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for The Amazing Improvised Race."
 ---
 <div style="text-align: center;"><img src="The Amazing Improvised Race.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ryan Hill performing at the Hideout Theatre in 2012."
 ---
 <div style="text-align: center;"><img src="Ryanonstage.jpg" style="max-width: 100%; height: auto;" /></div>
 

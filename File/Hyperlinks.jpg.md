@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "From a 3/3/11 performance of Hyperlinks produced by The Institution..."
 ---
 <div style="text-align: center;"><img src="Hyperlinks.jpg" style="max-width: 100%; height: auto;" /></div>
 

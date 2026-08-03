@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of We Invented Dinosaurs."
 ---
 <div style="text-align: center;"><img src="We Invented Dinosaurs.jpg" style="max-width: 100%; height: auto;" /></div>
 

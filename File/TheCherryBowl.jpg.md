@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Poster for The Cherry Bowl."
 ---
 <div style="text-align: center;"><img src="TheCherryBowl.jpg" style="max-width: 100%; height: auto;" /></div>
 

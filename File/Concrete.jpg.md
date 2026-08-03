@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Concrete celebrating their 1/16/13 CageMatch championship."
 ---
 <div style="text-align: center;"><img src="Concrete.jpg" style="max-width: 100%; height: auto;" /></div>
 

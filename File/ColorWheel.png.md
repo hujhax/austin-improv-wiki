@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of ColorWheel."
 ---
 <div style="text-align: center;"><img src="ColorWheel.png" style="max-width: 100%; height: auto;" /></div>
 

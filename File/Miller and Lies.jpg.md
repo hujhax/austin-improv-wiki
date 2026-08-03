@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Miller and Lies performing at The Institution Theater."
 ---
 <div style="text-align: center;"><img src="Miller and Lies.jpg" style="max-width: 100%; height: auto;" /></div>
 

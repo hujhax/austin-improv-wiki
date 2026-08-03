@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Still from a video of a Girltrap performance."
 ---
 <div style="text-align: center;"><img src="Girltrap.png" style="max-width: 100%; height: auto;" /></div>
 

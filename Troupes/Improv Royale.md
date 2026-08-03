@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the 2011 improv troupe based around..."
+description: "This page refers to the 2011 improv troupe based around..."
 image: "File/Improv%20Royale.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Group photo of The Like Likes."
 ---
 <div style="text-align: center;"><img src="The Like Likes.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Usage ==."
+description: "This template lists standard, useful information about an improv show."
 image: "File/%7B%7B%7BPicture"
 ---
 <noinclude>

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for \"_____\" or Bust!"
 ---
 <div style="text-align: center;"><img src="Blank or Bust.jpg" style="max-width: 100%; height: auto;" /></div>
 

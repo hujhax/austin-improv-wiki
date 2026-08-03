@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "BeauMoMa performing at The Institution Theater."
 ---
 <div style="text-align: center;"><img src="BeauMoMa.jpg" style="max-width: 100%; height: auto;" /></div>
 

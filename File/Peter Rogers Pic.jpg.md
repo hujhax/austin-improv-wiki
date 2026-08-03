@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Peter Rogers acting as 'script supervisor' for a performance of..."
 ---
 <div style="text-align: center;"><img src="Peter Rogers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

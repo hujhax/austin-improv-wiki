@@ -1,5 +1,5 @@
 ---
-description: "==Early Days==."
+description: "In 1985 the Comedy Workshop at 15th St."
 ---
 ## Early Days
 In 1985 [[Theatres/The Comedy Workshop|The Comedy Workshop]] at 15th St. and Lavaca was home to [[Troupes/The Hilarions|The Hilarions: Gladiators of Comedy]], possibly the first serious improv troupe in Austin. The owner of the Comedy Workshop in Houston (which gave Bill Hicks, Sam Kinison and the other so-called Outlaw stand-up comics their start) would drive up to Austin on Fridays and teach improv to anyone who would show up. The Hilarions formed in early 1985 and did late-night short-form shows Tuesday through Thursday for about a year and a half. 

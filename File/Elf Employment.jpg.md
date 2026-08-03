@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for the 2011 run of Elf Employment."
 ---
 <div style="text-align: center;"><img src="Elf Employment.jpg" style="max-width: 100%; height: auto;" /></div>
 

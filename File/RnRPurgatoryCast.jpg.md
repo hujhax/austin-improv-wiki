@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "John Reed as Johnny Cash in “Rock N Roll Purgatory”..."
 ---
 <div style="text-align: center;"><img src="RnRPurgatoryCast.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Bolik Not ZIB."
 ---
 <div style="text-align: center;"><img src="Bolik Not ZIB.jpg" style="max-width: 100%; height: auto;" /></div>
 

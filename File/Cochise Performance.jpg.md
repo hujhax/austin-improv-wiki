@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Marc Majcher interrogates Mike Kinald in Cochise, as part of..."
 ---
 <div style="text-align: center;"><img src="Cochise Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "John Ratliff, Josh Gill, and Roy Janik in their costumes..."
 ---
 <div style="text-align: center;"><img src="Care Bears.jpg" style="max-width: 100%; height: auto;" /></div>
 

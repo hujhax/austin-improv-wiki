@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Carissa McAtee, in the aftermath of the 2011 Bloody Balloon..."
 ---
 <div style="text-align: center;"><img src="Carissa McAtee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Sushant Sethi in the Aftermath section of the 10/18/14 \"Student..."
 ---
 <div style="text-align: center;"><img src="Sushant Sethi.jpg" style="max-width: 100%; height: auto;" /></div>
 

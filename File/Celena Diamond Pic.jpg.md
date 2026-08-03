@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Celena Diamond performing in ALL CAPS at The Institution Theater..."
 ---
 <div style="text-align: center;"><img src="Celena Diamond Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

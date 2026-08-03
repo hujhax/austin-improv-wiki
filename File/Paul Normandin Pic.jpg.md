@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Paul Normandin, performing in The Black Vault."
 ---
 <div style="text-align: center;"><img src="Paul Normandin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

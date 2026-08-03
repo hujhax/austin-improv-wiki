@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Haunted."
 ---
 <div style="text-align: center;"><img src="Haunted Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

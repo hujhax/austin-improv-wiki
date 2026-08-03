@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Kenny Madison from Close Up."
 ---
 <div style="text-align: center;"><img src="Kenny Madison Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

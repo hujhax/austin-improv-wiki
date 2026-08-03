@@ -1,5 +1,5 @@
 ---
-description: "==History==."
+description: "Has her Bachelor of Fine Arts degree in Theatre from..."
 image: "File/Mary.jpg"
 ---
 <div>

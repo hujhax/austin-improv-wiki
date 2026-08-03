@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A physical improviser/sketch comedian with a penchant for the absurb*."
 image: "File/http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg"
 ---
 <div>

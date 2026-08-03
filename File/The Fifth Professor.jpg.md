@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Karen Jane DeWitt as the Fifth Professor, from a publicity..."
 ---
 <div style="text-align: center;"><img src="The Fifth Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 

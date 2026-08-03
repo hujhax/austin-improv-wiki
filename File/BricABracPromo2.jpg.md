@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bric-a-Brac pre show promo."
 ---
 <div style="text-align: center;"><img src="BricABracPromo2.jpg" style="max-width: 100%; height: auto;" /></div>
 

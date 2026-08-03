@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Mike and Irene."
 ---
 <div style="text-align: center;"><img src="MikeIrenePoster.jpg" style="max-width: 100%; height: auto;" /></div>
 

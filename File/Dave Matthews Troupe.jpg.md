@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Dave Matthews Troupe performing in the 3/5/12 Monday Night Mash."
 ---
 <div style="text-align: center;"><img src="Dave Matthews Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
 

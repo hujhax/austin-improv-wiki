@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Boy Band."
 ---
 <div style="text-align: center;"><img src="Boy Band.jpg" style="max-width: 100%; height: auto;" /></div>
 

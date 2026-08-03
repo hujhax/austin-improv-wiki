@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Craig Kotfas, getting spattered with fake blood at the second..."
 ---
 <div style="text-align: center;"><img src="Craig Kotfas Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

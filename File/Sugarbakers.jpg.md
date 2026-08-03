@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Group photo by Steve Rogers of the members of Sugarbakers."
 ---
 <div style="text-align: center;"><img src="Sugarbakers.jpg" style="max-width: 100%; height: auto;" /></div>
 

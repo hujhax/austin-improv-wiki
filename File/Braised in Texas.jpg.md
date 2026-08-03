@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Braised in Texas."
 ---
 <div style="text-align: center;"><img src="Braised in Texas.jpg" style="max-width: 100%; height: auto;" /></div>
 

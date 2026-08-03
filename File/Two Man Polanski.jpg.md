@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ceej Allen and Jeff Britt perform in one of the..."
 ---
 <div style="text-align: center;"><img src="Two Man Polanski.jpg" style="max-width: 100%; height: auto;" /></div>
 

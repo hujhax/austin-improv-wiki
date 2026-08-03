@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of the 2011 lineup of Sarah 7."
 ---
 <div style="text-align: center;"><img src="Sarah 7.jpg" style="max-width: 100%; height: auto;" /></div>
 

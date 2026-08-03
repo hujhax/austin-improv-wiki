@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Backstage photo of Super Sweet."
 ---
 <div style="text-align: center;"><img src="Super Sweet.jpg" style="max-width: 100%; height: auto;" /></div>
 

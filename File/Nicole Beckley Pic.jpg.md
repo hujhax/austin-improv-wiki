@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Nicole Beckley for The Suitcase."
 ---
 <div style="text-align: center;"><img src="Nicole Beckley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

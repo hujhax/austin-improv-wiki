@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Rudimentary preview image for Kurosawa, taken from the Hideout's 2014..."
 ---
 <div style="text-align: center;"><img src="Kurosawa.jpg" style="max-width: 100%; height: auto;" /></div>
 

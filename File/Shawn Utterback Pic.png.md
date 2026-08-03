@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Shawn Utterback for Elf Employment."
 ---
 <div style="text-align: center;"><img src="Shawn Utterback Pic.png" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Baldenholder."
 ---
 <div style="text-align: center;"><img src="Baldenholder.jpg" style="max-width: 100%; height: auto;" /></div>
 

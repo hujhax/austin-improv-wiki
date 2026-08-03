@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Tarantina Turner."
 ---
 <div style="text-align: center;"><img src="Tarantina Turner.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for the 2012 run of The Professor."
 ---
 <div style="text-align: center;"><img src="The Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 

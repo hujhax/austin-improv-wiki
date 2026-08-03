@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Alexa Ramirez for Live TV Tuesdays: Firefly,..."
 ---
 <div style="text-align: center;"><img src="Alexa Ramirez Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Asaf Ronen and Kristin Firth in a performance by The..."
 ---
 <div style="text-align: center;"><img src="The Plagiarists.jpg" style="max-width: 100%; height: auto;" /></div>
 

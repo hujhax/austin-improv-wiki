@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional art for Steam."
 ---
 <div style="text-align: center;"><img src="Steam.jpg" style="max-width: 100%; height: auto;" /></div>
 

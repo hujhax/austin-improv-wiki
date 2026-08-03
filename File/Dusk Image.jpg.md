@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional image for Dusk."
 ---
 <div style="text-align: center;"><img src="Dusk Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Marc Majcher, in character as \"The Gatekeeper\", in The Nightmare..."
 ---
 <div style="text-align: center;"><img src="The Nightmare Video Project.jpg" style="max-width: 100%; height: auto;" /></div>
 

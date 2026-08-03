@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for the student-mainstage run of Cochise."
 ---
 <div style="text-align: center;"><img src="Cochise2014.jpg" style="max-width: 100%; height: auto;" /></div>
 

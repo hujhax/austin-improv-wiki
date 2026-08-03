@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for The Joss Whedon Pajama Party, featuring Chelley Pyatt."
 ---
 <div style="text-align: center;"><img src="The Joss Whedon Pajama Party.jpg" style="max-width: 100%; height: auto;" /></div>
 

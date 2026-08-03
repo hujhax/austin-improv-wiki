@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Live TV Tuesdays: Saved by the Bell."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays- Saved by the Bell.jpg" style="max-width: 100%; height: auto;" /></div>
 

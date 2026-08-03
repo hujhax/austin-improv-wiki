@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bric-a-Brac at Bexar Stage."
 ---
 <div style="text-align: center;"><img src="BricABracPromo.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Showdown."
 ---
 <div style="text-align: center;"><img src="Showdown.jpg" style="max-width: 100%; height: auto;" /></div>
 

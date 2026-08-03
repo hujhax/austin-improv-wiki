@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Justin Davis, performing in \"The Return of the Five Families\"..."
 ---
 <div style="text-align: center;"><img src="Justin Davis Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

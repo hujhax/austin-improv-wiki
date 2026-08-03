@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Shana Merlin for Girls Girls Girls."
 ---
 <div style="text-align: center;"><img src="Shana Merlin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

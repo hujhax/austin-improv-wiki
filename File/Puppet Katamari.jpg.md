@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Puppet Katamari."
 ---
 <div style="text-align: center;"><img src="Puppet Katamari.jpg" style="max-width: 100%; height: auto;" /></div>
 

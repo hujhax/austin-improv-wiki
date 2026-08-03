@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Picture of Aaron Saenz."
 ---
 <div style="text-align: center;"><img src="Aaron Saenz.jpg" style="max-width: 100%; height: auto;" /></div>
 

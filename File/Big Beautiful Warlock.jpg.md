@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Big Beautiful Warlock performs at The 2012 Out of Bounds..."
 ---
 <div style="text-align: center;"><img src="Big Beautiful Warlock.jpg" style="max-width: 100%; height: auto;" /></div>
 

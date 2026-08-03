@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "David Zimmerman on the red carpet at The 2013 Institution..."
 ---
 <div style="text-align: center;"><img src="David Zimmerman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

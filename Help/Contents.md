@@ -1,5 +1,5 @@
 ---
-description: "==Guide to the AIC Wiki==."
+description: "What is it?"
 image: "File/Edit%20Button.jpg"
 ---
 ## Guide to the AIC Wiki

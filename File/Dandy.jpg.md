@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of the only performance by Dandy."
 ---
 <div style="text-align: center;"><img src="Dandy.jpg" style="max-width: 100%; height: auto;" /></div>
 

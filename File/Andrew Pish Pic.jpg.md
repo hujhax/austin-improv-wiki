@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Andrew Pish performs in a student showcase at The Institution..."
 ---
 <div style="text-align: center;"><img src="Andrew Pish Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

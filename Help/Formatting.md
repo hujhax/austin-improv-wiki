@@ -1,5 +1,5 @@
 ---
-description: "==Basic Wiki Formatting==."
+description: "Here's a quick list of some of the most useful..."
 image: "File/John%20Doe%20Pic.jpg"
 ---
 ## Basic Wiki Formatting

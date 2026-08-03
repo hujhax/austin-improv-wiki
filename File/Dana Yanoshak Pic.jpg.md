@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Dana Yanoshak taken during the Apocalypse photo shoot."
 ---
 <div style="text-align: center;"><img src="Dana Yanoshak Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

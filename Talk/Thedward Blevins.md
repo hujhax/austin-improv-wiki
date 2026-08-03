@@ -1,6 +1,3 @@
----
-description: "=Fringe Listings Test=."
----
 
 
 # Fringe Listings Test

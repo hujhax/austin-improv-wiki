@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Luis Salinas."
 ---
 <div style="text-align: center;"><img src="Ls cropped.jpg" style="max-width: 100%; height: auto;" /></div>
 

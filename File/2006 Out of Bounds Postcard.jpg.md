@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Postcard art for The 2006 Out of Bounds Comedy Festival."
 ---
 <div style="text-align: center;"><img src="2006 Out of Bounds Postcard.jpg" style="max-width: 100%; height: auto;" /></div>
 

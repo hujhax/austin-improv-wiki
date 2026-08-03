@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Kate Bojanek for Elf Employment."
 ---
 <div style="text-align: center;"><img src="Kate Bojanek Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

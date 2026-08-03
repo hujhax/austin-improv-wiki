@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder promotional image for Buzz Band."
 ---
 <div style="text-align: center;"><img src="Buzz Band Placeholder.jpg" style="max-width: 100%; height: auto;" /></div>
 

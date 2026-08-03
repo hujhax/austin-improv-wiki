@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photobooth picture of the Flying Theater Machine."
 ---
 <div style="text-align: center;"><img src="Flying Theater Machine.jpg" style="max-width: 100%; height: auto;" /></div>
 

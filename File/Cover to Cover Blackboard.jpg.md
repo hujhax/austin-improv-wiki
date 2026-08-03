@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The blackboard, showing the show title and the chapter assignments,..."
 ---
 <div style="text-align: center;"><img src="Cover to Cover Blackboard.jpg" style="max-width: 100%; height: auto;" /></div>
 

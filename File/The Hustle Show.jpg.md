@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Banner art for The Hustle Show."
 ---
 <div style="text-align: center;"><img src="The Hustle Show.jpg" style="max-width: 100%; height: auto;" /></div>
 

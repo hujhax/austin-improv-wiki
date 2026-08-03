@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Family Tides."
 ---
 <div style="text-align: center;"><img src="Family Tides.jpg" style="max-width: 100%; height: auto;" /></div>
 

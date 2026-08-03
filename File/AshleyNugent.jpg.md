@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Head shot of Ashley Nugent."
 ---
 <div style="text-align: center;"><img src="AshleyNugent.jpg" style="max-width: 100%; height: auto;" /></div>
 

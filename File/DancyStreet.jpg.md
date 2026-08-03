@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Publicity photo of the improv troupe The Dancy Street D'Orchestra."
 ---
 <div style="text-align: center;"><img src="DancyStreet.jpg" style="max-width: 100%; height: auto;" /></div>
 

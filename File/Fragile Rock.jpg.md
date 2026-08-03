@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional photo of Fragile Rock."
 ---
 <div style="text-align: center;"><img src="Fragile Rock.jpg" style="max-width: 100%; height: auto;" /></div>
 

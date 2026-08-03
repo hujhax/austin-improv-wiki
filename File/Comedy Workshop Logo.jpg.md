@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for The Comedy Workshop."
 ---
 <div style="text-align: center;"><img src="Comedy Workshop Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 

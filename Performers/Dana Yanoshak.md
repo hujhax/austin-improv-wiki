@@ -1,5 +1,5 @@
 ---
-description: "==History==."
+description: "An improv performer."
 image: "File/Dana%20Yanoshak%20Pic.jpg"
 ---
 <div>

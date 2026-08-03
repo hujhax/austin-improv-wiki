@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A performance by Brain Trust."
 ---
 <div style="text-align: center;"><img src="Brain Trust.jpg" style="max-width: 100%; height: auto;" /></div>
 

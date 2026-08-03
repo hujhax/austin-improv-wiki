@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Furiously Missing."
 ---
 <div style="text-align: center;"><img src="Furiously Missing.jpg" style="max-width: 100%; height: auto;" /></div>
 

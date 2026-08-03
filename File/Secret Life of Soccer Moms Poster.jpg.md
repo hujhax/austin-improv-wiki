@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for the Girls Girls Girls run of \"The Secret..."
 ---
 <div style="text-align: center;"><img src="Secret Life of Soccer Moms Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

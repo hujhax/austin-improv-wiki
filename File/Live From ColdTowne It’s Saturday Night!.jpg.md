@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Live From ColdTowne It's Saturday Night!."
 ---
 <div style="text-align: center;"><img src="Live From ColdTowne It’s Saturday Night!.jpg" style="max-width: 100%; height: auto;" /></div>
 

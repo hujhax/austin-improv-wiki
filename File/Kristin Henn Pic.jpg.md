@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kristin Henn, performing with Oh, Science!"
 ---
 <div style="text-align: center;"><img src="Kristin Henn Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

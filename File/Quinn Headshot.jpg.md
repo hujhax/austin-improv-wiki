@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Headshot style photo of Quinn Buckner as apart of a..."
 ---
 <div style="text-align: center;"><img src="Quinn Headshot.jpg" style="max-width: 100%; height: auto;" /></div>
 

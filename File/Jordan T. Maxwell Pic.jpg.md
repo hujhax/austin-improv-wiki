@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promo photo for Strange Worlds."
 ---
 <div style="text-align: center;"><img src="Jordan T. Maxwell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Mike Sullivan, performing in Gnap!"
 ---
 <div style="text-align: center;"><img src="Mike Sullivan Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

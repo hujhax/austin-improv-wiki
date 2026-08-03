@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the current, all-female ColdTowne troupe."
+description: "This page refers to the current, all-female ColdTowne troupe."
 image: "File/Ctrl%20Alt%20Delete.jpg"
 ---
 <div>

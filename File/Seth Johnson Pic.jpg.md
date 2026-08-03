@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Photo of Seth Johnson."
 ---
 <div style="text-align: center;"><img src="Seth Johnson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

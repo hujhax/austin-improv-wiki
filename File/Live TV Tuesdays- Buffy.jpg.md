@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Buffy and Angel dance at the end of the Live..."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays- Buffy.jpg" style="max-width: 100%; height: auto;" /></div>
 

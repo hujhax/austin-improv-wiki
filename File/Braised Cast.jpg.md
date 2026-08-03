@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The cast of the 8/30/13 performance of Braised in Texas,..."
 ---
 <div style="text-align: center;"><img src="Braised Cast.jpg" style="max-width: 100%; height: auto;" /></div>
 

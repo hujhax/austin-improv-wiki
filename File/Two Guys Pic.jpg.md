@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity shot for Two Guys From Yonkers."
 ---
 <div style="text-align: center;"><img src="Two Guys Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Logo for The Derby."
 ---
 <div style="text-align: center;"><img src="TheDerby.jpg" style="max-width: 100%; height: auto;" /></div>
 

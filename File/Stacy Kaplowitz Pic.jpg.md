@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Stacy Kaplowitz, playing Madge Miller in the 8/29/10 performance of..."
 ---
 <div style="text-align: center;"><img src="Stacy Kaplowitz Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

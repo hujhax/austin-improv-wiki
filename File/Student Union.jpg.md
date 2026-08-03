@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Student Union."
 ---
 <div style="text-align: center;"><img src="Student Union.jpg" style="max-width: 100%; height: auto;" /></div>
 

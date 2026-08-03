@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Strange Worlds."
 ---
 <div style="text-align: center;"><img src="Strange Worlds Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

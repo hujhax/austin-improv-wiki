@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Honeypot performing in the 3/5/12 Monday Night Mash."
 ---
 <div style="text-align: center;"><img src="The Honeypot.jpg" style="max-width: 100%; height: auto;" /></div>
 

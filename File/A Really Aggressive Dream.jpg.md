@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for A Really Aggressive Dream."
 ---
 <div style="text-align: center;"><img src="A Really Aggressive Dream.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The cast of Live TV Tuesdays: Firefly takes a bow."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays - Firefly.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Sci-Fi Comedy Double Feature, taken from..."
 ---
 <div style="text-align: center;"><img src="The Sci-Fi Comedy Double Feature.jpg" style="max-width: 100%; height: auto;" /></div>
 

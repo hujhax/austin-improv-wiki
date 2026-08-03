@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Umami."
 ---
 <div style="text-align: center;"><img src="Umami.jpg" style="max-width: 100%; height: auto;" /></div>
 

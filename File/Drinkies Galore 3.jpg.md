@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Drinkies Galore by Topping Haggerty."
 ---
 <div style="text-align: center;"><img src="Drinkies Galore 3.jpg" style="max-width: 100%; height: auto;" /></div>
 

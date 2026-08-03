@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The cast of Lord Wensleydale's Last High Tea."
 ---
 <div style="text-align: center;"><img src="Lord Wensleydale's Last High Tea.jpg" style="max-width: 100%; height: auto;" /></div>
 

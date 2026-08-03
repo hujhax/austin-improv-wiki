@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Austin based Improv Troupe We're Here to Date Your..."
 ---
 <div style="text-align: center;"><img src="WHTDYD.jpg" style="max-width: 100%; height: auto;" /></div>
 

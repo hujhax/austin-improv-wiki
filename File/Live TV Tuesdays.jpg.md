@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Live TV Tuesdays, featuring their productions of Beverly..."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays.jpg" style="max-width: 100%; height: auto;" /></div>
 

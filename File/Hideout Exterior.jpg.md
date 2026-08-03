@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A view of the Hideout Theatre from Congress Avenue."
 ---
 <div style="text-align: center;"><img src="Hideout Exterior.jpg" style="max-width: 100%; height: auto;" /></div>
 

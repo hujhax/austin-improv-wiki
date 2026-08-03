@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Devil and Halyn Erickson."
 ---
 <div style="text-align: center;"><img src="The Devil and Halyn Erickson.jpg" style="max-width: 100%; height: auto;" /></div>
 

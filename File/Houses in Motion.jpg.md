@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Houses in Motion."
 ---
 <div style="text-align: center;"><img src="Houses in Motion.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Indigo Shift."
 ---
 <div style="text-align: center;"><img src="Indigo Shift.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Bless This Mess by Liz Butler."
 ---
 <div style="text-align: center;"><img src="Bless This Mess.jpg" style="max-width: 100%; height: auto;" /></div>
 

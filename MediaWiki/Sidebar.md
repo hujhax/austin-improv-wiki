@@ -1,5 +1,5 @@
 ---
-description: "* navigation."
+description: "Navigation."
 ---
 
 * navigation

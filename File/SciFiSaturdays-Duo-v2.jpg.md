@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Sci-Fi Saturdays at ColdTowne Theater."
 ---
 <div style="text-align: center;"><img src="SciFiSaturdays-Duo-v2.jpg" style="max-width: 100%; height: auto;" /></div>
 

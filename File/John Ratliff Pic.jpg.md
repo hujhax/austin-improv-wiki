@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "John Ratliff, performing with You're Not My Real Dad at..."
 ---
 <div style="text-align: center;"><img src="John Ratliff Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

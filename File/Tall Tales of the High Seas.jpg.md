@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Cast photo of Tall Tales of the High Seas."
 ---
 <div style="text-align: center;"><img src="Tall Tales of the High Seas.jpg" style="max-width: 100%; height: auto;" /></div>
 

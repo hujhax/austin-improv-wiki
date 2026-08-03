@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the 2015-founded high-energy duo."
+description: "This page refers to the 2015-founded high-energy duo."
 image: "File/JK.jpg"
 ---
 <div>

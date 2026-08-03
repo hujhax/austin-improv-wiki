@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Warren Henderson, performing in a student graduation show at The..."
 ---
 <div style="text-align: center;"><img src="Warren Henderson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

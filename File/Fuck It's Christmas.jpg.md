@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Fuck It's Christmas."
 ---
 <div style="text-align: center;"><img src="Fuck It's Christmas.jpg" style="max-width: 100%; height: auto;" /></div>
 

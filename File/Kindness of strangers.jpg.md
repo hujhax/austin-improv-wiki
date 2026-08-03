@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional poster for Kindness of Strangers."
 ---
 <div style="text-align: center;"><img src="Kindness of strangers.jpg" style="max-width: 100%; height: auto;" /></div>
 

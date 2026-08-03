@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Chuy Zarate performing in the season one finale of Thinning..."
 ---
 <div style="text-align: center;"><img src="Chuy Zarate.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for The Glamping Trip."
 ---
 <div style="text-align: center;"><img src="The Glamping Trip.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional photo of ¡Zarzamora!, from the troupe's facebook page."
 ---
 <div style="text-align: center;"><img src="¡ZARZAMORA!.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Headshot of Adam Mengesha."
 ---
 <div style="text-align: center;"><img src="Adam Mengesha Headshot.jpg" style="max-width: 100%; height: auto;" /></div>
 

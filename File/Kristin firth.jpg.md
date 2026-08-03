@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kristin Firth performing in Firth & Arjet at The Hideout..."
 ---
 <div style="text-align: center;"><img src="Kristin firth.jpg" style="max-width: 100%; height: auto;" /></div>
 

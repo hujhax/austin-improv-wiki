@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Peter Rogers plays the Fourth Professor in the 3/30/12 performance..."
 ---
 <div style="text-align: center;"><img src="The Fourth Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 

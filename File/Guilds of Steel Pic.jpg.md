@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional art for the 2010 run of Guilds of Steel."
 ---
 <div style="text-align: center;"><img src="Guilds of Steel Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

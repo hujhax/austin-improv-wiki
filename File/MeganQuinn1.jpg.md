@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Temporary promo shot."
 ---
 <div style="text-align: center;"><img src="MeganQuinn1.jpg" style="max-width: 100%; height: auto;" /></div>
 

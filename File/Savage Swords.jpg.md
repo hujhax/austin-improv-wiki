@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Savage Swords, featuring J."
 ---
 <div style="text-align: center;"><img src="Savage Swords.jpg" style="max-width: 100%; height: auto;" /></div>
 

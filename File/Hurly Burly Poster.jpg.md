@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Hurly Burly."
 ---
 <div style="text-align: center;"><img src="Hurly Burly Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

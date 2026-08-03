@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for The Well-Made Play, featuring Christian Lewis, Gabriela Vargas,..."
 ---
 <div style="text-align: center;"><img src="Wellmadeplay poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

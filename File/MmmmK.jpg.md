@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "MmmmK, playing in Honolulu's 2011 Improvaganza festival."
 ---
 <div style="text-align: center;"><img src="MmmmK.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Darrell Barber, performing with ComedySportz, year unknown, photo by: unknown."
 ---
 <div style="text-align: center;"><img src="Darrell Barber Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Mia Iseman performing in Maestro at The Hideout Theatre."
 ---
 <div style="text-align: center;"><img src="Mia Iseman.jpg" style="max-width: 100%; height: auto;" /></div>
 

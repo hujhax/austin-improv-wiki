@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for The Monday Night Mash."
 ---
 <div style="text-align: center;"><img src="The Monday Night Mash.jpg" style="max-width: 100%; height: auto;" /></div>
 

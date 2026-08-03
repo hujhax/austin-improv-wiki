@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Three on a Match."
 ---
 <div style="text-align: center;"><img src="Three on a Match.jpg" style="max-width: 100%; height: auto;" /></div>
 

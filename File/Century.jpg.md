@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Century playing their second show at Coldtowne theater."
 ---
 <div style="text-align: center;"><img src="Century.jpg" style="max-width: 100%; height: auto;" /></div>
 

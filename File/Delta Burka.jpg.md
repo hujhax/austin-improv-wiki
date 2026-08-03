@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Delta Burka."
 ---
 <div style="text-align: center;"><img src="Delta Burka.jpg" style="max-width: 100%; height: auto;" /></div>
 

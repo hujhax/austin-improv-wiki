@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity banner art for Off the Reef."
 ---
 <div style="text-align: center;"><img src="Off the Reef.png" style="max-width: 100%; height: auto;" /></div>
 

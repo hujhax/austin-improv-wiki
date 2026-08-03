@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Sara Farr, performing in Crack on 8/20/10."
 ---
 <div style="text-align: center;"><img src="Sara Farr Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

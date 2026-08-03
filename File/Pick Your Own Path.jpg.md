@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Pick Your Own Path; art by Kaci..."
 ---
 <div style="text-align: center;"><img src="Pick Your Own Path.jpg" style="max-width: 100%; height: auto;" /></div>
 

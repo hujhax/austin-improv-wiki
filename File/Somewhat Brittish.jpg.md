@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Somewhat Brittish."
 ---
 <div style="text-align: center;"><img src="Somewhat Brittish.jpg" style="max-width: 100%; height: auto;" /></div>
 

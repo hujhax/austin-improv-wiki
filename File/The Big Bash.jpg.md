@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Big Bash."
 ---
 <div style="text-align: center;"><img src="The Big Bash.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Frank Mills performing at The 2012 Out of Bounds..."
 ---
 <div style="text-align: center;"><img src="The Frank Mills.jpg" style="max-width: 100%; height: auto;" /></div>
 

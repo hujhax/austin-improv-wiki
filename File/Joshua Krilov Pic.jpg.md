@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Joshua Krilov, hosting The Night Show on 7/28/11."
 ---
 <div style="text-align: center;"><img src="Joshua Krilov Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

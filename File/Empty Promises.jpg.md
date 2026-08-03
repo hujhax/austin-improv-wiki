@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Empty Promises."
 ---
 <div style="text-align: center;"><img src="Empty Promises.jpg" style="max-width: 100%; height: auto;" /></div>
 

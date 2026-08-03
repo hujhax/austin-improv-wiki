@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ace Manning, in the 3/3/12 performance of Process."
 ---
 <div style="text-align: center;"><img src="Ace Manning Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

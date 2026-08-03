@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Banner image for The Monologue Jam."
 ---
 <div style="text-align: center;"><img src="The Monologue Jam.jpg" style="max-width: 100%; height: auto;" /></div>
 

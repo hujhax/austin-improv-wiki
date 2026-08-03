@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder image for Adventure PhD."
 ---
 <div style="text-align: center;"><img src="Adventure PhD Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

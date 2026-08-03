@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Caitlin Sweetlamb, appearing in the 12/7/12 performance of This American..."
 ---
 <div style="text-align: center;"><img src="Caitlin Sweetlamb Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

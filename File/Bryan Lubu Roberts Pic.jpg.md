@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bryan \"Lubu\" Roberts, playing with Ghetto Sketch Warlock in the..."
 ---
 <div style="text-align: center;"><img src="Bryan Lubu Roberts Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

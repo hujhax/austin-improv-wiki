@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Improv power duo of Topping Haggerty and Chuy Zarate that..."
 image: "File/ChuTopp.jpg"
 ---
 <div>

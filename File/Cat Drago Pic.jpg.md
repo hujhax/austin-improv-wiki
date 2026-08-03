@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Cat Drago, performing in the 9/8/12 premiere of The Tribunal."
 ---
 <div style="text-align: center;"><img src="Cat Drago Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

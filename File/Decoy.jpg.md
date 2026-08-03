@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Video still of Decoy, from their first performance."
 ---
 <div style="text-align: center;"><img src="Decoy.jpg" style="max-width: 100%; height: auto;" /></div>
 

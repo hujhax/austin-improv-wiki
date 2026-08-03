@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Taxi Cab Impressions."
 ---
 <div style="text-align: center;"><img src="Taxi Cab Impressions.jpg" style="max-width: 100%; height: auto;" /></div>
 

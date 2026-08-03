@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Collective Alibi."
 ---
 <div style="text-align: center;"><img src="Collective Alibi.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Preview image for Fakespeare, featuring director Andy Crouch."
 ---
 <div style="text-align: center;"><img src="Fakespeare Preview Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

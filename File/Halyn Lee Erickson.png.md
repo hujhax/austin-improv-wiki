@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Halyn Lee Erickson performing in Fandom: Classic Nintendo on February..."
 ---
 <div style="text-align: center;"><img src="Halyn Lee Erickson.png" style="max-width: 100%; height: auto;" /></div>
 

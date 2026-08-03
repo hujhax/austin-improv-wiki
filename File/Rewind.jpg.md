@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional Banner Graphic for Rewind."
 ---
 <div style="text-align: center;"><img src="Rewind.jpg" style="max-width: 100%; height: auto;" /></div>
 

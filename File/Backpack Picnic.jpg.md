@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Mitch Baker and David Bewley, performing in Backpack Picnic's reunion..."
 ---
 <div style="text-align: center;"><img src="Backpack Picnic.jpg" style="max-width: 100%; height: auto;" /></div>
 

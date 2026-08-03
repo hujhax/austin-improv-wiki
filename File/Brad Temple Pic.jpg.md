@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "\"Trading card\" picture of Brad Temple for Journey to the..."
 ---
 <div style="text-align: center;"><img src="Brad Temple Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Mark Carpenter, in a publicity photo for Apocalypse!"
 ---
 <div style="text-align: center;"><img src="Mark Carpenter Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

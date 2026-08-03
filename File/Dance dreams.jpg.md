@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promo image for Dance Dreams."
 ---
 <div style="text-align: center;"><img src="Dance dreams.jpg" style="max-width: 100%; height: auto;" /></div>
 

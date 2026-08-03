@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the troupe that performed a La..."
+description: "This page refers to the troupe that performed a La..."
 image: "File/Apocalypse%20%28troupe%29.jpg"
 ---
 <div>

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Dick Rambuck."
 ---
 <div style="text-align: center;"><img src="Dick Rambuck.jpg" style="max-width: 100%; height: auto;" /></div>
 

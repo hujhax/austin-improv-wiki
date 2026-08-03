@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Audition-announcement image for The Source."
 ---
 <div style="text-align: center;"><img src="The Source.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Nathan Livni, performing with Magician vs."
 ---
 <div style="text-align: center;"><img src="Nathan Livni.jpg" style="max-width: 100%; height: auto;" /></div>
 

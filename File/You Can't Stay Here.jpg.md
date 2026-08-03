@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder art for You Can't Stay Here."
 ---
 <div style="text-align: center;"><img src="You Can't Stay Here.jpg" style="max-width: 100%; height: auto;" /></div>
 

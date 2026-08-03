@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder image for The Untitled Avant-Garde Theater Project with a..."
 ---
 <div style="text-align: center;"><img src="The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

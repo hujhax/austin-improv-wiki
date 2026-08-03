@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Stephanie Hagemeister, in the 11/22/11 performance of Live TV Tuesdays:..."
 ---
 <div style="text-align: center;"><img src="Stephanie Hagemeister Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

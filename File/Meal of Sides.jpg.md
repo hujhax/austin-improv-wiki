@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Meal of Sides."
 ---
 <div style="text-align: center;"><img src="Meal of Sides.jpg" style="max-width: 100%; height: auto;" /></div>
 

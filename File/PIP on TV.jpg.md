@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for PIP on TV."
 ---
 <div style="text-align: center;"><img src="PIP on TV.jpg" style="max-width: 100%; height: auto;" /></div>
 

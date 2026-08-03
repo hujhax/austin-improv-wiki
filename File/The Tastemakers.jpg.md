@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Tastemakers, in their 1/31/14 performance at The Institution Theater."
 ---
 <div style="text-align: center;"><img src="The Tastemakers.jpg" style="max-width: 100%; height: auto;" /></div>
 

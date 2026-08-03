@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Wanderlust, featuring Ryan Austin and Cat Drago..."
 ---
 <div style="text-align: center;"><img src="Wanderlust.jpg" style="max-width: 100%; height: auto;" /></div>
 

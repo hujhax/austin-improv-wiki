@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Asaf Ronen ."
 ---
 <div style="text-align: center;"><img src="AsafRonen.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Nicole Oliver."
 ---
 <div style="text-align: center;"><img src="Nicole Oliver Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

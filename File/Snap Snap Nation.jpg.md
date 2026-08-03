@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Snap Snap Nation."
 ---
 <div style="text-align: center;"><img src="Snap Snap Nation.jpg" style="max-width: 100%; height: auto;" /></div>
 

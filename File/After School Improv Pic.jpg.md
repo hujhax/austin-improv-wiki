@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for the 2012 run of After School Improv."
 ---
 <div style="text-align: center;"><img src="After School Improv Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

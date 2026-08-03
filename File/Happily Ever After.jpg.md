@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Happily Ever After."
 ---
 <div style="text-align: center;"><img src="Happily Ever After.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Andrew & Jeremy Hypnotize Each Other!"
 ---
 <div style="text-align: center;"><img src="Andrew & Jeremy Hypnotize Each Other!.png" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Venn Diaphragm."
 ---
 <div style="text-align: center;"><img src="Venn Diaphragm.jpg" style="max-width: 100%; height: auto;" /></div>
 

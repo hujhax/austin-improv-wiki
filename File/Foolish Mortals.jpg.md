@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Foolish Mortals, taken from the troupe's web..."
 ---
 <div style="text-align: center;"><img src="Foolish Mortals.jpg" style="max-width: 100%; height: auto;" /></div>
 

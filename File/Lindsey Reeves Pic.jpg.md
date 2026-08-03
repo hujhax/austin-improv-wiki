@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lindsey Reeves, performing with The Escorts on 8/24/12."
 ---
 <div style="text-align: center;"><img src="Lindsey Reeves Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

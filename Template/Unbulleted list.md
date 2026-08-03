@@ -1,5 +1,5 @@
 ---
-description: "== Usage ==."
+description: "This template formats sets of items into an unbulleted list."
 ---
 <noinclude>
 ## Usage

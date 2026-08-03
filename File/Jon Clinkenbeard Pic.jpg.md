@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Jon Clinkenbeard for The Violet Underbelly."
 ---
 <div style="text-align: center;"><img src="Jon Clinkenbeard Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

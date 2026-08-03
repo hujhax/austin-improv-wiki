@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kacey Samiee and Justin Davis performing with The Library on..."
 ---
 <div style="text-align: center;"><img src="The Library.jpg" style="max-width: 100%; height: auto;" /></div>
 

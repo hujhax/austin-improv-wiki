@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Outdoor banner for The Spider House."
 ---
 <div style="text-align: center;"><img src="Spider House Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 

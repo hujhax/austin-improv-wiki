@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for The Opener."
 ---
 <div style="text-align: center;"><img src="The Opener.jpg" style="max-width: 100%; height: auto;" /></div>
 

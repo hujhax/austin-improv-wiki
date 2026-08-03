@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The cast of Holy 1960s Batman, Batman!"
 ---
 <div style="text-align: center;"><img src="Batman.cast.jpg" style="max-width: 100%; height: auto;" /></div>
 

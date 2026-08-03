@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Picture of Alex Baia from the April 11, 2013 performance..."
 ---
 <div style="text-align: center;"><img src="Alex Baia.jpg" style="max-width: 100%; height: auto;" /></div>
 

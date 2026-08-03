@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for WaffleFest 2004."
 ---
 <div style="text-align: center;"><img src="WaffleFest 2004 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

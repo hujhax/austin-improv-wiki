@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Emily Breedlove, performing in The Tribunal on 9/8/12."
 ---
 <div style="text-align: center;"><img src="Emily Breedlove - Tribunal.jpg" style="max-width: 100%; height: auto;" /></div>
 

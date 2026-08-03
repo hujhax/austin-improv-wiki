@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The \"Hardcore Four\" -- Amy Dietze, Ashley Lowe, Cat Drago,..."
 ---
 <div style="text-align: center;"><img src="HardCore4.jpg" style="max-width: 100%; height: auto;" /></div>
 

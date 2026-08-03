@@ -1,5 +1,5 @@
 ---
-description: "----."
+description: "An improvised theater group in Austin, TX, that specializes in..."
 image: "File/twinehands.jpg"
 ---
 ![](/File/Twinecover2.jpg)

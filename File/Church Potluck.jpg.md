@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Church Potluck."
 ---
 <div style="text-align: center;"><img src="Church Potluck.jpg" style="max-width: 100%; height: auto;" /></div>
 

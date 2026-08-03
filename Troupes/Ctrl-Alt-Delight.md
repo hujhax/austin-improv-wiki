@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the defunct all-male troupe consisting of..."
+description: "This page refers to the defunct all-male troupe consisting of..."
 image: "File/Ctrl-Alt-Delight.jpg"
 ---
 <div>

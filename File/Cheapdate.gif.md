@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Cheap Date livin Cheap."
 ---
 <div style="text-align: center;"><img src="Cheapdate.gif" style="max-width: 100%; height: auto;" /></div>
 

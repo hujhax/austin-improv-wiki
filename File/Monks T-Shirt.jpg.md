@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A Monks' Night Out t-shirt."
 ---
 <div style="text-align: center;"><img src="Monks T-Shirt.jpg" style="max-width: 100%; height: auto;" /></div>
 

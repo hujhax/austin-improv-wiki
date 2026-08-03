@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A picture of Aspen Webster , Caeriel Crestin and David..."
 ---
 <div style="text-align: center;"><img src="Aspen-as-the-march-hare.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Stub image for I'll Be Home For Christmas, snipped from..."
 ---
 <div style="text-align: center;"><img src="I'll Be Home for Christmas.jpg" style="max-width: 100%; height: auto;" /></div>
 

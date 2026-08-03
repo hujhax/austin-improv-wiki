@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional art for the third run of Austin Secrets, taken..."
 ---
 <div style="text-align: center;"><img src="Austin Secrets.jpg" style="max-width: 100%; height: auto;" /></div>
 

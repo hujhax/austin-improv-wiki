@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Glamazon."
 ---
 <div style="text-align: center;"><img src="Glamazon.jpg" style="max-width: 100%; height: auto;" /></div>
 

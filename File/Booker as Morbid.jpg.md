@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Tom Booker, in character as Mister Morbid, during the 10/5/13..."
 ---
 <div style="text-align: center;"><img src="Booker as Morbid.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Wish You Were Beer."
 ---
 <div style="text-align: center;"><img src="Wish You Were Beer.jpg" style="max-width: 100%; height: auto;" /></div>
 

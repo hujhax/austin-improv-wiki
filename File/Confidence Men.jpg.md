@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "From left: Michael Ferstenfeld, Ceej Allen, Tom Booker, and Troy..."
 ---
 <div style="text-align: center;"><img src="Confidence Men.jpg" style="max-width: 100%; height: auto;" /></div>
 

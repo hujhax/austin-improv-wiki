@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Inner Picnic Profile Pic."
 ---
 <div style="text-align: center;"><img src="Innerpicnic.jpg" style="max-width: 100%; height: auto;" /></div>
 

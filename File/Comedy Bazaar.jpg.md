@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity banner for Comedy Bazaar."
 ---
 <div style="text-align: center;"><img src="Comedy Bazaar.jpg" style="max-width: 100%; height: auto;" /></div>
 

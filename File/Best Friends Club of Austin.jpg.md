@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Best Friends Club of Austin."
 ---
 <div style="text-align: center;"><img src="Best Friends Club of Austin.jpg" style="max-width: 100%; height: auto;" /></div>
 

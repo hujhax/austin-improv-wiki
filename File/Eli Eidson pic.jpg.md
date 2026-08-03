@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Eli Eidson from the 2015 photobooth for Waterbed."
 ---
 <div style="text-align: center;"><img src="Eli Eidson pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Joshua Gill."
 ---
 <div style="text-align: center;"><img src="Joshua Gill Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

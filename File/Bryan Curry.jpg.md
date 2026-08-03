@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bryan singing at Emo's."
 ---
 <div style="text-align: center;"><img src="Bryan Curry.jpg" style="max-width: 100%; height: auto;" /></div>
 

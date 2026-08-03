@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bob Olmstead, performing in The Reset Project."
 ---
 <div style="text-align: center;"><img src="Bob Olmstead Reset Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Baby Kick Baby performing in the 4/16/09 Threefer."
 ---
 <div style="text-align: center;"><img src="Baby Kick Baby.jpg" style="max-width: 100%; height: auto;" /></div>
 

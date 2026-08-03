@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Publicity image for The Trouble With Terry."
 ---
 <div style="text-align: center;"><img src="TWT.jpg" style="max-width: 100%; height: auto;" /></div>
 

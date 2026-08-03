@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional banner image for All You Need Is Love."
 ---
 <div style="text-align: center;"><img src="All you need is love.jpg" style="max-width: 100%; height: auto;" /></div>
 

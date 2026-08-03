@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Leng Wong, performing in episode 5 of Steam on 1/20/12."
 ---
 <div style="text-align: center;"><img src="Leng Wong Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

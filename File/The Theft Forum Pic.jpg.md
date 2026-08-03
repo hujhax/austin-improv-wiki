@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Theft Forum Logo."
 ---
 <div style="text-align: center;"><img src="The Theft Forum Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

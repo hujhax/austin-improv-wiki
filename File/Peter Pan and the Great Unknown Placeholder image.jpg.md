@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder image for Peter Pan and the Great Unknown."
 ---
 <div style="text-align: center;"><img src="Peter Pan and the Great Unknown Placeholder image.jpg" style="max-width: 100%; height: auto;" /></div>
 

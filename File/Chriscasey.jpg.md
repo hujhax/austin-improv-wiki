@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Chris and fellow Space Swank member Jessica Soos."
 ---
 <div style="text-align: center;"><img src="Chriscasey.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of The Cubbies."
 ---
 <div style="text-align: center;"><img src="The Cubbies.jpg" style="max-width: 100%; height: auto;" /></div>
 

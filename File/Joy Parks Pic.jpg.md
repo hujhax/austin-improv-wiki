@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Joy Parks for Fiasco."
 ---
 <div style="text-align: center;"><img src="Joy Parks Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The Trust No One version of the Institution Theater's logo,..."
 ---
 <div style="text-align: center;"><img src="Eye-of-institution-1.gif" style="max-width: 100%; height: auto;" /></div>
 

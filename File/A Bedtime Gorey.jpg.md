@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for A Bedtime Gorey, featuring Kaci Beeler."
 ---
 <div style="text-align: center;"><img src="A Bedtime Gorey.jpg" style="max-width: 100%; height: auto;" /></div>
 

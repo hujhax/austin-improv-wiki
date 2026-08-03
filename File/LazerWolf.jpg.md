@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lazer Wolf at the end of their Improvised Singing 301..."
 ---
 <div style="text-align: center;"><img src="LazerWolf.jpg" style="max-width: 100%; height: auto;" /></div>
 

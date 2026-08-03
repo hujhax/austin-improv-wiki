@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for The Rubber Room by Asaf Ronen."
 ---
 <div style="text-align: center;"><img src="The Rubber Room.jpg" style="max-width: 100%; height: auto;" /></div>
 

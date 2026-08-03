@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Thedward Blevins playing in Fancy Pants at The Hideout Theatre..."
 ---
 <div style="text-align: center;"><img src="Thedward01.jpg" style="max-width: 100%; height: auto;" /></div>
 

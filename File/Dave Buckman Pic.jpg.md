@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Dave Buckman, performing with You're Not My Real Dad at..."
 ---
 <div style="text-align: center;"><img src="Dave Buckman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

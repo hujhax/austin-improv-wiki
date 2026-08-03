@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo from troupe shoot by Steve Rogers."
 ---
 <div style="text-align: center;"><img src="In Our Prime Three.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Katie Dahm performing with Quayle on 2/5/11."
 ---
 <div style="text-align: center;"><img src="Katie Dahm Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

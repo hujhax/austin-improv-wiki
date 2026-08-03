@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Salvage Vanguard Theater."
 ---
 <div style="text-align: center;"><img src="Salvage Vanguard Theater.gif" style="max-width: 100%; height: auto;" /></div>
 

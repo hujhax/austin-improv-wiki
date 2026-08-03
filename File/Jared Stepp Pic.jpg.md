@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jared Stepp, performing with Achatina Achatina!"
 ---
 <div style="text-align: center;"><img src="Jared Stepp Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

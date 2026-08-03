@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The 2x4 with the names of winners of The Cagematch,..."
 ---
 <div style="text-align: center;"><img src="Cagematch2x4.jpg" style="max-width: 100%; height: auto;" /></div>
 

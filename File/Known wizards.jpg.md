@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Known Wizards poster."
 ---
 <div style="text-align: center;"><img src="Known wizards.jpg" style="max-width: 100%; height: auto;" /></div>
 

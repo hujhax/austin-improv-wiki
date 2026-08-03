@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for the Hideout mainstage show Rock: The Improvised Rock..."
 ---
 <div style="text-align: center;"><img src="Rock poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

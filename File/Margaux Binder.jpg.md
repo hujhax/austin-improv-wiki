@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Margaux Binder performing in The Fancy-Pants Mashup at The Hideout..."
 ---
 <div style="text-align: center;"><img src="Margaux Binder.jpg" style="max-width: 100%; height: auto;" /></div>
 

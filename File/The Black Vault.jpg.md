@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Publicity image for The Black Vault."
 ---
 <div style="text-align: center;"><img src="The Black Vault.jpg" style="max-width: 100%; height: auto;" /></div>
 

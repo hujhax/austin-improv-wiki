@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Nice Astronaut."
 ---
 <div style="text-align: center;"><img src="Niceasstronautchamp1.jpg" style="max-width: 100%; height: auto;" /></div>
 

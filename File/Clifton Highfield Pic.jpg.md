@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Clifton Highfield, in the 10/26/12 performance of Pulp Friction."
 ---
 <div style="text-align: center;"><img src="Clifton Highfield Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

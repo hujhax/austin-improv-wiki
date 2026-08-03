@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo by Steve Rogers."
 ---
 <div style="text-align: center;"><img src="Delightfuls.jpg" style="max-width: 100%; height: auto;" /></div>
 

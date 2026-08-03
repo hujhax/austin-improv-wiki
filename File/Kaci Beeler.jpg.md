@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo taken by Todd V."
 ---
 <div style="text-align: center;"><img src="Kaci Beeler.jpg" style="max-width: 100%; height: auto;" /></div>
 

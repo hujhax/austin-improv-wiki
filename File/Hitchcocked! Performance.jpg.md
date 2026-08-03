@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Sean Hill and Christopher \"Ceej\" Allen, in the 3/27/10 performance..."
 ---
 <div style="text-align: center;"><img src="Hitchcocked! Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 

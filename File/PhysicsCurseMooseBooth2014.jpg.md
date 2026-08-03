@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photograph of Physics Curse from the AIC Moose Booth 2014..."
 ---
 <div style="text-align: center;"><img src="PhysicsCurseMooseBooth2014.jpg" style="max-width: 100%; height: auto;" /></div>
 

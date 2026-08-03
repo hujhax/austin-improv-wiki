@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for 'season 2' of Late Night Time Machine."
 ---
 <div style="text-align: center;"><img src="Late Night Time Machine Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

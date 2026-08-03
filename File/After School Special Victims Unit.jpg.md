@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for After School Special Victims Unit."
 ---
 <div style="text-align: center;"><img src="After School Special Victims Unit.jpg" style="max-width: 100%; height: auto;" /></div>
 

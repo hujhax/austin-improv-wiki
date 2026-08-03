@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Improv Royale in their 9/1/11 show at The 2011 Out..."
 ---
 <div style="text-align: center;"><img src="Improv Royale.jpg" style="max-width: 100%; height: auto;" /></div>
 

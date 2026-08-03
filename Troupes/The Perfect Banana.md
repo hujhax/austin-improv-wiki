@@ -1,5 +1,5 @@
 ---
-description: "== History ==."
+description: "2008 cagematch team consisting of:."
 ---
 <div>
 	<table class="infobox infobox-troupe">

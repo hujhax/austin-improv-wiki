@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Dramatic improv troupe."
 image: "File/The%20Wine%20Smugglers.jpg"
 ---
 <div>

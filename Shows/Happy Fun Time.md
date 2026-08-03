@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "An upcoming mainstage improv show."
 ---
 <div>
 	<table class="infobox infobox-show">

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The 2012 Boys of Summer poster, designed by Deano Jones."
 ---
 <div style="text-align: center;"><img src="Boys of Summer 2012 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

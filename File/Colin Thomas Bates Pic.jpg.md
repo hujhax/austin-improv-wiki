@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Colin Thomas Bates, performing with Stone Airplane on 7/7/12."
 ---
 <div style="text-align: center;"><img src="Colin Thomas Bates Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

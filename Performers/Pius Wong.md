@@ -1,5 +1,5 @@
 ---
-description: "==About==."
+description: "An improv player in musical improv."
 ---
 <div>
 	<table class="infobox infobox-performer">

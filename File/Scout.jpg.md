@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Scout, in their 8/29/12 performance at The 2012 Out of..."
 ---
 <div style="text-align: center;"><img src="Scout.jpg" style="max-width: 100%; height: auto;" /></div>
 

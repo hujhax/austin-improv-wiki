@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Cortnie Jones for Sarah 7."
 ---
 <div style="text-align: center;"><img src="Cortnie Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

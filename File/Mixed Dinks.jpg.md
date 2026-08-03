@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Mixed Dinks."
 ---
 <div style="text-align: center;"><img src="Mixed Dinks.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Duran & Johnson's October 2013 run at..."
 ---
 <div style="text-align: center;"><img src="Duran & Johsnon.jpg" style="max-width: 100%; height: auto;" /></div>
 

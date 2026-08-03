@@ -1,5 +1,5 @@
 ---
-description: "==History==."
+description: "Ellen began taking improv classes at the Hideout Theatre in..."
 image: "File/Ellen.jpg"
 ---
 <div>

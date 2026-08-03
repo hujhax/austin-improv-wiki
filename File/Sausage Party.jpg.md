@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Sausage Party by Liz Butler."
 ---
 <div style="text-align: center;"><img src="Sausage Party.jpg" style="max-width: 100%; height: auto;" /></div>
 

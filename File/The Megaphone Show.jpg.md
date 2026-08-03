@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Megaphone Show."
 ---
 <div style="text-align: center;"><img src="The Megaphone Show.jpg" style="max-width: 100%; height: auto;" /></div>
 

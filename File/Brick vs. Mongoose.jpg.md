@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Brick vs."
 ---
 <div style="text-align: center;"><img src="Brick vs. Mongoose.jpg" style="max-width: 100%; height: auto;" /></div>
 

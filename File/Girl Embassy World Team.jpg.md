@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The ladies of Girl Embassy World Team perform at The..."
 ---
 <div style="text-align: center;"><img src="Girl Embassy World Team.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Heidi Rogers performing in Strange Worlds."
 ---
 <div style="text-align: center;"><img src="Heidi Rogers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

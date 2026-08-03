@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Indy Movies."
 ---
 <div style="text-align: center;"><img src="Indy Movies.jpg" style="max-width: 100%; height: auto;" /></div>
 

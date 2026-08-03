@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for the May 2014 Threefer run of History Under..."
 ---
 <div style="text-align: center;"><img src="History Under the Influence Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

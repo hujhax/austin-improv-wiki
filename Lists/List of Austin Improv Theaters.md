@@ -1,5 +1,5 @@
 ---
-description: "== Active Theaters ==."
+description: "There are three theaters in Austin, Texas that produce improv..."
 ---
 ## Active Theaters
 There are three theaters in Austin, Texas that produce improv shows:

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jonathan Euseppi, Hugo Vargas-Zesati, Gary Richardson, and Mike Sullivan, performing..."
 ---
 <div style="text-align: center;"><img src="Ctrl-Alt-Delight.jpg" style="max-width: 100%; height: auto;" /></div>
 

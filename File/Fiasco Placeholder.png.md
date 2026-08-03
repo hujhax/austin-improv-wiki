@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder icon for Fiasco."
 ---
 <div style="text-align: center;"><img src="Fiasco Placeholder.png" style="max-width: 100%; height: auto;" /></div>
 

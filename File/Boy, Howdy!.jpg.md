@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Boy, Howdy!."
 ---
 <div style="text-align: center;"><img src="Boy, Howdy!.jpg" style="max-width: 100%; height: auto;" /></div>
 

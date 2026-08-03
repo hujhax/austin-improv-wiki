@@ -1,5 +1,5 @@
 ---
-description: "==History==."
+description: "Lacy completed levels 101-601 at the Merlin Works Institute for..."
 image: "File/Lacy%20Shawn%20Profile.jpg"
 ---
 *This article employs a <a class="internal-link" href="Pseudonyms">Pseudonym</a>.  Please do not replace that pseudonym with a real name without that person's permission.*<div>

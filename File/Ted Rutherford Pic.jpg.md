@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ted Rutherford, performing a giant game of \"New Choice\" with..."
 ---
 <div style="text-align: center;"><img src="Ted Rutherford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

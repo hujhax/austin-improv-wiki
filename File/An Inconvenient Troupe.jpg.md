@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Still from a Cagematch performance by An Inconvenient Troupe."
 ---
 <div style="text-align: center;"><img src="An Inconvenient Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
 

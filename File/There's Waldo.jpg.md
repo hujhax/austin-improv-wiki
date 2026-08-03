@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "There's Waldo arrives in style at The 2013 Institution Theater..."
 ---
 <div style="text-align: center;"><img src="There's Waldo.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of David Lampe for The Violet Underbelly."
 ---
 <div style="text-align: center;"><img src="David Lampe.jpg" style="max-width: 100%; height: auto;" /></div>
 

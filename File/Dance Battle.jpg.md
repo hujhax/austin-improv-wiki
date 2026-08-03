@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Justin Davis and Jessie Pascarelli after their dance-battle scene in..."
 ---
 <div style="text-align: center;"><img src="Dance Battle.jpg" style="max-width: 100%; height: auto;" /></div>
 

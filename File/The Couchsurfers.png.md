@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Couchsurfers."
 ---
 <div style="text-align: center;"><img src="The Couchsurfers.png" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Head shot of Ryan Austin."
 ---
 <div style="text-align: center;"><img src="Ryan Austin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

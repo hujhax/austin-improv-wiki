@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional photo by Jon Bolden."
 ---
 <div style="text-align: center;"><img src="TheeHotChicks.jpg" style="max-width: 100%; height: auto;" /></div>
 

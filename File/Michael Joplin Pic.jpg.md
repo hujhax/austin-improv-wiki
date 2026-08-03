@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Michael Joplin, performing with the Available Cupholders at the 2013..."
 ---
 <div style="text-align: center;"><img src="Michael Joplin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

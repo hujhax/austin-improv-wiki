@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Thursday Threefer featuring The Starter Kit,..."
 ---
 <div style="text-align: center;"><img src="Threefer Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
 

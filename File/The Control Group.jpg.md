@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image of The Control Group."
 ---
 <div style="text-align: center;"><img src="The Control Group.jpg" style="max-width: 100%; height: auto;" /></div>
 

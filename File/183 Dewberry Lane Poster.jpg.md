@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for 183 Dewberry Lane."
 ---
 <div style="text-align: center;"><img src="183 Dewberry Lane Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

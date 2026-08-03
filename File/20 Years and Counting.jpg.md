@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A wedding photo of Cathy and Chuy Zarate, who perform..."
 ---
 <div style="text-align: center;"><img src="20 Years and Counting.jpg" style="max-width: 100%; height: auto;" /></div>
 

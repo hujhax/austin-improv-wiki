@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The players take the stage for the 2/28/02 performance of..."
 ---
 <div style="text-align: center;"><img src="Six Degrees Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

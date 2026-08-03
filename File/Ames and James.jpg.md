@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image of Ames and James."
 ---
 <div style="text-align: center;"><img src="Ames and James.jpg" style="max-width: 100%; height: auto;" /></div>
 

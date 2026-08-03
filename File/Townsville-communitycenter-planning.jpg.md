@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Townsville second script in planning."
 ---
 <div style="text-align: center;"><img src="Townsville-communitycenter-planning.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jessica T."
 ---
 <div style="text-align: center;"><img src="Jessica T. Von Schramm Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

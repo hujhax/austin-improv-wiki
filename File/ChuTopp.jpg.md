@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Topping Haggerty Chuy Zarate at the Hideout Theatre."
 ---
 <div style="text-align: center;"><img src="ChuTopp.jpg" style="max-width: 100%; height: auto;" /></div>
 

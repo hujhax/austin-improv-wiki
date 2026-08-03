@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Cast photo of Wooden Nickel."
 ---
 <div style="text-align: center;"><img src="Wooden Nickel.jpg" style="max-width: 100%; height: auto;" /></div>
 

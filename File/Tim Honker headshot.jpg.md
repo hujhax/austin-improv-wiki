@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Headshot of Tim Honker, photo taken by Jon Bolden."
 ---
 <div style="text-align: center;"><img src="Tim Honker headshot.jpg" style="max-width: 100%; height: auto;" /></div>
 

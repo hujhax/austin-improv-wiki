@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for Manson: The Musical."
 ---
 <div style="text-align: center;"><img src="Manson - The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "An improv troupe, started by Matthew Arisheh Falkenberg, to perform..."
 image: "File/The%20Special%20Features%201.jpg"
 ---
 <div>

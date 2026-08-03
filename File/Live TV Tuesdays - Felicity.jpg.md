@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kacy Todd and Indigo Rael performing in the Live TV..."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays - Felicity.jpg" style="max-width: 100%; height: auto;" /></div>
 

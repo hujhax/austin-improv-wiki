@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kacey Samiee and Jeffrey Amos playing in The Great Mundane..."
 ---
 <div style="text-align: center;"><img src="The Great Mundane.jpg" style="max-width: 100%; height: auto;" /></div>
 

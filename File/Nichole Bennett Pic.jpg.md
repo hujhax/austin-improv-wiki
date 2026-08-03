@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Nichole Bennett performing in Maestro on 12/26/15."
 ---
 <div style="text-align: center;"><img src="Nichole Bennett Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

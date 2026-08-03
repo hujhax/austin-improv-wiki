@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional poster for Death By Musical."
 ---
 <div style="text-align: center;"><img src="Death by musical.jpg" style="max-width: 100%; height: auto;" /></div>
 

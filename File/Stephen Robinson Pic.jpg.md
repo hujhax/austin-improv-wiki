@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Stephen Robinson as Wash in the 5/15/12 performance of Live..."
 ---
 <div style="text-align: center;"><img src="Stephen Robinson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

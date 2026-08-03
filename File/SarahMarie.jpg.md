@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Sarah Marie Curry performing with Girls Girls Girls at the..."
 ---
 <div style="text-align: center;"><img src="SarahMarie.jpg" style="max-width: 100%; height: auto;" /></div>
 

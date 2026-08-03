@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Troy Miller for Manhattan Stories."
 ---
 <div style="text-align: center;"><img src="Troy Miller Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

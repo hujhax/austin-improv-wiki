@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Steve Harwood, in the 7/27/13 performance of Start Trekkin."
 ---
 <div style="text-align: center;"><img src="Steve Harwood Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Blink, 2010."
 ---
 <div style="text-align: center;"><img src="Blink.jpg" style="max-width: 100%; height: auto;" /></div>
 

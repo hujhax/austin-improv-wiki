@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Andreas Fabis & Chris Allen - photo by Andreas Fabis..."
 ---
 <div style="text-align: center;"><img src="My best fiend.jpg" style="max-width: 100%; height: auto;" /></div>
 

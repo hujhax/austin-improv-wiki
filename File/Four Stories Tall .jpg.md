@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo for Four Stories Tall."
 ---
 <div style="text-align: center;"><img src="Four Stories Tall .jpg" style="max-width: 100%; height: auto;" /></div>
 

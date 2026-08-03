@@ -1,5 +1,4 @@
 ---
-description: "== Summary ==."
 image: "File/Itcamefromyourbrain%21.jpg"
 ---
 <div>

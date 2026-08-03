@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Emma Holder for Cover to Cover."
 ---
 <div style="text-align: center;"><img src="Emma Holder Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

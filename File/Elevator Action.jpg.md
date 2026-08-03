@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Elevator Action in their 8/28/12 performance at The 2012 Out..."
 ---
 <div style="text-align: center;"><img src="Elevator Action.jpg" style="max-width: 100%; height: auto;" /></div>
 

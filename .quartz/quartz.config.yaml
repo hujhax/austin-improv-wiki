@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: AIC Wiki
+  pageTitle: Austin Improv Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

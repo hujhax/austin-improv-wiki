@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image of The Leading Brands."
 ---
 <div style="text-align: center;"><img src="The Leading Brands.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Justin Davis, in the 5/31/13 performance of The Next Chapter."
 ---
 <div style="text-align: center;"><img src="Justin Davis.jpg" style="max-width: 100%; height: auto;" /></div>
 

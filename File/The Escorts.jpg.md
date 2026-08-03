@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Marc Majcher, Lindsey Reeves, Andreas Fabis, and Alex Dobrenko, performing..."
 ---
 <div style="text-align: center;"><img src="The Escorts.jpg" style="max-width: 100%; height: auto;" /></div>
 

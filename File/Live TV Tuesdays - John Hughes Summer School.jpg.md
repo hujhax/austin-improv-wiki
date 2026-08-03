@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The 7/19/11 performance of Live TV Tuesdays: John Hughes Summer..."
 ---
 <div style="text-align: center;"><img src="Live TV Tuesdays - John Hughes Summer School.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Andy Crouch performing as Sherlock Holmes in Danger!"
 ---
 <div style="text-align: center;"><img src="Andy Crouch.jpg" style="max-width: 100%; height: auto;" /></div>
 

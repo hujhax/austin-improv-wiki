@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Frogtown Hollow Jubilee Jugband celebrates a Cagematch victory."
 ---
 <div style="text-align: center;"><img src="Frogtown Hollow Jubilee Jugband.jpg" style="max-width: 100%; height: auto;" /></div>
 

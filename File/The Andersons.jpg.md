@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Stacy Kaplowitz and Deano Jones, playing Madge and Kip Miller..."
 ---
 <div style="text-align: center;"><img src="The Andersons.jpg" style="max-width: 100%; height: auto;" /></div>
 

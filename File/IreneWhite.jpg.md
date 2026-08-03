@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Irene White, performing at The Hideout Theatre."
 ---
 <div style="text-align: center;"><img src="IreneWhite.jpg" style="max-width: 100%; height: auto;" /></div>
 

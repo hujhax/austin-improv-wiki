@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder publicity image for A Penny Dreadful."
 ---
 <div style="text-align: center;"><img src="A Penny Dreadful Preview Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

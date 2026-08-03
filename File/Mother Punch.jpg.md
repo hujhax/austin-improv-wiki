@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Mother Punch."
 ---
 <div style="text-align: center;"><img src="Mother Punch.jpg" style="max-width: 100%; height: auto;" /></div>
 

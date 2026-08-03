@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Suzanne Link, in the 5/2/15 performance of Golden."
 ---
 <div style="text-align: center;"><img src="Suzanne Link Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

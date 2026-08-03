@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Placeholder image for Origins."
 ---
 <div style="text-align: center;"><img src="Origins Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

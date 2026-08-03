@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional photo of Clay Towery for Showdown."
 ---
 <div style="text-align: center;"><img src="Clay Towery Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Senshi Sokyo."
 ---
 <div style="text-align: center;"><img src="Senshi Sokyo.jpg" style="max-width: 100%; height: auto;" /></div>
 

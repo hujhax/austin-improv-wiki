@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Apocalypse!, featuring Madi Goff."
 ---
 <div style="text-align: center;"><img src="Apocalypse (Show).jpg" style="max-width: 100%; height: auto;" /></div>
 

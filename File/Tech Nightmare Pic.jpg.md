@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Tech Nightmare crew: Cortney DeAngelo, Cindy Page, and Lindsey McGowen..."
 ---
 <div style="text-align: center;"><img src="Tech Nightmare Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

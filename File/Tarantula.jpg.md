@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Banner art for Tarantula."
 ---
 <div style="text-align: center;"><img src="Tarantula.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Rarebit."
 ---
 <div style="text-align: center;"><img src="Rarebit.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Pass the Mic."
 ---
 <div style="text-align: center;"><img src="Pass the Mic.jpg" style="max-width: 100%; height: auto;" /></div>
 

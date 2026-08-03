@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional image for the third season of Thinning the Herd."
 ---
 <div style="text-align: center;"><img src="Thinning the Herd.jpg" style="max-width: 100%; height: auto;" /></div>
 

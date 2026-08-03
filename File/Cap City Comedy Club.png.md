@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo of Cap City Comedy Club."
 ---
 <div style="text-align: center;"><img src="Cap City Comedy Club.png" style="max-width: 100%; height: auto;" /></div>
 

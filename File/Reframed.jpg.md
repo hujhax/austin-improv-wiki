@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Reframed."
 ---
 <div style="text-align: center;"><img src="Reframed.jpg" style="max-width: 100%; height: auto;" /></div>
 

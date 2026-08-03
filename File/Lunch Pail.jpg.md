@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Lunch Pail."
 ---
 <div style="text-align: center;"><img src="Lunch Pail.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo by Roy Moore for Improv for Evil, from this..."
 ---
 <div style="text-align: center;"><img src="Bob Apthorpe Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Beans Beans."
 ---
 <div style="text-align: center;"><img src="Beans Beans (the musical troupe).jpg" style="max-width: 100%; height: auto;" /></div>
 

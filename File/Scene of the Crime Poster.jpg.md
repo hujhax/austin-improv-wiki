@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Scene of the Crime."
 ---
 <div style="text-align: center;"><img src="Scene of the Crime Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

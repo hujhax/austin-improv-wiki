@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Buzz Band, featuring Megan Simon."
 ---
 <div style="text-align: center;"><img src="Buzz Band.jpg" style="max-width: 100%; height: auto;" /></div>
 

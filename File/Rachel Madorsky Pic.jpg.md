@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Rachel Madorsky performing with Rachel and Dave in their 8/31/11..."
 ---
 <div style="text-align: center;"><img src="Rachel Madorsky Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

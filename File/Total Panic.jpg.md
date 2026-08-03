@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Total Panic performing at ColdTowne Theater."
 ---
 <div style="text-align: center;"><img src="Total Panic.jpg" style="max-width: 100%; height: auto;" /></div>
 

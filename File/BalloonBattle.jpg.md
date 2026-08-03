@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Combatants in the 2012 Bloody Balloon Battle."
 ---
 <div style="text-align: center;"><img src="BalloonBattle.jpg" style="max-width: 100%; height: auto;" /></div>
 

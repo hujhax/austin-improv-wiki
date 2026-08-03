@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Susannah Raulino, performing in Heist!"
 ---
 <div style="text-align: center;"><img src="Susannah Raulino Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

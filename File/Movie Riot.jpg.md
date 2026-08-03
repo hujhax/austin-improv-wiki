@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Movie Riot by Carlos LaRotta."
 ---
 <div style="text-align: center;"><img src="Movie Riot.jpg" style="max-width: 100%; height: auto;" /></div>
 

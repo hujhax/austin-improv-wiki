@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Cover to Cover, featuring director Audrey Rachel..."
 ---
 <div style="text-align: center;"><img src="Cover to Cover.gif" style="max-width: 100%; height: auto;" /></div>
 

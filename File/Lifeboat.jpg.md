@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "\"The Storm on the Sea of Galilee\", the painting used..."
 ---
 <div style="text-align: center;"><img src="Lifeboat.jpg" style="max-width: 100%; height: auto;" /></div>
 

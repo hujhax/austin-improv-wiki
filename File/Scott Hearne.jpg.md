@@ -1,6 +1,3 @@
----
-description: "== Licensing ==."
----
 <div style="text-align: center;"><img src="Scott Hearne.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Licensing

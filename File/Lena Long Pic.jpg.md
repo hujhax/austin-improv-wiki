@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lena Long, in the 8/7/15 performance of The Source."
 ---
 <div style="text-align: center;"><img src="Lena Long Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

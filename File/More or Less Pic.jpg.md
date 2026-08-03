@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lauren Buck plays a deceased character, as David Lampe carries..."
 ---
 <div style="text-align: center;"><img src="More or Less Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

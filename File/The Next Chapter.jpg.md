@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Next Chapter."
 ---
 <div style="text-align: center;"><img src="The Next Chapter.jpg" style="max-width: 100%; height: auto;" /></div>
 

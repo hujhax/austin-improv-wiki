@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Opposites logo."
 ---
 <div style="text-align: center;"><img src="Opposites.jpg" style="max-width: 100%; height: auto;" /></div>
 

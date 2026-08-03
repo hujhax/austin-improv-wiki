@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Fighting Spirit."
 ---
 <div style="text-align: center;"><img src="Fighting Spirit.jpg" style="max-width: 100%; height: auto;" /></div>
 

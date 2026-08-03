@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Chad Wellington, performing in the 12/7/12 Fancy-Pants Mashup."
 ---
 <div style="text-align: center;"><img src="Chad Wellington Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

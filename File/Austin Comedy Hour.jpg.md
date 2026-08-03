@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Austin Comedy Hour."
 ---
 <div style="text-align: center;"><img src="Austin Comedy Hour.jpg" style="max-width: 100%; height: auto;" /></div>
 

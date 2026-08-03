@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kaci Beeler, as Rocket Anderson from The Andersons, in publicity..."
 ---
 <div style="text-align: center;"><img src="The Hideout Holiday Super Special Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

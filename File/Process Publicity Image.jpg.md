@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Process, featuring Jeremy Sweetlamb ."
 ---
 <div style="text-align: center;"><img src="Process Publicity Image.jpg" style="max-width: 100%; height: auto;" /></div>
 

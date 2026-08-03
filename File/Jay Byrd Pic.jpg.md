@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jay Byrd, guesting in the 8/2/13 premiere of The ReSet..."
 ---
 <div style="text-align: center;"><img src="Jay Byrd Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

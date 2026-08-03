@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Rucker Park."
 ---
 <div style="text-align: center;"><img src="Rucker Park.jpg" style="max-width: 100%; height: auto;" /></div>
 

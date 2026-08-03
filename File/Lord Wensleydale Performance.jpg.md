@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A mishap with a cake at Lord Wensleydale's Last High..."
 ---
 <div style="text-align: center;"><img src="Lord Wensleydale Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 

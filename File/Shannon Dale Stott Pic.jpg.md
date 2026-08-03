@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Shannon Dale Stott, after the 5/2/14 performance of Maestro."
 ---
 <div style="text-align: center;"><img src="Shannon Dale Stott Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

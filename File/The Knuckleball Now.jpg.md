@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for The Knuckleball Now's 2012 performance run at..."
 ---
 <div style="text-align: center;"><img src="The Knuckleball Now.jpg" style="max-width: 100%; height: auto;" /></div>
 

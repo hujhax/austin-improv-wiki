@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Emily Breedlove and Marc Majcher portray Scheherazade and Shahryar, respectively,..."
 ---
 <div style="text-align: center;"><img src="One More Night - Scheherazade and Shahryar.jpg" style="max-width: 100%; height: auto;" /></div>
 

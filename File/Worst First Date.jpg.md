@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity art for Worst First Date."
 ---
 <div style="text-align: center;"><img src="Worst First Date.jpg" style="max-width: 100%; height: auto;" /></div>
 

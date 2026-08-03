@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster by Kaci Beeler for How I Saved the World..."
 ---
 <div style="text-align: center;"><img src="KidsOnBikes.jpg" style="max-width: 100%; height: auto;" /></div>
 

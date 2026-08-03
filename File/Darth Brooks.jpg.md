@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of Darth Brooks."
 ---
 <div style="text-align: center;"><img src="Darth Brooks.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Coldtowne logo by Bryan Keplesky."
 ---
 <div style="text-align: center;"><img src="Coldtowne.jpg" style="max-width: 100%; height: auto;" /></div>
 

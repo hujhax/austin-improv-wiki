@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promo banner image for the February 2018 run of Story..."
 ---
 <div style="text-align: center;"><img src="Story to the Death Promo.jpg" style="max-width: 100%; height: auto;" /></div>
 

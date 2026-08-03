@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Picture of David Ronn by Steven Rogers from Camp Madeuponthewhatever."
 ---
 <div style="text-align: center;"><img src="David Ronn.jpg" style="max-width: 100%; height: auto;" /></div>
 

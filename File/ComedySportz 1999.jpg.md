@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "A 1999 ComedySportz match, including Lisa Perry, Jerm Pollet, Dav..."
 ---
 <div style="text-align: center;"><img src="ComedySportz 1999.jpg" style="max-width: 100%; height: auto;" /></div>
 

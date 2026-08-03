@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Shades of Brown."
 ---
 <div style="text-align: center;"><img src="Shades of Brown.jpg" style="max-width: 100%; height: auto;" /></div>
 

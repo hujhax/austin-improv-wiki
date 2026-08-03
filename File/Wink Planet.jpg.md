@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Group photo of Wink Planet."
 ---
 <div style="text-align: center;"><img src="Wink Planet.jpg" style="max-width: 100%; height: auto;" /></div>
 

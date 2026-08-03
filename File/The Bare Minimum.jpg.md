@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of The Bare Minimum for The 2013 Out..."
 ---
 <div style="text-align: center;"><img src="The Bare Minimum.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Promotional image for One More Night."
 ---
 <div style="text-align: center;"><img src="One More Night.gif" style="max-width: 100%; height: auto;" /></div>
 

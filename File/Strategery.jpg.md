@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The 3/31/11 performance by Strategery at The Threefer."
 ---
 <div style="text-align: center;"><img src="Strategery.jpg" style="max-width: 100%; height: auto;" /></div>
 

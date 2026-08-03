@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Mister Morbid's Moonlight Movie Mayhem Madness Massacre,..."
 ---
 <div style="text-align: center;"><img src="Mister Morbid.jpg" style="max-width: 100%; height: auto;" /></div>
 

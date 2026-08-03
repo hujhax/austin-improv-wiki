@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Photo of The PITS, provided by Kaci Beeler."
 ---
 <div style="text-align: center;"><img src="The PITS.jpg" style="max-width: 100%; height: auto;" /></div>
 

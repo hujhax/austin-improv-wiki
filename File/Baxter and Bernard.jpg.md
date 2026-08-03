@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Tom Booker and Asaf Ronen performing as Baxter and Bernard..."
 ---
 <div style="text-align: center;"><img src="Baxter and Bernard.jpg" style="max-width: 100%; height: auto;" /></div>
 

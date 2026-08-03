@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Fiasco, featuring Katie Dahm, Marc Majcher, and Brett..."
 ---
 <div style="text-align: center;"><img src="Fiasco Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 

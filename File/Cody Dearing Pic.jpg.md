@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Cody Dearing performing with Scout on 9/19/2011."
 ---
 <div style="text-align: center;"><img src="Cody Dearing Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

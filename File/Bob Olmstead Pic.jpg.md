@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Bob Olmstead, performing in The Free Fringe."
 ---
 <div style="text-align: center;"><img src="Bob Olmstead Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: ":This page refers to the 2011 Pinter-themed improv duo."
+description: "This page refers to the 2011 Pinter-themed improv duo."
 image: "File/J-K.jpg"
 ---
 <div>

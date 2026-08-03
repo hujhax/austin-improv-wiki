@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Publicity graphic for Past Lives."
 ---
 <div style="text-align: center;"><img src="PastLivesIPF2013Poster.png" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lauren Buck, hosting at The 2011 Out of Bounds Comedy..."
 ---
 <div style="text-align: center;"><img src="Lauren Buck Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

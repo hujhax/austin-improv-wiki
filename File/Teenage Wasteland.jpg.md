@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Poster for Teenage Wasteland."
 ---
 <div style="text-align: center;"><img src="Teenage Wasteland.jpg" style="max-width: 100%; height: auto;" /></div>
 

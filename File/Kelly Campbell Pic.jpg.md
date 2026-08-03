@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Kelly Campbell, in the 8/29/15 performance of Close Up."
 ---
 <div style="text-align: center;"><img src="Kelly Campbell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

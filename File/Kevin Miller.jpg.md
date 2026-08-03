@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Taken by Steve Rogers from this photoset."
 ---
 <div style="text-align: center;"><img src="Kevin Miller.jpg" style="max-width: 100%; height: auto;" /></div>
 

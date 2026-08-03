@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Audrey Rachel Sansom, performing in Gnap!"
 ---
 <div style="text-align: center;"><img src="Audrey Rachel Sansom Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

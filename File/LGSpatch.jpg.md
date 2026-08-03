@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The crest designed by Ryan Austin for Local Genius Society."
 ---
 <div style="text-align: center;"><img src="LGSpatch.jpg" style="max-width: 100%; height: auto;" /></div>
 

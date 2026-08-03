@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of the 2014 incarnation of The Escorts."
 ---
 <div style="text-align: center;"><img src="The Escorts 2014.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Simply D-Vine, performing in The 2011 Out of Bounds Comedy..."
 ---
 <div style="text-align: center;"><img src="Simply D-Vine.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Lucy."
 ---
 <div style="text-align: center;"><img src="Lucy.jpg" style="max-width: 100%; height: auto;" /></div>
 

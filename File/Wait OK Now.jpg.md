@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Wait OK Now performing at Salvage Vanguard Theater on May..."
 ---
 <div style="text-align: center;"><img src="Wait OK Now.jpg" style="max-width: 100%; height: auto;" /></div>
 

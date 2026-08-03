@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity banner art for Trash."
 ---
 <div style="text-align: center;"><img src="Trash.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Lacy Shawn standing on a rainy street in San Francisco."
 ---
 <div style="text-align: center;"><img src="Lacy Shawn Profile.jpg" style="max-width: 100%; height: auto;" /></div>
 

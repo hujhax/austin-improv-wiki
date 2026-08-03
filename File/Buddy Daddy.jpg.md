@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Buddy Daddy, in their 8/30/08 performance at The 2008 Out..."
 ---
 <div style="text-align: center;"><img src="Buddy Daddy.jpg" style="max-width: 100%; height: auto;" /></div>
 

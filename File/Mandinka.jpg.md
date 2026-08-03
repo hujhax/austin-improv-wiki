@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Promotional photo for Mandinka, featuring Mia Iseman and Andrew Buck."
 ---
 <div style="text-align: center;"><img src="Mandinka.jpg" style="max-width: 100%; height: auto;" /></div>
 

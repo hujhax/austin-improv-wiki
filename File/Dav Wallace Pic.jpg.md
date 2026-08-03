@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Dav Wallace, performing with Improv for Evil in their \"Office..."
 ---
 <div style="text-align: center;"><img src="Dav Wallace Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

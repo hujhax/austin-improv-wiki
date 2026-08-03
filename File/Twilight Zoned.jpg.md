@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Troy Miller and Sean Hill, in the 1/14/11 performance of..."
 ---
 <div style="text-align: center;"><img src="Twilight Zoned.jpg" style="max-width: 100%; height: auto;" /></div>
 

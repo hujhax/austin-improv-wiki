@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for The Sicks."
 ---
 <div style="text-align: center;"><img src="The Sicks.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jordan T. Maxwell plays the First Professor in the 6/23/11..."
 ---
 <div style="text-align: center;"><img src="The First Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 

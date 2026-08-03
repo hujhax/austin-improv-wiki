@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Screen capture from the 6/14/12 video of Myth Debunkers, featuring..."
 ---
 <div style="text-align: center;"><img src="Myth Debunkers.jpg" style="max-width: 100%; height: auto;" /></div>
 

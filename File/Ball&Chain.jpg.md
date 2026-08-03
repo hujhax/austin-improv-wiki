@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity photo of Ball&Chain."
 ---
 <div style="text-align: center;"><img src="Ball&Chain.jpg" style="max-width: 100%; height: auto;" /></div>
 

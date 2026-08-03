@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Jorak and Jorak Do Movie, performing at ColdTowne Theater..............................................................................................................................................."
 ---
 <div style="text-align: center;"><img src="Jorak and Jorak Do Movie.jpg" style="max-width: 100%; height: auto;" /></div>
 

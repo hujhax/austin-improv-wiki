@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image for Ghetto Sketch Warlock."
 ---
 <div style="text-align: center;"><img src="Ghetto Sketch Warlock.jpg" style="max-width: 100%; height: auto;" /></div>
 

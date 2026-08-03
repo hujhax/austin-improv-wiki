@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for the 2012 Improvised Play Festival."
 ---
 <div style="text-align: center;"><img src="Improvised Play Festival Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 

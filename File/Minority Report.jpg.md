@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity image of Minority Report."
 ---
 <div style="text-align: center;"><img src="Minority Report.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Achatina Achatina celebrating their victory in the 2009 Cagematch."
 ---
 <div style="text-align: center;"><img src="Achatina Achatina.jpg" style="max-width: 100%; height: auto;" /></div>
 

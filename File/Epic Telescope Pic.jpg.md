@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "The conclusion of the 7-minute iteration of Epic Telescope, from..."
 ---
 <div style="text-align: center;"><img src="Epic Telescope Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Amber Shae, Quinn Buckner, and Michael Thomas perform a scene..."
 ---
 <div style="text-align: center;"><img src="Merlin Works Mixer.jpg" style="max-width: 100%; height: auto;" /></div>
 

@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Publicity poster for Puppet Fever."
 ---
 <div style="text-align: center;"><img src="Puppet Fever.jpg" style="max-width: 100%; height: auto;" /></div>
 

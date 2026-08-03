@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Brently Heilbron in the 4/7/13 performance of The Rubber Room."
 ---
 <div style="text-align: center;"><img src="Brently Heilbron Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 

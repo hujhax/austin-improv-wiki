@@ -1,5 +1,5 @@
 ---
-description: "==Summary==."
+description: "Promo photo for Parallelogramophonograph from their Reverend Goodman show."
 ---
 <div style="text-align: center;"><img src="Pgraph goodman.jpg" style="max-width: 100%; height: auto;" /></div>
 

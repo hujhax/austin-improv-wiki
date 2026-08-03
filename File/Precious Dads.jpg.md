@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Logo for the troupe Precious Dads."
 ---
 <div style="text-align: center;"><img src="Precious Dads.jpg" style="max-width: 100%; height: auto;" /></div>
 

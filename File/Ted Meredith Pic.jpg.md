@@ -1,5 +1,5 @@
 ---
-description: "== Summary ==."
+description: "Ted Meredith, in the 5/19/13 performance in Thinning the Herd."
 ---
 <div style="text-align: center;"><img src="Ted Meredith Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
