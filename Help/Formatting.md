@@ -3,110 +3,118 @@ Here's a quick list of some of the most useful ways to format text in a wiki pag
 
 [This site](http://www.mediawiki.org/wiki/Help:Formatting) lists a more complete list of features.
 
-{| class="wikitable"
-! Description
-! width=40% | You type
-! width=40% | You get
-|-
-! colspan="3" style="background:#ABE" | character (inline) formatting – *applies anywhere*
-|-
-| Italic text
-| <pre>
+<table class="wikitable">
+  <tr >
+    <th > Description</th>
+    <th width=40%>You type</th>
+    <th width=40%>You get</th>
+  </tr>
+  <tr >
+    <th colspan="3" style="background:#ABE">character (inline) formatting – *applies anywhere*</th>
+  </tr>
+  <tr >
+    <td > Italic text</td>
+    <td > <pre>
 *italic*
-</pre>
-|
-*italic*
-|-
-| Bold text
-| <pre>
+</pre></td>
+    <td >
+*italic*</td>
+  </tr>
+  <tr >
+    <td > Bold text</td>
+    <td > <pre>
 **bold**
-</pre>
-|
-**bold**
-|-
-| Bold and italic
-| <pre>
+</pre></td>
+    <td >
+**bold**</td>
+  </tr>
+  <tr >
+    <td > Bold and italic</td>
+    <td > <pre>
 ***bold & italic***
-</pre>
-|
-***bold & italic***
-|-
-| Escape wiki markup
-| <pre>
+</pre></td>
+    <td >
+***bold & italic***</td>
+  </tr>
+  <tr >
+    <td > Escape wiki markup</td>
+    <td > <pre>
 &lt;nowiki&gt;no *markup*&lt;/nowiki&gt;
-</pre>
-|
-<nowiki>no *markup*</nowiki>
-|-
-! colspan="3" style="background:#ABE" | section formatting – *only at the beginning of the line*
-|-
-| Headings of different levels 
-| <pre>
-
+</pre></td>
+    <td >
+<nowiki>no *markup*</nowiki></td>
+  </tr>
+  <tr >
+    <th colspan="3" style="background:#ABE">section formatting – *only at the beginning of the line*</th>
+  </tr>
+  <tr >
+    <td > Headings of different levels</td>
+    <td > <pre>
 ## Level 2
 ### Level 3
 #### Level 4
 ##### Level 5
 ###### Level 6
-</pre>
-|
-
+</pre></td>
+    <td >
 ## Level 2
 ### Level 3
 #### Level 4
 ##### Level 5
 ###### Level 6
-|-
-| Bullet list
-|
+</td>
+  </tr>
+  <tr >
+    <td > Bullet list</td>
+    <td >
 <pre>
 * Start each line
-* with an [[Wikipedia - asterisk|asterisk]] (*).
+* with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (*).
 	* More asterisks gives deeper
 		* and deeper levels.
 * Line breaks<br />don't break levels.
 		* But jumping levels creates empty space.
 Any other start ends the list.
-</pre>
-|
+</pre></td>
+    <td >
 * Start each line
-* with an [[Wikipedia - asterisk|asterisk]] (*).
+* with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (*).
 	* More asterisks gives deeper
 		* and deeper levels.
 * Line breaks<br />don't break levels.
 		* But jumping levels creates empty space.
-Any other start ends the list.
-|-
-| Numbered list
-|
+Any other start ends the list.</td>
+  </tr>
+  <tr >
+    <td > Numbered list</td>
+    <td >
 <pre>
 1. Start each line
-1. with a [[Wikipedia - Number sign|number sign]] (#).
+1. with a <a class="internal-link" href="Wikipedia - Number sign">number sign</a> (#).
 	1. More number signs gives deeper
 		1. and deeper
 		1. levels.
 1. Line breaks<br />don't break levels.
 		1. But jumping levels creates empty space.
 1. Blank lines
-
 1. end the list and start another.
 Any other start also
 ends the list.
-</pre>
-|
+</pre></td>
+    <td >
 1. Start each line
-1. with a [[Wikipedia - Number sign|number sign]] (#).
+1. with a <a class="internal-link" href="Wikipedia - Number sign">number sign</a> (#).
 	1. More number signs gives deeper
 		1. and deeper
 		1. levels.
 1. Line breaks<br />don't break levels.
 		1. But jumping levels creates empty space.
 1. Blank lines
-
 1. end the list and start another.
 Any other start also
-ends the list.
-|}
+ends the list.</td>
+  </tr>
+</table>
 
 ## Links
 Here's a quick list of how to make some simple links.
@@ -114,27 +122,33 @@ Here's a quick list of how to make some simple links.
 [This site](http://www.mediawiki.org/wiki/Help:Links) lists a more complete list of features.
 
 
-{| border="1" class="wikitable"
-!Description
-!You type
-!You get
-|-
-|Internal link
-|<pre>[[Main Page]]</pre>
-|[[Main Page]]
-|-
-|Piped link 
-|<pre>[[Main Page|different text]]</pre>
-|[[Main Page|different text]]
-|-
-|External link
-|<tt><nowiki>http://mediawiki.org</nowiki></tt>
-|http://mediawiki.org
-|-
-|External link with different label
-|<tt><nowiki>[MediaWiki](http://mediawiki.org)</nowiki></tt>
-|[MediaWiki](http://mediawiki.org)
-|}
+<table border="1" class="wikitable">
+  <tr >
+    <th >Description</th>
+    <th >You type</th>
+    <th >You get</th>
+  </tr>
+  <tr >
+    <td >Internal link</td>
+    <td ><pre><a class="internal-link" href="Main Page">Main Page</a></pre></td>
+    <td ><a class="internal-link" href="Main Page">Main Page</a></td>
+  </tr>
+  <tr >
+    <td >Piped link</td>
+    <td ><pre><a class="internal-link" href="Main Page">different text</a></pre></td>
+    <td ><a class="internal-link" href="Main Page">different text</a></td>
+  </tr>
+  <tr >
+    <td >External link</td>
+    <td ><tt><nowiki>http://mediawiki.org</nowiki></tt></td>
+    <td >http://mediawiki.org</td>
+  </tr>
+  <tr >
+    <td >External link with different label</td>
+    <td ><tt><nowiki>[MediaWiki](http://mediawiki.org)</nowiki></tt></td>
+    <td >[MediaWiki](http://mediawiki.org)</td>
+  </tr>
+</table>
 
 ## Infoboxes
 You may be wondering how to make those little colorful "information boxes" depicted on (for example) the troupe, theater, and performer pages.

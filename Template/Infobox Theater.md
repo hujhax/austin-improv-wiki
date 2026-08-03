@@ -28,20 +28,33 @@ This template lists standard, useful information about an improv theater.
 
 
 ## Attributes
-{| class="wikitable" style="line-height:1.3em;"
-!style="background:gray; text-align:left;"| Parameter
-!style="background:gray; text-align:left;"| Explanation
-|-
-| *Name*       || The name of the theater.
-|-
-| *Picture*           || A picture of the theater.
-|-
-| *Address*           || The theater's street address.  Austin is assumed; if it's a nearby city, include the city name afterwards, in parentheses: "(Round Rock)".
-|-
-| *Homepage*         || The URL of the theater's web page.
-|-
-| *Years*     || The years that the theater was in operation, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".
-|}
+<table class="wikitable" style="line-height:1.3em;">
+  <tr >
+    <th style="background:gray; text-align:left;">Parameter</th>
+    <th style="background:gray; text-align:left;">Explanation</th>
+  </tr>
+  <tr >
+    <td > *Name*       </td>
+    <td > The name of the theater.</td>
+  </tr>
+  <tr >
+    <td > *Picture*           </td>
+    <td > A picture of the theater.</td>
+  </tr>
+  <tr >
+    <td > *Address*           </td>
+    <td > The theater's street address.  Austin is assumed; if it's a nearby city, include the city name afterwards, in parentheses: "(Round Rock)".</td>
+  </tr>
+  <tr >
+    <td > *Homepage*         </td>
+    <td > The URL of the theater's web page.</td>
+  </tr>
+  <tr >
+    <td > *Years*     </td>
+    <td > The years that the theater was in operation, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".</td>
+  </tr>
+</table>
+
 </noinclude>
 
 <div>

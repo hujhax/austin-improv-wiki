@@ -31,42 +31,77 @@ This template lists standard, useful information about an improv show.
 
 
 ## Attributes
-{| class="wikitable" style="line-height:1.3em;"
-!style="background:gray; text-align:left;"| Parameter
-!style="background:gray; text-align:left;"| Explanation
-|-
-| *Name*       || The name of the show.
-|-
-| *Picture*           || A picture associated with the show; typically the publicity poster.
-|-
-| *Theater*           || The theater where the show happened.  In some cases, this could be more than one theater.
-|-
-| *Director*           || The person or persons who directed the show.
-|-
-| *Assistant Director* || List any assistant director here.
-|-
-| *Tech Director* || List any tech director here.
-|-
-| *Dramaturg* || List any dramaturgs here.
-|-
-| *Stage Manager* || List any stage managers here.
-|-
-| *Music Director* || List any music director here.
-|-
-| *Producer*           || The entity (such as [[Gnap!]]) that produced the show, if that's different from the theater.
-|-
-| *Cast*           || Who was in the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of performers.
-|-
-| *Past Members*           || The past stage, technical, and backstage members of the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
-|-
-| *Tech*           || Who teched the show.  Use the [[Template/Unbulleted list|unbulleted list template]] to make a list of technical improvisors, if necessary.
-|-
-| *Music*           || If there was live music for the show, list the musician or musicians here.
-|-
-| *Run*     || The time frame of its initial run -- e.g., "Jan/Feb 2010".
-|-
-| *Subsequent Runs*     || The time frame(s) of its subsequent run(s) -- e.g., "Jan/Feb 2010".  If there are multiple subsequent runs, use the [[Template/Unbulleted list|unbulleted list template]] to create a list.
-|}
+<table class="wikitable" style="line-height:1.3em;">
+  <tr >
+    <th style="background:gray; text-align:left;">Parameter</th>
+    <th style="background:gray; text-align:left;">Explanation</th>
+  </tr>
+  <tr >
+    <td > *Name*       </td>
+    <td > The name of the show.</td>
+  </tr>
+  <tr >
+    <td > *Picture*           </td>
+    <td > A picture associated with the show; typically the publicity poster.</td>
+  </tr>
+  <tr >
+    <td > *Theater*           </td>
+    <td > The theater where the show happened.  In some cases, this could be more than one theater.</td>
+  </tr>
+  <tr >
+    <td > *Director*           </td>
+    <td > The person or persons who directed the show.</td>
+  </tr>
+  <tr >
+    <td > *Assistant Director* </td>
+    <td > List any assistant director here.</td>
+  </tr>
+  <tr >
+    <td > *Tech Director* </td>
+    <td > List any tech director here.</td>
+  </tr>
+  <tr >
+    <td > *Dramaturg* </td>
+    <td > List any dramaturgs here.</td>
+  </tr>
+  <tr >
+    <td > *Stage Manager* </td>
+    <td > List any stage managers here.</td>
+  </tr>
+  <tr >
+    <td > *Music Director* </td>
+    <td > List any music director here.</td>
+  </tr>
+  <tr >
+    <td > *Producer*           </td>
+    <td > The entity (such as <a class="internal-link" href="Gnap!">Gnap!</a>) that produced the show, if that's different from the theater.</td>
+  </tr>
+  <tr >
+    <td > *Cast*           </td>
+    <td > Who was in the show.  Use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to make a list of performers.</td>
+  </tr>
+  <tr >
+    <td > *Past Members*           </td>
+    <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+  </tr>
+  <tr >
+    <td > *Tech*           </td>
+    <td > Who teched the show.  Use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to make a list of technical improvisors, if necessary.</td>
+  </tr>
+  <tr >
+    <td > *Music*           </td>
+    <td > If there was live music for the show, list the musician or musicians here.</td>
+  </tr>
+  <tr >
+    <td > *Run*     </td>
+    <td > The time frame of its initial run -- e.g., "Jan/Feb 2010".</td>
+  </tr>
+  <tr >
+    <td > *Subsequent Runs*     </td>
+    <td > The time frame(s) of its subsequent run(s) -- e.g., "Jan/Feb 2010".  If there are multiple subsequent runs, use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to create a list.</td>
+  </tr>
+</table>
+
 </noinclude>
 
 <div>

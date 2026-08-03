@@ -26,26 +26,45 @@ This template lists standard, useful information about an improv troupe.
 </pre>
 
 ## Attributes
-{| class="wikitable" style="line-height:1.3em;"
-!style="background:gray; text-align:left;"| Parameter
-!style="background:gray; text-align:left;"| Explanation
-|-
-| *Name*       || The name of the troupe.
-|-
-| *Picture*           || A picture of the troupe.
-|-
-| *Years*     || The years that the troupe was active, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".
-|-
-| *Directed By*     || The director of the troupe (optional). To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
-|-
-| *Cast*           || The stage performers in the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
-|-
-| *Past Members*           || The past stage, technical, and backstage members of the troupe. To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
-|-
-| *Tech*           || The technical improvisors in the troupe (optional). To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
-|-
-| *Crew*           || The backstage people involved in the troupe (optional). To include a list of people, use [[Template/Unbulleted list|Template:Unbulleted list]].
-|}
+<table class="wikitable" style="line-height:1.3em;">
+  <tr >
+    <th style="background:gray; text-align:left;">Parameter</th>
+    <th style="background:gray; text-align:left;">Explanation</th>
+  </tr>
+  <tr >
+    <td > *Name*       </td>
+    <td > The name of the troupe.</td>
+  </tr>
+  <tr >
+    <td > *Picture*           </td>
+    <td > A picture of the troupe.</td>
+  </tr>
+  <tr >
+    <td > *Years*     </td>
+    <td > The years that the troupe was active, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".</td>
+  </tr>
+  <tr >
+    <td > *Directed By*     </td>
+    <td > The director of the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+  </tr>
+  <tr >
+    <td > *Cast*           </td>
+    <td > The stage performers in the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+  </tr>
+  <tr >
+    <td > *Past Members*           </td>
+    <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+  </tr>
+  <tr >
+    <td > *Tech*           </td>
+    <td > The technical improvisors in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+  </tr>
+  <tr >
+    <td > *Crew*           </td>
+    <td > The backstage people involved in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
+  </tr>
+</table>
+
 </noinclude>
 
 <div>

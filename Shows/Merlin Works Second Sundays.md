@@ -30,28 +30,59 @@
 
 **Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].
 
-{| class="wikitable"
-|**Performance Date**||**Student Performance(s)**||**Guest Troupe(s)**
-|-
-|December 13, 2020||N/A||Coach Rookard Teaches Improv
-|-
-|November 8, 2020||N/A||Hideout Kids
-|-
-|October 11, 2020||N/A||Minority Report
-|-
-|September 13, 2020||N/A||The Knuckleball Now
-|-
-|August 9, 2020||N/A||Manacle
-|-
-|July 12, 2020||N/A||Rawdog: We Go For It
-|-
-|June 14, 2020||N/A||
-|-
-|May 10, 2020||N/A||Get Up
-|-
-|April 12, 2020||N/A||Edge Control
-|-
-|March 8, 2020||<div class="plainlist"><ul style=""><!--
+<table class="wikitable">
+  <tr >
+    <td >**Performance Date**</td>
+    <td >**Student Performance(s)**</td>
+    <td >**Guest Troupe(s)**</td>
+  </tr>
+  <tr >
+    <td >December 13, 2020</td>
+    <td >N/A</td>
+    <td >Coach Rookard Teaches Improv</td>
+  </tr>
+  <tr >
+    <td >November 8, 2020</td>
+    <td >N/A</td>
+    <td >Hideout Kids</td>
+  </tr>
+  <tr >
+    <td >October 11, 2020</td>
+    <td >N/A</td>
+    <td >Minority Report</td>
+  </tr>
+  <tr >
+    <td >September 13, 2020</td>
+    <td >N/A</td>
+    <td >The Knuckleball Now</td>
+  </tr>
+  <tr >
+    <td >August 9, 2020</td>
+    <td >N/A</td>
+    <td >Manacle</td>
+  </tr>
+  <tr >
+    <td >July 12, 2020</td>
+    <td >N/A</td>
+    <td >Rawdog: We Go For It</td>
+  </tr>
+  <tr >
+    <td >June 14, 2020</td>
+    <td >N/A</td>
+  </tr>
+  <tr >
+    <td >May 10, 2020</td>
+    <td >N/A</td>
+    <td >Get Up</td>
+  </tr>
+  <tr >
+    <td >April 12, 2020</td>
+    <td >N/A</td>
+    <td >Edge Control</td>
+  </tr>
+  <tr >
+    <td >March 8, 2020</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Improv 401</li><!--
   --><!--
@@ -102,9 +133,12 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|February 9, 2020||N/A||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >February 9, 2020</td>
+    <td >N/A</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
   --><li style="">S'Nailed It</li><!--
   --><!--
@@ -155,9 +189,12 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|January 12, 2020||N/A||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >January 12, 2020</td>
+    <td >N/A</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
   --><li style="">Coach Rookard Teaches Improv</li><!--
   --><!--
@@ -208,11 +245,17 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|December 8, 2019||Singing 601||Echo Formal Gecko
-|-
-|November 10, 2019||N/A||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >December 8, 2019</td>
+    <td >Singing 601</td>
+    <td >Echo Formal Gecko</td>
+  </tr>
+  <tr >
+    <td >November 10, 2019</td>
+    <td >N/A</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
   --><li style="">Rook</li><!--
   --><!--
@@ -263,9 +306,11 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|October 20, 2019||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >October 20, 2019</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 501</li><!--
   --><!--
@@ -316,9 +361,12 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|September 8, 2019||N/A||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >September 8, 2019</td>
+    <td >N/A</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
   --><li style="">The Knuckleball Now</li><!--
   --><!--
@@ -369,9 +417,12 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|August 11, 2019||N/A||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >August 11, 2019</td>
+    <td >N/A</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
   --><li style="">Helmet Thieves</li><!--
   --><!--
@@ -422,9 +473,11 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|July 14, 2019||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >July 14, 2019</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Singing 301</li><!--
   --><li style="">Singing 401</li><!--
   --><!--
@@ -475,9 +528,12 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|June 9, 2019||N/A||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >June 9, 2019</td>
+    <td >N/A</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
   --><li style="">Hometown</li><!--
   --><!--
@@ -528,9 +584,11 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|May 12, 2019||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >May 12, 2019</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 301</li><!--
   --><!--
@@ -581,11 +639,16 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|April 14, 2019||ZACH student showcase||Double-Time
-|-
-|March 3, 2019||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >April 14, 2019</td>
+    <td >ZACH student showcase</td>
+    <td >Double-Time</td>
+  </tr>
+  <tr >
+    <td >March 3, 2019</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing Improv Masterclass</li><!--
   --><!--
@@ -636,27 +699,56 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|February 10, 2019||Student showcase||[[Nice Jewish Girls]]
-|-
-|January 13, 2019||Student showcase||The Millies
-|-
-|December 9, 2018||Singing 301||N/A
-|-
-|November 11, 2018||Singing 601||[[Better Than Dignity]]
-|-
-|October 21, 2018||Improv 301||[[Troupes/Kevlar -  We're Bulletproof|Kevlar -  We're Bulletproof]]
-|-
-|September 9, 2018||Student showcase||[[Crossroads]]
-|-
-|August 12, 2018||Singing 501||[[Small Town News]]
-|-
-|July 8, 2018||Improv 201||[[The Morning After]]
-|-
-|June 10, 2018||Student showcase||[[Troupes/Soy Taco|Soy Taco]] 
-|-
-|May 13, 2018||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >February 10, 2019</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Nice Jewish Girls">Nice Jewish Girls</a></td>
+  </tr>
+  <tr >
+    <td >January 13, 2019</td>
+    <td >Student showcase</td>
+    <td >The Millies</td>
+  </tr>
+  <tr >
+    <td >December 9, 2018</td>
+    <td >Singing 301</td>
+    <td >N/A</td>
+  </tr>
+  <tr >
+    <td >November 11, 2018</td>
+    <td >Singing 601</td>
+    <td ><a class="internal-link" href="Better Than Dignity">Better Than Dignity</a></td>
+  </tr>
+  <tr >
+    <td >October 21, 2018</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Troupes/Kevlar -  We're Bulletproof">Kevlar -  We're Bulletproof</a></td>
+  </tr>
+  <tr >
+    <td >September 9, 2018</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Crossroads">Crossroads</a></td>
+  </tr>
+  <tr >
+    <td >August 12, 2018</td>
+    <td >Singing 501</td>
+    <td ><a class="internal-link" href="Small Town News">Small Town News</a></td>
+  </tr>
+  <tr >
+    <td >July 8, 2018</td>
+    <td >Improv 201</td>
+    <td ><a class="internal-link" href="The Morning After">The Morning After</a></td>
+  </tr>
+  <tr >
+    <td >June 10, 2018</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Soy Taco">Soy Taco</a></td>
+  </tr>
+  <tr >
+    <td >May 13, 2018</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Improv 601</li><!--
   --><li style="">Singing 301</li><!--
@@ -707,11 +799,16 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A 
-|-
-|April 8, 2018||Student showcase||[[Troupes/Get Up|Get Up]] 
-|-
-|March 4, 2018||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A </td>
+  </tr>
+  <tr >
+    <td >April 8, 2018</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Get Up">Get Up</a></td>
+  </tr>
+  <tr >
+    <td >March 4, 2018</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Singing 301</li><!--
   --><li style="">Singing 401</li><!--
   --><!--
@@ -762,11 +859,17 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|February 11, 2018||Student showcase||[[Troupes/Girls Girls Girls|Girls Girls Girls]] 
-|-
-|January 7, 2018||N/A||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >February 11, 2018</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
+  </tr>
+  <tr >
+    <td >January 7, 2018</td>
+    <td >N/A</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Dial 'I' for Improv">Dial 'I' for Improv</a></li><!--
   --><li style=""><a class="internal-link" href="Troupes/Golden">Golden</a></li><!--
   --><!--
@@ -817,9 +920,11 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|December 3, 2017||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >December 3, 2017</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Singing 201</li><!--
   --><li style="">Singing 301</li><!--
   --><!--
@@ -870,21 +975,41 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A 
-|-
-|November 12, 2017||Student showcase||[[Harlequin]]
-|-
-|October 1, 2017||Improv 301||[[Miller & Lies]]
-|-
-|September 10, 2017||Student showcase||[[Camp sLaughter]]
-|-
-|August 13, 2017||Well Versed student showcase||[[The Matriarchy]]
-|-
-|July 9, 2017||Improv 201 recital||[[Donut Patrol]]
-|-
-|June 11, 2017||Student showcase||[[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]]
-|-
-|May 14, 2017||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A </td>
+  </tr>
+  <tr >
+    <td >November 12, 2017</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Harlequin">Harlequin</a></td>
+  </tr>
+  <tr >
+    <td >October 1, 2017</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Miller & Lies">Miller & Lies</a></td>
+  </tr>
+  <tr >
+    <td >September 10, 2017</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Camp sLaughter">Camp sLaughter</a></td>
+  </tr>
+  <tr >
+    <td >August 13, 2017</td>
+    <td >Well Versed student showcase</td>
+    <td ><a class="internal-link" href="The Matriarchy">The Matriarchy</a></td>
+  </tr>
+  <tr >
+    <td >July 9, 2017</td>
+    <td >Improv 201 recital</td>
+    <td ><a class="internal-link" href="Donut Patrol">Donut Patrol</a></td>
+  </tr>
+  <tr >
+    <td >June 11, 2017</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Things We Don't Speak Of">Things We Don't Speak Of</a></td>
+  </tr>
+  <tr >
+    <td >May 14, 2017</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 501</li><!--
   --><!--
@@ -935,11 +1060,16 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A 
-|-
-|April 9, 2017||Student showcase||[[Migas]]
-|-
-|March 5, 2017||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A </td>
+  </tr>
+  <tr >
+    <td >April 9, 2017</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Migas">Migas</a></td>
+  </tr>
+  <tr >
+    <td >March 5, 2017</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 401</li><!--
   --><li style="">601 presents "Dial I for Improv"</li><!--
@@ -990,27 +1120,56 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|February 12, 2017||Student showcase||[[Sugar Water Purple]]
-|-
-|January 8, 2017||Student showcase||[[Troupes/Channel 2|Channel 2]]
-|-
-|December 11, 2016||Merlin Works holiday party||N/A 
-|-
-|November 13, 2016||Improv 301||[[Troupes/JK|JK]]
-|-
-|October 16, 2016||Student showcase||[[Troupes/Minority Report|Minority Report]]
-|-
-|September 11, 2016||Student showcase||[[Troupes/Empty Promises|Empty Promises]]
-|-
-|August 14, 2016||Improv 301||[[Troupes/Opposites|Opposites]] 
-|-
-|July 10, 2016||Student showcase||[[Troupes/Loverboy|Loverboy]] 
-|-
-|June 12, 2016||Merlin Works student troupe||[[Damn Gina]] 
-|-
-|May 8, 2016||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >February 12, 2017</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Sugar Water Purple">Sugar Water Purple</a></td>
+  </tr>
+  <tr >
+    <td >January 8, 2017</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Channel 2">Channel 2</a></td>
+  </tr>
+  <tr >
+    <td >December 11, 2016</td>
+    <td >Merlin Works holiday party</td>
+    <td >N/A</td>
+  </tr>
+  <tr >
+    <td >November 13, 2016</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Troupes/JK">JK</a></td>
+  </tr>
+  <tr >
+    <td >October 16, 2016</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Minority Report">Minority Report</a></td>
+  </tr>
+  <tr >
+    <td >September 11, 2016</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Empty Promises">Empty Promises</a></td>
+  </tr>
+  <tr >
+    <td >August 14, 2016</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Troupes/Opposites">Opposites</a></td>
+  </tr>
+  <tr >
+    <td >July 10, 2016</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Loverboy">Loverboy</a></td>
+  </tr>
+  <tr >
+    <td >June 12, 2016</td>
+    <td >Merlin Works student troupe</td>
+    <td ><a class="internal-link" href="Damn Gina">Damn Gina</a></td>
+  </tr>
+  <tr >
+    <td >May 8, 2016</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 301</li><!--
   --><li style="">601 presents "Angst High"</li><!--
@@ -1061,11 +1220,16 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|April 10, 2016||Student showcase||[[Troupes/Physics Curse|Physics Curse]] 
-|-
-|March 6, 2016||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >April 10, 2016</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Physics Curse">Physics Curse</a></td>
+  </tr>
+  <tr >
+    <td >March 6, 2016</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 301</li><!--
   --><!--
@@ -1116,21 +1280,41 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|February 7, 2016||Student showcase||[[Love Me Tinder]]
-|-
-|November 22, 2015||Student showcase||[[Troupes/Golden|Golden]] 
-|-
-|November 8, 2015||Student showcase||[[Troupes/Houses in Motion|Houses in Motion]] 
-|-
-|October 11, 2015||601 presents "The Big Event"||[[Troupes/MC Harold|MC Harold]] 
-|-
-|September 13, 2015||Student showcase||[[Troupes/In Our Prime|In Our Prime]] 
-|-
-|August 9, 2015||Student showcase||[[Shows/History Under the Influence|History Under the Influence]] 
-|-
-|July 12, 2015||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >February 7, 2016</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Love Me Tinder">Love Me Tinder</a></td>
+  </tr>
+  <tr >
+    <td >November 22, 2015</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Golden">Golden</a></td>
+  </tr>
+  <tr >
+    <td >November 8, 2015</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Houses in Motion">Houses in Motion</a></td>
+  </tr>
+  <tr >
+    <td >October 11, 2015</td>
+    <td >601 presents "The Big Event"</td>
+    <td ><a class="internal-link" href="Troupes/MC Harold">MC Harold</a></td>
+  </tr>
+  <tr >
+    <td >September 13, 2015</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/In Our Prime">In Our Prime</a></td>
+  </tr>
+  <tr >
+    <td >August 9, 2015</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Shows/History Under the Influence">History Under the Influence</a></td>
+  </tr>
+  <tr >
+    <td >July 12, 2015</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 301</li><!--
   --><!--
@@ -1181,11 +1365,16 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A 
-|-
-|June 14, 2015||Student showcase||[[Troupes/The Escorts|The Escorts]]
-|-
-|May 10, 2015||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A </td>
+  </tr>
+  <tr >
+    <td >June 14, 2015</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/The Escorts">The Escorts</a></td>
+  </tr>
+  <tr >
+    <td >May 10, 2015</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 301</li><!--
   --><li style="">601 presents "Let's Fake A Movie"</li><!--
@@ -1236,11 +1425,16 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|April 12, 2015||Student showcase||[[Troupes/Brain Trust|Brain Trust]] 
-|-
-|March 8, 2015||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >April 12, 2015</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Brain Trust">Brain Trust</a></td>
+  </tr>
+  <tr >
+    <td >March 8, 2015</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 301</li><!--
   --><li style="">601 presents "Small Town, Big Secret"</li><!--
@@ -1291,11 +1485,17 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|February 8, 2015||Student showcase||[[Troupes/Miller & Purselley|Miller & Purselley]] 
-|-
-|January 11, 2015||Student showcase||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >February 8, 2015</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Miller & Purselley">Miller & Purselley</a></td>
+  </tr>
+  <tr >
+    <td >January 11, 2015</td>
+    <td >Student showcase</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="The New Kids">The New Kids</a></li><!--
   --><li style=""><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></li><!--
   --><!--
@@ -1346,13 +1546,21 @@
   --><!--
   --><!--
   --><!--
---></ul></div>
-|-
-|November 23, 2014||Student showcase||[[Troupes/That Racket!|That Racket!]] 
-|-
-|November 9, 2014||Student showcase||[[Troupes/Get Up|Get Up]]
-|-
-|October 12, 2014||<div class="plainlist"><ul style=""><!--
+--></ul></div></td>
+  </tr>
+  <tr >
+    <td >November 23, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/That Racket!">That Racket!</a></td>
+  </tr>
+  <tr >
+    <td >November 9, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Get Up">Get Up</a></td>
+  </tr>
+  <tr >
+    <td >October 12, 2014</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">601 presents "Trapped"</li><!--
   --><!--
@@ -1403,13 +1611,21 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|September 14, 2014||Student showcase||[[Shows/Hurly Burly|Hurly Burly]] 
-|-
-|August 10, 2014||Student showcase||[[Troupes/Midnight Society|Midnight Society]] 
-|-
-|July 13, 2014||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >September 14, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Shows/Hurly Burly">Hurly Burly</a></td>
+  </tr>
+  <tr >
+    <td >August 10, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Midnight Society">Midnight Society</a></td>
+  </tr>
+  <tr >
+    <td >July 13, 2014</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">601 presents "Average Heroes"</li><!--
   --><li style="">Singing 301</li><!--
@@ -1460,15 +1676,26 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|June 8, 2014||Student showcase||[[Troupes/Bad Font|Bad Font]]
-|-
-|May 11, 2014||Improv 301||[[Troupes/My Best Fiend|My Best Fiend]] 
-|-
-|April 13, 2014||Student showcase||[[Troupes/Available Cupholders|Available Cupholders]]
-|-
-|March 9, 2014||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >June 8, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Bad Font">Bad Font</a></td>
+  </tr>
+  <tr >
+    <td >May 11, 2014</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Troupes/My Best Fiend">My Best Fiend</a></td>
+  </tr>
+  <tr >
+    <td >April 13, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Available Cupholders">Available Cupholders</a></td>
+  </tr>
+  <tr >
+    <td >March 9, 2014</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Improv 601</li><!--
   --><!--
@@ -1519,13 +1746,21 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|February 9, 2014||Student showcase||[[Troupes/Shades of Brown|Shades of Brown]]
-|-
-|January 19, 2014||Student showcase||[[Troupes/Bad Boys|Bad Boys]]
-|-
-|November 24, 2013||<div class="plainlist"><ul style=""><!--
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >February 9, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Shades of Brown">Shades of Brown</a></td>
+  </tr>
+  <tr >
+    <td >January 19, 2014</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Bad Boys">Bad Boys</a></td>
+  </tr>
+  <tr >
+    <td >November 24, 2013</td>
+    <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
   --><li style="">Singing 301</li><!--
   --><!--
@@ -1576,30 +1811,64 @@
   --><!--
   --><!--
   --><!--
---></ul></div>||N/A
-|-
-|November 10, 2013||Student showcase||[[Troupes/The Intentions|The Intentions]] 
-|-
-|October 13, 2013||Singing 301||[[Troupes/Junk|Junk]] 
-|-
-|September 8, 2013||Student showcase||[[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
-|-
-|August 11, 2013||Student showcase||[[Troupes/Rhinodino|Rhinodino]]
-|-
-|July 14, 2013||Improv 301||[[Troupes/The Frank Mills|The Frank Mills]]
-|-
-|June 9, 2013||Student showcase||[[Troupes/The Knuckleball Now|The Knuckleball Now]]
-|-
-|May 12, 2013||Improv 301||[[Troupes/Miller & Purselley|Miller & Purselley]]
-|-
-|April 14, 2013||Student showcase||[[Troupes/Confidence Men|Confidence Men]]
-|-
-|March 10, 2013||Improv 301||[[Troupes/Get Up|Get Up]]
-|-
-|February 10, 2013||Student showcase||[[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-|-
-|January 13, 2013||Student showcase||[[Troupes/Girls Girls Girls|Girls Girls Girls]] 
-|}
+--></ul></div>||N/A</td>
+  </tr>
+  <tr >
+    <td >November 10, 2013</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/The Intentions">The Intentions</a></td>
+  </tr>
+  <tr >
+    <td >October 13, 2013</td>
+    <td >Singing 301</td>
+    <td ><a class="internal-link" href="Troupes/Junk">Junk</a></td>
+  </tr>
+  <tr >
+    <td >September 8, 2013</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/¡ZARZAMORA!">¡ZARZAMORA!</a></td>
+  </tr>
+  <tr >
+    <td >August 11, 2013</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Rhinodino">Rhinodino</a></td>
+  </tr>
+  <tr >
+    <td >July 14, 2013</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Troupes/The Frank Mills">The Frank Mills</a></td>
+  </tr>
+  <tr >
+    <td >June 9, 2013</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/The Knuckleball Now">The Knuckleball Now</a></td>
+  </tr>
+  <tr >
+    <td >May 12, 2013</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Troupes/Miller & Purselley">Miller & Purselley</a></td>
+  </tr>
+  <tr >
+    <td >April 14, 2013</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Confidence Men">Confidence Men</a></td>
+  </tr>
+  <tr >
+    <td >March 10, 2013</td>
+    <td >Improv 301</td>
+    <td ><a class="internal-link" href="Troupes/Get Up">Get Up</a></td>
+  </tr>
+  <tr >
+    <td >February 10, 2013</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Parallelogramophonograph">Parallelogramophonograph</a></td>
+  </tr>
+  <tr >
+    <td >January 13, 2013</td>
+    <td >Student showcase</td>
+    <td ><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
+  </tr>
+</table>
 
 ## Media
 ### Photos
