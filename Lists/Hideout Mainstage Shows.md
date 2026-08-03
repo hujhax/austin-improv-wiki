@@ -579,7 +579,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
     <td >Nov 2019</td>
     <td >Dec 2019</td>
     <td ><em>The Hallmark Holiday Musical</em></td>
-    <td ><a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a>, <a class="internal-link" href="Monica Mahertinez">Monica Mahertinez</a></td>
+    <td ><a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a>, <a class="internal-link" href="Performers-Monica Mahertinez">Monica Mahertinez</a></td>
   </tr>
 </table>
 
@@ -752,7 +752,7 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
   <tr >
     <td >Feb 2019</td>
     <td ><em>Small Town Girl</em></td>
-    <td ><a class="internal-link" href="Monica Mahertinez">Monica Mahertinez</a>, <a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a></td>
+    <td ><a class="internal-link" href="Performers-Monica Mahertinez">Monica Mahertinez</a>, <a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a></td>
   </tr>
   <tr >
     <td >Apr 2019</td>

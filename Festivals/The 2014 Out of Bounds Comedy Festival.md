@@ -14,7 +14,7 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[Troupes/710 Split|710 Split]]
+* [[710 Split]]
 * [[Troupes/The Amazon & The Milksop|The Amazon & The Milksop]]
 * [[Shows/Austin Comedy Hour|Austin Comedy Hour]]
 * [[Troupes/Available Cupholders|Available Cupholders]]

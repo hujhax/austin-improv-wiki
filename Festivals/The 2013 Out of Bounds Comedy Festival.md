@@ -14,7 +14,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 
 ## Acts
 ### Local Improv and Sketch Acts
-* [[Troupes/710 Split|710 Split]]
+* [[710 Split]]
 * [[Shows/After School Improv|After School Improv]]
 * [[Troupes/The Amazon & The Milksop|The Amazon & The Milksop]]
 * [[Troupes/Array|Array]]
