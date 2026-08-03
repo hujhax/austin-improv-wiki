@@ -17,6 +17,7 @@
 			<td class="category">1998-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Craig Kotfas** is an improv performer.

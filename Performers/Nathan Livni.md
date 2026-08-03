@@ -17,6 +17,7 @@
 			<td class="category">2008-present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Nathan Livni** is an improv performer and artist. Since 2011 he's posted drawings he's made of improvisors on his [Facebook page](http://www.facebook.com/nathanlivni) and [website](http://www.nathanlivni.com).

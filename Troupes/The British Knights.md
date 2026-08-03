@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The British Knights** was a one-off *[[Shows/Cagematch|Cagematch]]* team.

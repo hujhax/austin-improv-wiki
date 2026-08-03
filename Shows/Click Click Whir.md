@@ -84,6 +84,7 @@
 			<td class="category">August 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Click Click Whir*** (full title: ***Click Click Whir: A Rhythmic Steampunk Adventure***) was a Hideout student mainstage show.  It was a steampunk adventure set in Victorian London which featured a percussive soundtrack improvised by the cast.

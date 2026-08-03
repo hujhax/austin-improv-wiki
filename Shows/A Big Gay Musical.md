@@ -80,6 +80,7 @@
 			<td class="category">Jul-Aug 2018</td>
 		</tr>
 	</table>
+
 </div>
 
 ***A Big Gay Musical*** was a Hideout mainstage musical featuring the lives and stories of queer people.

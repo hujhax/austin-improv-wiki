@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Better Half** is an improv duo in Austin, TX.

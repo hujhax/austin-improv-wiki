@@ -17,6 +17,7 @@
 			<td class="category">2015 - Present</td>
 		</tr>
 	</table>
+
 </div>
 
 Marc Jalandoon is an active improviser, primarily performing at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

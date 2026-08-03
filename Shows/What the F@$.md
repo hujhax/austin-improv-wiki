@@ -80,6 +80,7 @@
 			<td class="category">Feb 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***What the F@*$*** (the symbols can vary) was the first student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

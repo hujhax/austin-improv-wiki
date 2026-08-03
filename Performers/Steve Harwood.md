@@ -17,6 +17,7 @@
 			<td class="category">2012-2014</td>
 		</tr>
 	</table>
+
 </div>
 
 **Steve Harwood** is an improv performer.

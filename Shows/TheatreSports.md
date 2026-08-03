@@ -186,8 +186,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 : *This page refers to the competitive short-form improv show that's had several runs as a [[Theatres/Hideout|Hideout]] mainstage show.  For the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012, see [[Troupes/ComedySportz|ComedySportz]].*
 
 ***Theatresports*** is an improv-contest format from [[Wikipedia - Keith Johnstone|Keith Johnstone]] that has run repeatedly as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

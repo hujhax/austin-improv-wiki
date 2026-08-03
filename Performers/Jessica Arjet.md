@@ -17,6 +17,7 @@
 			<td class="category">2003-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jessica Arjet** is an improv performer, director, teacher, and co-owner of [[Theatres/The Hideout Theatre|The Hideout Theatre]].

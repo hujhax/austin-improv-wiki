@@ -17,6 +17,7 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Sam Schak** is an improviser living and performing in Austin, Texas.

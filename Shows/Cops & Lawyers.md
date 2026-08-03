@@ -127,8 +127,8 @@
 			<td class="category">Jul-Sep 2006</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ![[Cops & Lawyers Postcard.jpg|Postcard for *Cops & Lawyers*]]
 ***Cops & Lawyers*** was an improvised longform narrative show inspired by *[[Wikipedia - Law & Order|Law & Order]]*
 

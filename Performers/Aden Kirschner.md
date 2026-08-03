@@ -17,6 +17,7 @@
 			<td class="category">2005-2014</td>
 		</tr>
 	</table>
+
 </div>
 
 **Aden Kirschner** is an award winning performer, skilled improv teacher, facilitator and trainer, and operated as the Corporate Training and Events Coordinator for [[The Merlin Works Institute for Improvisation]]. Her performance and corporate training clients included Austin Waldorf High School, Hewlett Packard, Safe Place and Dell. As a teacher, Aden sought to create a fun, safe environment where people can explore and grow new practical skills to help them on stage, in business and in their private life.

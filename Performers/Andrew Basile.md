@@ -17,6 +17,7 @@
 			<td class="category">2012-present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Andrew Basile** is an improvisor based out of ColdTowne Theater in Austin, TX.

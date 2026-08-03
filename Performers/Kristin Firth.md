@@ -17,6 +17,7 @@
 			<td class="category">2003-2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **Kristin Firth** is a Canadian improv performer who lived in and performed regularly in Austin before moving to Philadelphia, Pennsylvania.

@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Baxter and Bernard** is an improv duo.

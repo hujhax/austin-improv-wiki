@@ -25,6 +25,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Lab*** is a monthly sketch-comedy open mic.

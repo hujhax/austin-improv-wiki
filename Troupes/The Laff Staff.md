@@ -72,6 +72,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Laff Staff** was an improv troupe that had a run at [[Theatres/Cap City Comedy Club|Cap City Comedy Club]] in the late 80s and early 90s.

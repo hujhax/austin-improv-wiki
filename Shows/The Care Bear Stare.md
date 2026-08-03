@@ -131,6 +131,7 @@
 			<td class="category">Jun 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Care Bear Stare*** was an improv format inspired by the Care Bears cartoons and the planning for the [[Festivals/44 Hour Improv Marathon|44 Hour Improv Marathon]].

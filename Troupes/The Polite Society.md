@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Polite Society** presents in a variety of formats when it feels like that's the right thing to do.

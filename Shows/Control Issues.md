@@ -182,6 +182,7 @@
 			<td class="category">Oct 2010-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Control Issues*** (previous titles: ***Pick Your Own Path***, ***Choose Your Own Adventure***) is [[Theatres/The Hideout Theatre|the Hideout Theatre's]] monthly Friday-night show based on *Choose Your Own Adventure* novels.

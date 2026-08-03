@@ -29,6 +29,7 @@
 			<td class="category">May 2015</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Four Chambers*** is the the inaugural second stage production of the 2015 Stargazer Series at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. 

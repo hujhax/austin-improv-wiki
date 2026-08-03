@@ -68,6 +68,7 @@
 			<td class="category">2009-2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **Andrew Pish** is an improv performer.

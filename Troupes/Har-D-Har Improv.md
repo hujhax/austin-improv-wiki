@@ -17,6 +17,7 @@
 			<td class="category">Semester to Yearly Rotating Cast</td>
 		</tr>
 	</table>
+
 </div>
 
 **Har-D-Har Improv** is a short-form improv comedy troupe and is the largest troupe at the University of Texas at Austin.

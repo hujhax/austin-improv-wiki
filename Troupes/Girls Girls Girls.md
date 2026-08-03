@@ -17,6 +17,7 @@
 			<td class="category">Various</td>
 		</tr>
 	</table>
+
 </div>
 
 **Girls Girls Girls** is an all-female musical-improv troupe.

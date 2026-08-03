@@ -17,6 +17,7 @@
 			<td class="category">2000-2004, 2007-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Peter Rogers** is an improv performer and director who works primarily with [[Theatres/The Hideout Theatre|The Hideout Theatre]].

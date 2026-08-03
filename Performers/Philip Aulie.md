@@ -17,6 +17,7 @@
 			<td class="category">2003-2007</td>
 		</tr>
 	</table>
+
 </div>
 
 **Philip "Phil" Aulie** (1986-2012) was an improv performer, musician, and slam poet.

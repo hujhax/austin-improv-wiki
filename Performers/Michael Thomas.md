@@ -17,6 +17,7 @@
 			<td class="category">2008-2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **Michael Thomas** is an improv performer and videographer.

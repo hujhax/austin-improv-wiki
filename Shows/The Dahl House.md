@@ -84,6 +84,7 @@
 			<td class="category">Aug 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Dahl House*** was the August 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

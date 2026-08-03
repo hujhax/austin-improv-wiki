@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Spirit Desire** was an improv troupe associated with [[Theatres/The New Movement Theater|The New Movement Theater]].

@@ -127,6 +127,7 @@
 			<td class="category">January-February 2018</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Orphans!*** was a Hideout mainstage improvised musicals about plucky orphans at the turn of the twentieth century.  It was inspired by works like *Annie*, *Oliver!*, and *Newsies*.

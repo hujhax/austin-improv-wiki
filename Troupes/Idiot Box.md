@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Idiot Box** (formerly **PhotoRealism**) was an improv troupe.

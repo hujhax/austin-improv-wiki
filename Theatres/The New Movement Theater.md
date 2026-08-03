@@ -21,6 +21,7 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **The New Movement** is a family of comedy theaters and training centers in Louisiana and formerly in Texas, focusing on long form improv and sketch comedy writing.

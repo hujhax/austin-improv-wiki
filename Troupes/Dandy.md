@@ -72,6 +72,7 @@
 			<td class="category">[[Performers/Cindy Page|Cindy Page]]</td>
 		</tr>
 	</table>
+
 </div>
 
 **Dandy** was an improv duo featuring [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/Clay Towery|Clay Towery]].

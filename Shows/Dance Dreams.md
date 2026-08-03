@@ -127,6 +127,7 @@
 			<td class="category">November-December 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Dance Dreams*** was a Hideout mainstage show set backstage at a ballet company.

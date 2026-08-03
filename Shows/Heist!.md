@@ -131,8 +131,8 @@
 			<td class="category">Mar 2010</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Heist!*** was an improv show based around heist capers.
 
 ## Summary

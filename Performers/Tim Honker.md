@@ -17,6 +17,7 @@
 			<td class="category">2008-2015</td>
 		</tr>
 	</table>
+
 </div>
 
 **Tim Honker** was a sketch writer/producer/actor/instructor in Austin, Texas and performed comedy in Austin and around the country from 2008-2015. 

@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Lindas** was an improv troupe that featured [[Performers/Emma Holder|Emma Holder]] and [[Performers/Kate Bojanek|Kate Bojanek]] improvising with a young girl.

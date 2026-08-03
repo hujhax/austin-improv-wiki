@@ -17,6 +17,7 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jason Oliver** is an improv performer and staff member at ColdTowne Theater.

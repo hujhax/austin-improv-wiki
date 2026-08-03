@@ -3,6 +3,8 @@ This is a list of improv troupes that are operating or have operated in the AIC.
 ## Active
 These troupes are currently performing in Austin.
 <div class="DPLTest">
+
+
 * <a class="internal-link" href="Troupes/20 Years and Counting">20 Years and Counting</a>
 * <a class="internal-link" href="Troupes-7-10 Split">7-10 Split</a>
 * <a class="internal-link" href="Troupes/Adventure Squad!">Adventure Squad!</a>
@@ -215,11 +217,15 @@ These troupes are currently performing in Austin.
 * <a class="internal-link" href="Troupes/You're Not My Real Dad">You're Not My Real Dad</a>
 * <a class="internal-link" href="Troupes/Your Terrific Neighbors">Your Terrific Neighbors</a>
 * <a class="internal-link" href="Troupes/¡ZARZAMORA!">¡ZARZAMORA!</a>
+
+
 </div>
 
 ### Duos
 Of those troupes, the following are duos:
 <div class="DPLTest">
+
+
 * <a class="internal-link" href="Troupes/20 Years and Counting">20 Years and Counting</a>
 * <a class="internal-link" href="Troupes-7-10 Split">7-10 Split</a>
 * <a class="internal-link" href="Troupes/Adventure Squad!">Adventure Squad!</a>
@@ -293,11 +299,15 @@ Of those troupes, the following are duos:
 * <a class="internal-link" href="Troupes/Werewolf Birthday">Werewolf Birthday</a>
 * <a class="internal-link" href="Troupes/Worst First Date">Worst First Date</a>
 * <a class="internal-link" href="Troupes/You Bet Your Life">You Bet Your Life</a>
+
+
 </div>
 
 ## Inactive
 These troupes are no longer performing in Austin (though some may perform rare "reunion shows").
 <div class="DPLTest">
+
+
 * <a class="internal-link" href="Troupes/$10 Bourbon">$10 Bourbon</a>
 * <a class="internal-link" href="Troupes/$2 Lobsters">$2 Lobsters</a>
 * <a class="internal-link" href="Troupes/1813 Drake">1813 Drake</a>
@@ -912,6 +922,8 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Youth Group Improv">Youth Group Improv</a>
 * <a class="internal-link" href="Troupes/ZA">ZA</a>
 * <a class="internal-link" href="Troupes/¡ZARZAMORA!">¡ZARZAMORA!</a>
+
+
 </div>
 
 ## In Need of Pages

@@ -80,8 +80,8 @@
 			<td class="category">Mar/Apr 2012</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Live TV Tuesdays: Freaks and Geeks*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Freaks and Geeks|*Freaks and Geeks*]] episode [[Wikipedia - List of Freaks and Geeks episodes|"Beers and Weirs"]]
 
 ## History

@@ -68,6 +68,7 @@
 			<td class="category">2004-2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **Bryan Cruz** is an improv performer.

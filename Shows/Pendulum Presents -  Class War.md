@@ -131,6 +131,7 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Pendulum Presents: Class War*** was a mainstage sketch show about XXX. 

@@ -17,6 +17,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 Carolyn Gjertsen is an improv performer and member of the troupe [[Troupes/Character Explosion|Character Explosion]]

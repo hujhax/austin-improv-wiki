@@ -237,8 +237,8 @@
 			<td class="category">Aug 2012</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Live TV Tuesdays: Scrubs*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Scrubs (TV series)|*Scrubs*]] episodes ["My Overkill"](http://scrubs.wikia.com/wiki/My_Overkill) and ["My Musical"](http://scrubs.wikia.com/wiki/My_Musical).
 
 It was referred to as "*Scrubs: Live*".

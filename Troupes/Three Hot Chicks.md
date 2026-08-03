@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Three Hot Chicks** was an improv troupe active in Austin in 2011. They performed an improvised sitcom, with pre-established characters.

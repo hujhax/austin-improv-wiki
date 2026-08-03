@@ -17,6 +17,7 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Warren Henderson** is an improv performer, technical improvisor, and photographer.

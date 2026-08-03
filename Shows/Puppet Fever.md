@@ -84,8 +84,8 @@
 			<td class="category">Jun 2011</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Puppet Fever*** was an improvised puppet musical.
 
 ## History

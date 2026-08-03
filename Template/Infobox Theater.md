@@ -22,8 +22,8 @@ This template lists standard, useful information about an improv theater.
 			<td class="category"></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 </pre>
 
 
@@ -63,4 +63,5 @@ This template lists standard, useful information about an improv theater.
 			<td class="category">Years of Operation</td>
 		</tr>
 	</table>
+
 </div>

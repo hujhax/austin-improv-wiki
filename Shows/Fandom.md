@@ -182,6 +182,7 @@
 			<td class="category">Jan/Feb 2013</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Fandom*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

@@ -72,6 +72,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Highball** is a restaurant/entertainment facility that serves as an adjunct to the Alamo Drafthouse's South Lamar location.

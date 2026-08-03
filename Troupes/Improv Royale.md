@@ -68,8 +68,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 :*This page refers to the 2011 improv troupe based around pro-wrestler persona-prov.  For the 2014 [[Theatres/ColdTowne|ColdTowne]] mainstage run based on pro-wrestling-based Saturday morning cartoons, see *[[Shows/Slam Team Six|Slam Team Six]]''.
 **Improv Royale** was an improv troupe with pro-wrestling-style persona-prov.
 

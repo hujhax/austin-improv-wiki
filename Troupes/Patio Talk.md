@@ -123,6 +123,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Patio Talk** is an improv troupe from Coldtowne. Each show begins with a source scene featuring a tipsy conversation between long time friends which then inspires a high energy run of scenes.

@@ -82,6 +82,7 @@
 			<td class="category">Jan/Feb 2010</td>
 		</tr>
 	</table>
+
 </div>
 
 ![[One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]

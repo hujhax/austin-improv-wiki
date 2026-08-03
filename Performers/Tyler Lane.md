@@ -17,6 +17,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Tyler Lane** is an improv performer. He is completely obsessed with the book [Impro](http://en.wikipedia.org/wiki/Impro:_Improvisation_and_the_Theatre). 

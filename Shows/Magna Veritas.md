@@ -80,6 +80,7 @@
 			<td class="category">Sep-Dec 2011</td>
 		</tr>
 	</table>
+
 </div>
 
 **Magna Veritas** was an improv show.

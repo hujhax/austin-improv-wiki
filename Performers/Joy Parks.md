@@ -17,6 +17,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Joy Parks** is an improv performer, and an instructor with [[Building Connections]].

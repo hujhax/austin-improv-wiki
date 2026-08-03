@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 Starting from a dream, **Mirage Machine** weaves a tapestry of slapstick heartbreak and serious absurdity.  Our format is freedom and our method purely accident.

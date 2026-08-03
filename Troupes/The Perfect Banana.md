@@ -24,6 +24,7 @@
 ] }}</td>
 		</tr>
 	</table>
+
 </div>
 
 ## History

@@ -190,6 +190,7 @@
 			<td class="category">Sep/Oct 2015</td>
 		</tr>
 	</table>
+
 </div>
 
 ***A Deed So Dark*** was the September/October 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

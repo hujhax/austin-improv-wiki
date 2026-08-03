@@ -17,6 +17,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 Timothy (Tim) Coyle is an improv performer and member of the troupe [[Troupes/Character Explosion|Character Explosion]] the duo [[Troupes/You Bet Your Life|You Bet Your Life]] and an instructor for [[Building Connections]].

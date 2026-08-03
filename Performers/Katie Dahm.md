@@ -17,6 +17,7 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Katie Dahm** is an improvisor and native Austinite.  She brings a background in theatre and dance to the stage and has been performing improv since 2007.

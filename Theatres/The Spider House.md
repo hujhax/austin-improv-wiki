@@ -21,6 +21,7 @@
 			<td class="category">2009</td>
 		</tr>
 	</table>
+
 </div>
 
 **The Spider House** is an coffeehouse that has occasionally hosted improv productions.

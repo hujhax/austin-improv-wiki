@@ -17,8 +17,8 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 [[Category/Performers|Hearne]]
 
 **Scott Hearne** is an improviser, producer, and podcaster. He is the creator of [[Troupes/The Theft Forum|The Theft Forum]] podcast.

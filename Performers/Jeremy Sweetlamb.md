@@ -17,6 +17,7 @@
 			<td class="category">1999-2003, 2011-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jeremy Sweetlamb** (né **Jeremy Lamb**) is an improv performer, director, and teacher.

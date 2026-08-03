@@ -68,6 +68,7 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **John Buseman** is an improv performer.

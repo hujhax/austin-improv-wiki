@@ -135,6 +135,7 @@
 			<td class="category">Oct 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Aftermath*** was a [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

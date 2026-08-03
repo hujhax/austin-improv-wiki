@@ -131,6 +131,7 @@
 			<td class="category">Sep/Oct 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Risen*** was a long-form narrative improv show inspired by *[[Wikipedia - World War Z|World War Z]]* by Max Brooks.

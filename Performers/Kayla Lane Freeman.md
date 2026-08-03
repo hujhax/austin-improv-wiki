@@ -17,6 +17,7 @@
 			<td class="category">2011-2013</td>
 		</tr>
 	</table>
+
 </div>
 
 **Kayla Lane Freeman** is an improv performer.

@@ -76,6 +76,7 @@
 			<td class="category">Aug/Sep 2013</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Indy Movies*** (full title: ***Indy Movies: The Filmmaking Misadventures Of Wade Wood***) was a mainstage show about a 1940's film director and his efforts to shoot a pulp serial.

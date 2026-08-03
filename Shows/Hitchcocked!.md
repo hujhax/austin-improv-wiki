@@ -186,8 +186,8 @@
 			<td class="category">Mar/Apr 2010</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ![[Hitchcocked! Performance.jpg|A performance of *Hitchcocked!*.]]
 
 ***Hitchcocked!*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] inspired by the works of [[Wikipedia - Alfred Hitchcock|Alfred Hitchcock]].

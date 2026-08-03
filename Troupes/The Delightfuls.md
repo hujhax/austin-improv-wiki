@@ -68,8 +68,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 **The Delightfuls** are an improv troupe.
 
 ## History

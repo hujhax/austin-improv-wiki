@@ -68,6 +68,7 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Brent Chismark** is a stage and technical improvisor and transplant from Metro Detroit, MI. 

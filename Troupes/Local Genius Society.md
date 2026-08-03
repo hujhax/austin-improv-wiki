@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 ![[LGSpatch.jpg|Local Genius Society custom club jacket crest. Designed by [Ryan Austin](Performers/Ryan%20Austin). Each object on the crest represents a member of the cast at the time of design.]]

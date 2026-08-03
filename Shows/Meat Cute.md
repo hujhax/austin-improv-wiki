@@ -76,6 +76,7 @@
 			<td class="category">October 2018</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Meat Cute*** is a Hideout student mainstage show inspired by zombie-themed romantic comedies.

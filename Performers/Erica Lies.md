@@ -17,8 +17,8 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 [[Category/Performers|Lies]]
 **Erica Lies** is an improv and sketch performer.
 

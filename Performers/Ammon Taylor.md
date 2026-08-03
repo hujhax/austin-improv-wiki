@@ -21,6 +21,7 @@
 			<td class="category">Piano</td>
 		</tr>
 	</table>
+
 </div>
 
 **Ammon Taylor** is an improv musician.

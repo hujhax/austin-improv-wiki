@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Toothpick & Ted** was an improv duo depicting a gay couple.

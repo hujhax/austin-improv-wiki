@@ -17,6 +17,7 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Cortnie Jones** is an improv performer.

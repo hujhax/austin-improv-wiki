@@ -135,6 +135,7 @@
 			<td class="category">Feb 2016</td>
 		</tr>
 	</table>
+
 </div>
 
 ***183 Dewberry Lane*** will be the February 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

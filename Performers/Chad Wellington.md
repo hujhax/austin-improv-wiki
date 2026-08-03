@@ -68,6 +68,7 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Chad Wellington** is an improv performer, technical improvisor, and photographer.

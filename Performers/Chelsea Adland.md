@@ -21,6 +21,7 @@
 			<td class="category">Drums</td>
 		</tr>
 	</table>
+
 </div>
 
 **Chelsea Adland** (née **Gilman**) is an improv performer.

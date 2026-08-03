@@ -17,6 +17,7 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Dave Buckman** is an improv performer, director, and teacher.

@@ -135,6 +135,7 @@
 			<td class="category">Jul/Aug 2016</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Process*** is a longform improv show that takes the audience through the process of producing a (fictional) play.  It is a recurring mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

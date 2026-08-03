@@ -17,6 +17,7 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Lena Long** is an improv performer. 

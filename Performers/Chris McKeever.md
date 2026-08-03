@@ -17,6 +17,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Chris McKeever** is an improviser, sketch writer, instructor, and director.

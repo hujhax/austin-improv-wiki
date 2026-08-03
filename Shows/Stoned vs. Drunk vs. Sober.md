@@ -25,6 +25,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Stoned vs. Drunk vs. Sober*** is a monthly stand-up showcase.

@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Adventure Squad!** is an improv duo in which [[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Valerie Ward|Valerie Ward]] play two pre-teens ("Tabitha Martinez" and "Emily Neidermeyer-Smith-McBaker") who go on adventures.

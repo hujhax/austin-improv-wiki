@@ -127,6 +127,7 @@
 			<td class="category">July-August 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Kindness of Strangers*** was a Hideout mainstage show inspired by the work of playwright Tennessee Williams. 

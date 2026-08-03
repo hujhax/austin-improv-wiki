@@ -131,8 +131,8 @@
 			<td class="category">Mar/Apr 2011</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 :*This page refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of "Spring Dance".  For the [[Gnap! Theater Projects]] improv show based on *90210*, see *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]''.
 
 ***Live TV Tuesdays: 90210*** refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of the [[Wikipedia - Beverly Hills, 90210|*Beverly Hills, 90210*]] episode ["Spring Dance"](http://90210.wikia.com/wiki/Spring_Dance).

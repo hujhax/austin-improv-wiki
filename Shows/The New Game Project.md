@@ -25,8 +25,8 @@
 			<td class="category">1/5/12</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***The New Game Project*** (AKA ***The New Game People***) is a shortform show that generates shortform formats based on audience suggestions.
 
 

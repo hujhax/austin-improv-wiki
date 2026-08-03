@@ -29,6 +29,7 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Highly Suggestible*** (formerly ***Whiteboard***) is an ongoing montage show at the Institution Theater.

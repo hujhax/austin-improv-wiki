@@ -131,6 +131,7 @@
 			<td class="category">Sep/Oct 2012, Sep/Oct 2019</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Black Vault*** was an improvised longform show performed in the style of the novels and stories of [[Wikipedia - H. P. Lovecraft|H.P. Lovecraft]].

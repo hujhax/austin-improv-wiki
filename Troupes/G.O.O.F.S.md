@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **G.O.O.F.S.** is an improv troupe. The troupe name is an acronym for  for "Ghosts Of Our Former Selves". 

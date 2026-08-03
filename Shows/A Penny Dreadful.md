@@ -135,6 +135,7 @@
 			<td class="category">Dec 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***A Penny Dreadful*** was the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It drew inspiration from the [[Wikipedia - Gothic fiction|Gothic horror]] genre.

@@ -17,6 +17,7 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Claudio Fox** is an improv performer, technical improviser and photographer.

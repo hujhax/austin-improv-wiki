@@ -190,6 +190,7 @@
 			<td class="category">Aug 2015</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Nothing and Everything*** was a narrative improv show inspired by the works of [[Wikipedia - Anton Chekhov|Anton Chekhov]].  It was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

@@ -182,6 +182,7 @@
 			<td class="category">Oct 2016</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Adventure PhD*** will be the October 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

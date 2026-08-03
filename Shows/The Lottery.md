@@ -25,6 +25,7 @@
 			<td class="category">Oct 2010-Jan 2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **The Lottery** was a show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] where four audience winners got to do a montage show with an experienced Hideout cast.

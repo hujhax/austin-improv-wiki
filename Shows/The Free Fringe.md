@@ -25,6 +25,7 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Free Fringe*** is a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

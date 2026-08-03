@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Cubbies** are an improv troupe consisting of local improvisors originally from Chicago.  They play primarily at [[Theatres/The New Movement Theater|The New Movement Theater]].

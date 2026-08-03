@@ -17,6 +17,7 @@
 			<td class="category">2009-2012, 2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Shawn Utterback** is an improv performer and producer.

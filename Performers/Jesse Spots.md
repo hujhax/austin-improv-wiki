@@ -17,6 +17,7 @@
 			<td class="category">2009-2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jesse Spots** is an improv performer and festival producer with [[Theatres/The New Movement Theater|The New Movement Theater]].

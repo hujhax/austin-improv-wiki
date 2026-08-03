@@ -17,6 +17,7 @@
 			<td class="category">2010-2012, 2015-present</td>
 		</tr>
 	</table>
+
 </div>
 
 ## History

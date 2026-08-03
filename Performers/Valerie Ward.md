@@ -17,6 +17,7 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
+
 </div>
  
 **Valerie Ward** is an improv performer, teacher, coach, and director.

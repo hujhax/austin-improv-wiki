@@ -86,6 +86,7 @@ __NOINDEX__
 			<td class="category">Jul/Aug 2011</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Live Nude Improv*** (also referred to as the ***Live Summer Show***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. 

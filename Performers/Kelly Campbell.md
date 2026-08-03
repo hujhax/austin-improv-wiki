@@ -68,6 +68,7 @@
 			<td class="category">2015-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Kelly Campbell** is an improv performer and tech.

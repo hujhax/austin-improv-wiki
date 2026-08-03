@@ -17,6 +17,7 @@
 			<td class="category">1982?-1986</td>
 		</tr>
 	</table>
+
 </div>
 
 **The Comedy Workshop** was a stand-up comedy venue.  It was also the first regular improv venue in Austin.

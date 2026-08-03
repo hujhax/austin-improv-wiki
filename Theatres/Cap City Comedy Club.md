@@ -21,6 +21,7 @@
 			<td class="category">1980-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Cap City Comedy Club** (formerly **The Laff Stop**) is a professional stand-up comedy club in Austin, Texas and home to the Funniest Person in Austin competition. It also played a part in the early history of improv comedy in Austin.

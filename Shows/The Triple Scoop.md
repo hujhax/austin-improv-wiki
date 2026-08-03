@@ -25,8 +25,8 @@
 			<td class="category">2012-2014</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 **The Triple Scoop** was a three-act improv night headlined by [[Troupes/IScream Sandwich|IScream Sandwich]].
 
 It ran Saturday nights at 10pm at [[Theatres/The Institution Theater|The Institution Theater]].

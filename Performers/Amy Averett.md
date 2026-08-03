@@ -17,6 +17,7 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Amy Averett** is an improv performer.

@@ -17,6 +17,7 @@
 			<td class="category">2007-2011</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jon Clinkenbeard** is an improv performer.

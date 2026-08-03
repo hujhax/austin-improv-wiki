@@ -17,6 +17,7 @@
 			<td class="category">?-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Cagney Ortiz** is an improv performer. 

@@ -139,8 +139,8 @@
 			<td class="category">Dec 2013</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Elf Employment*** is a Christmas-themed improvised puppet musical.
 
 ## Summary

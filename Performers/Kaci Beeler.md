@@ -17,6 +17,7 @@
 			<td class="category">2002-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Kaci Beeler** (AKA **Kaci Danger**) is an improv performer, director, scenic painter, teacher, and the Director of Design for [[Theatres/The Hideout Theatre|The Hideout Theatre]]. Kaci is a represented actor with TAG Talent Agency[http://www.tagtalent.com/Main.php?Region=Tx&Branch=Main&Entry=Talent&TCode=KB05](http://www.tagtalent.com/Main.php?Region=Tx&Branch=Main&Entry=Talent&TCode=KB05) who represent actors in film, television, commercial, voice-over, and print media. 

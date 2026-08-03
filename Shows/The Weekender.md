@@ -25,6 +25,7 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Weekender*** (formerly ***The Sunday Showcase***) is a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]] that provides stage time for Hideout students.

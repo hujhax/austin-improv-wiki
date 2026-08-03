@@ -68,6 +68,7 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Dave Alley** is an improv performer and photographer.

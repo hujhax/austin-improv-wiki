@@ -17,6 +17,7 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Adriane Shown** is an improv performer, singer, musician, and technical improvisor.

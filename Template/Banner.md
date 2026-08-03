@@ -3,7 +3,6 @@
 <div class="name"></div>
 <div class="type"></div>
 </div>![[]]</div><noinclude>
-
 {{Uses TemplateStyles|Template:Banner/styles.css}}
 <templatedata>
 {

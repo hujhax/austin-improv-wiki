@@ -68,6 +68,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Josh Santo** is an improv performer.

@@ -131,6 +131,7 @@
 			<td class="category">Mar/Apr 2013</td>
 		</tr>
 	</table>
+
 </div>
 
 ![[Strange Worlds Heroes Drawing.jpg|A drawing by [Ryan Austin](Performers/Ryan%20Austin) of the cast of heroes from *Strange Worlds*.]]

@@ -131,6 +131,7 @@
 			<td class="category">October 2015</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Teenage Wasteland*** was the October 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It depicted an end-of-high-school party à la *[[Wikipedia - Can't Hardly Wait|Can't Hardly Wait]]*.

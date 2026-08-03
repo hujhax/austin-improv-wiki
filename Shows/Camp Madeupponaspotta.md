@@ -80,6 +80,7 @@
 			<td class="category">Apr 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Camp Madeupponaspotta*** was the April 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

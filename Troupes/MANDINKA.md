@@ -68,8 +68,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 **Mandinka** (often written in all caps: **MANDINKA**) is a duo consisting of [[Performers/Mia Iseman|Mia Iseman]] and [[Performers/Andrew Buck|Andrew Buck]].
 
 ## Summary

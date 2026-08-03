@@ -17,6 +17,7 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Katie Doran** is an improv and sketch comedy performer and stand-up comedian.

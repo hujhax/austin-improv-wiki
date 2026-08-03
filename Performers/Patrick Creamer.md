@@ -17,6 +17,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Patrick Creamer** is an improvisor. He also has a podcast with [[Performers/Quinn Buckner|Quinn Buckner]] called *[Now You Know A Little Bit More About Us](http://nowyouknowalittlebitmoreaboutus.libsyn.com/)*

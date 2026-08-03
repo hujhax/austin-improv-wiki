@@ -17,6 +17,7 @@
 			<td class="category">2010-2014</td>
 		</tr>
 	</table>
+
 </div>
 
 **Alex Dobrenko** is an improv performer.

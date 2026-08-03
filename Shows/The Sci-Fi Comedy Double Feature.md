@@ -237,6 +237,7 @@
 			<td class="category">Jan/Feb 2012</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Sci-Fi Comedy Double Feature*** was a double bill of *[[Shows/Twilight Zoned|Twilight Zoned]]* and *[[Shows/Start Trekkin'|Start Trekkin']]*.  It ran as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in early 2012.

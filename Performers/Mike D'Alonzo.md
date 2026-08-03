@@ -17,6 +17,7 @@
 			<td class="category">1999-2006</td>
 		</tr>
 	</table>
+
 </div>
 
 **Mike D'Alonzo** is an improv performer.

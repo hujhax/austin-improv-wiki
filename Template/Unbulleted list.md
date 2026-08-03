@@ -57,7 +57,6 @@ So, for example, this:
   --><!--
   --><!--
 --></ul></div>
-
 </pre>
 
 becomes this:

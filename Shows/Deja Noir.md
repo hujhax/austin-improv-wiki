@@ -131,6 +131,7 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Deja Noir*** was a mainstage improv show about XXX. 

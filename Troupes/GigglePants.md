@@ -17,6 +17,7 @@
 			<td class="category">Semester to Yearly Rotating Cast</td>
 		</tr>
 	</table>
+
 </div>
 
 **Gigglepants** is a short-form improv troupe at the University of Texas.

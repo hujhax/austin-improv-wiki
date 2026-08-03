@@ -186,8 +186,8 @@
 			<td class="category">Sep/Oct 2011</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Live TV Tuesdays: Felicity*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Felicity (TV series)|*Felicity*]] episode ["Gimme an O!"](http://www.imdb.com/title/tt0578679/).
 
 ## Summary

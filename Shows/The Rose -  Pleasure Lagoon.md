@@ -131,6 +131,7 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Rose: Pleasure Lagoon*** was a mainstage improv show about XXX. 

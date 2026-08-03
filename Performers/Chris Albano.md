@@ -17,6 +17,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Chris Albano** is an improv performer and tech.

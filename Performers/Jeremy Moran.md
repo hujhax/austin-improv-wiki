@@ -68,6 +68,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jeremy Moran** is an improv performer and filmmaker.

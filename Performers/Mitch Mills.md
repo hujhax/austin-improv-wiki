@@ -17,8 +17,8 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 [[Category/Performers|Mills]]
 
 **Mitch Mills** is an improviser. 

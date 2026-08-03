@@ -17,6 +17,7 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Joshua Krilov** is an improv performer and teacher.

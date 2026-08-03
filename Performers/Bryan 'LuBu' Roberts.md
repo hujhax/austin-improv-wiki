@@ -17,6 +17,7 @@
 			<td class="category">2004-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Bryan "Lubu" Roberts** is an improv/sketch performer and director.

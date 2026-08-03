@@ -131,6 +131,7 @@
 			<td class="category">Sep/Oct 2008</td>
 		</tr>
 	</table>
+
 </div>
 
 :*This page refers to the Salvage Vanguard graduation show run based on classic ghost stories.  For the Salvage Vanguard mainstage run based around 19th-century communications with dead spirits, see *[[Shows/Seance|Seance]]''.

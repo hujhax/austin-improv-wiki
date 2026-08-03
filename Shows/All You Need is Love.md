@@ -190,6 +190,7 @@
 			<td class="category">February 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***All You Need Is Love*** was an unapologetic, hopelessly romantic improvised rom-com &aacute; la *Serendipity* and *Sleepless in Seattle*, done as the Hideout Student Mainstage show in February of 2017.

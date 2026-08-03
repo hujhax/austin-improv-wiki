@@ -139,6 +139,7 @@
 			<td class="category">May/June 2016</td>
 		</tr>
 	</table>
+
 </div>
 
 ![[Fiasco Set.jpg|Fiasco set, by [Kaci Beeler](Performers/Kaci%20Beeler).]]

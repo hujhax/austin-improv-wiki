@@ -17,6 +17,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Kenny Madison** is an improv performer and director. He maintains a regular blog at [KennyMadisonisCool.com](http://kennymadisoniscool.com/improv-comedy-austin/), where he also offers coaching to other improvisers in town.

@@ -80,6 +80,7 @@
 			<td class="category">May/Jun 2013</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Blood, Sweat, and Cheers*** is a devised play about competitive cheerleading.

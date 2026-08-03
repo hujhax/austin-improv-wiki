@@ -72,6 +72,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Shades of Brown** is an improv troupe with an emphasis on expressing a Latino point of view.

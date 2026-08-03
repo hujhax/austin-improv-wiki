@@ -178,6 +178,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Sicks** was a sketch troupe, formed of friends from the University of Texas at Austin's Theatre and English departments who wanted to both write and perform their own material, with a focus on more warped and subversive humor and sketches that were often structured more like narrative scenes than traditional sketches.  Their name came about after many long and contentious debates on the subject when a friend pointed out them at a concert, "Well...there are SIX of you, right?"

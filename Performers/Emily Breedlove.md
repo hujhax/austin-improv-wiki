@@ -68,8 +68,8 @@
 			<td class="category">2009-Present</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ![[Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[The Tribunal](Shows/The%20Tribunal)*.]]
 
 **Emily Breedlove** is an opera singer and an improv performer.

@@ -17,6 +17,7 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Chelley Pyatt** is an improv performer who works primarily with [[Theatres/The Institution Theater|The Institution Theater]].

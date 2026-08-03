@@ -131,6 +131,7 @@
 			<td class="category">Dec 2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Big Bash*** is a Friday-night show at the Hideout Theatre designed for general audiences. 

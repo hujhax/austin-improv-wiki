@@ -182,6 +182,7 @@
 			<td class="category">Mar/Apr 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Kenjutsu*** (full title: ***Kenjutsu: The Art of the Sword***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] that was inspired by Japanese samurai films.

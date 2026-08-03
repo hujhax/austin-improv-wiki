@@ -245,6 +245,7 @@
 			<td class="category">December 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Local on the Eights*** is a Hideout Student mainstage show that follows a small-town news team as the track down the day's toughest stories. 

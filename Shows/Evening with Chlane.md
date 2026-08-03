@@ -131,6 +131,7 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Evening with Chlane*** was a mainstage sketch show about XXX. 

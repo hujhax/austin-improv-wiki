@@ -21,6 +21,7 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 Salvage Vanguard Theater was, for several years, the home of [[Gnap! Theater Projects]], which used the building's smaller theater space for a number of continuing shows and mainstage runs.

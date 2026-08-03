@@ -25,6 +25,7 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Spectacle*** is a performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

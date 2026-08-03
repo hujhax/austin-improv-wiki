@@ -76,6 +76,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Movie Riot** (formerly **Movie Versus Movie**) is a improv team that specializes in the [movie format]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

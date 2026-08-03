@@ -131,6 +131,7 @@
 			<td class="category">TBD</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Damn Gina: Night Watch*** was a mainstage improv show about XXX. 
@@ -282,6 +283,7 @@ XXX
 			<td class="category">TBD</td>
 		</tr>
 	</table>
+
 </div>
 
 ***TITLE*** was a mainstage improv show about XXX. 

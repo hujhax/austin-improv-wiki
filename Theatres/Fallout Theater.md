@@ -21,6 +21,7 @@
 			<td class="category">2018-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Fallout Theater** is a theater in downtown Austin, TX, that provides improv, sketch, and stand-up comedy performances nightly, and focuses on Chicago-style long form improv. 

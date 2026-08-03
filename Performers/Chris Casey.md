@@ -17,6 +17,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 Chris is a dad from Austin, TX. He sometimes improvises at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and sometimes acts at The Curtain Theatre with [The Baron's Men](http://thebaronsmen.org/). Currently he is a member of the improv troupes [[Troupes/Space Swank|Space Swank]], [[Troupes/Human People|Human People]], and most often [[Troupes/Too Shy Guys|Too Shy Guys]].

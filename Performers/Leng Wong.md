@@ -17,6 +17,7 @@
 			<td class="category">2011-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Leng Wong** is an improv performer and producer.

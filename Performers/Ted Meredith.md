@@ -68,6 +68,7 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Ted Meredith** is an improv performer, teacher, and director.

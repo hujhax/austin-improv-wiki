@@ -68,8 +68,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 **Happy Butter** was a troupe focusing on narrative improv.
 
 It was made up of graduates of [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s first Level 6 class.

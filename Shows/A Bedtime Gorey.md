@@ -76,6 +76,7 @@
 			<td class="category">Nov/Dec 2013</td>
 		</tr>
 	</table>
+
 </div>
 
 ***A Bedtime Gorey*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].

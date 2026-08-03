@@ -25,6 +25,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Merlin Works Second Sundays** are the monthly shows at the ZACH Theatre hosted by the [[Merlin Works Institute for Improvisation]]. Second Sundays shows typically feature a Merlin Works student showcase or graduation show, a guest troupe, and a headlining performance by faculty troupe [[Troupes/The Known Wizards|The Known Wizards]].
@@ -102,7 +103,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |February 9, 2020||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -156,7 +156,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |January 12, 2020||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -210,7 +209,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |December 8, 2019||Singing 601||Echo Formal Gecko
 |-
@@ -266,7 +264,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |October 20, 2019||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -320,7 +317,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |September 8, 2019||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -374,7 +370,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |August 11, 2019||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -428,7 +423,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |July 14, 2019||<div class="plainlist"><ul style=""><!--
   --><li style="">Singing 301</li><!--
@@ -482,7 +476,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |June 9, 2019||N/A||<div class="plainlist"><ul style=""><!--
   --><li style="">Double-Time</li><!--
@@ -536,7 +529,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |May 12, 2019||<div class="plainlist"><ul style=""><!--
   --><li style="">Improv 301</li><!--
@@ -590,7 +582,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |April 14, 2019||ZACH student showcase||Double-Time
 |-
@@ -646,7 +637,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |February 10, 2019||Student showcase||[[Nice Jewish Girls]]
 |-
@@ -718,7 +708,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
-
 |-
 |April 8, 2018||Student showcase||[[Troupes/Get Up|Get Up]] 
 |-
@@ -774,7 +763,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |February 11, 2018||Student showcase||[[Troupes/Girls Girls Girls|Girls Girls Girls]] 
 |-
@@ -830,7 +818,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |December 3, 2017||<div class="plainlist"><ul style=""><!--
   --><li style="">Singing 201</li><!--
@@ -884,7 +871,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
-
 |-
 |November 12, 2017||Student showcase||[[Harlequin]]
 |-
@@ -950,7 +936,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
-
 |-
 |April 9, 2017||Student showcase||[[Migas]]
 |-
@@ -1006,7 +991,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |February 12, 2017||Student showcase||[[Sugar Water Purple]]
 |-
@@ -1078,7 +1062,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |April 10, 2016||Student showcase||[[Troupes/Physics Curse|Physics Curse]] 
 |-
@@ -1134,7 +1117,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |February 7, 2016||Student showcase||[[Love Me Tinder]]
 |-
@@ -1200,7 +1182,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A 
-
 |-
 |June 14, 2015||Student showcase||[[Troupes/The Escorts|The Escorts]]
 |-
@@ -1256,7 +1237,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |April 12, 2015||Student showcase||[[Troupes/Brain Trust|Brain Trust]] 
 |-
@@ -1312,7 +1292,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |February 8, 2015||Student showcase||[[Troupes/Miller & Purselley|Miller & Purselley]] 
 |-
@@ -1368,7 +1347,6 @@
   --><!--
   --><!--
 --></ul></div>
-
 |-
 |November 23, 2014||Student showcase||[[Troupes/That Racket!|That Racket!]] 
 |-
@@ -1426,7 +1404,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |September 14, 2014||Student showcase||[[Shows/Hurly Burly|Hurly Burly]] 
 |-
@@ -1484,7 +1461,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |June 8, 2014||Student showcase||[[Troupes/Bad Font|Bad Font]]
 |-
@@ -1544,7 +1520,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |February 9, 2014||Student showcase||[[Troupes/Shades of Brown|Shades of Brown]]
 |-
@@ -1602,7 +1577,6 @@
   --><!--
   --><!--
 --></ul></div>||N/A
-
 |-
 |November 10, 2013||Student showcase||[[Troupes/The Intentions|The Intentions]] 
 |-

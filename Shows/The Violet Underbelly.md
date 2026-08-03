@@ -131,6 +131,7 @@
 			<td class="category">Mar/Apr 2011</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Violet Underbelly*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] which presented narrative longform inspired by [[Wikipedia - Film noir|film noir]].

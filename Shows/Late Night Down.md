@@ -25,6 +25,7 @@
 			<td class="category">Jul 2014</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Late Night Down*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]], based around a late-night talk show which is attacked by a rotating variety of supernatural threats.

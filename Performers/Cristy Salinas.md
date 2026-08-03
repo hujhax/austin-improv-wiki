@@ -68,6 +68,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Cristy Salinas** is an improv performer in Austin, Texas.

@@ -76,6 +76,7 @@
 			<td class="category">Sep 2011</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Family Tides*** was an improv show that drew inspiration from family stories supplied by the audience.

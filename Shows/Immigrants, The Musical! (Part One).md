@@ -190,6 +190,7 @@
 			<td class="category">June - July 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Immigrants, The Musical! (Part One)*** was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]]  which explored the stories of immigrants into the United States through the cast.

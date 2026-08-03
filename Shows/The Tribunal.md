@@ -76,6 +76,7 @@
 			<td class="category">2012-2015 (sporadic)</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Tribunal*** is an improv show about the mechanics of oppression.

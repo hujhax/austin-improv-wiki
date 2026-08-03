@@ -88,6 +88,7 @@
 			<td class="category">June 2018</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Things You Love*** (full title: *Things You Love, The Musical*) is a Hideout student mainstage musical told from the perspective of beloved household objects.

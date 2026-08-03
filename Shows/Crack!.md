@@ -186,8 +186,8 @@
 			<td class="category">Aug 2010</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Crack!*** (full name: ***Crack! The Improvised Puppet Musical***) was an improvised puppet musical.
 
 ## Summary

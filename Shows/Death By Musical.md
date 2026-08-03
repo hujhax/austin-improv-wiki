@@ -127,6 +127,7 @@
 			<td class="category">September-October 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Death By Musical*** was a Hideout mainstage show inspired by irreverent comedic musicals like “The Rocky Horror Picture Show,” “Evil Dead: The Musical,” and “Little Shop of Horrors”.

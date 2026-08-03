@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Nice Astronaut** is an improv troupe in Austin, TX that creates and performs Chicago-style longform improv forms. Their monthly show is on the second Saturdays at 11:30pm at [[Theatres/Coldtowne Theater|Coldtowne Theater]]. The format of their monthly show is "Nice Astronaut Presents Improv Roulette", in which they and an opening team (usually from ColdTowne Conservatory's Level 5-6 classes) spin a wheel of improv formats and perform whichever one the wheel decides. 

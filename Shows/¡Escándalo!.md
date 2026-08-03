@@ -84,6 +84,7 @@
 			<td class="category">April 2018</td>
 		</tr>
 	</table>
+
 </div>
 
 ***¡Escándalo!*** is a Hideout student mainstage show inspired by telenovelas.

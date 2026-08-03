@@ -72,6 +72,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Buddy Daddy** is an improv duo consisting of [[Performers/Arthur Simone|Arthur Simone]] and his dog.

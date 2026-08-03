@@ -68,8 +68,8 @@
 --></ul></div></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 **Oh, Science!** is an improv troupe.
 
 ## Summary

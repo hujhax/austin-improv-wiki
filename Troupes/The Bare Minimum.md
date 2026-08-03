@@ -123,6 +123,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The Bare Minimum** is a high-school comedy troupe.

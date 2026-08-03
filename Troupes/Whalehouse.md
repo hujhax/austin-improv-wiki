@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Whalehouse** was a sketch/improv troupe primarily associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].

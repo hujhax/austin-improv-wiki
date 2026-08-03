@@ -17,6 +17,7 @@
 			<td class="category">1998-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jordan T. Maxwell** is an actor and director of both improvised and scripted works, as well as a writer, a massage therapist, and an ordained minister.  

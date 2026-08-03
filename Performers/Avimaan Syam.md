@@ -17,6 +17,7 @@
 			<td class="category">2009-2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **Avimaan Syam** was an improv performer and director.

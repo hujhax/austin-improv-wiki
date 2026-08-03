@@ -17,6 +17,7 @@
 			<td class="category">2005 - Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Susannah Raulino** is an improv performer, director, and teacher.

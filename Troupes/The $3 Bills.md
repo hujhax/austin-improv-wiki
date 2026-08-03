@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **The $3 Bills** was a [[Wikipedia - GLBTQ|GLBTQ]]-themed improv troupe.

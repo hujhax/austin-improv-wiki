@@ -88,6 +88,7 @@
 			<td class="category">Sep/Oct 2011</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Spirited*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the dream-logic works from artists like [[Wikipedia - Lewis Carroll|Lewis Carroll]], [[Wikipedia - Hayao Miyazaki|Hayao Miyazaki]], and [[Wikipedia - Maurice Sendak|Maurice Sendak]].

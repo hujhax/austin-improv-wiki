@@ -17,6 +17,7 @@
 			<td class="category">2000-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Michael Joplin** is an improv performer, teacher, and director.

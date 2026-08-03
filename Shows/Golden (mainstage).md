@@ -131,6 +131,7 @@
 			<td class="category">April 2015</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Golden*** was the April 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It continued on as [[Troupes/Golden|a troupe of the same name]].

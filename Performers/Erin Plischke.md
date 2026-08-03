@@ -17,6 +17,7 @@
 			<td class="category">1997-2001, 2004-2006</td>
 		</tr>
 	</table>
+
 </div>
 
 **Erin Plischke** was an improv performer who was a cofounder of [[Troupes/Tight|Tight]]. He also performed as part of [[Troupes/ComedySportz|ComedySportz]], where he met longtime partner [[Jen Cargill]]. The two moved to Chicago in 2001, where they performed and studied with iO Chicago. He and Jen returned to Austin in 2004 where he co-founded [[Troupes/Wooden Nickel|Wooden Nickel]], [[Troupes/$10 Bourbon|$10 Bourbon]] and [[Troupes/Tight|Tight]]. He and Jen moved to Seattle in 2006, where they perform under the name [Carskee](https://www.facebook.com/Carskee-117693054945309/).

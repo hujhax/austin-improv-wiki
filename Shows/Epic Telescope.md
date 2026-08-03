@@ -76,8 +76,8 @@
 			<td class="category">4/26/12</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Epic Telescope*** is a longform show.
 
 ## Format

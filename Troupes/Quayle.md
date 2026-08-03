@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 Quayle started as a duo between Kyle Traughber and Quinn Buckner with an aimless goal of just having fun. They did 2-3 shows before seeing Katie Dahm at a Merlin Works Mixer and asking her to join. Once Katie joined Quayle developed a narrative format that drew inspiration from cartoon Adventure Time. After a year Katie moved to Philadelphia and the then duo finished out its last few shows before calling it quits.

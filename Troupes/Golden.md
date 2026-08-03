@@ -72,6 +72,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Golden** is an improv troupe that performs silent narratives.  On stage, the cast improvises silent stories and scenes while developing relationships with each other, using only their facial expressions, emotional noises, body language, and spacework. It originated with [[Shows/Golden (mainstage)|the mainstage of the same name]].

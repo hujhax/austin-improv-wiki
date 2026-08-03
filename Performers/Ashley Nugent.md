@@ -17,6 +17,7 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Ashley Nugent** is an actor, improviser, and improv teacher.

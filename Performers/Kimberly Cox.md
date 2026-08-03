@@ -17,6 +17,7 @@
 			<td class="category">2010-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Kimberly Cox** is an improv performer.

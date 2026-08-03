@@ -17,6 +17,7 @@
 			<td class="category">2013-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Mike Reed** is an improv performer who works with [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/The Institution Theater|The Institution Theater]]. He began classes at The Institution in 2103 then at The Hideout in 2104. He performs occasionally when he has the time and energy, provided they'll let him on the stage. He thinks he's pretty good at it, even if he does say so himself.

@@ -68,6 +68,7 @@
 			<td class="category">2006-2012</td>
 		</tr>
 	</table>
+
 </div>
 
 **Brad Temple** is an improviser.

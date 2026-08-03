@@ -17,6 +17,7 @@
 			<td class="category">2009-2015</td>
 		</tr>
 	</table>
+
 </div>
  
 **Halyn Lee Erickson** is an improv performer.

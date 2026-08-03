@@ -17,6 +17,7 @@
 			<td class="category">2000-2005</td>
 		</tr>
 	</table>
+
 </div>
 
 **Bob Apthorpe** was an improv performer who played primarily at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. While no longer an improv performer or an Austin resident, Bob remains vital to the [[AIC]] as the administrator of the Austin Improv web site.

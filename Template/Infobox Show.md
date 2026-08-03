@@ -25,8 +25,8 @@ This template lists standard, useful information about an improv show.
 			<td class="category"></td>
 		</tr>
 	</table>
-</div>
 
+</div>
 </pre>
 
 
@@ -92,4 +92,5 @@ This template lists standard, useful information about an improv show.
 			<td class="category">Unknown</td>
 		</tr>
 	</table>
+
 </div>

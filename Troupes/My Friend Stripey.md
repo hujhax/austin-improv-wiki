@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **My Friend Stripey** was an improv troupe associated with [[Theatres/The Hideout Theatre|The Hideout Theatre]].

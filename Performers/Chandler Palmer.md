@@ -17,6 +17,7 @@
 			<td class="category">2023-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Chandler Palmer** is an improv performer.

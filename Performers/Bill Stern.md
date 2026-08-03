@@ -17,6 +17,7 @@
 			<td class="category">2000-2004</td>
 		</tr>
 	</table>
+
 </div>
 
 **Bill Stern** is an improv performer.

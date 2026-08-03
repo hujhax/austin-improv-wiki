@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Simply D-Vine** is an improv duo that focuses on high-energy narrative improv.

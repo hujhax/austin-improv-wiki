@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 ![[MikeIrene.jpg|Mike and Irene performing at [The Hideout Theatre](Theatres/The%20Hideout%20Theatre).]]

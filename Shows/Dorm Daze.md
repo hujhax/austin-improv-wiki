@@ -135,6 +135,7 @@
 			<td class="category">Jun 2015</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Dorm Daze*** are two separate runs of shows featuring two Harold troupes, [[Troupes/Bad Font|Bad Font]] and [[Troupes/Empty Promises|Empty Promises]]. The first run took place at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in November of 2014, the second run at [[Theatres/The Institution|The Institution]] in June of 2015. 

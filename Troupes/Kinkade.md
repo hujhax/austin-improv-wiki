@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Kinkade** is an improv troupe.  Take a minute to go read about the mythology of [the phoenix](https://en.wikipedia.org/wiki/Phoenix,_Arizona).  Go ahead.  I can wait.  

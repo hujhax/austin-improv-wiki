@@ -17,6 +17,7 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Kareem Badr** ([[Wikipedia - Help - IPA for English#Key|/ˈbɑːdrə/]]) is an improv performer, director, and teacher.  He is a co-owner of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and is in charge of much of the theater's day-to-day logistics.

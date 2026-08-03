@@ -68,6 +68,7 @@
 --></ul></div></td>
 		</tr>
 	</table>
+
 </div>
 
 **Red Giant** was an improv troupe associated with [[Theatres/Coldtowne Theater|Coldtowne Theater]].

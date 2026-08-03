@@ -68,6 +68,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Lindsey McGowen** is a technical improvisor, Co-Technical Director of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and transplant from Detroit. She has an expensive piece of paper that says she knows stuff about technical theater.

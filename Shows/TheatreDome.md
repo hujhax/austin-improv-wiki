@@ -25,6 +25,7 @@
 			<td class="category">Jan 2018 - Present</td>
 		</tr>
 	</table>
+
 </div>
 
 ***TheatreDome*** is a cagematch-style performance slot at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

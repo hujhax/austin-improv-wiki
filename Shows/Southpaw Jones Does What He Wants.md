@@ -29,6 +29,7 @@
 			<td class="category">Sep 2015</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Southpaw Jones Does What He Wants*** was a one-man sketch/music show at [[Theatres/The Institution Theater|The Institution Theater]].

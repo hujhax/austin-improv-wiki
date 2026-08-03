@@ -17,6 +17,7 @@
 			<td class="category">2008-2010, 2015-present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Erin Molson** is an improv performer.

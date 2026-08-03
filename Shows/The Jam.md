@@ -25,8 +25,8 @@
 			<td class="category">Feb 2010-May 2013</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***The Jam*** was an improv show/mixer at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary

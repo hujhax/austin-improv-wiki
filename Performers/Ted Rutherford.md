@@ -17,6 +17,7 @@
 			<td class="category">2001-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Ted Rutherford** is an improv performer and teacher.

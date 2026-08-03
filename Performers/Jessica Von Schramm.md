@@ -68,6 +68,7 @@
 			<td class="category">2012-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Jessica von Schramm** is an improv performer and director.

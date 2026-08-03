@@ -68,6 +68,7 @@
 			<td class="category">2013-2015</td>
 		</tr>
 	</table>
+
 </div>
 
 **Ash Nunley** was an improv performer.

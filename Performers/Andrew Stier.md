@@ -68,6 +68,7 @@
 			<td class="category">2010-2021</td>
 		</tr>
 	</table>
+
 </div>
 
 **Andrew Stier** is an improv performer and director.

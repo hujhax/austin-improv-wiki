@@ -143,6 +143,7 @@
 			<td class="category">April 2017</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Rewind*** was a Hideout student mainstage show inspired by "time-loop" stories such as *Groundhog Day* and "Run Lola Run". 

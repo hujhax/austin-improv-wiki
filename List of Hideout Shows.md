@@ -3,6 +3,8 @@
 </noinclude>=== Shows That Are Currently Running ===
 These are the shows currently running at The Hideout Theatre:
 ''<div class="DPLTest">
+
+
 * <a class="internal-link" href="Shows/2x4">2x4</a>
 * <a class="internal-link" href="Shows/A Big Gay Musical">A Big Gay Musical</a>
 * <a class="internal-link" href="Shows/All You Need is Love">All You Need is Love</a>
@@ -29,11 +31,15 @@ These are the shows currently running at The Hideout Theatre:
 * <a class="internal-link" href="Shows/The Weekender">The Weekender</a>
 * <a class="internal-link" href="Shows/The Wheel">The Wheel</a>
 * <a class="internal-link" href="Shows/¡Escándalo!">¡Escándalo!</a>
+
+
 </div>''
 
 ### Shows That Are Not Currently Running
 These are shows that have are not currently running at The Hideout Theatre -- mostly shows that have run in the past, with a few that are announced for the future.
 ''<div class="DPLTest">
+
+
 * <a class="internal-link" href="Shows/183 Dewberry Lane">183 Dewberry Lane</a>
 * <a class="internal-link" href="Shows/2x4">2x4</a>
 * <a class="internal-link" href="Shows/A Big Gay Musical">A Big Gay Musical</a>
@@ -134,6 +140,8 @@ These are shows that have are not currently running at The Hideout Theatre -- mo
 * <a class="internal-link" href="Shows/The Wheel">The Wheel</a>
 * <a class="internal-link" href="Shows-Who is T. Henry Baudecliffe">Who is T. Henry Baudecliffe</a>
 * <a class="internal-link" href="Shows/¡Escándalo!">¡Escándalo!</a>
+
+
 </div>''
 
 ### Shows Without Pages

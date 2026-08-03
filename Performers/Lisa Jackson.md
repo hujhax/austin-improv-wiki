@@ -68,6 +68,7 @@
 			<td class="category">2005-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Lisa Jackson** is an improv instructor and performer.

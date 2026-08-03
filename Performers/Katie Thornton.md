@@ -17,6 +17,7 @@
 			<td class="category">2007-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Katie Thornton** is an improv performer.

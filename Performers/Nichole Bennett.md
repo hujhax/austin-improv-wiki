@@ -17,6 +17,7 @@
 			<td class="category">2014-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Nichole Bennett** is an improv performer, director, technical designer, and teacher.

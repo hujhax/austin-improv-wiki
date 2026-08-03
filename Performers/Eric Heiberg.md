@@ -17,6 +17,7 @@
 			<td class="category">2005-2013</td>
 		</tr>
 	</table>
+
 </div>
 
 **Eric Heiberg** is an improv performer.

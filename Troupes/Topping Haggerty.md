@@ -17,6 +17,7 @@
 			<td class="category">2008-Present</td>
 		</tr>
 	</table>
+
 </div>
 
 **Topping Haggerty** is an actress, sketch comedy writer & director, and improv performer.

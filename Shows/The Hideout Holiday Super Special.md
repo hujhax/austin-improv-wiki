@@ -29,6 +29,7 @@
 			<td class="category">Nov/Dec 2010</td>
 		</tr>
 	</table>
+
 </div>
 
 ***The Hideout Holiday Super Special*** was an anthology of Christmas-themed performances of previous mainstage shows at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

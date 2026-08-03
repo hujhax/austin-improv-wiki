@@ -88,8 +88,8 @@
 			<td class="category">Nov 2012</td>
 		</tr>
 	</table>
-</div>
 
+</div>
 ***Off the Reef*** was an improvised puppet show.
 
 ## Summary

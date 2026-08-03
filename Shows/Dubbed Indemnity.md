@@ -25,6 +25,7 @@
 			<td class="category">Sep 2010-Sep 2011</td>
 		</tr>
 	</table>
+
 </div>
 
 ***Dubbed Indemnity*** was a shortform show at [[Theatres/The Hideout Theater|The Hideout Theater]] where improvisors dubbed a new soundtrack onto silenced film and television clips.
