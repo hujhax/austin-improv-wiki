@@ -1,0 +1,8 @@
+# Ignore Obsidian local configurations
+.obsidian/workspace
+.obsidian/workspace.json
+
+# Ignore Quartz dependency and build directories
+.quartz/node_modules/
+.quartz/.quartz-cache/
+.quartz/public/
