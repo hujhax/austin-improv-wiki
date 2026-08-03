@@ -9,7 +9,7 @@ image: "File/Wanderlust.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Wanderlust.jpg.md.md.md"><img src="File/File-Wanderlust.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Wanderlust.jpg.md.md"><img src="File/File-Wanderlust.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -183,7 +183,7 @@ The director's initial description of the show from the audition announcement:
 ## Media
 ### Videos
 * [Video](http://vimeo.com/115893524) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/3/15 premiere.
-	* [The corresponding playlist](http://eilanora.livejournal.com/11890.html) used by substitute tech [[Performers/Lindsey McGowen|Lindsey McGowen]].
+  * [The corresponding playlist](http://eilanora.livejournal.com/11890.html) used by substitute tech [[Performers/Lindsey McGowen|Lindsey McGowen]].
 * [Video](http://vimeo.com/117755059) of the 1/24/15 show.
 * [Video](http://vimeo.com/118672454) of the 1/31/15 show.
 * [Video](http://vimeo.com/119088109) of the 2/7/15 show.

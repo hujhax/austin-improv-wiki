@@ -9,7 +9,7 @@ image: "File/Senshi%20Sokyo.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Senshi Sokyo.jpg.md.md.md"><img src="File/File-Senshi%20Sokyo.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Senshi Sokyo.jpg.md.md"><img src="File/File-Senshi%20Sokyo.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -81,7 +81,7 @@ image: "File/Senshi%20Sokyo.jpg"
 * [Photoset](http://www.facebook.com/media/set/?set=a.232198840176973.61076.221927764537414&type=3) by [[Steve Rogers]] of their 10/28/11 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.276446039085586.69935.221927764537414&type=3) by [[Steve Rogers]] of their 1/14/12 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150665277457265.450840.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/4/12 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.877397692323748.1073742137.221927764537414&type=3) by [[Steve Rogers]] of the same show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.877397692323748.1073742137.221927764537414&type=3) by [[Steve Rogers]] of the same show.
 
 ### Publicity
 * [Publicity photos](http://www.facebook.com/media/set/?set=a.230068303723360.60516.221927764537414&type=3) by [[Steve Rogers]].

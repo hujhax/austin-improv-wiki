@@ -9,7 +9,7 @@ image: "File/Sara%20Farr%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Sara Farr Pic.jpg.md.md.md"><img src="File/File-Sara%20Farr%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Sara Farr Pic.jpg.md.md"><img src="File/File-Sara%20Farr%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -107,13 +107,13 @@ A post from her about the first improv show she ever saw:
 * [[Shows/Live TV Tuesdays -  Angel|Live TV Tuesdays -  Angel]] (assistant director)
 * *[[Shows/Lola|Lola]]* (tech, sound design)
 * [[Puppet Improv Project]] productions:
-	* *[[Shows/Crack|Crack]]*
-	* *[[Shows/Elf Employment|Elf Employment]]*
-	* *[[Shows/Off the Reef|Off the Reef]]*
-	* *[[Shows/Puppet Fever|Puppet Fever]]*
-	* *[[Shows/Puppet Katamari|Puppet Katamari]]*
-	* *[[Shows/Trash|Trash]]*
-	* *Wild West Puppets*
+  * *[[Shows/Crack|Crack]]*
+  * *[[Shows/Elf Employment|Elf Employment]]*
+  * *[[Shows/Off the Reef|Off the Reef]]*
+  * *[[Shows/Puppet Fever|Puppet Fever]]*
+  * *[[Shows/Puppet Katamari|Puppet Katamari]]*
+  * *[[Shows/Trash|Trash]]*
+  * *Wild West Puppets*
 * *[[Shows/Seance|Seance]]*
 [[Category/Performers|Farr]]
 [[Category/Techs|Farr]]

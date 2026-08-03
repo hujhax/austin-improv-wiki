@@ -9,7 +9,7 @@ image: "File/Golden%20%28troupe%29.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Golden (troupe).jpg.md.md.md"><img src="File/File-Golden%20(troupe).jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Golden (troupe).jpg.md.md"><img src="File/File-Golden%20(troupe).jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -131,7 +131,7 @@ Faceless - Golden uses full neutral mask in a montage format.
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805579882066.1073741963.1315383518&type=3) by [[Michael Yew]] the includes their 9/1/15 show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/14/15 performance at *The Knockout*.
-	* [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the same show.
+  * [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the same show.
 * [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208132350132913.1073741876.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of their 9/20/15 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 [[Category/Troupes|Category:Troupes]]

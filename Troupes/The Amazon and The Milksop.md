@@ -9,7 +9,7 @@ image: "File/The%20Amazon%20and%20the%20Milksop.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Amazon and the Milksop.jpg.md.md.md"><img src="File/File-The%20Amazon%20and%20the%20Milksop.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Amazon and the Milksop.jpg.md.md"><img src="File/File-The%20Amazon%20and%20the%20Milksop.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -122,7 +122,7 @@ This is their tribute to works like *Huckleberry Finn*, as they present a Living
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance of "Tennessee Williams, Performed By Robots" in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes their 8/30/12 "Catchin' Frogs" performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[Festivals/Wafflefest|Wafflefest]].
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
+  * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102522219773230.3490342.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151908985107265.1073741836.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/28/13 "Fitzgeralds for Hire" show at *[[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.636893483040838.1073741945.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152299683852107.1073741832.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their 4/16/14 "F. Scott and Zelda Fitzgerald Save The World" show.

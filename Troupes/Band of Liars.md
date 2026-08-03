@@ -9,7 +9,7 @@ image: "File/Band%20of%20Liars.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Band of Liars.jpg.md.md.md"><img src="File/File-Band%20of%20Liars.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Band of Liars.jpg.md.md"><img src="File/File-Band%20of%20Liars.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -101,7 +101,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * [Video #2](http://www.viddler.com/explore/exquisitezombie/videos/10/)
 
 ### Photos
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[Shows/The Threefer|The Threefer]]*.
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/19/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ### Other
 * [Sample Audio](http://www.ferstenfeld.com/mp3s/prov/garageshow-bazzle.mp3)

@@ -9,7 +9,7 @@ image: "File/TheatreSports.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-TheatreSports.jpg.md.md.md"><img src="File/File-TheatreSports.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-TheatreSports.jpg.md.md"><img src="File/File-TheatreSports.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -211,46 +211,46 @@ For this one, teams were set at the start of the run, and those teams played tog
 
 ### Second Run Cast
 * Team Cathedral of Junk
-	* [[Performers/Kaci Beeler|Kaci Beeler]]
-	* [[Performers/Mo Daviau|Mo Daviau]]
-	* [[Performers/Patrick Daniel|Patrick Daniel]]
-	* [[Performers/Peter Rogers|Peter Rogers]]
-	* [[Performers/Roy Janik|Roy Janik]]
+  * [[Performers/Kaci Beeler|Kaci Beeler]]
+  * [[Performers/Mo Daviau|Mo Daviau]]
+  * [[Performers/Patrick Daniel|Patrick Daniel]]
+  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Performers/Roy Janik|Roy Janik]]
 * Team ?????
-	* Amira Wizig
-	* [[Performers/Jay Michael|Jay Michael]]
-	* [[Performers/Jessica Arjet|Jessica Arjet]]
-	* [[Performers/Matt Pollock|Matt Pollock]]
+  * Amira Wizig
+  * [[Performers/Jay Michael|Jay Michael]]
+  * [[Performers/Jessica Arjet|Jessica Arjet]]
+  * [[Performers/Matt Pollock|Matt Pollock]]
 * Team Alamo Drafthouse
-	* [[Performers/Brad Temple|Brad Temple]]
-	* [[Performers/David Lampe|David Lampe]]
-	* [[Performers/Lauren Buck|Lauren Buck]]
-	* [[Performers/Ted Rutherford|Ted Rutherford]]
-	* [[Performers/Troy Miller|Troy Miller]]
+  * [[Performers/Brad Temple|Brad Temple]]
+  * [[Performers/David Lampe|David Lampe]]
+  * [[Performers/Lauren Buck|Lauren Buck]]
+  * [[Performers/Ted Rutherford|Ted Rutherford]]
+  * [[Performers/Troy Miller|Troy Miller]]
 * Team Katz's Deli ("The Chosen Ones")
-	* [[Performers/Aden Kirschner|Aden Kirschner]]
-	* [[Performers/Asaf Ronen|Asaf Ronen]]
-	* [[Performers/Shana Merlin|Shana Merlin]]
-	* [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]]
+  * [[Performers/Aden Kirschner|Aden Kirschner]]
+  * [[Performers/Asaf Ronen|Asaf Ronen]]
+  * [[Performers/Shana Merlin|Shana Merlin]]
+  * [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]]
 * Team Taco Deli ("Holy Molés")
-	* [[Performers/Emily Breedlove|Emily Breedlove]]
-	* [[Performers/Eric Heiberg|Eric Heiberg]]
-	* [[Performers/Sean Hill|Sean Hill]]
-	* [[Performers/Shannon McCormick|Shannon McCormick]]
+  * [[Performers/Emily Breedlove|Emily Breedlove]]
+  * [[Performers/Eric Heiberg|Eric Heiberg]]
+  * [[Performers/Sean Hill|Sean Hill]]
+  * [[Performers/Shannon McCormick|Shannon McCormick]]
 * Team Dragon's Lair
-	* [[Performers/Chris Allen|Chris Allen]]
-	* [[Performers/Jon Bolden|Jon Bolden]]
-	* [[Performers/Kristin Firth|Kristin Firth]]
-	* [[Performers/Marc Majcher|Marc Majcher]]
+  * [[Performers/Chris Allen|Chris Allen]]
+  * [[Performers/Jon Bolden|Jon Bolden]]
+  * [[Performers/Kristin Firth|Kristin Firth]]
+  * [[Performers/Marc Majcher|Marc Majcher]]
 * Team Bennu
-	* [[Performers/Andy Crouch|Andy Crouch]]
-	* [[Performers/Jason Vines|Jason Vines]]
-	* Joe Fraser
-	* [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
+  * [[Performers/Andy Crouch|Andy Crouch]]
+  * [[Performers/Jason Vines|Jason Vines]]
+  * Joe Fraser
+  * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * Team Hey Cupcake!
-	* [[Performers/Ace Manning|Ace Manning]]
-	* [[Performers/Kacey Samiee|Kacey Samiee]]
-	* Teresa Troxel
+  * [[Performers/Ace Manning|Ace Manning]]
+  * [[Performers/Kacey Samiee|Kacey Samiee]]
+  * Teresa Troxel
 
 ## 2013 Run
 The third run was directed by [[Performers/Roy Janik|Roy Janik]], with assistance from [[Performers/Ryan Austin|Ryan Austin]].
@@ -277,47 +277,47 @@ Every week, *Theatresports* includes two guest stars, as well as a themed "exhib
 The schedule is as follows:
 
 * May 4th
-	* Exhibition match: [[Troupes/Girls Girls Girls|Girls Girls Girls]] versus "Orphans Orphans Orphans", a trio of [[Shows/Charles Dickens Unleashed|Dickensian]] orphans
-	* Guests:
-		* [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]]
-		* [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]]
-	* Snogger: [[Performers/Quinn Buckner|Quinn Buckner]]
+  * Exhibition match: [[Troupes/Girls Girls Girls|Girls Girls Girls]] versus "Orphans Orphans Orphans", a trio of [[Shows/Charles Dickens Unleashed|Dickensian]] orphans
+  * Guests:
+    * [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]]
+    * [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]]
+  * Snogger: [[Performers/Quinn Buckner|Quinn Buckner]]
 * May 11th
-	* Exhibition match: [[Puppet Improv Project|Puppets]] VS [[Troupes/The Known Wizards|The Known Wizards]]
-	* Guests:
-		* [[Performers/Courtney Hopkin|Courtney Hopkin]]
-		* [[Performers/Lauren Buck|Lauren Buck]]
+  * Exhibition match: [[Puppet Improv Project|Puppets]] VS [[Troupes/The Known Wizards|The Known Wizards]]
+  * Guests:
+    * [[Performers/Courtney Hopkin|Courtney Hopkin]]
+    * [[Performers/Lauren Buck|Lauren Buck]]
 * May 18th
-	* Exhibition match: *[[Shows/Fandom|Fandom]]* presents: *Star Wars* ([[Performers/Peter Rogers|Peter Rogers]], [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Marc Majcher|Marc Majcher]], and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Performers/Quinn Buckner|Quinn Buckner]], [[Performers/Mia Iseman|Mia Iseman]], and [[Performers/Bridget Brewer|Bridget Brewer]]).
-	* Guests:
-		* [[Performers/Kaci Beeler|Kaci Beeler]]
-		* [[Performers/Ace Manning|Ace Manning]]
-	* Snogger: [[Performers/Marc Majcher|Marc Majcher]]
+  * Exhibition match: *[[Shows/Fandom|Fandom]]* presents: *Star Wars* ([[Performers/Peter Rogers|Peter Rogers]], [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Marc Majcher|Marc Majcher]], and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Performers/Quinn Buckner|Quinn Buckner]], [[Performers/Mia Iseman|Mia Iseman]], and [[Performers/Bridget Brewer|Bridget Brewer]]).
+  * Guests:
+    * [[Performers/Kaci Beeler|Kaci Beeler]]
+    * [[Performers/Ace Manning|Ace Manning]]
+  * Snogger: [[Performers/Marc Majcher|Marc Majcher]]
 * May 25th
-	* Exhibition match: [[Shows/Blood, Sweat, and Cheers|Cheerleaders]] vs. *[[Shows/Pulp Friction|Pulp Friction]]*.
-	* Guests:
-		* [[Performers/Craig Kotfas|Craig Kotfas]]
-		* [[Performers/Jay Michael|Jay Michael]]
+  * Exhibition match: [[Shows/Blood, Sweat, and Cheers|Cheerleaders]] vs. *[[Shows/Pulp Friction|Pulp Friction]]*.
+  * Guests:
+    * [[Performers/Craig Kotfas|Craig Kotfas]]
+    * [[Performers/Jay Michael|Jay Michael]]
 * June 1st
-	* Exhibition match: unknown.
-	* Guests:
-		* [[Performers/Andy Crouch|Andy Crouch]]
-		* [[Performers/Ben Masten|Ben Masten]]
+  * Exhibition match: unknown.
+  * Guests:
+    * [[Performers/Andy Crouch|Andy Crouch]]
+    * [[Performers/Ben Masten|Ben Masten]]
 * June 8th
-	* Exhibition match: unknown.
-	* Guests:
-		* [[Performers/Ruby Willmann|Ruby Willmann]]
-		* [[Performers/Troy Miller|Troy Miller]]
+  * Exhibition match: unknown.
+  * Guests:
+    * [[Performers/Ruby Willmann|Ruby Willmann]]
+    * [[Performers/Troy Miller|Troy Miller]]
 * June 15th
-	* Exhibition match: unknown.
-	* Guests:
-		* [[Performers/Dave Buckman|Dave Buckman]]
-		* [[Performers/Peter Rogers|Peter Rogers]]
+  * Exhibition match: unknown.
+  * Guests:
+    * [[Performers/Dave Buckman|Dave Buckman]]
+    * [[Performers/Peter Rogers|Peter Rogers]]
 * June 29th
-	* Exhibition match: unknown.
-	* Guests:
-		* [[Performers/Andrew Buck|Andrew Buck]]
-		* [[Performers/Kaci Beeler|Kaci Beeler]]
+  * Exhibition match: unknown.
+  * Guests:
+    * [[Performers/Andrew Buck|Andrew Buck]]
+    * [[Performers/Kaci Beeler|Kaci Beeler]]
 
 ## 2014 Run
 *Theatresports* came back as a Hideout mainstage show in May and June of 2014.
@@ -358,7 +358,7 @@ The schedule is as follows:
 ### Videos
 * Video of the 10/30/10 performance by [[Performers/Peter Rogers|Peter Rogers]]: [part 1](http://vimeo.com/16402965), [part 2](http://vimeo.com/16403547).
 * [Video of the 5/4/13 performance](http://vimeo.com/66174442) by [[Performers/Ryan Austin|Ryan Austin]].
-	* [A second video](http://vimeo.com/67173123) of the same show.
+  * [A second video](http://vimeo.com/67173123) of the same show.
 * [Video of the 5/11/13 performance](http://vimeo.com/67173124) by [[Performers/Ryan Austin|Ryan Austin]].
 * [Video of the 5/18/13 performance](http://vimeo.com/67725617) by [[Performers/Ryan Austin|Ryan Austin]].
 * [Video of the 5/25/13 performance](http://vimeo.com/69837645) by [[Performers/Ryan Austin|Ryan Austin]].
@@ -373,17 +373,17 @@ The schedule is as follows:
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/25/10 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1) by [[Roy Moore]] of the 9/18/2010 match between Team Cathedral of Junk and Team H8 Cupcake.
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same show.
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the 10/1/2010 match between Team Katz's Deli and Team Taco Deli.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3) by [[Roy Moore]] of the 10/2/10 performance.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/30/10 final match.
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same match.
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same match.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/3/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/14/12 performance.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/21/12 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of the 5/4/13 premiere.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 5/25/13 show.
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
+  * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Hideout/2013-06-15-Theatresports/) by [[Performers/Chad Wellington|Chad Wellington]] of the 6/15/13 show.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.603982086298947.1073741834.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of the 6/28/13 finale.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.831365263560627.1073741872.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a 2014 show.

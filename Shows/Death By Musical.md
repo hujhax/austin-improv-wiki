@@ -9,7 +9,7 @@ image: "File/death%20by%20musical.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Death by musical.jpg.md.md.md"><img src="File/File-Death%20by%20musical.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Death by musical.jpg.md.md"><img src="File/File-Death%20by%20musical.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

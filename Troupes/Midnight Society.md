@@ -9,7 +9,7 @@ image: "File/Midnight%20Society.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Midnight Society.jpg.md.md.md"><img src="File/File-Midnight%20Society.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Midnight Society.jpg.md.md"><img src="File/File-Midnight%20Society.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -103,7 +103,7 @@ Their bio, from their web site:
 
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346850923219.2043490.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-	* [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481885377264.251801.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]].
+  * [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481885377264.251801.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/24/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.126797817401250.32892.100002130980897&type=3) by [[Steve Rogers]] that includes their 5/28/11 show at Austin Sketch Fest.
 * [Photoset](http://www.facebook.com/media/set/?set=a.383629978367191.91509.221927764537414&type=3) by [[Steve Rogers]] that includes their 6/16/12 "Goodbye Justin and Teresa" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

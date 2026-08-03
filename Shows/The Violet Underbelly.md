@@ -9,7 +9,7 @@ image: "File/The%20Violet%20Underbelly.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Violet Underbelly.jpg.md.md.md"><img src="File/File-The%20Violet%20Underbelly.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Violet Underbelly.jpg.md.md"><img src="File/File-The%20Violet%20Underbelly.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -160,7 +160,7 @@ After its main run, the show was performed once at [[Festivals/The 2011 Improvis
 * [Photoset](http://www.facebook.com/media/set/?set=a.10150164551402265.334935.588952264&type=1) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/23/11 rehearsal.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150169239482265.336902.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/2/11 rehearsal.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150191338757265.344586.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/26/11 performance.
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes that show.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes that show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198561812265.346709.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/1/11 show prep.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.117825398298492.24437.100002130980897&type=3) by [[Steve Rogers]] of their 4/16/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1661395897504.82683.1315383518&type=3) by [[Michael Yew]] of the 4/23/11 performance.

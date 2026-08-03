@@ -9,7 +9,7 @@ image: "File/Bridgeport%20Women%27s%20Correctional%20Facility%20Short%20Form%20P
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Bridgeport Women's Correctional Facility Short Form Players.jpg.md.md.md"><img src="File/File-Bridgeport%20Women's%20Correctional%20Facility%20Short%20Form%20Players.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Bridgeport Women's Correctional Facility Short Form Players.jpg.md.md"><img src="File/File-Bridgeport%20Women's%20Correctional%20Facility%20Short%20Form%20Players.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

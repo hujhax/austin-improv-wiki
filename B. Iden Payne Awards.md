@@ -49,24 +49,24 @@ The nominees would then be voted on by any monetary supporter of the Austin Crea
 ## List of Improv Award Winners and Nominees, By Year
 ### 2005-2006 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
-	* Winner: [[Troupes/The Frank Mills|The Frank Mills]]
-	* Nominees:
-		* [[Troupes/You Me & Greg|You Me & Greg]] 
-		* [[Troupes/Girls Girls Girls|Girls Girls Girls]] 
-		* [[Troupes/Foolish Mortals|Foolish Mortals]] 
-		* [[Troupes/The Frank Mills|The Frank Mills]] 
-		* [[Theatres/ColdTowne|ColdTowne]]
+  * Winner: [[Troupes/The Frank Mills|The Frank Mills]]
+  * Nominees:
+    * [[Troupes/You Me & Greg|You Me & Greg]] 
+    * [[Troupes/Girls Girls Girls|Girls Girls Girls]] 
+    * [[Troupes/Foolish Mortals|Foolish Mortals]] 
+    * [[Troupes/The Frank Mills|The Frank Mills]] 
+    * [[Theatres/ColdTowne|ColdTowne]]
 
 
 ### 2006-2007 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
-	* Winner: [[Troupes/ColdTowne (Troupe)|ColdTowne]]
-	* Nominees:
-		* [[Troupes/Available Cupholders|Available Cupholders]] 
-		* [[Theatres/ColdTowne|ColdTowne]] 
-		* Frank Mills 
-		* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
-		* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+  * Winner: [[Troupes/ColdTowne (Troupe)|ColdTowne]]
+  * Nominees:
+    * [[Troupes/Available Cupholders|Available Cupholders]] 
+    * [[Theatres/ColdTowne|ColdTowne]] 
+    * Frank Mills 
+    * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
+    * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 
 
 ### 2007-2008 Season
@@ -77,135 +77,135 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
 
 ### 2008-2009 Season
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
-	* Winner: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-	* Nominees:
-		* [[Theatres/ColdTowne|ColdTowne]]
-		* [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
-		* [[Troupes/Midnight Society|Midnight Society]]
-		* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-		* [[Troupes/The Frank Mills|The Frank Mills]]
+  * Winner: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+  * Nominees:
+    * [[Theatres/ColdTowne|ColdTowne]]
+    * [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
+    * [[Troupes/Midnight Society|Midnight Society]]
+    * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+    * [[Troupes/The Frank Mills|The Frank Mills]]
 
 
 ### 2009-2010 Season
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
-	* Winner: [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
-	* Nominees:
-		* [[Shows/Austin Secrets|Austin Secrets]] ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
-		* [[Theatres/ColdTowne|ColdTowne]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
-		* [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]] ([[Theatres/The Institution Theater|The Institution Theater]])
-		* [[Shows/Dusk -  Improvised Tween Erotica|Dusk -  Improvised Tween Erotica]] (GNAP! Theater Productions)
-		* [[Troupes/The Frank Mills|The Frank Mills]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
+  * Winner: [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
+  * Nominees:
+    * [[Shows/Austin Secrets|Austin Secrets]] ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
+    * [[Theatres/ColdTowne|ColdTowne]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
+    * [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]] ([[Theatres/The Institution Theater|The Institution Theater]])
+    * [[Shows/Dusk -  Improvised Tween Erotica|Dusk -  Improvised Tween Erotica]] (GNAP! Theater Productions)
+    * [[Troupes/The Frank Mills|The Frank Mills]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
 
 
 ### 2010-2011 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
-	* Winner: [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
-	* Nominees:
-		* [[Shows/Austin Secrets|Austin Secrets]] ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
-		* [[Troupes/Confidence Men|Confidence Men]] ([[Theatres/The Institution Theater|The Institution Theater]])
-		* [[Troupes/Get Up|Get Up]] ([[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]])
-		* [[Shows/The Megaphone Show|The Megaphone Show]] ([[Theatres/The New Movement Theater|The New Movement Theater]])
-		* [[Troupes/Midnight Society|Midnight Society]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
+  * Winner: [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
+  * Nominees:
+    * [[Shows/Austin Secrets|Austin Secrets]] ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
+    * [[Troupes/Confidence Men|Confidence Men]] ([[Theatres/The Institution Theater|The Institution Theater]])
+    * [[Troupes/Get Up|Get Up]] ([[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]])
+    * [[Shows/The Megaphone Show|The Megaphone Show]] ([[Theatres/The New Movement Theater|The New Movement Theater]])
+    * [[Troupes/Midnight Society|Midnight Society]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
 
 
 ### 2011-2012 Season
 * The Rudy Kloptic Award for Oustanding Improvisational Theatre Ensemble
-	* Winner: [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-	* Nominees:
-		* [[Troupes/Bad Boys|Bad Boys]]
-		* [[Troupes/Checkbook|Checkbook]]
-		* [[Troupes/Girls Girls Girls|Girls Girls Girls]] 
-		* [[Shows/Manhattan Stories|Manhattan Stories]] 
-		* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+  * Winner: [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+  * Nominees:
+    * [[Troupes/Bad Boys|Bad Boys]]
+    * [[Troupes/Checkbook|Checkbook]]
+    * [[Troupes/Girls Girls Girls|Girls Girls Girls]] 
+    * [[Shows/Manhattan Stories|Manhattan Stories]] 
+    * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 
 
 ### 2012-2013 Season
 * Rudy Kloptik Award for Outstanding Work in Improvisational Theatre
-	* Winner: *[[Shows/The Suitcase|The Suitcase]]*
-	* Nominees: 
-		* [[Troupes/Bad Boys|Bad Boys]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
-		* *[[Shows/Fandom|Fandom]]* ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
-		* [[Troupes/Get Up|Get Up]] (GNAP! Productions/Salvage Vanguard Theater)
-		* [[Troupes/The Known Wizards|The Known Wizards]] (MerlinWorks/ZACH Theater)
-		* *[[Shows/The Megaphone Show|The Megaphone Show]]* ([[Theatres/The New Movement Theater|The New Movement Theater]])
-		* *[[Shows/The Suitcase|The Suitcase]]* ([[Theatres/The Institution Theater|The Institution Theater]])
+  * Winner: *[[Shows/The Suitcase|The Suitcase]]*
+  * Nominees: 
+    * [[Troupes/Bad Boys|Bad Boys]] ([[Theatres/Coldtowne Theater|Coldtowne Theater]])
+    * *[[Shows/Fandom|Fandom]]* ([[Theatres/The Hideout Theatre|The Hideout Theatre]])
+    * [[Troupes/Get Up|Get Up]] (GNAP! Productions/Salvage Vanguard Theater)
+    * [[Troupes/The Known Wizards|The Known Wizards]] (MerlinWorks/ZACH Theater)
+    * *[[Shows/The Megaphone Show|The Megaphone Show]]* ([[Theatres/The New Movement Theater|The New Movement Theater]])
+    * *[[Shows/The Suitcase|The Suitcase]]* ([[Theatres/The Institution Theater|The Institution Theater]])
 
 
 ### 2013-2014 Season
 * Outstanding Production
-	* Winner: *[[Shows/Hurly Burly|Hurly Burly]]*
-	* Nominees:
-		* *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
-		* *[[Shows/Hurly Burly|Hurly Burly]]*
-		* *[[Shows/Kenjutsu|Kenjutsu]]*
-		* *[[Shows/I Love You So Much|I Love You So Much]]*
-		* *[[Shows/Austin Secrets|Austin Secrets]]*
-		* *[[Shows/TIT Talks|TIT Talks]]*
+  * Winner: *[[Shows/Hurly Burly|Hurly Burly]]*
+  * Nominees:
+    * *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*
+    * *[[Shows/Hurly Burly|Hurly Burly]]*
+    * *[[Shows/Kenjutsu|Kenjutsu]]*
+    * *[[Shows/I Love You So Much|I Love You So Much]]*
+    * *[[Shows/Austin Secrets|Austin Secrets]]*
+    * *[[Shows/TIT Talks|TIT Talks]]*
 
 * Outstanding Director
-	* Winners: [[Performers/Jayme Ramsay|Jayme Ramsay]] and [[Performers/Marc Majcher|Marc Majcher]], *[[Shows/Hurly Burly|Hurly Burly]]*
-	* Nominees:
-		* [[Performers/Jayme Ramsey|Jayme Ramsey]] and [[Performers/Marc Majcher|Marc Majcher]] (*[[Shows/Hurly Burly|Hurly Burly]]*)
-		* [[Performers/Valerie Ward|Valerie Ward]] (*[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*)
-		* [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/Shannon McCormick|Shannon McCormick]] (*[[Shows/Kenjutsu|Kenjutsu]]*)
-		* [[Performers/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]] (*[[Shows/I Love You So Much|I Love You So Much]]*) 
-		* [[Performers/Roy Janik|Roy Janik]] and [[Performers/Lisa Jackson|Lisa Jackson]] (*[[Shows/Austin Secrets|Austin Secrets]]*)
+  * Winners: [[Performers/Jayme Ramsay|Jayme Ramsay]] and [[Performers/Marc Majcher|Marc Majcher]], *[[Shows/Hurly Burly|Hurly Burly]]*
+  * Nominees:
+    * [[Performers/Jayme Ramsey|Jayme Ramsey]] and [[Performers/Marc Majcher|Marc Majcher]] (*[[Shows/Hurly Burly|Hurly Burly]]*)
+    * [[Performers/Valerie Ward|Valerie Ward]] (*[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*)
+    * [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/Shannon McCormick|Shannon McCormick]] (*[[Shows/Kenjutsu|Kenjutsu]]*)
+    * [[Performers/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]] (*[[Shows/I Love You So Much|I Love You So Much]]*) 
+    * [[Performers/Roy Janik|Roy Janik]] and [[Performers/Lisa Jackson|Lisa Jackson]] (*[[Shows/Austin Secrets|Austin Secrets]]*)
 
 
 
 * Rudy Kloptik Award for Outstanding Improvisational Troupe
-	* Winner: [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-	* Nominees:
-		* [[Troupes/Bad Boys|Bad Boys]]
-		* [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-		* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-		* [[Shows/Movie Riot|Movie Riot]]
-		* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+  * Winner: [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+  * Nominees:
+    * [[Troupes/Bad Boys|Bad Boys]]
+    * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
+    * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+    * [[Shows/Movie Riot|Movie Riot]]
+    * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 
 
 * General Theatre Awards and nominations: 
-	* Outstanding Puppetry Nominee:
-		* [[Shows/A Bedtime Gorey|A Bedtime Gorey]]
+  * Outstanding Puppetry Nominee:
+    * [[Shows/A Bedtime Gorey|A Bedtime Gorey]]
 
 
 ### 2014-2015 Season
 * Outstanding Improvised Production 
-	* Winner: *[[Shows/Nothing And Everything|Nothing And Everything]]*
-	* Nominees:
-		* *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
-		* *[[Shows/Nothing And Everything|Nothing And Everything]]*
-		* *[[Shows/RISEN|RISEN]]*
-		* *[[Troupes/Girls Girls Girls|The Secret Lives of Soccer Moms]]*
-		* *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
+  * Winner: *[[Shows/Nothing And Everything|Nothing And Everything]]*
+  * Nominees:
+    * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
+    * *[[Shows/Nothing And Everything|Nothing And Everything]]*
+    * *[[Shows/RISEN|RISEN]]*
+    * *[[Troupes/Girls Girls Girls|The Secret Lives of Soccer Moms]]*
+    * *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
 
 
 * Outstanding Director - Improv
-	* Winner: [[Performers/Jon Bolden|Jon Bolden]], *[[Shows/Nothing And Everything|Nothing And Everything]]*
-	* Nominees:
-		* [[Performers/Jon Bolden|Jon Bolden]], *[[Shows/Nothing And Everything|Nothing And Everything]]*
-		* [[Performers/Sarah Marie Curry|Sarah Marie Curry]], *[[Shows/RISEN|RISEN]]*
-		* [[Troupes/Girls Girls Girls|Girls Girls Girls]], *The Secret Lives of Soccer Moms*
-		* [[Performers/Brad Hawkins|Brad Hawkins]], *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
-		* Mason Pitluk, *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
+  * Winner: [[Performers/Jon Bolden|Jon Bolden]], *[[Shows/Nothing And Everything|Nothing And Everything]]*
+  * Nominees:
+    * [[Performers/Jon Bolden|Jon Bolden]], *[[Shows/Nothing And Everything|Nothing And Everything]]*
+    * [[Performers/Sarah Marie Curry|Sarah Marie Curry]], *[[Shows/RISEN|RISEN]]*
+    * [[Troupes/Girls Girls Girls|Girls Girls Girls]], *The Secret Lives of Soccer Moms*
+    * [[Performers/Brad Hawkins|Brad Hawkins]], *[[Shows/You Can't Stay Here|You Can't Stay Here]]*
+    * Mason Pitluk, *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 
 
 * Rudy Kloptik Award for Outstanding Improvisational Troupe 
-	* Winner: [[Troupes/The Knuckleball Now|The Knuckleball Now]]
-	* Nominees:
-		* [[Troupes/Bad Boys|Bad Boys]]
-		* [[Troupes/Loverboy|Loverboy]]
-		* [[Shows/Movie Riot|Movie Riot]]
-		* [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-		* [[Troupes/Patio Talk|Patio Talk]]
-		* [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+  * Winner: [[Troupes/The Knuckleball Now|The Knuckleball Now]]
+  * Nominees:
+    * [[Troupes/Bad Boys|Bad Boys]]
+    * [[Troupes/Loverboy|Loverboy]]
+    * [[Shows/Movie Riot|Movie Riot]]
+    * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
+    * [[Troupes/Patio Talk|Patio Talk]]
+    * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 
 
 * General Theatre Awards and nominations
-	* Outstanding Puppetry Nominee:
-		* *[[Shows/Fragile Rock|Fragile Rock]]*
-	* Outstanding Original Score Nominee:
-		* *[[Shows/Fragile Rock|Fragile Rock]]*
-	* Outstanding Set Design Nominee:
-		* *[[Shows/Happily Ever After|Happily Ever After]]*
-	* Outstanding Cast Performance Nominee:
-		* *[[Shows/Nothing And Everything|Nothing And Everything]]*
+  * Outstanding Puppetry Nominee:
+    * *[[Shows/Fragile Rock|Fragile Rock]]*
+  * Outstanding Original Score Nominee:
+    * *[[Shows/Fragile Rock|Fragile Rock]]*
+  * Outstanding Set Design Nominee:
+    * *[[Shows/Happily Ever After|Happily Ever After]]*
+  * Outstanding Cast Performance Nominee:
+    * *[[Shows/Nothing And Everything|Nothing And Everything]]*

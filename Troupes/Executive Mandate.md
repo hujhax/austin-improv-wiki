@@ -9,7 +9,7 @@ image: "File/Executive%20Mandate.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Executive Mandate.jpg.md.md.md"><img src="File/File-Executive%20Mandate.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Executive Mandate.jpg.md.md"><img src="File/File-Executive%20Mandate.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

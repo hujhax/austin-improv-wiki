@@ -2,7 +2,7 @@
 description: ".]]."
 image: "File/Yew%20in%20Booth.jpg"
 ---
-![[File/Yew in Booth.jpg.md|Michael Yew, in the tech booth for *[Charles Dickens Unleashed](Shows/Charles%20Dickens%20Unleashed)*.]]
+![[File/Yew in Booth.jpg|Michael Yew, in the tech booth for *[Charles Dickens Unleashed](Shows/Charles%20Dickens%20Unleashed)*.]]
 
 **Michael Yew** is a photographer who has worked frequently with the Austin improv community, both photographing shows and shooting publicity photos, since 2010.
 

@@ -9,7 +9,7 @@ image: "File/Steam.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Steam.jpg.md.md.md"><img src="File/File-Steam.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Steam.jpg.md.md"><img src="File/File-Steam.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -129,33 +129,33 @@ Like *[[Shows/Showdown|Showdown]]*, *Steam* was a serialized narrative, with ten
 
 ### Photos
 * Night 1 (1/6/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.250787974989889.58149.118587218209966&type=3) by [[Roy Moore]].
-	* [Photoset](http://www.facebook.com/media/set/?set=a.270663862997137.68666.221927764537414&type=3) by [[Steve Rogers]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.250787974989889.58149.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.270663862997137.68666.221927764537414&type=3) by [[Steve Rogers]].
 * Night 2 (1/7/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.251392551596098.58303.118587218209966&type=1) by [[Roy Moore]].
-	* Photosets by [[Steve Rogers]]: [1](http://www.facebook.com/media/set/?set=a.271281489602041.68812.221927764537414&type=3), [2](http://www.facebook.com/media/set/?set=a.271690159561174.68910.221927764537414&type=3), [3](http://www.facebook.com/media/set/?set=a.271726299557560.68916.221927764537414&type=3).
+  * [Photoset](http://www.facebook.com/media/set/?set=a.251392551596098.58303.118587218209966&type=1) by [[Roy Moore]].
+  * Photosets by [[Steve Rogers]]: [1](http://www.facebook.com/media/set/?set=a.271281489602041.68812.221927764537414&type=3), [2](http://www.facebook.com/media/set/?set=a.271690159561174.68910.221927764537414&type=3), [3](http://www.facebook.com/media/set/?set=a.271726299557560.68916.221927764537414&type=3).
 * Night 3 (1/13/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.254834544585232.59040.118587218209966&type=3) by [[Roy Moore]].
-	* [Photoset](http://www.facebook.com/media/set/?set=a.275207809209409.69637.221927764537414&type=3) by [[Steve Rogers]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.254834544585232.59040.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.275207809209409.69637.221927764537414&type=3) by [[Steve Rogers]].
 * Night 4 (1/14/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.255962171139136.59278.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.255962171139136.59278.118587218209966&type=3) by [[Roy Moore]].
 * Night 5 (1/20/12)
-	* Photosets by Steve Rogers: [1](http://www.facebook.com/media/set/?set=a.280001812063342.70633.221927764537414&type=3), [2](http://www.facebook.com/media/set/?set=a.284270068303183.71564.221927764537414&type=3).
-	* [Photoset of the 1/20/12 show](http://www.facebook.com/media/set/?set=a.259084494160237.59888.118587218209966&type=3) by [[Roy Moore]].
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3) by [[Michael Yew]] that includes the show.
+  * Photosets by Steve Rogers: [1](http://www.facebook.com/media/set/?set=a.280001812063342.70633.221927764537414&type=3), [2](http://www.facebook.com/media/set/?set=a.284270068303183.71564.221927764537414&type=3).
+  * [Photoset of the 1/20/12 show](http://www.facebook.com/media/set/?set=a.259084494160237.59888.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3) by [[Michael Yew]] that includes the show.
 * Night 6 (1/21/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.259795757422444.60075.118587218209966&type=3) by [[Roy Moore]].
-	* [Photoset](http://www.facebook.com/media/set/?set=a.280686221994901.70792.221927764537414&type=3) by [[Steve Rogers]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.259795757422444.60075.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.280686221994901.70792.221927764537414&type=3) by [[Steve Rogers]].
 * Night 7 (1/27/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.263712960364057.60825.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.263712960364057.60825.118587218209966&type=3) by [[Roy Moore]].
 * Night 8 (1/28/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.265911776810842.61218.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.265911776810842.61218.118587218209966&type=3) by [[Roy Moore]].
 * Night 9 (2/3/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.268279006574119.61635.118587218209966&type=3) by [[Roy Moore]].
-	* [Photoset](http://www.facebook.com/media/set/?set=a.290146614382195.72625.221927764537414&type=3) by [[Steve Rogers]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.268279006574119.61635.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/media/set/?set=a.290146614382195.72625.221927764537414&type=3) by [[Steve Rogers]].
 * Night 10 (2/4/12)
-	* [Photoset](http://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3) by [[Roy Moore]].
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3) by [[Michael Yew]] that includes the show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.269124603156226.61798.118587218209966&type=3) by [[Roy Moore]].
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2498819352567.108485.1315383518&type=3) by [[Michael Yew]] that includes the show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2939584451419.117496.1315383518&type=3) by [[Michael Yew]] that includes their 4/12/12 performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
 ### Publicity

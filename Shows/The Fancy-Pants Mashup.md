@@ -9,7 +9,7 @@ image: "File/Dance%20Battle.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Dance Battle.jpg.md.md.md"><img src="File/File-Dance%20Battle.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Dance Battle.jpg.md.md"><img src="File/File-Dance%20Battle.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -51,7 +51,7 @@ The show began under the direction of [[Performers/Jon Bolden|Jon Bolden]]. It h
 * [Video of 5/6/11 performance.](http://vimeo.com/23484902)
 * [Video of 11/4/11 performance.](http://vimeo.com/31770847)
 * [Video of 12/2/11 performance.](http://vimeo.com/33377293)
-	* Videos by [[Performers/Luis Salinas|Luis Salinas]] of the same show: [1](http://vimeo.com/34625770), [2](http://vimeo.com/34625875), [3](http://vimeo.com/34627912), [4](http://vimeo.com/34628194).
+  * Videos by [[Performers/Luis Salinas|Luis Salinas]] of the same show: [1](http://vimeo.com/34625770), [2](http://vimeo.com/34625875), [3](http://vimeo.com/34627912), [4](http://vimeo.com/34628194).
 * [Video of 12/7/12 performance.](http://vimeo.com/55383414)
 * [Video](http://vimeo.com/41711039) by [[Performers/Dave alley|Dave alley]] of the 5/4/12 show.
 * [Video of 7/6/12 performance.](http://vimeo.com/47377300)
@@ -76,10 +76,10 @@ The show began under the direction of [[Performers/Jon Bolden|Jon Bolden]]. It h
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2727534230296.112720.1315383518&type=3) by [[Michael Yew]] of the 3/2/12 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2899917379767.116680.1315383518&type=3) by [[Michael Yew]] of the 4/6/12 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3062135595121.119568.1315383518&type=3) by [[Michael Yew]] of the 5/4/12 performance.
-	* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.407354619286039.92726.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
+  * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.407354619286039.92726.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3341472898379.125369.1315383518&type=3) by [[Michael Yew]] of the 6/6/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.3439402826566.127770.1315383518&type=3) by [[Michael Yew]] of the 8/3/12 performance.
-	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.476618529026314.107891.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
+  * [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.476618529026314.107891.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [A photoset](http://www.facebook.com/media/set/?set=a.3563786616083.131335.1315383518&type=3) by [[Michael Yew]] of the 9/7/12 performance.
 * [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.3582900613921.131839.1315383518&type=3) by [[Michael Yew]] of the 9/13/12 performance with [[Performers/Ruby Willmann|Ruby Willmann]] at *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [A photoset](http://www.facebook.com/michael.yew/media_set?set=a.3781324494394.136231.1315383518&type=3) by [[Michael Yew]] of the 11/2/12 performance.

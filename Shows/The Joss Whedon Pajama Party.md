@@ -9,7 +9,7 @@ image: "File/The%20Joss%20Whedon%20Pajama%20Party.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Joss Whedon Pajama Party.jpg.md.md.md"><img src="File/File-The%20Joss%20Whedon%20Pajama%20Party.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Joss Whedon Pajama Party.jpg.md.md"><img src="File/File-The%20Joss%20Whedon%20Pajama%20Party.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -208,70 +208,70 @@ All June 2012 shows were hosted by [[Performers/Jordan T. Maxwell|Jordan T. Maxw
 
 ### 6/15/12 Performance
 * Improv players:
-	* Courtney DeAngelo
-	* [[Performers/Heidi Rogers|Heidi Rogers]]
-	* [[Performers/Jason Vines|Jason Vines]]
-	* [[Performers/Kristin Firth|Kristin Firth]]
-	* [[Performers/Peter Rogers|Peter Rogers]]
-	* [[Performers/Sarah Swofford|Sarah Swofford]]
+  * Courtney DeAngelo
+  * [[Performers/Heidi Rogers|Heidi Rogers]]
+  * [[Performers/Jason Vines|Jason Vines]]
+  * [[Performers/Kristin Firth|Kristin Firth]]
+  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Performers/Sarah Swofford|Sarah Swofford]]
 * Sketch players:
-	* Alex Kingston
-	* [[Performers/Heath Allyn|Heath Allyn]]
-	* [[Performers/Mitchell Deane|Mitchell Deane]]
+  * Alex Kingston
+  * [[Performers/Heath Allyn|Heath Allyn]]
+  * [[Performers/Mitchell Deane|Mitchell Deane]]
 
 ### 6/22/12 Performance
 * Improv players:
-	* [[Performers/Chad Wellington|Chad Wellington]]
-	* [[Performers/Chelley Pyatt|Chelley Pyatt]]
-	* Courtney DeAngelo
-	* David Higgins
-	* [[Performers/Kristin Firth|Kristin Firth]]
+  * [[Performers/Chad Wellington|Chad Wellington]]
+  * [[Performers/Chelley Pyatt|Chelley Pyatt]]
+  * Courtney DeAngelo
+  * David Higgins
+  * [[Performers/Kristin Firth|Kristin Firth]]
 * Sketch players:
-	* Alex Kingston
-	* [[Performers/Mitchell Deane|Mitchell Deane]]
-	* [[Performers/Heath Allyn|Heath Allyn]]
+  * Alex Kingston
+  * [[Performers/Mitchell Deane|Mitchell Deane]]
+  * [[Performers/Heath Allyn|Heath Allyn]]
 
 ### 6/29/12 Performance
 * Improv players:
-	* Courtney DeAngelo
-	* David Higgins
-	* Jeremy Logan
-	* [[Performers/Kristin Firth|Kristin Firth]]
-	* [[Performers/Tyler Bryce|Tyler Bryce]]
+  * Courtney DeAngelo
+  * David Higgins
+  * Jeremy Logan
+  * [[Performers/Kristin Firth|Kristin Firth]]
+  * [[Performers/Tyler Bryce|Tyler Bryce]]
 * Sketch players:
-	* [[Performers/Adam Mengesha|Adam Mengesha]]
-	* [[Performers/Alexa Ramirez|Alexa Ramirez]]
-	* [[Performers/Asaf Ronen|Asaf Ronen]]
-	* [[Performers/Chelley Pyatt|Chelley Pyatt]]
-	* [[Performers/Cindy Page|Cindy Page]]
-	* [[Performers/David Zimmerman|David Zimmerman]]
-	* [[Performers/Heath Allyn|Heath Allyn]]
-	* Jeremy Logan
-	* [[Performers/Kristin Firth|Kristin Firth]]
-	* [[Performers/Peter Rogers|Peter Rogers]]
-	* [[Performers/Sarah Swofford|Sarah Swofford]]
+  * [[Performers/Adam Mengesha|Adam Mengesha]]
+  * [[Performers/Alexa Ramirez|Alexa Ramirez]]
+  * [[Performers/Asaf Ronen|Asaf Ronen]]
+  * [[Performers/Chelley Pyatt|Chelley Pyatt]]
+  * [[Performers/Cindy Page|Cindy Page]]
+  * [[Performers/David Zimmerman|David Zimmerman]]
+  * [[Performers/Heath Allyn|Heath Allyn]]
+  * Jeremy Logan
+  * [[Performers/Kristin Firth|Kristin Firth]]
+  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Performers/Sarah Swofford|Sarah Swofford]]
 
 ### 1/25/13 Performance
 * *[[Shows/Live TV Tuesdays -  Firefly|Firefly]]* players:
-	* [[Performers/Adam Mengesha|Adam Mengesha]]
-	* [[Performers/Alexa Ramirez|Alexa Ramirez]]
-	* [[Performers/Ammie Nicole Leonards|Ammie Nicole Leonards]]
-	* [[Performers/Heath Allyn|Heath Allyn]]
-	* [[Performers/Jason Vines|Jason Vines]]
-	* [[Performers/Lindsey Reeves|Lindsey Reeves]]
-	* [[Performers/Peter Rogers|Peter Rogers]]
-	* [[Performers/Sarah Swofford|Sarah Swofford]]
+  * [[Performers/Adam Mengesha|Adam Mengesha]]
+  * [[Performers/Alexa Ramirez|Alexa Ramirez]]
+  * [[Performers/Ammie Nicole Leonards|Ammie Nicole Leonards]]
+  * [[Performers/Heath Allyn|Heath Allyn]]
+  * [[Performers/Jason Vines|Jason Vines]]
+  * [[Performers/Lindsey Reeves|Lindsey Reeves]]
+  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Performers/Sarah Swofford|Sarah Swofford]]
 * *[[Shows/Fandom|Fandom]]* players:
-	* [[Performers/Aaron Saenz|Aaron Saenz]]
-	* [[Performers/Bridget Brewer|Bridget Brewer]]
-	* [[Performers/Eric Heiberg|Eric Heiberg]]
-	* James Leary (guest)
-		* N.B.: [Mr. Leary](http://buffy.wikia.com/wiki/James_Charles_Leary) played [Clem](http://buffy.wikia.com/wiki/Clement) on *Buffy*.
-	* [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-	* [[Performers/Marc Majcher|Marc Majcher]]
-	* [[Performers/Meghan Wolff|Meghan Wolff]] (guest)
-	* [[Performers/Peter Rogers|Peter Rogers]]
-	* [[Performers/Sarah Marie Curry|Sarah Marie Curry]] (guest)
+  * [[Performers/Aaron Saenz|Aaron Saenz]]
+  * [[Performers/Bridget Brewer|Bridget Brewer]]
+  * [[Performers/Eric Heiberg|Eric Heiberg]]
+  * James Leary (guest)
+    * N.B.: [Mr. Leary](http://buffy.wikia.com/wiki/James_Charles_Leary) played [Clem](http://buffy.wikia.com/wiki/Clement) on *Buffy*.
+  * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
+  * [[Performers/Marc Majcher|Marc Majcher]]
+  * [[Performers/Meghan Wolff|Meghan Wolff]] (guest)
+  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Performers/Sarah Marie Curry|Sarah Marie Curry]] (guest)
 
 ## Media
 ### Videos of Sketches

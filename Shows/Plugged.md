@@ -9,7 +9,7 @@ image: "File/Plugged.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Plugged.jpg.md.md.md"><img src="File/File-Plugged.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Plugged.jpg.md.md"><img src="File/File-Plugged.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -38,11 +38,11 @@ The show features a different stand-up theme every week.  It runs from 10:30pm t
 
 Themes include:
 * 50 First Jokes
-	* 50 comics share one joke apiece.
+  * 50 comics share one joke apiece.
 * Never-ending Comedy Contest
-	* Lane Krarup gathers together comedians who then compete for a panel of three veteran comedians who act as judges and between-set commentators.  At the end of every show, Mr. Krarup and regular guest Pat Sirois freestyle rap about whatever the audience calls out.
+  * Lane Krarup gathers together comedians who then compete for a panel of three veteran comedians who act as judges and between-set commentators.  At the end of every show, Mr. Krarup and regular guest Pat Sirois freestyle rap about whatever the audience calls out.
 * Comedian Battle Rap Authority
-	* Comics perform stand up, riff and rap on audience suggestions, and battle until one winner remains.
+  * Comics perform stand up, riff and rap on audience suggestions, and battle until one winner remains.
 * Rob Gagnon's 1 Hour Comedy Festival
 * Shit's Golden
 

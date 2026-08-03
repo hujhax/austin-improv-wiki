@@ -9,7 +9,7 @@ image: "File/Known%20wizards.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Known wizards.jpg.md.md.md"><img src="File/File-Known%20wizards.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Known wizards.jpg.md.md"><img src="File/File-Known%20wizards.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ The troupe was founded in conjunction with Merlin Works' move from [[Theatres/Sa
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.472343332829188.114046.221927764537414&type=3) by [[Steve Rogers]] of their 1/10/13 dress rehearsal.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3) by [[Michael Yew]] which includes their 1/13/13 performance in the [[Theatres/Merlin Works|Merlin Works]] grand opening.
-	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.519628588058641.116285.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
+  * [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.519628588058641.116285.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.537592239637630.1073741866.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/12/13 performance at ZACH Theater.
 * [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.10151904171902704.1073741842.505207703&type=3) by [[Performers/Tyler Bryce|Tyler Bryce]] of their show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].

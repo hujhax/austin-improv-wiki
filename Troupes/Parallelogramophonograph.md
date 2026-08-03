@@ -9,7 +9,7 @@ image: "File/Pgraph%20goodman.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Pgraph goodman.jpg.md.md.md"><img src="File/File-Pgraph%20goodman.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Pgraph goodman.jpg.md.md"><img src="File/File-Pgraph%20goodman.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +83,7 @@ Here is Robert Faires's explanation of the name's origin:
 
 ## Show Formats
 ### The Nutty Funsters
-![[File/The Nutty Funsters.jpg.md|Parallelogramophonograph in character as 'The Nutty Funsters']]
+![[File/The Nutty Funsters.jpg|Parallelogramophonograph in character as 'The Nutty Funsters']]
 In 2007, the troupe developed an alter ego of "The Nutty Funsters", a zany, Christian, short-form troupe from "West Carolina".
 
 ### New Works
@@ -123,7 +123,7 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * Video by Brian Boyko of their 200th show (1/8/09): [1](http://youtu.be/_aFUyr1zNmY), [2](http://youtu.be/4GV4hUcEF-A), [3](http://youtu.be/EGOmaAU2GP8), [4](http://youtu.be/eQg0Hddr9io), [5](http://youtu.be/boI75lAlM3g), [6](http://youtu.be/7rCCMYbhstw), [7](http://youtu.be/eKFTkz2p8Lg), [8](http://youtu.be/wrJPE7v9pF4), [9](http://youtu.be/x1n-0HwPqzI).
 * Video by Brian Boyko of their 1/22/09 show ("Bulgarian Architecture"): [1](http://youtu.be/Ko0Ff6dpjnU), [2](http://youtu.be/lYA0skiIG-U), [3](http://youtu.be/rs0Xb_esZxk), [4](http://youtu.be/vutDwB1RxqE), [5](http://youtu.be/lrkMCqhNz8c).
 * [Video](http://vimeo.com/12785670) of their 4/30/10 "Dick and Jane" show.
-	* A video by Brian Boyko of the same show: [1](http://youtu.be/MxHCGDOXaUA), [2](http://youtu.be/hBpbdxTycaw), [3](http://youtu.be/y4V4sdCqvlU), [4](http://youtu.be/S6xwnyfpvfQ), [5](http://youtu.be/t6ZNylopXck), [6](http://youtu.be/9cwJc6tizLE), [7](http://youtu.be/F5kR61GWzWg).
+  * A video by Brian Boyko of the same show: [1](http://youtu.be/MxHCGDOXaUA), [2](http://youtu.be/hBpbdxTycaw), [3](http://youtu.be/y4V4sdCqvlU), [4](http://youtu.be/S6xwnyfpvfQ), [5](http://youtu.be/t6ZNylopXck), [6](http://youtu.be/9cwJc6tizLE), [7](http://youtu.be/F5kR61GWzWg).
 * [Video](http://vimeo.com/12785670) of their "Dick and Jane" show at the Twin Cities Improv Festival (uploaded 8/5/10).
 * [Clip of "Dick & Jane" from 2010.](http://vimeo.com/132036967)
 * [Video](http://vimeo.com/26027879) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/7/11 show.
@@ -174,21 +174,21 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 9/7/13 "Chairs" show (show #498).
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/9/12 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3) by [[Michael Yew]] which includes their 2/1/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
-	* This was actually a "Substitute Parallelogramophonograph" show, in which an AIC poll elected ringers for each member of the troupe:
-		* [[Performers/Kaci Beeler|Kaci Beeler]]: [[Performers/Sarah Swofford|Sarah Swofford]]
-		* [[Performers/Valerie Ward|Valerie Ward]]: [[Performers/John Ratliff|John Ratliff]]
-		* [[Performers/Roy Janik|Roy Janik]]: [[Performers/Cody Dearing|Cody Dearing]]
-		* [[Performers/Kareem Badr|Kareem Badr]]: [[Performers/Andy Buck|Andy Buck]]
+  * This was actually a "Substitute Parallelogramophonograph" show, in which an AIC poll elected ringers for each member of the troupe:
+    * [[Performers/Kaci Beeler|Kaci Beeler]]: [[Performers/Sarah Swofford|Sarah Swofford]]
+    * [[Performers/Valerie Ward|Valerie Ward]]: [[Performers/John Ratliff|John Ratliff]]
+    * [[Performers/Roy Janik|Roy Janik]]: [[Performers/Cody Dearing|Cody Dearing]]
+    * [[Performers/Kareem Badr|Kareem Badr]]: [[Performers/Andy Buck|Andy Buck]]
 * [A photoset](http://www.facebook.com/media/set/?set=a.523040367759484.1073741853.221927764537414&type=3) by [[Steve Rogers]] of their 4/12/13 performance at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200446168619509.1073741854.1315383518&type=3) by [[Michael Yew]] which includes their 9/6/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.598935996836587.1073741936.221927764537414&type=3) by [[Steve Rogers]] of their 500th show, on 9/15/13.
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200508705262886.1073741856.1315383518&type=3) by [[Michael Yew]] of the same show.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200508705262886.1073741856.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200768887327275.1073741863.1315383518&type=3) by [[Michael Yew]] that includes their 11/1/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201077637245830.1073741872.1315383518&type=3) by [[Michael Yew]] of their 12/20/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.636898509707002.1073741946.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/22/13 show at [[Festivals/WaffleFest 2013|WaffleFest 2013]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201568613599932.1073741883.1315383518&type=3) by [[Michael Yew]] that includes their 3/21/14 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.10152579627562265.1073741849.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/27/14 performance in *[[Shows/PGraph Presents|PGraph Presents]]*
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202172654140568.1073741894.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202172654140568.1073741894.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203013018949163.1073741916.1315383518&type=3) by [[Michael Yew]] that includes their 11/21/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.940852415978275.1073742181.221927764537414&type=3) by [[Steve Rogers]] of their 4/10/15 performance of "Box and String" in [[Festivals/The Improvised Play Festival|The Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204248534876289.1073741949.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/15 "Box and String" show.
@@ -197,16 +197,16 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 
 ### Other
 * Eris 2035 "Friend" videos:
-	* [Video](http://vimeo.com/14394520) from [[Performers/Jason Vines|Jason Vines]].
-	* [Video](http://vimeo.com/14394533) from [[Performers/Kathy Rose Center|Kathy Rose Center]].
-	* [Video](http://vimeo.com/14394565) from [[Performers/Deano Jones|Deano Jones]].
-	* [Video](http://vimeo.com/15100500) from [[Performers/Peter Rogers|Peter Rogers]].
-	* [Video](http://vimeo.com/15100672) from Menelaos Pokros.
-	* [Video](http://vimeo.com/15100690) from [[Performers/Marc Majcher|Marc Majcher]].
-	* [Video](http://vimeo.com/15100823) from David Lee Hess.
-	* [Video](http://vimeo.com/15100672) from Tuesday, [[Performers/Roy Janik|Roy]] and [[Performers/Kaci Beeler|Kaci]]'s dog.
-	* [Video](http://vimeo.com/15101226) from [[Performers/Curtis Luciani|Curtis Luciani]].
-	* [Video](http://vimeo.com/15101375) from Patti Stiles.
+  * [Video](http://vimeo.com/14394520) from [[Performers/Jason Vines|Jason Vines]].
+  * [Video](http://vimeo.com/14394533) from [[Performers/Kathy Rose Center|Kathy Rose Center]].
+  * [Video](http://vimeo.com/14394565) from [[Performers/Deano Jones|Deano Jones]].
+  * [Video](http://vimeo.com/15100500) from [[Performers/Peter Rogers|Peter Rogers]].
+  * [Video](http://vimeo.com/15100672) from Menelaos Pokros.
+  * [Video](http://vimeo.com/15100690) from [[Performers/Marc Majcher|Marc Majcher]].
+  * [Video](http://vimeo.com/15100823) from David Lee Hess.
+  * [Video](http://vimeo.com/15100672) from Tuesday, [[Performers/Roy Janik|Roy]] and [[Performers/Kaci Beeler|Kaci]]'s dog.
+  * [Video](http://vimeo.com/15101226) from [[Performers/Curtis Luciani|Curtis Luciani]].
+  * [Video](http://vimeo.com/15101375) from Patti Stiles.
 
 ## More Information
 * [An article about the troupe](http://www.austinchronicle.com/arts/2011-12-30/oh-the-places-you-ll-go/) by Robert Faires from the 12/30/11 *Austin Chronicle*.

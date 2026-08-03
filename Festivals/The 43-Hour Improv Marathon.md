@@ -4,7 +4,7 @@ image: "File/HardCore4.jpg"
 ---
 **The 43-Hour Improv Marathon** was the fourth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]]. It was performed from 5pm on June 1st to 12pm June 3rd 2012.
 
-![[File/HardCore4.jpg.md|The "Hardcore Four", who stayed for the whole marathon.]]
+![[File/HardCore4.jpg|The "Hardcore Four", who stayed for the whole marathon.]]
 
 ## Core Players
 * [[Performers/Emma Holder|Emma Holder]]
@@ -87,6 +87,6 @@ image: "File/HardCore4.jpg"
 * The schedule announcement, [on the forums](http://forum.austinimprov.com/viewtopic.php?p=120814) and [on the Hideout web site](http://www.hideouttheatre.com/announcing-the-43-hour-improv-marathon-schedule).
 * [A story about the marathon](http://www.austinchronicle.com/arts/2012-06-01/the-43-hour-improv-marathon/) in *The Austin Chronicle*.
 * [A blog post prior to the marathon](http://blog.jonbolden.com/2012/43-hour-improv-marathon/) from [[Performers/Jon Bolden|Jon Bolden]].
-	* [A post from Jon](http://www.hideouttheatre.com/a-voice-of-concern) about the possible damage the marathon might potentially do to his voice.
+  * [A post from Jon](http://www.hideouttheatre.com/a-voice-of-concern) about the possible damage the marathon might potentially do to his voice.
 * [A blog post about the Hardcore Four](http://www.hideouttheatre.com/the-first-hardcore-four), audience members Ashley Lowe, Amy Dietze, Ryan Criswell, and [[Performers/Cat Drago|Cat Drago]] who stayed for the entire 43 hours.
 Category:Festivals

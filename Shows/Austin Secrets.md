@@ -9,7 +9,7 @@ image: "File/Austin%20Secrets.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Austin Secrets.jpg.md.md.md"><img src="File/File-Austin%20Secrets.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Austin Secrets.jpg.md.md"><img src="File/File-Austin%20Secrets.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ image: "File/Austin%20Secrets.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jan/Feb 2011</li><!--
   --><li style="">Nov/Dec 2012</li><!--
-  --><li style="">Sep/Oct 2013<ref>[Announcing the 2013 Season and Schedule](http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule)</ref></li><!--
+  --><li style="">Sep/Oct 2013<ref><a href="http://www.hideouttheatre.com/announcing-the-2013-season-and-schedule">Announcing the 2013 Season and Schedule</a></ref></li><!--
   --><li style="">Mar/Apr 2015</li><!--
   --><li style="">Mar/Apr 2016</li><!--
   --><!--

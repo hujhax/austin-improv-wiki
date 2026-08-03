@@ -9,7 +9,7 @@ image: "File/Thinning%20the%20Herd.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Thinning the Herd.jpg.md.md.md"><img src="File/File-Thinning%20the%20Herd.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Thinning the Herd.jpg.md.md"><img src="File/File-Thinning%20the%20Herd.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -227,7 +227,7 @@ Season one ran from 10/6/13 to January 2014.
 * [Photoset](http://www.facebook.com/media/set/?set=a.538294176234103.1073741869.221927764537414&type=3) by [[Steve Rogers]] of the 3/24/13 show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.558598700828296.1073741833.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 4/7/13 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.538299602900227.1073741870.221927764537414&type=3) by [[Steve Rogers]] of the 4/21/13 show.
-	* [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-04-21-Thinning-the-Herd/)  by [[Performers/Chad Wellington|Chad Wellington]] of the same show.
+  * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-04-21-Thinning-the-Herd/)  by [[Performers/Chad Wellington|Chad Wellington]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3) by [[Steve Rogers]] of the 5/19/13 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.541701902559997.1073741871.221927764537414&type=3) by [[Steve Rogers]] of the 5/19/13 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.608715279191992.1073741941.221927764537414&type=3) by [[Steve Rogers]] of the 10/6/13 season-three premiere.

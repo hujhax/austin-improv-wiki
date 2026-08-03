@@ -9,7 +9,7 @@ image: "File/Process%20Publicity%20Image.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Process Publicity Image.jpg.md.md.md"><img src="File/File-Process%20Publicity%20Image.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Process Publicity Image.jpg.md.md"><img src="File/File-Process%20Publicity%20Image.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -144,7 +144,7 @@ image: "File/Process%20Publicity%20Image.jpg"
 ***Process*** is a longform improv show that takes the audience through the process of producing a (fictional) play.  It is a recurring mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
-![[File/Process Performance.jpg.md|A performance of *Process*.]]
+![[File/Process Performance.jpg|A performance of *Process*.]]
 Each show had a number of pre-assigned roles for that night's cast.  One performer would be the director of the (fictional) play, who would run the auditions and rehearsals within the world of the show.  Another would be the stage manager (again, with the world of the fictional production), who often gave the director someone to talk to and bounce ideas off of, and generally kept things on track.  Additional cast members would work tech for the evening, and several more would work as the "Desi Team".  It was the Desi Team's job to stay in the green room, listen to the first acts of the show as they happened (via a PA system installed in the Hideout) and build props, costumes, and scenery elements that could then be used in the show.
 
 The show itself began with the director getting the play's title as a suggestion from the audience.  The director typically let the audience shout out a number of titles before going with the most promising and inspiring one.  Then the show began with auditions, where the main cast went before the director and stage manager with prepared pieces, typically from plays based off of the unused audience title suggestions.
@@ -254,7 +254,7 @@ The show is returning in 2016 as a Hideout mainstage show.
 * [Photoset of the 3/31/12 show](http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3) ("Middle School") by [[Steve Rogers]].
 * [Photoset of the 4/15/12 show](http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3) ("My Heart Doth Bleed Gold") by [[Roy Moore]].
 * [Photoset](http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1) by Anna Lattka of the 8/29/12 show at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
-	* Note that this photoset is locked to Anna's friends.
+  * Note that this photoset is locked to Anna's friends.
 
 ### Other
 * Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set/process-set.jpg?disposition=download ], [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set-actors/process-set-actors.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/kaci-kareem-sword-fight/kaci-kareem-sword-fight.jpg?disposition=download).

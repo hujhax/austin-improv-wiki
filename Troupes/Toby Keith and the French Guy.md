@@ -9,7 +9,7 @@ image: "File/Toby%20Keith%20and%20the%20French%20Guy.gif"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Toby Keith and the French Guy.gif.md.md.md"><img src="File/File-Toby%20Keith%20and%20the%20French%20Guy.gif.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Toby Keith and the French Guy.gif.md.md"><img src="File/File-Toby%20Keith%20and%20the%20French%20Guy.gif.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

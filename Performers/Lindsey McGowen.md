@@ -9,7 +9,7 @@ image: "File/Lindsey%20McGowen%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Lindsey McGowen Pic.jpg.md.md.md"><img src="File/File-Lindsey%20McGowen%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Lindsey McGowen Pic.jpg.md.md"><img src="File/File-Lindsey%20McGowen%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -118,12 +118,12 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Troupes/The Amazon and The Milksop|"The Fitzgeralds Save the World"]]* (tech, 2016-present)
 * *[[Shows/The International Improv Experience|The International Improv Experience]]* (light tech)
 * *[[Shows/The Jukebox Musical Project|The Jukebox Musical Project]]* 
-	* *The Black Death* (music director)
-	* *In the Air Tonight* (music director)
-	* *Karma Police* (music director)
-	* *Renaissance Queen* (music director/cast)
-	* *Home Again: The Story of Passover* (music director)
-	* *Beyonce's Wild West* (music director)
+  * *The Black Death* (music director)
+  * *In the Air Tonight* (music director)
+  * *Karma Police* (music director)
+  * *Renaissance Queen* (music director/cast)
+  * *Home Again: The Story of Passover* (music director)
+  * *Beyonce's Wild West* (music director)
 * *[[Shows/The Kindness of Strangers|The Kindness of Strangers]]* (technical director, light/sound tech)
 
 ## More Information

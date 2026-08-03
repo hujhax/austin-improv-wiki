@@ -2,7 +2,7 @@
 description: "An emo puppet band fronted by Brently Heilbron."
 image: "File/Fragile%20Rock.jpg"
 ---
-![[File/Fragile Rock.jpg.md|Promotional photo of Fragile Rock.]]
+![[File/Fragile Rock.jpg|Promotional photo of Fragile Rock.]]
 
 ***Fragile Rock*** is an emo puppet band fronted by [[Performers/Brently Heilbron|Brently Heilbron]].
 

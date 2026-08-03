@@ -9,7 +9,7 @@ image: "File/Who%20is%20T.%20Henry%20Baudecliffe.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Who is T. Henry Baudecliffe.jpg.md.md.md"><img src="File/File-Who%20is%20T.%20Henry%20Baudecliffe.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Who is T. Henry Baudecliffe.jpg.md.md"><img src="File/File-Who%20is%20T.%20Henry%20Baudecliffe.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -221,23 +221,23 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 ### Publicity
 * ["Baudecliffe's Art"](http://youtu.be/wmasllYo73g) by [[Performers/Kaci Beeler|Kaci Beeler]].
 * Interviews with local artists about Mr. Baudecliffe:
-	* [Interview](http://youtu.be/V2iAATDydHE) with [[Performers/Jon Bolden|Jon Bolden]].
-	* [Interview with Derrick Jones.](http://youtu.be/FEXpjBGvnnc)
-	* [Interview with Brent Black.](http://vimeo.com/12947240)
-	* [Interview](http://youtu.be/BcIS_xvWBLE) with [[Performers/Patrick Daniel|Patrick Daniel]].
-	* [Interview with Elle Griffith.](http://vimeo.com/12947661)
-	* [Interview with Ben Hill.](http://vimeo.com/12930561)
-	* [Interview with Dano Johnson.](http://youtu.be/vVx5ahTbt9U)
-	* [Interview with Tracy Lands.](http://youtu.be/Y-IlVZjYZ6Y)
+  * [Interview](http://youtu.be/V2iAATDydHE) with [[Performers/Jon Bolden|Jon Bolden]].
+  * [Interview with Derrick Jones.](http://youtu.be/FEXpjBGvnnc)
+  * [Interview with Brent Black.](http://vimeo.com/12947240)
+  * [Interview](http://youtu.be/BcIS_xvWBLE) with [[Performers/Patrick Daniel|Patrick Daniel]].
+  * [Interview with Elle Griffith.](http://vimeo.com/12947661)
+  * [Interview with Ben Hill.](http://vimeo.com/12930561)
+  * [Interview with Dano Johnson.](http://youtu.be/vVx5ahTbt9U)
+  * [Interview with Tracy Lands.](http://youtu.be/Y-IlVZjYZ6Y)
 ### Other
 * Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_1/photo%204_1.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205/photo%205.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baude1/baude1.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_1/photo%203_1.jpg?disposition=download).
-	* Artwork from [[Performers/Kaci Beeler|Kaci Beeler]] that helped inspire the design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo12/baudecliffe_photo12.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo11/baudecliffe_photo11.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202/photo%202.jpg?disposition=download).
+  * Artwork from [[Performers/Kaci Beeler|Kaci Beeler]] that helped inspire the design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo12/baudecliffe_photo12.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo11/baudecliffe_photo11.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202/photo%202.jpg?disposition=download).
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/whoist-henrybaudecliffe)
 * [The initial "teasing" announcements about the show](http://forum.austinimprov.com/viewtopic.php?p=94850) on [[The AIC Forums]].
 * [The audition announcement for the show](http://forum.austinimprov.com/viewtopic.php?p=92600) on [[The AIC Forums]].
-	* [The same, on the Hideout blog.](http://www.hideouttheatre.com/auditions-for-the-julyaugust-hideout-mainstage-show)
+  * [The same, on the Hideout blog.](http://www.hideouttheatre.com/auditions-for-the-julyaugust-hideout-mainstage-show)
 * [The premiere announcement for the show](http://forum.austinimprov.com/viewtopic.php?p=95062) on [[The AIC Forums]].
 * [Promotional post](http://www.hideouttheatre.com/coming-in-july-and-august) from the Hideout's blog.
 * [A blogpost](http://www.hideouttheatre.com/who-is-t-henry-baudecliffe) from [[Performers/Curtis Luciani|Curtis Luciani]] summarizing what the show is about.

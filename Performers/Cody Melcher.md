@@ -9,7 +9,7 @@ image: "File/Cody%20Melcher%20pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Cody Melcher pic.jpg.md.md.md"><img src="File/File-Cody%20Melcher%20pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Cody Melcher pic.jpg.md.md"><img src="File/File-Cody%20Melcher%20pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -41,7 +41,7 @@ He performed in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out 
 * *[[Shows/Austin's Next Top Improviser|Austin's Next Top Improviser]]* (2009)
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
 * [[Shows/Live TV Tuesdays|Live TV Tuesdays]] shows with [[Theatres/The Institution Theater|The Institution Theater]] at [[Theatres/The Highball|The Highball]]:
-	* [[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]] (2011)
-	* [[Shows/Live TV Tuesdays -  John Hughes Summer School|Live TV Tuesdays -  John Hughes Summer School]] (2011)
-	* [[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]] (2011)
+  * [[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]] (2011)
+  * [[Shows/Live TV Tuesdays -  John Hughes Summer School|Live TV Tuesdays -  John Hughes Summer School]] (2011)
+  * [[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]] (2011)
 [[Category/Performers|Category:Performers]]

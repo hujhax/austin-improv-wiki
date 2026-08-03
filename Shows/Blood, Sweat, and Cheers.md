@@ -9,7 +9,7 @@ image: "File/Blood%2C%20Sweat%2C%20and%20Cheers%20pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Blood, Sweat, and Cheers pic.jpg.md.md.md"><img src="File/File-Blood,%20Sweat,%20and%20Cheers%20pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Blood, Sweat, and Cheers pic.jpg.md.md"><img src="File/File-Blood,%20Sweat,%20and%20Cheers%20pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

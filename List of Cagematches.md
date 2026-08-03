@@ -58,17 +58,17 @@ This was the very first Cagematch tournament.
 ### Matches
 #### Quarterfinals
 * 5/4/07: **[[Troupes/Look Cookie|Look Cookie]]** vs. unknown troupe
-	* Eric Seufert put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Troupes/Look Cookie|Look Cookie]].
+  * Eric Seufert put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Troupes/Look Cookie|Look Cookie]].
 * 5/11/07: **[[Troupes/A Bride Soon|A Bride Soon]]** vs. [[Troupes/JaMiGe|JaMiGe]]
 * 5/18/07: **[[Troupes/The Starter Kit|The Starter Kit]]** vs. [[Troupes/Suspicious Package|Suspicious Package]]
 * 5/25/07: [[Troupes/Firth & Arjet|Firth & Arjet]] vs. [[Troupes/The Great Toad & Chameleon Circus|The Great Toad & Chameleon Circus]]
-	* This match resulted in a tie -- no audience members showed up to vote -- so the teams joined forces for the semifinals.
+  * This match resulted in a tie -- no audience members showed up to vote -- so the teams joined forces for the semifinals.
 
 #### Semifinals
 * 5/31/07: **[[Troupes/The Starter Kit|The Starter Kit]]** vs. [[Troupes/Look Cookie|Look Cookie]]
 * 6/9/07: **[[Troupes/A Bride Soon|A Bride Soon]]** vs. [[Troupes/Firth & Arjet|Firth & Arjet]] + [[Troupes/The Great Toad & Chameleon Circus|The Great Toad & Chameleon Circus]]
-	* [[Performers/Cody Dearing|Cody Dearing]] hosted this match as "future Cody", complete with a pair of glowing sunglasses.
-	* [[Troupes/Firth & Arjet|Firth & Arjet]] and [[Troupes/The Great Toad & Chameleon Circus|The Great Toad & Chameleon Circus]] lost this match in spite of bribing the audience with donuts.
+  * [[Performers/Cody Dearing|Cody Dearing]] hosted this match as "future Cody", complete with a pair of glowing sunglasses.
+  * [[Troupes/Firth & Arjet|Firth & Arjet]] and [[Troupes/The Great Toad & Chameleon Circus|The Great Toad & Chameleon Circus]] lost this match in spite of bribing the audience with donuts.
 
 #### Championship
 * 6/22/07: **[[Troupes/The Starter Kit|The Starter Kit]]** vs. [[Troupes/A Bride Soon|A Bride Soon]]
@@ -154,7 +154,7 @@ The six-month gap in the record suggests that three complete tournaments took pl
 ### Matches
 #### Quarterfinals
 * 3/7/09: **[[Troupes/Rise & Shine|Rise & Shine]]** vs. ???
-	* This was [[Troupes/Rise & Shine|Rise & Shine]]'s first show, and featured [[Performers/John Ratliff|John Ratliff]] as the guest celebrity.
+  * This was [[Troupes/Rise & Shine|Rise & Shine]]'s first show, and featured [[Performers/John Ratliff|John Ratliff]] as the guest celebrity.
 * 4/4/09: **[[Troupes/Fuck You!|Fuck You!]]** vs. [[Troupes/RedRover|RedRover]]
 
 Nothing is known about the other two quarterfinals.
@@ -235,7 +235,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 
 #### Exhibition
 * 10/31/09: ZombieProv vs. ???
-	* "That's My Retarded Brother" ([[Performers/Patrick Knisely|Patrick Knisely]] and David Meyers) were schedule to play against ZombieProv, but Mr. Meyers got sick that day.
+  * "That's My Retarded Brother" ([[Performers/Patrick Knisely|Patrick Knisely]] and David Meyers) were schedule to play against ZombieProv, but Mr. Meyers got sick that day.
 
 ### More Information
 * [Online bracket info.](http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves)
@@ -318,7 +318,7 @@ This tournament featured the champions of previous tournaments.
 
 #### Championship
 * 9/11/10: **[[Troupes/Bad Boys|Bad Boys]]** vs. [[Troupes/Shades of Brown|Shades of Brown]]
-	* This match was settled via a dance-off after a tie vote.
+  * This match was settled via a dance-off after a tie vote.
 
 #### Exhibitions
 * 7/3/10: [[Troupes/Dragons|Dragons]] vs. [[Troupes/Dudeprov|Dudeprov]]
@@ -422,7 +422,7 @@ There are no records of a Cagematch in this period, but it seems logical that th
 #### Quarterfinals
 * 9/12/12: [[Shows/Raney Nights|Raney Nights Improv]] vs. **[[Troupes/Phil|Phil]]**
 * 9/19/12: Carrots vs. **Somethin' Good**
-	* This was called the "Graduate Grudge Match", as it was between two recently-graduated ColdTowne classes.
+  * This was called the "Graduate Grudge Match", as it was between two recently-graduated ColdTowne classes.
 * 9/25/12: **[[Troupes/Golden Age|Golden Age]]** vs. [[Troupes/Youth Group Improv|The First UMC of Plano Youth Group]]
 * 10/3/12: [[Troupes/Three Blondes|Three Blondes]] vs. **[[Troupes/Watergate|Watergate]]**
 
@@ -460,7 +460,7 @@ There are no records of a Cagematch in this period, but it seems logical that th
 
 ### More Information
 * [Bracket discussion](http://forum.austinimprov.com/viewtopic.php?f=2&t=14221) on [[The Austin Improv Forums]].
-	* Note that this information was inconsistent with contemporaneous records from [the facebook group](http://www.facebook.com/ColdTowneCageMatch), which are more likely to be accurate.
+  * Note that this information was inconsistent with contemporaneous records from [the facebook group](http://www.facebook.com/ColdTowneCageMatch), which are more likely to be accurate.
 
 ## 1/2/13 (One-Off Exhibition Match)
 ### Exhibition
@@ -486,7 +486,7 @@ There are no records of a Cagematch in this period, but it seems logical that th
 
 #### Exhibition
 * 1/30/13: Star Force vs. Super Apocalypse
-	* These were the two halves of [[Theatres/ColdTowne|ColdTowne]]'s upcoming *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]* show.
+  * These were the two halves of [[Theatres/ColdTowne|ColdTowne]]'s upcoming *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]* show.
 
 ### More Information
 * [Bracket discussion](http://forum.austinimprov.com/viewtopic.php?f=2&t=14612) on [[The Austin Improv Forums]].
@@ -501,7 +501,7 @@ Its full title was "The 1st Annual ColdTowne Theater Temporarily Adjacent To, Bu
 * Monday Monday
 * Mr. Herman
 * Surprise! Party
-	* N.B.: this is different from [[Troupes/The Surprise Party|The Surprise Party]].
+  * N.B.: this is different from [[Troupes/The Surprise Party|The Surprise Party]].
 
 ### Matches
 #### Quarterfinals
@@ -619,15 +619,15 @@ There are no records of any of the other semifinals.
 The championship rounds were advertised under the name "Highway to Del".
 
 * 2/28/14:
-	* 8pm: [[Troupes/Nice Astronaut|Nice Astronaut]] vs. Joey Fatone (Dallas)
-	* 9pm: You, Me, & Michael (Phoenix) vs. [[Troupes/Skutch|Skutch]]
-	* 10pm: Adult Bakery (Phoenix) vs. Petty Zoo (Dallas)
-	* 11pm: [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]] vs. The Academy
+  * 8pm: [[Troupes/Nice Astronaut|Nice Astronaut]] vs. Joey Fatone (Dallas)
+  * 9pm: You, Me, & Michael (Phoenix) vs. [[Troupes/Skutch|Skutch]]
+  * 10pm: Adult Bakery (Phoenix) vs. Petty Zoo (Dallas)
+  * 11pm: [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]] vs. The Academy
 * 3/1/14:
-	* 8pm - Winner 1 vs Winner 2
-	* 9pm - Winner 3 vs Winner 4
-	* 10pm - Back From The Dead Round (6 groups that have been eliminated)
-	* 11pm - Finalist 1 vs Finalist 2 vs Back From The Dead Winner
+  * 8pm - Winner 1 vs Winner 2
+  * 9pm - Winner 3 vs Winner 4
+  * 10pm - Back From The Dead Round (6 groups that have been eliminated)
+  * 11pm - Finalist 1 vs Finalist 2 vs Back From The Dead Winner
 
 None of the winners are known.
 
@@ -657,7 +657,7 @@ None of the winners are known.
 
 #### Exhibition
 * 5/14/14 ("Exhibition of Duos"): The Half Time Show vs. [[Troupes/Shamrock|Shamrock]] vs. Ponciano vs. [[Troupes/Austin-Austin|Austin-Austin]]
-	* This consisted of four 15-minute shows, with the winner promised a spot in the next *Cagematch*.
+  * This consisted of four 15-minute shows, with the winner promised a spot in the next *Cagematch*.
 
 ### More Information
 * [Online bracketing info](https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0).
@@ -673,7 +673,7 @@ None of the winners are known.
 
 #### Exhibition
 * 7/2/14 ("Exhibition of Duos"): [[Troupes/The Starborn|The Starborn]] vs. [[Troupes/Northward|Northward]] vs. [[Troupes/Pariah|Pariah]]
-	* This consisted of four 15-minute shows, with the winner promised a spot in the next *Cagematch*.
+  * This consisted of four 15-minute shows, with the winner promised a spot in the next *Cagematch*.
 
 ### More Information
 * [Online bracketing info](https://docs.google.com/spreadsheets/d/1yWoqVZJKSk8Uur9W2BBFNy5lG6frE1zlJSkd5455vIs/edit#gid=0).

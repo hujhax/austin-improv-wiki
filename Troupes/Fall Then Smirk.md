@@ -8,7 +8,7 @@ description: "|Years = 2011."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Troupe default image.png.md.md.md"><img src="File/File-Troupe%20default%20image.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Troupe default image.png.md.md"><img src="File/File-Troupe%20default%20image.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -82,7 +82,7 @@ The troupe was set up to be an analog to [[Troupes/The Frank Mills|The Frank Mil
 * [[Performers/Brett Tribe|Brett Tribe]] as [[Performers/Dave Buckman|Dave Buckman]]
 * [[Performers/Kate Bojanek|Kate Bojanek]] as [[Performers/Rachel Madorsky|Rachel Madorsky]]
 * [[Performers/Sam Malcolm|Sam Malcolm]] as [[Performers/Bob McNichol|Bob McNichol]]
-	* (Sam was unable to make it to the show.)
+  * (Sam was unable to make it to the show.)
 
 ## History
 They played one Cagematch on 5/21/11.

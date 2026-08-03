@@ -9,7 +9,7 @@ image: "File/Nothing%20and%20Everything.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Nothing and Everything.jpg.md.md.md"><img src="File/File-Nothing%20and%20Everything.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Nothing and Everything.jpg.md.md"><img src="File/File-Nothing%20and%20Everything.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -232,27 +232,27 @@ It was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised
 ## Media
 ### Videos
 * 2014 [[Theatres/Hideout Theatre|Hideout Theatre]] Run:
-	* [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/6/14 preview (incomplete).
-	* [Video](http://vimeo.com/111329177) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/8/14 show.
-	* [Video](http://vimeo.com/111990343) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/15/14 show.
-	* [Video](http://vimeo.com/113191194) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/29/14 show.
-	* [Video](http://vimeo.com/114520138) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/13/14 show.
-	* [Video](http://vimeo.com/115144124) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
+  * [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/6/14 preview (incomplete).
+  * [Video](http://vimeo.com/111329177) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/8/14 show.
+  * [Video](http://vimeo.com/111990343) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/15/14 show.
+  * [Video](http://vimeo.com/113191194) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/29/14 show.
+  * [Video](http://vimeo.com/114520138) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/13/14 show.
+  * [Video](http://vimeo.com/115144124) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
 * 2015 Long Center run:
-	* [Video](http://vimeo.com/137272124) of the 8/21/15 performance.
-		* [Video](http://vimeo.com/138711711) of the following audience Q&A.
-	* [Video](http://vimeo.com/138222384) of the 8/22/15 performance.
-	* [Video](http://vimeo.com/141679892) of the 8/23/15 performance.
+  * [Video](http://vimeo.com/137272124) of the 8/21/15 performance.
+    * [Video](http://vimeo.com/138711711) of the following audience Q&A.
+  * [Video](http://vimeo.com/138222384) of the 8/22/15 performance.
+  * [Video](http://vimeo.com/141679892) of the 8/23/15 performance.
 
 ### Photos
 * 2014 [[Theatres/Hideout Theatre|Hideout Theatre]] Run:
-	* [Photoset](http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3) by [[Steve Rogers]] of the 11/6/14 preview.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 11/22/14 show.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3) by [[Michael Yew]] of the 12/20/14 show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3) by [[Steve Rogers]] of the 11/6/14 preview.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 11/22/14 show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3) by [[Michael Yew]] of the 12/20/14 show.
 * 2015 Long Center run:
 * [Photos](http://www.facebook.com/michael.yew/media_set?set=a.10204706711010406.1073741962.1315383518&type=3) by [[Michael Yew]] from the run.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.1024131600983689.1073742232.221927764537414&type=3) by [[Steve Rogers]] of the 8/20/15 show.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.1026071640789685.1073742233.221927764537414&type=3) by [[Steve Rogers]] of the 8/23/15 show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.1024131600983689.1073742232.221927764537414&type=3) by [[Steve Rogers]] of the 8/20/15 show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.1026071640789685.1073742233.221927764537414&type=3) by [[Steve Rogers]] of the 8/23/15 show.
 
 ## More Information
 * [Show announcement in the Hideout's 2014 season preview.](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule)

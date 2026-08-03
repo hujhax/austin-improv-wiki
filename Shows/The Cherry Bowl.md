@@ -9,7 +9,7 @@ image: "File/TheCherryBowl.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-TheCherryBowl.jpg.md.md.md"><img src="File/File-TheCherryBowl.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-TheCherryBowl.jpg.md.md"><img src="File/File-TheCherryBowl.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +86,7 @@ image: "File/TheCherryBowl.jpg"
 	</table>
 </div>
 
-![[File/Cherry Bowl - Performance.jpg.md|From the 2/25/12 performance of *The Cherry Bowl*.]]
+![[File/Cherry Bowl - Performance.jpg|From the 2/25/12 performance of *The Cherry Bowl*.]]
 
 ***The Cherry Bowl*** was a show produced by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] in 2012 and 2013. While not an improvised show, improv was used to create bits of clowning to construct a dialogue-free, *commedia dell'arte*-inspired adaptation of Anton Chekhov's *[The Cherry Orchard](http://en.wikipedia.org/wiki/The_Cherry_Orchard)*. Gnap! member Ben Schave directed the production.
 
@@ -104,7 +104,7 @@ image: "File/TheCherryBowl.jpg"
 * [[Performers/Michael Jastroch|Michael Jastroch]] as Yepikhodov
 * Joel Osborne as Firs
 * Ben Schave as Pishchik
-	* Mr. Schave stepped in for Brady James, who had to bow out of the production just before opening night.
+  * Mr. Schave stepped in for Brady James, who had to bow out of the production just before opening night.
 
 ### 2013 Run
 * Austin Alexander as Trofimov

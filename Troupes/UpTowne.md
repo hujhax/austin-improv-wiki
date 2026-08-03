@@ -9,7 +9,7 @@ image: "File/Uptowne%20cast%20and%20crew%202009.JPG"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Uptowne cast and crew 2009.JPG.md.md.md"><img src="File/File-Uptowne%20cast%20and%20crew%202009.JPG.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Uptowne cast and crew 2009.JPG.md.md"><img src="File/File-Uptowne%20cast%20and%20crew%202009.JPG.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

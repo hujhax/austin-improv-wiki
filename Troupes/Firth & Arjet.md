@@ -9,7 +9,7 @@ image: "File/Firth%20%26%20Arjet%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Firth & Arjet Pic.jpg.md.md.md"><img src="File/File-Firth%20&%20Arjet%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Firth & Arjet Pic.jpg.md.md"><img src="File/File-Firth%20&%20Arjet%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Firth and Arjet headlined *[[Shows/The Free Fringe|The Free Fringe]]* from its p
 The troupe went on hiatus in 2012, when Kristin moved to Philadelphia.
 
 ## Formats
-![[File/Firth&Arjet Logo.png.md|The Firth & Arjet logo.]]
+![[File/Firth&Arjet Logo.png|The Firth & Arjet logo.]]
 
 ### Duologues
 Based on an audience suggestion, Jessica and Kristin create unique characters with two simultaneous monologues. Throughout the rest of the show they alternate scenes and monologues to explore the characters and reveal their relationships. The show is theatrical in style and remains truthful even when culminating in absurd situations. Silly and sublime, ethereal and grounded, real and outlandish.
@@ -117,12 +117,12 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [A photoset](http://www.facebook.com/media/set/?set=a.2403734895515.106636.1315383518&type=1) by [[Michael Yew]] that includes their 1/5/12 and 1/26/12 performances with *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [A photoset](http://www.facebook.com/media/set/?set=a.1922534340016.2064245.1141801116&type=1) by [[Performers/Sam Schak|Sam Schak]] that includes their 2/2/12 *[[Shows/Free Fringe|Free Fringe]]* show.
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/8/12 *[[Shows/Free Fringe|Free Fringe]]* show.
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3) by [[Michael Yew]] of that same show.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.2757850428182.113501.1315383518&type=3) by [[Michael Yew]] of that same show.
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe|Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281975890991.124193.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/12 performance in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * Their final *[[Shows/Free Fringe|Free Fringe]]* performance on 8/9/12.
-	* [A photoset](http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1) by [[Michael Yew]].
-	* [A photoset](http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1) by [[Steve Rogers]].
+  * [A photoset](http://www.facebook.com/media/set/?set=a.3478503444057.128996.1315383518&type=1) by [[Michael Yew]].
+  * [A photoset](http://www.facebook.com/media/set/?set=a.407777042619151.98321.221927764537414&type=1) by [[Steve Rogers]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in *[[Festivals/WaffleFest 2013|WaffleFest 2013]]*.
 
 ### Videos

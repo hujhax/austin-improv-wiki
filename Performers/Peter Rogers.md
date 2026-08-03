@@ -9,7 +9,7 @@ image: "File/Peter%20Rogers%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Peter Rogers Pic.jpg.md.md.md"><img src="File/File-Peter%20Rogers%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Peter Rogers Pic.jpg.md.md"><img src="File/File-Peter%20Rogers%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -85,10 +85,10 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 ## Writing
 ### Sketches
 * Videos
-	* Sketches Peter wrote for *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*: ["The Big Red Button"](http://vimeo.com/44147623); ["Cancellation Support Group"](http://vimeo.com/44147529); ["Joss Whedon's Dream Project"](http://vimeo.com/45173703), "Wash Has Too Much Time on His Hands", Parts [1](http://vimeo.com/45295722), [2](http://vimeo.com/45295972), & [3](http://vimeo.com/45295836).
-	* Sketches Peter wrote for an opening set for [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]: ["*Hurt Locker* OMG YAY"](http://vimeo.com/44639689); ["Harlequin Network-Computing Theater"](http://vimeo.com/44640172); ["Waylon Jennings Interrupts"](http://vimeo.com/44640577).
-	* ["The *Arrested Development* Documentary Crew"](http://vimeo.com/51553569)
-	* ["Learning Something New About History"](http://vimeo.com/35782149)
+  * Sketches Peter wrote for *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*: ["The Big Red Button"](http://vimeo.com/44147623); ["Cancellation Support Group"](http://vimeo.com/44147529); ["Joss Whedon's Dream Project"](http://vimeo.com/45173703), "Wash Has Too Much Time on His Hands", Parts [1](http://vimeo.com/45295722), [2](http://vimeo.com/45295972), & [3](http://vimeo.com/45295836).
+  * Sketches Peter wrote for an opening set for [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]: ["*Hurt Locker* OMG YAY"](http://vimeo.com/44639689); ["Harlequin Network-Computing Theater"](http://vimeo.com/44640172); ["Waylon Jennings Interrupts"](http://vimeo.com/44640577).
+  * ["The *Arrested Development* Documentary Crew"](http://vimeo.com/51553569)
+  * ["Learning Something New About History"](http://vimeo.com/35782149)
 * [Sketches for "Sketchwar", a weekly sketch-writing contest.](http://hujhax.livejournal.com/tag/sketchwar)
 * Peter also co-wrote *[[Shows/Sketchville|Sketchville]]*, a comedy webseries.
 

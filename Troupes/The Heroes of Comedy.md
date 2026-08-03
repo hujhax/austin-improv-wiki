@@ -9,7 +9,7 @@ image: "File/The%20Heroes%20of%20Comedy.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Heroes of Comedy.jpg.md.md.md"><img src="File/File-The%20Heroes%20of%20Comedy.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Heroes of Comedy.jpg.md.md"><img src="File/File-The%20Heroes%20of%20Comedy.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -118,7 +118,7 @@ This is the first group of people who were cast from the 1998 audition:
 * Tim Bauer
 * Timothy Ackerman
 * Todd Womack
-	* After the initial cast party, Todd Womack got a job driving the Oscar Meyer Wienermobile, and disappeared from Austin improv.
+  * After the initial cast party, Todd Womack got a job driving the Oscar Meyer Wienermobile, and disappeared from Austin improv.
 
 Lisa Brown was their tech improvisor at this point.
 

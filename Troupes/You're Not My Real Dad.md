@@ -9,7 +9,7 @@ image: "File/YNMRD.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-YNMRD.jpg.md.md.md"><img src="File/File-YNMRD.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-YNMRD.jpg.md.md"><img src="File/File-YNMRD.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -93,7 +93,7 @@ These are phrases you will never, ever hear applied to Austin's You're Not My Re
 
 ### Photos
 * [A photoset](http://www.facebook.com/media/set/?set=a.481887847264.251804.588952264&type=1) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/1/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-	* [Another photoset of the show](http://www.facebook.com/roy.moore/media_set?set=a.1346865163575.2043493.1589679282&type=3) by [[Roy Moore]].
+  * [Another photoset of the show](http://www.facebook.com/roy.moore/media_set?set=a.1346865163575.2043493.1589679282&type=3) by [[Roy Moore]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.163136237100741.43305.100002130980897&type=1) by [[Steve Rogers]] which includes their 8/30/11 show at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 * [Photoset of their 1/14/12 show.](http://www.facebook.com/media/set/?set=a.10150538747644090.404340.273514734089&type=1)
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/21/12 performance at [[Theatres/The Institution Theater|The Institution Theater]].

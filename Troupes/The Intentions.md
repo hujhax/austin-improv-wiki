@@ -9,7 +9,7 @@ image: "File/The%20Intentions.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Intentions.jpg.md.md.md"><img src="File/File-The%20Intentions.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Intentions.jpg.md.md"><img src="File/File-The%20Intentions.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/11/10 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 12/23/10 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150265183057265.371172.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/15/11 performance at *[[Shows/The Weekender|The Weekender]]*.
-	* [Another photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.124411107639921.31672.100002130980897&type=3) by [[Steve Rogers]] that includes the same show.
+  * [Another photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.124411107639921.31672.100002130980897&type=3) by [[Steve Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes their 7/21/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3) by [[Michael Yew]] of the 11/18/11 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3094001351745.120191.1315383518&type=3) by [[Michael Yew]] that includes their 5/10/12 performance in *[[Shows/The Threefer|The Threefer]]*.

@@ -9,7 +9,7 @@ image: "File/timcoyle.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Timcoyle.jpg.md.md.md"><img src="File/File-Timcoyle.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Timcoyle.jpg.md.md"><img src="File/File-Timcoyle.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Shows/Free Fringe|Free Fringe]] 2014 - current
 * [[Shows/The Threefer|The Threefer]] 2014 - current
 * *[[Shows/Maestro Raw|Maestro Raw]]* 2014-Current
-	* Maestro Raw Winner January 27, 2018
+  * Maestro Raw Winner January 27, 2018
 * [[Shows/The Weekender|The Weekender]] 2015 - current
 * *[[Shows/2x4|2x4]]* 2015-Current
 * *[[Shows/Fancy Pants|Fancy Pants]]* 2015-Current

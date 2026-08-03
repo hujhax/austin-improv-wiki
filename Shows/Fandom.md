@@ -9,7 +9,7 @@ image: "File/Fandom%20cover%20photo.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Fandom cover photo.jpg.md.md.md"><img src="File/File-Fandom%20cover%20photo.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Fandom cover photo.jpg.md.md"><img src="File/File-Fandom%20cover%20photo.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -221,13 +221,13 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.470833459646842.113816.221927764537414&type=3) by [[Steve Rogers]] of the 1/5/13 show (*Buffy the Vampire Slayer*).
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.518225591532274.116030.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 1/12/13 show (*The Lord of the Rings*).
-	* [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
+  * [Another photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.477942988935889.114948.221927764537414&type=3) by [[Steve Rogers]] of the 1/19/13 show (*Batman*).
 * [Photoset](http://www.facebook.com/media/set/?set=a.486940854702769.115717.221927764537414&type=3) by [[Steve Rogers]] of the 2/2/13 show (Classic Nintendo).
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.4247734954364.142935.1315383518&type=3) by [[Michael Yew]] of the same show.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.4247734954364.142935.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.491315270931994.116331.221927764537414&type=3) by [[Steve Rogers]] of the 2/9/13 show (*Star Wars*).
-	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534632676558232.117948.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.491557640907757.116359.221927764537414&type=3) of Paul Marino as Boba Fett at the event.
+  * [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534632676558232.117948.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.491557640907757.116359.221927764537414&type=3) of Paul Marino as Boba Fett at the event.
 * [Photoset](http://www.facebook.com/media/set/?set=a.494601140603407.116693.221927764537414&type=3) by [[Steve Rogers]] of the 2/16/13 shows (*Harry Potter*).
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.540278589326974.118800.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 2/23/13 show (*Firefly*).
 

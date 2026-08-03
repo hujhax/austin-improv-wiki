@@ -11,7 +11,7 @@ image: "File/One%20More%20Night.gif"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-One More Night.gif.md.md.md"><img src="File/File-One%20More%20Night.gif.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-One More Night.gif.md.md"><img src="File/File-One%20More%20Night.gif.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +88,7 @@ image: "File/One%20More%20Night.gif"
 	</table>
 </div>
 
-![[File/One More Night - Scheherazade and Shahryar.jpg.md|Scheherazade and Shahryar provided a framing device for each evening's tales.]]
+![[File/One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]
 
 
 ***One More Night*** was an improvised longform narrative show inspired by *The Arabian Nights*.
@@ -105,7 +105,7 @@ The following are links to songs that were frequently used in the *One More Nigh
 * ["Alegria"](http://youtu.be/YOIdB-GPa24), by Cirque de Soleil, from [the album of the same name](http://www.allmusic.com/album/cirque-du-soleil-alegría-mw0000118575).
 * ["Starálfur"](http://youtu.be/eAA3KF-VBac), by Sigur Rós, from [*Ágætis Byrjun*](http://www.allmusic.com/album/%C3gætis-byrjun-mw0000623855).
 * ["Chaiyya Chaiyya"](http://youtu.be/-_2gW3zwMMQ), by Dil Se.
-	* Performances frequently closed with the cast dancing out into the lobby to this song.
+  * Performances frequently closed with the cast dancing out into the lobby to this song.
 
 ## Recaps
 * [Recap of the opening-night show. (1/22)](http://hujhax.livejournal.com/603764.html)
@@ -114,9 +114,9 @@ The following are links to songs that were frequently used in the *One More Nigh
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282) by [[Roy Moore]] of the 1/22/10 show.
-	* [Another photoset](http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju) by [[Performers/Jon Bolden|Jon Bolden]].
+  * [Another photoset](http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju) by [[Performers/Jon Bolden|Jon Bolden]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.1168134175412.2022541.1589679282&type=3) by [[Roy Moore]] of the 1/23/10 performance.
-	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.312700062264.181592.588952264&type=3) of the same show by [[Performers/Peter Rogers|Peter Rogers]].
+  * [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.312700062264.181592.588952264&type=3) of the same show by [[Performers/Peter Rogers|Peter Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 1/24/10 show.
 * [Photoset of the 1/30 performance](http://www.facebook.com/media/set/?set=a.1173102059606.2023044.1589679282&type=3) by [[Roy Moore]].
 * [Photoset of the 2/5 performance](http://www.facebook.com/media/set/?set=a.1177677093979.2023536.1589679282&type=3) by [[Roy Moore]].

@@ -9,7 +9,7 @@ image: "File/wellmadeplay%20poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Wellmadeplay poster.jpg.md.md.md"><img src="File/File-Wellmadeplay%20poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Wellmadeplay poster.jpg.md.md"><img src="File/File-Wellmadeplay%20poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

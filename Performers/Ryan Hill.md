@@ -9,7 +9,7 @@ image: "File/ryanonstage.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Ryanonstage.jpg.md.md.md"><img src="File/File-Ryanonstage.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Ryanonstage.jpg.md.md"><img src="File/File-Ryanonstage.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -65,50 +65,50 @@ He is also a musician and has played for [[Shows/I Love You So Much|I Love You S
 
 ## Festivals
 * The Alaska State Improv Festival 2014 (Juneau, AK)
-	* With [[Shows/The Black Vault|The Black Vault]]
-	* With [[Troupes/Indigo Shift|Indigo Shift]]
+  * With [[Shows/The Black Vault|The Black Vault]]
+  * With [[Troupes/Indigo Shift|Indigo Shift]]
 
 * [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]]
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]
-	* With [[Troupes/In Our Prime|In Our Prime]]
-	* With [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
 
 * Dallas Comedy Festival 2013 (Dallas)
-	* With [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
+  * With [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]]
 
 * District Improv Festival 2013 (Washington, DC)
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * Improvaganza 2012 (Honolulu, HI)
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * Improv Festival Oklahoma 2012 (Norman, OK)
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * Improv Festival Oklahoma 2013 (Norman, OK)
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * Improv Festival Oklahoma 2014 (Norman, OK)
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]]
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]]
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * The 2014 Unscripted Festival (New York, New York)
 
 * [[Festivals/Wafflefest|Wafflefest]] 2012
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * [[Festivals/Wafflefest|Wafflefest]] 2013
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 * [[Festivals/Wafflefest|Wafflefest]] 2014
-	* With [[Troupes/In Our Prime|In Our Prime]]
+  * With [[Troupes/In Our Prime|In Our Prime]]
 
 ## More Information
 * [An 8/29/11 post from Ryan about zen and improv.](http://www.hideouttheatre.com/zen-and-improv-fingers-pointing-at-the-moon) 

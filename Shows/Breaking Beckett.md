@@ -9,7 +9,7 @@ image: "File/Breaking%20Beckett%20Poster%20Ryan.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Breaking Beckett Poster Ryan.png.md.md.md"><img src="File/File-Breaking%20Beckett%20Poster%20Ryan.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Breaking Beckett Poster Ryan.png.md.md"><img src="File/File-Breaking%20Beckett%20Poster%20Ryan.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -130,12 +130,12 @@ Bob also consulted with [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/
 
 ### Photos
 * [Photoset](http://controlimages.zenfolio.com/breaking_beckett_reginald_39) by [[Roy Moore]] (Control Images) of the 1/24/14 preview performance.
-	* [The same set, on facebook.](http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=1)
-	* [Photoset](https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
+  * [The same set, on facebook.](http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=1)
+  * [Photoset](https://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104172328452210.1073741850.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.598323030236380.1073741866.118587218209966&type=3) by [[Roy Moore]] of the 1/25/14 show.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 3/14/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.707481239315395.1073741978.221927764537414&type=3) by [[Steve Rogers]] of the 3/28/14 show.
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
+  * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10201681256095924.1073741885.1315383518&type=3) by [[Michael Yew]] that includes their 4/11/14 performance in [[Festivals/The Improvised Play Festival|The Improvised Play Festival]].
 
 ## More Information

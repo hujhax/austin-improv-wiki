@@ -2,7 +2,7 @@
 description: "Seventh annual Hideout Improv Marathon."
 image: "File/46HourPromo.jpg"
 ---
-![[File/46HourPromo.jpg.md|Promotional image for the 46-hour marathon.]]
+![[File/46HourPromo.jpg|Promotional image for the 46-hour marathon.]]
 **The 46-Hour Improv Marathon** is the seventh annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]]. It took place from June 19-21, 2015.
 
 ## Core Players
@@ -40,7 +40,7 @@ image: "File/46HourPromo.jpg"
 * Friday 7pm (hour 3): *[[Shows/Start Trekkin'|Start Trekkin']]*
 * Friday 8pm (hour 4): *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*
 * Friday 9pm (hour 5): "At Home with Katy and Tony"
-	* "Two actual, lovely British people welcome the core 8 into their Living Room for this hour."
+  * "Two actual, lovely British people welcome the core 8 into their Living Room for this hour."
 * Friday 10pm (hour 6): [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 * Friday 11pm (hour 7): [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * Saturday 12am (hour 8): [[Troupes/Bad Boys|Bad Boys]]
@@ -51,10 +51,10 @@ image: "File/46HourPromo.jpg"
 * Saturday 5am (hour 13): [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]]
 * Saturday 6am (hour 14): *[[Shows/Cochise|Cochise]]*
 * Saturday 7am (hour 15): "The Marathon Alumni Show"
-	* "A blast from the past. Marathon Alumni come to support and advise the 2014 participants."
+  * "A blast from the past. Marathon Alumni come to support and advise the 2014 participants."
 * Saturday 8am (hour 16): [[Troupes/Empty Promises|Empty Promises]]
 * Saturday 9am (hour 17): "Building Connections"
-	* "Students from the Building Connections improv classes join the Marathoners."
+  * "Students from the Building Connections improv classes join the Marathoners."
 * Saturday 10am (hour 18): *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
 * Saturday 11am (hour 19): *[[Shows/Control Issues|Control Issues]]*
 * Saturday 12pm (hour 20): *[[Troupes/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*
@@ -63,7 +63,7 @@ image: "File/46HourPromo.jpg"
 * Saturday 3pm (hour 23): "The Eye of the Storm" (free-form improv from the core cast)
 * Saturday 4pm (hour 24): *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * Saturday 5pm (hour 25): Double Marathon
-	* "The Austin Runners Club stops by to talk about marathons during the marathon."
+  * "The Austin Runners Club stops by to talk about marathons during the marathon."
 * Saturday 6pm (hour 26): [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * Saturday 7pm (hour 27): [[Troupes/Confidence Men|Confidence Men]]
 * Saturday 8pm (hour 28): [[Troupes/The Frank Mills|The Frank Mills]]
@@ -74,20 +74,20 @@ image: "File/46HourPromo.jpg"
 * Sunday 2am (hour 34): [[Troupes/Franz & Dave|Franz & Dave]]
 * Sunday 3am (hour 35): [[Troupes/MC Harold|MC Harold]]
 * Sunday 4am (hour 36): "The Orphan Is Displeased"
-	* "An orphan ([[Performers/Bridget Brewer|Bridget Brewer]]) Skypes into the Marathon to control the action."
+  * "An orphan ([[Performers/Bridget Brewer|Bridget Brewer]]) Skypes into the Marathon to control the action."
 * Sunday 5am (hour 37): *[[Shows/Tech Nightmare|Tech Nightmare]]*
 * Sunday 6am (hour 38): *[[Shows/Care Bear Stare|Care Bear Stare]]*
-	* "The Care Bears are here to bring badly-animated joy to your lives."
+  * "The Care Bears are here to bring badly-animated joy to your lives."
 * Sunday 7am (hour 39): *[[Shows/Buzz Band|Buzz Band]]*
 * Sunday 8am (hour 40): [[Troupes/The Escorts|The Escorts]]
 * Sunday 9am (hour 41): [[Troupes/Of Mice And Mostly Women|Of Mice And Mostly Women]]
 * Sunday 10am (hour 42): "Fury Road"
-	* "*Mad Max: Fury Road* was a hell of a movie, and this will be a hell of a show."
+  * "*Mad Max: Fury Road* was a hell of a movie, and this will be a hell of a show."
 * Sunday 11am (hour 43): *[[Shows/Spirited|Spirited]]*
 * Sunday 12pm (hour 44): [[Troupes/The Available Cupholders|The Available Cupholders]]
 * Sunday 1pm (hour 45): *[[Shows/Fakespeare|Fakespeare]]*
 * Sunday 2pm (hour 46): "Final Show"
-	* The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep.
+  * The victory lap of the 8 core Marathoners. They're free to do whatever they like... except sleep.
 
 ## Media
 ### Videos

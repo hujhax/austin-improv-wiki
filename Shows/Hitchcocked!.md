@@ -9,7 +9,7 @@ image: "File/Hitchcocked%21%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Hitchcocked! Poster.jpg.md.md.md"><img src="File/File-Hitchcocked!%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Hitchcocked! Poster.jpg.md.md"><img src="File/File-Hitchcocked!%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -192,7 +192,7 @@ image: "File/Hitchcocked%21%20Poster.jpg"
 	</table>
 </div>
 
-![[File/Hitchcocked! Performance.jpg.md|A performance of *Hitchcocked!*.]]
+![[File/Hitchcocked! Performance.jpg|A performance of *Hitchcocked!*.]]
 
 ***Hitchcocked!*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] inspired by the works of Alfred Hitchcock.
 
@@ -219,7 +219,7 @@ The show included several guest performers who weren't part of the main cast:
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 3/26/10 performance.
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100191585862270.2856707.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
+  * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100191585862270.2856707.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1215742685595.2027304.1589679282&type=1) by [[Roy Moore]] of the 3/27/10 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/2/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 

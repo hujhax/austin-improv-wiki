@@ -9,7 +9,7 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Kosher Bacon Pic.jpg.md.md.md"><img src="File/File-Kosher%20Bacon%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Kosher Bacon Pic.jpg.md.md"><img src="File/File-Kosher%20Bacon%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -78,7 +78,7 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 	</table>
 </div>
 
-![[File/Under Waged Poster.jpg.md|The poster for *Under Waged*.]]
+![[File/Under Waged Poster.jpg|The poster for *Under Waged*.]]
 
 **Kosher Bacon** was an improv troupe.
 

@@ -9,7 +9,7 @@ image: "File/After%20School%20Improv%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-After School Improv Pic.jpg.md.md.md"><img src="File/File-After%20School%20Improv%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-After School Improv Pic.jpg.md.md"><img src="File/File-After%20School%20Improv%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -196,7 +196,7 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 
 ## More Information
 * [The 2012 casting announcement for the 2012 run](http://forum.austinimprov.com/viewtopic.php?p=114683) on [[The Austin Improv Forums]].
-	* [The same, on the Hideout blog.](http://www.hideouttheatre.com/after-school-improv-auditions)
+  * [The same, on the Hideout blog.](http://www.hideouttheatre.com/after-school-improv-auditions)
 * [A 3/9/12 post](http://www.hideouttheatre.com/behind-the-scenes-after-school-improv) by [[Performers/Cat Drago|Cat Drago]] about the show.
 
 Category:Shows

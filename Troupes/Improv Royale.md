@@ -9,7 +9,7 @@ image: "File/Improv%20Royale.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Improv Royale.jpg.md.md.md"><img src="File/File-Improv%20Royale.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Improv Royale.jpg.md.md"><img src="File/File-Improv%20Royale.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -104,7 +104,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.164587043622327.43580.100002130980897&type=3) by [[Steve Rogers]] that includes their 9/2/11 performance at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
-	* [Flickr photoset](http://www.flickr.com/photos/oob_pics/sets/72157627612725716) of the same show.
+  * [Flickr photoset](http://www.flickr.com/photos/oob_pics/sets/72157627612725716) of the same show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

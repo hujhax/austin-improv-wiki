@@ -9,7 +9,7 @@ image: "File/False%20Matters.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-False Matters.jpg.md.md.md"><img src="File/File-False%20Matters.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-False Matters.jpg.md.md"><img src="File/File-False%20Matters.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -163,7 +163,7 @@ The show originally played [[Theatres/Salvage Vanguard Theater|Salvage Vanguard 
 
 ### Photos
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.125071687573863.32003.100002130980897&type=3) by [[Steve Rogers]] of their 5/20/11 performance.
-	* [Processed photos](http://www.facebook.com/SteveRogers1212/media_set?set=a.125209254226773.32100.100002130980897&type=3) from that same show.
+  * [Processed photos](http://www.facebook.com/SteveRogers1212/media_set?set=a.125209254226773.32100.100002130980897&type=3) from that same show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150274554572265.373081.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/21/11 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1720672979394.85878.1315383518&type=3) by [[Michael Yew]] that includes their 5/27/11 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282310382265.375437.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/28/11 performance.

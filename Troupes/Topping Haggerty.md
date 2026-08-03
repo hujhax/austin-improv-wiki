@@ -9,7 +9,7 @@ image: "File/Topping%20Haggerty%20Pic3.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Topping Haggerty Pic3.jpg.md.md.md"><img src="File/File-Topping%20Haggerty%20Pic3.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Topping Haggerty Pic3.jpg.md.md"><img src="File/File-Topping%20Haggerty%20Pic3.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

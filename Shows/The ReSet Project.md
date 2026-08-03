@@ -9,7 +9,7 @@ image: "File/The%20ReSet%20Project.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The ReSet Project.png.md.md.md"><img src="File/File-The%20ReSet%20Project.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The ReSet Project.png.md.md"><img src="File/File-The%20ReSet%20Project.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -121,7 +121,7 @@ image: "File/The%20ReSet%20Project.png"
 * [Photoset](http://www.facebook.com/media/set/?set=a.575651409165046.1073741905.221927764537414&type=3) by [[Steve Rogers]] of the 8/2/13 premiere.
 * [Photoset](http://www.facebook.com/media/set/?set=a.576314029098784.1073741906.221927764537414&type=3) by [[Steve Rogers]] of the 8/3/13 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.676504355746417.1073741959.221927764537414&type=3) by [[Steve Rogers]] of the 9/13/13 show.
-	* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.629517053736460.1073741856.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
+  * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.629517053736460.1073741856.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 
 ## More Information
 * [Audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=15339) on [[The Austin Improv Forums]].

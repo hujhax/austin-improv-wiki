@@ -9,7 +9,7 @@ image: "File/Spirited.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Spirited.jpg.md.md.md"><img src="File/File-Spirited.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Spirited.jpg.md.md"><img src="File/File-Spirited.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -122,12 +122,12 @@ After about an hour of these explorations, there would be a transition back to t
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.193922120676475.45895.118587218209966&type=3) by [[Roy Moore]] of the 9/10/11 premiere.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.168144419933256.44334.100002130980897&type=3) by [[Steve Rogers]] of the same show.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.205305389538148.48992.118587218209966&type=3) by [[Roy Moore]] of the 10/8/11 6pm performance.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.168144419933256.44334.100002130980897&type=3) by [[Steve Rogers]] of the same show.
+  * [Photoset](http://www.facebook.com/media/set/?set=a.205305389538148.48992.118587218209966&type=3) by [[Roy Moore]] of the 10/8/11 6pm performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.181097728637925.48242.100002130980897&type=1) by [[Steve Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.205745719494115.49091.118587218209966&type=3) by [[Roy Moore]] of the 10/8/11 8pm performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.208078812594139.49557.118587218209966&type=3) by [[Roy Moore]] of the 10/15/11 6pm performance.
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2050770631629.98662.1315383518&type=3) by [[Michael Yew]] of the same show.
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2050770631629.98662.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.208760575859296.49669.118587218209966&type=3) by [[Roy Moore]] of the 10/15/11 8pm performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.211216708947016.50291.118587218209966&type=3) by [[Roy Moore]] of the 10/22/11 6pm performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.212038482198172.50513.118587218209966&type=3) by [[Roy Moore]] of the 10/22/11 8pm performance.

@@ -9,7 +9,7 @@ image: "File/%C2%A1ZARZAMORA%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-¡ZARZAMORA!.jpg.md.md.md"><img src="File/File-¡ZARZAMORA!.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-¡ZARZAMORA!.jpg.md.md"><img src="File/File-¡ZARZAMORA!.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -111,7 +111,7 @@ The following upcoming festival appearances are scheduled:
 * [Video](http://vimeo.com/44295246) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "Q-Tip" show (uploaded 4/2/12).
 * [Video](http://vimeo.com/44295246) by [[Performers/Brad Hawkins|Brad Hawkins]] of their 6/14/12 show ("The Panini Press").
 * [Video](http://vimeo.com/44444798) by [[Performers/Brad Hawkins|Brad Hawkins]] of their "E-ZPass" show (uploaded 6/21/12).
-	* [Lower-res version of the video.](http://vimeo.com/44320993)
+  * [Lower-res version of the video.](http://vimeo.com/44320993)
 * [Video](http://vimeo.com/116581981) by [[Performers/Brad Hawkins|Brad Hawkins]] of their show at Trill Fest in Houston, Texas (the festival ran from 5/22/14 to 5/24/14).
 
 ### Photos

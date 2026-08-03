@@ -9,7 +9,7 @@ image: "File/My%20best%20fiend.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-My best fiend.jpg.md.md.md"><img src="File/File-My%20best%20fiend.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-My best fiend.jpg.md.md"><img src="File/File-My%20best%20fiend.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -103,7 +103,7 @@ My Best Fiend premiered at the Hideout's *[[Shows/Free Fringe|Free Fringe]]* on 
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200752086227258.1073741861.1315383518&type=3) by [[Michael Yew]] which includes their 10/26/13 performance in *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 12/5/13 *[[Shows/Free Fringe|Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152576209432107.1073741846.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their 8/31/14 performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
+  * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information

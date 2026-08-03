@@ -9,7 +9,7 @@ image: "File/Boys%20of%20Summer%202012%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Boys of Summer 2012 Poster.jpg.md.md.md"><img src="File/File-Boys%20of%20Summer%202012%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Boys of Summer 2012 Poster.jpg.md.md"><img src="File/File-Boys%20of%20Summer%202012%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -145,10 +145,10 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 * [[Performers/Chuy Zarate|Chuy Zarate]]
 * [[Performers/Brently Heilbron|Brently Heilbron]]
 * [[Performers/Mitch Mills|Mitch Mills]]
-	* Mitch Mills was the run's "Pick-a-Boy", where a number of possible guests were nominated by Austin improvisors, and then put to an audience vote.
+  * Mitch Mills was the run's "Pick-a-Boy", where a number of possible guests were nominated by Austin improvisors, and then put to an audience vote.
 ### 2014 Run
 * 7/12/14: Pick-A-Boy Thunderdome (come vote for your favorite!) 
-	* The competitors were Mike Carreon, [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Ryan Austin|Ryan Austin]], Doug Pendergras, [[Performers/Chuy Zarate|Chuy Zarate]], and [[Performers/Tom Booker|Tom Booker]].
+  * The competitors were Mike Carreon, [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Ryan Austin|Ryan Austin]], Doug Pendergras, [[Performers/Chuy Zarate|Chuy Zarate]], and [[Performers/Tom Booker|Tom Booker]].
 * 7/19/14: [[Performers/Clifton Highfield|Clifton Highfield]]
 * 7/26/14: [[Performers/Tyler Bryce|Tyler Bryce]]
 * 8/2/14: [[Performers/Michael Jastroch|Michael Jastroch]]
@@ -178,7 +178,7 @@ The show is scheduled to return to [[Theatres/The Institution Theater|The Instit
 ### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449206698434164.100559.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 7/21/12 performance with [[Performers/Clay Towery|Clay Towery]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers|Peter Rogers]].
-	* [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers|Peter Rogers]] with that night's cast.
+  * [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers|Peter Rogers]] with that night's cast.
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.148885235192508.40280.100002130980897&type=3) by [[Steve Rogers]] of the 7/31/11 show featuring [[Performers/Michael Thomas|Michael Thomas]]. ("Comic Book Convention")
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show featuring Jason Laney. ("Mortuary")
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200301863411969.1073741843.1315383518&type=3) by [[Michael Yew]] of the 2013 show featuring [[Performers/Chuy Zarate|Chuy Zarate]].

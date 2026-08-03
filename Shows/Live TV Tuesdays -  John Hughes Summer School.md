@@ -9,7 +9,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20John%20Hughes%20Summer%20School.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Live TV Tuesdays - John Hughes Summer School.jpg.md.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20John%20Hughes%20Summer%20School.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Live TV Tuesdays - John Hughes Summer School.jpg.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20John%20Hughes%20Summer%20School.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

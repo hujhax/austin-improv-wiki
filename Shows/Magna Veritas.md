@@ -9,7 +9,7 @@ image: "File/MagnaVeritas.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-MagnaVeritas.jpg.md.md.md"><img src="File/File-MagnaVeritas.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-MagnaVeritas.jpg.md.md"><img src="File/File-MagnaVeritas.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -100,10 +100,10 @@ Two "supernatural" characters were pre-selected prior to each show, one angelic,
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.194157847319569.45926.118587218209966&type=3) by [[Roy Moore]] that includes their 9/10/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes that performance.
-	* [Yet another photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.172726816141683.45782.100002130980897&type=3) by [[Steve Rogers]] of that same show.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes that performance.
+  * [Yet another photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.172726816141683.45782.100002130980897&type=3) by [[Steve Rogers]] of that same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.212738282128192.50688.118587218209966&type=3) by [[Roy Moore]] that includes their 10/22/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes that performance.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes that performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.221915231210497.52761.118587218209966&type=3) by [[Roy Moore]] that includes their 11/12/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.238076309589226.62459.221927764537414&type=3) by [[Steve Rogers]] of their 11/12/11 show.
 Category:Shows

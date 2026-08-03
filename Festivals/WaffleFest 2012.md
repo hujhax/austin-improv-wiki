@@ -2,7 +2,7 @@
 description: "Eleventh annual WaffleFest."
 image: "File/Wafflefest%20ad.jpg"
 ---
-![[File/Wafflefest ad.jpg.md|A promotional image for WaffleFest 2012.]]
+![[File/Wafflefest ad.jpg|A promotional image for WaffleFest 2012.]]
 
 **WaffleFest 2012** was the eleventh annual [[Festivals/Wafflefest|Wafflefest]].
 
@@ -45,5 +45,5 @@ The festival also included several acts from *[[Shows/The Free Fringe|The Free F
 
 ## More Information
 * [Post about Ladies' Night](http://forum.austinimprov.com/viewtopic.php?f=2&t=14272) on [[The Austin Improv Forums]].
-	* [Hideout blogpost](http://www.hideouttheatre.com/announcing-tonights-super-secret-wafflefest-show) about the same.
+  * [Hideout blogpost](http://www.hideouttheatre.com/announcing-tonights-super-secret-wafflefest-show) about the same.
 Category:Festivals

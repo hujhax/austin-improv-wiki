@@ -9,7 +9,7 @@ image: "File/GGG-Logo%20G.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-GGG-Logo G.jpg.md.md.md"><img src="File/File-GGG-Logo%20G.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-GGG-Logo G.jpg.md.md"><img src="File/File-GGG-Logo%20G.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -36,18 +36,18 @@ The girls started out with a mix of longform and short form. Shows included a wh
 Thankfully, Amy McCurdy boldly decided to remount the show not as a part of [[Troupes/We Could Be Heroes|We Could Be Heroes]], but as its own troupe, called "Girls Girls Girls". The opening numbers were so much fun and went over so well, that the girls got together and decided they wanted to do improvised musical theatre. New members were added including Andrea Young, Shelly Miller Bosse, [[Performers/Monique Daviau|Monique Daviau]], and Katy Shea and the Girls as we know it today had begun. In 2003, the Girls decided to become an improv collective and work together to manage the troupe. In 2004 they added new members Tara White and Annette Jurcevic and began performing regularly at Arts on Real Theatre. In 2005, the Girls grew even bigger with the addition of Kimberly Tortorrici, Jennifer Cargill, [[Performers/Julie Gillis|Julie Gillis]], and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]]. They also added a new format, GGG Beneath The Music, an improvised parody of VH1's Behind the Music.
 
 ### Formats
-![[File/Secret Life of Soccer Moms Poster.jpg.md|Poster for "The Secret Lives of Soccer Moms".]]
+![[File/Secret Life of Soccer Moms Poster.jpg|Poster for "The Secret Lives of Soccer Moms".]]
 A typical GGG show is a longform musical narrative.  But for several runs, the troupe has tweaked that format in various ways:
 * *[[Shows/Boys of Summer|Boys of Summer]]*: in this show, a male improvisor guests with the troupe.
 * GGGlee: this format was inspired by *Glee*.  In each performance, a different group guest-starred as a rival school.  The guests were:
-	* The [[Puppet Improv Project]].
-	* "Smoooooth", an *ad hoc* boy band consisting of [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Craig Kotfas|Craig Kotfas]], [[Performers/Jason Vines|Jason Vines]], and [[Performers/Michael Thomas|Michael Thomas]].
-	* [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]].
+  * The [[Puppet Improv Project]].
+  * "Smoooooth", an *ad hoc* boy band consisting of [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Craig Kotfas|Craig Kotfas]], [[Performers/Jason Vines|Jason Vines]], and [[Performers/Michael Thomas|Michael Thomas]].
+  * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]].
 * Jersey Shorez: this format was inspired by the TV show *Jersey Shore*.
 * Stage Door: this was a 'backstage musical' format.
 * Pink is the New Black: Inspired by the TV show ''Orange is the New Black
 * The Secret Lives of Soccer Moms
-	* This format had a mainstage run at [[Theatres/The Institution Theater|The Institution Theater]] on Fridays and Saturdays at 8pm from 4/17/15 to 5/2/15.
+  * This format had a mainstage run at [[Theatres/The Institution Theater|The Institution Theater]] on Fridays and Saturdays at 8pm from 4/17/15 to 5/2/15.
 
 ### Former Cast Members
 * Amy McCurdy
@@ -167,13 +167,13 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466601583361342.105337.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 9/1/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3811816376672.136825.1315383518&type=3) by [[Michael Yew]] which includes their 11/10/12 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3931529289420.138986.1315383518&type=3) by [[Michael Yew]] which includes their 12/8/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.502172756470891.113111.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
+  * [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.502172756470891.113111.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/25/13 performance with [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4093107648778.141743.1315383518&type=3) by [[Michael Yew]] which includes their 1/13/13 performance in the [[Theatres/Merlin Works|Merlin Works]] grand opening.
-	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.519628588058641.116285.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same event.
+  * [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.519628588058641.116285.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same event.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.539914026030097.118722.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 2/9/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4573289653028.1073741829.1315383518&type=3) by [[Michael Yew]] of their 4/5/13 "Stage Door" performance.
-	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.556864001001766.1073741830.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
+  * [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.556864001001766.1073741830.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648770271811138.1073741865.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/25/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.664214413600057.1073741869.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their performance in [[Festivals/WaffleFest 2013|WaffleFest 2013]].
@@ -186,27 +186,27 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 
 ### Publicity
 * Promos for *Jerzey Shorez*:
-	* ["The Equation"](http://youtu.be/7APV47_iSgU)
-	* ["Girl Fight"](http://youtu.be/zurFiul7ewE)
-	* ["Pre Show"](http://youtu.be/LUH1eiV1fzQ)
-	* Character Promos:
-		* ["Lonnie 'Casanova' Morino"](http://youtu.be/EMTCt1jTQQM)
-		* ["Wookie" (#1)](http://youtu.be/keoMCTshq5M)
-		* ["Wookie" (#2)](http://youtu.be/s_HT6baY4nA)
-		* ["Lisa Lee"](http://youtu.be/9CcNgQB6zxU)
-		* ["Veronica 'RAWRRRRR' DeLucci"](http://youtu.be/PQlKS7xq7Mg)
-		* ["William 'Willy' Bartholomeo"](http://youtu.be/G9sOBKU966w)
+  * ["The Equation"](http://youtu.be/7APV47_iSgU)
+  * ["Girl Fight"](http://youtu.be/zurFiul7ewE)
+  * ["Pre Show"](http://youtu.be/LUH1eiV1fzQ)
+  * Character Promos:
+    * ["Lonnie 'Casanova' Morino"](http://youtu.be/EMTCt1jTQQM)
+    * ["Wookie" (#1)](http://youtu.be/keoMCTshq5M)
+    * ["Wookie" (#2)](http://youtu.be/s_HT6baY4nA)
+    * ["Lisa Lee"](http://youtu.be/9CcNgQB6zxU)
+    * ["Veronica 'RAWRRRRR' DeLucci"](http://youtu.be/PQlKS7xq7Mg)
+    * ["William 'Willy' Bartholomeo"](http://youtu.be/G9sOBKU966w)
 * Character promos for "GGGlee":
-	* ["Kennedy Stella Montgomery"](http://youtu.be/qagJ5fe9OMc)
-	* ["Tiffany Ann-Marie Clayton (and Diamond Jazz)"](http://youtu.be/gjiPLJmU0G0)
-	* ["Rainbow Moonstone"](http://youtu.be/vrkq_GK6b3w)
-	* ["Jubilation 'Lee' Hildegard O'Riley"](http://youtu.be/19ab6WFcJhU)
-		* ["A poem"](http://youtu.be/1IMyxzSyWwY)
-	* ["Coach Rue Stallone"](http://youtu.be/K_6LAZ0GkNE)
-	* ["Mr. Molson"](http://youtu.be/gTWQ7CwQ6Xw)
-	* ["Agnes Swalwell"](http://youtu.be/N3UzuAUAFso)
-	* ["London"](http://youtu.be/j1oK0yhfTIc)
-	* ["Regina Goldman"](http://youtu.be/7rNeBQ9JlGY)
+  * ["Kennedy Stella Montgomery"](http://youtu.be/qagJ5fe9OMc)
+  * ["Tiffany Ann-Marie Clayton (and Diamond Jazz)"](http://youtu.be/gjiPLJmU0G0)
+  * ["Rainbow Moonstone"](http://youtu.be/vrkq_GK6b3w)
+  * ["Jubilation 'Lee' Hildegard O'Riley"](http://youtu.be/19ab6WFcJhU)
+    * ["A poem"](http://youtu.be/1IMyxzSyWwY)
+  * ["Coach Rue Stallone"](http://youtu.be/K_6LAZ0GkNE)
+  * ["Mr. Molson"](http://youtu.be/gTWQ7CwQ6Xw)
+  * ["Agnes Swalwell"](http://youtu.be/N3UzuAUAFso)
+  * ["London"](http://youtu.be/j1oK0yhfTIc)
+  * ["Regina Goldman"](http://youtu.be/7rNeBQ9JlGY)
 
 ### Other
 * [The girls of GGG give advice on love.](http://youtu.be/p8T4acqdnbI&list=UU3ZwcLrGS_Q-ylvswzf1x_A)
@@ -226,7 +226,7 @@ This section lists media specifically for their *[[Shows/Boys of Summer|Boys of 
 #### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449206698434164.100559.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 7/21/12 performance with [[Performers/Clay Towery|Clay Towery]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers|Peter Rogers]].
-	* [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers|Peter Rogers]] with that night's cast.
+  * [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers|Peter Rogers]] with that night's cast.
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.148885235192508.40280.100002130980897&type=3) by [[Steve Rogers]] of the 7/31/11 show featuring [[Performers/Michael Thomas|Michael Thomas]]. ("Comic Book Convention")
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show featuring Jason Laney. ("Mortuary")
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200301863411969.1073741843.1315383518&type=3) by [[Michael Yew]] of the 2013 show featuring [[Performers/Chuy Zarate|Chuy Zarate]].

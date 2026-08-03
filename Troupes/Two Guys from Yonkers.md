@@ -9,7 +9,7 @@ image: "File/Two%20Guys%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Two Guys Pic.jpg.md.md.md"><img src="File/File-Two%20Guys%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Two Guys Pic.jpg.md.md"><img src="File/File-Two%20Guys%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -101,7 +101,7 @@ Here is [[Performers/Bobby Ford|Bobby Ford]]'s explanation of the name's origin:
 * [Video](http://vimeo.com/40744913) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/19/12 show.
 * [Video](http://vimeo.com/42251366) by [[Performers/Paul Normandin|Paul Normandin]] of their 5/4/12 performance in *[[Shows/The Cagematch|The Cagematch]]*.
 * [Video](http://vimeo.com/43881347) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/10/12 performance in *[[Shows/The Weekender|The Weekender]]*.
-	* [Video](http://vimeo.com/43860472) by [[Performers/Dave alley|Dave alley]] that includes the same show.
+  * [Video](http://vimeo.com/43860472) by [[Performers/Dave alley|Dave alley]] that includes the same show.
 * [Video](http://vimeo.com/51661337) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/17/12 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Video](http://vimeo.com/55690464) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/9/12 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Video](http://vimeo.com/57209037) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/23/12 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

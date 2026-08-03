@@ -9,7 +9,7 @@ image: "File/Start%20Trekkin%27.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Start Trekkin'.jpg.md.md.md"><img src="File/File-Start%20Trekkin'.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Start Trekkin'.jpg.md.md"><img src="File/File-Start%20Trekkin'.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -169,7 +169,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Season 7: Jan-Feb 2012
 
 ### Event Appearances
-![[File/TrekInVegas.jpg.md|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
+![[File/TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 *Start Trekkin*' performed at the [*Star Trek* Premiere Party](http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/) at the Bob Bullock State History Museum on May 8th, 2009.
 
@@ -313,7 +313,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] that includes the 2/25/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) from [[Steve Rogers]], [and another](http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3)  from [[Michael Yew]], of the 3/8/12 *[[Shows/Free Fringe|Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.
 * [A photoset](http://www.facebook.com/media/set/?set=a.415641555166033.100932.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/1/12 performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes the same show.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] which includes the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.572351752828345.1073741903.221927764537414&type=3) by [[Steve Rogers]] of their 7/27/13 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204337420658378.1073741950.1315383518&type=3) by [[Michael Yew]] that includes their 6/19/15 show in [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]].
 

@@ -95,11 +95,11 @@ Any other start ends the list.</td>
 <pre>
 1. Start each line
 1. with a number sign (#).
-	1. More number signs gives deeper
-		1. and deeper
-		1. levels.
+  1. More number signs gives deeper
+    1. and deeper
+    1. levels.
 1. Line breaks<br />don't break levels.
-		1. But jumping levels creates empty space.
+    1. But jumping levels creates empty space.
 1. Blank lines
 1. end the list and start another.
 Any other start also
@@ -108,11 +108,11 @@ ends the list.
     <td >
 1. Start each line
 1. with a number sign (#).
-	1. More number signs gives deeper
-		1. and deeper
-		1. levels.
+  1. More number signs gives deeper
+    1. and deeper
+    1. levels.
 1. Line breaks<br />don't break levels.
-		1. But jumping levels creates empty space.
+    1. But jumping levels creates empty space.
 1. Blank lines
 1. end the list and start another.
 Any other start also
@@ -149,8 +149,8 @@ Here's a quick list of how to make some simple links.
   </tr>
   <tr >
     <td >External link with different label</td>
-    <td ><tt><nowiki>[MediaWiki](http://mediawiki.org)</nowiki></tt></td>
-    <td >[MediaWiki](http://mediawiki.org)</td>
+    <td ><tt><nowiki><a href="http://mediawiki.org">MediaWiki</a></nowiki></tt></td>
+    <td ><a href="http://mediawiki.org">MediaWiki</a></td>
   </tr>
 </table>
 
@@ -165,7 +165,7 @@ To do that, you just include an "infobox" template at the top of the page.  For 
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-John Doe Pic.jpg.md.md.md"><img src="File/File-John%20Doe%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-John Doe Pic.jpg.md.md"><img src="File/File-John%20Doe%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

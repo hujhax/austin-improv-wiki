@@ -9,7 +9,7 @@ image: "File/The%20Jukebox%20Musical%20Project.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Jukebox Musical Project.jpg.md.md.md"><img src="File/File-The%20Jukebox%20Musical%20Project.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Jukebox Musical Project.jpg.md.md"><img src="File/File-The%20Jukebox%20Musical%20Project.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -327,8 +327,8 @@ The story of Annie Oakley and Calamity Jane as told through the music of Beyonc√
 
 ### Other
 * Promos for "Renaissance Queen":
-	* [Video](http://vimeo.com/142341649) by [[Performers/Peter Rogers|Peter Rogers]].
-	* [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Performers/Tom Booker|Tom Booker]].
+  * [Video](http://vimeo.com/142341649) by [[Performers/Peter Rogers|Peter Rogers]].
+  * [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Performers/Tom Booker|Tom Booker]].
 
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/JukeboxBway)

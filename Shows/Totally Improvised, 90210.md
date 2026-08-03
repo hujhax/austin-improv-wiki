@@ -9,7 +9,7 @@ image: "File/90210.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-90210.jpg.md.md.md"><img src="File/File-90210.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-90210.jpg.md.md"><img src="File/File-90210.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -196,7 +196,7 @@ Assistant Director: [[Performers/Peter Rogers|Peter Rogers]]
 
 ### Publicity
 * [Publicity shoot](http://www.facebook.com/media/set/?set=a.159711617443203.42516.100002130980897&type=1) by [[Steve Rogers]].
-	* [Behind-the-scenes photos from the publicity shoot.](http://www.facebook.com/SteveRogers1212/media_set?set=a.159711617443203.42516.100002130980897&type=3)
+  * [Behind-the-scenes photos from the publicity shoot.](http://www.facebook.com/SteveRogers1212/media_set?set=a.159711617443203.42516.100002130980897&type=3)
 * [Promo photos](http://www.facebook.com/media/set/?set=a.10150243909883311.328380.16782108310&type=1) by [[Steve Rogers]], with art by [[Performers/Courtney Hopkin|Courtney Hopkin]].
 
 Totally

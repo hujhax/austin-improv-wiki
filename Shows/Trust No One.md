@@ -9,7 +9,7 @@ image: "File/tno-poster-small.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Tno-poster-small.jpg.md.md.md"><img src="File/File-Tno-poster-small.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Tno-poster-small.jpg.md.md"><img src="File/File-Tno-poster-small.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -149,7 +149,7 @@ The show was a longform narrative, dealing with conspiracies and paranoia. An au
 ### The View-Master of Providence
 In materials promoting this show, the Institution Theater's View-Master logo was incorporated into the Eye of Providence, a common Masonic symbol and one often associated with the Illuminati. 
 
-![[File/Eye-of-institution-1.gif.md|The View-Master of Providence, designed by [Brad Hawkins](Performers/Brad%20Hawkins)]]
+![[File/Eye-of-institution-1.gif|The View-Master of Providence, designed by [Brad Hawkins](Performers/Brad%20Hawkins)]]
 
 ## Media
 ### Videos
@@ -169,7 +169,7 @@ In materials promoting this show, the Institution Theater's View-Master logo was
 * [Photoset](http://www.facebook.com/media/set/?set=a.631796130222403.1073741875.118587218209966&type=3) by [[Roy Moore]] of the 4/14/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.730270493703136.1073741996.221927764537414&type=3) by [[Steve Rogers]] of the 5/9/14 show.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.800187246678429.1073741866.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 5/30/14 finale.
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104756360422460.1073741867.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
+  * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10104756360422460.1073741867.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]]
 
 ### Publicity

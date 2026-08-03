@@ -9,7 +9,7 @@ image: "File/Neal%20Tibrewala%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Neal Tibrewala Pic.jpg.md.md.md"><img src="File/File-Neal%20Tibrewala%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Neal Tibrewala Pic.jpg.md.md"><img src="File/File-Neal%20Tibrewala%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -102,8 +102,8 @@ The first improv show he ever saw was *[[Shows/After School Improv|After School 
 * [[Shows/The Derby|The Derby]] (tech & performer)
 * [[Shows/Fandom|Fandom]] (tech)
 * [[Shows/The Free Fringe|The Free Fringe]]
-	* *The Shortform Mashup* (director)
-	* *Object Stories* (director)
+  * *The Shortform Mashup* (director)
+  * *Object Stories* (director)
 * [[Shows/Hitchcocked!|Hitchcocked!]] (tech)
 * [[Shows/Ka-Baam!!|Ka-Baam!!]] (tech)
 * [[Shows/Maestro|Maestro]] (performer & tech)

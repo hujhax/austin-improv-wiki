@@ -16,8 +16,8 @@ This **list of Austin improv online resources** includes information about web s
 ### AIC Theaters and Schools
 * [ColdTowne Students and Performers!](https://www.facebook.com/groups/144182719040012/)
 * [Hideout Performers, Students, and Alumni](https://www.facebook.com/groups/hideouttheatre/)
-	* [Hideout Maestro - Behind the Scenes](https://www.facebook.com/groups/541841935909841/)
-	* [Free Fringe Submission Form](http://hideout.cc/freefringeform)
+  * [Hideout Maestro - Behind the Scenes](https://www.facebook.com/groups/541841935909841/)
+  * [Free Fringe Submission Form](http://hideout.cc/freefringeform)
 * [The Institution Theater Students, Alumni, and Staff](https://www.facebook.com/groups/217905648309669/)
 * [Merlin Works Students and Alumni](https://www.facebook.com/groups/merlinworks)
 * [Fallout Theater Students Section](https://www.facebook.com/groups/189795678278214/)

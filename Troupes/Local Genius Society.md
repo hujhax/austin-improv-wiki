@@ -9,7 +9,7 @@ image: "File/Lgs%20grouphug.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Lgs grouphug.jpg.md.md.md"><img src="File/File-Lgs%20grouphug.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Lgs grouphug.jpg.md.md"><img src="File/File-Lgs%20grouphug.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -74,9 +74,9 @@ image: "File/Lgs%20grouphug.jpg"
 	</table>
 </div>
 
-![[File/LGSpatch.jpg.md|Local Genius Society custom club jacket crest. Designed by [Ryan Austin](Performers/Ryan%20Austin). Each object on the crest represents a member of the cast at the time of design.]]
+![[File/LGSpatch.jpg|Local Genius Society custom club jacket crest. Designed by [Ryan Austin](Performers/Ryan%20Austin). Each object on the crest represents a member of the cast at the time of design.]]
 
-![[File/Poster Beach Cops.jpg.md|Official poster promoting Local Genius Society in the 2012 Honolulu Improvaganza festival performing "Beach Cops".]]
+![[File/Poster Beach Cops.jpg|Official poster promoting Local Genius Society in the 2012 Honolulu Improvaganza festival performing "Beach Cops".]]
 
 
 **Local Genius Society** is an improv troupe of raconteurs, savants, and bon vivants.
@@ -134,7 +134,7 @@ Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's ori
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 1/6/12 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.369516133069888.85770.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 3/11/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.311035922298427.70375.118587218209966&type=3) by [[Roy Moore]] that includes their 8/28/12 performance in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] of the same show.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3541573380766.130840.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.443231419073713.108140.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/8/12 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) that includes their 12/8/12 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4243242522056.142858.1315383518&type=3) by [[Michael Yew]] which includes their 2/1/13 performance in *[[Shows/The Spectacle|The Spectacle]]*.
@@ -143,23 +143,23 @@ Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's ori
 
 ### Publicity
 * As part of their fundraiser for their trip to Improvaganza in 2012, the troupe recorded a series of mock PSAs from the "Beach Cops"
-	* ["Trash and Dumping"](http://vimeo.com/45762135)
-	* ["Lady Cops"](http://vimeo.com/45762134)
-	* ["Dangers of the Tide"](http://vimeo.com/45762133)
-	* ["Proper Eyewear"](http://vimeo.com/45762132)
-	* ["The Sun"](http://vimeo.com/45761775)
-	* ["Respect the Ocean"](http://vimeo.com/45761774)
+  * ["Trash and Dumping"](http://vimeo.com/45762135)
+  * ["Lady Cops"](http://vimeo.com/45762134)
+  * ["Dangers of the Tide"](http://vimeo.com/45762133)
+  * ["Proper Eyewear"](http://vimeo.com/45762132)
+  * ["The Sun"](http://vimeo.com/45761775)
+  * ["Respect the Ocean"](http://vimeo.com/45761774)
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/localgeniussociety)
 * [The troupe's home page.](http://localgeniussociety.wordpress.com/)
 * Posts about their Feb/Mar 2012 "Underground Improv" run at The Dive Bar.
-	* [A 2/12/12 interview with the cast.](http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar)
-	* [A 3/8/12 post](http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar) by [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]] 
+  * [A 2/12/12 interview with the cast.](http://www.hideouttheatre.com/local-genius-society-interview-on-their-show-at-the-dive-bar)
+  * [A 3/8/12 post](http://www.hideouttheatre.com/what-geniuses-thought-they-could-do-improv-in-a-bar) by [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]] 
 * "Ask Local Genius Society": interviews with cast members from December 2011:
-	* [Interview](http://www.hideouttheatre.com/meet_andrew_pish) with [[Performers/Andrew Pish|Andrew Pish]].
-	* [Interview](http://www.hideouttheatre.com/lgs-kayla) with [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]].
-	* [Interview](http://www.hideouttheatre.com/lgs-karen-jane-dewitt) with [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]].
+  * [Interview](http://www.hideouttheatre.com/meet_andrew_pish) with [[Performers/Andrew Pish|Andrew Pish]].
+  * [Interview](http://www.hideouttheatre.com/lgs-kayla) with [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]].
+  * [Interview](http://www.hideouttheatre.com/lgs-karen-jane-dewitt) with [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]].
 
 [[Category/Troupes|Category:Troupes]]
 Category:Active

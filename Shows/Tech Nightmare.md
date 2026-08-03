@@ -9,7 +9,7 @@ image: "File/Tech%20Nightmare%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Tech Nightmare Pic.jpg.md.md.md"><img src="File/File-Tech%20Nightmare%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Tech Nightmare Pic.jpg.md.md"><img src="File/File-Tech%20Nightmare%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -105,8 +105,8 @@ It was brought back many times as part of *[[Shows/The Free Fringe|The Free Frin
 
 ## Media
 * 12/13/12 performance:
-	* [Video](http://vimeo.com/56314411) by [[Performers/Peter Rogers|Peter Rogers]]
-	* [A photoset](http://www.facebook.com/media/set/?set=a.10101796070781630.3377695.7909117&type=1) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the performance.
+  * [Video](http://vimeo.com/56314411) by [[Performers/Peter Rogers|Peter Rogers]]
+  * [A photoset](http://www.facebook.com/media/set/?set=a.10101796070781630.3377695.7909117&type=1) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the performance.
 
 Category:Active
 Category:Shows

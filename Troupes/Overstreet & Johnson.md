@@ -9,7 +9,7 @@ image: "File/Overstreet%20%26%20Johnson.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Overstreet & Johnson.jpg.md.md.md"><img src="File/File-Overstreet%20&%20Johnson.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Overstreet & Johnson.jpg.md.md"><img src="File/File-Overstreet%20&%20Johnson.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

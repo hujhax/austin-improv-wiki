@@ -9,7 +9,7 @@ image: "File/Katie%20Doran%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Katie Doran Pic.jpg.md.md.md"><img src="File/File-Katie%20Doran%20Pic.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Katie Doran Pic.jpg.md.md"><img src="File/File-Katie%20Doran%20Pic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -42,8 +42,8 @@ image: "File/Katie%20Doran%20Pic.jpg"
 * Rain
 
 ## Mainstage Shows
-	* The Hideout: *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
-	* ColdTowne: *It's Saturday Night!*, *[[Shows/America -  Have it Your Way|America -  Have it Your Way]]*, *[[Shows/Martini Ranch -  Hidden Valley|Martini Ranch -  Hidden Valley]]* 
+  * The Hideout: *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
+  * ColdTowne: *It's Saturday Night!*, *[[Shows/America -  Have it Your Way|America -  Have it Your Way]]*, *[[Shows/Martini Ranch -  Hidden Valley|Martini Ranch -  Hidden Valley]]* 
 
 ## Festivals
 BettyFest (JK & Femmes of Martini Ranch),

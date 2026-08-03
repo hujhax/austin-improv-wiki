@@ -9,7 +9,7 @@ image: "File/Peter%20Pan%20and%20the%20Great%20Unknown%20Placeholder%20image.jpg
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Peter Pan and the Great Unknown Placeholder image.jpg.md.md.md"><img src="File/File-Peter%20Pan%20and%20the%20Great%20Unknown%20Placeholder%20image.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Peter Pan and the Great Unknown Placeholder image.jpg.md.md"><img src="File/File-Peter%20Pan%20and%20the%20Great%20Unknown%20Placeholder%20image.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

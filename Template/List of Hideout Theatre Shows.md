@@ -17,13 +17,13 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[Shows/The Threefer|The Threefer]]*
 * *[[Shows/The Weekender|The Weekender]]*
 * *[[Shows/The Wheel|The Wheel]]*, a regular Friday-night slot, has included the following monthly shows:
-	* *[[Shows/2x4|2x4]]*
-	* *[[Shows/Control Issues|Control Issues]]*
-	* *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
-	* *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
-	* *[[Shows/The Lottery|The Lottery]]*
-	* *[[Shows/Maestro Raw|Maestro Raw]]*
-	* *[[Shows/The Narrative Improv Jam|The Narrative Improv Jam]]*
-	* *[[Shows/The Nightmare Video Project|The Nightmare Video Project]]*
-	* *[[Shows/The TV Set|The TV Set]]*
-	* "[[Shows/TheatreDome|TheatreDome]]"
+  * *[[Shows/2x4|2x4]]*
+  * *[[Shows/Control Issues|Control Issues]]*
+  * *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*
+  * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
+  * *[[Shows/The Lottery|The Lottery]]*
+  * *[[Shows/Maestro Raw|Maestro Raw]]*
+  * *[[Shows/The Narrative Improv Jam|The Narrative Improv Jam]]*
+  * *[[Shows/The Nightmare Video Project|The Nightmare Video Project]]*
+  * *[[Shows/The TV Set|The TV Set]]*
+  * "[[Shows/TheatreDome|TheatreDome]]"

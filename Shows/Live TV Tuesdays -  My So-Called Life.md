@@ -9,7 +9,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20My%20So-Called%20Life.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Live TV Tuesdays - My So-Called Life.jpg.md.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20My%20So-Called%20Life.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Live TV Tuesdays - My So-Called Life.jpg.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20My%20So-Called%20Life.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -103,7 +103,7 @@ It played exclusively at [[Theatres/The Highball|The Highball]].
 ## Media
 * [Photoset of the 6/21/11 performance.](http://www.facebook.com/media/set/?set=a.10150272583409090.354543.273514734089&type=3)
 * [Photoset](http://www.facebook.com/media/set/?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes the 7/12/11 performance.
-	* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1834242947715.2086854.1589679282&type=3) by [[Roy Moore]] of that performance.
+  * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1834242947715.2086854.1589679282&type=3) by [[Roy Moore]] of that performance.
 
 ## More Information
 * [Facebook event for one of the performances.](http://www.facebook.com/events/222767514422626/)

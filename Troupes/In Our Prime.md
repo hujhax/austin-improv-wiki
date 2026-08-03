@@ -9,7 +9,7 @@ image: "File/In%20Our%20Prime%20Three.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-In Our Prime Three.jpg.md.md.md"><img src="File/File-In%20Our%20Prime%20Three.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-In Our Prime Three.jpg.md.md"><img src="File/File-In%20Our%20Prime%20Three.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -124,7 +124,7 @@ Here is [[Performers/Paul Normandin|Paul Normandin]]'s explanation of the name's
 * [Video](http://vimeo.com/51042429) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/4/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://vimeo.com/52598839) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/11/12 performance in *[[Shows/The Threefer|The Threefer]]* ("Drugs & Kids").
 * [Video](http://vimeo.com/52051384) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/18/12 performance in *[[Shows/The Threefer|The Threefer]]* ("Car Accident"/"Brady Bunch").
-	* [A second copy of the video.](http://vimeo.com/63321919)
+  * [A second copy of the video.](http://vimeo.com/63321919)
 * [Video](http://vimeo.com/52466512) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/25/12 performance in *[[Shows/The Threefer|The Threefer]]* ("Runaway Dad").
 * [Video](http://vimeo.com/53309165) by [[Performers/Paul Normandin|Paul Normandin]] of their 11/10/12 performance at [[Festivals/WaffleFest 2012|WaffleFest 2012]] ("The Affair").
 * [Video](http://vimeo.com/54726986) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/1/12 performance at [[Theatres/The Institution Theater|The Institution Theater]].

@@ -9,7 +9,7 @@ image: "File/Snackers.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Snackers.png.md.md.md"><img src="File/File-Snackers.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Snackers.png.md.md"><img src="File/File-Snackers.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ After an initial run that performed the Living Room format, the troupe performed
 * "Snacksucker Proxy" drew from the writing of Horatio Alger and the movie *The Hudsucker Proxy*.  (This was their last format before they disbanded.)
 
 ## Media
-![[File/SnackersLogo.gif.md|The Snackers logo.]]
+![[File/SnackersLogo.gif|The Snackers logo.]]
 ### Videos
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of their 8/27/08 show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/10114708) of their 4/9/09 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
@@ -107,16 +107,16 @@ After an initial run that performed the Living Room format, the troupe performed
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.164960802264.141040.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/27/09 performance of "The Snackers Club" at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/7/10 show in *[[Shows/The Spectacle|The Spectacle]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1342686139102.2041082.1589679282&type=3) by [[Roy Moore]] that includes their 8/28/10 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
-	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.482835317264.261188.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
+  * [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.482835317264.261188.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346859923444.2043492.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 performance in [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.481887097264.251803.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
+  * [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.481887097264.251803.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/19/10 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 2/11/11 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.1035268833203299.1073742249.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/15 reunion show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## Promos
 * Promo for ["The Snackers Club"](http://vimeo.com/9898672).
-	* [Slightly revamped promo](http://vimeo.com/14061609) for their 8/28/10 show.
+  * [Slightly revamped promo](http://vimeo.com/14061609) for their 8/28/10 show.
 
 ## More Information
 * [The troupe's web site.](http://www.snackersimprov.com/)

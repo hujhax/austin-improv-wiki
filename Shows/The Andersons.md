@@ -8,7 +8,7 @@ description: "|Theater = The Hideout Theatre."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Andersons.jpg ‎.md.md.md"><img src="File/File-The%20Andersons.jpg%20‎.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Andersons.jpg ‎.md.md"><img src="File/File-The%20Andersons.jpg%20‎.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -109,9 +109,9 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * [A photoset of the 5/15/10 show](http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]], and [a selfie of his costume](http://www.facebook.com/hujhax/media_set?set=a.447241452264.218625.588952264&type=3).
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/5/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3) by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[Theatres/The Highball|The Highball]].
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1344776671364.2041272.1589679282&type=3) by [[Roy Moore]] that includes their 8/29/10 performance at "50s Night" at [[Theatres/The Highball|The Highball]].
-	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] of the same performance.
+  * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] of the same performance.
 * [A photoset of the 8/29/10 show](http://www.facebook.com/media/set/?set=a.1344776671364.2041272.1589679282&type=3)  by [[Roy Moore]]
 * [A photoset of the 12/18/10 show](http://www.facebook.com/media/set/?set=a.1633431608865.84097.1628915954&type=3) by [[Performers/Deano Jones|Deano Jones]].
 

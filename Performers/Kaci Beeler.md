@@ -9,7 +9,7 @@ image: "File/Kaci%20Beeler.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Kaci Beeler.jpg.md.md.md"><img src="File/File-Kaci%20Beeler.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Kaci Beeler.jpg.md.md"><img src="File/File-Kaci%20Beeler.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -128,9 +128,9 @@ A post from her about the first improv show she ever saw:
 * Interviews by [[Performers/Andrew Buck|Andrew Buck]]: [1](http://yesandrew.com/the-sunday-interview-kaci-beeler/), [2](http://yesandrew.com/sunday-interview-kaci-beeler/).
 * [A post of audition tips](http://www.hideouttheatre.com/improv-audition-techniques-and-tips) from the Hideout blog.
 * Posts by Kaci about her design work for the Hideout:
-	* [An 11/13/09 post about design work.](http://www.hideouttheatre.com/design-director-tells-all-about-design-stuff)
-	* [A post recapping her 2010 mainstage set designs.](http://www.hideouttheatre.com/journey-through-the-2010-set-designs)
-	* [A 2011 post abou set-design work.](http://www.hideouttheatre.com/layer-upon-layer-of-paint-the-hideout-theatre-set-designs)
+  * [An 11/13/09 post about design work.](http://www.hideouttheatre.com/design-director-tells-all-about-design-stuff)
+  * [A post recapping her 2010 mainstage set designs.](http://www.hideouttheatre.com/journey-through-the-2010-set-designs)
+  * [A 2011 post abou set-design work.](http://www.hideouttheatre.com/layer-upon-layer-of-paint-the-hideout-theatre-set-designs)
 
 [[Category/Performers|Beeler]]
 [[Category/Directors|Beeler]]

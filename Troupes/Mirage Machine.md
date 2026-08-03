@@ -9,7 +9,7 @@ image: "File/MMSquare.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-MMSquare.png.md.md.md"><img src="File/File-MMSquare.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-MMSquare.png.md.md"><img src="File/File-MMSquare.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 ## Media
 ### Photoset
 * [Photoset](http://www.facebook.com/media/set/?set=a.1040224402707742.1073742260.221927764537414&type=3) by [[Steve Rogers]] that includes their 9/14/15 performance at *The Knockout*.
-	* [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the same show.
+  * [Another photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208061203674296.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] of the same show.
 
 ## More Information
 * [The troupe's web site.](http://www.miragemachineimprov.com/)

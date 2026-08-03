@@ -9,7 +9,7 @@ image: "File/Cochise%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Cochise Poster.jpg.md.md.md"><img src="File/File-Cochise%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Cochise Poster.jpg.md.md"><img src="File/File-Cochise%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -216,7 +216,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [[Performers/Mike Kinald|Mike Kinald]]
 
 #### Student Mainstage Run
-![[File/Cochise2014.jpg.md|Poster for the student-mainstage run of *Cochise*.]]
+![[File/Cochise2014.jpg|Poster for the student-mainstage run of *Cochise*.]]
 * Barrett Phelan
 * Emma Czarnecki
 * Ericka Bundy
@@ -233,7 +233,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * January 31st, 2009 at 10:15pm
 
 ## Media
-![[File/Cochise Performance.jpg.md|A performance of *Cochise*.]]
+![[File/Cochise Performance.jpg|A performance of *Cochise*.]]
 ### Photos
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620623735851) by [[Michael Yew]] of their appearance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.746912335372285.1073742015.221927764537414&type=3) by [[Steve Rogers]] of the 6/7/14 show.
@@ -241,7 +241,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 
 ### Videos
 * [Video of the premiere performance of *Cochise*](http://www.youtube.com/watch?v=gHYDvzQKeoM) at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
-	* [Another video](http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040) of the same show.
+  * [Another video](http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040) of the same show.
 * [Video of the first performance of the first run: "Bad Santa".](http://youtu.be/04yQnI0n7rg)
 * [Video of the second performance of the first run: "Something Smells at the Docks".](http://www.youtube.com/watch?v=b6IpnJBVM34)
 * [Video of the third performance of the first run.](http://www.youtube.com/watch?v=VH9K1iQfmt4)

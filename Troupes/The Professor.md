@@ -9,7 +9,7 @@ image: "File/The%20Professor.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Professor.jpg.md.md.md"><img src="File/File-The%20Professor.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The Professor.jpg.md.md"><img src="File/File-The%20Professor.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -151,7 +151,7 @@ At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as d
 
 ## Casts
 ### "Season Zero"
-![[File/The First Professor.jpg.md|[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor.]]
+![[File/The First Professor.jpg|[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor.]]
 The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] as the First Professor.
 
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
@@ -163,8 +163,8 @@ The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jo
 ([[Performers/Emily Breedlove|Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
 
 ### Season One
-![[File/The Second Professor.jpg.md|[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor.]]
-![[File/The Third Professor.jpg.md|[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor.]]
+![[File/The Second Professor.jpg|[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor.]]
+![[File/The Third Professor.jpg|[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor.]]
 The first run of shows, from October to November of 2011, featured [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] and [[Performers/Andrew Pish|Andrew Pish]] as the Second and Third Professors.
 
 * [[Performers/Clay Towery|Clay Towery]]
@@ -177,8 +177,8 @@ The first run of shows, from October to November of 2011, featured [[Performers/
 * [[Performers/Quinn Buckner|Quinn Buckner]]
 
 ### Season Two
-![[File/The Fourth Professor.jpg.md|[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor.]]
-![[File/The Fifth Professor.jpg.md|[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor.]]
+![[File/The Fourth Professor.jpg|[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor.]]
+![[File/The Fifth Professor.jpg|[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor.]]
 The second run of shows, from March to April of 2012, introduced [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] as the Fourth and Fifth Professors, with [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Performers/Clay Towery|Clay Towery]]
@@ -209,7 +209,7 @@ The run featured tech by [[Michael Yew]].
 ### Videos
 * [Video](http://www.viddler.com/v/904c9778) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of their 10/7/11 performance (1x01: "Caddywhompus").
 * [Video](http://www.viddler.com/v/cc8889b1) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of their 10/14/11 performance (1x02: "The Charm of Rune").
-	* [Video of the regeneration scene](http://www.viddler.com/v/d82d5bf6) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]].
+  * [Video of the regeneration scene](http://www.viddler.com/v/d82d5bf6) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]].
 * [Video](http://www.viddler.com/v/44c548e3) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of their 10/21/11 performance (1x03: "The Price of Periwinkles").
 * [Video](http://www.viddler.com/v/66a1d12f) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 10/28/11 performance (1x04: "Are We Off-World Yet?").
 * [Video](http://www.viddler.com/v/6eeff981) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 11/4/11 performance (1x05: "The Shapes We Draw").
@@ -230,18 +230,18 @@ The run featured tech by [[Michael Yew]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 6/23/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.207529659315721.49434.118587218209966&type=3) by [[Roy Moore]] of their 10/14/11 performance (1x02: "The Charm of Rune").
 * [Photoset](http://www.facebook.com/media/set/?set=a.211122242289796.50272.118587218209966&type=3) by [[Roy Moore]] of their 10/21/11 performance (1x03: "The Price of Periwinkles").
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3) by [[Michael Yew]] that includes the performance.
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3) by [[Michael Yew]] that includes the performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.216700898398597.51775.118587218209966&type=3) by [[Roy Moore]] of the 11/4/11 performance (1x05: "The Shapes We Draw").
 * [Photoset](http://www.facebook.com/media/set/?set=a.220876431314377.52600.118587218209966&type=3) by [[Roy Moore]] of the 11/11/11 performance (1x06: "Dinner for One").
 * [Photoset](http://www.facebook.com/media/set/?set=a.229603903774963.53941.118587218209966&type=3) by [[Roy Moore]] of the 11/18/11 performance (1x07: "The Animal Within").
 * [Photoset](http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3) by [[Roy Moore]] of the 3/30/12 performance ("My Way").
-	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3) by [[Michael Yew]] of the same show.
+  * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/20/12 performance in *[[Shows/The TV Set|The TV Set]]*.
 * [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Photoset](http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1) by [[Michael Yew]] of the 1/18/13 performance at [[Shows/The TV Set|The TV Set]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3) by [[Roy Moore]] that includes the 8/28/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-	* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
+  * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103530127338390.1073741838.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200918291262280.1073741869.1315383518&type=3) by [[Michael Yew]] from backstage at the 11/23/13 show, which included a Austin-made T.A.R.D.I.S.
 
 ### Publicity

@@ -9,7 +9,7 @@ image: "File/There%27s%20Waldo.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-There's Waldo.jpg.md.md.md"><img src="File/File-There's%20Waldo.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-There's Waldo.jpg.md.md"><img src="File/File-There's%20Waldo.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -94,8 +94,8 @@ The troupe played their last show at [[Festivals/The 2013 Out of Bounds Comedy F
 ## Media
 ### Videos
 * Sketch videos: ["Joke Swan"](http://youtu.be/bRX6cPWD2n8), ["Club Elevator"](http://youtu.be/8qai3yklJ5w), ["Rick Perry - War on Christmas"](http://youtu.be/dKpnFyyw_no), ["We're Just Like You"](http://youtu.be/1jwani4l1JI), ["5 Hour Meth"](http://youtu.be/xhH9h29gW9I), , ["Remember the Gap?"](http://youtu.be/-hFb1fOh1g8), ["BOM."](http://youtu.be/RFPKHK9rnzU)
-	* From the "Treats'n'Eats" series: ["Holiday Treats'n'Eats"](http://youtu.be/XpvT3DM3kZY), ["Valentine's Day Edition"](http://youtu.be/x0fgBy0hcwk)
-	* From the "Urrca Tellor Shuh" series: ["Uscar Pics"](http://youtu.be/jdys2GEx0CU), ["SXSW"](http://youtu.be/UZ-oO-ojXq0)
+  * From the "Treats'n'Eats" series: ["Holiday Treats'n'Eats"](http://youtu.be/XpvT3DM3kZY), ["Valentine's Day Edition"](http://youtu.be/x0fgBy0hcwk)
+  * From the "Urrca Tellor Shuh" series: ["Uscar Pics"](http://youtu.be/jdys2GEx0CU), ["SXSW"](http://youtu.be/UZ-oO-ojXq0)
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2069524260458.99258.1315383518&type=3) by [[Michael Yew]] that includes thir 10/21/11 "Jerkholes" performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.217348495000504.51936.118587218209966&type=3) by [[Roy Moore]] of their 11/4/11 "Jerkholes" performance at [[Theatres/The Institution Theater|The Institution Theater]].

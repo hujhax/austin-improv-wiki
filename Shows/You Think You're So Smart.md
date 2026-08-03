@@ -9,7 +9,7 @@ image: "File/You%20Think%20You%27re%20So%20Smart%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-You Think You're So Smart Poster.jpg.md.md.md"><img src="File/File-You%20Think%20You're%20So%20Smart%20Poster.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-You Think You're So Smart Poster.jpg.md.md"><img src="File/File-You%20Think%20You're%20So%20Smart%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -98,30 +98,30 @@ Recurring features include the "Ranter's Corner", where a guest speaker delivers
 The show initially ran Fridays at 8pm at [[Theatres/The Institution Theater|The Institution Theater]] during September 2013:
 
 * 9/6/13: "Spacing Out" (the cosmos)
-	* Cast: [[Performers/Valerie Ward|Valerie Ward]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]]
-	* Guests: Mary Jo Pehl, [[Performers/Kareem Badr|Kareem Badr]]
-	* Guest Ranter: [[Performers/Andrew Buck|Andrew Buck]]
+  * Cast: [[Performers/Valerie Ward|Valerie Ward]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]]
+  * Guests: Mary Jo Pehl, [[Performers/Kareem Badr|Kareem Badr]]
+  * Guest Ranter: [[Performers/Andrew Buck|Andrew Buck]]
 
 * 9/13/13: "The Devil's Tongue" (the English language)
-	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Valerie Ward|Valerie Ward]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
-	* Guest: Robert Faires
-	* Guest Ranter: Maggie Maye
+  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Valerie Ward|Valerie Ward]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
+  * Guest: Robert Faires
+  * Guest Ranter: Maggie Maye
 
 * 9/20/13: "Political Relations" (odd political connections and scenarios)
-	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]]
-	* Guests: Suzy Spencer, [[Performers/Tom Booker|Tom Booker]]
-	* Guest Ranter: [[Performers/Asaf Ronen|Asaf Ronen]]
+  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]]
+  * Guests: Suzy Spencer, [[Performers/Tom Booker|Tom Booker]]
+  * Guest Ranter: [[Performers/Asaf Ronen|Asaf Ronen]]
 
 * 9/27/13: "Not-So-Great Expectations" (one-hit wonders, failed ideas, and surprising/accidental successes)
-	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
-	* Guests: Robert Faires
-	* Guest Ranter: [[Performers/Brett Tribe|Brett Tribe]]
+  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
+  * Guests: Robert Faires
+  * Guest Ranter: [[Performers/Brett Tribe|Brett Tribe]]
 
 ### Subsequent Run
 The show was revived for shows on 7/25/14 and 8/22/14 at [[Theatres/The Hideout Theatre|The Hideout Theatre]] as a temporary part of *[[Shows/The Wheel|The Wheel]]*.
 
 * 7/25/14: "You Think You're So In Love" (courtship in different societies, animal mating rituals, and romantic and sexual art)
-	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], Mary Jo Pehl, [[Performers/Peter Rogers|Peter Rogers]]
+  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], Mary Jo Pehl, [[Performers/Peter Rogers|Peter Rogers]]
 
 ## Media
 ### Videos

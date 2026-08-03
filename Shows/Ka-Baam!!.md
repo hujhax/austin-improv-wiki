@@ -9,7 +9,7 @@ image: "File/Ka-Baam%21%21%20Logo.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Ka-Baam!! Logo.png.md.md.md"><img src="File/File-Ka-Baam!!%20Logo.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Ka-Baam!! Logo.png.md.md"><img src="File/File-Ka-Baam!!%20Logo.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -92,7 +92,7 @@ It was based on the Golden Age of superhero comics.
 
 ## Summary
 ### Show Structure
-![[File/Ka-Baam!! Audience Winner.jpg.md|After every performance, one lucky audience member would win the show's cover art.]]
+![[File/Ka-Baam!! Audience Winner.jpg|After every performance, one lucky audience member would win the show's cover art.]]
 The show would begin with origin stories for three different heroes, which were based on audience suggestions.  Meanwhile, a comics artist (often Kristin Hogan) would draw the cover art for an adventure for those heroes.  They would improvise a half-hour narrative superhero story based on that cover art, and one lucky audience member would receive the cover art as a prize.
 
 Throughout the show, director [[Performers/Asaf Ronen|Asaf Ronen]] served as the narrator, occasionally providing interstitials which introduced advertisements or responded to viewer mail.
@@ -122,7 +122,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Performers/Roy Janik|Roy Janik]]
 
 ### 2009 Cast
-![[File/Ka-Baam!! Promo.jpg.md|A promotional photo of *Ka-Baam!!*, with ninjas.]]
+![[File/Ka-Baam!! Promo.jpg|A promotional photo of *Ka-Baam!!*, with ninjas.]]
 * [[Performers/Aden Kirschner|Aden Kirschner]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
@@ -139,55 +139,55 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 ### Heroes & Villains
 #### 2008 Run
 * 5/3/08
-	* [[Performers/Jason Vines|Jason Vines]] as Man Bear Pig
-	* [[Performers/Kacey Samiee|Kacey Samiee]] as Mistress Madness
-	* [[Performers/Michael Thomas|Michael Thomas]] as Mariachi Man
+  * [[Performers/Jason Vines|Jason Vines]] as Man Bear Pig
+  * [[Performers/Kacey Samiee|Kacey Samiee]] as Mistress Madness
+  * [[Performers/Michael Thomas|Michael Thomas]] as Mariachi Man
 * 5/10/08
-	* [[Performers/Kaci Beeler|Kaci Beeler]] as Dr. Steam
-	* Erik Adams as Big Wet Hero
-	* [[Performers/Jason Vines|Jason Vines]] as Captain Accomodator
+  * [[Performers/Kaci Beeler|Kaci Beeler]] as Dr. Steam
+  * Erik Adams as Big Wet Hero
+  * [[Performers/Jason Vines|Jason Vines]] as Captain Accomodator
 * 5/17/08
-	* [[Performers/Michael Thomas|Michael Thomas]] as Inflatable Man
-	* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Jane the Unremarkable
-	* [[Performers/Roy Janik|Roy Janik]] as The Exciting Elemental
+  * [[Performers/Michael Thomas|Michael Thomas]] as Inflatable Man
+  * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Jane the Unremarkable
+  * [[Performers/Roy Janik|Roy Janik]] as The Exciting Elemental
 * 5/24/08
-	* [[Performers/Michael Thomas|Michael Thomas]] as Anteater Man
-	* Erik Adams as Captain Giggles
-	* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Sargent Shortbread
+  * [[Performers/Michael Thomas|Michael Thomas]] as Anteater Man
+  * Erik Adams as Captain Giggles
+  * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Sargent Shortbread
 
 #### 2009 Run
 * 9/11/09
-	* [[Performers/Troy Miller|Troy Miller]] as Mr. No Depth Perception Guy
-	* [[Performers/Michael Thomas|Michael Thomas]] as Cricket the Clairvoyant Kitty Cat
-	* Erik Adams as Austin Music Scene Kid
-	* [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]] as Black Fungus Guy [villain]
+  * [[Performers/Troy Miller|Troy Miller]] as Mr. No Depth Perception Guy
+  * [[Performers/Michael Thomas|Michael Thomas]] as Cricket the Clairvoyant Kitty Cat
+  * Erik Adams as Austin Music Scene Kid
+  * [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]] as Black Fungus Guy [villain]
 * 9/12/09
-	* [[Performers/Eric Heiberg|Eric Heiberg]] as Mr. Buckets
-	* [[Performers/Aden Kirschner|Aden Kirschner]] as the The Pigtail Player
-	* [[Performers/Sarah Marie Curry|Sarah Marie Curry]] as Blanket Woman.
-	* [[Performers/Jason Vines|Jason Vines]] as The Chatty Mime [villain]
+  * [[Performers/Eric Heiberg|Eric Heiberg]] as Mr. Buckets
+  * [[Performers/Aden Kirschner|Aden Kirschner]] as the The Pigtail Player
+  * [[Performers/Sarah Marie Curry|Sarah Marie Curry]] as Blanket Woman.
+  * [[Performers/Jason Vines|Jason Vines]] as The Chatty Mime [villain]
 * 9/18/09
-	* [[Performers/Eric Heiberg|Eric Heiberg]] as Recyclotron
-	* [[Performers/Sarah Marie Curry|Sarah Marie Curry]] as Jazz Hands!
-	* Erik Adams as Catch Man
-	* [[Performers/Jason Vines|Jason Vines]] as Spaceclaw [villain]
+  * [[Performers/Eric Heiberg|Eric Heiberg]] as Recyclotron
+  * [[Performers/Sarah Marie Curry|Sarah Marie Curry]] as Jazz Hands!
+  * Erik Adams as Catch Man
+  * [[Performers/Jason Vines|Jason Vines]] as Spaceclaw [villain]
 * 9/19/09
-	* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Brick Woman
-	* [[Performers/Marc Majcher|Marc Majcher]] as Diabetes Boy
-	* [[Performers/Justin Davis|Justin Davis]] as Spam-Man
-	* [[Performers/Troy Miller|Troy Miller]] as The Contortionist Alien [villain]
+  * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Brick Woman
+  * [[Performers/Marc Majcher|Marc Majcher]] as Diabetes Boy
+  * [[Performers/Justin Davis|Justin Davis]] as Spam-Man
+  * [[Performers/Troy Miller|Troy Miller]] as The Contortionist Alien [villain]
 * 9/25/09
-	* [[Performers/Eric Heiberg|Eric Heiberg]] as Improv Dwarf
-	* [[Performers/Michael Thomas|Michael Thomas]] as Epicurean King
-	* [[Performers/Aden Kirschner|Aden Kirschner]] as the Swirling Vortex of Emotional Need (a.k.a. "SVEN").
-	* [[Performers/Kacey Samiee|Kacey Samiee]] as Almost Tree [villain]
+  * [[Performers/Eric Heiberg|Eric Heiberg]] as Improv Dwarf
+  * [[Performers/Michael Thomas|Michael Thomas]] as Epicurean King
+  * [[Performers/Aden Kirschner|Aden Kirschner]] as the Swirling Vortex of Emotional Need (a.k.a. "SVEN").
+  * [[Performers/Kacey Samiee|Kacey Samiee]] as Almost Tree [villain]
 * 10/2/09
-	* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Super Zoo Keeper
-	* [[Performers/Marc Majcher|Marc Majcher]] as Dr. Hijinx
-	* [[Performers/Jason Vines|Jason Vines]] as Captain Jelly Belly
+  * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Super Zoo Keeper
+  * [[Performers/Marc Majcher|Marc Majcher]] as Dr. Hijinx
+  * [[Performers/Jason Vines|Jason Vines]] as Captain Jelly Belly
 
 ### Guest Artists
-![[File/Ka-Baam!! Cover Art.jpg.md|Cover art from *Ka-Baam!!* by Andrew Augustine.]]
+![[File/Ka-Baam!! Cover Art.jpg|Cover art from *Ka-Baam!!* by Andrew Augustine.]]
 #### 2008 Run
 * 5/3/08:  Thomas Reidy
 * 5/10/08:  Rob Osborne

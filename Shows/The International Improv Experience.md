@@ -9,7 +9,7 @@ image: "File/The%20International%20Improv%20Experience.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The International Improv Experience.jpg.md.md.md"><img src="File/File-The%20International%20Improv%20Experience.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-The International Improv Experience.jpg.md.md"><img src="File/File-The%20International%20Improv%20Experience.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -172,7 +172,7 @@ The set design included a number of wooden boxes (and other shapes), which the c
 ## Media
 ### Videos
 * [Video](http://vimeo.com/100664265) of the 7/5/14 show, with embedded clips.
-	* ["Live" video](http://youtu.be/b5rFoMr0KFY) by [[Performers/Warren Henderson|Warren Henderson]] of the same show.
+  * ["Live" video](http://youtu.be/b5rFoMr0KFY) by [[Performers/Warren Henderson|Warren Henderson]] of the same show.
 * [Video](http://youtu.be/5-wu3sVFlL8) by [[Performers/Warren Henderson|Warren Henderson]] of the 7/12/14 show.
 * [Video](http://youtu.be/YlF80K9BtE4) by [[Performers/Warren Henderson|Warren Henderson]] of the 7/26/14 show.
 * [Video](http://youtu.be/-JBZk_zihgQ) by [[Performers/Warren Henderson|Warren Henderson]] of the 8/9/14 show.

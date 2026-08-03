@@ -9,7 +9,7 @@ image: "File/You%20Bet%20Your%20Life.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-You Bet Your Life.jpg.md.md.md"><img src="File/File-You%20Bet%20Your%20Life.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-You Bet Your Life.jpg.md.md"><img src="File/File-You%20Bet%20Your%20Life.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

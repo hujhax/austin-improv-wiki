@@ -9,7 +9,7 @@ image: "File/Your%20Terrific%20Neighbors.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Your Terrific Neighbors.jpg.md.md.md"><img src="File/File-Your%20Terrific%20Neighbors.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Your Terrific Neighbors.jpg.md.md"><img src="File/File-Your%20Terrific%20Neighbors.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -102,13 +102,13 @@ The troupe participated in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour I
 * [A photoset](http://www.facebook.com/media/set/?set=a.1299236843754.36635.1315383518&type=1) by [[Michael Yew]] that includes their 6/6/10 performance.
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150256360325324.488218.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] that includes their 9/1/10 performance in [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.479155366923.261825.106747986923&type=1) by [[Performers/Stephanie Hagemeister|Stephanie Hagemeister]] of their 11/19/10 performance in [[Festivals/Wafflefest|Wafflefest]].
-	* [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.10150109005422265.302244.588952264&type=3) of the show by [[Performers/Peter Rogers|Peter Rogers]].
+  * [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.10150109005422265.302244.588952264&type=3) of the show by [[Performers/Peter Rogers|Peter Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/6/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes a 2/6/11 performance.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.110047785742920.19028.100002130980897&type=3) by [[Steve Rogers]] of their 3/11/11 show.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.126797817401250.32892.100002130980897&type=3) by [[Steve Rogers]] that includes their 5/28/11 show at Austin Sketch Fest.
-	* [A photoset](http://www.facebook.com/media/set/?set=a.10151003285993086.481280.509318085&type=1) by Arian Bumby that includes the same show.
-	* [A photoset](http://www.facebook.com/media/set/?set=a.126797817401250.32892.100002130980897&type=1) by [[Steve Rogers]] that includes the same show.
+  * [A photoset](http://www.facebook.com/media/set/?set=a.10151003285993086.481280.509318085&type=1) by Arian Bumby that includes the same show.
+  * [A photoset](http://www.facebook.com/media/set/?set=a.126797817401250.32892.100002130980897&type=1) by [[Steve Rogers]] that includes the same show.
 * [A photoset](http://www.facebook.com/media/set/?set=a.164587043622327.43580.100002130980897&type=1) by [[Steve Rogers]] that includes their performance in [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]], on 9/3/11.
 * [A photoset](http://www.facebook.com/media/set/?set=a.370876979642491.89035.221927764537414&type=1) by [[Steve Rogers]] of their performance in the 2012 Austin Sketchfest.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3) by [[Michael Yew]] that includes their 6/24/12 performance.

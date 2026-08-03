@@ -9,7 +9,7 @@ image: "File/Journey%20to%20the%20Big%20Water.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Journey to the Big Water.jpg.md.md.md"><img src="File/File-Journey%20to%20the%20Big%20Water.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Journey to the Big Water.jpg.md.md"><img src="File/File-Journey%20to%20the%20Big%20Water.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -120,7 +120,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 * Video of their fourth show (1/6/11): [1](http://youtu.be/9KKwdWcMfbE), [2](http://youtu.be/wVP66OwrLoo), [3](http://youtu.be/EDoQiAkKuW8).
 * Video of their fifth show (1/13/11): [1](http://youtu.be/zEj-wUe4rrc), [2](http://youtu.be/K6_qQXivXoQ)
 * [Video of their sixth show (1/19/11).](http://www.youtube.com/watch?v=HyHgSUg6EqU)
-	* [Another partial video of the same show.](http://youtu.be/HyHgSUg6EqU)
+  * [Another partial video of the same show.](http://youtu.be/HyHgSUg6EqU)
 
 ### Publicity
 * [Troupe promo.](http://youtu.be/Tre4FYcYVBI)

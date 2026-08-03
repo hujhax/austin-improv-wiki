@@ -9,7 +9,7 @@ image: "File/Teenage%20Wasteland.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Teenage Wasteland.jpg.md.md.md"><img src="File/File-Teenage%20Wasteland.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Teenage Wasteland.jpg.md.md"><img src="File/File-Teenage%20Wasteland.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

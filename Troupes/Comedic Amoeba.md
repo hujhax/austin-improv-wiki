@@ -9,7 +9,7 @@ image: "File/Comedic%20Amoeba.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Comedic Amoeba.jpg.md.md.md"><img src="File/File-Comedic%20Amoeba.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Comedic Amoeba.jpg.md.md"><img src="File/File-Comedic%20Amoeba.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

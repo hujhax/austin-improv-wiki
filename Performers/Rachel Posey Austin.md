@@ -10,7 +10,7 @@ image: "File/Rachel%20Posey%20Austin.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Rachel Posey Austin.jpg.md.md.md"><img src="File/File-Rachel%20Posey%20Austin.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Rachel Posey Austin.jpg.md.md"><img src="File/File-Rachel%20Posey%20Austin.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -62,17 +62,17 @@ For a complete list of her performances, check out her performance calendar [htt
 
 ## Festivals
 * Out of Bounds 2017 (Austin, TX)
-	* With [[Troupes/Physics Curse|Physics Curse]]
+  * With [[Troupes/Physics Curse|Physics Curse]]
 * Alaska Improv Festival 2017 (Juneau, Alaska)
-	* With [[Troupes/Physics Curse|Physics Curse]]
+  * With [[Troupes/Physics Curse|Physics Curse]]
 * Improvised Play Festival(Austin, TX)
-	* With [[Troupes/Physics Curse|Physics Curse]]
+  * With [[Troupes/Physics Curse|Physics Curse]]
 * Waffle Fest (Austin, TX)
-	* With [[Troupes/Physics Curse|Physics Curse]]
+  * With [[Troupes/Physics Curse|Physics Curse]]
 * Out of Bounds 2016 (Austin, TX)
-	* With [[Troupes/Physics Curse|Physics Curse]]
+  * With [[Troupes/Physics Curse|Physics Curse]]
 * Chicago Improv Festival 2016 (Chicago, IL)
-	* With [[Troupes/Physics Curse|Physics Curse]]
+  * With [[Troupes/Physics Curse|Physics Curse]]
 
 [[Category/Performers|Austin]]
 [[Category/Techs|Austin]]

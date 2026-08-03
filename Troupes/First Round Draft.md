@@ -9,7 +9,7 @@ image: "File/First%20Round%20Draft.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-First Round Draft.png.md.md.md"><img src="File/File-First%20Round%20Draft.png.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-First Round Draft.png.md.md"><img src="File/File-First%20Round%20Draft.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

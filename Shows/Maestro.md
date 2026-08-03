@@ -9,7 +9,7 @@ image: "File/Default%20Maestro%20Image.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Default Maestro Image.jpg.md.md.md"><img src="File/File-Default%20Maestro%20Image.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Default Maestro Image.jpg.md.md"><img src="File/File-Default%20Maestro%20Image.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -167,7 +167,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 9/12/09 show.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100134803793990.2808265.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 10/19/09 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3) by [[Roy Moore]] of the 10/31/09 "Celebrity Maestro".
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
+  * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242762607264.168277.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/12/09 Maestro.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3) by [[Roy Moore]] of the 12/19/09 Maestro.
 
@@ -176,18 +176,18 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3) by [[Roy Moore]] of the 1/9/10 Maestro.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.300456707264.179794.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/16/10 Maestro (which included special guest Keith Johnstone).
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1199698684505.2025888.1589679282&type=3) by [[Roy Moore]] of the 3/6/10 Maestro.
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183544532160.2849456.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
+  * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183544532160.2849456.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1216743030603.2027415.1589679282&type=3) by [[Roy Moore]] of the 3/27/10 Maestro.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100205308766460.2867895.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 4/17/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] which includes the 5/29/10 Maestro.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes the 6/5/10 Maestro from [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100427938659370.3109252.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 8/28/10 show.
 * [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157624879000746/) by Nadine Latief of the 9/3/10 All-Star Maestro at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-	* [Another photoset](http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3) by [[Roy Moore]] of the same show.
+  * [Another photoset](http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3) by [[Roy Moore]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1365397666876.2051363.1589679282&type=3) by [[Roy Moore]] of the 9/18/10 Maestro.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100397893450210.3089568.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 11/13/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] which includes the 11/27/10 Maestro.
-	* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100417660501880.3101372.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
+  * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100417660501880.3101372.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 
 #### 2011
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198563102265.346711.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/1/11 Maestro.

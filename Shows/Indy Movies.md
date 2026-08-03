@@ -9,7 +9,7 @@ image: "File/Indy%20Movies.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Indy Movies.jpg.md.md.md"><img src="File/File-Indy%20Movies.jpg.md.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/File-Indy Movies.jpg.md.md"><img src="File/File-Indy%20Movies.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -102,8 +102,8 @@ The show included stage-blood effects and fight choreography.
 
 ### Other
 * Rehearsals: 
-	* ["Beats only" rehearsal.](http://vimeo.com/71272460)
-	* [Dress rehearsal.](http://vimeo.com/71273583)
+  * ["Beats only" rehearsal.](http://vimeo.com/71272460)
+  * [Dress rehearsal.](http://vimeo.com/71273583)
 * [Show promo.](http://vimeo.com/71849739)
 
 ## More Information
