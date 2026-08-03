@@ -7,3 +7,4 @@ description: "One of several Improv theaters hosting shows during Austin's Impro
 [An Austin Chronicle write-up](http://www.austinchronicle.com/arts/2000-08-04/78072/) that includes some history of the theater.
 
 *This article is a stub. You can help the Austin Improv Wiki by editing it.*
+Category:Theatres

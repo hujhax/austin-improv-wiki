@@ -9,6 +9,7 @@ description: "Pages in category \"Theatres\"."
 * [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]
 * [[Theatres/Merlin Works Institute for Improvisation|Merlin Works Institute for Improvisation]]
 * [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]
+* [[Theatres/The Bad Dog Comedy Theater|The Bad Dog Comedy Theater]]
 * [[Theatres/The Comedy Workshop|The Comedy Workshop]]
 * [[Theatres/The Hideout Theatre|The Hideout Theatre]]
 * [[Theatres/The Highball|The Highball]]
