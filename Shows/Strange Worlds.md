@@ -177,7 +177,7 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 * Episode 3 (3/23/13):
   * [[Shows/Strange Worlds Episodes/Jack Ryder and the Temples of Neptune|Jack Ryder and the Temples of Neptune]]
   * [[Shows/Strange Worlds Episodes/Strange Times -  The Trident|Strange Times -  The Trident]]
-  * [[The Peregrine and the Web of Youth]]
+  * [[Shows/Strange Worlds Episodes/The Peregrine and the Web of Youth|The Peregrine and the Web of Youth]]
 * Episode 4 (3/30/13):
   * [[Shows/Strange Worlds Episodes/Lily Wilde Versus the Ravenous Cats|Lily Wilde Versus the Ravenous Cats]]
   * [[Shows/Strange Worlds Episodes/Strange Times -  The Tattoo|Strange Times -  The Tattoo]]
