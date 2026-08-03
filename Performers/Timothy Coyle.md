@@ -33,8 +33,8 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 
 ## Directing
 [[Theatres/The Hideout Theatre|The Hideout Theatre]]
-* [[WaffleFest Volunteer Appreciation Show - Improv Derby]] 2016
-* [[Hideout Student Battle Royale]] January 2016, May 2016, September 2016, January 2017
+* WaffleFest Volunteer Appreciation Show / Improv Derby 2016
+* Hideout Student Battle Royale January 2016, May 2016, September 2016, January 2017
 
 ## Various Workshops With
 * [[Performers/Andy Crouch|Andy Crouch]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]] 
@@ -55,7 +55,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * [[Performers/Kareem Badr|Kareem Badr]] at [[Theatres/Hideout Theatre|Hideout Theatre]] – Shut the F#@k Up
 * [[Performers/Kacey Samiee|Kacey Samiee]] at [[Theatres/Hideout Theatre|Hideout Theatre]] – Stage Presence
 * [[Performers/Andy Crouch|Andy Crouch]] at [[Theatres/Hideout Theatre|Hideout Theatre]] – Second Show
-* [[Margaret Hunsicker]] at [[Theatres/Hideout Theatre|Hideout Theatre]] – Voice and Projection
+* Margaret Hunsicker at [[Theatres/Hideout Theatre|Hideout Theatre]] – Voice and Projection
 * [[Performers/Katie Dahm|Katie Dahm]] at [[Theatres/Hideout Theatre|Hideout Theatre]] – Movement
 
 ## Coach/Mentors
@@ -70,7 +70,7 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 
 ## Troupes / Duo
 * [[Troupes/Character Explosion|Character Explosion]] (2014-2016)
-* [[Troupes/You Bet Your Life|You Bet Your Life]] improvised quiz show based off [[Wikipedia - You Bet Your Life|*You Bet Your Life hosted by Groucho Marx*]]. (2015-2016)
+* [[Troupes/You Bet Your Life|You Bet Your Life]] improvised quiz show based off *You Bet Your Life hosted by Groucho Marx*. (2015-2016)
 
 ## Instructor
 * [[Building Connections]] classes for homeless youth (2015-Current)
@@ -85,36 +85,36 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * *[[Shows/2x4|2x4]]* 2015-Current
 * *[[Shows/Fancy Pants|Fancy Pants]]* 2015-Current
 * *[[Shows/Maestro|Maestro]]* 2015-Current
-* *[[Hideout Student Battle Royale]]* performer - 2015 / director - 2016
+* *Hideout Student Battle Royale* performer - 2015 / director - 2016
 
 
 [[Theatres/Coldtowne Theater|Coldtowne Theater]]
 * [[Shows/The Monday Night Mash|The Monday Night Mash]] 2015 - current
 * [[Shows/The Cagematch|The Cagematch]] 2015 - current
-* [[Improv Fantasy League]] 2016 - current
+* Improv Fantasy League 2016 - current
 
 
 [[Theatres/The Institution Theater|The Institution Theater]]
-* [[The Improv Mixtape]] 2015 
-* [[Tightrope]] 2016 - current
+* The Improv Mixtape 2015 
+* Tightrope 2016 - current
 
 
 [[Theatres/The New Movement|The New Movement]]
-* [[KNOCK-OUT]] 2015 - current
+* KNOCK-OUT 2015 - current
 
 ## Free Fringes
-* *[[All Stars and Me]]* Produced by ([[Performers/Tim Coyle|Tim Coyle]])
-* *[[Ceej Character Explosion]]* Produced by ([[Performers/Ceej Allen|Ceej Allen]])
-* *[[Hug Day]]* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
-* *[[PLANK-A-THON!]]* Produced by ([[Performers/Joy Parks|Joy Parks]]) 
-* *[[Hideout Action News Team]]* Produced by ([[Performers/Sushant Sethi|Sushant Sethi]]) 
-* *[[Take me out to the Ballgame]]* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
-* *[[Tim In A Cup]]* Produced by ([[Angie Alegria Smith]])
+* *All Stars and Me* Produced by ([[Performers/Tim Coyle|Tim Coyle]])
+* *Ceej Character Explosion* Produced by ([[Performers/Ceej Allen|Ceej Allen]])
+* *Hug Day* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
+* *PLANK-A-THON!* Produced by ([[Performers/Joy Parks|Joy Parks]]) 
+* *Hideout Action News Team* Produced by ([[Performers/Sushant Sethi|Sushant Sethi]]) 
+* *Take me out to the Ballgame* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
+* *Tim In A Cup* Produced by (Angie Alegria Smith)
 * *[[Troupes/You Bet Your Life|You Bet Your Life]]* Produced by ([[Performers/Robert Slack|Robert Slack]])
-* *[[Sinistral]]* Produced by ([[Performers/Ellen Pizarek|Ellen Pizarek]])
-* *[[An Apply for Teacher]]* Produced by ([[Performers/Joy Parks|Joy Parks]])
-* *[[WaffleFest Volunteer Appreciation Show - Improv Derby]]* Produced by ([[Performers/Tim Coyle|Tim Coyle]])
-* *[[Bronze]]* Produced by ([[Performers/Mitchell Deane|Mitchell Deane]])
+* *Sinistral* Produced by ([[Performers/Ellen Pizarek|Ellen Pizarek]])
+* *An Apply for Teacher* Produced by ([[Performers/Joy Parks|Joy Parks]])
+* *WaffleFest Volunteer Appreciation Show / Improv Derby* Produced by ([[Performers/Tim Coyle|Tim Coyle]])
+* *Bronze* Produced by ([[Performers/Mitchell Deane|Mitchell Deane]])
 
 ## Production
 * 46 Hour Marathon - Donations Captain 2015

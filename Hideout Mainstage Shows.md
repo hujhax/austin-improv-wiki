@@ -69,7 +69,7 @@ Starting with *[[Shows/The Great Mundane|The Great Mundane]]* in 2006, the Hideo
     <td >3/4/06</td>
     <td >4/8/06</td>
     <td ><em><a class="internal-link" href="Shows/The Great Mundane">The Great Mundane</a></em></td>
-    <td ><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a>, <a class="internal-link" href="Jon Hunt">Jon Hunt</a></td>
+    <td >Jay Bernardo, Jon Hunt</td>
   </tr>
   <tr >
     <td >4/15/06</td>
@@ -475,8 +475,8 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
   <tr >
     <td >Jan 2017</td>
     <td >Feb 2017</td>
-    <td ><em><a class="internal-link" href="Start Trekkin'#Season 8">Start Trekkin'</a></em></td>
-    <td ><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a>, <a class="internal-link" href="Ben Sterling">Ben Sterling</a></td>
+    <td ><em>Start Trekkin'</em></td>
+    <td ><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a>, Ben Sterling</td>
   </tr>
   <tr >
     <td >Mar 2017</td>
@@ -534,20 +534,20 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
   <tr >
     <td >Sep 2018</td>
     <td >Oct 2018</td>
-    <td ><em><a class="internal-link" href="La Vida de los Muertos">La Vida de los Muertos</a></em></td>
+    <td ><em>La Vida de los Muertos</em></td>
     <td ><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a>, <a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></td>
   </tr>
   <tr >
     <td >Nov 2018</td>
     <td >Dec 2018</td>
-    <td ><em><a class="internal-link" href="Harry Potter and the Blank Stage">Harry Potter and the Blank Stage</a></em></td>
+    <td ><em>Harry Potter and the Blank Stage</em></td>
     <td ><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
   </tr>
   <tr >
     <td >Jan 2019</td>
     <td >Feb 2019</td>
-    <td ><em><a class="internal-link" href="Grand Mis&eacute;ry">Grand Mis&eacute;ry</a></em></td>
-    <td ><a class="internal-link" href="Mallory Schlossberg">Mallory Schlossberg</a>, <a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></td>
+    <td ><em>Grand Mis&eacute;ry</em></td>
+    <td >Mallory Schlossberg, Margaret Hunsicker</td>
   </tr>
   <tr >
     <td colspan="2" style="text-align: center;">Apr 2019</td>
@@ -557,25 +557,25 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
   <tr >
     <td >May 2019</td>
     <td >Jun 2019</td>
-    <td ><em><a class="internal-link" href="Harriet and Adanna Save Capitol High">Harriet and Adanna Save Capitol High</a></em></td>
-    <td ><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a>, <a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></td>
+    <td ><em>Harriet and Adanna Save Capitol High</em></td>
+    <td ><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a>, Margaret Hunsicker</td>
   </tr>
   <tr >
     <td >Jul 2019</td>
     <td >Aug 2019</td>
-    <td ><em><a class="internal-link" href="Make It So">Make It So</a></em></td>
+    <td ><em>Make It So</em></td>
     <td ><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a>, <a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></td>
   </tr>
   <tr >
     <td >Sep 2019</td>
     <td >Oct 2019</td>
-    <td ><em><a class="internal-link" href="Circus of the Damned">Circus of the Damned</a></em></td>
+    <td ><em>Circus of the Damned</em></td>
     <td ><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a>, <a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></td>
   </tr>
   <tr >
     <td >Nov 2019</td>
     <td >Dec 2019</td>
-    <td ><em><a class="internal-link" href="The Hallmark Holiday Musical">The Hallmark Holiday Musical</a></em></td>
+    <td ><em>The Hallmark Holiday Musical</em></td>
     <td ><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a>, <a class="internal-link" href="Monica Mahertinez">Monica Mahertinez</a></td>
   </tr>
 </table>
@@ -719,11 +719,11 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
   <tr >
     <td >Feb 2018</td>
     <td ><em><a class="internal-link" href="Shows/Story to the Death">Story to the Death</a></em></td>
-    <td ><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a>, <a class="internal-link" href="Jessica Soos">Jessica Soos</a></td>
+    <td ><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a>, Jessica Soos</td>
   </tr>
   <tr >
     <td >Apr 2018</td>
-    <td ><em><a class="internal-link" href="&iexcl;Esc&aacute;ndalo!">&iexcl;Esc&aacute;ndalo!</a></em></td>
+    <td ><em>&iexcl;Esc&aacute;ndalo!</em></td>
     <td ><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a>, <a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></td>
   </tr>
   <tr >
@@ -743,37 +743,37 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
   </tr>
   <tr >
     <td >Dec 2018</td>
-    <td ><em><a class="internal-link" href="Holiday Party Disaster">Holiday Party Disaster</a></em></td>
+    <td ><em>Holiday Party Disaster</em></td>
     <td ><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a>, <a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></td>
   </tr>
   <tr >
     <td >Feb 2019</td>
-    <td ><em><a class="internal-link" href="Small Town Girl">Small Town Girl</a></em></td>
+    <td ><em>Small Town Girl</em></td>
     <td ><a class="internal-link" href="Monica Mahertinez">Monica Mahertinez</a>, <a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></td>
   </tr>
   <tr >
     <td >Apr 2019</td>
-    <td ><em><a class="internal-link" href="Silly Love Songs">Silly Love Songs</a></em></td>
-    <td ><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a>, <a class="internal-link" href="Casey Marie">Casey Marie</a></td>
+    <td ><em>Silly Love Songs</em></td>
+    <td ><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a>, Casey Marie</td>
   </tr>
   <tr >
     <td >Jun 2019</td>
-    <td ><em><a class="internal-link" href="Dystopian Teen Future">Dystopian Teen Future</a></em></td>
-    <td ><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a>, <a class="internal-link" href="Performers/Jess von Schramm">Jess von Schramm</a></td>
+    <td ><em>Dystopian Teen Future</em></td>
+    <td >Frank Sánchez, <a class="internal-link" href="Performers/Jess von Schramm">Jess von Schramm</a></td>
   </tr>
   <tr >
     <td >Aug 2019</td>
-    <td ><em><a class="internal-link" href="That! Big! 80s! Musical!">That! Big! 80s! Musical!</a></em></td>
-    <td ><a class="internal-link" href="Mallory Schlossberg">Mallory Schlossberg</a></td>
+    <td ><em>That! Big! 80s! Musical!</em></td>
+    <td >Mallory Schlossberg</td>
   </tr>
   <tr >
     <td >Oct 2019</td>
-    <td ><em><a class="internal-link" href="What They Do in the Darkness">What They Do in the Darkness</a></em></td>
+    <td ><em>What They Do in the Darkness</em></td>
     <td ><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
   </tr>
   <tr >
     <td >Dec 2019</td>
-    <td ><em><a class="internal-link" href="Murder Most Cozy">Murder Most Cozy</a></em></td>
+    <td ><em>Murder Most Cozy</em></td>
     <td ><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
   </tr>
 </table>

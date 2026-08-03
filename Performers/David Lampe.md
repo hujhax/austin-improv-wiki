@@ -28,10 +28,10 @@
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 * [[Troupes/The Oxymorons|The Oxymorons]]
-* [[The Stucco Iguanas]]
+* The Stucco Iguanas
 * [[Troupes/Monks' Night Out|Monks' Night Out]]
-* [[Comedy Workshop Tour Company]]
-* [[Kevlar -  We Are Bulletproof]]
+* Comedy Workshop Tour Company
+* Kevlar: We Are Bulletproof
 
 ## Shows
 * *[[Shows/Cops & Lawyers|Cops & Lawyers]]*
@@ -45,8 +45,8 @@
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
 * *[[Shows/Twilight Zoned|Twilight Zoned]]*
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
-* ''[[Boy Howdy!]]'
-* ''[[Next Week on Game of Thrones]]'
+* ''Boy Howdy!'
+* ''Next Week on Game of Thrones'
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2246910) with Lampe on *[[Troupes/The Theft Forum|The Theft Forum]]*.

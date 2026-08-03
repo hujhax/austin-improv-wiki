@@ -125,8 +125,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a> (piano)</li><!--
-  --><li style=""><a class="internal-link" href="Allen Fisher">Allen Fisher</a> (piano/drums)</li><!--
+  --><li style="">Content Love Knowles (piano)</li><!--
+  --><li style="">Allen Fisher (piano/drums)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a> (piano)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a> (drums)</li><!--
   --><!--
@@ -248,66 +248,66 @@ The individual musicals run for two performances each, every other month.
 
 ## Shows
 ### The Black Death
-Set during The Black Plague and featuring music by [[Wikipedia - The Smashing Pumpkins|the Smashing Pumpkins]] (March 2015)
+Set during The Black Plague and featuring music by the Smashing Pumpkins (March 2015)
 #### Cast
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-* [[Emily Cawood]]
+* Emily Cawood
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
-* [[Kim Stacy]]
+* Kim Stacy
 * [[Performers/Luke Wallens|Luke Wallens]]
 
 ### In the Air Tonight
-Set during the USA/USSR space race of the 1970s and featuring music by [[Wikipedia - Phil Collins|Phil Collins]] (May 2015)
+Set during the USA/USSR space race of the 1970s and featuring music by Phil Collins (May 2015)
 #### Cast
 * [[Performers/Clint Harris|Clint Harris]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-* [[John Mendell]]
+* John Mendell
 * [[Performers/Donna Rice|Donna Rice]]
 * [[Performers/Dave Ronn|Dave Ronn]]
 * [[Performers/Jill Summar|Jill Summar]]
 
 ### Karma Police
-Set during the Salem Witch Trials and featuring music by [[Wikipedia - Radiohead|Radiohead]] (July 2015)
+Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
 #### Cast
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
-* [[Emily Cawood]]
+* Emily Cawood
 * [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]
-* [[Kim Stacy]]
+* Kim Stacy
 * [[Performers/Megan Sherrod|Megan Sherrod]]
 * [[Performers/Jill Summar|Jill Summar]]
 * [[Performers/Kelly Campbell|Kelly Campbell]]
 
 ### Renaissance Queen
-Set during the Italian Renaissance and featuring music by [[Wikipedia - Queen (band)|Queen]] (October 2015)
+Set during the Italian Renaissance and featuring music by Queen (October 2015)
 #### Cast
 * [[Performers/Peter Rogers|Peter Rogers]] - Leonardo
 * [[Performers/Bryan Curry|Bryan Curry]] - Michelangelo
-* [[Nicholaus Weindel]] - Rafael 
-* [[Kim Stacy]] - Chorus/Teacher
+* Nicholaus Weindel - Rafael 
+* Kim Stacy - Chorus/Teacher
 * [[Performers/Cené Hale|Cené Hale]] - Chorus/Margharita/Father
 * [[Performers/Lindsey McGowen|Lindsey McGowen]] - Chorus/Mother/Medici
 
 ### Home Again: The Story of Passover
-The story of Passover as told through the music of [[Wikipedia - The Cure|The Cure]] (November 2015)
+The story of Passover as told through the music of The Cure (November 2015)
 #### Cast
-* [[Nicholaus Weindel]] - Aaron
-* [[Kim Stacy]] - Shana
-* [[Sarah Doering]] - Rachel
+* Nicholaus Weindel - Aaron
+* Kim Stacy - Shana
+* Sarah Doering - Rachel
 * [[Performers/Jillian Summar|Jillian Summar]] - Deborah
 * [[Performers/Luke Wallens|Luke Wallens]] - Adam
 * [[Performers/Robert Slack|Robert Slack]] - Mica/Moses
 
 ### Women of the Wild West
-The story of Annie Oakley and Calamity Jane as told through the music of [[Wikipedia - Beyoncé|Beyoncé]] (January 2016).
+The story of Annie Oakley and Calamity Jane as told through the music of Beyoncé (January 2016).
 #### Cast
-* [[Emily Cawood]] - May Lillie
-* [[Kim Stacy]] - Lillian Smith
+* Emily Cawood - May Lillie
+* Kim Stacy - Lillian Smith
 * [[Performers/Cene Hale|Cene Hale]] - Annie Oakley
-* [[Brittni Cocchiara]] - Calamity Jane
+* Brittni Cocchiara - Calamity Jane
 * [[Performers/Tosin awofeso|Tosin awofeso]] - Buffalo Bill
-* [[Allen Fisher]] - Frank Butler
+* Allen Fisher - Frank Butler
 * [[Performers/Courtney Hopkin|Courtney Hopkin]] - Sheriff Bechdel
 
 ## Media
@@ -328,4 +328,4 @@ The story of Annie Oakley and Calamity Jane as told through the music of [[Wikip
 
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/JukeboxBway)
-[[Category/Shows|Category:Shows]]
+Category:Shows

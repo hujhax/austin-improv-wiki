@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ashley Siebels">Ashley Siebels</a></li><!--
-  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Vaught">Matt Vaught</a></li><!--
+  --><li style="">Ashley Siebels</li><!--
+  --><li style="">Jared Robertson</li><!--
+  --><li style="">Matt Vaught</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
-  --><li style=""><a class="internal-link" href="Taylor Stewart">Taylor Stewart</a></li><!--
-  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
+  --><li style="">Taylor Stewart</li><!--
+  --><li style="">Steve Moore</li><!--
   --><!--
   --><!--
   --><!--
@@ -80,11 +80,11 @@ Every Saturday in November 2014, Wink Planet teamed up with sketch group Off the
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/events/1379225369008806/declines/?comment_id=1434064150162779&notif_t=group_comment) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 1/31/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.963746777022172.1073742199.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/19/15 show at [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.963746777022172.1073742199.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/19/15 show at Austin Sketch Fest.
 
 ## More Information
 * [Wink Planet's Facebook](https://www.facebook.com/winkplanet)
 * [Wink Planet's Vimeo](https://vimeo.com/winkplanet)
 * [Wink Planet's SoundCloud](https://soundcloud.com/winkplanet/tracks)
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

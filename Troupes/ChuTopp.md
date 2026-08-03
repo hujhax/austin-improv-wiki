@@ -78,8 +78,8 @@ ChuTopp performs at [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Thea
 
 ## Media
 ### Videos
-* [Video](https://vimeo.com/203716569) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2017 [[FronteraFest]] show.
-* [Video](https://vimeo.com/118970094) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2015 [[FronteraFest]] show.
+* [Video](https://vimeo.com/203716569) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2017 FronteraFest show.
+* [Video](https://vimeo.com/118970094) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2015 FronteraFest show.
 * [Video](https://vimeo.com/119300295) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/23/15 performance in the *[[Shows/2x4|2x4]]*.
 
 [[Category/Troupes|ChuTopp]]

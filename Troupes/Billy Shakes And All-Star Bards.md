@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Eli Edison">Eli Edison</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
-  --><li style=""><a class="internal-link" href="Kasey Borger">Kasey Borger</a></li><!--
+  --><li style="">Eli Edison</li><!--
+  --><li style="">Amy Wright</li><!--
+  --><li style="">Kasey Borger</li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--

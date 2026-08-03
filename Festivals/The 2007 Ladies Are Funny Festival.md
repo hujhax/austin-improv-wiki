@@ -11,7 +11,7 @@ It included workshops, an all-star musical Armando, an all-female, all-star [[Sh
 * [[Troupes/The Frank Mills|The Frank Mills]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Performers/Jessica Arjet|Jessica Arjet]] (as "Penelope Foolish")
-* [[One Too]]
+* One Too
 * [[Troupes/You're Fat|You're Fat]]
 
 ### Out-of-Town Acts
@@ -21,4 +21,4 @@ It included workshops, an all-star musical Armando, an all-female, all-star [[Sh
 ### Music Acts
 * Cock Sound 
 * The Platforms
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

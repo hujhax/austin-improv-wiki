@@ -35,4 +35,4 @@ The Jam was held every Sunday night at 8:30, with the first performance on Febru
 The final Jam was on May 5, 2013. Afterwards, the open jam was dropped, and the 8:30PM Sunday slot became [[Shows/Improvised Comedy with Oh, Science!|Improvised Comedy with Oh, Science!]].
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
-[[Category/Shows|Category:Shows]]
+Category:Shows

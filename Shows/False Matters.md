@@ -178,8 +178,8 @@ The show originally played [[Theatres/Salvage Vanguard Theater|Salvage Vanguard 
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Mister-Morbid/20131018/False-Matters/) by [[Performers/Chad Wellington|Chad Wellington]] of their 10/18/13 performance in [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 
 ### Publicity
-* [Austin Chronicle preview](http://www.austinchronicle.com/blogs/arts/2011-05-18/false-matters/) by [[Wayne Alan Brenner]]
+* [Austin Chronicle preview](http://www.austinchronicle.com/blogs/arts/2011-05-18/false-matters/) by Wayne Alan Brenner
 * [KUT.org Arts Eclectic radio piece on False Matters](http://kut.org/2011/05/false-matters/)
 * ["What if…?" False Matters promotional video](http://www.youtube.com/watch?feature=player_embedded&v=R3ONjeVSjJM)
 
-[[Category/Shows|False]]
+False

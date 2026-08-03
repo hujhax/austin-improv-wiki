@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Plischke">Erin Plischke</a></li><!--
-  --><li style=""><a class="internal-link" href="Jen Cargill">Jen Cargill</a></li><!--
+  --><li style="">Jen Cargill</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,16 +70,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alex Nixon">Alex Nixon</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
+  --><li style="">Alex Nixon</li><!--
+  --><li style="">Andy Pereira</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Cynthia Oelkers">Cynthia Oelkers</a></li><!--
+  --><li style="">Cynthia Oelkers</li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Plischke">Erin Plischke</a></li><!--
-  --><li style=""><a class="internal-link" href="Kelly Hudson">Kelly Hudson</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Humphries">Kevin Humphries</a></li><!--
-  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style="">Kelly Hudson</li><!--
+  --><li style="">Kevin Humphries</li><!--
+  --><li style="">Nat Miller</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Terrill Fisher">Terrill Fisher</a></li><!--
+  --><li style="">Terrill Fisher</li><!--
   --><!--
   --><!--
   --><!--
@@ -128,9 +128,9 @@
 **Wooden Nickel** was an improv troupe.
 
 ## History
-This was the first troupe formed by [[Performers/Erin Plischke|Erin Plischke]] and [[Jen Cargill]] after they taught their first improv class in Austin.
+This was the first troupe formed by [[Performers/Erin Plischke|Erin Plischke]] and Jen Cargill after they taught their first improv class in Austin.
 
-After the group broke up, [[Terrill Fischer]], [[Andy Pereira]], [[Performers/Erin Plischke|Erin Plischke]], and [[Alex Nixon]] went on to form [[Troupes/$10 Bourbon|$10 Bourbon]].
+After the group broke up, Terrill Fischer, Andy Pereira, [[Performers/Erin Plischke|Erin Plischke]], and Alex Nixon went on to form [[Troupes/$10 Bourbon|$10 Bourbon]].
 
 ## More Information
 * [Audition notice](http://forum.austinimprov.com/viewtopic.php?p=154) on [[The Austin Improv Forums]].

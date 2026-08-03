@@ -40,9 +40,9 @@ Gloria is also a wife, mother of two (boys), scripted actor, writer, director an
 ## Shows
 ## Film
 * [Awake](http://www.youtube.com/watch?v=AzZo9HBz9VA)
-* [[The Vacation]]
+* The Vacation
 
 [[Category/Performers|Bankler]]
 
 ## Writing
-* [[Untitled Novel]]
+* Untitled Novel

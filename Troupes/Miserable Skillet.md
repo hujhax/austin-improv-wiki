@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
-  --><li style=""><a class="internal-link" href="Molly Moore">Molly Moore</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style="">Jessica Marpe</li><!--
+  --><li style="">Maria Pond</li><!--
+  --><li style="">Molly Moore</li><!--
+  --><li style="">Naomi Perryman</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,5 +78,5 @@ Their press blurb, taken from a 2015 application to perform at [[Theatres/The Hi
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

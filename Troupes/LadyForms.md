@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Anthony Norton">Anthony Norton</a></li><!--
-  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style="">Anthony Norton</li><!--
+  --><li style="">Brent Foshee</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Micallef">Jennifer Micallef</a></li><!--
+  --><li style="">Jennifer Micallef</li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Kerri Atwood">Kerri Atwood</a></li><!--
+  --><li style="">Kerri Atwood</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
   --><!--

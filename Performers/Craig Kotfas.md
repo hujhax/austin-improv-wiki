@@ -29,7 +29,7 @@ He was a company member of [[Gnap! Theater Projects]].
 He has been a guest musician for [[Troupes/Indigo Shift|Indigo Shift]] and a guest boy for *[[Shows/Boys of Summer|Boys of Summer]]*.
 
 ## Troupes
-* [[Catch 24]]
+* Catch 24
 * [[Shows/False Matters|False Matters]]
 * [[Troupes/Gravy|Gravy]]
 * [[Troupes/We Could Be Heroes|We Could Be Heroes]]

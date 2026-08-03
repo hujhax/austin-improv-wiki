@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
+  --><li style="">Adrienne Brown</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
-  --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
+  --><li style="">Emma Czarnecki</li><!--
+  --><li style="">Judith Schomp</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
+  --><li style="">Michael Bowman</li><!--
   --><!--
   --><!--
   --><!--
@@ -87,4 +87,4 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Ones]]
 [[Category/Auto-Generated Troupe Pages|Ones]]
-[[Category/Active|Ones]]
+Ones

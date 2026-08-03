@@ -83,15 +83,15 @@ Here is [[Performers/Kaci Beeler|Kaci Beeler]]'s explanation of the name's origi
 
 ## Formats
 ### Fitzgeralds for Hire
-This features [[Performers/Curtis Luciani|Curtis Luciani]] as [[Wikipedia - F. Scott Fitzgerald|F. Scott Fitzgerald]] and [[Performers/Kaci Beeler|Kaci Beeler]] as [[Wikipedia - Zelda Fitzgerald|Zelda Fitzgerald]].  In the show's universe, the two are also secret agents who fight various shadowy threats to America.
+This features [[Performers/Curtis Luciani|Curtis Luciani]] as F. Scott Fitzgerald and [[Performers/Kaci Beeler|Kaci Beeler]] as Zelda Fitzgerald.  In the show's universe, the two are also secret agents who fight various shadowy threats to America.
 
 ### Catchin' Frogs
-This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry Finn]]*, as they present a Living Room-type format opening with a couple of 19th-century rural Americans having a conversation.
+This is their tribute to works like *Huckleberry Finn*, as they present a Living Room-type format opening with a couple of 19th-century rural Americans having a conversation.
 
 ## Media
 ### Videos
 * [Video](http://vimeo.com/10584357) of their March 2010 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
-* [Video](http://vimeo.com/19055962) of their 1/20/11 "Fitzgeralds for Hire" show at [[Frontera Fest]].
+* [Video](http://vimeo.com/19055962) of their 1/20/11 "Fitzgeralds for Hire" show at Frontera Fest.
 * [Video](http://vimeo.com/19107010) of their 1/22/11 show.
 * [Video of a "Catchin' Frogs" show.](http://vimeo.com/40801622)
 * [Video](http://vimeo.com/86963260) of their 2/3/14 show in *[[Shows/The Threefer|The Threefer]]*.
@@ -127,5 +127,5 @@ This is their tribute to works like *[[Wikipedia - Huckleberry Finn|Huckleberry 
 * [Photoset](http://www.facebook.com/media/set/?set=a.1033833950013454.1073742246.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/4/15 performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 [[Category/Troupes|Amazon and the Milksop]]
-[[Category/Active|Amazon and the Milksop]]
+Amazon and the Milksop
 [[Category/Duos|Amazon and the Milksop]]

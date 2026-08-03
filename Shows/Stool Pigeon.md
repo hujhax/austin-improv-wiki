@@ -28,13 +28,13 @@
   --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style="">Katie Sicking</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
+  --><li style="">Nick Ramirez</li><!--
   --><!--
   --><!--
   --><!--
@@ -98,4 +98,4 @@ Every week, the "pigeon" would be a local-celebrity, non-improvisor guest.  The 
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/events/stool-pigeon-improv)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

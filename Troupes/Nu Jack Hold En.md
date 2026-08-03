@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
+  --><li style="">Julia Kirchen</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Pulling from a wealth of improv experience, [[Performers/Ashley Nugent|Ashley Nugent]] (iO West and Phoenix veteran, ColdTowne faculty), [[Julia Kirchen]] ([[Troupes/The Varsity|The Varsity]]), [[Performers/Emma Holder|Emma Holder]] ([[Troupes/Baldenholder|Baldenholder]], [[Rattlesnake Sketch]]) and [[Performers/Lisa Jackson|Lisa Jackson]] ([[Troupes/Battlestar Gillacktucka|Battlestar Gillacktucka]], [[Troupes/Ratliff & Jackson|Ratliff & Jackson]], *[[Shows/Austin Secrets|Austin Secrets]]*) organically discover their character-driven show.</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Pulling from a wealth of improv experience, [[Performers/Ashley Nugent|Ashley Nugent]] (iO West and Phoenix veteran, ColdTowne faculty), Julia Kirchen ([[Troupes/The Varsity|The Varsity]]), [[Performers/Emma Holder|Emma Holder]] ([[Troupes/Baldenholder|Baldenholder]], Rattlesnake Sketch) and [[Performers/Lisa Jackson|Lisa Jackson]] ([[Troupes/Battlestar Gillacktucka|Battlestar Gillacktucka]], [[Troupes/Ratliff & Jackson|Ratliff & Jackson]], *[[Shows/Austin Secrets|Austin Secrets]]*) organically discover their character-driven show.</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We perform long form improv that is character driven, we organically find the format of the show, but likely to be one long group scene or 3 or 4 grounded and related scenes.</blockquote>

@@ -70,10 +70,10 @@
 	</table>
 </div>
 
-**Franz & Dave** is a duo consisting of [[Performers/Brad Hawkins|Brad Hawkins]] and [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], playing the roles of [[Wikipedia - Franz Kafka|Franz Kafka]] and [[Wikipedia - David Lynch|David Lynch]].
+**Franz & Dave** is a duo consisting of [[Performers/Brad Hawkins|Brad Hawkins]] and [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], playing the roles of Franz Kafka and David Lynch.
 
 ## History
-Franz & Dave was conceived in the [[Theatres/The Hideout Theatre|Hideout's]] green room during a show sometime in early 2011. The duo debuted as part of [[Theatres/Coldtowne Theater|ColdTowne]]'s [[Shakedown]] on May 11 of that year, hosted by [[Performers/Brett Tribe|Brett Tribe]]. They played to an audience of six that night.
+Franz & Dave was conceived in the [[Theatres/The Hideout Theatre|Hideout's]] green room during a show sometime in early 2011. The duo debuted as part of [[Theatres/Coldtowne Theater|ColdTowne]]'s Shakedown on May 11 of that year, hosted by [[Performers/Brett Tribe|Brett Tribe]]. They played to an audience of six that night.
 
 In addition to their regular two-person format, Franz & Dave have played a number of one-off shows including a [[Shows/Free Fringe|Free Fringe]] appearance out of their usual costumes, in which the characters of Kafka and Lynch played recent [[Theatres/The Hideout Theatre|Hideout]] graduates performing their first improv show. On April 17, 2014, again as part of the Free Fringe, Franz & Dave directed a [[Shows/Maestro|Maestro]].
 
@@ -97,7 +97,7 @@ In [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]], the du
 * [Video](http://vimeo.com/107765199) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 7/4/14 show ("Devour").
 * [Video](http://vimeo.com/107818589) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 9/26/14 show ("Off-Script").
 * [Video](http://vimeo.com/124097864) of their 2015 "Wheel" show.
-* [Video](http://vimeo.com/137967760) of their 8/24/15 performance in *[[The Knockout]]*.
+* [Video](http://vimeo.com/137967760) of their 8/24/15 performance in *The Knockout*.
 * [Video](http://vimeo.com/138766462) of their 9/1/15 "Ice Cream" performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ### Photos
@@ -113,5 +113,5 @@ In [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]], the du
 * [Franz & Dave's Vimeo channel.](https://vimeo.com/channels/307160)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

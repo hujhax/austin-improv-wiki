@@ -34,13 +34,13 @@ Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Categor
 
 If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[Troupes/The Frank Mills|The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.
 
-(If the troupe is currently active, also add this: <nowiki>[[Category/Active|Category:Active]]</nowiki>.)
+(If the troupe is currently active, also add this: <nowiki>Category:Active</nowiki>.)
 
 
 **How do I upload a picture?**<br/>
 [Here is a quick video that explains how to do it.](http://screencast.com/t/OhasuYtz)
 
-[[Special - Upload|This]] is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Performers/Jon Bolden|Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Performers/Menelaos Prokos|Menelaos Prokos]], [[Performers/Dave alley|Dave alley]], and [[Performers/Claudio Fox|Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
+This is the page for uploading images. Fortunately for us, all the AIC photographers we've contacted ([[Performers/Jon Bolden|Jon Bolden]], [[Michael Yew]], [[Steve Rogers]], [[Roy Moore]], [[Performers/Menelaos Prokos|Menelaos Prokos]], [[Performers/Dave alley|Dave alley]], and [[Performers/Claudio Fox|Claudio Fox]]) are cool with your using their photos on the AIC wiki, so long as you do three things:
 * Credit them in the picture's description.
 * Link back to the original photoset if you can.
 * In the "licensing" dropdown, select "The copyright holder gave me permission to use this work only in AIC Wiki articles."
@@ -52,7 +52,7 @@ For an example of following these three rules, look at [this photo](http://wiki.
 
 **I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information -- does this mean I need to make two copies of the Hideout page?**<br/>
 Fortunately, no.  You would handle this with something called ["redirects"](http://www.mediawiki.org/wiki/Help:Redirects).  In this case, we've created a page for [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Then we created a page called [[Theatres/Hideout Theatre|Hideout Theatre]] that only contains the following text: 
- <nowiki>#REDIRECT [[-nowiki[[The Hideout Theatre]]nowiki]]</nowiki>
+ <nowiki>#REDIRECT </nowiki>[[The Hideout Theatre]]<nowiki></nowiki>
 That means that all the [[Theatres/Hideout Theatre|Hideout Theatre]] page does is "redirect" to [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 

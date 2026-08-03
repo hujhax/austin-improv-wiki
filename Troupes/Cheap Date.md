@@ -18,11 +18,11 @@
   --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
+  --><li style="">Jessica Marpe</li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style="">Naomi Perryman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
+  --><li style="">Will Casto</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Cheap Date** is an improv troupe.
 
 ## Summary
-Cheap Date started as a [[ColdTowne Student Troupes|student troupe]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]]. They share members with [[Troupes/Nice Astronaut|Nice Astronaut]], [[Troupes/Concrete|Concrete]], [[Troupes/Golden Age|Golden Age]], [[Troupes/Array|Array]], and [[Book Club]]. 
+Cheap Date started as a [[ColdTowne Student Troupes|student troupe]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]]. They share members with [[Troupes/Nice Astronaut|Nice Astronaut]], [[Troupes/Concrete|Concrete]], [[Troupes/Golden Age|Golden Age]], [[Troupes/Array|Array]], and Book Club. 
 
 ## History
 They were voted "Outstanding New Troupe" at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in 2013.
@@ -87,4 +87,4 @@ They were voted "Outstanding New Troupe" at [[Theatres/Coldtowne Theater|Coldtow
 * [The troupe's facebook page.](http://www.facebook.com/cheapdateatx)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

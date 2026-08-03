@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ellen Kubecka">Ellen Kubecka</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenna Carey">Jenna Carey</a></li><!--
-  --><li style=""><a class="internal-link" href="Karen Early">Karen Early</a></li><!--
+  --><li style="">Ellen Kubecka</li><!--
+  --><li style="">Jenna Carey</li><!--
+  --><li style="">Karen Early</li><!--
   --><!--
   --><!--
   --><!--

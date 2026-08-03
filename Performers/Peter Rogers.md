@@ -45,7 +45,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Shows/Fandom|Fandom]]*
 * *[[Shows/Fiasco|Fiasco]]* (director)
 * *[[Shows/GrimmNoir|GrimmNoir]]*
-* *[[Heavens, Mr. Darcy!]]*
+* *Heavens, Mr. Darcy!*
 * *[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]*
 * *[[Shows/History Under the Influence|History Under the Influence]]*
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*

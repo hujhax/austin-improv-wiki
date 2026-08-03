@@ -33,4 +33,4 @@
 
 [[Category/Performers|Rutherford]]
 [[Category/Teachers|Rutherford]]
-[[Category/Active|Category:Active]]
+Category:Active

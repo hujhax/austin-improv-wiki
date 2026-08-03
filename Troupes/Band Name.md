@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Caerial Crestin">Caerial Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Joe Ricks">Joe Ricks</a></li><!--
-  --><li style=""><a class="internal-link" href="Marcus Hysmith">Marcus Hysmith</a></li><!--
+  --><li style="">Caerial Crestin</li><!--
+  --><li style="">Joe Ricks</li><!--
+  --><li style="">Marcus Hysmith</li><!--
   --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--

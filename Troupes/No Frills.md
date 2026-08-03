@@ -87,5 +87,5 @@ After rehearsing together at [[Theatres/The Institution Theater|The Institution 
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 10/28/13 show.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
-  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
-  --><li style=""><a class="internal-link" href="Caitlin Baumgartner">Caitlin Baumgartner</a></li><!--
+  --><li style="">Amy Carpenter</li><!--
+  --><li style="">Arian Brumby</li><!--
+  --><li style="">Caitlin Baumgartner</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
@@ -89,9 +89,9 @@ It has performed a weekly show at ColdTowne Theater since November of 2011 and i
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2407907399825.106734.1315383518&type=3) by [[Michael Yew]] that includes their 2/16/12 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.591956450867875.1073741927.221927764537414&type=3) by [[Steve Rogers]] of their 8/30/13 performance at [[The ColdTowne Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.591956450867875.1073741927.221927764537414&type=3) by [[Steve Rogers]] of their 8/30/13 performance at The ColdTowne Marathon.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/14 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204338867854557.1073741953.1315383518&type=3) by [[Michael Yew]] that includes their 6/20/15 show in [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]].
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

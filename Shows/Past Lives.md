@@ -103,4 +103,4 @@ They played their last show at [[Festivals/The 2014 Improvised Play Festival|The
 * [Post about the show](http://yesandrew.com/2014/04/11/the-death-of-a-show/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Shows|Category:Shows]]
+Category:Shows

@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style="">Jessica Salinas</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><!--
   --><!--

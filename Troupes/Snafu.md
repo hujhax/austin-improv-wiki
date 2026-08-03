@@ -74,35 +74,35 @@
 
 ## Summary
 ### Press Blurb
-As the brainchild of founder [[Tanner Kalina]], SNAFU Improv stormed onto the University of Texas at Austin improv scene during the Fall of 2013. At the time, there was only one improv troupe on campus that performed solely short-form improv. Tanner, with a wish to broaden his comedic experience while at the same time introducing UT to a different style of improv, sought the help of [[Ally Huston]]. Together, they held auditions and recruited 8 more people to join them in creating the original cast of SNAFU. With their original performances being every Monday night on the UT campus, the cast of ten players successfully broke into the UT Austin improv scene. The troupe also performed at venues throughout Austin, including The [[Theatres/Hideout Theatre|Hideout Theatre]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/Coldtowne Theater|Coldtowne Theater]], allowing for them to be known in the Austin Improv Community. Currently, SNAFU boasts a cast of nine players, four of which were a part of the founding improv troupe. You can find them performing every other Friday for free on the UT campus, or at venues and festivals throughout Austin.
+As the brainchild of founder Tanner Kalina, SNAFU Improv stormed onto the University of Texas at Austin improv scene during the Fall of 2013. At the time, there was only one improv troupe on campus that performed solely short-form improv. Tanner, with a wish to broaden his comedic experience while at the same time introducing UT to a different style of improv, sought the help of Ally Huston. Together, they held auditions and recruited 8 more people to join them in creating the original cast of SNAFU. With their original performances being every Monday night on the UT campus, the cast of ten players successfully broke into the UT Austin improv scene. The troupe also performed at venues throughout Austin, including The [[Theatres/Hideout Theatre|Hideout Theatre]], [[Theatres/The Institution Theater|The Institution Theater]], and [[Theatres/Coldtowne Theater|Coldtowne Theater]], allowing for them to be known in the Austin Improv Community. Currently, SNAFU boasts a cast of nine players, four of which were a part of the founding improv troupe. You can find them performing every other Friday for free on the UT campus, or at venues and festivals throughout Austin.
 
 ### Current Members
-* [[Allison Webster]]
-* [[Aranza Garza]]
-* [[Ashar Malik]]
-* [[Caleb Fleischer]]
-* [[Cynthia Onyeka]]
-* [[Daniel Abramson]]
-* [[Elizabeth Valoon]]
-* [[Jacob Thompson]]
-* [[Kent Juliff]]
-* [[Kim Tran]]
-* [[Kyle Grier]]
-* [[Lindsey Dennis]]
-* [[Logan Smith]]
-* [[Nicolas Saenz]]
-* [[Ian Baker]]
+* Allison Webster
+* Aranza Garza
+* Ashar Malik
+* Caleb Fleischer
+* Cynthia Onyeka
+* Daniel Abramson
+* Elizabeth Valoon
+* Jacob Thompson
+* Kent Juliff
+* Kim Tran
+* Kyle Grier
+* Lindsey Dennis
+* Logan Smith
+* Nicolas Saenz
+* Ian Baker
 
 ### Past Members
-* [[Allison Huston]]
-* [[Curtis McOsker]]
-* [[Diego Attanasio]]
-* [[Jess Howard]]
-* [[John Mendell]]
-* [[Jono Deduk]]
+* Allison Huston
+* Curtis McOsker
+* Diego Attanasio
+* Jess Howard
+* John Mendell
+* Jono Deduk
 * [[Performers/Patrick Creamer|Patrick Creamer]]
-* [[Shannon Cloud]]
-* [[Tanner Kalina]]
+* Shannon Cloud
+* Tanner Kalina
 
 ## Media
 ### Photos
@@ -118,4 +118,4 @@ As the brainchild of founder [[Tanner Kalina]], SNAFU Improv stormed onto the Un
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

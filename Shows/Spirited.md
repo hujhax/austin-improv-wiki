@@ -90,7 +90,7 @@
 	</table>
 </div>
 
-***Spirited*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the dream-logic works from artists like [[Wikipedia - Lewis Carroll|Lewis Carroll]], [[Wikipedia - Hayao Miyazaki|Hayao Miyazaki]], and [[Wikipedia - Maurice Sendak|Maurice Sendak]].
+***Spirited*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the dream-logic works from artists like Lewis Carroll, Hayao Miyazaki, and Maurice Sendak.
 
 ## Summary
 *Spirited* was [[Theatres/The Hideout|The Hideout]]'s mainstage show in September and October of 2011.  It had subsequent performances at [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] the following year.
@@ -137,8 +137,8 @@ After about an hour of these explorations, there would be a transition back to t
 
 ## More Information
 * [A post about playing in the show](http://www.hideouttheatre.com/spirus) by [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]].
-* [Review of the show](http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/) by [[Wayne Allen Brenner]] in *The Austin Chronicle* (9/14/11).
+* [Review of the show](http://www.austinchronicle.com/blogs/arts/2011-09-14/some-enchanted-evenings/) by Wayne Allen Brenner in *The Austin Chronicle* (9/14/11).
 * [Review of the show](http://www.hideouttheatre.com/statesman-review-for-spirited) from *The Austin-American Statesman*.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

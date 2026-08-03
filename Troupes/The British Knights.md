@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
-  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style="">Danny Catlow</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
+  --><li style="">Katie Sicking</li><!--
+  --><li style="">Stephanie Russo</li><!--
   --><!--
   --><!--
   --><!--

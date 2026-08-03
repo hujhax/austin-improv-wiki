@@ -3,7 +3,7 @@
 ## Summary
 Program image for *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*.
 
-Photography by [[Eleazar Paradise]].
+Photography by Eleazar Paradise.
 
 Art by [[Performers/Asaf Ronen|Asaf Ronen]].
 ## Licensing

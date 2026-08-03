@@ -78,15 +78,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style="">Amy McKenna</li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Camille Latour">Camille Latour</a></li><!--
-  --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
+  --><li style="">Camille Latour</li><!--
+  --><li style="">Chadwick Smith</li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Bateman">Jennifer Bateman</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style="">Jennifer Bateman</li><!--
+  --><li style="">Jesse Overright</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style="" ><a class="internal-link" href="Patrick Knisley">Patrick Knisley</a></li><!--
+  --><li style="" >Patrick Knisley</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Shawn Utterback">Shawn Utterback</a></li><!--
   --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
@@ -150,12 +150,12 @@ This show is based around the elves working in Santa's workshop.  Every week, a 
 ### 2011 Run
 In 2011, the show ran Fridays and Saturdays at 8pm at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], from 12/2/11 to 12/17/11.
 #### Cast
-* [[Amy McKenna]]
-* [[Chadwick Smith]]
+* Amy McKenna
+* Chadwick Smith
 * [[Performers/Howard Katz|Howard Katz]]
-* [[Jesse Overright]]
+* Jesse Overright
 * [[Performers/Kate Bojanek|Kate Bojanek]]
-* [[Patrick Knisley]]
+* Patrick Knisley
 * [[Performers/Sara Farr|Sara Farr]]
 * [[Troupes/Topping Haggerty|Topping Haggerty]]
 
@@ -163,18 +163,18 @@ In 2011, the show ran Fridays and Saturdays at 8pm at [[Theatres/Salvage Vanguar
 * 12/2: [[Performers/Deano Jones|Deano Jones]]
 * 12/3: [[Performers/Tom Booker|Tom Booker]]
 * 12/9: [Akina Adderley](http://aavpmusic.com/)
-* 12/10: [[Buzz Moran]]
+* 12/10: Buzz Moran
 * 12/16: [[Performers/Les McGehee|Les McGehee]]
 * 12/17: [[Performers/John Ratliff|John Ratliff]]
  
 ### 2013 Run
 In 2013, the show runs Fridays and Saturdays at 6pm at [[Theatres/The Institution Theater|The Institution Theater]], from 12/6/13 to 12/22/13.
 #### Cast
-* [[Amy McKenna]]
+* Amy McKenna
 * [[Performers/Bryan Curry|Bryan Curry]]
-* [[Camille Latour]]
-* [[Jennifer Bateman]]
-* [[Jesse Overright]]
+* Camille Latour
+* Jennifer Bateman
+* Jesse Overright
 * [[Performers/Sara Farr|Sara Farr]]
 * [[Performers/Shawn Utterback|Shawn Utterback]]
 
@@ -199,4 +199,4 @@ In 2013, the show runs Fridays and Saturdays at 6pm at [[Theatres/The Institutio
 * [Announcement of the 2011 run](http://forum.austinimprov.com/viewtopic.php?f=2&t=12501) on [[The Austin Improv Forums]].
 * [Announcement of the 2013 run](http://forum.austinimprov.com/viewtopic.php?f=2&t=16776) on [[The Austin Improv Forums]].
 * [Call for understudies for the 2013 run](http://forum.austinimprov.com/viewtopic.php?f=3&t=16500) on [[The Austin Improv Forums]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

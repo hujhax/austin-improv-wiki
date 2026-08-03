@@ -19,8 +19,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Instrument(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Guitar">Guitar</a></li><!--
-  --><li style=""><a class="internal-link" href="Piano">Piano</a></li><!--
+  --><li style="">Guitar</li><!--
+  --><li style="">Piano</li><!--
   --><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@ Michael started in musical improv somewhere around 2005 after seeing an article 
 Note: all credits in Troupes and Shows are for improvised accompaniment, except those marked "(composer)", which are productions he instead wrote the music for.
 
 ## History
-A post from him about the first improv show he ever saw:<blockquote>The first improv show I saw I was actually in. It was with [[GGG]] at [[Festivals/LAFF|LAFF]] some 3 or 4 years ago. I had no idea what I was doing and if I saw it on tape now I'd probably be yelling at myself through the screen. I do remember I felt that I'd overplayed, and so at my second show I made a point of hanging back. I got more criticism for that strategy than I did for my first show so I quickly abandoned that approach. It really wasn't until I'd amassed a little more knowledge about the process and the quirks and strengths of the ladies themselves that I began to get a bit comfortable. </blockquote>
+A post from him about the first improv show he ever saw:<blockquote>The first improv show I saw I was actually in. It was with GGG at [[Festivals/LAFF|LAFF]] some 3 or 4 years ago. I had no idea what I was doing and if I saw it on tape now I'd probably be yelling at myself through the screen. I do remember I felt that I'd overplayed, and so at my second show I made a point of hanging back. I got more criticism for that strategy than I did for my first show so I quickly abandoned that approach. It really wasn't until I'd amassed a little more knowledge about the process and the quirks and strengths of the ladies themselves that I began to get a bit comfortable. </blockquote>
 
 ## Troupes
 * [[Troupes/ComedySportz|ComedySportz]]
@@ -90,7 +90,7 @@ A post from him about the first improv show he ever saw:<blockquote>The first im
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Hell's Bells|Hell's Bells]]
 * [[Troupes/Indigo Shift|Indigo Shift]]
-* [[Comedy Spartans]]
+* Comedy Spartans
 
 ### Out-of-Town Troupes
 Brockman has accompanied a number of visiting acts, and accompanied acts while on tour himself:
@@ -103,16 +103,16 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 ## Shows
 * *[[Shows/The Big Bash|The Big Bash]]*
 * *[[Shows/Boys of Summer|Boys of Summer]]*
-* *[[Campfire Songs]]*
+* *Campfire Songs*
 * *[[Shows/Crack|Crack]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
-* *[[Gorilla Improv]]*  (w/ Greg Proops, Jill Bernard, Jeremy Lamb & Shana Merlin)
+* *Gorilla Improv*  (w/ Greg Proops, Jill Bernard, Jeremy Lamb & Shana Merlin)
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Hurly Burly|Hurly Burly]]*
-* *[[Jukebox Heroes]]*  (w/ Laura Hall)
-* *[[The Last Freak Show]]*
-* *[[Louder Than Words]]*
-* *[[Love Is a Funny Thing]]*
+* *Jukebox Heroes*  (w/ Laura Hall)
+* *The Last Freak Show*
+* *Louder Than Words*
+* *Love Is a Funny Thing*
 * *[[Shows/Maestro|Maestro]]*
 * *[[Shows/Process|Process]]*
 * *[[Shows/Puppet Katamari|Puppet Katamari]]* (composer)
@@ -126,7 +126,7 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 
 ## Festivals
 ### Local Festivals
-* [[Fronterafest]]
+* Fronterafest
 * [[Festivals/The Hideout Improv Marathon|The Hideout Improv Marathon]]
 * [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]
 * [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
@@ -150,4 +150,4 @@ Brockman has accompanied a number of visiting acts, and accompanied acts while o
 [[Category/Performers|Brockman]]
 [[Category/Teachers|Brockman]]
 [[Category/Directors|Brockman]]
-[[Category/Active|Category:Active]]
+Category:Active

@@ -85,7 +85,7 @@
 ***Improv: The Musical*** is an upcoming scripted musical at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
-The show is written by [[Performers/Tom Booker|Tom Booker]] and [[Performers/Sarah Marie Curry|Sarah Marie Curry]], with music by [[Wikipedia - Laura Hall (musician)|Laura Hall]] of *[[Wikipedia - Whose Line Is It Anyway (U.S. TV series)|Whose Line Is It, Anyway?]]*
+The show is written by [[Performers/Tom Booker|Tom Booker]] and [[Performers/Sarah Marie Curry|Sarah Marie Curry]], with music by Laura Hall of *Whose Line Is It, Anyway?*
 
 It will run Fridays and Saturdays at 8pm from 3/27/15 to 4/11/15.
 
@@ -95,4 +95,4 @@ It will run Fridays and Saturdays at 8pm from 3/27/15 to 4/11/15.
 ## More Information
 * [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090), on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

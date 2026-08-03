@@ -35,7 +35,7 @@ She currently works as administrator for the Impro Theatre School in Los Angeles
 * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 
 ## Shows
-* *[[69 Love Scenes]]*
+* *69 Love Scenes*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Shows/Crack!|Crack!]]*
 * *[[Shows/Dusk|Dusk]]*

@@ -20,15 +20,15 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
-  --><li style=""><a class="internal-link" href="Blaine Paradise">Blaine Paradise</a></li><!--
+  --><li style="">Blaine Paradise</li><!--
   --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
-  --><li style=""><a class="internal-link" href="Christian Huey">Christian Huey</a></li><!--
+  --><li style="">Christian Huey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Fred Winkler">Fred Winkler</a></li><!--
+  --><li style="">Fred Winkler</li><!--
   --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Roanna Flowers">Roanna Flowers</a></li><!--
+  --><li style="">Roanna Flowers</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
-  --><li style=""><a class="internal-link" href="Tyler Reece Booker">Tyler Reece Booker</a></li><!--
+  --><li style="">Tyler Reece Booker</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Party of Five*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Party of Five|*Party of Five*]] episode ["The Wedding"](http://www.imdb.com/title/tt0670372/).
+***Live TV Tuesdays: Party of Five*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *Party of Five* episode ["The Wedding"](http://www.imdb.com/title/tt0670372/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *Party of Five".
@@ -86,16 +86,16 @@ This show was referred to as "*Teen Angst Tuesdays, Featuring *Party of Five".
 It played exclusively at [[Theatres/The Highball|The Highball]].
 
 ## Cast
-* Bailey -- [[Fred Winkler]]
+* Bailey -- Fred Winkler
 * Charlie -- [[Performers/Alexander Hilary|Alexander Hilary]]
 * Claudia -- [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
-* Ellie -- [[Roanna Flowers]]
-* Gene -- [[Blaine Paradise]]
+* Ellie -- Roanna Flowers
+* Gene -- Blaine Paradise
 * Julia -- [[Performers/Carissa McAtee|Carissa McAtee]]
-* Justin -- [[Christian Huey]]
+* Justin -- Christian Huey
 * Kirsten -- [[Performers/Taylor Overstreet|Taylor Overstreet]]
-* Sarah -- [[Jessica Simmons]]
-* Will -- [[Performers/Cody Melcher|Cody Melcher]]/[[Tyler Reece Booker]]
+* Sarah -- Jessica Simmons
+* Will -- [[Performers/Cody Melcher|Cody Melcher]]/Tyler Reece Booker
 
 ## Media
 * [The dance scene from the 8/23/11 performance.](http://youtu.be/M-9woBN_azM)
@@ -104,4 +104,4 @@ It played exclusively at [[Theatres/The Highball|The Highball]].
 ## More Information
 * [Facebook event for opening night.](http://www.facebook.com/events/246541985367201/)
 * [Facebook event for the 8/23/11 performance.](http://www.facebook.com/events/230071250371938/)
-[[Category/Shows|Category:Shows]]
+Category:Shows

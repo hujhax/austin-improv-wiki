@@ -17,10 +17,10 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cene Hale">Cene Hale</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
-  --><li style=""><a class="internal-link" href="Kim Lowery">Kim Lowery</a></li><!--
-  --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Thoreson">Stephanie Thoreson</a></li><!--
-  --><li style=""><a class="internal-link" href="Taylor Stewart">Taylor Stewart</a></li><!--
+  --><li style="">Kim Lowery</li><!--
+  --><li style="">Maria Pond</li><!--
+  --><li style="">Stephanie Thoreson</li><!--
+  --><li style="">Taylor Stewart</li><!--
   --><!--
   --><!--
   --><!--
@@ -90,5 +90,5 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

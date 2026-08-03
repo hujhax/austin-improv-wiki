@@ -29,10 +29,10 @@
 
 ## History
 ### 1998-1999: Austin Theatresports
-Inspired by the improv he had seen in San Francisco, [[Performers/Sean Hill|Sean Hill]] founded [[Troupes/Austin Theatresports|Austin Theatresports]] in 1998.  This is the group that would shortly form the core of the Hideout Theatre, but they didn't have a theater space yet.  Instead, they performed *[[Troupes/Austin Theatresports|Theatresports]]* shows at a number of venues in town, including [[The Hyde Park Theater]].
+Inspired by the improv he had seen in San Francisco, [[Performers/Sean Hill|Sean Hill]] founded [[Troupes/Austin Theatresports|Austin Theatresports]] in 1998.  This is the group that would shortly form the core of the Hideout Theatre, but they didn't have a theater space yet.  Instead, they performed *[[Troupes/Austin Theatresports|Theatresports]]* shows at a number of venues in town, including The Hyde Park Theater.
 
 ### 1999-2004: Sean Hill Starts the Hideout
-In the first years of the theater's operation, [[Performers/Sean Hill|Sean Hill]] led building/renovating the initial theater space, and he produced the first shows there, starting with [[Shows/TheatreSports|TheatreSports]], and expanding the program out to other [[Wikipedia - Keith Johnstone|Keith Johnstone]] formats such as *[[Shows/Maestro|Maestro]]* and *[[Shows/Gorilla Theater|Gorilla Theater]]*.  He included some traditional longforms that weren't strictly Johnstonian, such as *[[Shows/More or Less|More or Less]]* and *[[Shows/Six Degrees|Six Degrees]]*.
+In the first years of the theater's operation, [[Performers/Sean Hill|Sean Hill]] led building/renovating the initial theater space, and he produced the first shows there, starting with [[Shows/TheatreSports|TheatreSports]], and expanding the program out to other Keith Johnstone formats such as *[[Shows/Maestro|Maestro]]* and *[[Shows/Gorilla Theater|Gorilla Theater]]*.  He included some traditional longforms that weren't strictly Johnstonian, such as *[[Shows/More or Less|More or Less]]* and *[[Shows/Six Degrees|Six Degrees]]*.
 
 ### 2005-2009: The AIC Years
 In the mid-2000s, [[Performers/Sean Hill|Sean Hill]] took a more hands-off approach to the theater, and the [[Austin Improv Collective]] along with Manager [[Performers/Andy Crouch|Andy Crouch]] started to produce shows there, creating programs like *[[Shows/The Threefer|The Threefer]]* and *[[Shows/The Double Barrel|The Double Barrel]]*.
@@ -82,4 +82,4 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 
 ## Notes
 <references/>
-[[Category/Theatres|Category:Theatres]]
+Category:Theatres

@@ -6,15 +6,15 @@
 ## Acts
 ### Local Acts
 * [[Troupes/Foolish Mortals|Foolish Mortals]]
-* [[Gag Reflex]]
+* Gag Reflex
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Heroes of Comedy|Heroes of Comedy]]
 * [[Troupes/Polite Society|Polite Society]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
-* [[The Plurals]]
+* The Plurals
 * [[Troupes/The Sicks|The Sicks]]
-* [[The Think Tank]]
+* The Think Tank
 * [[Troupes/Tight|Tight]]
 * [[Troupes/Well Hung Jury|Well Hung Jury]]
 * [[Troupes/Wooden Nickel|Wooden Nickel]]
@@ -35,4 +35,4 @@
 * Punch Drunk Comedy (Dallas)
 * The Kihckercast Project (New York)
 * Tiny Bandeleros (LA)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

@@ -102,4 +102,4 @@ This show opened *[[Shows/The Saturday Night Special|The Saturday Night Special]
 ## More Information
 * [Show announcements](http://forum.austinimprov.com/viewtopic.php?p=108239) on [[The Austin Improv Forums]].
 * [The show's web page.](http://puppetimprovproject.org/puppet-fever.html)
-[[Category/Shows|Category:Shows]]
+Category:Shows

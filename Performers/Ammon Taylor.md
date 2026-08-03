@@ -32,7 +32,7 @@ Pianist Ammon Taylor is best known as the current accompanist for [[Troupes/Girl
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]] (accompanist)
 
 ## Shows
-* *[[Shut Up and Sing]]* (accompanist)
+* *Shut Up and Sing* (accompanist)
 * *[[Shows/Maestro|Maestro]]* (accompanist)
 * *[[Shows/TheatreSports|TheatreSports]]* (accompanist)
 * *[[Shows/Trash|Trash]]* (composer)
@@ -40,4 +40,4 @@ Pianist Ammon Taylor is best known as the current accompanist for [[Troupes/Girl
 * *[[Shows/A Deed So Dark|A Deed So Dark]]* (Musical director)
 
 [[Category/Performers|Taylor]]
-[[Category/Musicians|Taylor]]
+Taylor

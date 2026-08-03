@@ -31,4 +31,4 @@
 * *[[Shows/The Suitcase|The Suitcase]]*
 
 [[Category/Performers|Tall]]
-[[Category/Active|Category:Active]]
+Category:Active

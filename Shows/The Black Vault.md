@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***The Black Vault*** was an improvised longform show performed in the style of the novels and stories of [[Wikipedia - H. P. Lovecraft|H.P. Lovecraft]].
+***The Black Vault*** was an improvised longform show performed in the style of the novels and stories of H.P. Lovecraft.
 
 ## Format
 Each show in the mainstage run was divided into three stories. A predetermined group of characters would begin on stage, establishing a framing sequence. Eventually, one of the characters would say a phrase which might constitute the title of a Lovecraftian story, and the title was taken up by one of the show's two predetermined main characters. That character would then narrate a story, stepping into and out of the scene as desired. At the conclusion of the story, the framing sequence would resume, until a second title ess announced, at which case the second narrator would begin his or her story. After that, the framing sequence resumed for a final time, at which point the frame itself became the third story and one (non-predetermined) character from the frame became the final narrator.
@@ -141,8 +141,8 @@ Each show in the mainstage run was divided into three stories. A predetermined g
 ## Style
 *The Black Vault* stories were generally of three main styles:
 * Weird Horror&mdash;Tales of unnatural doings moored in such horror tropes as reanimation of the dead, infestation, mind control, or madness.
-* Dreamscape&mdash;Following the style of Lovecraft's "[[Wikipedia - Dream Cycle|Dream Cycle]]," these stories focused on the inner life of the dreaming mind, usually with a fantasy or science fiction bent.
-* Cosmic Horror&mdash;As in the stories in Lovecraft's "[[Wikipedia - Cthulhu Mythos|Cthulhu Mythos]]," these stories focused on unknowable and largely unseen forces from beyond the stars, represented on Earth by mysterious cults and strange ancient artifacts.
+* Dreamscape&mdash;Following the style of Lovecraft's "Dream Cycle," these stories focused on the inner life of the dreaming mind, usually with a fantasy or science fiction bent.
+* Cosmic Horror&mdash;As in the stories in Lovecraft's "Cthulhu Mythos," these stories focused on unknowable and largely unseen forces from beyond the stars, represented on Earth by mysterious cults and strange ancient artifacts.
 
 ## History
 ### Post-run Performances
@@ -220,5 +220,5 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 ### Press
 * [Review of the show in *The Austin Chronicle*.](http://www.austinchronicle.com/blogs/chronolog/2012-10-11/can-i-get-a-suggestion-for-something-that-goes-fhtagn/)
 
-[[Category/Shows|Black Vault]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Black Vault
+Category:The Hideout Theatre

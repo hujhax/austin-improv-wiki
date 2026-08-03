@@ -19,14 +19,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brandon Roesler">Brandon Roesler</a></li><!--
+  --><li style="">Brandon Roesler</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
-  --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Micallef">Jennifer Micallef</a></li><!--
-  --><li style=""><a class="internal-link" href="Jono Gray">Jono Gray</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Strackany">Justin Strackany</a></li><!--
+  --><li style="">Christine Giordano</li><!--
+  --><li style="">Indigo Rael</li><!--
+  --><li style="">Jennifer Micallef</li><!--
+  --><li style="">Jono Gray</li><!--
+  --><li style="">Justin Strackany</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Brockman">Michael Brockman</a></li><!--
@@ -99,4 +99,4 @@ The cast also performed as a troupe for a number of one-off shows in 2012.
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=12812) on [[The Austin Improv Forums]].
 * [The show announcement](http://forum.austinimprov.com/viewtopic.php?t=13116) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

@@ -22,23 +22,23 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Cindy Ward">Cindy Ward</a></td>
+			<td class="category">Cindy Ward</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category"><a class="internal-link" href="Candace Ohm">Candace Ohm</a></td>
+			<td class="category">Candace Ohm</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Jerrad Lindenmuth">Jerrad Lindenmuth</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
+  --><li style="">Angelina Martin</li><!--
+  --><li style="">Jerrad Lindenmuth</li><!--
+  --><li style="">Jessica Soos</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Michelle Dahlenberg">Michelle Dahlenberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Rose">Scott Rose</a></li><!--
-  --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--
-  --><li style=""><a class="internal-link" href="Tania Quintanilla">Tania Quintanilla</a></li><!--
+  --><li style="">Michelle Dahlenberg</li><!--
+  --><li style="">Scott Rose</li><!--
+  --><li style="">Shane Gannaway</li><!--
+  --><li style="">Tania Quintanilla</li><!--
   --><!--
   --><!--
   --><!--
@@ -86,8 +86,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
-  --><li style=""><a class="internal-link" href="Sydney Cabeza">Sydney Cabeza</a></li><!--
+  --><li style="">Alonso Salas</li><!--
+  --><li style="">Sydney Cabeza</li><!--
   --><!--
   --><!--
   --><!--
@@ -153,6 +153,6 @@
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/rewind)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

@@ -15,16 +15,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brad Knox">Brad Knox</a></li><!--
+  --><li style="">Brad Knox</li><!--
   --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Osterwich">Elizabeth Osterwich</a></li><!--
-  --><li style=""><a class="internal-link" href="J. M. Specht">J. M. Specht</a></li><!--
-  --><li style=""><a class="internal-link" href="Janelle Revord">Janelle Revord</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
-  --><li style=""><a class="internal-link" href="Katherine Johnson">Katherine Johnson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Kevin Williamson">Kevin Williamson</a></li><!--
-  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
+  --><li style="">Elizabeth Osterwich</li><!--
+  --><li style="">J. M. Specht</li><!--
+  --><li style="">Janelle Revord</li><!--
+  --><li style="">Jeff Whitaker</li><!--
+  --><li style="">Katherine Johnson</li><!--
+  --><li style="" >Kevin Williamson</li><!--
+  --><li style="">Tre Fuentes</li><!--
   --><!--
   --><!--
   --><!--

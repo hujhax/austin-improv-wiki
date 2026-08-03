@@ -22,10 +22,10 @@
 **Lena Long** is an improv performer. 
 
 ## Shows
-* *[[The Gauntlet]]*
-* *[[Award Winner]]*
+* *The Gauntlet*
+* *Award Winner*
 * *[[Shows/Fuck, It's Hot!|Fuck, It's Hot!]]*
-* *[[A Fine Affair]]*
+* *A Fine Affair*
 * *[[Shows/Lonely Star|Lonely Star]]*
 * *[[Shows/The Source|The Source]]*
 

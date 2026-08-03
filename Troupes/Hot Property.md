@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="David Jara">David Jara</a></li><!--
+  --><li style="">David Jara</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
+  --><li style="">Mac Blake</li><!--
+  --><li style="">Nick Ramirez</li><!--
   --><!--
   --><!--
   --><!--

@@ -23,7 +23,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Lindsey Verrill">Lindsey Verrill</a></li><!--
+  --><li style="">Lindsey Verrill</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Doering">Sarah Doering</a></li><!--
+  --><li style="">Sarah Doering</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
@@ -218,5 +218,5 @@ From the show announcement:<blockquote>We're digging in deep among the roots of 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

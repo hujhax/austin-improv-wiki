@@ -74,8 +74,8 @@
   --><li style=""><a class="internal-link" href="Performers/Chris Curl">Chris Curl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a></li><!--
-  --><li style=""><a class="internal-link" href="Erasmo Romero">Erasmo Romero</a></li><!--
-  --><li style=""><a class="internal-link" href="Josh Farmer">Josh Farmer</a></li><!--
+  --><li style="">Erasmo Romero</li><!--
+  --><li style="">Josh Farmer</li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Nicholas Marino">Nicholas Marino</a></li><!--
@@ -125,10 +125,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Jason Hoppenworth">Jason Hoppenworth</a><br>(lights)</li><!--
+  --><li style="">Jason Hoppenworth<br>(lights)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a><br>(technical director)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a><br>(stage manager)</li><!--
-  --><li style=""><a class="internal-link" href="Tyleah McGuire">Tyleah McGuire</a><br>(sound)</li><!--
+  --><li style="">Tyleah McGuire<br>(sound)</li><!--
   --><!--
   --><!--
   --><!--
@@ -184,7 +184,7 @@
 	</table>
 </div>
 
-***Adventure PhD*** will be the October 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Adventure PhD*** will be the October 2016 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 [[Performers/Danielle Saar|Danielle Saar]] had to drop out because of career-related reasons.
 
@@ -209,5 +209,5 @@ Every Saturday at 6pm at the Hideout bold adventures will delight you with their
 * [Texas Tex and the Ivory Tablets photoset](https://www.facebook.com/SteveRogersPhotography/photos/?tab=album&album_id=1315359981860848) by Steve Rogers.
 * [Montana Monica and the Golden Phoenix](https://gigity.tv/event/119023) on gigity.tv. (Ellen Pizarek & Erasmo Romero)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

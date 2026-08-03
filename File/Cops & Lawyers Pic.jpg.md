@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Cops & Lawyers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Christina Bain]] delivers closing arguments in the 8/12/06 performance of *[[Shows/Cops & Lawyers|Cops & Lawyers]]*.
+Christina Bain delivers closing arguments in the 8/12/06 performance of *[[Shows/Cops & Lawyers|Cops & Lawyers]]*.
 
 Photo by [[Performers/Marc Majcher|Marc Majcher]], from [this photoset](http://www.facebook.com/media/set/?set=a.10151697344967265.1073741828.588952264&type=3).
 ## Licensing

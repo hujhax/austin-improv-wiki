@@ -19,9 +19,9 @@
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style="">Katie Sicking</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
+  --><li style="">Nick Ramirez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--

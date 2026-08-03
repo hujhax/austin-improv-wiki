@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Noah Voelker">Noah Voelker</a></li><!--
+  --><li style="">Noah Voelker</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--

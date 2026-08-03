@@ -25,11 +25,11 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Cassidy Claire Riesen">Cassidy Claire Riesen</a></li><!--
+  --><li style="">Cassidy Claire Riesen</li><!--
   --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="J. M. Specht">J. M. Specht</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style="">J. M. Specht</li><!--
+  --><li style="">Jesse Overright</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
@@ -92,7 +92,7 @@ Prior to its main run, *Seance* had one-off performance dates on 10/29/10 and 12
 #### Early Cast
 * [[Performers/Clay Towery|Clay Towery]]
 * [[Performers/Emily Breedlove|Emily Breedlove]]
-* [[Jesse Overright]]
+* Jesse Overright
 * [[Performers/Kristin Firth|Kristin Firth]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Sara Farr|Sara Farr]]
@@ -105,10 +105,10 @@ The main run was from 10/26/12 to 11/17/12, on Fridays and Saturdays.
 #### Mainstage Cast
 * [[Performers/Andreas Fabis|Andreas Fabis]]
 * [[Performers/Bridget Brewer|Bridget Brewer]]
-* [[Cassidy Claire Riesen]]
+* Cassidy Claire Riesen
 * [[Performers/Clay Towery|Clay Towery]]
 * [[Performers/Emily Breedlove|Emily Breedlove]]
-* [[J. M. Specht]]
+* J. M. Specht
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Todd Hart|Todd Hart]]
 
@@ -129,4 +129,4 @@ The main run was from 10/26/12 to 11/17/12, on Fridays and Saturdays.
 * [The show's web page.](http://gnaptheater.org/seance/)
 * [The initial show announcement](http://forum.austinimprov.com/viewtopic.php?t=12430&p=111712) on [[The Austin Improv Forums]].
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?t=13571) on [[The Austin Improv Forums]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

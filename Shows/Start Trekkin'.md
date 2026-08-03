@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Start Trekkin***' was an improvised longform narrative show inspired by [[Wikipedia - Star Trek -  The Original Series|the original *Star Trek* television series]].
+***Start Trekkin***' was an improvised longform narrative show inspired by the original *Star Trek* television series.
 
 ## History
 *Start Trekkin*' was originated by Lawrence Wolf in San Francisco around 2000.  The show was very successful there, with a large number of performances and sci-fi-convention appearances.
@@ -179,24 +179,24 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Kevin Miller|Kevin Miller]]
 * [[Performers/Sean Hill|Sean Hill]]
-* [[Tim Giradot]] (Musical improviser)
+* Tim Giradot (Musical improviser)
 * [[Performers/Troy Miller|Troy Miller]]
 
 ### Season 2
 * [[Performers/Andy Crouch|Andy Crouch]]
-* [[Ben Sterling]]
+* Ben Sterling
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
 * [[Performers/Kevin Miller|Kevin Miller]]
 * [[Performers/Shana Merlin|Shana Merlin]]
-* [[Tim Giradot]] (Musical improviser)
+* Tim Giradot (Musical improviser)
 * [[Performers/Troy Miller|Troy Miller]]
 
 ### Season 3
 *This list is incomplete*
 * [[Performers/Andy Crouch|Andy Crouch]]
-* [[Ben Sterling]]
+* Ben Sterling
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
@@ -209,7 +209,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 ### Season 4
 *This list is incomplete*
 
-* [[Christina DeRoos]]
+* Christina DeRoos
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
@@ -218,14 +218,14 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Roy Janik|Roy Janik]]
 * [[Performers/Sean Hill|Sean Hill]]
 * [[Performers/Troy Miller|Troy Miller]]
-* [[Wesley Bain]]
+* Wesley Bain
 
 ### Season 5
 * [[Performers/Aden Kirschner|Aden Kirschner]]
 * [[Performers/Andy Crouch|Andy Crouch]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Chris Allen|Chris Allen]]
-* [[Dario Konjicija]]
+* Dario Konjicija
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
@@ -270,16 +270,16 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Aaron Saenz|Aaron Saenz]]
 * [[Performers/Ace Manning|Ace Manning]]
 * [[Performers/Andy Crouch|Andy Crouch]] (co-director)
-* [[Angie Epley]]
+* Angie Epley
 * [[Performers/Aspen Webster|Aspen Webster]]
-* [[Ben Sterling]] (co-director)
+* Ben Sterling (co-director)
 * [[Performers/Cat Drago|Cat Drago]]
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
 * [[Performers/Katie Dahm|Katie Dahm]] 
 * [[Performers/Kenny Madison|Kenny Madison]]
-* [[Michelle Cook]] 
+* Michelle Cook 
 * [[Performers/Monica Martinez Maher|Monica Martinez Maher]]
 
 ## Media
@@ -327,5 +327,5 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [The show's web page for season 6.](http://www.hideouttheatre.com/shows/highballstarttrekkin)
 * [A review of season 2, episode 4](http://www.austinchronicle.com/arts/2005-05-06/269694/) in *The Austin Chronicle*.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

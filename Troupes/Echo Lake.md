@@ -82,6 +82,6 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 <p>We're really funny. That's our deal.</p></blockquote>
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/All-Female Troupes|Category:All-Female Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

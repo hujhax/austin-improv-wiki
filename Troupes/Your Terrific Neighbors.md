@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Braden Walker">Braden Walker</a></li><!--
+  --><li style="">Braden Walker</li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><!--
@@ -86,7 +86,7 @@ The troupe participated in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour I
 * "Ronald Stepp Presents Ron Stepp and the Stepp Sisters"
 
 ### Former Members
-* [[Joel Osborne]]
+* Joel Osborne
 
 ## Media
 ### Videos
@@ -99,27 +99,27 @@ The troupe participated in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour I
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1492894885084.66210.1315383518&type=3) by [[Michael Yew]] that includes their 2/6/11 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.1492894885084.66210.1315383518&type=1) by [[Michael Yew]] that includes a 2/6/11 performance.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.110047785742920.19028.100002130980897&type=3) by [[Steve Rogers]] of their 3/11/11 show.
-* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.126797817401250.32892.100002130980897&type=3) by [[Steve Rogers]] that includes their 5/28/11 show at [[Austin Sketch Fest]].
-	* [A photoset](http://www.facebook.com/media/set/?set=a.10151003285993086.481280.509318085&type=1) by [[Arian Bumby]] that includes the same show.
+* [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.126797817401250.32892.100002130980897&type=3) by [[Steve Rogers]] that includes their 5/28/11 show at Austin Sketch Fest.
+	* [A photoset](http://www.facebook.com/media/set/?set=a.10151003285993086.481280.509318085&type=1) by Arian Bumby that includes the same show.
 	* [A photoset](http://www.facebook.com/media/set/?set=a.126797817401250.32892.100002130980897&type=1) by [[Steve Rogers]] that includes the same show.
 * [A photoset](http://www.facebook.com/media/set/?set=a.164587043622327.43580.100002130980897&type=1) by [[Steve Rogers]] that includes their performance in [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]], on 9/3/11.
-* [A photoset](http://www.facebook.com/media/set/?set=a.370876979642491.89035.221927764537414&type=1) by [[Steve Rogers]] of their performance in the 2012 [[Austin Sketchfest]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.370876979642491.89035.221927764537414&type=1) by [[Steve Rogers]] of their performance in the 2012 Austin Sketchfest.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3) by [[Michael Yew]] that includes their 6/24/12 performance.
 * [Photoset of "Ronald Stepp Presents Ron Stepp and the Stepp Sisters" from 7/13/12](http://www.facebook.com/media/set/?set=a.396688563727999.94464.221927764537414&type=3) by [[Steve Rogers]].
 * [Photoset of "Ronald Stepp Presents Ron Stepp and the Stepp Sisters" from 7/14/12](http://www.facebook.com/media/set/?set=a.446455175375983.99833.100000345135257&type=1) by [[Performers/Claudio Fox|Claudio Fox]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.415628145167374.100927.221927764537414&type=3) by [[Steve Rogers]] of their 8/31/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102379642080070.3466612.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 9/22/12 performance in *[[The Informal Pig Show]]*.
-* [A photoset](http://www.facebook.com/media/set/?set=a.542657045797816.1073741872.221927764537414&type=3) by [[Steve Rogers]] of their 5/25/13 performance in the 2013 [[Austin Sketchfest]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.591966044200249.1073741928.221927764537414&type=3) by [[Steve Rogers]] of their 8/30/13 performane at [[The ColdTowne Marathon]].
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102379642080070.3466612.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 9/22/12 performance in *The Informal Pig Show*.
+* [A photoset](http://www.facebook.com/media/set/?set=a.542657045797816.1073741872.221927764537414&type=3) by [[Steve Rogers]] of their 5/25/13 performance in the 2013 Austin Sketchfest.
+* [Photoset](http://www.facebook.com/media/set/?set=a.591966044200249.1073741928.221927764537414&type=3) by [[Steve Rogers]] of their 8/30/13 performane at The ColdTowne Marathon.
 * [Photoset](http://www.facebook.com/media/set/?set=a.641295119267341.1073741950.221927764537414&type=3) by [[Steve Rogers]] of their 11/30/13 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.744456155617903.1073742010.221927764537414&type=3) by [[Steve Rogers]] of their 5/22/14 performance at [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.744456155617903.1073742010.221927764537414&type=3) by [[Steve Rogers]] of their 5/22/14 performance at Austin Sketch Fest.
 * [Photoset](http://www.facebook.com/media/set/?set=a.794562937273891.1073742056.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.966205913442925.1073742203.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/22/15 show at [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.966205913442925.1073742203.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/22/15 show at Austin Sketch Fest.
 
 ## More Information
 * [The troupe's website.](http://www.yourterrificneighbors.com/)
 * [The troupe's facebook page.](http://www.facebook.com/YourTerrificNeighbors)
-* [An *Austin Culture Map* interview with the troupe](http://austin.culturemap.com/news/arts/05-24-13-meet-your-terrific-neighbors-the-sketch-comedy-vets-keeping-it-weird/) for the 2012 [[Austin Sketchfest]]
+* [An *Austin Culture Map* interview with the troupe](http://austin.culturemap.com/news/arts/05-24-13-meet-your-terrific-neighbors-the-sketch-comedy-vets-keeping-it-weird/) for the 2012 Austin Sketchfest
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

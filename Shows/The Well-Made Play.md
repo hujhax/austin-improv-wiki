@@ -69,7 +69,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Dramaturg(s)</th>
-			<td class="category">[[Christopher Anderson]]</td>
+			<td class="category">Christopher Anderson</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -78,14 +78,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alan Buttars">Alan Buttars</a></li><!--
-  --><li style=""><a class="internal-link" href="Amanda Chang">Amanda Chang</a></li><!--
-  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a></li><!--
-  --><li style=""><a class="internal-link" href="Christian Lewis">Christian Lewis</a></li><!--
-  --><li style=""><a class="internal-link" href="Cristy Salinas Lynch">Cristy Salinas Lynch</a></li><!--
-  --><li style=""><a class="internal-link" href="Gabriela Vargas">Gabriela Vargas</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeffrey Chatman">Jeffrey Chatman</a></li><!--
-  --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--
+  --><li style="">Alan Buttars</li><!--
+  --><li style="">Amanda Chang</li><!--
+  --><li style="">Bonnie Dilber</li><!--
+  --><li style="">Christian Lewis</li><!--
+  --><li style="">Cristy Salinas Lynch</li><!--
+  --><li style="">Gabriela Vargas</li><!--
+  --><li style="">Jeffrey Chatman</li><!--
+  --><li style="">Shane Gannaway</li><!--
   --><!--
   --><!--
   --><!--
@@ -133,9 +133,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andre K. Buchanan">Andre K. Buchanan</a></li><!--
-  --><li style=""><a class="internal-link" href="Brad Geiger">Brad Geiger</a></li><!--
-  --><li style=""><a class="internal-link" href="Daniel Ellsworth">Daniel Ellsworth</a></li><!--
+  --><li style="">Andre K. Buchanan</li><!--
+  --><li style="">Brad Geiger</li><!--
+  --><li style="">Daniel Ellsworth</li><!--
   --><!--
   --><!--
   --><!--
@@ -196,14 +196,14 @@
 
 
 ## Full Crew
-* [[Andre K. Buchanan]] - Scoring
-* [[Brad Geiger]] - Sound Effects
-* [[Daniel Ellsworth]] - Lights
+* Andre K. Buchanan - Scoring
+* Brad Geiger - Sound Effects
+* Daniel Ellsworth - Lights
 
 ## More Information
 * [The cast/crew announcement.](https://www.facebook.com/groups/hideouttheatre/permalink/1776074062415690/)
 * [The show page.](http://www.hideouttheatre.com/shows/thewellmadeplay)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

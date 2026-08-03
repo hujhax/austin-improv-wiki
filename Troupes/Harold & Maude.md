@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Dan Rigney">Dan Rigney</a></li><!--
+  --><li style="">Dan Rigney</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Jay Byrd</a></li><!--
   --><!--
   --><!--

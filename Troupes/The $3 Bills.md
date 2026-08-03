@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Belinda Carroll">Belinda Carroll</a></li><!--
+  --><li style="">Belinda Carroll</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Marci Spivey">Marci Spivey</a></li><!--
-  --><li style=""><a class="internal-link" href="Kim Wilson">Kim Wilson</a></li><!--
+  --><li style="">Marci Spivey</li><!--
+  --><li style="">Kim Wilson</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**The $3 Bills** was a [[Wikipedia - GLBTQ|GLBTQ]]-themed improv troupe.
+**The $3 Bills** was a GLBTQ-themed improv troupe.
 
 ## Summary
 ## Press Blurb

@@ -71,12 +71,12 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
-  --><li style=""><a class="internal-link" href="Judy Blackshear">Judy Blackshear</a></li><!--
-  --><li style=""><a class="internal-link" href="Kathie Xiao">Kathie Xiao</a></li><!--
-  --><li style=""><a class="internal-link" href="Paül Ramone Weiner">Paül Ramone Weiner</a></li><!--
-  --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a></li><!--
+  --><li style="">Benjamin Blattberg</li><!--
+  --><li style="">Jenn Hamm</li><!--
+  --><li style="">Judy Blackshear</li><!--
+  --><li style="">Kathie Xiao</li><!--
+  --><li style="">Paül Ramone Weiner</li><!--
+  --><li style="">Phil Morin</li><!--
   --><li style=""><a class="internal-link" href="Performers/R Lance Hunter">R Lance Hunter</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
@@ -125,11 +125,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brianna Minks">Brianna Minks</a></li><!--
+  --><li style="">Brianna Minks</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (tech director)</li><!--
-  --><li style=""><a class="internal-link" href="Monica Wells">Monica Wells</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
-  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a> (stage manager)</li><!--
+  --><li style="">Monica Wells</li><!--
+  --><li style="">Nick Amsden</li><!--
+  --><li style="">Sandra Ybarra (stage manager)</li><!--
   --><!--
   --><!--
   --><!--
@@ -184,7 +184,7 @@
 	</table>
 </div>
 
-***Origins*** will be the April 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Origins*** will be the April 2016 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
@@ -194,6 +194,6 @@ From the show announcement:<blockquote>Every superhero has an origin; fraught wi
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

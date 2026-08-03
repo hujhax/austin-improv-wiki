@@ -3,7 +3,7 @@
 ## Summary
 A ticket to a 5/14/96 [[Troupes/Monks' Night Out|Monks' Night Out]] show.
 
-(Scan by [[Christie Ingram]].)
+(Scan by Christie Ingram.)
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

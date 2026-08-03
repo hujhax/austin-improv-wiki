@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Anna Giacomo">Anna Giacomo</a></li><!--
-  --><li style=""><a class="internal-link" href="Brad Smith">Brad Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Brett Weaver">Brett Weaver</a></li><!--
+  --><li style="">Anna Giacomo</li><!--
+  --><li style="">Brad Smith</li><!--
+  --><li style="">Brett Weaver</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Noah Wright">Noah Wright</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Yonkin">Patrick Yonkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Rhett O'Hara">Rhett O'Hara</a></li><!--
-  --><li style=""><a class="internal-link" href="Vicky Vegh">Vicky Vegh</a></li><!--
+  --><li style="">Noah Wright</li><!--
+  --><li style="">Patrick Yonkin</li><!--
+  --><li style="">Rhett O'Hara</li><!--
+  --><li style="">Vicky Vegh</li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@ Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hi
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our host gets questions from the audience, one of our experts will step forward to answer, with other member acting out the answers on stage. At the halfway point in our show we change gears and perform a short set of montage scenes based off the Q&A. </blockquote>
 
 ## History
-The format premiered as a [[List of Free Fringes#Infotainment .28Brad Smith.29|*Free Fringe* on 5/30/13]].
+The format premiered as a *Free Fringe* on 5/30/13.
 
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/austininfotainment)

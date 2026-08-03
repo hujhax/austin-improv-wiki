@@ -45,7 +45,7 @@
 * Saturday, 12pm (Hour 20): [[Troupes/What's the Story, Steve|What's the Story, Steve]]
 * Saturday, 1pm (Hour 21): Alamo City Improv
 	* "The improv scene in San Antonio is exploding, so we've invited them to come join in the fun"
-* Saturday, 2pm (Hour 22): *[[Happy Fun Town]]*
+* Saturday, 2pm (Hour 22): *Happy Fun Town*
 * Saturday, 3pm (Hour 23): "The Eye of the Storm"
 	* "The midpoint of the show... and a brief respite for the core 8 to do whatever they want. This is when they need you the most. Come cheer them on."
 * Saturday, 4pm (Hour 24): *[[Shows/Charles Dickens Unleashed!|Charles Dickens Unleashed!]]*
@@ -55,20 +55,20 @@
 * Saturday, 8pm (Hours 28 & 29): *[[Shows/Fiasco|Fiasco]]*
 * Saturday, 10pm (Hours 30 & 31): *[[Shows/Maestro|Maestro]]*
 * Sunday, 12am (Hour 32): [[Puppet Improv Project]]
-* Sunday, 1am (Hour 33): *[[Hardish Bodies]]*
+* Sunday, 1am (Hour 33): *Hardish Bodies*
 * Sunday, 2am (Hour 34): *[[Shows/The Black Vault|The Black Vault]]*
 * Sunday, 3am (Hour 35): "Bad Is Good"
 	* "Our worst fears about performance woven into gold through improv alchemy. Based on a show from Vancouver."
 * Sunday, 4am (Hour 36): [[Troupes/GigglePants|GigglePants]]
 * Sunday, 5am (Hour 37): "The Force Awakens"
-	* "*[[Wikipedia - Star Wars -  The Force Awakens|Star Wars: The Force Awakens]]* was a hell of a film"
+	* "*Star Wars: The Force Awakens* was a hell of a film"
 * Sunday, 6am (Hour 38): [[Troupes/MC Harold|MC Harold]]
 * Sunday, 7am (Hour 39): *[[Shows/Teenage Wasteland|Teenage Wasteland]]*
 * Sunday, 8am (Hour 40): [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]]
 * Sunday, 9am (Hour 41): [[Troupes/Physics Curse|Physics Curse]]
 	* "Physics Curse Eats Burgers: Physics Curse doing their thing, while eating... burgers? I dunno, man."
 * Sunday, 10am (Hour 42): [[Troupes/Confidence Men|Confidence Men]]
-* Sunday, 11am (Hour 43): [[Damn, Gina!]]
+* Sunday, 11am (Hour 43): Damn, Gina!
 * Sunday, 12pm (Hour 44): The Secret Show
 	* "what's this gonna be? WHO KNOWS? A Marathon Tradition"
 * Sunday, 1pm (Hour 45): [[Troupes/The Available Cupholders|The Available Cupholders]]
@@ -78,4 +78,4 @@
 
 ## More Information
 * [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Delanie Liming">Delanie Liming</a></li><!--
-  --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Bird">Michael Bird</a></li><!--
+  --><li style="">Delanie Liming</li><!--
+  --><li style="">Erik Adams</li><!--
+  --><li style="">Jenny Carlson</li><!--
+  --><li style="">Katie Sicking</li><!--
+  --><li style="">Michael Bird</li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
   --><!--
   --><!--
@@ -71,7 +71,7 @@
 </div>
 
 ## History
-The troupe was part of ColdTowne's sixth graduating class (as was [[Wicked City]]).
+The troupe was part of ColdTowne's sixth graduating class (as was Wicked City).
 
 They are listed on the *[[Shows/Cagematch|Cagematch]]* 2x4 as winning a tournament on 2/28/09, but this seems to contradict the show's bracketing records.
 

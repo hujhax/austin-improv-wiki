@@ -95,7 +95,7 @@ These are phrases you will never, ever hear applied to Austin's You're Not My Re
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2505269593819.108656.1315383518&type=3) by [[Michael Yew]] that includes their 1/21/12 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.414658608597661.100647.221927764537414&type=1) by [[Steve Rogers]] which includes their 8/30/12 show at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/Jonbolden/media_set?set=a.616168212563.2054413.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] which includes their performance at [[Festivals/WaffleFest 2012|WaffleFest 2012]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=1) by [[Roy Moore]] which includes their 2/3/13 show at *[[Bitterfest]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=1) by [[Roy Moore]] which includes their 2/3/13 show at *Bitterfest*.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578110862107.1073741852.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their perfromance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
 ### Other
@@ -105,4 +105,4 @@ These are phrases you will never, ever hear applied to Austin's You're Not My Re
 * [First mention of the troupe on the forums.](http://forum.austinimprov.com/viewtopic.php?t=5400#p45828)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

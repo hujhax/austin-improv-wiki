@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Craig McGreggor">Craig McGreggor</a></li><!--
-  --><li style=""><a class="internal-link" href="Doug Pendergras Jr">Doug Pendergras Jr</a></li><!--
-  --><li style=""><a class="internal-link" href="Hanna AbuZayed">Hanna AbuZayed</a></li><!--
-  --><li style=""><a class="internal-link" href="Jake Morrow">Jake Morrow</a></li><!--
-  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
-  --><li style=""><a class="internal-link" href="Maria Morrow">Maria Morrow</a></li><!--
-  --><li style=""><a class="internal-link" href="Mike Ponder">Mike Ponder</a></li><!--
-  --><li style=""><a class="internal-link" href="Ruzica Oldja">Ruzica Oldja</a></li><!--
+  --><li style="">Craig McGreggor</li><!--
+  --><li style="">Doug Pendergras Jr</li><!--
+  --><li style="">Hanna AbuZayed</li><!--
+  --><li style="">Jake Morrow</li><!--
+  --><li style="">Linzy Beltran</li><!--
+  --><li style="">Maria Morrow</li><!--
+  --><li style="">Mike Ponder</li><!--
+  --><li style="">Ruzica Oldja</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a> (music)</li><!--
   --><!--
   --><!--
@@ -85,11 +85,11 @@ The rapping portion helps to create, paint, and explore the themes, story or cha
 
 ## Media
 ## Photos =
-* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208028066965899.1073741868.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] that includes their 9/7/15 performance at *[[The Knockout]]*.
+* [Photoset](http://www.facebook.com/jay.mahavier/media_set?set=a.10208028066965899.1073741868.1425495839&type=3) by [[Performers/Jay Mahavier|Jay Mahavier]] that includes their 9/7/15 performance at *The Knockout*.
 
 ### Videos
 * [The troupe's February 2015 debut](http://vimeo.com/118703724) at [[Theatres/The Institution Theater|The Institution Theater]].
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

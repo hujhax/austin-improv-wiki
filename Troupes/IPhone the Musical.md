@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Wesley">Andrew Wesley</a></li><!--
+  --><li style="">Andrew Wesley</li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="Phil Wilhelm">Phil Wilhelm</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
+  --><li style="">Phil Wilhelm</li><!--
+  --><li style="">Scott Moss</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,4 +78,4 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Never Performed|Category:Never Performed]]
+Category:Never Performed

@@ -26,4 +26,4 @@
 Salvage Vanguard Theater was, for several years, the home of [[Gnap! Theater Projects]], which used the building's smaller theater space for a number of continuing shows and mainstage runs.
 
 [[Gnap!]] has since folded its improv-production work, and now the theater only sporadically rents out its space to independent improv productions.
-[[Category/Theatres|Category:Theatres]]
+Category:Theatres

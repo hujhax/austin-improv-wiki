@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
-  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style="">Addison Billingsley</li><!--
+  --><li style="">Danny Catlow</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric Rutherford">Eric Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Jack Leahy">Jack Leahy</a></li><!--
-  --><li style=""><a class="internal-link" href="Max Lipschitz">Max Lipschitz</a></li><!--
-  --><li style=""><a class="internal-link" href="Sam Malcom">Sam Malcom</a></li><!--
+  --><li style="">Eric Rutherford</li><!--
+  --><li style="">Jack Leahy</li><!--
+  --><li style="">Max Lipschitz</li><!--
+  --><li style="">Sam Malcom</li><!--
   --><!--
   --><!--
   --><!--

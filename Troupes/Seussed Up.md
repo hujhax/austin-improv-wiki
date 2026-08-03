@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alessandra Manon">Alessandra Manon</a></li><!--
-  --><li style=""><a class="internal-link" href="Bloom Davis">Bloom Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Cassadie Petersen">Cassadie Petersen</a></li><!--
+  --><li style="">Alessandra Manon</li><!--
+  --><li style="">Bloom Davis</li><!--
+  --><li style="">Cassadie Petersen</li><!--
   --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Fitzgerald">Matt Fitzgerald</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Vasilas">Sarah Vasilas</a></li><!--
+  --><li style="">Matt Fitzgerald</li><!--
+  --><li style="">Sarah Vasilas</li><!--
   --><!--
   --><!--
   --><!--

@@ -25,6 +25,6 @@
 ## Troupes
 ## Shows
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
-* *[[LoveFest 2014]]*
+* *LoveFest 2014*
 
 [[Category/Performers|Leary]]

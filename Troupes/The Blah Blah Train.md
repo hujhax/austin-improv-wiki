@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Briton Kolber">Briton Kolber</a></li><!--
-  --><li style=""><a class="internal-link" href="Jaime Gonzales">Jaime Gonzales</a></li><!--
-  --><li style=""><a class="internal-link" href="John Porter">John Porter</a></li><!--
-  --><li style=""><a class="internal-link" href="Laura Walberg">Laura Walberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Mariella Krause">Mariella Krause</a></li><!--
+  --><li style="">Briton Kolber</li><!--
+  --><li style="">Jaime Gonzales</li><!--
+  --><li style="">John Porter</li><!--
+  --><li style="">Laura Walberg</li><!--
+  --><li style="">Mariella Krause</li><!--
   --><li style=""><a class="internal-link" href="Performers/Owen Egerton">Owen Egerton</a></li><!--
-  --><li style=""><a class="internal-link" href="Tim Bauer">Tim Bauer</a></li><!--
+  --><li style="">Tim Bauer</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--

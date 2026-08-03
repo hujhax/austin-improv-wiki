@@ -31,7 +31,7 @@ Before coming to improv, Chrissy Shackelford attended the University of Texas at
 * [[Troupes/Men In Chrissy's Life|Men In Chrissy's Life]] (2013-present)
 * [[Troupes/Cheap Date|Cheap Date]] (2013-present)
 * [[Shows/Stool Pigeon|Stool Pigeon]] (2013-present)
-* [[Powerball]] (2013-present)
+* Powerball (2013-present)
 
 ## Shows
 * *[[Shows/Indy Movies|Indy Movies]]*

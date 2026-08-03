@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
+  --><li style="">Amy Carpenter</li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>[[Amy Carpenter]] is [[Performers/John Ratliff|John Ratliff]]'s landlady. They're also friends who improvise together. They're either the White Stripes or the Belle and Sebastian of improv, depending on the night. Only you can say for sure. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Amy Carpenter is [[Performers/John Ratliff|John Ratliff]]'s landlady. They're also friends who improvise together. They're either the White Stripes or the Belle and Sebastian of improv, depending on the night. Only you can say for sure. </blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>"Grounded" scenework, WHATEVER THAT MEANS. Typically three or four longer scenes but sometimes things start moving faster. </blockquote>
@@ -85,6 +85,6 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]
 [[Category/John Ratliff Duos|Category:John Ratliff Duos]]

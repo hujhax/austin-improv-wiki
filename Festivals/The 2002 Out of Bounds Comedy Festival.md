@@ -9,7 +9,7 @@
 * [[Troupes/Gravy|Gravy]] 
 * [[Troupes/Heroes of Comedy|Heroes of Comedy]] 
 * [[Troupes/National Comedy Theatre|National Comedy Theatre]] 
-* [[One Night Band]] 
+* One Night Band 
 * A showcase for people who had taken a solo workshop from [[Performers/Jeremy Lamb|Jeremy Lamb]].
 * [[Troupes/Well Hung Jury|Well Hung Jury]] 
 
@@ -17,4 +17,4 @@
 * Freudian Slip (College Station)
 * Pavlov's Dogs (Dallas)
 * Sunshine Express (Kentucky)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

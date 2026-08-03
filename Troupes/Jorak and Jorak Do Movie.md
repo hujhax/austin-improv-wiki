@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
+  --><li style="">Brent Foshee</li><!--
+  --><li style="">Scott Moss</li><!--
   --><!--
   --><!--
   --><!--
@@ -93,6 +93,6 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 * [The troupe's web site.](http://www.jorakandjorak.com)
 * [The troupe's facebook page.](http://www.facebook.com/jorakandjorak/)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

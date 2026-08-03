@@ -41,7 +41,7 @@
   --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style="">Haley Alea Erickson</li><!--
   --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Danger">Kaci Danger</a></li><!--
@@ -75,23 +75,23 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">2012 Run</li><!--
-  --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
+  --><li style="">Carl Ziegler</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><li style="">.</li><!--
   --><li style="">2016 Run</li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a> (Costumes/Set Asst)</li><!--
-  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a> (Lights/Run Crew)</li><!--
+  --><li style="">Bonnie Dilber (Lights/Run Crew)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a> (Lights/Audio/Run Crew)</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a> (Lights/Costume Asst)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (Costuming Lead)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a> (Costumes/Run Crew)</li><!--
-  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a> (Run Crew)</li><!--
+  --><li style="">Jenn Hamm (Run Crew)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a> (Stage Manager)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (Technical Director)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (Audio Lead)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a> (Lights/Run Crew)</li><!--
-  --><li style=""><a class="internal-link" href="Nicole Oglesby">Nicole Oglesby</a> (Set Asst)</li><!--
-  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a> (Assistant Stage Manager)</li><!--
+  --><li style="">Nicole Oglesby (Set Asst)</li><!--
+  --><li style="">Sandra Ybarra (Assistant Stage Manager)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Stuart m feild">Stuart m feild</a> (Set Lead)</li><!--
   --><!--
   --><!--
@@ -157,7 +157,7 @@ Act three consisted of a section of opening night of the play.  By this point, t
 
 In the mid-2000s, the [[Troupes/Available Cupholders|Available Cupholders]] played The Play Format sporadically, sometimes in combined shows with [[Troupes/Parallelogramophonograph|Parallelogramophonograph]].
 
-Then, in 2010, [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] put together a group in New York City called The Hypotheticals.  (The group consisted of him, Lee Eddy, [[Ben Sterling]], Jeff Mills, Viviana Olen, Jeff Lepine, and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]].)  They returned to The Play Format.  They tried introducing the audition section, and met with great success.  They also created the tech director/stage manager as a way to help the director keep things moving and straightened out endowment-wise.  The Hypotheticals played the format a number of times at The PIT and the Tank theater.  [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]] played the format at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (as "Gardetto's Snack Mix") on 8/27/10.
+Then, in 2010, [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] put together a group in New York City called The Hypotheticals.  (The group consisted of him, Lee Eddy, Ben Sterling, Jeff Mills, Viviana Olen, Jeff Lepine, and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]].)  They returned to The Play Format.  They tried introducing the audition section, and met with great success.  They also created the tech director/stage manager as a way to help the director keep things moving and straightened out endowment-wise.  The Hypotheticals played the format a number of times at The PIT and the Tank theater.  [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]] played the format at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (as "Gardetto's Snack Mix") on 8/27/10.
 
 In the summer of 2011, the [[Troupes/Available Cupholders|Available Cupholders]] attended the Sarasota Improv Festival, and were invited to stay an extra week to do a run of shows.  They presented The Play Format.  They were playing at a top-notch professional theater (The Florida Studio Theatre), which allowed them to raid their prop, scenery, and costume storage for elements that they could use during their run.  The shows were a success, and adding prop, scenery, and costumes to the third act went over particularly well.
 
@@ -197,7 +197,7 @@ For the remaining shows, they just let the title and table-read dictate the genr
 * [[Performers/Ruby Willmann|Ruby Willmann]]
 
 ### Crew
-* [[Carl Ziegler]]
+* Carl Ziegler
 * [[Michael Yew]]
 
 ### Between Runs (2012-2015)
@@ -213,7 +213,7 @@ The show is returning in 2016 as a Hideout mainstage show.
 * [[Performers/Ace Manning|Ace Manning]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/Curtis Luciani|Curtis Luciani]]
-* [[Haley Alea Erickson]]
+* Haley Alea Erickson
 * [[Performers/J.R. Zambrano|J.R. Zambrano]]
 * [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]]
 * [[Performers/Kaci Danger|Kaci Danger]]
@@ -225,16 +225,16 @@ The show is returning in 2016 as a Hideout mainstage show.
 * [[Performers/Rosemarie Frezza|Rosemarie Frezza]]
 
 ### Crew
-* Assistant Stage Manager - [[Sandra Ybarra]]
+* Assistant Stage Manager - Sandra Ybarra
 * Audio Lead - [[Michael Yew]]
 * Costumes/Run Crew - [[Performers/Ellen Pizarek|Ellen Pizarek]]
 * Costumes/Set Asst - [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * Costuming Lead - [[Performers/Cindy Page|Cindy Page]]
 * Lights/Audio/Run Crew - [[Performers/Brad Hawkins|Brad Hawkins]]
 * Lights/Costume Asst - [[Performers/Carolyn Gjertsen|Carolyn Gjertsen]]
-* Lights/Run Crew - [[Performers/Nichole Bennett|Nichole Bennett]] and [[Bonnie Dilber]]
-* Run Crew - [[Jenn Hamm]]
-* Set Asst - [[Nicole Oglesby]]
+* Lights/Run Crew - [[Performers/Nichole Bennett|Nichole Bennett]] and Bonnie Dilber
+* Run Crew - Jenn Hamm
+* Set Asst - Nicole Oglesby
 * Set Lead - [[Performers/Stuart m feild|Stuart m feild]]
 * Stage Manager - [[Performers/Jessica Von Schramm|Jessica Von Schramm]]
 * Technical Director - [[Performers/Lindsey McGowen|Lindsey McGowen]]
@@ -249,7 +249,7 @@ The show is returning in 2016 as a Hideout mainstage show.
 * [Photoset of the 3/24/12 show](http://www.facebook.com/claudio.fox.5/media_set?set=a.377731208915047.87462.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]].
 * [Photoset of the 3/31/12 show](http://www.facebook.com/media/set/?set=a.329076013822588.80828.221927764537414&type=3) ("Middle School") by [[Steve Rogers]].
 * [Photoset of the 4/15/12 show](http://www.facebook.com/media/set/?set=a.312344468834239.70584.118587218209966&type=3) ("My Heart Doth Bleed Gold") by [[Roy Moore]].
-* [Photoset](http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1) by [[Anna Lattka]] of the 8/29/12 show at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/anna.lattka/media_set?set=a.4440879311300.172487.1568827741&type=1) by Anna Lattka of the 8/29/12 show at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 	* Note that this photoset is locked to Anna's friends.
 
 ### Other
@@ -263,5 +263,5 @@ The show is returning in 2016 as a Hideout mainstage show.
 * [The announcement the added 6pm show on closing night](http://forum.austinimprov.com/viewtopic.php?p=119767) on [[The AIC Forums]].
 * [2/26/12 post about the show](http://www.hideouttheatre.com/blog/page/28) by [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

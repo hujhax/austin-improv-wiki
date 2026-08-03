@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style="">Amy McKenna</li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a></li><!--

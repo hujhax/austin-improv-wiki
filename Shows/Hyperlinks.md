@@ -110,4 +110,4 @@ The show first ran as half of the *[[Shows/The Double Barrel|The Double Barrel]]
 * [Announcement about their appearance](http://forum.austinimprov.com/viewtopic.php?p=16696) in *[[Shows/The Double Barrel|The Double Barrel]]* on 12/1/06 on [[The AIC Forums]].
 * [Announcement of the final mainstage appearance](http://forum.austinimprov.com/viewtopic.php?p=76358) on 3/28/09 on [[The AIC Forums]].
 * [Announcement about their headlining run](http://forum.austinimprov.com/viewtopic.php?p=89018) in February 2010 in *[[Shows/The Threefer|The Threefer]]* on [[The AIC Forums]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

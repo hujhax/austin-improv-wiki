@@ -19,20 +19,20 @@
 	</table>
 </div>
 
-**Patrick Knisely** ([[Wikipedia - Help - IPA for English#Key|/ˈnaɪzliː/]])  is an improv performer and instructor who works primarily with [[Theatres/The New Movement Theater|The New Movement Theater]].
+**Patrick Knisely** (/ˈnaɪzliː/)  is an improv performer and instructor who works primarily with [[Theatres/The New Movement Theater|The New Movement Theater]].
 
 ## Troupes
 * [[Troupes/Opposites|Opposites]]
-* [[Tiger Beat]]
+* Tiger Beat
 * [[Troupes/Golden Eagle|Golden Eagle]]
-* [[Damned Avalanche]]
+* Damned Avalanche
 * [[Troupes/Northshore Local|Northshore Local]]
 * [[Puppet Improv Project]]
 * [[Troupes/Pretty Jack Jaybird|Pretty Jack Jaybird]]
 * [[Troupes/The Masterpiece|The Masterpiece]]
 * [[Troupes/Flowers for Algernon|Flowers for Algernon]]
 * [[Troupes/Narwhal|Narwhal]]
-* [[Yellow Bike Project]]
+* Yellow Bike Project
 
 ## Shows
 * *[[Shows/The Trouble With Terry|The Trouble With Terry]]*

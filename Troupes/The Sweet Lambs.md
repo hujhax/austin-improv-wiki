@@ -81,5 +81,5 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 [[Category/Troupes|Sweet Lambs]]
 [[Category/Duos|Sweet Lambs]]
-[[Category/Active|Sweet Lambs]]
+Sweet Lambs
 [[Category/Auto-Generated Troupe Pages|Sweet Lambs]]

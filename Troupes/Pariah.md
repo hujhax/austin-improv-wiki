@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
-  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
+  --><li style="">Courtney Sevener</li><!--
+  --><li style="">Tre Fuentes</li><!--
   --><!--
   --><!--
   --><!--
@@ -86,4 +86,4 @@ They played in the 7/2/14 *Cagematch*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active

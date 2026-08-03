@@ -36,4 +36,4 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 ## Media
 ### Other
 * [Video of the box-office line.](http://vimeo.com/43003327)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

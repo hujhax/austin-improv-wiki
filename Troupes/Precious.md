@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
-  --><li style=""><a class="internal-link" href="Max Lipschitz">Max Lipschitz</a></li><!--
-  --><li style=""><a class="internal-link" href="Tre Fuentes">Tre Fuentes</a></li><!--
-  --><li style=""><a class="internal-link" href="Will Elliott">Will Elliott</a></li><!--
+  --><li style="">Addison Billingsley</li><!--
+  --><li style="">Jeff Whitaker</li><!--
+  --><li style="">Max Lipschitz</li><!--
+  --><li style="">Tre Fuentes</li><!--
+  --><li style="">Will Elliott</li><!--
   --><!--
   --><!--
   --><!--

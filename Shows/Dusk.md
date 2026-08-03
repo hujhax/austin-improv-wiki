@@ -28,7 +28,7 @@
   --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Colin Thomas Bates</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Hugo Zesati">Hugo Zesati</a></li><!--
+  --><li style="">Hugo Zesati</li><!--
   --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
@@ -85,14 +85,14 @@
 
 ***Dusk*** (full name: ***Dusk: Improvised Tween Erotica***) was a longform narrative improv show produced by [[Gnap! Theater Projects]].
 
-It was an improvised take on [[Wikipedia - Twilight (series)|The *Twilight* Saga]].
+It was an improvised take on The *Twilight* Saga.
 
 ## Summary
 The show included many of the tropes associated with the novels, including a werewolf/vampire/human love triangle, a diary voiceover, and some sort of vampire sporting event.
 
-Season 1 was based on *[[Wikipedia - Twilight (novel)|Twilight]]*, and focused on the human and vampire meeting and falling in love.
+Season 1 was based on *Twilight*, and focused on the human and vampire meeting and falling in love.
 
-Season 2 was based on the books *[[Wikipedia - New Moon (novel)|New Moon]]* and *[[Wikipedia - Eclipse (Meyer novel)|Eclipse]]*, and focused on the love triangle and werewolves.
+Season 2 was based on the books *New Moon* and *Eclipse*, and focused on the love triangle and werewolves.
 
 ## History
 The show had two mainstage runs at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], which the cast and crew refer to as "seasons".  Season 1 was Fridays and Saturdays from 10/23/09 to 11/21/09.  Season 2 was Fridays and Saturdays from 10/22/10 to 11/20/10.  They also did three festival appearances: the Chicago Improv Festival from 4/23/10-4/24/10; New York City at the Tank Theater on 7/9/10; and Atlanta in 2011.  They ran fundraiser shows for the Chicago trip on 4/9/10 and 4/16/10 and for the New York trip on 6/25/10 and 7/2/10 (the fundraiser shows were held at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]).
@@ -128,13 +128,13 @@ The marketing tagline for season 2 was "Forever is for serious."
 * Costumes -- [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * Photos -- [[Performers/Jon Bolden|Jon Bolden]]
 * Video Director -- [[Performers/Michael Thomas|Michael Thomas]]
-* Video Editor -- [[Don Swaynos]]
+* Video Editor -- Don Swaynos
 * Sound Design -- [[Performers/Sara Farr|Sara Farr]] and [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
-* Set Design -- [[Cindie Mooney]]
+* Set Design -- Cindie Mooney
 * Light Design -- [[Performers/Ace Manning|Ace Manning]]
 * Program Design -- [[Performers/Courtney Hopkin|Courtney Hopkin]]
-* Sound Tech -- [[Joshua Bush]]
-* Light Tech -- [[Michael Sullivan]]
+* Sound Tech -- Joshua Bush
+* Light Tech -- Michael Sullivan
 * Box Office -- [[Performers/Britney Salyer|Britney Salyer]]
 
 ### Chicago
@@ -173,7 +173,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [[Performers/Bryan Cruz|Bryan Cruz]]
 * [[Performers/Chelsea Gilman|Chelsea Gilman]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
-* [[Hugo Zesati]]
+* Hugo Zesati
 * [[Performers/Katie Thornton|Katie Thornton]]
 * [[Performers/Kyle Traughber|Kyle Traughber]]
 * [[Performers/Lauren Buck|Lauren Buck]]
@@ -237,4 +237,4 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [The announcement of the Chicago fundraiser shows](http://forum.austinimprov.com/viewtopic.php?p=92285) on [[The AIC Forums]].
 * [The announcement of the New York City fundraiser shows](http://forum.austinimprov.com/viewtopic.php?p=94536) on [[The AIC Forums]].
 * [The announcement of season 2](http://forum.austinimprov.com/viewtopic.php?f=2&t=11210) on [[The AIC Forums]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

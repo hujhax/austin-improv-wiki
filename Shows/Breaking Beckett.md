@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a></td>
+			<td class="category">Content Love Knowles</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -86,7 +86,7 @@
 	</table>
 </div>
 
-***Breaking Becket*** is a longform narrative show inspired by the works of [[Wikipedia - Samuel Beckett|Samuel Beckett]].
+***Breaking Becket*** is a longform narrative show inspired by the works of Samuel Beckett.
 
 ## Summary
 Breaking Beckett examines the moments we tend to not share: moments of heartbreak or overwhelming despair, childhood innocence lost, the shame of our most serious mistakes, all filtered through the work of Samuel Beckett. Inspired by but not beholden to the author’s absurdist one-act plays, the actors will adhere to the choreography of the pieces while following their own improvised storylines. This will both honor the playwright and sacrilegiously go against his scripted wishes, for a unique exploration of the light and dark edges of human experience that will only ever be witnessed by that night’s audience.
@@ -136,7 +136,7 @@ Bob also consulted with [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/
 
 ## More Information
 * [The show's Facebook page](http://www.facebook.com/BreakingBeckett).
-* [Article about the show](http://www.austinchronicle.com/daily/arts/2014-07-18/improv-tragedy-absurdity-wtf-institution-theatre/) by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+* [Article about the show](http://www.austinchronicle.com/daily/arts/2014-07-18/improv-tragedy-absurdity-wtf-institution-theatre/) by Wayne Allen Brenner for *The Austin Chronicle*.
 
-[[Category/The Institution Theater|Category:The Institution Theater]]
-[[Category/Shows|Category:Shows]]
+Category:The Institution Theater
+Category:Shows

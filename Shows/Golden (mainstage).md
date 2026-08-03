@@ -22,10 +22,10 @@
   --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Heidi Penix</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Kathleen McFerrin">Kathleen McFerrin</a></li><!--
+  --><li style="">Kathleen McFerrin</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Rachel Denton">Rachel Denton</a></li><!--
+  --><li style="">Rachel Denton</li><!--
   --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Golden*** was the April 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It continued on as [[Troupes/Golden|a troupe of the same name]].
+***Golden*** was the April 2015 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It continued on as [[Troupes/Golden|a troupe of the same name]].
 
 ## Summary
 The show ran 90 minutes, with a 15-minute intermission, in the Hideout's upstairs theater.
@@ -144,7 +144,7 @@ The show opened with prompting the audience for a suggestion -- for example, wha
 
 Tonally it could vary from grounded realism to over-the-top stylization.
 
-The scoring relied heavily on music by [[Wikipedia - Ludovic Bource|Ludovic Bource]], [[Wikipedia - Heinz Kiessling|Heinz Kiessling]], and [[Wikipedia - Werner Tautz|Werner Tautz]].
+The scoring relied heavily on music by Ludovic Bource, Heinz Kiessling, and Werner Tautz.
 
 The performers dressed in 60s-mod-inspired clothing.
 
@@ -164,5 +164,5 @@ From the show announcement:<blockquote>"A full-length improvised narrative, perf
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
 * [A blog post](http://www.hideouttheatre.com/inspiration-is-golden-2) by [[Performers/Marc Majcher|Marc Majcher]] that lists the show's influences.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

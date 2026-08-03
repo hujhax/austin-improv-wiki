@@ -146,7 +146,7 @@
 ***Fiasco*** is the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  
 
 ## Summary
-The show is an improvised crime caper, adapted from [[Wikipedia - Fiasco (role-playing game)|the Bully Pulpit Games RPG]] and loosely inspired by [[Wikipedia - Coen Brothers|Coen Brothers films]].  It is an ensemble show with elements of farce that focuses on criminal plans going very, very wrong.
+The show is an improvised crime caper, adapted from the Bully Pulpit Games RPG and loosely inspired by Coen Brothers films.  It is an ensemble show with elements of farce that focuses on criminal plans going very, very wrong.
 
 ### Structure
 The show opens with a short monolog. After that, act one begins with a set of five scenes, establishing a circular chain of relationships, like in a La Ronde. Further scenes follow until about the forty-minute mark, when "the tilt" is introduced. The tilt is a pair of of phrases that describe story elements that will tend to cause chaos. (One example: "Something precious is on fire".) After that is intermission.  Then, the players draw on the tilts in the show's (slightly shorter) second half. The show ends with a second monolog from that opening character, which touches on the eventual fates of the central characters.
@@ -160,7 +160,7 @@ The show aims for a sort of gasping laughter -- the avalanche of disaster is hil
 The set includes a large display screen, which shows 'hosting videos' (short video segments that convey the information that a live host would normally do) and displays words and phrases that inspire the onstage activity.  (A prompt for the initial monolog; short descriptions of the five relationships; the tilt.)
 
 ### Publicity Blurb
-From the show announcement:<blockquote>A crime caper goes disastrously wrong in this improvised dark comedy, inspired by [[Wikipedia - Coen Brothers|Coen Brothers]] classics like *[[Wikipedia - Fargo (film)|Fargo]]* and *[[Wikipedia - The Big Lebowski|The Big Lebowski]]*.  Based on [[Wikipedia - Fiasco (role-playing game)|the award-winning RPG]].
+From the show announcement:<blockquote>A crime caper goes disastrously wrong in this improvised dark comedy, inspired by Coen Brothers classics like *Fargo* and *The Big Lebowski*.  Based on the award-winning RPG.
 </blockquote>
 
 ## Media
@@ -180,5 +180,5 @@ From the show announcement:<blockquote>A crime caper goes disastrously wrong in 
 * [The show's web page](http://www.hideouttheatre.com/shows/Fiasco) on the Hideout site (more information + ticket sales).
 * [An online form](http://docs.google.com/forms/d/1BpODBcCZ2yJ-Ewpyfw1IARtWvgsOf1ToOf8EXT6PTeI/viewform) for making monolog-prompt and relationship suggestions.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

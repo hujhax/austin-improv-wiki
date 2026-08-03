@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Golden.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Poster for *[[Troupes/Golden|Golden]]*, featuring [[Performers/Tyler Lane|Tyler Lane]] in a homage to *[[Wikipedia - Safety Last|Safety Last]]*.
+Poster for *[[Troupes/Golden|Golden]]*, featuring [[Performers/Tyler Lane|Tyler Lane]] in a homage to *Safety Last*.
 
 Photo by: unknown.
 

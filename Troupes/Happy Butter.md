@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
-  --><li style=""><a class="internal-link" href="David Nayer">David Nayer</a></li><!--
+  --><li style="">Amy O'Connor</li><!--
+  --><li style="">David Nayer</li><!--
   --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--

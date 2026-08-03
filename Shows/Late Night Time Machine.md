@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a> (season 1)</li><!--
-  --><li style=""><a class="internal-link" href="Mason Pitluk">Mason Pitluk</a> (season 2)</li><!--
+  --><li style="">Mason Pitluk (season 2)</li><!--
   --><!--
   --><!--
   --><!--
@@ -71,8 +71,8 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/James C. Leary">James C. Leary</a></li><!--
-  --><li style=""><a class="internal-link" href="Sydney Huddleston">Sydney Huddleston</a></li><!--
-  --><li style=""><a class="internal-link" href="Mike Carreon">Mike Carreon</a></li><!--
+  --><li style="">Sydney Huddleston</li><!--
+  --><li style="">Mike Carreon</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
   --><li style="">various guests</li><!--
@@ -137,12 +137,12 @@
 
 ## Summary
 ![[Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]
-Late Night Time Machine with Teddy Hancox is a live comedy show created by [[Tess Hermes]], James C. Leary, and [[Mason Pitluk]]. A late night show from 1968 hosted by Teddy Hancox ([[Performers/James C. Leary|James C. Leary]]), LNTM features celebrity guests flown in from all across time. Each live show features new guest improvisors in character as historical figures or celebrities from past, present, and future. [[Sydney Huddleston]] co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned executive producer, and [[Mike Carreon]] as Teddy's sidekick, Bud Grouper.
+Late Night Time Machine with Teddy Hancox is a live comedy show created by Tess Hermes, James C. Leary, and Mason Pitluk. A late night show from 1968 hosted by Teddy Hancox ([[Performers/James C. Leary|James C. Leary]]), LNTM features celebrity guests flown in from all across time. Each live show features new guest improvisors in character as historical figures or celebrities from past, present, and future. Sydney Huddleston co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned executive producer, and Mike Carreon as Teddy's sidekick, Bud Grouper.
 
 Shows have featured a mixture of improvised on-air interviews and off-air interactions (both on-set and behind the scenes), as well as stand up performances, the occasional musical performance, and written sketch commercials satirizing the culture of the late 60's.
 
 ## Origins
-Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C. Leary, and Mason Pitluk in the Summer of 2014. The show was pitched to the Institution Theater with [[Performers/Clifton Highfield|Clifton Highfield]] signed on to direct, [[Sydney Huddleston]] signed on to play second lead Matilda Weatherspoon, [[Performers/Ceej Allen|Ceej Allen]] signed on as a performer, and [[Performers/Mark Shoemaker|Mark Shoemaker]] signed on as Technical Director. Hermes and Pitluk would write and produce while Leary would play host Teddy Hancox. The pitch itself was a three minute glimpse into an episode featuring a David Lynch guest interview, an off-air Tildy-Teddy interaction, and a Lucky Strike Cigarettes commercial.
+Late Night Time Machine with Teddy Hancox was conceived by Tess Hermes, James C. Leary, and Mason Pitluk in the Summer of 2014. The show was pitched to the Institution Theater with [[Performers/Clifton Highfield|Clifton Highfield]] signed on to direct, Sydney Huddleston signed on to play second lead Matilda Weatherspoon, [[Performers/Ceej Allen|Ceej Allen]] signed on as a performer, and [[Performers/Mark Shoemaker|Mark Shoemaker]] signed on as Technical Director. Hermes and Pitluk would write and produce while Leary would play host Teddy Hancox. The pitch itself was a three minute glimpse into an episode featuring a David Lynch guest interview, an off-air Tildy-Teddy interaction, and a Lucky Strike Cigarettes commercial.
 
 ## Season 1
 Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes, Mason Pitluk, and Highfield, and featured the technical direction of Mark Shoemaker. 
@@ -151,33 +151,33 @@ Season 1 was directed by Clifton Highfield, written and produced by Tess Hermes,
 * Marlon Brando ([[Performers/Mike Kinald|Mike Kinald]])
 * David Lynch ([[Performers/Ceej Allen|Ceej Allen]])
 * Julia Child ([[Troupes/Topping Haggerty|Topping Haggerty]])
-* Justin Bieber (backstage) ([[Andrew Maniaci]])
+* Justin Bieber (backstage) (Andrew Maniaci)
 
 **Episode 2**
 * Anne Frank ([[Performers/Alex Ayala|Alex Ayala]])
 * Socrates ([[Performers/Luke Wallens|Luke Wallens]])
-* Bindi Irwin ([[Ann Flynn Terrell]])
+* Bindi Irwin (Ann Flynn Terrell)
 * Beethoven ([[Performers/Ceej Allen|Ceej Allen]])
 * in world character Executive Executive Producer Barbara "Babs" Johnson ([[Performers/Jo Chauvin|Jo Chauvin]]) 
 
 **Episode 3**
-* Sigmund Freud ([[Andrew Schwartz]])
-* Shirley Temple ([[Alli Huston]]))
-* Paula Deen ([[Rebecca Marsh]])
-* Bindi Irwin (backstage) ([[Ann Flynn Terrell]])
+* Sigmund Freud (Andrew Schwartz)
+* Shirley Temple (Alli Huston))
+* Paula Deen (Rebecca Marsh)
+* Bindi Irwin (backstage) (Ann Flynn Terrell)
 * Marlon Brando (backstage) ([[Performers/Mike Kinald|Mike Kinald]])
 
 **Episode 4**
 * Charles Manson ([[Performers/Tom Booker|Tom Booker]])
 * Annie Oakley ([[Performers/Heidi Rogers|Heidi Rogers]])
-* Justin Bieber ([[Andrew Maniaci]])
+* Justin Bieber (Andrew Maniaci)
 * Anne Frank ([[Performers/Alex Ayala|Alex Ayala]])
 * Marlon Brando (backstage) ([[Performers/Mike Kinald|Mike Kinald]])
 * Fatally Wounded Audience Member ([[Performers/Luke Wallens|Luke Wallens]])
 
 ## Christmas Special Spectacular
-* Martha Stewart ([[Callie Sharon]])
-* Paula Deen ([[Rebecca Marsh]])
+* Martha Stewart (Callie Sharon)
+* Paula Deen (Rebecca Marsh)
 * Anne Frank ([[Performers/Alex Ayala|Alex Ayala]])
 * David Lynch ([[Performers/Ceej Allen|Ceej Allen]])
 * Jesus of Nazareth ([[Performers/Justin Davidson|Justin Davidson]])
@@ -194,10 +194,10 @@ Season 2 primarily focused on:
 **April 3rd - Episode 1 - Back From the Future**
 * Bjork ([[Performers/Sarah Marie Curry|Sarah Marie Curry]])
 * Conan O'Brien ([[Performers/Ryan Hill|Ryan Hill]])
-* Emily Dickinson ([[Hanna AbuZayed]])
+* Emily Dickinson (Hanna AbuZayed)
 * Vincent van Gogh ([[Performers/Ceej Allen|Ceej Allen]])
-* fictional YouTube sensation Stacy Stacy ([[Tess Hermes]])
-* Ellen DeGeneres ([[Mason Pitluk]])
+* fictional YouTube sensation Stacy Stacy (Tess Hermes)
+* Ellen DeGeneres (Mason Pitluk)
 * special appearance by David Lynch (Ceej Allen)
 
 **April 10th - Episode 2 - The Return of Barbara: 2016 Strikes Back**
@@ -208,25 +208,25 @@ Season 2 primarily focused on:
 * in world character Executive Executive Producer Barbara "Babs" Johnson ([[Performers/Jo Chauvin|Jo Chauvin]]) 
 
 **April 17th - Episode 3 - Party Time (or: How I Learned to Stop Worrying and Love Manuel Noriega)**
-* Manuel Noriega ([[Donnie Loa]])
+* Manuel Noriega (Donnie Loa)
 * Bill Clinton ([[Performers/Asaf Ronen|Asaf Ronen]])
 * Stevie Nicks ([[Performers/Donna Rice|Donna Rice]])
 * Joan Jett ([[Performers/Jayme Ramsey|Jayme Ramsey]])
-* stand up from James Cagney ([[Lashonda Lester]])
+* stand up from James Cagney (Lashonda Lester)
 
 **April 24th - Episode 4 - The Silence of Tyranny, An Allegory (Presented by McDonald's)**
 * Charlie Chaplin ([[Performers/Alex Ayala|Alex Ayala]])
 * Hillary Clintronic 3000 ([[Performers/Amy Averett|Amy Averett]])
 * Groucho Marx ([[Performers/Robert Slack|Robert Slack]])
 * Ronald McDonald ([[Performers/Luke Wallens|Luke Wallens]])
-* stand up from Salem Witches ([[Tess Hermes]] and Melanie Dyer)
+* stand up from Salem Witches (Tess Hermes and Melanie Dyer)
 
 **May 1st - Episode 5 - Teddy Saves America**
 * Catherine the Great ([[Performers/Jessica Arjet|Jessica Arjet]])
 * Albert Einstein ([[Performers/Michael Ferstenfeld|Michael Ferstenfeld]])
 * Werher von Braun ([[Performers/Andreas Fabis|Andreas Fabis]])
-* Benjamin Franklin ([[Marcus Hysmith]])
-* stand up from Teddy Roosevelt ([[Will Cleveland]])
+* Benjamin Franklin (Marcus Hysmith)
+* stand up from Teddy Roosevelt (Will Cleveland)
 
 **May 8th - Episode 6 - Finale**
 * stand up and guest appearance from Salvador Dali ([[Performers/Brently Heilbron|Brently Heilbron]])
@@ -239,11 +239,11 @@ Season 2 primarily focused on:
 On April 12, 2016, "Late Night Time Machine: Teddy Does ColdTowne" will debut at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  
 
 The cast includes:
-* [[Kenah Benefield]] as DJ Khaled, flown in from 3030 and recently thawed out of cryogenic freezing
-* [[Aly Dixon]] as Margaret Thatcher
-* [[Lilli Lopez]] as Pancho Villa
+* Kenah Benefield as DJ Khaled, flown in from 3030 and recently thawed out of cryogenic freezing
+* Aly Dixon as Margaret Thatcher
+* Lilli Lopez as Pancho Villa
 * [[Performers/Nathan Sowell|Nathan Sowell]] as Reverend Jim Jones
-* and stand up from [[Will Cleveland]] as Teddy Roosevelt
+* and stand up from Will Cleveland as Teddy Roosevelt
 
 
 ## Media
@@ -261,4 +261,4 @@ The cast includes:
 * [The season-two show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090), on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 * [The LNTM Facebook page.](http://www.facebook.com/LateNightTimeMachine)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

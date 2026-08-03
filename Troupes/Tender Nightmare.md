@@ -17,13 +17,13 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
+  --><li style="">Brian Engravalle</li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
+  --><li style="">Joshua Philips</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
-  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
-  --><li style="" ><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
+  --><li style="">Lacy Cox</li><!--
+  --><li style="">Patricia Tate</li><!--
+  --><li style="" >Scott Moss</li><!--
   --><!--
   --><!--
   --><!--

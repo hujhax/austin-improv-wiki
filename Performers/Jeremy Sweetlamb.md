@@ -26,9 +26,9 @@ Jeremy founded [[Troupes/Well Hung Jury|Well Hung Jury]] in 1998, [[Festivals/Th
 
 In 2003, Jeremy left Austin for Chicago.  He returned in 2006, went to LA in 2007, then to New York in 2009, returning home in 2011 after a brief residency in Sarasota. In his travels he has trained at Second City Chicago, UCB LA, Ultimate, iO, and performed or taught in 35 of these US states.
 
-A post from him about the first improv show he ever saw:<blockquote><p>My first was *[[Troupes/ComedySportz|ComedySportz]]* at [[Northcross Mall]] in 1996 or so. I was a junior in high school and it was a date. They asked for a volunteer for a dubbing game and since I had always been such a huge fan of the British *Whose Line* reruns I'd been watching for years, I went up. I rocked the classic moving my mouth for a long time when the dubber just said one short little line. It got a huge laugh and I was hooked. 
+A post from him about the first improv show he ever saw:<blockquote><p>My first was *[[Troupes/ComedySportz|ComedySportz]]* at Northcross Mall in 1996 or so. I was a junior in high school and it was a date. They asked for a volunteer for a dubbing game and since I had always been such a huge fan of the British *Whose Line* reruns I'd been watching for years, I went up. I rocked the classic moving my mouth for a long time when the dubber just said one short little line. It got a huge laugh and I was hooked. 
 I met them after the show. [[Performers/Tyler Bryce|Tyler Bryce]], now of Obviously Unrehearsed at OU and the guy who organized the Improv Festival they just had in OKC, was one of the performers and super nice. I told them it was amazing and that I would be back every weekend. Never went back.</p> 
-<p>But it did get me hooked on going to [[Troupes/Monks' Night Out|Monks' Night Out]] shows at [[The Velveeta Room]] which I did many times in high school. I remember deciding on the drive down from the burbs one time that it would be hilarious to yell out proctologist when they asked for an occupation. I did. Don't remember what happened after that.</p> </blockquote>
+<p>But it did get me hooked on going to [[Troupes/Monks' Night Out|Monks' Night Out]] shows at The Velveeta Room which I did many times in high school. I remember deciding on the drive down from the burbs one time that it would be hilarious to yell out proctologist when they asked for an occupation. I did. Don't remember what happened after that.</p> </blockquote>
 
 ## Troupes
 * [[Troupes/Available Cupholders|Available Cupholders]]
@@ -36,9 +36,9 @@ I met them after the show. [[Performers/Tyler Bryce|Tyler Bryce]], now of Obviou
 * [[Troupes/Well Hung Jury|Well Hung Jury]]
 * [[Troupes/Backpack Picnic|Backpack Picnic]]
 * [[Troupes/Gravy|Gravy]]
-* [[Catch 24]]
+* Catch 24
 * [[Troupes/Kazillionaire|Kazillionaire]]
-* [[Bearded Lamb]]
+* Bearded Lamb
 
 ## Shows
 * *[[Shows/Fakespeare|Fakespeare]]* (Benedick / First Murderer / Old Siward)

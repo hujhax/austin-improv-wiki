@@ -70,7 +70,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bradley Dean Whyte">Bradley Dean Whyte</a></li><!--
+  --><li style="">Bradley Dean Whyte</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></li><!--
   --><!--
   --><!--
@@ -182,7 +182,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Kim Dilling">Kim Dilling</a></li><!--
+  --><li style="">Kim Dilling</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><!--
@@ -256,5 +256,5 @@ The show opened with *[[Shows/Twilight Zoned|Twilight Zoned]]*.  That act would 
 * [The casting announcement for the show.](http://forum.austinimprov.com/viewtopic.php?t=12569)
 * [A podcast interview with the cast.](http://www.hideouttheatre.com/sci-fi-comedy-double-feature-podcast)
 
-[[Category/Shows|Sci-Fi Comedy Double Feature]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Sci-Fi Comedy Double Feature
+Category:The Hideout Theatre

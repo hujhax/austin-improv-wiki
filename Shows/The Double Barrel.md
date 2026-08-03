@@ -46,5 +46,5 @@ Finally, in April of 2010, the show was replaced by *[[Shows/The Spectacle|The S
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/thedoublebarrel)
 
-[[Category/Shows|Double Barrel]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Double Barrel
+Category:The Hideout Theatre

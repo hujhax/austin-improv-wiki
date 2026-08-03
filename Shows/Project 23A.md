@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Josephine McAdam">Josephine McAdam</a></li><!--
+  --><li style="">Josephine McAdam</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
@@ -95,4 +95,4 @@
 ## Media
 ### Videos
 * [Episode 1: "What Project?"](http://youtu.be/kAX1us6jmvU)
-[[Category/Shows|Category:Shows]]
+Category:Shows

@@ -95,6 +95,6 @@ We did this for our first show, and it was awesome, but later we took out the me
 * [Photos](http://forum.austinimprov.com/viewtopic.php?t=9054) on [[The Austin Improv Forums]] previewing their appearance at [[Festivals/The 2009 Ladies Are Funny Festival|The 2009 Ladies Are Funny Festival]].
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

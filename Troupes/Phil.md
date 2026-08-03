@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Jason Heffron">Jason Heffron</a></li><!--
+  --><li style="">Jason Heffron</li><!--
   --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
-  --><li style=""><a class="internal-link" href="Tim Lewis">Tim Lewis</a></li><!--
-  --><li style=""><a class="internal-link" href="Tyler Pratt">Tyler Pratt</a></li><!--
+  --><li style="">Tim Lewis</li><!--
+  --><li style="">Tyler Pratt</li><!--
   --><!--
   --><!--
   --><!--
@@ -92,4 +92,4 @@ Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[Theat
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

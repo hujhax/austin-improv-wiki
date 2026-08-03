@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alex Nixon">Alex Nixon</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
+  --><li style="">Alex Nixon</li><!--
+  --><li style="">Andy Pereira</li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Plischke">Erin Plischke</a></li><!--
-  --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
+  --><li style="">Terrill Fischer</li><!--
   --><!--
   --><!--
   --><!--

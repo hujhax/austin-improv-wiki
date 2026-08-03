@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Carissa McAtee** ([[Wikipedia - Help - IPA for English#Key|/ˈmækəˌtiː/]]) is an improv performer.
+**Carissa McAtee** (/ˈmækəˌtiː/) is an improv performer.
 
 ## History
 Carissa moved from Dallas to Austin in 2011.

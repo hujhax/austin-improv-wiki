@@ -30,20 +30,20 @@ After doing improv in Chicago, Erika May McNichol moved to Austin in June 2005.
 * [[Troupes/Sarah 7|Sarah 7]]
 * [[Shows/Stool Pigeon|Stool Pigeon]]
 * [[Troupes/Two Minute Brother|Two Minute Brother]]
-* [[The Smoking Arm]]
+* The Smoking Arm
 * [[Troupes/Tight|Tight]]
 
 ## Shows
-* *[[Title Fine -  We Got Game]]* (Director/Producer)
-* *[[Tweet Dreams]]* (Director/Producer)
-* *[[Church of Indeterminate Divinity]]* (Ensemble)
+* *Title Fine: We Got Game* (Director/Producer)
+* *Tweet Dreams* (Director/Producer)
+* *Church of Indeterminate Divinity* (Ensemble)
 * *[[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players|Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]]* (Director/Producer)
 * *[[Shows/Braised in Texas|Braised in Texas]]* (Director/Producer)
-* *[[McNichol & May -  Breeders]]* (Writer/Performer)
+* *McNichol & May: Breeders* (Writer/Performer)
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (Ensemble)
-* *[[Mortified - Austin]]* (Director/Producer, 2006-2007)
-* *[[The Frank Mills -  Classy-Ass Show]]* (Writer/Performer)
-* *[[McNichol & May -  Great Americans]]* (Writer/Performer)
+* *Mortified - Austin* (Director/Producer, 2006-2007)
+* *The Frank Mills: Classy-Ass Show* (Writer/Performer)
+* *McNichol & May: Great Americans* (Writer/Performer)
 * *[[Shows/Whirled News Tonight|Whirled News Tonight]]* (Director/Producer, 2005-2006)
 
 ## More Information

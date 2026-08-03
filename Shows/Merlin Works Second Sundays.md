@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="ZACH Theatre">ZACH Theatre</a></td>
+			<td class="category">ZACH Theatre</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -703,7 +703,7 @@
   <tr >
     <td >February 10, 2019</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Nice Jewish Girls">Nice Jewish Girls</a></td>
+    <td >Nice Jewish Girls</td>
   </tr>
   <tr >
     <td >January 13, 2019</td>
@@ -718,7 +718,7 @@
   <tr >
     <td >November 11, 2018</td>
     <td >Singing 601</td>
-    <td ><a class="internal-link" href="Better Than Dignity">Better Than Dignity</a></td>
+    <td >Better Than Dignity</td>
   </tr>
   <tr >
     <td >October 21, 2018</td>
@@ -728,17 +728,17 @@
   <tr >
     <td >September 9, 2018</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Crossroads">Crossroads</a></td>
+    <td >Crossroads</td>
   </tr>
   <tr >
     <td >August 12, 2018</td>
     <td >Singing 501</td>
-    <td ><a class="internal-link" href="Small Town News">Small Town News</a></td>
+    <td >Small Town News</td>
   </tr>
   <tr >
     <td >July 8, 2018</td>
     <td >Improv 201</td>
-    <td ><a class="internal-link" href="The Morning After">The Morning After</a></td>
+    <td >The Morning After</td>
   </tr>
   <tr >
     <td >June 10, 2018</td>
@@ -869,7 +869,7 @@
     <td >January 7, 2018</td>
     <td >N/A</td>
     <td ><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Dial 'I' for Improv">Dial 'I' for Improv</a></li><!--
+  --><li style="">Dial 'I' for Improv</li><!--
   --><li style=""><a class="internal-link" href="Troupes/Golden">Golden</a></li><!--
   --><!--
   --><!--
@@ -979,27 +979,27 @@
   <tr >
     <td >November 12, 2017</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Harlequin">Harlequin</a></td>
+    <td >Harlequin</td>
   </tr>
   <tr >
     <td >October 1, 2017</td>
     <td >Improv 301</td>
-    <td ><a class="internal-link" href="Miller & Lies">Miller & Lies</a></td>
+    <td >Miller & Lies</td>
   </tr>
   <tr >
     <td >September 10, 2017</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Camp sLaughter">Camp sLaughter</a></td>
+    <td >Camp sLaughter</td>
   </tr>
   <tr >
     <td >August 13, 2017</td>
     <td >Well Versed student showcase</td>
-    <td ><a class="internal-link" href="The Matriarchy">The Matriarchy</a></td>
+    <td >The Matriarchy</td>
   </tr>
   <tr >
     <td >July 9, 2017</td>
     <td >Improv 201 recital</td>
-    <td ><a class="internal-link" href="Donut Patrol">Donut Patrol</a></td>
+    <td >Donut Patrol</td>
   </tr>
   <tr >
     <td >June 11, 2017</td>
@@ -1064,7 +1064,7 @@
   <tr >
     <td >April 9, 2017</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Migas">Migas</a></td>
+    <td >Migas</td>
   </tr>
   <tr >
     <td >March 5, 2017</td>
@@ -1124,7 +1124,7 @@
   <tr >
     <td >February 12, 2017</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Sugar Water Purple">Sugar Water Purple</a></td>
+    <td >Sugar Water Purple</td>
   </tr>
   <tr >
     <td >January 8, 2017</td>
@@ -1164,7 +1164,7 @@
   <tr >
     <td >June 12, 2016</td>
     <td >Merlin Works student troupe</td>
-    <td ><a class="internal-link" href="Damn Gina">Damn Gina</a></td>
+    <td >Damn Gina</td>
   </tr>
   <tr >
     <td >May 8, 2016</td>
@@ -1284,7 +1284,7 @@
   <tr >
     <td >February 7, 2016</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Love Me Tinder">Love Me Tinder</a></td>
+    <td >Love Me Tinder</td>
   </tr>
   <tr >
     <td >November 22, 2015</td>
@@ -1495,7 +1495,7 @@
     <td >January 11, 2015</td>
     <td >Student showcase</td>
     <td ><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="The New Kids">The New Kids</a></li><!--
+  --><li style="">The New Kids</li><!--
   --><li style=""><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></li><!--
   --><!--
   --><!--
@@ -1872,4 +1872,4 @@
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.902699009793616.1073742153.221927764537414&type=3) by [[Steve Rogers]] of the 2/8/15 showcase.
-[[Category/Shows|Category:Shows]]
+Category:Shows

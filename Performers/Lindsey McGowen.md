@@ -86,7 +86,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Shows/Tech Nightmare|Tech Nightmare]]* (scoring tech)
 
 ## Shows
-* *[[All You Need is Love!]]* (technical director)
+* *All You Need is Love!* (technical director)
 * *[[Shows/Austin Secrets|Austin Secrets]]* (2015-2016 runs) (technical director)
 * *[[Shows/Boy, Howdy!|Boy, Howdy!]]* (technical director/light tech)
 * *[[Shows/Control Issues|Control Issues]]* (technical director)
@@ -98,9 +98,9 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 * *[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]* (technical director, scoring tech)
 * *[[Shows/Hurly Burly|Hurly Burly]]* (sound tech/stage manager)
 * *[[Shows/I'll Take the Physical Challenge!|I'll Take the Physical Challenge!]]* (technical director)
-* *[[Local on the 8's]]* (technical director)
+* *Local on the 8's* (technical director)
 * *[[Shows/Lonely Star|Lonely Star]]* (scoring tech)
-* *[[Next Week on Game of Thrones]]* (light tech)
+* *Next Week on Game of Thrones* (light tech)
 * *[[Shows/Nothing And Everything|Nothing And Everything]]* (stage manager/props mistress/swing tech)
 * *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]* (technical director/swing tech)
 * *[[Shows/Process|Process]]* (2016 run) (technical director)

@@ -81,4 +81,4 @@ Based out of Austin, Texas, Physics Curse explores the intricacies of relationsh
 
 
 [[Category/Troupes|Physics Curse]]
-[[Category/Active|Physics Curse]]
+Physics Curse

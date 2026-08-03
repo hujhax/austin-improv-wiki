@@ -19,15 +19,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amira Pollock">Amira Pollock</a></li><!--
-  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
-  --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
-  --><li style=""><a class="internal-link" href="Jonathan Euseppi">Jonathan Euseppi</a></li><!--
+  --><li style="">Amira Pollock</li><!--
+  --><li style="">Gary Richardson</li><!--
+  --><li style="">Hugo Vargas-Zesati</li><!--
+  --><li style="">Jonathan Euseppi</li><!--
   --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
-  --><li style=""><a class="internal-link" href="Tiffany Grady">Tiffany Grady</a></li><!--
+  --><li style="">Tiffany Grady</li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style="" ><a class="internal-link" href="Will Slayton">Will Slayton</a></li><!--
+  --><li style="" >Will Slayton</li><!--
   --><!--
   --><!--
   --><!--

@@ -23,12 +23,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
-  --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Charlie Hoehn">Charlie Hoehn</a></li><!--
+  --><li style="">Ali Meier</li><!--
+  --><li style="">Andrew Schwartz</li><!--
+  --><li style="">Charlie Hoehn</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style="">Linzy Beltran</li><!--
   --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
@@ -79,7 +79,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a> (lighting)</li><!--
-  --><li style=""><a class="internal-link" href="Paul Weiner">Paul Weiner</a> (sound)</li><!--
+  --><li style="">Paul Weiner (sound)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Mike Reed">Mike Reed</a> (music)</li><!--
   --><!--
   --><!--
@@ -137,19 +137,19 @@
 	</table>
 </div>
 
-***A Penny Dreadful*** was the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It drew inspiration from the [[Wikipedia - Gothic fiction|Gothic horror]] genre.
+***A Penny Dreadful*** was the December 2014 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It drew inspiration from the Gothic horror genre.
 
 ## Summary
 This was an hour and a half show with a ten-minute intermission.  It ran in the upstairs theater.  Each performance included all ten cast members, although each show had two designated "snoggers" (scene-ographers) who donned black masks and created environments and emotions using their bodies. 
 
-The cast took the stage to the [[Wikipedia - Toccata and Fugue in D minor, BWV 565|Toccata and Fugue]].  They then took a suggestion -- "Imagine a spooky mansion. What sort of rooms would be in such a place?" -- and began the show. The story followed a single protagonist and usually focused on love, one of the show's main grounding themes. The pacing alternated between slow-paced intensity and higher-energy horror scenes. The format utilized character monologues to better understand backstories and relationships as well as character naiveté to allow horror to escalate throughout the show.
+The cast took the stage to the Toccata and Fugue.  They then took a suggestion -- "Imagine a spooky mansion. What sort of rooms would be in such a place?" -- and began the show. The story followed a single protagonist and usually focused on love, one of the show's main grounding themes. The pacing alternated between slow-paced intensity and higher-energy horror scenes. The format utilized character monologues to better understand backstories and relationships as well as character naiveté to allow horror to escalate throughout the show.
 
 ### Selected Source Material
-* *[[Wikipedia - And Now the Screaming Starts!|And Now the Screaming Starts!]]* 
-* *[[Wikipedia - The Castle of Otranto|The Castle of Otranto]]*
-* *[[Wikipedia - Strange Case of Dr Jekyll and Mr Hyde|Strange Case of Dr Jekyll and Mr Hyde]]*
-* *[[Wikipedia - Dracula|Dracula]]*
-* *[[Wikipedia - Frankenstein|Frankenstein]]*
+* *And Now the Screaming Starts!* 
+* *The Castle of Otranto*
+* *Strange Case of Dr Jekyll and Mr Hyde*
+* *Dracula*
+* *Frankenstein*
 
 ### Costumes
 The stage performers wore formal blacks, reds, and grays that suggested the 19th century.
@@ -158,7 +158,7 @@ The stage performers wore formal blacks, reds, and grays that suggested the 19th
 The show was scored with classical music, and used red washes to emphasize murder scenes. Washes were preferred over spotlight scenes as per the genre.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - Bram Stoker|Bram Stoker]] and [[Wikipedia - Edgar Allen Poe|Edgar Allen Poe]], by the British [[Wikipedia - Hammer Studios|Hammer Studios]] horror films of the 1960s, and featuring a dash of [[Wikipedia - Scooby Doo|Scooby Doo]], comes an improvised gothic horror tale replete with rich characters, terrible secrets, and all kinds of spooky goings-on."</blockquote>
+From the show announcement:<blockquote>"Inspired by the tales of Bram Stoker and Edgar Allen Poe, by the British Hammer Studios horror films of the 1960s, and featuring a dash of Scooby Doo, comes an improvised gothic horror tale replete with rich characters, terrible secrets, and all kinds of spooky goings-on."</blockquote>
 
 ## Media
 ### Photos
@@ -175,5 +175,5 @@ From the show announcement:<blockquote>"Inspired by the tales of [[Wikipedia - B
 * [Hideout blogpost](http://www.hideouttheatre.com/a-penny) by [[Performers/Troy Miller|Troy Miller]] detailing his inspirations for the production.
 * [Hideout blogpost](http://www.keyetv.com/lifestyle/features/austin-lifestyle/stories/hideout-theater-722.shtml) advertising the final performance.
 
-[[Category/Shows|Penny Dreadful]]
-[[Category/The Hideout Theatre|Penny Dreadful]]
+Penny Dreadful
+Penny Dreadful

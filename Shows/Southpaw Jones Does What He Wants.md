@@ -36,5 +36,5 @@
 ## Summary
 The show ran Fridays and Saturdays from 9/18/15 to 9/26/15.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Institution Theater|Category:The Institution Theater]]
+Category:Shows
+Category:The Institution Theater

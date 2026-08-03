@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Brandon Salinas">Brandon Salinas</a></td>
+			<td class="category">Brandon Salinas</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -27,7 +27,7 @@
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Avimaan Syam</a></li><!--
-  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
+  --><li style="">James Roberts</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
@@ -87,20 +87,20 @@
 </div>
 
 :''This page refers to the [[Gnap! Theater Projects]] mainstage show based on post-apocalyptic fiction.  For the similarly-themed troupe that performed a La Ronde set in a post-apocalyptic world, see [[Troupes/Apocalypse (troupe)|Apocalypse (troupe)]].
-***Apocalypse!* (show)** refers to ***Apocalypse!*** (often written all-lower-case: ***apocalypse!***), an improvised longform mainstage show based on post-acopalyptic stories such as *[[Wikipedia - The Road Warrior|The Road Warrior]]* and *[[Wikipedia - The Walking Dead|The Walking Dead]]*.
+***Apocalypse!* (show)** refers to ***Apocalypse!*** (often written all-lower-case: ***apocalypse!***), an improvised longform mainstage show based on post-acopalyptic stories such as *The Road Warrior* and *The Walking Dead*.
 
 ## Summary
 The show's concept was to stage a three-act narrative based on postapocalyptic fiction. Each night, one audience member spun the "Apocalypse Wheel" (constructed by [[Performers/Michael Thomas|Michael Thomas]]). Nailed to each wedge of the wheel was an apocalypse type, e.g. zombies, gray goo, meteors. The cast was unaware of the possible apocalypse types, so each night was a surprise to them.
 
 For the final performance, since they had not had "zombies" as an apocalypse scenario for the entire run, the wheel was secretly loaded with eight different types of zombie scenarios, each of which was then covered with other non-zombie suggestions.  After the wheel stopped spinning, the true (i.e., zombie) scenario was then revealed.
 
-The show's structure was heavily influenced by *[[Wikipedia - The Road Warrior|The Road Warrior]]*, in which a lone hero meets a band of survivors and acquires a sidekick/love interest/protégé. That hero then meets a band of villains who threaten the initial survivors, hero, or protégé. The hero is brought low, then must rise up to conquer the villains. 
+The show's structure was heavily influenced by *The Road Warrior*, in which a lone hero meets a band of survivors and acquires a sidekick/love interest/protégé. That hero then meets a band of villains who threaten the initial survivors, hero, or protégé. The hero is brought low, then must rise up to conquer the villains. 
 
 A narrator brought a mythic quality to the show, along with focus and structure where necessary.
 Each night, the roles of Hero 1, Hero 2, Villain, and Narrator were decided beforehand.
 
 ## History
-[[Brandon Salinas]] pestered [[Performers/Shannon McCormick|Shannon McCormick]] about this concept for months before Shannon agreed to let him stage it as one of [[Gnap! Theater Projects|Gnap!]]'s mainstage shows. A small group workshopped the show in December 2009. The format was formalized over the course of full rehearsals, which began in February 2010.  It then ran Fridays and Saturdays, from 3/26/2010 to 4/17/2010.  [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] ran lights for the show, and [[Performers/Courtney Hopkin|Courtney Hopkin]] created its costumes.
+Brandon Salinas pestered [[Performers/Shannon McCormick|Shannon McCormick]] about this concept for months before Shannon agreed to let him stage it as one of [[Gnap! Theater Projects|Gnap!]]'s mainstage shows. A small group workshopped the show in December 2009. The format was formalized over the course of full rehearsals, which began in February 2010.  It then ran Fridays and Saturdays, from 3/26/2010 to 4/17/2010.  [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] ran lights for the show, and [[Performers/Courtney Hopkin|Courtney Hopkin]] created its costumes.
 
 ### Casts
 #### Workshop Cast
@@ -116,7 +116,7 @@ Each night, the roles of Hero 1, Hero 2, Villain, and Narrator were decided befo
 * [[Performers/Andreas Fabis|Andreas Fabis]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Avimaan Syam|Avimaan Syam]]
-* [[James Roberts]]
+* James Roberts
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Julie Gillis|Julie Gillis]]
 * [[Performers/Justin Davis|Justin Davis]]
@@ -136,12 +136,12 @@ In addition, [[Performers/Sarah Marie Curry|Sarah Marie Curry]] and [[Performers
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1220926575189.2027811.1589679282&type=3)  by [[Roy Moore]] of the 4/3/10 performance. ("Giant Comet")
 * [Photoset](http://www.facebook.com/andreas.fabis/media_set?set=a.395509120616.163768.607595616&type=3)  by [[Performers/Andreas Fabis|Andreas Fabis]] of the 4/10/10 performance.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1232321100045.2028901.1589679282&type=3)  by [[Roy Moore]] of the 4/16/10 performance. ("Killer Plants")
-* [Photoset](http://www.flickr.com/photos/9022071@N03/sets/72157623902695136/)  by [[Brandon Salinas]] of the 4/17/10 performance. ("Invisible Zombies")
+* [Photoset](http://www.flickr.com/photos/9022071@N03/sets/72157623902695136/)  by Brandon Salinas of the 4/17/10 performance. ("Invisible Zombies")
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1234168306224.2029453.1589679282&type=3)  by [[Roy Moore]] of the 4/17/10 performance.
 
 ### Publicity
 * [Trailer for the show.](http://vimeo.com/10397429)
 * [Photos from the trailer shoot.](http://picasaweb.google.com/106700457719436610200/ApocalypseFilmShoot)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Salvage Vanguard Theater|Category:Salvage Vanguard Theater]]
+Category:Shows
+Category:Salvage Vanguard Theater

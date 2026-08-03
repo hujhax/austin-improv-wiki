@@ -85,7 +85,7 @@ The show is a presentation of the LARP of the same name by J. Tuomas Harviainen.
 
 The scenario is inspired by the works of Orwell, Krylov, Buchner, and Linna.
 
-In it, twelve soldiers living under a totalitarian regime debate which of their comrades will be executed for the crime of stealing bread.  The scenario raises intense questions, such as whether soldiers are willing to stand together to protect the innocent, or if they will break off from the group and focus on their own safety.  These game mechanics share a lot in common with the [[Wikipedia - Prisoner's dilemma|Prisoner's Dilemma]].
+In it, twelve soldiers living under a totalitarian regime debate which of their comrades will be executed for the crime of stealing bread.  The scenario raises intense questions, such as whether soldiers are willing to stand together to protect the innocent, or if they will break off from the group and focus on their own safety.  These game mechanics share a lot in common with the Prisoner's Dilemma.
 
 ## History
 This show has been performed three times.  The premiere was on 9/28/12, and the second show was on 4/12/13.  To keep the experience fresh, the second performance used an almost entirely different cast from the first.
@@ -113,7 +113,7 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 * [[Performers/Valerie Ward|Valerie Ward]] (Peacock)
 
 ### Show #2
-* [[Ashley Jayne Carlisle]]
+* Ashley Jayne Carlisle
 * [[Performers/Brett Tribe|Brett Tribe]]
 * [[Performers/Bridget Brewer|Bridget Brewer]]
 * [[Performers/Chad Wellington|Chad Wellington]]
@@ -122,7 +122,7 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 * [[Performers/Heidi Rogers|Heidi Rogers]]
 * [[Performers/Jayme Ramsay|Jayme Ramsay]] (thug)
 * [[Performers/Jessica Arjet|Jessica Arjet]]
-* [[JM Specht]]
+* JM Specht
 * [[Performers/Mike Nystul|Mike Nystul]]
 * [[Performers/Nicole Oliver|Nicole Oliver]]
 * [[Performers/Ryan Hill|Ryan Hill]]
@@ -132,7 +132,7 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 * [[Performers/Bridget Brewer|Bridget Brewer]]
 * [[Performers/Caeriel Crestin|Caeriel Crestin]]
 * [[Performers/Heidi Rogers|Heidi Rogers]]
-* [[J. M. Specht]]
+* J. M. Specht
 * [[Performers/Jayme Ramsay|Jayme Ramsay]]
 * [[Performers/Jessica Arjet|Jessica Arjet]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
@@ -147,15 +147,15 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 * [[Performers/Chris Albano|Chris Albano]] (Dog)
 * [[Performers/Chris Villafano|Chris Villafano]] (Bison)
 * [[Performers/David Lampe|David Lampe]] (Cat)
-* [[Ericka Bundy]] (Rat)
+* Ericka Bundy (Rat)
 * [[Performers/Heidi Penix|Heidi Penix]] (Wolf)
 * [[Performers/Lacy Shawn|Lacy Shawn]] (Elk)
-* [[Leonard Balsera]] (Raven)
+* Leonard Balsera (Raven)
 * [[Performers/Luke Wallens|Luke Wallens]] (Horse)
 * [[Performers/Mike Kinald|Mike Kinald]] (Thug)
 * [[Performers/Rachel Posey Austin|Rachel Posey Austin]] (Mouse)
 * [[Performers/Ryan Austin|Ryan Austin]] (Stork)
-* [[Terra Chirieleison]] (Hawk)
+* Terra Chirieleison (Hawk)
 
 ## Media
 * [Photoset of show #1](http://www.facebook.com/media/set/?set=a.391678000900885.87604.118587218209966&type=3) by [[Roy Moore]].
@@ -163,4 +163,4 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 
 ## More Information
 * [An announcement of the original LARP winning the 2010 "Larpwriter Challenge".](http://www.larpwriter.org/2010/11/and-winner-is.html)
-[[Category/Shows|Category:Shows]]
+Category:Shows

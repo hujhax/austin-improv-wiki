@@ -28,7 +28,7 @@ This one's not that weird. Everyone improvises as normal... except the floor is 
 #### *Ding!* ([[Performers/Mike Kinald|Mike Kinald]])
 At the Hideout Theatre, we love to tell stories. Many of our shows are full length improvised plays! But we also games, like in Maestro, our most popular show. Ding! is an experiment to combine the two. Four to six improvisers will be performing a short narrative. But every time a bell rings, they pick a game (like Alphabet, scene in reverse, etc...) out a hat. They then have to *use* that game to help tell the story. Expect madness. Expect confusion. Expect a surprisingly cohesive story despite (or perhaps because of) all the challenges along the way. 
 
-#### *Blind Montage* ([[Amy Dietze]])
+#### *Blind Montage* (Amy Dietze)
 There's a decently common improv format called the Bat, which is like a radio play in the dark. The lights go out and the improvisers do all the scenework using only their voices and imaginations. The Blind Montage reverses that idea and flips it around. The lights will stay on, but for the entire show, the improvisers will be blindfolded. Can two actors connect emotionally without being able to see? Can they effectively hand one another a cup? Can they avoid injury to life and limb? There's only one way to find out. 
 
 #### *Always a Bridesmaid* ([[Troupes/Firth & Arjet|Firth & Arjet]])
@@ -46,7 +46,7 @@ Join the Hideout for the first ever Ladies' Night at the Free Fringe. Funny, tal
 Ever wonder what Cinderella would look like if written by Dashiell Hammett? How about if The Big Bad Wolf was looking for a "Special Package" when Red came down the path? It's Grimm's Fairy Tales in the style of Film Noir. One fairy tale is retold in the style of Noir. starring: [[Performers/Mike Kinald|Mike Kinald]], [[Performers/David Lampe|David Lampe]], [[Performers/Jason Vines|Jason Vines]], [[Troupes/Topping Haggerty|Topping Haggerty]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]]
 
 #### *Tamales!* ([[Performers/Jason Vines|Jason Vines]])
-We have a large container of cooked tamales on stage. + We do improv scenes. = At least one person must be eating a tamale at all times during any given scene. Improvisers must justify why one person has their mouth full. starring: [[Performers/Jason Vines|Jason Vines]], [[Performers/Mike Kinald|Mike Kinald]], [[Performers/Eric Heiberg|Eric Heiberg]], [[Ann Wilson]], [[Performers/Amy Averett|Amy Averett]], [[Meredith Newell]], [[Victoria Bui]], [[Performers/John Buseman|John Buseman]]
+We have a large container of cooked tamales on stage. + We do improv scenes. = At least one person must be eating a tamale at all times during any given scene. Improvisers must justify why one person has their mouth full. starring: [[Performers/Jason Vines|Jason Vines]], [[Performers/Mike Kinald|Mike Kinald]], [[Performers/Eric Heiberg|Eric Heiberg]], Ann Wilson, [[Performers/Amy Averett|Amy Averett]], Meredith Newell, Victoria Bui, [[Performers/John Buseman|John Buseman]]
 
 #### *Tomboys* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 This was the premiere of their "Tomboys" format -- [[Troupes/Firth&Arjet|Firth&Arjet]] had planned to perform "Always a Bridesmaid", but had just bought their "Tomboys" costumes on the way to the theater, and decided they didn't want to risk staining their bridesmaid dresses with the aftermath of the "Tamales!" show.
@@ -56,7 +56,7 @@ This was the premiere of their "Tomboys" format -- [[Troupes/Firth&Arjet|Firth&A
 
 ### Feb  9, 2012
 #### *The Bestiary* ([[Performers/Thedward Blevins|Thedward Blevins]])
-There's a pretty awesome technique/game in improv where you play your character by taking on the characteristics of animals in human form. So if you're a mouse, you might play shy but excitable. The Bestiary takes that one step further. All the characters are animals. They cannot speak human language; they can only make animal noises. starring: [[Performers/Brad Hawkins|Brad Hawkins]], [[Sandra Ybarra]], [[Performers/Margaux Binder|Margaux Binder]], [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], [[Performers/Thedward Blevins|Thedward Blevins]]
+There's a pretty awesome technique/game in improv where you play your character by taking on the characteristics of animals in human form. So if you're a mouse, you might play shy but excitable. The Bestiary takes that one step further. All the characters are animals. They cannot speak human language; they can only make animal noises. starring: [[Performers/Brad Hawkins|Brad Hawkins]], Sandra Ybarra, [[Performers/Margaux Binder|Margaux Binder]], [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], [[Performers/Thedward Blevins|Thedward Blevins]]
 
 #### *Spirit of Influence* ([[Performers/Mitchell Deane|Mitchell Deane]])
 The bareness of the improv stage is both its blessing and its curse. A few chairs, a few curtains, and our words are used to create everything in the universe. But there's so much that's unseen. In Spirit of Influence, there will be an "unseen" person who provides the characters and scenes with subtext and texture by stating these things out loud. This can be anything from granting characters emotions such as "rage" or "euphoria" to giving them specific characteristics like "allergic to peanuts" or "has Smashmouth song stuck in his head" starring: [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], [[Performers/Brandon Martin|Brandon Martin]], [[Performers/Sam Schak|Sam Schak]], and [[Performers/Heidi Rogers|Heidi Rogers]]
@@ -66,7 +66,7 @@ We all have our own unique perspective on life. No two people are the same. But 
 
 #### *Always a Bridesmaid* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 ### Feb 16, 2012
-#### *Formats on Shuffle* ([[Chris Sebilia]])
+#### *Formats on Shuffle* (Chris Sebilia)
 On one wheel many different styles of improv. On the second wheel several different audience suggestions. We spin the wheels. *spin* *spin* *spin* Looks like we're doing an opera about Cracker Jacks. *spin* No, wait, opera has been skipped over, and now it's a VH1 Behind the Music about the life and times of Cracker Jack. 4 minutes later, we spin the wheels again. *spin* *spin* *spin* 
 
 #### *Mousetrap!*
@@ -75,18 +75,18 @@ Improv is at its most exciting when the performers are taking risks and on the e
 #### *Always a Bridesmaid* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 ### Feb 23, 2012
 #### *Alternate Ending* ([[Performers/Jason Oliver|Jason Oliver]])
-This show takes stories, books, and movies that we all know and love, and indulges in a bit of wish fulfillment. The improvisers will take suggestions for stories that are crying out to be rewritten. First, they'll perform a mostly accurate version of the original ending, and then throw the script away to find out what could have happened. These are the Director's endings, the insane endings, the just endings, the "What should have happened" endings. starring: [[Performers/Jason Oliver|Jason Oliver]], [[Performers/Chuy Zarate|Chuy Zarate]], [[Arby Gonzales]], [[Performers/Zac Grantham|Zac Grantham]]
+This show takes stories, books, and movies that we all know and love, and indulges in a bit of wish fulfillment. The improvisers will take suggestions for stories that are crying out to be rewritten. First, they'll perform a mostly accurate version of the original ending, and then throw the script away to find out what could have happened. These are the Director's endings, the insane endings, the just endings, the "What should have happened" endings. starring: [[Performers/Jason Oliver|Jason Oliver]], [[Performers/Chuy Zarate|Chuy Zarate]], Arby Gonzales, [[Performers/Zac Grantham|Zac Grantham]]
 
 #### *Mixed Modes* ([[Performers/Paul Normandin|Paul Normandin]])
-Allison is done with improv. She's decided to return to the world of scripted theatre, and she's dragging the rest of us along with her. She'll be performing the entire show with a script (only known to her), including all her lines and stage directions. Everyone else had better catch up, and make sense of whatever miscommunications happen along the way. starring: [[Allison Asher]], [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Jessica Arjet|Jessica Arjet]], [[Katherine Greco]], [[Performers/Gloria Bankler|Gloria Bankler]], [[Performers/Paul Normandin|Paul Normandin]]
+Allison is done with improv. She's decided to return to the world of scripted theatre, and she's dragging the rest of us along with her. She'll be performing the entire show with a script (only known to her), including all her lines and stage directions. Everyone else had better catch up, and make sense of whatever miscommunications happen along the way. starring: Allison Asher, [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Jessica Arjet|Jessica Arjet]], Katherine Greco, [[Performers/Gloria Bankler|Gloria Bankler]], [[Performers/Paul Normandin|Paul Normandin]]
 
 #### *Always a Bridesmaid* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 ### Mar  1, 2012
-#### *The Mitch-o-Scene* ([[Jeff O'Leary]])
-The late, great Mitch Hedberg was a fantastic comedian: surreal, unconventional, and brilliantly insane. So what happens when a bunch of improvisers play tribute to Mitch by all pretending to be him while doing improv? Who knows. Is this idea too out there even for the extremely out there Free Fringe? Quite possibly!  Starring: [[Andy Campbell]], [[Ashley Carlisle]], [[Performers/Stephanie Hagemeister|Stephanie Hagemeister]], [[Dan Kerrigan]], [[Jeff O'Leary]], [[Performers/Nicole Oliver|Nicole Oliver]], [[Kevin Smith]]
+#### *The Mitch-o-Scene* (Jeff O'Leary)
+The late, great Mitch Hedberg was a fantastic comedian: surreal, unconventional, and brilliantly insane. So what happens when a bunch of improvisers play tribute to Mitch by all pretending to be him while doing improv? Who knows. Is this idea too out there even for the extremely out there Free Fringe? Quite possibly!  Starring: Andy Campbell, Ashley Carlisle, [[Performers/Stephanie Hagemeister|Stephanie Hagemeister]], Dan Kerrigan, Jeff O'Leary, [[Performers/Nicole Oliver|Nicole Oliver]], Kevin Smith
 
 #### *DrunkProv* ([[Performers/Chuy Zarate|Chuy Zarate]])
-Speaking of questionable ideas, here's another one. There are 4 performers. There is one case of beer. The case must be completely drunk by the end of the show. Insanity prevails. starring: [[Performers/David Lampe|David Lampe]], [[Blynch]], [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Chuy Zarate|Chuy Zarate]] 
+Speaking of questionable ideas, here's another one. There are 4 performers. There is one case of beer. The case must be completely drunk by the end of the show. Insanity prevails. starring: [[Performers/David Lampe|David Lampe]], Blynch, [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Chuy Zarate|Chuy Zarate]] 
 
 #### ([[Troupes/Firth & Arjet|Firth & Arjet]])
 Headliners
@@ -118,10 +118,10 @@ Sometimes the simplest ideas are the best. * 8 improvisers get in a circle on st
 
 ### Mar 29, 2012
 #### *Well Endowed* ([[Performers/Mike Nystul|Alex Gray]])
-Imagine there are giant sticky notes stuck to the walls and set of the Hideout stage. On each note is written an attribute like "jealousy", "broken leg", "smelly", etc... As scenes progress, stickies are put on actors and objects, which they immediately take on as true during the scene. It's a constantly shifting, constantly revealing kaleidoscope of a world. starring: [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], [[Performers/Cindy Page|Cindy Page]], [[Dave]], [[Performers/Brad Hawkins|Brad Hawkins]] and [[Performers/Jessica Arjet|Jessica Arjet]] 
+Imagine there are giant sticky notes stuck to the walls and set of the Hideout stage. On each note is written an attribute like "jealousy", "broken leg", "smelly", etc... As scenes progress, stickies are put on actors and objects, which they immediately take on as true during the scene. It's a constantly shifting, constantly revealing kaleidoscope of a world. starring: [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], [[Performers/Cindy Page|Cindy Page]], Dave, [[Performers/Brad Hawkins|Brad Hawkins]] and [[Performers/Jessica Arjet|Jessica Arjet]] 
 
 #### *Theater Talk* ([[Performers/Nicole Beckley|Nicole Beckley]])
-A perfect complement to Process, our current mainstage. Theater Talk gives us an episode of a fiction talk show where various "Theatre" directors are interviewed. As we delve into their minds, we also delve into their work, seeing snippets and scenes from their various plays. starring: [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Brett Tribe|Brett Tribe]], [[Performers/Kevin Miller|Kevin Miller]], [[Ashley Jayne Carlisle]], and [[Performers/Nicole Beckley|Nicole Beckley]]
+A perfect complement to Process, our current mainstage. Theater Talk gives us an episode of a fiction talk show where various "Theatre" directors are interviewed. As we delve into their minds, we also delve into their work, seeing snippets and scenes from their various plays. starring: [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Brett Tribe|Brett Tribe]], [[Performers/Kevin Miller|Kevin Miller]], Ashley Jayne Carlisle, and [[Performers/Nicole Beckley|Nicole Beckley]]
 
 #### *Tomboys* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 #### Media
@@ -145,7 +145,7 @@ Headliners
 #### *Tomboys* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 ### Apr 26, 2012
 #### *Campfire Songs* ([[Performers/Michael Brockman|Michael Brockman]])
-Folks gathered 'round a campfire, making s'mores and telling each other stories. Except the stories will all be improvised songs and the campfire will be fake (hopefully). All the warmth and joy of a communal night around the fire, with more music and fewer bugs. starring: [[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Jordan Maxwell|Jordan Maxwell]], [[Performers/Jason Vines|Jason Vines]], [[Performers/Peter Rogers|Peter Rogers]], [[Amber Franklin]], and [[Performers/Michael Brockman|Michael Brockman]]
+Folks gathered 'round a campfire, making s'mores and telling each other stories. Except the stories will all be improvised songs and the campfire will be fake (hopefully). All the warmth and joy of a communal night around the fire, with more music and fewer bugs. starring: [[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Jordan Maxwell|Jordan Maxwell]], [[Performers/Jason Vines|Jason Vines]], [[Performers/Peter Rogers|Peter Rogers]], Amber Franklin, and [[Performers/Michael Brockman|Michael Brockman]]
 
 #### *[[Shows/Epic Telescope|Epic Telescope]]* ([[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Marc Majcher|Marc Majcher]])
 There's a game in Maestro called Half-Life, where we do a scene in a minute, then the same scene in 30 seconds, then 15, then 7... This is the opposite of that. The brave performers will start with a 10 second scene, and re-do it longer, and longer, and longer. As Peter Rogers, one of the producers, said: "This is probably completely impossible. If it crashes and burns, I will reveal that the whole thing was Marc's (the other producer's) idea."  starring: [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Marc Majcher|Marc Majcher]], [[Performers/Lauren Buck|Lauren Buck]], [[Performers/Lisa Jackson|Lisa Jackson]], and [[Performers/Josh Gill|Josh Gill]]
@@ -174,7 +174,7 @@ The annual O'Henry Pun Off is coming on May 19th. Improvisers traditionally clea
 [[Performers/Andreas Fabis|Andreas Fabis]] & [[Performers/Ceej Allen|Ceej Allen]]
 
 #### *Evil [[Performers/Peter Rogers|Peter Rogers]]* ([[Performers/Kevin Miller|Kevin Miller]])
-[[Performers/Peter Rogers|Peter Rogers]]: affable, witty, introverted--and above all, exceptionally nice. Or so we thought. Turns out Peter Rogers has a dark side, an EVIL side, that comes out to play at the most random of moments. This format will insert Peter Rogers, playing himself, into a variety of real-world situations. At any moment, players from the sides can tag Peter out and become Evil Peter Rogers, sabotaging the situation in any way they see fit. Peter must then re-enter the stage and attempt to justify or salvage the horrible evil thing he's just done. starring: [[Performers/Kevin Miller|Kevin Miller]], [[Performers/John Buseman|John Buseman]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Christine Giordano]], [[Performers/Peter Rogers|Peter Rogers]]
+[[Performers/Peter Rogers|Peter Rogers]]: affable, witty, introverted--and above all, exceptionally nice. Or so we thought. Turns out Peter Rogers has a dark side, an EVIL side, that comes out to play at the most random of moments. This format will insert Peter Rogers, playing himself, into a variety of real-world situations. At any moment, players from the sides can tag Peter out and become Evil Peter Rogers, sabotaging the situation in any way they see fit. Peter must then re-enter the stage and attempt to justify or salvage the horrible evil thing he's just done. starring: [[Performers/Kevin Miller|Kevin Miller]], [[Performers/John Buseman|John Buseman]], [[Performers/Brad Hawkins|Brad Hawkins]], Christine Giordano, [[Performers/Peter Rogers|Peter Rogers]]
 
 #### *Tomboys* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 #### Media
@@ -237,7 +237,7 @@ The cast of After School Improv, the first ever Hideout Student Mainstage, reuni
 #### *Once Upon A Time* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 ### Jul  5, 2012
 #### *Celebrity Alter-Ego* ([[Performers/Andreas Fabis|Andreas Fabis]])
-Yeah, yeah, Abraham Lincoln: Vampire Hunter... WHATEVER. That's only the tip of the iceberg. Come see these intrepid performers unveil the secrets of some of history's greatest women and men. Joan of Arc, volcano whisperer? Albert Einstein, werewolf counselor? starring: [[Performers/Peter Rogers|Peter Rogers]], [[Troupes/Topping Haggerty|Topping Haggerty]], [[Performers/Kevin Miller|Kevin Miller]], [[Robin Anderson]], and [[Performers/Lindsey Reeves|Lindsey Reeves]]
+Yeah, yeah, Abraham Lincoln: Vampire Hunter... WHATEVER. That's only the tip of the iceberg. Come see these intrepid performers unveil the secrets of some of history's greatest women and men. Joan of Arc, volcano whisperer? Albert Einstein, werewolf counselor? starring: [[Performers/Peter Rogers|Peter Rogers]], [[Troupes/Topping Haggerty|Topping Haggerty]], [[Performers/Kevin Miller|Kevin Miller]], Robin Anderson, and [[Performers/Lindsey Reeves|Lindsey Reeves]]
 
 #### *Audition* ([[Performers/Mike Nystul|Alex Gray]])
 The next big show is casting and four hopefuls are competing for a coveted space in the production. The brilliant (some say sadistic) director has come ready to put everyone through their paces. These lucky four have come to play and play they shall... 
@@ -266,7 +266,7 @@ This show comes to you from the mind of the man who brought us the gender bendin
 #### *Once Upon A Time* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 ### Aug  2, 2012
 #### *Deeply Superficial* ([[Performers/Bobby Ford|Bobby Ford]])
-Your friend is well-meaning and looking out for you, so she gives your email address to a friend of hers she thinks might be a good match for you. But the email you get from this potential partner in love not only includes a list of requirements you must meet, but ends with the sentence: "And in the name of full disclosure, I'm a deeply superficial person." What do you do in this situation? The only thing you can do. Blow her off and create an improv show based on the email. starring (so far): [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Kristin Firth|Kristin Firth]], [[Cassidy Santaguida]], [[Performers/Cortney DeAngelo|Cortney DeAngelo]] 
+Your friend is well-meaning and looking out for you, so she gives your email address to a friend of hers she thinks might be a good match for you. But the email you get from this potential partner in love not only includes a list of requirements you must meet, but ends with the sentence: "And in the name of full disclosure, I'm a deeply superficial person." What do you do in this situation? The only thing you can do. Blow her off and create an improv show based on the email. starring (so far): [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Kristin Firth|Kristin Firth]], Cassidy Santaguida, [[Performers/Cortney DeAngelo|Cortney DeAngelo]] 
 
 #### *Drowning in Mitchell Deane* ([[Performers/Brad Hawkins|Brad Hawkins]])
 [[Performers/Mitchell Deane|Mitchell Deane]] (whose real name is Granville Mitchell Deane III, or so he says), is a unique and beautiful snowflake of an improviser and a person. It can take him 30 minutes to answer a simple yes/no question, and no time at all to make you laugh hysterically. Look, the man cannot be explained, and he can definitely not be duplicated. But this show will attempt to do just that. A cast of brave improvisers will attempt to perform as Mitchell Deane. And just to spice things up, Mitchell will also be in the cast.  starring: [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Brandon Martin|Brandon Martin]], [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Ellen Pittsford|Ellen Pittsford]], [[Performers/Sarah Swofford|Sarah Swofford]], and special guest star [[Performers/Mitchell Deane|Mitchell Deane]]
@@ -280,7 +280,7 @@ This week Firth & Arjet will be presented with a mystery format by [[Performers/
 
 ### Aug  9, 2012
 #### *[[Troupes/Firth & Arjet|Firth & Arjet]]* Free Fringe Finale ([[Troupes/Firth & Arjet|Firth & Arjet]])
-[[Troupes/Firth & Arjet|Firth & Arjet]] has been with the Free Fringe since it began. Now Firth is leaving Austin to go to Philadelphia for school, so we're going to celebrate the duo in this final show presenting everything Firth & Arjet. During their time together they've created five custom show formats and on this special night they will present every one of those shows. There will also be guest appearances by the lady sketch troupe [[Confirmed Bachelors]] (performing Thursday will be [[Amy Gentry]] and [[Performers/Valerie Ward|Valerie Ward]]) and the master storyteller [[Performers/Paul Normandin|Paul Normandin]]. 
+[[Troupes/Firth & Arjet|Firth & Arjet]] has been with the Free Fringe since it began. Now Firth is leaving Austin to go to Philadelphia for school, so we're going to celebrate the duo in this final show presenting everything Firth & Arjet. During their time together they've created five custom show formats and on this special night they will present every one of those shows. There will also be guest appearances by the lady sketch troupe Confirmed Bachelors (performing Thursday will be Amy Gentry and [[Performers/Valerie Ward|Valerie Ward]]) and the master storyteller [[Performers/Paul Normandin|Paul Normandin]]. 
 
 #### *Actor's Nightmare* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 Improv with a script! Jessica and Kristin have chosen existing two-person scripted scenes the other doesn't know about. For each scene one of them will have their scene, their lines, their blocking determined by what's written. The other one will improvise with no idea what "should" happen next. 
@@ -310,7 +310,7 @@ Headliners
 'The "Dear Diary" idea came about when [[Performers/Sam Schak|Sam Schak]], [[Performers/Nicole Oliver|Nicole Oliver]], and I were hanging out one night at the Dog & Duck and got to talking about things that we used to write in our diaries when we were younger. The show will start with one or all of us reading out loud from our old diaries and doing a show inspired by those old, extremely embarrassing, real-life thoughts. I think it would make for a hilarious show, but one that's grounded in the reality of what goes on in our heads when we're young and trying to figure out life, love, etc.' starring: [[Performers/Jen Kaplan|Jen Kaplan]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Nicole Oliver|Nicole Oliver]], and their innermost secrets 
 
 #### *iO Summer Intensive Show* ([[Performers/Karen Jane Dewitt|Karen Jane Dewitt]])
-This summer five Austin improvisors traveled to Chicago for the iO Theatre's Summer Intensive! Watch them put their five weeks of training to work in this Chicago-style show with an Austin flair. starring: [[Nicholas Saenz]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], [[Performers/Aaron Walther|Aaron Walther]], [[Performers/Peter Rogers|Peter Rogers]]
+This summer five Austin improvisors traveled to Chicago for the iO Theatre's Summer Intensive! Watch them put their five weeks of training to work in this Chicago-style show with an Austin flair. starring: Nicholas Saenz, [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], [[Performers/Aaron Walther|Aaron Walther]], [[Performers/Peter Rogers|Peter Rogers]]
 
 #### [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 Headliners
@@ -319,8 +319,8 @@ Headliners
 * [Video](http://vimeo.com/48176252) by [[Performers/Peter Rogers|Peter Rogers]] of "The iO Five".
 
 ### Sep  6, 2012
-#### *Storybook Rhymz* ([[Chris Sebilia]])
-The 7 Dwarves whistle while they work, But beatbox with Snow in their off times. Cinderella€™s stepmom is a jerk, But did you know she spits sick rhymes? The Big Bad Wolf ate a granny himself And his big bad rhymes put a Grammy on the shelf! Crass City presents Storybook Rhymz - improvised stories and rap songs by characters from your favorite tales. Cast: [[Chris Sebilia]], [[Cassidy Santiago]], [[Performers/Eric Heiberg|Eric Heiberg]] 
+#### *Storybook Rhymz* (Chris Sebilia)
+The 7 Dwarves whistle while they work, But beatbox with Snow in their off times. Cinderella€™s stepmom is a jerk, But did you know she spits sick rhymes? The Big Bad Wolf ate a granny himself And his big bad rhymes put a Grammy on the shelf! Crass City presents Storybook Rhymz - improvised stories and rap songs by characters from your favorite tales. Cast: Chris Sebilia, Cassidy Santiago, [[Performers/Eric Heiberg|Eric Heiberg]] 
 
 #### *May I speak to Batman?* ([[Performers/Ellen Pittsford|Ellen Pittsford]])
 Comic books only tell the exciting parts of the story. Maybe when superheroes aren't fighting evil, they take their dogs for walks. They get a beer with some buddies. They kiss their wife goodnight. And they keep their identity a SECRET. Come see what happens as our completely improvised superhero walks the line between living two lives! starring: [[Performers/Deano Jones|Deano Jones]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Jessie Pascarelli|Jessie Pascarelli]], and [[Performers/Ellen Pittsford|Ellen Pittsford]]
@@ -391,7 +391,7 @@ Headliners
 #### *[[Shows/Tech Nightmare|Tech Nightmare]]* ([[Performers/Cindy Page|Cindy Page]])
 This show was birthed in the insanity of the 43 Hour Marathon. The tech booth is put in complete charge of the show, AS THEY SHOULD BE ALL THE TIME. Sound effects, lights, and music all change on their whim. And if the performers don't do what they're told, they are PUNISHED. 
 
-#### *Happy, Healthy, Funky (or, You Should Be Dancing)* ([[Kat Greco]])
+#### *Happy, Healthy, Funky (or, You Should Be Dancing)* (Kat Greco)
 One of the principles of improv taught at The Hideout is to be "happy, healthy, sexy." That is, let your character be someone whom others would want to hang out with or someone others are at least interested in. Make connections with other characters. Make bold choices and stick to them. Is there any type of music that embodies the spirit of "happy, health, sexy" more than funk? Think about it. Funk quickens the senses, lightens the spirit, inspires confidence and forges joyous connections between people on the dance floor. It's powerful stuff! But can funk inspire happier, healthier, sexier improv? In tonight's show, we'll find out! Periodically we will pause our show for a funky dance break. When we're done, we'll pick up where we left off with a new sense of vigor, purpose, confidence and connection. 
 
 #### [[Troupes/Your Dad's Friends|Your Dad's Friends]]
@@ -404,7 +404,7 @@ Look, just trust us on this one. We play-tested it, and it's hilarious. A scene 
 #### *Jessica and Peter*
 It's a [[Performers/Peter Rogers|Peter Rogers]] double-header, as [[Performers/Jessica Arjet|Jessica Arjet]] and Peter combine forces to unleash their duo power on the world. 
 
-#### *[[Bedfellows]]*
+#### *Bedfellows*
 A series of 3 vignettes, all about intimacy and relationships. With [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Dana Yanoshak|Dana Yanoshak]], and [[Performers/Jessica Arjet|Jessica Arjet]]. 
 
 #### Media
@@ -442,7 +442,7 @@ Headliners
 In what will hopefully become a Hideout tradition, we're mashing up the two most recent Hideout Mainstage shows... *[[Shows/The Black Vault|The Black Vault]]* (improvised horror inspired by H.P. Lovecraft) and *[[Shows/Austin Secrets|Austin Secrets]]*. To that end, we give you Lovecraft Secrets. On the surface it has the form of Austin Secrets... a personal exploration of the secrets that people hold near and dear to their hearts and that inform their everyday humanity. But these secrets... are a little... darker... (and hopefully a little faker) curators: [[Performers/Marc Majcher|Marc Majcher]] (*[[Shows/The Black Vault|The Black Vault]]* director) & [[Performers/Roy Janik|Roy Janik]] (*[[Shows/Austin Secrets|Austin Secrets]]* director); tech: [[Performers/Cindy Page|Cindy Page]]; cast: [[Performers/Justin Davis|Justin Davis]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Emily Breedlove|Emily Breedlove]], [[Performers/Jayme Ramsay|Jayme Ramsay]], [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Kareem Badr|Kareem Badr]], [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Paul Normandin|Paul Normandin]], and [[Performers/Kaci Beeler|Kaci Beeler]] 
 
 #### *Parents and Kids*
-Parent and child is one of the closest relationships in the human experience. But could you imagine doing improv with your parent...or your child? Thursday night 4 brave improvisors will take the stage with their improviser children. Can it work? Can awesome improv withstand the parent/child bond? Let's find out. Starring: [[Performers/Kristin Henn|Kristin Henn]] and Charlotte; [[Performers/Jessica Arjet|Jessica Arjet]] and Catherine Arjet; [[Performers/Ryan Hill|Ryan Hill]] and [[Dean Palm]]; [[Anna Lattka]] and Tamara 
+Parent and child is one of the closest relationships in the human experience. But could you imagine doing improv with your parent...or your child? Thursday night 4 brave improvisors will take the stage with their improviser children. Can it work? Can awesome improv withstand the parent/child bond? Let's find out. Starring: [[Performers/Kristin Henn|Kristin Henn]] and Charlotte; [[Performers/Jessica Arjet|Jessica Arjet]] and Catherine Arjet; [[Performers/Ryan Hill|Ryan Hill]] and Dean Palm; Anna Lattka and Tamara 
 
 #### Media
 * [Video](http://vimeo.com/55421296) by [[Performers/Peter Rogers|Peter Rogers]] of "Lovecraft Secrets".
@@ -451,7 +451,7 @@ Parent and child is one of the closest relationships in the human experience. Bu
 
 ### Dec 13, 2012
 #### *The Twelve Scenes of Christmas* ([[Performers/Jon Bolden|Jon Bolden]])
-We all know that The 12 Days of Christmas is the best Christmas song. That fact is not up for debate. Exhibit A: 5 GOLLLLLDDDEEEENNNN RINGS. Case closed. It is therefore hoped that The Twelve Scenes of Christmas will be the best improv show ever. There will be 12 scenes. The first scene will involve 12 people, the second scene will have 11, etc, etc... all the way down to the pear tree. Starring (so far): [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]], [[Performers/Michael Joplin|Michael Joplin]], [[Performers/Jon Bolden|Jon Bolden]], [[Performers/Lisa Jackson|Lisa Jackson]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/Andy Buck|Andy Buck]], [[Adam Trabka]], [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Marc Majcher|Marc Majcher]], [[Performers/Ryan Austin|Ryan Austin]] 
+We all know that The 12 Days of Christmas is the best Christmas song. That fact is not up for debate. Exhibit A: 5 GOLLLLLDDDEEEENNNN RINGS. Case closed. It is therefore hoped that The Twelve Scenes of Christmas will be the best improv show ever. There will be 12 scenes. The first scene will involve 12 people, the second scene will have 11, etc, etc... all the way down to the pear tree. Starring (so far): [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]], [[Performers/Michael Joplin|Michael Joplin]], [[Performers/Jon Bolden|Jon Bolden]], [[Performers/Lisa Jackson|Lisa Jackson]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/Andy Buck|Andy Buck]], Adam Trabka, [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Marc Majcher|Marc Majcher]], [[Performers/Ryan Austin|Ryan Austin]] 
 
 #### *Merry Xmas *[[Shows/Tech Nightmare|Tech Nightmare]] ([[Performers/Cortney DeAngelo|Cortney DeAngelo]])
 The ever popular Tech Nightmare returns. Ordinarily the people on stage call the shots, but in this show the tech booth has taken over. The performers are utterly at their mercy... and if they don't do exactly what they're told, they are punished. This time with a Christmas flair! Strange and sometimes otherworldly Christmas songs will inform the nightmare landscape of the show. 
@@ -465,7 +465,7 @@ Jessica invites her friend [[Performers/Alexander Hilary|Alexander Hilary]] to j
 
 ### Dec 20, 2012
 #### *The Show with the Snake* ([[Performers/Roy Danger|Roy Danger]])
-Someone dropped a 10 ft. snake thingy off at the Hideout. Have a look to the right. What little explanation we got was that they made it as part of a crazy scavenger hunt. After photographing it, they had no need for it, so naturally they gave it to us. Thank you. We are going to do one show with it, The Show with the Snake. And then at the end of the show, we'll give it to one lucky audience member. starring: [[Performers/Claudio Fox|Claudio Fox]], [[Ramsey Mourad]], [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Bryan Roberts|Bryan Roberts]], [[Performers/Justin Davis|Justin Davis]], [[Performers/Neal Tibrewala|Neal Tibrewala]], and [[Performers/Roy Danger|Roy Danger]]
+Someone dropped a 10 ft. snake thingy off at the Hideout. Have a look to the right. What little explanation we got was that they made it as part of a crazy scavenger hunt. After photographing it, they had no need for it, so naturally they gave it to us. Thank you. We are going to do one show with it, The Show with the Snake. And then at the end of the show, we'll give it to one lucky audience member. starring: [[Performers/Claudio Fox|Claudio Fox]], Ramsey Mourad, [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Bryan Roberts|Bryan Roberts]], [[Performers/Justin Davis|Justin Davis]], [[Performers/Neal Tibrewala|Neal Tibrewala]], and [[Performers/Roy Danger|Roy Danger]]
 
 #### *Downton 2121* ([[Performers/Andy Buck|Andy Buck]])
 Downton Abbey jumps to the year 2121. Stately English manor drama meets the distant future. Ray guns heat tea. Robot stable boys. Holograms eavesdropping on the scullery maids. starring: [[Performers/Mia Iseman|Mia Iseman]], [[Performers/Andy Buck|Andy Buck]], [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Colin Thomas Bates|Colin Thomas Bates]], [[Performers/Katie Thornton|Katie Thornton]], and [[Performers/Courtney Hopkin|Courtney Hopkin]]
@@ -481,18 +481,18 @@ Headliners
 They are preachers. They are roommates. They are freelance detectives. They are... the Preacher Roommate Detective Squad. starring: [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Claudio Fox|Claudio Fox]], [[Performers/Scott Hearne|Scott Hearne]]
 
 #### *Expectoratin' with [[Performers/Julie Gillis|Julie Gillis]]* ([[Performers/Julie Gillis|Julie Gillis]])
-We've all got things we want to get off our chest... fears, secrets, pet peeves, aliens, and mucus. This show is about that. With [[Performers/Julie Gillis|Julie Gillis]]. starring: [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Ashlee Medlin]], [[Performers/Marc Majcher|Marc Majcher]] 
+We've all got things we want to get off our chest... fears, secrets, pet peeves, aliens, and mucus. This show is about that. With [[Performers/Julie Gillis|Julie Gillis]]. starring: [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], Ashlee Medlin, [[Performers/Marc Majcher|Marc Majcher]] 
 
 #### [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 Headliners
 
 ## 2013 Shows
 ### Jan  3, 2013
-#### *Austin Free Hug Day Adventure* ([[Sandra Ybarra]])
-Scenes inspired by the experiences of local improvisers who braved the rain and cold weather to reach out and hug a stranger to brighten up their lives. Everyone needs a hug. Come feel the change. starring: [[Performers/Adriane Shown|Adriane Shown]], [[Cassidy Santaguida]], [[Christopher Sebilia]], [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Ryan Hill|Ryan Hill]], [[Sandra Ybarra]], and [[Victoria Hawthorne]]
+#### *Austin Free Hug Day Adventure* (Sandra Ybarra)
+Scenes inspired by the experiences of local improvisers who braved the rain and cold weather to reach out and hug a stranger to brighten up their lives. Everyone needs a hug. Come feel the change. starring: [[Performers/Adriane Shown|Adriane Shown]], Cassidy Santaguida, Christopher Sebilia, [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Ryan Hill|Ryan Hill]], Sandra Ybarra, and Victoria Hawthorne
 
-#### *It's a Wonderful Resolution* ([[Travis Devitt]])
-New Years resolutions are notoriously difficult to actually carry out and most people fail at them. We'll be getting actual New Years resolutions from the audience and do an improvised set of scenes based on what life will be like for the audience member if they actually stick with their resolution. starring: [[Travis Devitt]], [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Brandon Martin|Brandon Martin]], and [[Kim Dilling]]
+#### *It's a Wonderful Resolution* (Travis Devitt)
+New Years resolutions are notoriously difficult to actually carry out and most people fail at them. We'll be getting actual New Years resolutions from the audience and do an improvised set of scenes based on what life will be like for the audience member if they actually stick with their resolution. starring: Travis Devitt, [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Brandon Martin|Brandon Martin]], and Kim Dilling
 
 #### *Once Upon a Time* ([[Troupes/Firth & Arjet|Firth & Arjet]])
 #### Media
@@ -521,7 +521,7 @@ This is a very special Free Fringe. It's the Free Fringe Festival, in fact! Inst
 #### *Watching us Watching* ([[Performers/Mike Nystul|Mike Nystul]])
 Watch us watching some improv. Sometimes the audience is as entertaining as the performers. 
 
-#### *Fast and Furiously Missing* ([[Cassidy Santaguida]])
+#### *Fast and Furiously Missing* (Cassidy Santaguida)
 The premise is that Vin Diesel has invited himself to be in [[Troupes/Furiously Missing|Furiously Missing]] and we couldn't say no. Special guest star: Vin Diesel, and he always plays himself. 
 
 #### *5 Minute Dinner Party* ([[Performers/Jason Vines|Jason Vines]])
@@ -536,17 +536,17 @@ Thirty seconds of silence is a nice way to start a two-person scene, but what ha
 #### = *Viking Improv* ([[Performers/Chad Wellington|Chad Wellington]])=
 The scene above was stolen by a band of marauding vikings who really like this improv thing but really only know how to pillage.
 
-#### *Left Wing Poultry* ([[Amy Carpenter]])
+#### *Left Wing Poultry* (Amy Carpenter)
 Chicken and human performers come together for a longform improv show that is sometimes political, sometimes controversial, yet always heartwarming. 
 
-#### *Everything is Bigger* ([[Sandra Ybarra]])
+#### *Everything is Bigger* (Sandra Ybarra)
 We only got 5 minutes to make something good happen so we go to go big...the sky is the limit. 
 
 #### *Mad Tea Party* ([[Performers/Brad Hawkins|Brad Hawkins]])
 Each chair has a property that affects the characters, and the characters keep changing seats. 
 
 #### *TBD* ([[Performers/Chuy Zarate|Chuy Zarate]])
-#### *Arcie Cola in da House!* ([[Arcie Cola]])
+#### *Arcie Cola in da House!* (Arcie Cola)
 "I won't need nothin but a light on the stage." 
 
 #### Plus projects by [[Performers/Andy Buck|Andy Buck]] and [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]]!
@@ -579,8 +579,8 @@ Headliners
 #### *[[Performers/Bobby Ford|Bob]]'s 50th* ([[Performers/Bobby Ford|Bobby Ford]])
 One life, so many people that change it, move it, make it better and sometimes make it much worse worse. All heroes do not wear Tights and Capes. This tale will be of the unsung heroes of plain pants and simple blouses that change our lives every day. This show is tribute to the everyday person that performs a heroic act in our life. Follow our single, adult male encountering 50 as he encounters people that have affected his life. 
 
-#### *Blind Date* ([[Sandra Ybarra]])
-[[Regina Soto]] and [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] wondered why dating is so awkward but acting ridiculous onstage comes naturally. So they thought....what if they had blind dates onstage? So with the help of "man-wrangler" [[Sandra Ybarra]], and the support of the improv community, Regina and Madeline harassed their friends to find them blind dates. They won't see the dates until they get on the stage, and won't know anything about them. Of course, there's always the chance that nobody will show up...which means Regina and Madeline will have to, well, improvise. 
+#### *Blind Date* (Sandra Ybarra)
+Regina Soto and [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] wondered why dating is so awkward but acting ridiculous onstage comes naturally. So they thought....what if they had blind dates onstage? So with the help of "man-wrangler" Sandra Ybarra, and the support of the improv community, Regina and Madeline harassed their friends to find them blind dates. They won't see the dates until they get on the stage, and won't know anything about them. Of course, there's always the chance that nobody will show up...which means Regina and Madeline will have to, well, improvise. 
 
 #### [[Troupes/In Our Prime|In Our Prime]]
 Headliners
@@ -591,7 +591,7 @@ Headliners
 
 ### Feb 28, 2013
 #### *Teach a Man to Fischer*
-An opening set to cleanse the palate. Nothing too shocking about this show, just friends who haven't gotten to improvise together in a while. starring: [[Terrill Fischer]], [[Performers/Roy Janik|Roy Janik]], [[Performers/Peter Rogers|Peter Rogers]] 
+An opening set to cleanse the palate. Nothing too shocking about this show, just friends who haven't gotten to improvise together in a while. starring: Terrill Fischer, [[Performers/Roy Janik|Roy Janik]], [[Performers/Peter Rogers|Peter Rogers]] 
 
 #### *[[Troupes/Waiting for Batman|Waiting for Batman]]* ([[Performers/Eric Heiberg|Eric Heiberg]])
 It's 1964. Commissioner Gordon ([[Performers/Curtis Luciani|Curtis Luciani]]) and Chief O'Hara ([[Performers/Eric Heiberg|Eric Heiberg]]) have come against yet another dubious crime from a criminal mastermind. Once again, they are stumped and have called Batman on the Bat-phone. Commissioner Gordon and Chief O'Hara discuss life, crime, and each other's wives while Batman is making his 22 minute journey to the Commissioner's office. 
@@ -683,10 +683,10 @@ Have you ever wondered what it might be like to hang around a group of very succ
 Headliners
 
 ### May 9, 2013
-#### *Sing Along* ([[Amanda Hinsman]])
-We want to jump up and sing whatever song might pop into our heads and we want you to sing along! Scenes inspired by such glory will hence commence. If you are a fan of the song pop app, pitch perfect, or constantly switching radio stations this is your show. starring: [[Performers/Lindsay Hejl|Lindsay Hejl]], [[Blake Rienhart]], [[Performers/Seth Johnson|Seth Johnson]], [[Tim Stiefler]], [[Jennifer Brinlee]], [[Performers/Jillian Summar|Jillian Summar]], and [[Amanda Hinsman]]
+#### *Sing Along* (Amanda Hinsman)
+We want to jump up and sing whatever song might pop into our heads and we want you to sing along! Scenes inspired by such glory will hence commence. If you are a fan of the song pop app, pitch perfect, or constantly switching radio stations this is your show. starring: [[Performers/Lindsay Hejl|Lindsay Hejl]], Blake Rienhart, [[Performers/Seth Johnson|Seth Johnson]], Tim Stiefler, Jennifer Brinlee, [[Performers/Jillian Summar|Jillian Summar]], and Amanda Hinsman
 
-#### *Romance in the Raw* ([[Courtney DeAngelo]])
+#### *Romance in the Raw* (Courtney DeAngelo)
 Romance blossoms! Love between people is always different and sometimes, quite spontaneous. A fearless look at love with quiet intensity, passion, and probably some humor. 
 
 #### [[Performers/Jessica Arjet|Jessica Arjet]] & [[Performers/Mike Nystul|Mike Nystul]]
@@ -706,7 +706,7 @@ They take their usual funny quirky tone, and let it have dark consequences.
 Headliners
 
 ### May 23, 2013
-#### *The Slappy Sessions, Live!* ([[David Moses Fruchter]])
+#### *The Slappy Sessions, Live!* (David Moses Fruchter)
 A live honest to goodness recording of guided improvisation and interviews for use on the KOOP radio show "Slappy Pinchbottom's Odd Preoccupation." Not to be missed. 
 
 #### *Pick Your Own Black Vault* ([[Performers/Peter Rogers|Peter Rogers]])
@@ -719,8 +719,8 @@ Headliners
 * [Video](http://vimeo.com/66965290) by [[Performers/Paul Normandin|Paul Normandin]] of "Pick Your Own Black Vault".
 
 ### May 30, 2013
-#### *Infotainment* ([[Brad Smith]])
-Infotainment! Our cast of experts will amaze and inform you by answering questions (correctly or otherwise) in our various areas of expertise. Then comes the shocking conclusion when we bring it all together!  starring: [[Anna Giacomo]], [[Brad Smith]], [[Vicky Vegh]], [[Brett Weaver]], [[Noah Wright]], and [[Patrick Yonkin]]; hosted by [[Performers/Jessica Von Schramm|Jessica Von Schramm]]
+#### *Infotainment* (Brad Smith)
+Infotainment! Our cast of experts will amaze and inform you by answering questions (correctly or otherwise) in our various areas of expertise. Then comes the shocking conclusion when we bring it all together!  starring: Anna Giacomo, Brad Smith, Vicky Vegh, Brett Weaver, Noah Wright, and Patrick Yonkin; hosted by [[Performers/Jessica Von Schramm|Jessica Von Schramm]]
 
 #### *World of Typos* ([[Performers/Asaf Ronen|Asaf Ronen]])
 Many improvisers are writers and many writers notice the typos that squeeze through and end up on menus, on signs, in magazine articles.  And many improviser/writers imagine the world where those would be typos, where a diner would offer Fred Eggs, where quotation marks are thrown about willy nilly. starring: [[Performers/Justin Davis|Justin Davis]], [[Performers/Lisa Jackson|Lisa Jackson]], [[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Ted Meredith|Ted Meredith]], and [[Performers/Asaf Ronen|Asaf Ronen]].
@@ -730,7 +730,7 @@ Headliners
 
 ### Jun 6, 2013
 #### *TeacherProv* ([[Performers/Mia Iseman|Mia Iseman]])
-Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.  Cast: [[Ashley Jayne Carlisle]], [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]], [[Performers/David Lampe|David Lampe]], [[Performers/Jayme Ramsay|Jayme Ramsay]], [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], [[Performers/Mia Iseman|Mia Iseman]]
+Inspired by real classroom stories, these actual teachers will give you an education – IN COMEDY.  Cast: Ashley Jayne Carlisle, [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]], [[Performers/David Lampe|David Lampe]], [[Performers/Jayme Ramsay|Jayme Ramsay]], [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], [[Performers/Mia Iseman|Mia Iseman]]
 
 #### *Bueler, Bueler?* ([[Performers/Andrew Buck|Andrew Buck]])
 Andrew picks one person from the audience… a person who has no improv training, and does a show with them.
@@ -749,7 +749,7 @@ Every character wants something and there is usually something they don't want. 
 #### First and Last
 Stories without all the boring bits in the middle. We see the opening and ending scenes of several improvised tales.
 
-[[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Bridget Brewer|Bridget Brewer]], [[Andrew Robinson]], [[Jessica Brooks Allen]], and Peter.
+[[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Bridget Brewer|Bridget Brewer]], Andrew Robinson, Jessica Brooks Allen, and Peter.
 
 #### [[Troupes/In Our Prime|In Our Prime]]
 Headliners
@@ -759,7 +759,7 @@ Headliners
 Inspired by Deanna Fleysher's "Naked Comedy" Workshop, these brave imps will present and improvised clowning show by exploring physical comedy with minimal to no speech.
 
 #### Can It Be Done?!?
-Starring: [[Performers/Luke Wallens|Luke Wallens]], [[Content Love Knowles]], [[Performers/Sam Schak|Sam Schak]], and [[Performers/Thedward Blevins|Thedward Blevins]]
+Starring: [[Performers/Luke Wallens|Luke Wallens]], Content Love Knowles, [[Performers/Sam Schak|Sam Schak]], and [[Performers/Thedward Blevins|Thedward Blevins]]
 
 #### Bald Men
 The Bald Men of Austin Improv perform as monks
@@ -774,7 +774,7 @@ Get a harrowing and hilarious look at the inside world of the actor. The auditio
 Starring: [[Performers/Sam Schak|Sam Schak]], [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Caeriel Crestin|Caeriel Crestin]], and [[Performers/Marc Majcher|Marc Majcher]]
 
 #### Dexterprov ([[Performers/Andrew Buck|Andrew Buck]])
-Dexterprov tells a never-before-seen and never-before-written episode of the serial killer drama *[[Wikipedia - Dexter|Dexter]]*. Who will kill whom? Will Dexter get caught at his dangerous game? Will Deb act on her brotherly love? Who will the newest serial killer be? Will Batista ever stop wearing that dumb hat? All of these questions -- and one or two more -- will be answered in this completely improvised show.
+Dexterprov tells a never-before-seen and never-before-written episode of the serial killer drama *Dexter*. Who will kill whom? Will Dexter get caught at his dangerous game? Will Deb act on her brotherly love? Who will the newest serial killer be? Will Batista ever stop wearing that dumb hat? All of these questions -- and one or two more -- will be answered in this completely improvised show.
 
 #### [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]]
 Headliners
@@ -787,8 +787,8 @@ On this bedazzling night of improv euphoria, staff photographers and the audienc
 
 (Yes, three improvisers... Cuz they be absurd). :)
 
-#### Brnnr x Facebook Vs. Improv ([[Wayne Alan Brenner]])
-[[Wayne Alan Brenner]] is well known for his articles, interviews, listings, and reviews in the Arts section of the *[[Wikipedia - Austin Chronicle|Austin Chronicle]]*, and also for being the most well-connected man in the city.
+#### Brnnr x Facebook Vs. Improv (Wayne Alan Brenner)
+Wayne Alan Brenner is well known for his articles, interviews, listings, and reviews in the Arts section of the *Austin Chronicle*, and also for being the most well-connected man in the city.
 
 But he's only slightly less well known for this: his absurd, poignant, head-scratching, saliva-inducing, poetic, ridiculous, mysterious Facebook posts.
 
@@ -808,7 +808,7 @@ Headliners
 #### Exquisite Corpse
 Remember drawing those exquisite corpse drawings when you were a kid? Your friend drew the head, then you took turns drawing the next part while only being able to see the very bottom of what had come before. We'll do the improv equivalent. Three teams will tell a story but each subsequent team will only know a tiny piece of what's already happened -- beautiful chaos ensues!
 
-Cast: [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Cassidy Santaguida]], [[Chris Sebilia]], [[Performers/David Lampe|David Lampe]], [[Performers/David Ronn|David Ronn]], [[Performers/Gloria Bankler|Gloria Bankler]], [[Performers/Jen Kaplan|Jen Kaplan]], [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Sam Schak|Sam Schak]]
+Cast: [[Performers/Caeriel Crestin|Caeriel Crestin]], Cassidy Santaguida, Chris Sebilia, [[Performers/David Lampe|David Lampe]], [[Performers/David Ronn|David Ronn]], [[Performers/Gloria Bankler|Gloria Bankler]], [[Performers/Jen Kaplan|Jen Kaplan]], [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Sam Schak|Sam Schak]]
 
 #### Improv Slam!
 Four troupes. Ten minutes each. Five random audience members with score cards. The first ever Improv Slam is this Thursday night at the Free Fringe.
@@ -828,8 +828,8 @@ TJ & Dave are considered the best improv duo out there and ever since [[Performe
 involved on their documentary, he's been wanting to find his improv
 soulmate. If he were to be TJ, who would be his Dave?
 
-Asaf has invited three contenders to join him in a two-person set: [[Dave]]
-[[Buckman]], [[Performers/Kareem Badr|Kareem Badr]], and [[Performers/Courtney Hopkin|Courtney Hopkin]], with the audience deciding who the better match is at the end.
+Asaf has invited three contenders to join him in a two-person set: Dave
+Buckman, [[Performers/Kareem Badr|Kareem Badr]], and [[Performers/Courtney Hopkin|Courtney Hopkin]], with the audience deciding who the better match is at the end.
 
 ### August 8, 2013
 #### Topping Has Two Dads ([[Troupes/Topping Haggerty|Topping Haggerty]])
@@ -862,7 +862,7 @@ Headliners
 
 ### August 22, 2013
 #### Diesel Dreams and a Cup of Joe: Improvised Tom Waits ([[Performers/Ceej Allen|Ceej Allen]])
-We sail tonight to Singapore to improvise stories, songs and scenes inspired by the world of eccentric musician and storyteller Tom Waits. [[Performers/Kareem Badr|Kareem Badr]], [[Performers/Marc Majcher|Marc Majcher]], [[Performers/Jayme Ramsay|Jayme Ramsay]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Ceej Allen|Ceej Allen]] and musical improvisers [[Performers/Craig Kotfas|Craig Kotfas]] and [[Joseph Dailey]] invite you underground where rust and tattooed tears are currency. Come and tango 'til you're sore. We're all as mad as hatters here.
+We sail tonight to Singapore to improvise stories, songs and scenes inspired by the world of eccentric musician and storyteller Tom Waits. [[Performers/Kareem Badr|Kareem Badr]], [[Performers/Marc Majcher|Marc Majcher]], [[Performers/Jayme Ramsay|Jayme Ramsay]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Ceej Allen|Ceej Allen]] and musical improvisers [[Performers/Craig Kotfas|Craig Kotfas]] and Joseph Dailey invite you underground where rust and tattooed tears are currency. Come and tango 'til you're sore. We're all as mad as hatters here.
 
 #### Fluffy Bunny Tea Party Live! ([[Performers/Marc Majcher|Marc Majcher]])
 Marc Majcher made a card game about fluffy bunnies having tea, and politely foisting desserts on one another. It's awesome.
@@ -943,10 +943,10 @@ Ryan Austin takes the stage with his best friend, roommate, co-worker, and emerg
 Ryan has graduated improv at the Hideout.
 Drew has been to the Hideout.
 
-Starring: [[Performers/Ryan Austin|Ryan Austin]] and [[Drew Wobler]]
+Starring: [[Performers/Ryan Austin|Ryan Austin]] and Drew Wobler
 
 #### What's Your Damage, Regina? ([[Performers/Nicole Oliver|Nicole Oliver]])
-A hilarious take on mean girl movies such as *[[Wikipedia - Heathers|Heathers]]*, *[[Wikipedia - Jawbreaker|Jawbreaker]]* and of course *[[Wikipedia - Mean Girls|Mean Girls]]*.
+A hilarious take on mean girl movies such as *Heathers*, *Jawbreaker* and of course *Mean Girls*.
 
 Starring: [[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Jen Kaplan|Jen Kaplan]], [[Performers/Sarah Swofford|Sarah Swofford]], and [[Performers/Nicole Oliver|Nicole Oliver]].
 
@@ -961,10 +961,10 @@ Your favorite female performers in bold new combinations!
 #### Last Name Bonanza ([[Performers/Ruby Willmann|Ruby Willmann]])
 Two improvisers combine their last names and then use those last names to inspire two characters who are married and then we see a slice of life. The improvisers would be chosen at random, and then three combination options are given and the audience chooses the best one.
 
-Starring: [[Performers/Cat Drago|Cat Drago]], [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Dean Palm]], [[Performers/Taylor Overstreet|Taylor Overstreet]], [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Jennifer kaplan|Jennifer kaplan]], [[Performers/Ruby Willmann|Ruby Willmann]].
+Starring: [[Performers/Cat Drago|Cat Drago]], [[Performers/Caeriel Crestin|Caeriel Crestin]], Dean Palm, [[Performers/Taylor Overstreet|Taylor Overstreet]], [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Jennifer kaplan|Jennifer kaplan]], [[Performers/Ruby Willmann|Ruby Willmann]].
 
 #### There Will Be Cake ([[Performers/Jo Chauvin|Jo Chauvin]])
-[[Performers/Jo Chauvin|Jo Chauvin]], [[Regina Soto]], and [[Sandra Ybarra]] recently had birthdays and want to celebrate with you! Come see Jo, Regina, and Sandra play with their alter-egos: [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Claudio Fox|Claudio Fox]], and [[Performers/Paul Normandin|Paul Normandin]]. We're expecting mayhem! Pandemonium! Insanity! And there will be cake!
+[[Performers/Jo Chauvin|Jo Chauvin]], Regina Soto, and Sandra Ybarra recently had birthdays and want to celebrate with you! Come see Jo, Regina, and Sandra play with their alter-egos: [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Claudio Fox|Claudio Fox]], and [[Performers/Paul Normandin|Paul Normandin]]. We're expecting mayhem! Pandemonium! Insanity! And there will be cake!
 
 #### [[Troupes/In Our Prime|In Our Prime]]
 Headliners
@@ -1000,7 +1000,7 @@ Headliners
 #### Super Special Guest (Amber Nash)
 Amber Nash, the voice of Pam Poovy on Archer, is in town for Archer Live! Fortunately for us, she's also a badass improviser from Dad's Garage in Atlanta, GA. We couldn't pass up the opportunity to do a show with her.
 
-Starring: [[Amber Nash]], [[Performers/Shannon McCormick|Shannon McCormick]], [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Troy Miller|Troy Miller]], [[Performers/Kareem Badr|Kareem Badr]]
+Starring: Amber Nash, [[Performers/Shannon McCormick|Shannon McCormick]], [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Troy Miller|Troy Miller]], [[Performers/Kareem Badr|Kareem Badr]]
 
 #### [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Chuy Zarate|Chuy Zarate]], and [[Performers/Tyler Bryce|Tyler Bryce]]
 Headliners
@@ -1011,7 +1011,7 @@ Halyn Lee Erickson alone with her demons. (she's done scenes like this in Maestr
 
 Starring: Halyn and her demons.
 
-#### The Gloom Corps ([[Barrett Phelan]])
+#### The Gloom Corps (Barrett Phelan)
 1988.
 Hallandale, Florida.
 The original Limelight goth club burned down.
@@ -1102,7 +1102,7 @@ The Generations format follows the lives of our characters from childhood then t
 10 Improvisers engage in some college party antics, and play games like "Never Have I Ever" and "Truth or Dare" to push themselves and their honesty to the edge, and to inspire some improv that hits a little too close to home.
 
 #### Special Advanced Screening of Broad City (Comedy Central)
-*[[Wikipedia - Broad City|Broad City]]* is a new show premiering on Comedy Central on the 22nd, but we got the hookup, and we're showing the first episode in this week's Free Fringe.
+*Broad City* is a new show premiering on Comedy Central on the 22nd, but we got the hookup, and we're showing the first episode in this week's Free Fringe.
 
 PLUS, the first 30 people in the theater get a free Broad City t-shirt.
 
@@ -1142,7 +1142,7 @@ Headliners, presenting "Animal Farm".
 #### The Cutest Show EVER ([[Performers/Luke Wallens|Luke Wallens]])
 The cutest improvisers doing the cutest improv. What does that mean? It's a mystery. *Free Fringe*!
 
-Starring:  [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/Ryan Austin|Ryan Austin]], [[Performers/John Ratliff|John Ratliff]], [[Amy Carpenter]], [[Performers/Chrissy Shackleford|Chrissy Shackleford]], [[Performers/Justin Davis|Justin Davis]], [[Performers/Jeanette Jones|Jeanette Jones]]
+Starring:  [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/Ryan Austin|Ryan Austin]], [[Performers/John Ratliff|John Ratliff]], Amy Carpenter, [[Performers/Chrissy Shackleford|Chrissy Shackleford]], [[Performers/Justin Davis|Justin Davis]], [[Performers/Jeanette Jones|Jeanette Jones]]
 
 #### The Return of Deane Martin ([[Performers/Brandon Martin|Brandon Martin]] & [[Performers/Mitchell Deane|Mitchell Deane]])
 The Rat Pack: In their day they were the epitome of cool... always collected, clever, and calm. But what happens when they're just hanging out in their lounge. WHO KNOWS?
@@ -1157,7 +1157,7 @@ Kevin Miller gets really drunk and relates tales of true history. And we see som
 #### #PigPics LIVE (Jake)
 "Based on audience suggestion, I will take my big old sharpie and crudely draw crudely immature animal pictures on my legal pad. Once the picture is drawn, I will show the audience while I or my cast tells the story of that animal. Or I/we will share an improvised poem about that animal."
 
-#### [[Bedfellows]]
+#### Bedfellows
 Headliners
 
 #### Media
@@ -1204,11 +1204,11 @@ Starring the following players:
 * [[Performers/Aaron Saenz|Aaron Saenz]]
 * [[Performers/Andreas Fabis|Andreas Fabis]]
 * [[Performers/Cat Drago|Cat Drago]]
-* [[Heidi Noelle]]
+* Heidi Noelle
 * [[Performers/Jeff Britt|Jeff Britt]]
 * [[Performers/Jessica Arjet|Jessica Arjet]]
 * [[Performers/Kareem Badr|Kareem Badr]]
-* [[Lindsey Louise]]
+* Lindsey Louise
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Peter Rogers|Peter Rogers]]
 * [[Performers/Ruby Willmann|Ruby Willmann]]
@@ -1225,7 +1225,7 @@ Pet peeves are discussed and faced head on in this show.
 The adventures of a little boy ([[Performers/Mitchell Deane|Mitchell Deane]]) and his bear ([[Performers/Kevin Miller|Kevin Miller]])
 
 #### Weird Camp! ([[Performers/Jon Bolden|Jon Bolden]])
-The cast of *[[Camp Madeupponaspota]]* blows off steam by presenting a story set an oddball summer camp picked by the audience.
+The cast of *Camp Madeupponaspota* blows off steam by presenting a story set an oddball summer camp picked by the audience.
 
 ### May 1, 2014 (the 102nd show)
 #### Therapy Thursday ([[Performers/Lindsay Hejl|Lindsay Hejl]])
@@ -1235,7 +1235,7 @@ Small-town therapy gone awry. [[Performers/Chris Albano|Chris Albano]] and [[Per
 Headliners
 
 ### May 8, 2014 (the 103rd show)
-#### Crossover Creek ([[Ripley Adams]])
+#### Crossover Creek (Ripley Adams)
 Loosely inspired by *[[Shows/Fandom|Fandom]]* and Ripley's own love of crossovers, performers will each take a different character (with help from the audience) from differing canons spanning movies, books, television shows, comic books, and video games, and explore interpersonal dynamics between these characters in mundane settings. What would happen if Aragorn and Captain Jack Sparrow wound up at the laundromat together? Batman ordering McDonald's from Katniss Everdeen? Our purpose is to explore these vexing questions.
 
 #### Ever After High ([[Performers/Cortney DeAngelo|Cortney DeAngelo]])
@@ -1264,7 +1264,7 @@ Laura Ingalls of Little House on the Prairie has many fans in town. But fewer of
 #### Joe, Betty, and Jan ([[Performers/Lindsay Hejl|Lindsay Hejl]])
 We all play our grandparents. Maybe starts out as a la ronde type thing in the beginning to meet each of us with different people.
 
-#### [[Performers/Jessica Arjet|Jessica Arjet]] & [[Mason Pitluk]]
+#### [[Performers/Jessica Arjet|Jessica Arjet]] & Mason Pitluk
 Headliners
 
 ### May 29, 2014 (the 106th show)
@@ -1272,7 +1272,7 @@ Headliners
 Do you know the game SpaceTeam, for iOS? If you do, you know enough to drop everything and come to this show, which is the live version on stage. If you don't, you will witness pure, manic insanity.
 
 #### Irrefutable Buddies
-The two lovable duos [[Troupes/Squirrel Buddies|Squirrel Buddies]] and [[Irrefutable Baby]] combine into one Quatro for one night only.
+The two lovable duos [[Troupes/Squirrel Buddies|Squirrel Buddies]] and Irrefutable Baby combine into one Quatro for one night only.
 
 #### [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Jo Chauvin|Jo Chauvin]]
 Headliners
@@ -1305,7 +1305,7 @@ The OFFICIAL cast includes:
 * [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]]
 * [[Performers/Jessica Arjet|Jessica Arjet]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-* [[Joseph Dailey]]
+* Joseph Dailey
 * [[Performers/Justin Davis|Justin Davis]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
 * [[Performers/Kaci Danger|Kaci Danger]]
@@ -1342,11 +1342,11 @@ The Wonder Twins are the most ridiculous super twins in the world. One can only 
 Headliners
 
 ### July 3, 2014 (the 111th show)
-#### Goodbye [[Tim Sampson]] ([[Performers/Andrew Buck|Andrew Buck]])
+#### Goodbye Tim Sampson ([[Performers/Andrew Buck|Andrew Buck]])
 So long, cruel world. Improviser Tim Sampson is leaving Austin to do an internship at The Onion in Chicago! We're sending him off with a great "Hoorah!"
 
 #### [[Troupes/No Frills|No Frills]] Presents "Bells & Whistles" ([[Performers/Justin Davis|Justin Davis]])
-[[Troupes/No Frills|No Frills]] is made up of [[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Jessie Pascarelli|Jessie Pascarelli]], [[Performers/Megan Venable|Megan Venable]], and [[Performers/Ash Nunley|Ash Nunley]]. The four of them created a name for a troupe called "Bells & Whistles" consisting of their significant, which are [[Performers/Justin Davis|Justin Davis]], [[Dean Palm]], and [[Andrew Robinson]].
+[[Troupes/No Frills|No Frills]] is made up of [[Performers/Jeanette Jones|Jeanette Jones]], [[Performers/Jessie Pascarelli|Jessie Pascarelli]], [[Performers/Megan Venable|Megan Venable]], and [[Performers/Ash Nunley|Ash Nunley]]. The four of them created a name for a troupe called "Bells & Whistles" consisting of their significant, which are [[Performers/Justin Davis|Justin Davis]], Dean Palm, and Andrew Robinson.
 
 First, No Frills plays, and then Bells & Whistles plays trying to do as opposite of a show as possible.
 
@@ -1362,11 +1362,11 @@ Ordinarily improv for kids, The Flying Theater Machine takes their recent Wonder
 #### Synesthesia ([[Performers/Lindsey McGowen|Lindsey McGowen]])
 "So, I have a looping pedal, and a couple of vocal effects pedals. I also have sound > color synesthesia, which means that sounds have particular color and sensory inputs for me.
 
-I would like to improvise soundscapes (a la [[Wikipedia - Sigur Ros|Sigur Ros]]) based on sense memories - i.e. memories that have a very strong sensory component.
+I would like to improvise soundscapes (a la Sigur Ros) based on sense memories - i.e. memories that have a very strong sensory component.
 
 I'll ask the audience for some sense memory suggestions, and then perform a loopable soundscape based on those suggestions."
 
-#### [[Performers/Jessica Arjet|Jessica Arjet]] & [[Sam Schack]]
+#### [[Performers/Jessica Arjet|Jessica Arjet]] & Sam Schack
 Headliners
 
 #### Media
@@ -1393,7 +1393,7 @@ I would interview him for a few minutes at the top of the show in order to intro
 Headliners
 
 ### July 24, 2014 (the 114th show)
-#### The Mixer ([[Sandra Ybarra]])
+#### The Mixer (Sandra Ybarra)
 "What would it look like to see a set where you were performing a Harold and twin pillars in the same show with the alphabet game playing in the background of your mind and the words coming out of your mouth. Or to see a narrative turn into a BAT bit with oscar winning moments. What if we mixed them all together with a little bit an an intermission a la living room style and end it on a monologue note until demon voice showed up with scene partners who were clowning.
 
 What if I invited people I never get to play with and to do a set where we play and mixed in the different formats.
@@ -1414,7 +1414,7 @@ What is it?
 What Face?
 There is no Face.
 
-#### World Peace ([[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] and [[Matthew Falkenberg]])
+#### World Peace ([[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] and Matthew Falkenberg)
 Wherein a Palestinian and a Jew hug and talk it out till it all makes sense
 
 #### [[Troupes/Your Dad's Friends|Your Dad's Friends]]
@@ -1422,7 +1422,7 @@ Headliners
 
 ### August 7, 2014 (the 116th show)
 #### Everybody Loves Chris
-Everybody in the cast plays a [[Performers/Chris Albano|Chris Albano]] caricature. This is basically like the scene from *[[Wikipedia - Being John Malkovich|Being John Malkovich]]* where he goes inside of his own brain and it's just a bunch of Malkoviches saying "Malkovich Malkovich. Malkovich Malkovich!"
+Everybody in the cast plays a [[Performers/Chris Albano|Chris Albano]] caricature. This is basically like the scene from *Being John Malkovich* where he goes inside of his own brain and it's just a bunch of Malkoviches saying "Malkovich Malkovich. Malkovich Malkovich!"
 
 #### Ceej Character Explosion ([[Performers/Ceej Allen|Ceej Allen]])
 Five Hideout Theatre students/recent graduates (Tim Coyle, Joy Parks, Robert Slack, Kathleen McFerren and Cagney Ortiz) will challenge improv veteran Ceej Allen by playing a variety of characters that he must then play. After running Ceej through this character gauntlet, a montage will occur where anyone can play any of the characters from the challenge.
@@ -1467,7 +1467,7 @@ It is absolutely imperative that Squirrel Buddies do a show with British improvi
 Headliners
 
 ### September 11, 2014 (the 120th show)
-#### Doggone ([[Ripley Adams]])
+#### Doggone (Ripley Adams)
 With help from the audience, performers will be assigned one of 400+ possible dog breeds, whose personality and defining traits they will craft their characters around. Shenanigans ensue in a burst of colorful scenes that follow! Aloof? Loyal? Sensitive? Merry? How different are we from Man's Best Friend, anyway?
 
 #### Forest of Stories ([[Performers/Thedward Blevins|Thedward Blevins]])
@@ -1478,7 +1478,7 @@ Headliners
 
 ### September 18, 2014 (the 121st show)
 #### MITCH Week ([[Performers/Mitch Mills|Mitch Mills]])
-[[Performers/Mitch Mills|Mitch Mills]], [[Performers/Mitchell Deane|Mitchell Deane]], and [[Mitchell Shotts]] celebrate MITCH Week by doing a Mitch-only show.
+[[Performers/Mitch Mills|Mitch Mills]], [[Performers/Mitchell Deane|Mitchell Deane]], and Mitchell Shotts celebrate MITCH Week by doing a Mitch-only show.
 
 #### Into the Fridge ([[Performers/Heidi Rogers|Heidi Rogers]])
 Some people are stuck in a fridge. How? Who knows. Why? Who can say. But we'll learn all about it in this show.
@@ -1487,7 +1487,7 @@ Some people are stuck in a fridge. How? Who knows. Why? Who can say. But we'll l
 We see the end of a story first, and then work our way back up from the beginning. It's avant garde non-traditional narrative, y'all!
 
 #### Arjet Universe
-Headliners (guests: [[Performers/Aspen Webster|Aspen Webster]] and [[Haley Alea Erickson]]
+Headliners (guests: [[Performers/Aspen Webster|Aspen Webster]] and Haley Alea Erickson
 
 ### September 25, 2014 (the 122nd show)
 #### Sister Stories ([[Performers/Melissa Patterson|Melissa Patterson]])
@@ -1504,7 +1504,7 @@ The clothes really do make the man.
 Headliners (guest: [[Performers/John Ratliff|John Ratliff]])
 
 ### October 2, 2014 (the 123rd show)
-#### Drama Alert: Improvised Stories of the Emergency Room! ([[Craig McGreggor]])
+#### Drama Alert: Improvised Stories of the Emergency Room! (Craig McGreggor)
 "Simple medical based short narrative for those of us with some medical background and those who don't. The hospital setting can be a very fast paced, high pressure environment but can also have its moments of incredible teamwork and bonding of employees/family/patients. This isn't an opportunity to sling fancy medical jargon but rather a moment to tap into emotions we've truly felt and improvise them for an audience. "
 
 #### Two Detectives ([[Performers/Brett Tribe|Brett Tribe]] and [[Performers/Ceej Allen|Ceej Allen]])
@@ -1526,19 +1526,19 @@ Headliners
 ### October 16, 2014 (the 125th show): "Best of the Free Fringe"
 As part of the Hideout's 15-year-anniversary weekend, they presented a special "Best of the Free Fringe" show.  It featured best-loved acts from earlier Fringes, as voted on by the AIC.
 
-#### [[List of Free Fringes#The Floor is Lava.21 .28Jason Vines.29|The Floor is Lava]] ([[Performers/Jason Vines|Jason Vines]])
-This format [[List of Free Fringes#The Floor is Lava.21 .28Jason Vines.29|originally appeared on 1/12/12]], and was exactly what the title implies.
+#### The Floor is Lava ([[Performers/Jason Vines|Jason Vines]])
+This format originally appeared on 1/12/12, and was exactly what the title implies.
 
-#### [[List of Free Fringes#Evil Peter Rogers .28Kevin Miller.29|Evil Peter Rogers]] ([[Performers/Kevin Miller|Kevin Miller]])
-This format [[List of Free Fringes#Evil Peter Rogers .28Kevin Miller.29|originally appeared on 5/7/12]], and featured affable improvisor [[Performers/Peter Rogers|Peter Rogers]] justifying horrible actions in various scenes.
+#### Evil Peter Rogers ([[Performers/Kevin Miller|Kevin Miller]])
+This format originally appeared on 5/7/12, and featured affable improvisor [[Performers/Peter Rogers|Peter Rogers]] justifying horrible actions in various scenes.
 
 The cast also included [[Performers/Roy Janik|Roy Janik]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Kaci Beeler|Kaci Beeler]], and [[Performers/Chuy Zarate|Chuy Zarate]].
 
-#### [[List of Free Fringes#All Ladies Be Trekkin.27|All Ladies Be Trekkin']]
-This format originally appeared on [[List of Free Fringes#All Ladies Be Trekkin.27|3/8/12]], and featured a *[[Shows/Start Trekkin'|Start Trekkin']]* story with an all-female cast.
+#### All Ladies Be Trekkin'
+This format originally appeared on 3/8/12, and featured a *[[Shows/Start Trekkin'|Start Trekkin']]* story with an all-female cast.
 
 #### [[Shows/Tech Nightmare|Tech Nightmare]]
-This was the beloved, recurring Free Fringe format ([[List of Free Fringes#The Triumphant Return of the Tech Nightmare .28Cortney DeAngelo .26 Cindy Page.29|7/19/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29|9/27/12]], [[List of Free Fringes#Tech Nightmare .28Cindy Page.29 2|10/25/12]], and [[List of Free Fringes#Merry Xmas Tech Nightmare .28Cortney DeAngelo.29|12/13/12]]) that features AIC techs inflicting sound- and light-cue madness on the performers onstage.
+This was the beloved, recurring Free Fringe format (7/19/12, 9/27/12, 10/25/12, and 12/13/12) that features AIC techs inflicting sound- and light-cue madness on the performers onstage.
 
 #### Media
 * [Photoset](http://www.facebook.com/media/set/?set=a.823128241084027.1073742089.221927764537414&type=3) by [[Steve Rogers]].
@@ -1551,7 +1551,7 @@ The wildest Free Fringe shows have come from Mitchell. His brain simply doesn't 
 
 Tonight you'll see three projects cooked up by his wiley brain, and we have no idea what they are. RUN! (to the show!) HIDE! (in the audience)
 
-starring: [[Performers/Kevin Miller|Kevin Miller]], [[Rachel Denton]], [[Joshua Bush]], [[Performers/Brandon Martin|Brandon Martin]], [[Performers/Jessica Arjet|Jessica Arjet]]
+starring: [[Performers/Kevin Miller|Kevin Miller]], Rachel Denton, Joshua Bush, [[Performers/Brandon Martin|Brandon Martin]], [[Performers/Jessica Arjet|Jessica Arjet]]
 
 #### Arjet Universe
 "Animal Farm", featuring [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Sarah Marie Curry|Sarah Marie Curry]].
@@ -1571,7 +1571,7 @@ This Thursday at the Free Fringe, we're premiering Tales from the Black Vault, a
 Inspired by public service campaigns of your childhood like "Your Brain on Drugs", "Smokey the Bear", and others. Come watch us warn you about the dangers of the world inspired by an audience suggestion!
 
 #### Nonething and Everning ([[Performers/Megan Sherrod|Megan Sherrod]])
-[[Wikipedia - Anton Chekhov|Anton Chekhov]] is arguably the most celebrated playwright since Shakespeare. Mostly known for his hundreds of short stories, this giant of Russian literature cemented his reputation with four major plays written in his final decade: *The Seagull*, *Uncle Vanya*, *Three Sisters,* and *The Cherry Orchard*. See the cast of the Hideout Theatre's *[[Shows/Nothing And Everything|Nothing And Everything]]*: Improvised Chekhov Plays share the world of Chekhov through the lens of alcohol in this alternate rendition of the show: "Nonething and Everning".
+Anton Chekhov is arguably the most celebrated playwright since Shakespeare. Mostly known for his hundreds of short stories, this giant of Russian literature cemented his reputation with four major plays written in his final decade: *The Seagull*, *Uncle Vanya*, *Three Sisters,* and *The Cherry Orchard*. See the cast of the Hideout Theatre's *[[Shows/Nothing And Everything|Nothing And Everything]]*: Improvised Chekhov Plays share the world of Chekhov through the lens of alcohol in this alternate rendition of the show: "Nonething and Everning".
 
 #### Arjet Universe
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Chris Albano|Chris Albano]]
@@ -1594,7 +1594,7 @@ Tests of physical, mental, personal, and emotional limits.
 (Dark for [[Festivals/WaffleFest 2014|WaffleFest 2014]].)
 
 ### November 27, 2014
-(Dark for [[Wikipedia - Thanskgiving|Thanskgiving]].)
+(Dark for Thanskgiving.)
 
 ### December 4, 2014 (the 130th show)
 #### Minnesota Nice ([[Performers/Chris Curl|Chris Curl]])
@@ -1635,7 +1635,7 @@ There's nothing quite like holiday commercials. Gap, Old Navy, Wal-Mart, whateve
 Naughty List - [[Performers/Sam Schak|Sam Schak]], [[Performers/Ruby Willmann|Ruby Willmann]], and [[Performers/Jessica Arjet|Jessica Arjet]].
 
 ### December 25, 2014
-(Dark for [[Wikipedia - Christmas|Christmas]].)
+(Dark for Christmas.)
 
 ## 2015 Shows
 ### January 1, 2015
@@ -1652,7 +1652,7 @@ This trio thought it would be really fun to do a show where they are all only al
 Were they right? Let's find out.
 
 #### The Art of the Woo ([[Performers/Luke Wallens|Luke Wallens]])
-[[Performers/Luke Wallens|Luke Wallens]] and [[Sandra Ybarra]] use the best of their physicality, playfulness and silence to woo the audience.
+[[Performers/Luke Wallens|Luke Wallens]] and Sandra Ybarra use the best of their physicality, playfulness and silence to woo the audience.
 
 #### Arjet Universe
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Ceej Allen|Ceej Allen]].
@@ -1693,7 +1693,7 @@ While she struggles, the cast acts out scenes based on the word problem prompts.
 
 ### January 29, 2015 (the 135th show)
 #### Lynch Mob ([[Performers/Ceej Allen|Ceej Allen]])
-David Lynch (Ceej Allen) invites you to join him as three improvisers ([[Performers/Jericho Thorp|Jericho Thorp]], [[Mason Pitluk]] and [[Performers/Jeremy Moran|Jeremy Moran]]) rally with him in deconstructing the dark and wild heart of improv. Yes, there will be cherry pie!
+David Lynch (Ceej Allen) invites you to join him as three improvisers ([[Performers/Jericho Thorp|Jericho Thorp]], Mason Pitluk and [[Performers/Jeremy Moran|Jeremy Moran]]) rally with him in deconstructing the dark and wild heart of improv. Yes, there will be cherry pie!
 
 #### Ich Bin Ein Improviser ([[Performers/Ryan Hill|Ryan Hill]])
 The pitch from Ryan:
@@ -1718,7 +1718,7 @@ So it'll just be combat and physical training scenes? NO!
 We're going to break through the clichés and make the scenes about the relationships and personal struggles/triumphs of the characters themselves. Some scenes will be funny, some touching, some uncomfortable. Hopefully all worth watching.
 
 #### Arjet Universe
-[[Performers/Jessica Arjet|Jessica Arjet]] presents "Pirate Tales!", featuring [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Dana Yanoshak|Dana Yanoshak]], [[Performers/Ceej Allen|Ceej Allen]], [[Performers/Katie Dahm|Katie Dahm]], and [[Cassidy Claire Risien]].
+[[Performers/Jessica Arjet|Jessica Arjet]] presents "Pirate Tales!", featuring [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Dana Yanoshak|Dana Yanoshak]], [[Performers/Ceej Allen|Ceej Allen]], [[Performers/Katie Dahm|Katie Dahm]], and Cassidy Claire Risien.
 
 ### February 12th, 2015 (the 137th show)
 #### Hug Day ([[Performers/Tim Coyle|Tim Coyle]])
@@ -1732,7 +1732,7 @@ YOU can help this program continue to grow by participating in the Plank-A-Thon!
 #### Mainstage Co-Op ([[Performers/Lacy Shawn|Lacy Shawn]])
 In an alternative universe, characters from various Hideout mainstages all live in the same home as roommates.
 
-What happens when a home is shared by a [[Shows/Reform School For Wayward Girls|reform school girl]], [[Shows/Kenjutsu|kenjutsu guy]], [[Nothing and Eveything|chekhovian person]], [[Shows/The Black Vault|black vault person]], etc.? Only *[[Shows/The Free Fringe|The Free Fringe]]* will tell!
+What happens when a home is shared by a [[Shows/Reform School For Wayward Girls|reform school girl]], [[Shows/Kenjutsu|kenjutsu guy]], chekhovian person, [[Shows/The Black Vault|black vault person]], etc.? Only *[[Shows/The Free Fringe|The Free Fringe]]* will tell!
 
 #### Arjet Universe
 [[Performers/Jessica Arjet|Jessica Arjet]] presents Love Stories, featuring the cast of *[[Shows/I Love You So Much|I Love You So Much]]*.
@@ -1742,7 +1742,7 @@ What happens when a home is shared by a [[Shows/Reform School For Wayward Girls|
 
 ### February 19th, 2015 (the 138th show)
 #### [[Troupes/Andrew and Jeremy Hypnotize Each Other!|Andrew and Jeremy Hypnotize Each Other!]] ([[Performers/Jeremy Moran|Jeremy Moran]])
-[[Andrew Schwartz]] (Played by Andrew Schwartz) and Jeremy Moran (Played by Jeremy Moran) are two improvisors who are going fully under hypnosis during an improv set. They will take an audience volunteer to do the deed, most likely using a small hypnotic toy such as a spinning top. Once they are in a somnambulist state, the audience volunteer will then have complete control of the show. They will manipulate Andrew and Jeremy to bend to their will, making them do any scene or character they want to.
+Andrew Schwartz (Played by Andrew Schwartz) and Jeremy Moran (Played by Jeremy Moran) are two improvisors who are going fully under hypnosis during an improv set. They will take an audience volunteer to do the deed, most likely using a small hypnotic toy such as a spinning top. Once they are in a somnambulist state, the audience volunteer will then have complete control of the show. They will manipulate Andrew and Jeremy to bend to their will, making them do any scene or character they want to.
 
 #### And the Oscar Goes To... ([[Performers/Jessica Von Schramm|Jessica Von Schramm]])
 It's the 87th Academy Awards ceremony a few days earlier and a few hours shorter! Improvisers will act out Oscar clips based on made up films from audience suggestions. Dreams will come true while others are crushed. And it's all up to the audience to decide who wins the coveted Oscar.
@@ -1759,13 +1759,13 @@ It's everyone's favorite adorable little guy's birthday! That's right, li'l Jonn
 [[Performers/Jessica Arjet|Jessica Arjet]], with [[Troupes/In Our Prime|In Our Prime]] and [[Performers/Brently Heilbron|Brently Heilbron]].
 
 ### March 5th, 2015 (the 140th show): "MUSICAL FRINGE!!"
-#### Grounded in Harmony ([[Bobby Stover]])
+#### Grounded in Harmony (Bobby Stover)
 Have you ever thought how life would be so much more dramatic if you went through it with a theme song? Or at least a backing track? Come see how the power of music brings the improv world to life. You will laugh, cry, and feel some tension. But most importantly, you will LIVE!
 
 #### [[Troupes/That Racket!|That Racket!]] ([[Performers/Mitch Mills|Mitch Mills]])
 That Racket! is an Austin-based troupe that combines the three great arts of improv, music, and dance into a playful and hilarious evening of entertainment. Every show, we present stories that have never been told, songs that have never been sung, and dances that have never been danced before. And though they'll never be told, sung, or danced again, they'll stick with you!
 
-#### [[Troupes/MC Harold|MC Harold]] ([[Craig McGreggor]])
+#### [[Troupes/MC Harold|MC Harold]] (Craig McGreggor)
 A Magical souffle of improvised rap stuffed with delicious stories with just a dash of outlandish characters sauteed to perfection when the beat drops.
 
 #### Curry, Kirschner and Taylor
@@ -1810,7 +1810,7 @@ On job listings, there are sections that describe the knowledge, skills, and abi
 
 That grouping and specific choice of words gave Justin the idea to use each one of those words as inspiration for a scene, showing the power of focusing on one of those simple words as a thematic element and the different interpretations that can happen.
 
-Featuring [[Performers/Megan Sherrod|Megan Sherrod]], [[Performers/Suzanne Link|Suzanne Link]], [[Performers/Ted Meredith|Ted Meredith]], and [[Kristin Kissinger]].
+Featuring [[Performers/Megan Sherrod|Megan Sherrod]], [[Performers/Suzanne Link|Suzanne Link]], [[Performers/Ted Meredith|Ted Meredith]], and Kristin Kissinger.
 
 #### Strings (Ian Parizot)
 [[Performers/Halyn Lee Erickson|Halyn]], [[Performers/Marc Majcher|Marc]], and Ian will explore the poetic world of human puppetry on stage.
@@ -1832,7 +1832,7 @@ After taking some audience suggestions for current events/news that have been oc
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Shannon Dale Stott|Shannon Dale Stott]].
 
 ### April 23, 2015 (the 145th show)
-#### Like a Brother ([[Mike Carreon]])
+#### Like a Brother (Mike Carreon)
 Through thick and thin, siblings stick together...or do they? Come see Like A Brother, a grounded improv duo, as they explore the complicated yet familiar dynamic of being a sibling.
 
 #### Animal House ([[Performers/Theo Daley|Theo Daley]])
@@ -1861,7 +1861,7 @@ This is the casual, unofficial, just for fun funny lady's workshop showcase! Our
 #### Take Me Out to the Ballgame ([[Performers/Tim Coyle|Tim Coyle]])
 A group of sports fans journey to the game, at the game, or on the way home from the game - the audience will decide.
 
-#### Washed-up ([[Ali Meier]])
+#### Washed-up (Ali Meier)
 A rockin' hit band from the 80s reunites 30 years later to go on tour. Relive (or experience) the music, make-up, drugs, girls, drama and last but not least, the HAIR that made the 80s ROCK.
 
 #### Arjet Universe: "The Other Jessica"
@@ -1871,14 +1871,14 @@ A rockin' hit band from the 80s reunites 30 years later to go on tour. Relive (o
 #### Adam and Norman Suck at Dating ([[Performers/Norman Tran|Norman Tran]])
 Adam and Norman suck at dating. Luckily, our tragedy is your comedy! Come see us navigate this awkward and frustrating part of life.
 
-#### Tim in a Cup ([[Angie Smith]])
+#### Tim in a Cup (Angie Smith)
 If you've ever considered taking a self-defense class, let Tim in a Cup be your introductory precursor. No, this show has nothing to do with the two girls on Youtube, a video that this author has managed to avoid for YEARS and you should too. Instead, Tim in a Cup will provide you with helpful maneuvers to block yourself from such mental, emotional and physical creeps, in a fun way.
 
 #### Arjet Universe
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Andreas Fabis|Andreas Fabis]], doing a post-apocalyptic format.
 
 ### May 21, 2015 (the 149th show)
-#### Imaginary People Have Feelings Too ([[Phil Morin]])
+#### Imaginary People Have Feelings Too (Phil Morin)
 Emojis -- everyone's favorite second language. Watch as improvisers act out scenes inspired by those whimsical icons, proving that imaginary people have feelings too.
 
 #### [[Troupes/You Bet Your Life|You Bet Your Life]] ([[Performers/Robert Slack|Robert Slack]])
@@ -1940,7 +1940,7 @@ We're bringing back some of your favorite Fringe Show producers. Three special p
 #### Rejected! ([[Performers/Andreas Fabis|Andreas Fabis]])
 A lot of show ideas never see the stage - for good reasons. The Escorts brainstormed format and came up with a list that was kept secret for years. Until now. See formats like "Put the Diaper on Andreas" and "Poop Palace" performed for the first time.
 
-#### Lyric Suggestion Mashup ([[Jason Burnett]])
+#### Lyric Suggestion Mashup (Jason Burnett)
 Have you ever wondered what scenes might look like if we took bewildering lyrics for suggestions? Join us and get a chance to pick out your favorite mystifying lyrics from a basket. Lyrics for the show will be taken from songs of the 90s.
 
 #### Arjet Universe
@@ -1961,11 +1961,11 @@ Based on a popular meme, "Your Corpus Is Showing" will lovingly poke fun at the 
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204458319840782.1073741956.1315383518&type=3) by [[Michael Yew]].
 
 ### July 16, 2015 (the 157th show)
-#### Hollywouldn't ([[Jon Fortenbury]])
+#### Hollywouldn't (Jon Fortenbury)
 In Hollywouldn't, "Girl, Interrupted" could be a story about a girl going on a killing spree after being interrupted, and "Star Wars" about a teen's fight for opera stardom. That's because, in this show, an improviser will narrate an actual film he/she has never seen (suggested by the audience) while the other improvisers act it out. It's bound to be nothing like the real films €” and hilarious! 
 
 #### Shelby Going Away Party ([[Performers/Cristy Salinas|Cristy Salinas]])
-Lady [[Shelby Graham]] is moving to Los Angeles. Come watch her last [[Troupes/Soy Taco|Soy Taco]] show for FREE!
+Lady Shelby Graham is moving to Los Angeles. Come watch her last [[Troupes/Soy Taco|Soy Taco]] show for FREE!
 
 #### Arjet Universe
 [[Performers/Jessica Arjet|Jessica Arjet]] and [[Performers/Aspen Webster|Aspen Webster]].
@@ -1975,9 +1975,9 @@ Featuring three musical groups: [[Troupes/Things We Don't Speak Of|Things We Don
 
 #### Arjet Universe
 A description from [[Performers/Jessica Arjet|Jessica Arjet]]:
-On my birthday Fringe, [[Tess Hermes]] came to the show and was maybe a tiny bit intoxicated, which is fine. And also enjoyed the show SO much that she couldn't stop trying to participate in it. 
+On my birthday Fringe, Tess Hermes came to the show and was maybe a tiny bit intoxicated, which is fine. And also enjoyed the show SO much that she couldn't stop trying to participate in it. 
 
-I'm going to get intoxicated, with the help of Tess, [[Mason Pitluk|Mason]], [[Performers/Aspen Webster|Aspen]], and [[Performers/Kevin Miller|Kevin Miller]] -- who is [[Shows/History Under the Influence|the master of drunk shows]]. After that they will all do a show and I will heckle them.
+I'm going to get intoxicated, with the help of Tess, Mason, [[Performers/Aspen Webster|Aspen]], and [[Performers/Kevin Miller|Kevin Miller]] -- who is [[Shows/History Under the Influence|the master of drunk shows]]. After that they will all do a show and I will heckle them.
 
 Revenge is sweet when you own a theater!
 
@@ -1989,10 +1989,10 @@ Unknown
 [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Asaf Ronen|Asaf Ronen]] play two Shakespearean guards who while away the time for twenty minutes.
 
 #### Hollywood Confidential ([[Performers/Jeremy Moran|Jeremy Moran]])
-The cast (including [[Performers/Jeremy Moran|Jeremy Moran]], [[Linzy Beltran]], [[Performers/David Lampe|David Lampe]], [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Heidi Rogers|Heidi Rogers]], [[Casey Marie]], [[Andrew Schwartz]] )writes and acts out tabloid gossip stories from the Golden Age of Hollywood.  
+The cast (including [[Performers/Jeremy Moran|Jeremy Moran]], Linzy Beltran, [[Performers/David Lampe|David Lampe]], [[Performers/Mitchell Deane|Mitchell Deane]], [[Performers/Heidi Rogers|Heidi Rogers]], Casey Marie, Andrew Schwartz )writes and acts out tabloid gossip stories from the Golden Age of Hollywood.  
 
 #### Arjet Universe: "Fairies"
-[[Performers/Jessica Arjet|Jessica Arjet]], [[Jenna Howard]], [[Performers/Tyler Lane|Tyler Lane]], [[Jennifer Hill]], and [[Performers/David Ronn|David Ronn]] portray magical fairies.
+[[Performers/Jessica Arjet|Jessica Arjet]], Jenna Howard, [[Performers/Tyler Lane|Tyler Lane]], Jennifer Hill, and [[Performers/David Ronn|David Ronn]] portray magical fairies.
 
 #### Media
 ##### Videos
@@ -2016,7 +2016,7 @@ An improv troupe is calling it quits and you're invited to their last show! It w
 Sometimes when you teach improv you run across students with so much natural talent you're totally in awe and a little bit jealous. Then we find ourselves wishing to share the stage with them! Now we get to! Watch teachers pair up with their students in Teacher Heaven.
 
 #### Arjet Universe
-[[Performers/Jessica Arjet|Jessica Arjet]] and [[Margaret Rose]].
+[[Performers/Jessica Arjet|Jessica Arjet]] and Margaret Rose.
 
 #### Media
 ##### Photos

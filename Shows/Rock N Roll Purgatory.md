@@ -71,17 +71,17 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
-  --><li style=""><a class="internal-link" href="Ann Flynn">Ann Flynn</a></li><!--
-  --><li style=""><a class="internal-link" href="Allison Huston">Allison Huston</a></li><!--
+  --><li style="">Ann Flynn</li><!--
+  --><li style="">Allison Huston</li><!--
   --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Craig Kotfas</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristen Kurtis">Kristen Kurtis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
-  --><li style=""><a class="internal-link" href="Adam Niederpruem">Adam Niederpruem</a></li><!--
-  --><li style=""><a class="internal-link" href="Mason Pitluk">Mason Pitluk</a></li><!--
-  --><li style="" ><a class="internal-link" href="John Reed">John Reed</a></li><!--
+  --><li style="">Adam Niederpruem</li><!--
+  --><li style="">Mason Pitluk</li><!--
+  --><li style="" >John Reed</li><!--
   --><li style=""><a class="internal-link" href="Performers/Donna Rice">Donna Rice</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Callie Sharon">Callie Sharon</a></li><!--
+  --><li style="">Callie Sharon</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
@@ -125,7 +125,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Courtney DeAngelo">Courtney DeAngelo</a></li><!--
+  --><li style="">Courtney DeAngelo</li><!--
   --><!--
   --><!--
   --><!--
@@ -190,4 +190,4 @@
 The Havocs, an up-and-coming rock band, die in a tragic accident and wake up in purgatory where they must confront their fate among dead celebrity musicians and demons. 
 
 The show ran Fridays and Saturdays in June of 2014.
-[[Category/Shows|Category:Shows]]
+Category:Shows

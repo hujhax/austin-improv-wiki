@@ -18,7 +18,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category"><a class="internal-link" href="Mia Cisco">Mia Cisco</a></td>
+			<td class="category">Mia Cisco</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -26,16 +26,16 @@
   --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
+  --><li style="">Casey Marie</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
-  --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
-  --><li style=""><a class="internal-link" href="Jaukeem Jaydoire Balcom">Jaukeem Jaydoire Balcom</a></li><!--
-  --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
+  --><li style="">Frank Sánchez</li><!--
+  --><li style="">Jaukeem Jaydoire Balcom</li><!--
+  --><li style="">Ladislao Loera</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
+  --><li style="">Marissa Macy</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
-  --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
+  --><li style="">Trent Thomson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
   --><!--
   --><!--
@@ -85,14 +85,14 @@
 ***A Big Gay Musical*** was a Hideout mainstage musical featuring the lives and stories of queer people.
 
 ## Crew List
-* Lights - [[Performers/Cindy Page|Cindy Page]], [[Brandi Davis]], [[Paul Ramöne Weiner]] 
-* Hair, Makeup, Costumes - [[Elizaveta Dovgish]]
+* Lights - [[Performers/Cindy Page|Cindy Page]], Brandi Davis, Paul Ramöne Weiner 
+* Hair, Makeup, Costumes - Elizaveta Dovgish
 * Technical Director - [[Performers/Lindsey McGowen|Lindsey McGowen]]
-* Stage Manager - [[Mia Cisco]]
+* Stage Manager - Mia Cisco
  
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/biggaymusical)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

@@ -70,14 +70,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alan Buttars">Alan Buttars</a></li><!--
-  --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
-  --><li style=""><a class="internal-link" href="Biz Gilmore">Biz Gilmore</a></li><!--
-  --><li style=""><a class="internal-link" href="Casey Quinlan">Casey Quinlan</a></li><!--
-  --><li style=""><a class="internal-link" href="Jason Castro">Jason Castro</a></li><!--
-  --><li style=""><a class="internal-link" href="Joel Barton">Joel Barton</a></li><!--
-  --><li style=""><a class="internal-link" href="Michelle Dahlenburg">Michelle Dahlenburg</a></li><!--
-  --><li style=""><a class="internal-link" href="Shay Millheiser">Shay Millheiser</a></li><!--
+  --><li style="">Alan Buttars</li><!--
+  --><li style="">Alonso Salas</li><!--
+  --><li style="">Biz Gilmore</li><!--
+  --><li style="">Casey Quinlan</li><!--
+  --><li style="">Jason Castro</li><!--
+  --><li style="">Joel Barton</li><!--
+  --><li style="">Michelle Dahlenburg</li><!--
+  --><li style="">Shay Millheiser</li><!--
   --><!--
   --><!--
   --><!--
@@ -143,5 +143,5 @@ Between the dramas of life on set, actors sing and dance their hearts out on cam
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/soundstage23)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

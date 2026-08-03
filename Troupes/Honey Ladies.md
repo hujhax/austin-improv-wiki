@@ -93,5 +93,5 @@ Showing that women aren't only the stereotypes that we're (at times) perceived t
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

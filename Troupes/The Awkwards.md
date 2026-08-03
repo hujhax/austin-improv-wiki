@@ -79,4 +79,4 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 * [A photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.575736659123490.1073741829.100000614831752&type=3) of their 5/9/13 premiere in *[[Shows/The Threefer|The Threefer]]*, by [[Performers/Warren Henderson|Warren Henderson]].
 
 [[Category/Troupes|Awkwards]]
-[[Category/Active|Category:Active]]
+Category:Active

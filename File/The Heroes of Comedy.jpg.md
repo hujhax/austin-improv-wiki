@@ -3,7 +3,7 @@
 ## Summary
 Flyer for [[Troupes/The Heroes of Comedy|The Heroes of Comedy]] for Jan/Feb 2000, featuring [[Performers/Craig Kotfas|Craig Kotfas]] as a superhero.
 
-Photo by [[Lisa Brown]].
+Photo by Lisa Brown.
 
 Art by [[Performers/Sean Hill|Sean Hill]].
 

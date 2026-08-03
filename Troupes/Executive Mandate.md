@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Grissom">Andrew Grissom</a></li><!--
+  --><li style="">Andrew Grissom</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><!--
   --><!--
@@ -89,4 +89,4 @@ The troupe played in *[[Shows/The Cagematch|The Cagematch]]* in 2009.
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Duos|Category:Duos]]
-[[Category/Never Performed|Category:Never Performed]]
+Category:Never Performed

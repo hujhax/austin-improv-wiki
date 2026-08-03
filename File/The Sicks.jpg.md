@@ -3,9 +3,9 @@
 ## Summary
 Logo for [[Troupes/The Sicks|The Sicks]].
 
-Art by: [[Laura Steffen Sterling]].
+Art by: Laura Steffen Sterling.
 
-Photos by: [[Laura Steffen Sterling]].
+Photos by: Laura Steffen Sterling.
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

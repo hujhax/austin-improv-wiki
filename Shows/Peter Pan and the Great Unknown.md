@@ -35,11 +35,11 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>Never-before-seen improvised adventures of [[Wikipedia - Peter Pan|Peter Pan]] with all of his enchanted and dangerous creatures of Neverland along for the ride: Pirates, Fairies, Mermaids, Natives, and of course, those impetuous and inimitable Lost Boys.
+From the show announcement:<blockquote>Never-before-seen improvised adventures of Peter Pan with all of his enchanted and dangerous creatures of Neverland along for the ride: Pirates, Fairies, Mermaids, Natives, and of course, those impetuous and inimitable Lost Boys.
 </blockquote>
 
 ## More Information
 * [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

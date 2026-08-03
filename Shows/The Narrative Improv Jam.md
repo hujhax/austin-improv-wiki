@@ -49,5 +49,5 @@ Due to poor attendance, the show was quickly replaced with *[[Shows/The TV Set|T
 * [The show's web page.](http://www.hideouttheatre.com/shows/TheNarrativeImprovJam)
 
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]
-[[Category/Shows|Narrative Improv Jam]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Narrative Improv Jam
+Category:The Hideout Theatre

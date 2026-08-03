@@ -86,11 +86,11 @@ This is their bio from the web site for [[Festivals/The 2011 Improvised Play Fes
 ### The Cast's Styles
 Each cast member acted in the style of a particular playwright, as follows:
 
-* [[Performers/Asaf Ronen|Asaf Ronen]] -- [[Wikipedia - Samuel Beckett|Samuel Beckett]]
-* [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]] -- [[Wikipedia - Sam Shepard|Sam Shepard]]
-* [[Performers/Kacey Samiee|Kacey Samiee]] -- [[Wikipedia - A. R. Gurney|A. R. Gurney]]
-* [[Performers/Kristin Firth|Kristin Firth]] -- [[Wikipedia - John Guare|John Guare]]
-* [[Performers/Marc Majcher|Marc Majcher]] -- [[Wikipedia - Eric Bogosian|Eric Bogosian]]
+* [[Performers/Asaf Ronen|Asaf Ronen]] -- Samuel Beckett
+* [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]] -- Sam Shepard
+* [[Performers/Kacey Samiee|Kacey Samiee]] -- A. R. Gurney
+* [[Performers/Kristin Firth|Kristin Firth]] -- John Guare
+* [[Performers/Marc Majcher|Marc Majcher]] -- Eric Bogosian
 
 ## Media
 ### Videos

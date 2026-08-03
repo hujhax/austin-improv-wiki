@@ -23,7 +23,7 @@
 
 ## Troupes
 * [[Troupes/Duran & Johnson|Duran & Johnson]]
-* [[FOLKS]]
+* FOLKS
 * [[Troupes/Mirage Machine|Mirage Machine]]
 
 ## Shows

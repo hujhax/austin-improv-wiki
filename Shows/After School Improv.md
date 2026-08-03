@@ -77,7 +77,7 @@
   --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a> (2009)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (2012)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a> (2012)</li><!--
-  --><li style=""><a class="internal-link" href="Dorah Masibo">Dorah Masibo</a> (2012)</li><!--
+  --><li style="">Dorah Masibo (2012)</li><!--
   --><!--
   --><!--
   --><!--
@@ -163,13 +163,13 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 * [[Performers/Cat Drago|Cat Drago]]
 * [[Performers/Heidi Rogers|Heidi Rogers]]
 * [[Performers/Jason Vines|Jason Vines]]
-* [[JenRaye Adams]]
+* JenRaye Adams
 * [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
 * [[Performers/Keegan Hines|Keegan Hines]]
 * [[Performers/Mitchell Deane|Mitchell Deane]]
 * [[Performers/Nicole Oliver|Nicole Oliver]]
 * [[Performers/Ryan Hill|Ryan Hill]]
-* [[Travis Devitt]]
+* Travis Devitt
 
 ## Media
 ### Videos
@@ -195,5 +195,5 @@ It was brought back in 2012 as a student-cast show that ran Saturdays at 6pm in 
 	* [The same, on the Hideout blog.](http://www.hideouttheatre.com/after-school-improv-auditions)
 * [A 3/9/12 post](http://www.hideouttheatre.com/behind-the-scenes-after-school-improv) by [[Performers/Cat Drago|Cat Drago]] about the show.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

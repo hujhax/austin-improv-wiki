@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Nadine Latief">Nadine Latief</a></li><!--
+  --><li style="">Nadine Latief</li><!--
   --><!--
   --><!--
   --><!--

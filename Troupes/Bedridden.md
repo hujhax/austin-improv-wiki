@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
+  --><li style="">Andrea Young</li><!--
+  --><li style="">Andy Pereira</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
-  --><li style=""><a class="internal-link" href="Rene Pinnell">Rene Pinnell</a></li><!--
+  --><li style="">Jill Morris</li><!--
+  --><li style="">Rene Pinnell</li><!--
   --><!--
   --><!--
   --><!--
@@ -75,6 +75,6 @@
 ## History
 [[Troupes/Bedridden|Bedridden]] was one of the first troupes of the [[Austin Improv Collective]] era, and one of the first troupes to play an [[Austin Improv Collective]]-branded show.
 
-They performed a sketch show written by [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Ceej Allen|Ceej Allen]] in [[Frontera Fest]].
+They performed a sketch show written by [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Ceej Allen|Ceej Allen]] in Frontera Fest.
 
 [[Category/Troupes|Category:Troupes]]

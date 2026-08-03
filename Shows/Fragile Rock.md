@@ -5,7 +5,7 @@
 ## History
 The band formed in 2014, following an indiegogo campaign.
 
-In 2015, they played a showcase at [[Wikipedia - SXSW|SXSW]].
+In 2015, they played a showcase at SXSW.
 
 They had a mainstage run at [[Theatres/The Institution Theater|The Institution Theater]] on Fridays and Saturdays at 8pm from 5/29/15 to 6/13/15.
 
@@ -26,4 +26,4 @@ They had a mainstage run at [[Theatres/The Institution Theater|The Institution T
 * [The band's mainstage-run announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 * [The show page](http://www.theinstitutiontheater.com/shows/145/fragile-rock----the-worlds-first-emo-puppet-band) for the Institution mainstage run.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

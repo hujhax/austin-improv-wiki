@@ -34,7 +34,7 @@ In 2012, Liz moved to Seattle.
 * [[Troupes/Nesting Dolls|Nesting Dolls]]
 
 ## Shows
-* *[[69 Love Scenes]]*
+* *69 Love Scenes*
 * *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Eye for an iPhone|Eye for an iPhone]]*
 * *[[Shows/Pocketful of Posies|Pocketful of Posies]]* (director)
@@ -43,7 +43,7 @@ In 2012, Liz moved to Seattle.
 * *[[Shows/Steam|Steam]]* ("The Ingenue," Adelaide McKenna)
 * *[[Troupes/UpTowne|UpTowne]]*
 * *[[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]*
-* *[[ColdTowne Mainstage]]*
+* *ColdTowne Mainstage*
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041256) with Liz on *[[Troupes/The Theft Forum|The Theft Forum]]*.

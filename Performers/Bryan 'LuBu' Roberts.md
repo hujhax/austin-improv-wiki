@@ -25,7 +25,7 @@
 Bryan (also referred to as "Lubu") performs regularly at [[Theatres/Coldtowne Theater|Coldtowne Theater]] and occasionally at Austin's other improv theaters.
 He was additionally a company member of [[Gnap! Theater Projects]]. 
 
-Bryan originally began working as a contributor to Gnap!'s [[No Shame Theater]], regularly providing comedy sketches. Shortly afterward, he joined [[Troupes/GigglePants|GigglePants]] as a member of its inaugural cast and began performing shortform improv. In 2006, he began classes at Coldtowne Theater, eventually emerging as a member of its first graduating class of improvisers (along with [[Performers/Cody Dearing|Cody Dearing]], [[Michael Williams]], and [[Joel Keith]]). He was also a member of [[Troupes/Look Cookie|Look Cookie]], Coldtowne's first student troupe, and is the only member of the [[Coldtowne Mainstage]] cast to appear in all five Mainstage revues. In 2009 and 2010, he directed *[[Shows/Guilds Of Steel|Guilds Of Steel]]*, a show he created for Gnap!, to critical acclaim.
+Bryan originally began working as a contributor to Gnap!'s No Shame Theater, regularly providing comedy sketches. Shortly afterward, he joined [[Troupes/GigglePants|GigglePants]] as a member of its inaugural cast and began performing shortform improv. In 2006, he began classes at Coldtowne Theater, eventually emerging as a member of its first graduating class of improvisers (along with [[Performers/Cody Dearing|Cody Dearing]], Michael Williams, and Joel Keith). He was also a member of [[Troupes/Look Cookie|Look Cookie]], Coldtowne's first student troupe, and is the only member of the Coldtowne Mainstage cast to appear in all five Mainstage revues. In 2009 and 2010, he directed *[[Shows/Guilds Of Steel|Guilds Of Steel]]*, a show he created for Gnap!, to critical acclaim.
 
 On December 1, 2007, a special "Maestro of Maestros" edition of the [[Theatres/Hideout Theatre|Hideout Theatre]]'s popular [[Shows/Maestro|Maestro]] show was performed, directed by [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Andy Crouch|Andy Crouch]], and containing a cast of only previous Maestro winners. Bryan won the title, defeating [[Performers/Dav Wallace|Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
 
@@ -38,7 +38,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I was in 
 
 ## Troupes
 * [[Troupes/Boss|Boss]]
-* [[Bubu Lubu]]
+* Bubu Lubu
 * [[Shows/False Matters|False Matters]] (assistant director, original run)
 * [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]]
 * [[Troupes/GigglePants|GigglePants]]

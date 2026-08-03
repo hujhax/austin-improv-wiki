@@ -187,13 +187,13 @@
 ***Kenjutsu*** (full title: ***Kenjutsu: The Art of the Sword***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] that was inspired by Japanese samurai films.
 
 ## Summary
-The show depicted epic tales of corruption, power, and betrayal set in feudal Japan, inspired by Japanese samurai films such as  *[[Wikipedia - Seven Samurai|Seven Samurai]]*, *[[Wikipedia - Harakiri (1962 film)|Harakiri]]*, and *[[Wikipedia - 13 Assassins|13 Assassins]]*.
+The show depicted epic tales of corruption, power, and betrayal set in feudal Japan, inspired by Japanese samurai films such as  *Seven Samurai*, *Harakiri*, and *13 Assassins*.
 
 The cast trained with, and used on stage, actual *bokken* (wooden samurai swords). Combat was performed in slow motion.  (Somehow, every character [[Performers/Marc Majcher|Marc Majcher]] played survived almost every duel.)
 
 Generally, the cast eschewed non-stop action, focusing instead on patience and developing tension.
 
-Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director [[Wikipedia - Akira Kurosawa|Akira Kurosawa]].
+Prior to the title being finalized, the show was referred to familiarly as *Kurosawa* in honor of director Akira Kurosawa.
 
 It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podcast. Host Andrew Ti and guest Tom Kauffman ruled that the show was racist. *Kenjutsu: The Art of the Sword* was mentioned again on the February 5th, 2015 episode of Yo, Is This Racist? when host Andrew Ti used it as an example of "left wing racism".
 
@@ -211,9 +211,9 @@ It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podca
 ## More Information
 * [Initial show announcement](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule) on the Hideout's web site.
 * [Hideout blog post about the show](http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa) by [[Performers/Kareem Badr|Kareem Badr]].
-* [Interview with the directors](http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/) by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+* [Interview with the directors](http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/) by Wayne Allen Brenner for *The Austin Chronicle*.
 * [http://www.earwolf.com/episode/improvised-samurai-stories](http://www.earwolf.com/episode/improvised-samurai-stories) Discussion of the show on the Yo, Is This Racist? podcast 04/18/14
 * [http://earwolf.com/episode/left-wing-racism](http://earwolf.com/episode/left-wing-racism) Further discussion of the show on the Yo, Is This Racist? podcast 02/05/15
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

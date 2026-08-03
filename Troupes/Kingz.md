@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style="">Arian Brumby</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cene Hale">Cene Hale</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Roberts">Meredith Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Molly Moore">Molly Moore</a></li><!--
-  --><li style=""><a class="internal-link" href="Xaria Coleman">Xaria Coleman</a></li><!--
+  --><li style="">Meredith Roberts</li><!--
+  --><li style="">Molly Moore</li><!--
+  --><li style="">Xaria Coleman</li><!--
   --><!--
   --><!--
   --><!--
@@ -88,5 +88,5 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

@@ -20,13 +20,13 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Bill Price">Bill Price</a></li><!--
-  --><li style=""><a class="internal-link" href="Carla Goodman">Carla Goodman</a></li><!--
+  --><li style="">Bill Price</li><!--
+  --><li style="">Carla Goodman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Jiovani Galo">Jiovani Galo</a></li><!--
+  --><li style="">Jiovani Galo</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Kacy Todd">Kacy Todd</a></li><!--
-  --><li style=""><a class="internal-link" href="Kelli Bland">Kelli Bland</a></li><!--
+  --><li style="">Kacy Todd</li><!--
+  --><li style="">Kelli Bland</li><!--
   --><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Dawson's Creek|*Dawson's Creek*]] episode ["The Longest Day"](http://www.imdb.com/title/tt0555187/).
+***Live TV Tuesdays: Dawson's Creek*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *Dawson's Creek* episode ["The Longest Day"](http://www.imdb.com/title/tt0555187/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *Dawson's Creek".
@@ -91,13 +91,13 @@ It played exclusively at [[Theatres/The Highball|The Highball]].
 
 ## Cast
 * Dawson Leery -- [[Performers/Cody Melcher|Cody Melcher]]
-* Joey Potter -- [[Kelli Bland]]
-* Jen Lindley -- [[Kacy Todd]]
+* Joey Potter -- Kelli Bland
+* Jen Lindley -- Kacy Todd
 * Pacey Witter -- [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
-* Andie McPhee & Evelyn ‘Grams’ Ryan -- [[Carla Goodman]]
-* Doug Witter& Henry Parker -- [[Bill Price]]
+* Andie McPhee & Evelyn ‘Grams’ Ryan -- Carla Goodman
+* Doug Witter& Henry Parker -- Bill Price
 * Mitch Leery & William ‘Will’ Krudski  -- [[Performers/Andreas Fabis|Andreas Fabis]]
-* Buzz Thompson -- [[Jiovani Galo]]
+* Buzz Thompson -- Jiovani Galo
 
 ## Crew
 * Directed by [[Performers/Ted Meredith|Ted Meredith]]
@@ -109,4 +109,4 @@ It played exclusively at [[Theatres/The Highball|The Highball]].
 
 ## More Information
 * [One of the facebook-event pages for the show.](https://www.facebook.com/events/152475268155249/)
-[[Category/Shows|Category:Shows]]
+Category:Shows

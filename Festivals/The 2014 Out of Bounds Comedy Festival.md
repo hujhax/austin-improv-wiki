@@ -68,7 +68,7 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 * [[Troupes/The Starborn|The Starborn]]
 * [[Shows/Stool Pigeon|Stool Pigeon]]
 * [[Troupes/The Tastemakers|The Tastemakers]]
-* [[Teen Showcase]]
+* Teen Showcase
 * [[Troupes/Three on a Match|Three on a Match]]
 * [[Shows/Trust No One|Trust No One]]
 * [[Troupes/Waiting for Batman|Waiting for Batman]]
@@ -143,13 +143,13 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 ### Stand-Up Performers
 * Antonio Aguilar
 * Austen Silver
-* [[Brendan K. O'Grady]]
+* Brendan K. O'Grady
 * [[Performers/Brently Heilbron|Brently Heilbron]]
 * Byron Stamps
 * Caroline Bassett
 * Casey Balsham
-* [[Cassidy Santaguida]]
-* [[Chris Sebilia]]
+* Cassidy Santaguida
+* Chris Sebilia
 * Chris Tellez
 * Cody Hustak
 * Curtis Cook
@@ -165,15 +165,15 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 * Joann Schinderle
 * [[Performers/John Buseman|John Buseman]]
 * Jon Gnarr
-* [[Jonathan Euseppi]]
+* Jonathan Euseppi
 * Katie Pengra
 * Kazumi Kusano
-* [[Kerri Lendo]]
+* Kerri Lendo
 * Leokadia Hope
 * Linda Stogner
 * Lucas Molandes
 * Mac Blake
-* [[Maggie Maye]]
+* Maggie Maye
 * Martin Urbano
 * Melissa Nierman
 * Mike Macrae
@@ -224,8 +224,8 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.793161820747336.1073742048.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/In Our Prime|In Our Prime]] show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.792648634131988.1073742047.221927764537414&type=3) by [[Steve Rogers]] of the *[[Shows/Trust No One|Trust No One]]* show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.793169357413249.1073742050.221927764537414&type=3) by [[Steve Rogers]] of the *[[Shows/Beware of Female Spies|Beware of Female Spies]]* show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.795100780553440.1073742058.221927764537414&type=3) by [[Steve Rogers]] of the [[Bridgeport]] show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.796561237074061.1073742064.221927764537414&type=3) by [[Steve Rogers]] of the [[Starborn]] show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.795100780553440.1073742058.221927764537414&type=3) by [[Steve Rogers]] of the Bridgeport show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.796561237074061.1073742064.221927764537414&type=3) by [[Steve Rogers]] of the Starborn show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.797594956970689.1073742069.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Jorak and Jorak Do Movie|Jorak and Jorak Do Movie]] show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.798601643536687.1073742071.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Bad Boys|Bad Boys]] show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.794562937273891.1073742056.221927764537414&type=3) by [[Steve Rogers]] of the [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]] show.
@@ -247,7 +247,7 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152578743157107.1073741853.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Dervish|Dervish]] show.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580414492107.1073741854.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Troupes/Get Up|Get Up]] show.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152580600082107.1073741855.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Shows/Boy Band|Boy Band]] show.
-* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152599009622107.1073741856.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the [[Bridgeport]] show.
+* [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152599009622107.1073741856.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of the Bridgeport show.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105003365262780.1073741869.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Thursday, 8/28, 8pm show at [[Theatres/The Institution Theater|The Institution Theater]] (The Ladies/We Should Talk/Franz & Dave).
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Thursday, 8/31, 7pm [[Troupes/My Best Fiend|My Best Fiend]] show.
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018233072570.1073741872.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Thursday, 8/31, 7pm "Improv Nerd" show with Lauren Lapkus.
@@ -255,7 +255,7 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 * [Miscellaneous festival photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105011824774850.1073741870.7909117&type=3) from [[Performers/Heidi Rogers|Heidi Rogers]].
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10105018155927170.1073741871.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] of the Friday, 8/29 show by [[Troupes/The Frank Mills|The Frank Mills]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202516036124903.1073741899.1315383518&type=3) by [[Michael Yew]] of the Friday, 8/27 show at the Hideout featuring [[Troupes/The Starborn|The Starborn]] and [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528881326025.1073741900.1315383518&type=3) by [[Michael Yew]] of the Thursday, 8/26 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] featuring [[Troupes/Junk|Junk]], [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]] and [[Triple Threat]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528881326025.1073741900.1315383518&type=3) by [[Michael Yew]] of the Thursday, 8/26 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] featuring [[Troupes/Junk|Junk]], [[Troupes/¡ZARZAMORA!|¡ZARZAMORA!]] and Triple Threat.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528928567206.1073741901.1315383518&type=3) by [[Michael Yew]] of the Rorschach Pattern 9 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202528972488304.1073741902.1315383518&type=3) by [[Michael Yew]] of the [[Troupes/Indigo Shift|Indigo Shift]] show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202535417569427.1073741903.1315383518&type=3) by [[Michael Yew]] of the [[Troupes/Confidence Men|Confidence Men]] show.
@@ -265,4 +265,4 @@ The festival roast featured [[Performers/Andy Crouch|Andy Crouch]].
 
 ## More Information
 * [The 2014 Out of Bounds web site.](http://www.outofboundscomedy.com/2014)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

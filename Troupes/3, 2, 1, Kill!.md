@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style="">Jill Morris</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
@@ -31,7 +31,7 @@
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
-  --><li style=""><a class="internal-link" href="Wesley Bain">Wesley Bain</a></li><!--
+  --><li style="">Wesley Bain</li><!--
   --><!--
   --><!--
   --><!--
@@ -82,12 +82,12 @@ It had a run of shows at the Alamo Drafthouse in April 2008.
 
 ## Media
 ### Photos
-* [Behind-the-scenes photoset](http://nekomouser.livejournal.com/pics/catalog/2447) by [[Wesley Bain]] of one of their first two shows.
+* [Behind-the-scenes photoset](http://nekomouser.livejournal.com/pics/catalog/2447) by Wesley Bain of one of their first two shows.
 
 ## More Information
 * [Announcement of the troupe's debut](http://forum.austinimprov.com/viewtopic.php?p=8180) on [[The Austin Improv Forums]].
 * [Announcement of the 2008 run](http://forum.austinimprov.com/viewtopic.php?p=58453) on [[The Austin Improv Forums]].
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Improvised Video|Category:Improvised Video]]
-[[Category/Video|Category:Video]]
+Category:Improvised Video
+Category:Video

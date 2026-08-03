@@ -81,11 +81,11 @@ The current format is "Gnome Noir", a detective story based in the world of cute
 
 
 ### Photos
-* [Photoset](https://www.facebook.com/media/set/?set=oa.2027570003932760&type=3) by [[Jeida Jes Mitchell]] of their 11/16/2018 show.
+* [Photoset](https://www.facebook.com/media/set/?set=oa.2027570003932760&type=3) by Jeida Jes Mitchell of their 11/16/2018 show.
 
 ## More Information
 * [Fabarjet's Facebook page.](https://www.facebook.com/Fabarjet-429797357434967/)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

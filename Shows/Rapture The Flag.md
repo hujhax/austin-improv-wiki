@@ -18,11 +18,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Steve Donovan">Steve Donovan</a></td>
+			<td class="category">Steve Donovan</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Jason Laney">Jason Laney</a></td>
+			<td class="category">Jason Laney</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -31,8 +31,8 @@
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa Kubos York">Teresa Kubos York</a></li><!--
+  --><li style="">Justin York</li><!--
+  --><li style="">Teresa Kubos York</li><!--
   --><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@
 	</table>
 </div>
 
-***Rapture the Flag*** (AKA **No Holes Bear'd**) was a comedy revue at [[Theatres/Coldtowne Theater|Coldtowne Theater]] themed around the [[Wikipedia - Rapture|Rapture]].
+***Rapture the Flag*** (AKA **No Holes Bear'd**) was a comedy revue at [[Theatres/Coldtowne Theater|Coldtowne Theater]] themed around the Rapture.
 
 ## Summary
 The show included sketch, improv, song, and dance. It ran on Fridays at 8:30 during November 2010.
@@ -95,4 +95,4 @@ The show included sketch, improv, song, and dance. It ran on Fridays at 8:30 dur
 ## More Information
 * [An interview with cast members](http://austinist.com/2010/11/11/rapture_the_flag.php) by *The Austinist*.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

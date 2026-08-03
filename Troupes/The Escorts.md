@@ -169,4 +169,4 @@
 * [The troupe's facebook page.](https://www.facebook.com/pages/The-Escorts-Improv-Theater-from-Austin/519211014791053)
 
 [[Category/Troupes|Escorts]]
-[[Category/Active|Category:Active]]
+Category:Active

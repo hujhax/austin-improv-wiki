@@ -97,6 +97,6 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 ## More Information
 * [Rachel and Dave's web site.](http://rachelanddave.com/)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Walter Nichols">Walter Nichols</a></li><!--
+  --><li style="">Walter Nichols</li><!--
   --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
   --><!--
   --><!--
@@ -95,4 +95,4 @@ Mythos is a narrative with heavy underscoring of electronic music. The show star
 * Show Count: 2 (as of 02/09/2017)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

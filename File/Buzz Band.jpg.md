@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Buzz Band.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Publicity image for *[[Shows/Buzz Band|Buzz Band]]*, featuring [[Megan Simon]].
+Publicity image for *[[Shows/Buzz Band|Buzz Band]]*, featuring Megan Simon.
 
 Photo by: unknown.
 

@@ -58,7 +58,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>The first
 * *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* (director)
 * *[[Shows/Only Three Will Survive|Only Three Will Survive]]* (director)
 * *[[Shows/The Rubber Room|The Rubber Room]]* (director)
-* *[[Sickest Fing Stories]]* (director)
+* *Sickest F***ing Stories* (director)
 * *[[Shows/Spirited|Spirited]]* (director)
 * *[[Shows/The Suitcase|The Suitcase]]* (director)
 

@@ -17,7 +17,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]* and a teen showcase.
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/GigglePants|GigglePants]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-* [[Good Fight]]
+* Good Fight
 * [[Troupes/In Our Prime|In Our Prime]]
 * [[Troupes/IScream Sandwich|IScream Sandwich]]
 * [[Troupes/Junk|Junk]]
@@ -40,4 +40,4 @@ It included an all-star *[[Shows/Maestro|Maestro]]* and a teen showcase.
 ### Videos
 * [Video](http://vimeo.com/112559537) by [[Performers/Paul Normandin|Paul Normandin]] of the [[Troupes/In Our Prime|In Our Prime]] show.
 * [Video](http://vimeo.com/114202698) of the Squirrel Buddies show.
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

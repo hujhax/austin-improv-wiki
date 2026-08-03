@@ -15,15 +15,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Beth Lebwohl">Beth Lebwohl</a></li><!--
+  --><li style="">Beth Lebwohl</li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="Hanna Woodruff">Hanna Woodruff</a></li><!--
-  --><li style=""><a class="internal-link" href="Jason Cohen">Jason Cohen</a></li><!--
+  --><li style="">Hanna Woodruff</li><!--
+  --><li style="">Jason Cohen</li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
-  --><li style="" ><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
+  --><li style="">Julia Kirchen</li><!--
+  --><li style="">Katie Sicking</li><!--
+  --><li style="" >Scott Moss</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@
 **Unfurled** was the fourth [[ColdTowne Student Troupe]].
 
 ## History
-The troupe was named after [[Brent Furl]], who was cast in the troupe but immediately moved away.
+The troupe was named after Brent Furl, who was cast in the troupe but immediately moved away.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/unfurled)

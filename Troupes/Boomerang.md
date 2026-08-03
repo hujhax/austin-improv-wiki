@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Beth Condra">Beth Condra</a></li><!--
+  --><li style="">Beth Condra</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
-  --><li style=""><a class="internal-link" href="Lindsey Marguerite">Lindsey Marguerite</a></li><!--
-  --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a></li><!--
+  --><li style="">Lindsey Marguerite</li><!--
+  --><li style="">Phil Morin</li><!--
   --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
   --><!--
   --><!--
@@ -73,4 +73,4 @@
 **Boomerang** was an improv troupe comprised of Level Seven Hideout graduates.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

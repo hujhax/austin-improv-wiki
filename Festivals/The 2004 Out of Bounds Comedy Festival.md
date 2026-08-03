@@ -3,13 +3,13 @@
 ## Acts
 ### Local Acts
 * [[Troupes/Ed 32|Ed 32]] "Starship"
-* [[The Edmund Bulldogs]]
+* The Edmund Bulldogs
 * [[Troupes/Fatbuckle|Fatbuckle]]
-* [[Gag Reflex]]
+* Gag Reflex
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Gravy|Gravy]]
 * [[Troupes/Heroes of Comedy|Heroes of Comedy]]
-* [[Latino Comedy Project]]
+* Latino Comedy Project
 
 ### Out-of-Town Acts
 * Bearded Lamb (Chicago, IL)
@@ -19,4 +19,4 @@
 * Mod 27 (West Palm Beach, FL)
 * Punch Drunk Comedy (Dallas, TX)
 * Vagabondage (Houston, TX)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

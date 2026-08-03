@@ -73,6 +73,6 @@
 **Déclassé** (formerly **JonJohn**) is an improv duo.
 
 [[Category/Troupes|Declasse]]
-[[Category/Active|Declasse]]
+Declasse
 [[Category/Duos|Declasse]]
 [[Category/John Ratliff Duos|Declasse]]

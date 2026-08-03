@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
-  --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
-  --><li style=""><a class="internal-link" href="Chris Sutphen">Chris Sutphen</a></li><!--
+  --><li style="">Amy O'Connor</li><!--
+  --><li style="">Cassidy Santaguida</li><!--
+  --><li style="">Chris Sutphen</li><!--
   --><li style=""><a class="internal-link" href="Performers/Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
   --><!--
   --><!--
@@ -96,5 +96,5 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/furiouslymissing)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

@@ -6,20 +6,20 @@
 
 ## Acts
 ### Local Acts
-* [[The Becchini]]
+* The Becchini
 * [[Troupes/ColdTowne (Troupe)|ColdTowne]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Hoover's Blanket|Hoover's Blanket]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
-* [[Latino Comedy Project]]
+* Latino Comedy Project
 * [[Troupes/The Leading Brands|The Leading Brands]]
 * [[Troupes/McNichol & May|McNichol & May]]
-* [[One Night Band]]
+* One Night Band
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* [[The Plurals]]
-* [[Scott & Stacy]]
+* The Plurals
+* Scott & Stacy
 * [[Troupes/You Me & Greg|You Me & Greg]]
 
 ### Out-of-Town Acts
@@ -43,4 +43,4 @@
 * Room to Improv (Los Angeles)
 * Second City LA's The Group (Los Angeles)
 * Sketchcore (Chicago)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

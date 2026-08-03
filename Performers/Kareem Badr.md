@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Kareem Badr** ([[Wikipedia - Help - IPA for English#Key|/ˈbɑːdrə/]]) is an improv performer, director, and teacher.  He is a co-owner of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and is in charge of much of the theater's day-to-day logistics.
+**Kareem Badr** (/ˈbɑːdrə/) is an improv performer, director, and teacher.  He is a co-owner of [[Theatres/The Hideout Theatre|The Hideout Theatre]], and is in charge of much of the theater's day-to-day logistics.
 
 ## History
 Kareem began taking classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 1/8/05.  He performed in his first improv show on April 2nd of that same year.
@@ -27,11 +27,11 @@ Kareem began taking classes at [[Theatres/The Hideout Theatre|The Hideout Theatr
 On 4/15/09, he became one of the co-owners of [[Theatres/The Hideout Theatre|The Hideout Theatre]].  That same year, he appeared in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 ## Troupes
-* [[Badr & Janik]]
+* Badr & Janik
 * [[Troupes/BadWitt|BadWitt]]
 * [[Troupes/The Randy Meisner|The Randy Meisner]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* [[The Smoking Arm]]
+* The Smoking Arm
 * [[Troupes/Straight Blades|Straight Blades]]
 
 ## Shows
@@ -45,7 +45,7 @@ On 4/15/09, he became one of the co-owners of [[Theatres/The Hideout Theatre|The
 * *[[Shows/Process|Process]]* 
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/Theatresports (mainstage run)|Theatresports]]* (director, 2010)
-* *[[This Week Tonight]]* 
+* *This Week Tonight* 
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]* (director)
 
 ## More Information

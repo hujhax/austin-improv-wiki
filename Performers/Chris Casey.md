@@ -35,12 +35,12 @@ He was inspired to try improv by his kids who also took classes at [[Theatres/Th
 * *[[Shows/Maestro Raw|Maestro Raw]]*
 * *[[Shows/Fancy Pants|Fancy Pants]]*
 * *[[Shows/2x4|2x4]]*
-* *[[Musical Night at Indra's]]*
+* *Musical Night at Indra's*
 * *[[Shows/Impromp-Two|Impromp-Two]]*
-* *[[Alamo City Improv]]*
-* *[[Duo Night at Station Theatre]]*
+* *Alamo City Improv*
+* *Duo Night at Station Theatre*
 * *[[Shows/All You Need is Love|All You Need is Love]]*
-* *[[Dual Reality]]*
+* *Dual Reality*
 * *[[Shows/The Threefer|The Threefer]]*
 
 [[Category/Performers|Casey]]

@@ -18,7 +18,7 @@ The festival roast featured [[Performers/David Lampe|David Lampe]].
 * [[Troupes/Available Cupholders|Available Cupholders]]
 * [[Troupes/Bad Boys|Bad Boys]]
 * [[Troupes/Baxter and Bernard|Baxter and Bernard]]
-* [[Ben Schave]]
+* Ben Schave
 * [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]]
 * [[Troupes/ColdTowne (Troupe)|ColdTowne]]
 * [[Troupes/Confidence Men|Confidence Men]]
@@ -26,7 +26,7 @@ The festival roast featured [[Performers/David Lampe|David Lampe]].
 * [[Troupes/The Cubbies|The Cubbies]]
 * [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
 * [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]
-* [[The Encyclopedia Show]]
+* The Encyclopedia Show
 * [[Troupes/The Escorts|The Escorts]]
 * [[Shows/False Matters|False Matters]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
@@ -188,4 +188,4 @@ The festival roast featured [[Performers/David Lampe|David Lampe]].
 
 ## More Information
 * [The 2012 Out of Bounds web site.](http://www.outofboundscomedy.com/2012/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

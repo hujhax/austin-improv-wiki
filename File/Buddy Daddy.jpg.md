@@ -3,7 +3,7 @@
 ## Summary
 [[Troupes/Buddy Daddy|Buddy Daddy]], in their 8/30/08 performance at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 
-Photo by [[Michael James Williams]], from [this photoset](http://www.flickr.com/photos/oob_pics/sets/72157606944190478).
+Photo by Michael James Williams, from [this photoset](http://www.flickr.com/photos/oob_pics/sets/72157606944190478).
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -34,4 +34,4 @@ Blue Maestro is just like [[Shows/Maestro|Maestro]], except all of the setups ar
 
 ## Media
 * [A photoset of the 2/6/2009 performance of Blue Maestro.](http://www.flickr.com/photos/robotparade/sets/72157613439524361/)
-[[Category/Shows|Category:Shows]]
+Category:Shows

@@ -39,7 +39,7 @@
 * *[[Shows/Spirited|Spirited]]*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[The Birthday Clusterfunk]]* (host and producer)
+* *The Birthday Clusterfunk* (host and producer)
 * *[[Shows/The Rubber Room|The Rubber Room]]* (performer and producer)
 * *[[Shows/This American Live|This American Live]]* (guest storyteller)
 * *[[Shows/Maestro|Maestro]]* (2000-) (director, performer)

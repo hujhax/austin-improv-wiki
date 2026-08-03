@@ -17,15 +17,15 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Collin Cannaday">Collin Cannaday</a></li><!--
+  --><li style="">Collin Cannaday</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Delaney Liming">Delaney Liming</a></li><!--
+  --><li style="">Delaney Liming</li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style=""><a class="internal-link" href="Phil Wilhelm">Phil Wilhelm</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
+  --><li style="">Phil Wilhelm</li><!--
+  --><li style="">Teresa Kubos</li><!--
   --><!--
   --><!--
   --><!--

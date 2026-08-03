@@ -179,4 +179,4 @@ Unknown.
 ## More Information
 * [The show's web page.](http://www.theinstitutiontheater.com/shows/85/mister-morbids-moonlight-movie-mayhem-madness-massacre)
 
-[[Category/Shows|Mister Morbid's]]
+Mister Morbid's

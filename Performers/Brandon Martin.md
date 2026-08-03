@@ -138,7 +138,7 @@ In 2014, he moved back.
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (Rico)
 * *[[Festivals/Love Fest|Love Fest]]* (2013 run)
 * *[[Shows/Not This American Life|Not This American Life]]*
-* *[[Fresh Roasted]]*
+* *Fresh Roasted*
 * *[[Shows/Golden (mainstage)|Golden]]*
 
 ## More Information

@@ -26,12 +26,12 @@ Jen started taking improv classes at Merlin Works in 2007. She has been enjoying
 
 
 ## Troupes
-* [[Hugaday]]
+* Hugaday
 * [[Troupes/Bless This Mess|Bless This Mess]]
 * [[Troupes/Wait OK Now|Wait OK Now]]
 
 ## Shows
-* *[[The Good Life]]*
+* *The Good Life*
 * *[[Shows/Hurly Burly|Hurly Burly]]*
 * *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Shows/Lola|Lola]]* (tech)

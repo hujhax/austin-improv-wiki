@@ -51,16 +51,16 @@ A post from him about the first improv show he ever saw:<blockquote><p>I saw Fou
 * [[Troupes/Two Minute Brother|Two Minute Brother]]
 * [[Troupes/Awww, Shit!|Awww, Shit!]]
 * [[Troupes/Jocks and Nerds|Jocks and Nerds]]
-* [[Let's Rock]]
+* Let's Rock
 * [[Troupes/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday|Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday]]
-* [[Speedforce Go!]]
-* [[Patriot Actors]]
-* [[The Warm 'Em Ups]]
+* Speedforce Go!
+* Patriot Actors
+* The Warm 'Em Ups
 * [[Troupes/Look Cookie|Look Cookie]]
-* [[The Crumbs]]
-* [[The Smoking Arm]]
-* [[McNeil deGrasse Tyson]]
-* [[Jc'sBM]]
+* The Crumbs
+* The Smoking Arm
+* McNeil deGrasse Tyson
+* Jc'sBM
 * [[Troupes/Array|Array]] (director)
 
 ## Shows
@@ -71,18 +71,18 @@ A post from him about the first improv show he ever saw:<blockquote><p>I saw Fou
 * *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]* (director)
 * *[[Shows/TGIS|TGIS]]* (cast member, "Buddies")
 * *[[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]* (super apocalypse) 
-* [[Cody and a Student]] 
-* [[No Astronauts Allowed]]
+* Cody and a Student 
+* No Astronauts Allowed
 * *[[Shows/Vinyl Destination|Vinyl Destination]]*
-* [[Flipped Scripts]]
-* [[Rad Scientists]]
-* [[Like & Subscribe]]
-* [[The People's Sketch show]]
-* [[The Improvised Porno]] presented by PCI
-* [[ColdTowne's The Tuesday Night Jam]]
+* Flipped Scripts
+* Rad Scientists
+* Like & Subscribe
+* The People's Sketch show
+* The Improvised Porno presented by PCI
+* ColdTowne's The Tuesday Night Jam
 * *[[Shows/Stool Pigeon|Stool Pigeon]]*
-* [[Ingest]]
-* [[Winter Miracles Talent Show]]
+* Ingest
+* Winter Miracles Talent Show
 * *[[Troupes/Got Your Back|Got Your Back]]*
 
 ## More Information

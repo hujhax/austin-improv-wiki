@@ -19,10 +19,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Albert Im">Albert Im</a></li><!--
+  --><li style="">Albert Im</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
+  --><li style="">Erik Adams</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
   --><!--

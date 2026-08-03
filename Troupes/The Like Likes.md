@@ -19,13 +19,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
-  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Medina">Jessica Medina</a></li><!--
-  --><li style=""><a class="internal-link" href="K.C. Harvey-Taylor">K.C. Harvey-Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Towne">Katie Towne</a></li><!--
-  --><li style=""><a class="internal-link" href="Monica Wells">Monica Wells</a></li><!--
-  --><li style=""><a class="internal-link" href="Robert Moncrieff">Robert Moncrieff</a></li><!--
+  --><li style="">Amy Wright</li><!--
+  --><li style="">Jared Robertson</li><!--
+  --><li style="">Jessica Medina</li><!--
+  --><li style="">K.C. Harvey-Taylor</li><!--
+  --><li style="">Katie Towne</li><!--
+  --><li style="">Monica Wells</li><!--
+  --><li style="">Robert Moncrieff</li><!--
   --><!--
   --><!--
   --><!--
@@ -95,4 +95,4 @@ Song lyrics kicks off fan interplay of words and movements (for example, "take t
 * [The troupe's facebook page.](http://www.facebook.com/TheLikeLikesImprov)
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

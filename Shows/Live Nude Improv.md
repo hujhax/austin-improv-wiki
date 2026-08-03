@@ -20,7 +20,7 @@ __NOINDEX__
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Bradley Dean Whyte">Bradley Dean Whyte</a></td>
+			<td class="category">Bradley Dean Whyte</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -117,7 +117,7 @@ Finally, before the last stretch of the show, the director would announce we wou
 The director would finish the show, announcing to the audience that they'd had a great, productive rehearsal, and the show would open next week (with one last wink and nod that no, it really wouldn't).
 
 ## History
-[[Performers/Andy Crouch|Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of [[Wikipedia - Dionysus in '69 (theatrical production)|*Dionysus in '69*]] by the [[Wikipedia - Rude Mechanicals (theater company)|Rude Mechanicals]].  He was inspired to make something equally transgressive and raw in the world of improv.
+[[Performers/Andy Crouch|Andy Crouch]]'s inspiration for *Live Nude Improv* came partly from a re-mounting of *Dionysus in '69* by the Rude Mechanicals.  He was inspired to make something equally transgressive and raw in the world of improv.
 
 Prior to the show's proper run, *Live Nude Improv* had a "preview show" in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].  The show was basically an hour of montage, in which participants found excuses in the scene to have players take off articles of clothing.  Once an article of clothing was off, it stayed off until the end of the show.  [[Performers/Peter Rogers|Peter Rogers]] was the first of the cast to get completely naked onstage for the production, with [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] following soon after.
 
@@ -157,5 +157,5 @@ Videography was expressly forbidden at *Live Nude Improv*, so there are no extan
 * [An interview with Andy Crouch about the show.](http://theflintpodcast.com/2012/02/20/ep-17-live-nude-improv-with-andy-crouch/)
 * [A blog post about seeing the *Live Nude Improv* performance](http://yesandrew.com/2013/04/14/live-nude-improv/) at [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] from [[Performers/Andrew Buck|Andrew Buck]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

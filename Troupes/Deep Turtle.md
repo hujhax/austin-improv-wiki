@@ -17,9 +17,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Addison">Alex Addison</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Kathleen McFerren">Kathleen McFerren</a></li><!--
-  --><li style=""><a class="internal-link" href="Ripley Adams">Ripley Adams</a></li><!--
-  --><li style=""><a class="internal-link" href="Ryan Broussard">Ryan Broussard</a></li><!--
+  --><li style="">Kathleen McFerren</li><!--
+  --><li style="">Ripley Adams</li><!--
+  --><li style="">Ryan Broussard</li><!--
   --><!--
   --><!--
   --><!--
@@ -90,4 +90,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

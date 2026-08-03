@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Allen Rogers">Allen Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Sams">Andy Sams</a></li><!--
-  --><li style=""><a class="internal-link" href="Ellen Kubecka">Ellen Kubecka</a></li><!--
-  --><li style=""><a class="internal-link" href="Reagan Ward">Reagan Ward</a></li><!--
+  --><li style="">Allen Rogers</li><!--
+  --><li style="">Andy Sams</li><!--
+  --><li style="">Ellen Kubecka</li><!--
+  --><li style="">Reagan Ward</li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@ Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hi
 Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>At first glance, Laser Heart performs a montage, but we've adjusted it and made it more of our own, including incorporating organic transitions, seamless scene edits, etc. We are four people who trust each other enough to have fun and it shows.</blockquote>
 
 ## History
-The troupe played in the 2011 [[Hell Yes Fest]].
+The troupe played in the 2011 Hell Yes Fest.
 
 ## Media
 ### Videos

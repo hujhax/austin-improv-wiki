@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Dougherty Arts Center">The Dougherty Arts Center</a></td>
+			<td class="category">The Dougherty Arts Center</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -23,12 +23,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy McSmith">Amy McSmith</a></li><!--
-  --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
+  --><li style="">Amy McSmith</li><!--
+  --><li style="">Chadwick Smith</li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Jay Byrd</a></li><!--
-  --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
+  --><li style="">John Brewster</li><!--
   --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
   --><li style="" ><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
@@ -101,4 +101,4 @@ The show included pre-filmed shorts, improv games, and a narrative set in an und
 	* [Thread featuring the trailer.](http://forum.austinimprov.com/viewtopic.php?p=110950)
 	* [Casting call](http://forum.austinimprov.com/viewtopic.php?p=109188) and [tech call](http://forum.austinimprov.com/viewtopic.php?t=12131) for the show.
 * [The show's web page.](http://puppetimprovproject.org/puppet-katamari.html)
-[[Category/Shows|Category:Shows]]
+Category:Shows

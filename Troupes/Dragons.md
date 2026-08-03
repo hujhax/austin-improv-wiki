@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style="">Danny Catlow</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
-  --><li style=""><a class="internal-link" href="Particia Tate">Particia Tate</a></li><!--
-  --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
+  --><li style="">Jessica Hamilton</li><!--
+  --><li style="">Katie Sicking</li><!--
+  --><li style="">Lacy Cox</li><!--
+  --><li style="">Particia Tate</li><!--
+  --><li style="">Sam Van Metre</li><!--
   --><!--
   --><!--
   --><!--

@@ -108,4 +108,4 @@ Its first run was Saturdays at 8pm; subsequent runs have been on Fridays at 10pm
 * [Facebook event for the 6/29/13 show.](http://www.facebook.com/events/504576142924233/)
 * [Facebook event for the 9/27/13 show.](http://www.facebook.com/events/552329074802802/)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

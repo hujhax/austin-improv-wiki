@@ -3,7 +3,7 @@
 ## Summary
 [[Troupes/Conspiracy Butter|Conspiracy Butter]] in their 5/26/06 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-Still from a video by [[Bryan Boyko]].
+Still from a video by Bryan Boyko.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

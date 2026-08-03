@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-*Rise & Shine* was an improvised morning talk show parody of *[[Wikipedia - Regis and Kelly#2001.E2.80.9311 -  Live.21 with Regis and Kelly|Regis & Kelly]]* and regional/local morning talk shows.  Each episode took place in real time as if it were being recorded (a monoscene).
+*Rise & Shine* was an improvised morning talk show parody of *Regis & Kelly* and regional/local morning talk shows.  Each episode took place in real time as if it were being recorded (a monoscene).
 
 The cast played the same characters every time & invited a guest player to improvise a fictional celebrity. 
 

@@ -30,5 +30,5 @@ The goal of *All Ages Improv Night* is to provide young improvisers with the opp
 * [The show's facebook page.](http://www.facebook.com/MYTatCT)
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
-[[Category/Shows|Category:Shows]]
+Category:Shows
 [[Category/Troupes|Category:Troupes]]

@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Courney Sevener">Courney Sevener</a></li><!--
-  --><li style=""><a class="internal-link" href="JenRaye Adams">JenRaye Adams</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
+  --><li style="">Courney Sevener</li><!--
+  --><li style="">JenRaye Adams</li><!--
+  --><li style="">Lacy Cox</li><!--
+  --><li style="">Meredith Mae Roberts</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Comprised of veterans of the LA, Chicago, and Austin comedy scenes, The Ladies is Austin's newest all-female troupe. Like the dames of *[[Wikipedia - Desperate Housewives|Desperate Housewives]]* and *[[Wikipedia - Sex and the City|Sex and the City]]* before them, these four women are here to stir up comedy with their outrageous performances. </blockquote>
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Comprised of veterans of the LA, Chicago, and Austin comedy scenes, The Ladies is Austin's newest all-female troupe. Like the dames of *Desperate Housewives* and *Sex and the City* before them, these four women are here to stir up comedy with their outrageous performances. </blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>We are a four-person crew, a la [[Troupes/The Team|The Team]] or [[Troupes/Bad Boys|Bad Boys]], but with all women. We do highly physical improv with dynamic stage pictures.</p> 
@@ -84,14 +84,14 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 ## Media
 ### Videos
 * [Video](http://vimeo.com/40244451) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 4/12/12 show.
-* [Video](http://vimeo.com/42905009) by [[Lacy Reed]] of their 5/21/12 "P. F. Chang's" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
-* [Video](http://vimeo.com/50431482) by [[Lacy Reed]] of their 9/28/12 "Eggplant" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://vimeo.com/42905009) by Lacy Reed of their 5/21/12 "P. F. Chang's" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://vimeo.com/50431482) by Lacy Reed of their 9/28/12 "Eggplant" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Video of a 2013 show.](http://vimeo.com/62749753)
-* [Video](http://vimeo.com/85033155) by [[Lacy Reed]] of their "Pot Pie" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
-* [Video](http://vimeo.com/85039264) by [[Lacy Reed]] of their "Dragon" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
-* [Video](http://vimeo.com/85261565) by [[Lacy Reed]] of their 2013 "Literature" show at [[Theatres/The Institution Theater|The Institution Theater]].
+* [Video](http://vimeo.com/85033155) by Lacy Reed of their "Pot Pie" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://vimeo.com/85039264) by Lacy Reed of their "Dragon" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Video](http://vimeo.com/85261565) by Lacy Reed of their 2013 "Literature" show at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Video](http://vimeo.com/74463715) by [[Performers/Brad Hawkins|Brad Hawkins]] of their performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/85265975) by [[Lacy Reed]] of their "Swedish Fish" show.
+* [Video](http://vimeo.com/85265975) by Lacy Reed of their "Swedish Fish" show.
 * [Video of their 4/7/14 show.](http://vimeo.com/93084167)
 * [Their vimeo channel.](http://vimeo.com/theladies/videos)
 
@@ -104,5 +104,5 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 [[Category/Troupes|Ladies]]
 [[Category/Auto-Generated Troupe Pages|Ladies]]
-[[Category/Active|Ladies]]
+Ladies
 [[Category/All-Female Troupes|Ladies]]

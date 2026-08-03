@@ -86,7 +86,7 @@
 	</table>
 </div>
 
-***Charles Dickens Unleashed*** was a longform narrative show inspired by the works of [[Wikipedia - Charles Dickens|Charles Dickens]].
+***Charles Dickens Unleashed*** was a longform narrative show inspired by the works of Charles Dickens.
 
 ## Summary
 The show was a narrated longform, in the style of one of the earlier Dickens novels like *Oliver Twist*.  The narrator was looking back on his early life, and following it through the sort of ups and downs one often saw in Dickens novels.
@@ -113,7 +113,7 @@ On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Perfor
 ### 2009 Run
 #### Cast
 * [[Performers/Curtis Luciani|Curtis Luciani]]
-* [[Olof King]]
+* Olof King
 * [[Performers/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Kristin Firth|Kristin Firth]]
@@ -127,11 +127,11 @@ On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Perfor
 * [[Performers/Valerie Ward|Valerie Ward]]
 
 #### Crew
-* [[Kim Roche]]
+* Kim Roche
 * [[Performers/Mo Daviau|Mo Daviau]]
 * [[Performers/Neal Tibrewala|Neal Tibrewala]]
 * [[Performers/Todd Hart|Todd Hart]]
-* [[Wyatt Cargile]]
+* Wyatt Cargile
 
 ### 2011 Run
 #### Cast
@@ -154,7 +154,7 @@ On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Perfor
 #### Crew
 * [[Performers/Neal Tibrewala|Neal Tibrewala]]
 * [[Michael Yew]]
-* [[Katherine Greco]]
+* Katherine Greco
 * [[Performers/Cindy Page|Cindy Page]]
 
 ## Media
@@ -198,5 +198,5 @@ On 11/17/11, cast members [[Performers/Curtis Luciani|Curtis Luciani]], [[Perfor
 * [Review of a 2009 performance by *The Austin Statesman*.](http://www.hideouttheatre.com/statesman-review-for-charles-dickens-unleashed)
 * [Review of a 2009 performance by *The Austin Chronicle*.](http://www.austinchronicle.com/arts/2010-01-01/933531/)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

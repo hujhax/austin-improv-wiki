@@ -15,16 +15,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ben Bazan">Ben Bazan</a></li><!--
+  --><li style="">Ben Bazan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Dustin Finkelstein">Dustin Finkelstein</a></li><!--
+  --><li style="">Dustin Finkelstein</li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
-  --><li style="" ><a class="internal-link" href="Robert Moncrieff">Robert Moncrieff</a></li><!--
-  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
+  --><li style="">Naomi Perryman</li><!--
+  --><li style="" >Robert  Moncrieff</li><!--
+  --><li style="">Steve  Moore</li><!--
   --><!--
   --><!--
   --><!--
@@ -82,4 +82,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

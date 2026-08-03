@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
-  --><li style=""><a class="internal-link" href="Evan T. Atherton">Evan T. Atherton</a></li><!--
-  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
-  --><li style=""><a class="internal-link" href="Linsdey Reeves">Linsdey Reeves</a></li><!--
+  --><li style="">Evan T. Atherton</li><!--
+  --><li style="">Gary Richardson</li><!--
+  --><li style="">Linsdey Reeves</li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Anticdotes is the newest improv troupe to be created out of [[Gnap! Theater Projects]]. Comprised of an all-star cast of students from [[The MerlinWorks Institute of Improvisation]], Anticdotes plays with an explosive, high-risk style that explores physical movement. </blockquote>
+Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Anticdotes is the newest improv troupe to be created out of [[Gnap! Theater Projects]]. Comprised of an all-star cast of students from The MerlinWorks Institute of Improvisation, Anticdotes plays with an explosive, high-risk style that explores physical movement. </blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Right now, we use the audience's suggestion to run a series of freezes that then inspire a montage (flowy) of scenes. 

@@ -88,5 +88,5 @@ Current cast members are [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Heidi 
 ### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.608175565870609.1073741848.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 6/27/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

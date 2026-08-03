@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***The Violet Underbelly*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] which presented narrative longform inspired by [[Wikipedia - Film noir|film noir]].
+***The Violet Underbelly*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] which presented narrative longform inspired by film noir.
 
 ## Summary
 The director deliberately steered the show away from the traditional, wackier signifiers of film noir -- the gumshoes, the voiceover, and the heightened language that often serves to poke fun at the genre -- and aimed for a grittier tone that was truer to the actual source material.
@@ -172,5 +172,5 @@ After its main run, the show was performed once at [[Festivals/The 2011 Improvis
 ## More Information
 * [The show's facebook site.](http://www.hideouttheatre.com/shows/thevioletunderbelly)
 
-[[Category/Shows|Violet Underbelly]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Violet Underbelly
+Category:The Hideout Theatre

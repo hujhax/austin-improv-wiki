@@ -23,15 +23,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
+  --><li style="">Adam Trabka</li><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style="">Chaz Formichella</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a></li><!--
+  --><li style="">Courtney Sevener</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
-  --><li style="" ><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
+  --><li style="" >Jessica Hamilton</li><!--
   --><!--
   --><!--
   --><!--
@@ -85,7 +85,7 @@
 ***Slaughter Your Shorts*** was an improvised mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## Summary
-The show was a longform genre mash-up between a 90s summer camp sitcom (such as *[[Wikipedia - Salute Your Shorts|Salute Your Shorts]]*) and 80s slasher movies.  It featured live blood effects, and provided free ponchos to audience members in the front row. (The same blood effects were later employed in *[[Shows/Indy Movies|Indy Movies]]*.) 
+The show was a longform genre mash-up between a 90s summer camp sitcom (such as *Salute Your Shorts*) and 80s slasher movies.  It featured live blood effects, and provided free ponchos to audience members in the front row. (The same blood effects were later employed in *[[Shows/Indy Movies|Indy Movies]]*.) 
 
 Its tagline was: "A killer is on the loose at Camp Anawanna. Will anyone survive the night?"
 
@@ -103,4 +103,4 @@ It ran Saturdays in October 2011 at 8:30pm.  There was one encore performance on
 * [Announcement of the finale](http://forum.austinimprov.com/viewtopic.php?f=2&t=12422) on [[The Austin Improv Forums]].
 * [Announcement of the encore performance](http://forum.austinimprov.com/viewtopic.php?t=12721&p=114671) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

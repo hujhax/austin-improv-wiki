@@ -30,33 +30,33 @@ The theater was founded by the former staff, faculty, and performers of The New 
 
 ## Shows
 ### Improv Shows
-* *[[Fuck This Week]]*
-* *[[Basement Brawl]]*
+* *Fuck This Week*
+* *Basement Brawl*
 * *[[Shows/The Megaphone Show|The Megaphone Show]]*
 
 ### Sketch Shows
-* *[[The Neighborhood]]*
+* *The Neighborhood*
 
 ### Stand-Up and Variety Shows
-* *[[Playpen]]*
-* *[[Sandbox with Rob Gagnon]]*
-* *[[Voice Over-Rated]]*
-* *[[Fuck Marry Kill]]*
+* *Playpen*
+* *Sandbox with Rob Gagnon*
+* *Voice Over-Rated*
+* *Fuck Marry Kill*
 
 
 #### Improv Teams
-* *[[Garage]]*
-* *[[Good Fight]]*
+* *Garage*
+* *Good Fight*
 * *[[Troupes/Lucky Billy|Lucky Billy]]*
 
 ### Mainstage Productions
 In this context, "Mainstage Productions" means weekly themed shows with one- or two-month runs.
-* *[[Hail to the Queen]]*
-* *[[Super Black]]*
-* *[[Funny Ladies of Wrestling (FLOW)]]*
-* *[[Terminator -  The Musical]]*
-* *[[Psychosphere]]*
-* *[[Clone Squad]]*
+* *Hail to the Queen*
+* *Super Black*
+* *Funny Ladies of Wrestling (FLOW)*
+* *Terminator: The Musical*
+* *Psychosphere*
+* *Clone Squad*
 
 ### Inactive Teams/Past Shows
 #### Themed Troupe Shows
@@ -65,4 +65,4 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 ### Videos
 ## Media
 * [Article about the controversy which led to the shutdown of The New Movement Austin and formation of Fallout Theater](http://splitsider.com/2018/01/sexual-misconduct-allegations-have-put-the-future-of-new-orleans-and-austins-new-movement-theaters-in-doubt/) in Splitsider.
-[[Category/Theatres|Category:Theatres]]
+Category:Theatres

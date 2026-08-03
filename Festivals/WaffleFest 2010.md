@@ -9,7 +9,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 * [[Troupes/Achatina Achatina!|Achatina Achatina!]]
 * [[Theatres/ColdTowne|ColdTowne]]
 * [[Troupes/Confidence Men|Confidence Men]]
-* [[Ctrl Alt Delight]]
+* Ctrl Alt Delight
 * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 * [[Troupes/Delta Burka|Delta Burka]]
 * [[Troupes/Florida Room|Florida Room]]
@@ -18,13 +18,13 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 * [[Troupes/GigglePants|GigglePants]]
 * [[Troupes/Girl Embassy World Team|Girl Embassy World Team]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-* [[Glamping Trip]]
+* Glamping Trip
 * [[Troupes/Improv For Evil|Improv For Evil]]
 * [[Theatres/The Institution Theater|The Institution Theater]]
 * [[Troupes/The Intentions|The Intentions]]
 * [[Troupes/Junk|Junk]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
-* [[Louder Than Words]]
+* Louder Than Words
 * [[Troupes/Midnight Society|Midnight Society]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 * [[Troupes/Sarah 7|Sarah 7]]
@@ -36,4 +36,4 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 
 ## More Information
 * [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?t=11204) on [[The Austin Improv Forums]].
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

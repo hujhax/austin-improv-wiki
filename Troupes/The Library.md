@@ -98,5 +98,5 @@ The troupe began as a *[[Shows/Free Fringe|Free Fringe]]* one-off on 2/9/12.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203172527696782.1073741921.1315383518&type=3) by [[Michael Yew]] that includes their 12/18/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Library]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Started as a Fringe Show|Library]]

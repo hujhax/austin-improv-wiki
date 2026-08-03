@@ -21,4 +21,4 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 
 ## More Information
 * [Announcement about the festival](http://forum.austinimprov.com/viewtopic.php?t=81&p=285) on [[The Austin Improv Forums]].
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

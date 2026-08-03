@@ -38,4 +38,4 @@
 * *[[Shows/TheatreSports|TheatreSports]]* (2014)
 
 [[Category/Performers|Iseman]]
-[[Category/Active|Iseman]]
+Iseman

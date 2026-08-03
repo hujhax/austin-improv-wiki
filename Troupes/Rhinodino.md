@@ -153,5 +153,5 @@ Rhinodino is the joining of 4 friends who love shortform and exploring games in 
 * [Their facebook page.](http://www.facebook.com/rhinodinorhinodino)
 * Shows always posted on Do512.com (Search Rhinodino)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

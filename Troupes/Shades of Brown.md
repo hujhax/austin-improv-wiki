@@ -19,15 +19,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adan Gutierrez">Adan Gutierrez</a></li><!--
+  --><li style="">Adan Gutierrez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Erica Sanchez">Erica Sanchez</a></li><!--
+  --><li style="">Erica Sanchez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Jiovani Galo">Jiovani Galo</a></li><!--
-  --><li style=""><a class="internal-link" href="Luis Zertuche">Luis Zertuche</a></li><!--
-  --><li style=""><a class="internal-link" href="Mateo Giles">Mateo Giles</a></li><!--
-  --><li style=""><a class="internal-link" href="Monica Ybarra-Torres">Monica Ybarra-Torres</a></li><!--
-  --><li style="" ><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style="">Jiovani Galo</li><!--
+  --><li style="">Luis Zertuche</li><!--
+  --><li style="">Mateo Giles</li><!--
+  --><li style="">Monica Ybarra-Torres</li><!--
+  --><li style="" >Sandra Ybarra</li><!--
   --><!--
   --><!--
   --><!--
@@ -97,4 +97,4 @@ This is their bio from their facebook page:
 * [The troupe's facebook page.](http://www.facebook.com/SOBimprov)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

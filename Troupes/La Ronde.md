@@ -20,11 +20,11 @@
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
-  --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
-  --><li style=""><a class="internal-link" href="Mike Faerber">Mike Faerber</a></li><!--
+  --><li style="">Justin York</li><!--
+  --><li style="">Leah Moss</li><!--
+  --><li style="">Mike Faerber</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Nathan Livni">Nathan Livni</a></li><!--
-  --><li style=""><a class="internal-link" href="Tej Ludher">Tej Ludher</a></li><!--
+  --><li style="">Tej Ludher</li><!--
   --><!--
   --><!--
   --><!--

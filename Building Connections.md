@@ -19,11 +19,11 @@ The following improvisers have all served as co-teachers for the program.
 * [[Performers/Luke Wallens|Luke Wallens]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 * [[Performers/Sam Schak|Sam Schak]]
-* [[Zac Carr]]
+* Zac Carr
 * [[Performers/Joy Parks|Joy Parks]]
-* [[Lori Hobbie]]
+* Lori Hobbie
 * [[Performers/Sunaina Suhag|Sunaina Suhag]]
-* [[Mason Pitluk]]
+* Mason Pitluk
 
 ### Classes for Homeless Youth
 The Building Connections classes for homeless youth were originally taught by [[Performers/Lacy Shawn|Lacy Shawn]] and [[Performers/Bridget Brewer|Bridget Brewer]].  When Bridget moved to Providence, RI for graduate school, [[Performers/Luke Wallens|Luke Wallens]] replaced Bridget.
@@ -34,7 +34,7 @@ The following improvisers have all served as co-teachers for the program.
 * [[Performers/Theo Daley|Theo Daley]]
 * [[Performers/Manuel Duran|Manuel Duran]]
 * [[Performers/Tim Coyle|Tim Coyle]]
-* [[Bonnie Dibler]]
+* Bonnie Dibler
 
 ## History
 After a meeting with local AIC improvisers [[Performers/Luke Wallens|Luke Wallens]], [[Performers/Sam Schak|Sam Schak]], [[Performers/Chris Albano|Chris Albano]], and [[Performers/Bridget Brewer|Bridget Brewer]], the Special Needs Improv Program (later dubbed Building Connections) was created by Social Worker and improviser [[Performers/Lacy Shawn|Lacy Shawn]] and [[Theatres/The Hideout Theater|The Hideout Theater]]'s Children's Programs Coordinator, [[Performers/Jessica Arjet|Jessica Arjet]].

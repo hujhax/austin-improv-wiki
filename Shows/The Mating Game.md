@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***The Mating Game*** (sometimes listed as ***The Dating Game***) was a live game show based on [[Wikipedia - The Dating Game|the TV show of the same title]].
+***The Mating Game*** (sometimes listed as ***The Dating Game***) was a live game show based on the TV show of the same title.
 
 ## Summary
 The show ran Thursday nights at 8:30pm at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in February 2013.
@@ -35,4 +35,4 @@ The show ran Thursday nights at 8:30pm at [[Theatres/Coldtowne Theater|Coldtowne
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/events/the-mating-game-4)
 
-[[Category/Shows|Mating]]
+Mating

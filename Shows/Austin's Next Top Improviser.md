@@ -59,35 +59,35 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 
 ### Casts
 * 8/28/09:
-	* [[Abbas Amirabadi]]
-	* [[Andrew Grissom]]
-	* [[Elizabeth Hack]]
-	* [[Jen Spencer]]
-	* [[Jessica Salinas]]
+	* Abbas Amirabadi
+	* Andrew Grissom
+	* Elizabeth Hack
+	* Jen Spencer
+	* Jessica Salinas
 	* [[Performers/Jon Bolden|Jon Bolden]]
 	* Hosted by [[Performers/Shana Merlin|Shana Merlin]].
-	* Sound by [[Joshua Bush]].
+	* Sound by Joshua Bush.
 * 9/11/09:
-	* [[David Harper]]
+	* David Harper
 	* [[Performers/Ed Melendez|Ed Melendez]]
 	* [[Performers/Eric Heiberg|Eric Heiberg]]
 	* [[Performers/Jon Bolden|Jon Bolden]]
-	* [[Katie Gill]]
+	* Katie Gill
 	* [[Performers/Meghan Wolff|Meghan Wolff]]
 	* Hosted by [[Performers/Erin Molson|Erin Molson]].
 	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
-	* Sound by [[Joshua Bush]].
+	* Sound by Joshua Bush.
 * 9/25/09:
-	* [[Andrew Grissom]]
+	* Andrew Grissom
 	* [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
-	* [[Elizabeth Hack]]
+	* Elizabeth Hack
 	* [[Performers/Eric Heiberg|Eric Heiberg]]
 	* [[Performers/Jen Kaplan|Jen Kaplan]]
 	* [[Performers/Kristin Firth|Kristin Firth]]
-	* Sound by [[Joshua Bush]].
+	* Sound by Joshua Bush.
 * 10/9/09:
-	* [[David Harper]]
-	* [[Gary Richardson]]
+	* David Harper
+	* Gary Richardson
 	* [[Performers/Gene Joe|Gene Joe]]
 	* [[Performers/Jen Kaplan|Jen Kaplan]]
 	* [[Performers/Jon Bolden|Jon Bolden]]
@@ -95,11 +95,11 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 	* Hosted by [[Performers/Erin Molson|Erin Molson]].
 	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
 * 11/13/09:
-	* [[Abbas Amirabadi]]
+	* Abbas Amirabadi
 	* [[Performers/Ed Melendez|Ed Melendez]]
-	* [[Jonathan Euseppi]]
+	* Jonathan Euseppi
 	* [[Performers/Justin Davis|Justin Davis]]
-	* [[Katie Gill]]
+	* Katie Gill
 	* [[Performers/Lindsey Reeves|Lindsey Reeves]]
 	* Hosted by [[Performers/Erin Molson|Erin Molson]].
 	* Coached by [[Performers/Shana Merlin|Shana Merlin]].
@@ -118,4 +118,4 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
 * [A call for show taglines](http://forum.austinimprov.com/viewtopic.php?t=7973) on [[The Austin Improv Forums]].
 * [Facebook event](http://www.facebook.com/events/221743358427/) for the 12/11/09 show.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

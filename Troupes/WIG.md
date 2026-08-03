@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Wendy Eickstaedt">Wendy Eickstaedt</a></li><!--
-  --><li style=""><a class="internal-link" href="Caroline Gorman">Caroline Gorman</a></li><!--
-  --><li style=""><a class="internal-link" href="Christina Keller">Christina Keller</a></li><!--
-  --><li style=""><a class="internal-link" href="Karlie Lemos">Karlie Lemos</a></li><!--
-  --><li style=""><a class="internal-link" href="Tamara Warton">Tamara Warton</a></li><!--
-  --><li style=""><a class="internal-link" href="Monica Wells">Monica Wells</a></li><!--
-  --><li style=""><a class="internal-link" href="Amanda Wischkaemper">Amanda Wischkaemper</a></li><!--
+  --><li style="">Wendy Eickstaedt</li><!--
+  --><li style="">Caroline Gorman</li><!--
+  --><li style="">Christina Keller</li><!--
+  --><li style="">Karlie Lemos</li><!--
+  --><li style="">Tamara Warton</li><!--
+  --><li style="">Monica Wells</li><!--
+  --><li style="">Amanda Wischkaemper</li><!--
   --><!--
   --><!--
   --><!--
@@ -80,6 +80,6 @@ The group is regularly coached by [[Performers/Nicole Oliver|Nicole Oliver]], wi
 ### Press Blurb
 "We use narrative intertwined with audience suggestions (secrets, real or created.) Our range of careers, experience and imagination sparks both depth and breadth into each character. A combination of both playful and realistic, audiences will delight in the form and the stories we create. Snuggle up with a tasty snack and drink, and get comfy! It’s storytime!"
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

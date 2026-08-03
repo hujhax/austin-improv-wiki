@@ -12,7 +12,7 @@ This **List of Institution Theater Shows** is designed to be transcluded into an
 
 ### Mainstage Productions
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*
-* *[[Bitterfest]]*
+* *Bitterfest*
 * *[[Shows/Boys of Summer|Boys of Summer]]*
 * *[[Shows/Buzz Band|Buzz Band]]*
 * *[[Shows/Danger|Danger]]*

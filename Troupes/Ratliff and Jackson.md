@@ -100,7 +100,7 @@ Ratliff and Jackson headlined *[[Shows/The Threefer|The Threefer]]* in September
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/RatliffandJackson)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
 [[Category/John Ratliff Duos|Category:John Ratliff Duos]]

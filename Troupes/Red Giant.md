@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andy Petruzzo">Andy Petruzzo</a></li><!--
+  --><li style="">Andy Petruzzo</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
+  --><li style="">David Hess</li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Julia Kirchen">Julia Kirchen</a></li><!--
+  --><li style="">Julia Kirchen</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
+  --><li style="">Stephanie Russo</li><!--
+  --><li style="">Teresa Kubos</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Red Giant is [[Performers/Josh Krilov|Josh Krilov]], [[Andy Petruzzo]], [[David Hess]], [[Julia Kirchen]], [[Stephanie Russo]], [[Teresa Kubos York]], [[Performers/Chris Baldenhofer|Chris Baldenhofer]], [[Performers/Kyle Sweeney|Kyle Sweeney]]. The super group focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play. DO NOT MISS THE RED GIANT!!!</blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Red Giant is [[Performers/Josh Krilov|Josh Krilov]], Andy Petruzzo, David Hess, Julia Kirchen, Stephanie Russo, Teresa Kubos York, [[Performers/Chris Baldenhofer|Chris Baldenhofer]], [[Performers/Kyle Sweeney|Kyle Sweeney]]. The super group focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play. DO NOT MISS THE RED GIANT!!!</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The super group known as Red Giant focuses on heightening and exploring three base scenes and worlds which are then augmented with additional beats/pop outs to help further dissect their own ideas, notions and creations. A large physical presence helps infuse the shows with big energy and a genuine sense of improv play.</blockquote>

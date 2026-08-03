@@ -19,14 +19,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Briana Mckeague">Briana Mckeague</a></li><!--
-  --><li style=""><a class="internal-link" href="Carrie Pinkstaff">Carrie Pinkstaff</a></li><!--
+  --><li style="">Briana Mckeague</li><!--
+  --><li style="">Carrie Pinkstaff</li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Guy Vizard">Guy Vizard</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Richter">Katie Richter</a></li><!--
+  --><li style="">Guy Vizard</li><!--
+  --><li style="">Katie Richter</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
+  --><li style="">Laura Komkov</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
@@ -82,25 +82,25 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Freaks and Geeks*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Freaks and Geeks|*Freaks and Geeks*]] episode [[Wikipedia - List of Freaks and Geeks episodes|"Beers and Weirs"]]
+***Live TV Tuesdays: Freaks and Geeks*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *Freaks and Geeks* episode "Beers and Weirs"
 
 ## History
 After finishing the run of *Freaks and Geeks*, [[Performers/Katie Thornton|Katie Thornton]], [[Performers/Lindsey Reeves|Lindsey Reeves]], and [[Performers/Wyatt Tall|Wyatt Tall]] would go on to reprise their characters in a couple of one-off performances called "GeekProv".
 
 ## Cast
-* Lindsay Weir -- [[Katie Richter]]
+* Lindsay Weir -- Katie Richter
 * Sam Weir -- [[Performers/Katie Thornton|Katie Thornton]]
 * Daniel Desario -- [[Performers/Kyle Traughber|Kyle Traughber]]
 * Neil Schweiber -- [[Performers/Lindsey Reeves|Lindsey Reeves]]
-* Ken Miller -- [[Guy Vizard]]
+* Ken Miller -- Guy Vizard
 * Nick Andopolis -- [[Performers/Peter Rogers|Peter Rogers]]
 * Bill Haverchuck -- [[Performers/Wyatt Tall|Wyatt Tall]]
-* Kim Kelly -- [[Carrie Pinkstaff]]
+* Kim Kelly -- Carrie Pinkstaff
 * Harold Weir -- [[Performers/Dave Buckman|Dave Buckman]]
 * Jean Weir -- [[Performers/Sam Schak|Sam Schak]]
 * Mr. Rosso -- [[Performers/Michael Jastroch|Michael Jastroch]]
-* Millie Kentner -- [[Laura Komkov]]
-* Cindy Sanders -- [[Briana Mckeague]]
+* Millie Kentner -- Laura Komkov
+* Cindy Sanders -- Briana Mckeague
 * Harris Trinsky -- [[Performers/Mitchell Deane|Mitchell Deane]]
 
 ## Media
@@ -110,4 +110,4 @@ After finishing the run of *Freaks and Geeks*, [[Performers/Katie Thornton|Katie
 * [Performance photoset](http://www.facebook.com/media/set/?set=a.3028863043328.119217.1315383518&type=1) by [[Michael Yew]].
 * [Photoset of the 3/6/12 performance](http://www.facebook.com/media/set/?set=a.366395980048570.84950.100000345135257&type=1) by [[Performers/Claudio Fox|Claudio Fox]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4125388415777.142093.1315383518&type=3) by [[Michael Yew]] which includes the 1/17/13 "GeekProv" performance in *[[Shows/The TV Set|The TV Set]]*.
-[[Category/Shows|Category:Shows]]
+Category:Shows

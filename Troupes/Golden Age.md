@@ -17,13 +17,13 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
-  --><li style=""><a class="internal-link" href="Cody Greenlee">Cody Greenlee</a></li><!--
-  --><li style=""><a class="internal-link" href="Dave Michaels">Dave Michaels</a></li><!--
-  --><li style=""><a class="internal-link" href="Jake Milward">Jake Milward</a></li><!--
-  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style="">Cody Greenlee</li><!--
+  --><li style="">Dave Michaels</li><!--
+  --><li style="">Jake Milward</li><!--
+  --><li style="">Joseph Dailey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style="" ><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
+  --><li style="" >Will Casto</li><!--
   --><!--
   --><!--
   --><!--

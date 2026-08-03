@@ -14,18 +14,18 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Matthew Arisheh Falkenberg">Matthew Arisheh Falkenberg</a></td>
+			<td class="category">Matthew Arisheh Falkenberg</td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
-  --><li style=""><a class="internal-link" href="Matthew Arisheh Falkenberg">Matthew Arisheh Falkenberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
+  --><li style="">Matthew Arisheh Falkenberg</li><!--
+  --><li style="">Ali Meier</li><!--
   --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
-  --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
-  --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
-  --><li style=""><a class="internal-link" href="Ripley Adams">Ripley Adams</a></li><!--
+  --><li style="">Carl Ziegler</li><!--
+  --><li style="">Barrett Phelan</li><!--
+  --><li style="">Ripley Adams</li><!--
   --><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 </div>
 
 ## Summary
-**The Special Features** is an improv troupe, started by [[Matthew Arisheh Falkenberg]], to perform fully unscripted never before seen improvised movies.
+**The Special Features** is an improv troupe, started by Matthew Arisheh Falkenberg, to perform fully unscripted never before seen improvised movies.
 
 ## History
 The Special Features have played at [[Theatres/The Hideout Theatre|The Hideout Theatre]] and [[Theatres/Coldtowne Theater|Coldtowne Theater]].
@@ -84,4 +84,4 @@ The Special Features have played at [[Theatres/The Hideout Theatre|The Hideout T
 * [Photoset](http://www.facebook.com/media/set/?set=a.711642818899237.1073741980.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/3/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Special Features]]
-[[Category/Active|Special Features]]
+Special Features

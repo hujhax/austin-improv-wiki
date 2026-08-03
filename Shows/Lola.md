@@ -78,10 +78,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brandon Salinas">Brandon Salinas</a></li><!--
+  --><li style="">Brandon Salinas</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
+  --><li style="">Kerri Lendo</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a> (sound design)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Lola*** was a mainstage improv show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].  It was loosely inspired by *[[Wikipedia - Run Lola Run|Run Lola Run]]*.
+***Lola*** was a mainstage improv show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].  It was loosely inspired by *Run Lola Run*.
 
 ## Summary
 The show improvised the same narrative three times, with three radically different outcomes based on slight changes in causal incidents. 
@@ -155,4 +155,4 @@ The show improvised the same narrative three times, with three radically differe
 ## More Information
 * [Facebook event for the premiere.](http://www.facebook.com/events/58633645986/)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

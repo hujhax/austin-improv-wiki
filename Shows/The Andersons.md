@@ -22,13 +22,13 @@
   --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dav Wallace">Dav Wallace</a></li><!--
-  --><li style=""><a class="internal-link" href="Deana Ricks">Deana Ricks</a></li><!--
+  --><li style="">Deana Ricks</li><!--
   --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
+  --><li style="">Indigo Rael</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style="">Justin York</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
@@ -97,7 +97,7 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * Madge Miller -- [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]]
 * Mitch Miller -- [[Performers/Jason Vines|Jason Vines]]
 * Mr. Cooper -- [[Performers/Roy Janik|Roy Janik]]
-* Ensemble -- [[Performers/Curtis Luciani|Curtis Luciani]], [[Performers/Dav Wallace|Dav Wallace]], [[Deana Ricks]], [[Indigo Rael]], [[Performers/Jared Stepp|Jared Stepp]], [[Justin York]], [[Performers/Kacey Samiee|Kacey Samiee]], [[Performers/Valerie Ward|Valerie Ward]]
+* Ensemble -- [[Performers/Curtis Luciani|Curtis Luciani]], [[Performers/Dav Wallace|Dav Wallace]], Deana Ricks, Indigo Rael, [[Performers/Jared Stepp|Jared Stepp]], Justin York, [[Performers/Kacey Samiee|Kacey Samiee]], [[Performers/Valerie Ward|Valerie Ward]]
 
 ## Media
 ### Photos
@@ -123,5 +123,5 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * [The audition announcement.](http://www.hideouttheatre.com/andersons_auditions)
 * [Announcement of their Christmas show.](http://www.hideouttheatre.com/christmas-with-the-andersons)
 
-[[Category/Shows|Andersons]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Andersons
+Category:The Hideout Theatre

@@ -25,65 +25,65 @@
 The troupe performs every two Friday, and has been the starting point for many local improvisors.  They rock.
 
 ## History
-Gigglepants was founded in the fall of 2003 by [[Performers/Bryan Cruz|Bryan Cruz]], [[Thai Le]], and [[Tom Glinkowski]]. Alums of [[Troupes/ComedySportz|ComedySportz]] High School League in Houston, the troupe is named after their mutual coach Chris "Chim Chim Gigglepants" Craig.
+Gigglepants was founded in the fall of 2003 by [[Performers/Bryan Cruz|Bryan Cruz]], Thai Le, and Tom Glinkowski. Alums of [[Troupes/ComedySportz|ComedySportz]] High School League in Houston, the troupe is named after their mutual coach Chris "Chim Chim Gigglepants" Craig.
 
 The troupe started performing in the spring semester of 2004.
 
 ## Current Cast
-* [[Ricci Valice]]
-* [[Fran Ghizzoni]]
-* [[Kaci Pelias]]
-* [[Erik Martinez]]
-* [[Brandt Taylor]]
-* [[Ellen Lang]]
-* [[Siddharth Desai]]
-* [[Claire Hardwick]]
-* [[Jay O'Bryant]]
-* [[Jill Young]]
-* [[Caroline Beagles]]
-* [[Juan Leyva]]
-* [[Cassidy Kaye]]
-* [[Harrison Xue]]
-* [[Sindhu Raju]]
-* [[Christian Soenen]]
-* [[Rebecca East]]
-* [[Sarah Farris]]
-* [[William Hahn]]
-* [[Patrick Greer]]
+* Ricci Valice
+* Fran Ghizzoni
+* Kaci Pelias
+* Erik Martinez
+* Brandt Taylor
+* Ellen Lang
+* Siddharth Desai
+* Claire Hardwick
+* Jay O'Bryant
+* Jill Young
+* Caroline Beagles
+* Juan Leyva
+* Cassidy Kaye
+* Harrison Xue
+* Sindhu Raju
+* Christian Soenen
+* Rebecca East
+* Sarah Farris
+* William Hahn
+* Patrick Greer
 * [[Performers/Andrew Stier|Andrew Stier]]
 
 ## Original Cast
-* [[Brandon Stackhouse]]
+* Brandon Stackhouse
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Performers/Bryan Cruz|Bryan Cruz]]
-* [[Connor McGee]]
-* [[David Toscano]]
-* [[Jason Dunkelberger]]
-* [[Major Hoffman]]
-* [[Shawn Davis]]
-* [[Sylvia Ortiz]]
-* [[Thai Le]]
-* [[Tom Glinkowski]]
+* Connor McGee
+* David Toscano
+* Jason Dunkelberger
+* Major Hoffman
+* Shawn Davis
+* Sylvia Ortiz
+* Thai Le
+* Tom Glinkowski
 
 ## Notable Alums
-* [[Alex Hunt]]
+* Alex Hunt
 * [[Performers/Bryan Cruz|Bryan Cruz]]
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Performers/Cody Melcher|Cody Melcher]]
 * [[Performers/Colin Thomas Bates|Colin Thomas Bates]]
-* [[David Toscano]]
-* [[Jon Cozart]]
-* [[Kim Espinosa]]
+* David Toscano
+* Jon Cozart
+* Kim Espinosa
 * [[Performers/Kyle Traughber|Kyle Traughber]]
 * [[Performers/Meghan Wolff|Meghan Wolff]]
-* [[Miachel Pruett]]
-* [[Michael Bird]]
-* [[Michael Domangue]]
+* Miachel Pruett
+* Michael Bird
+* Michael Domangue
 * [[Performers/Nicholas Marino|Nicholas Marino]]
 * [[Performers/Patrick Creamer|Patrick Creamer]]
 * [[Performers/Quinn Buckner|Quinn Buckner]]
-* [[Thai Le]]
-* [[Tom Glinkowski]]
+* Thai Le
+* Tom Glinkowski
 * [[Performers/Yamina Khouane|Yamina Khouane]]
 
 ## N00B clue
@@ -106,5 +106,5 @@ is on the Noob Show FB event
 * [Photoset](http://www.facebook.com/media/set/?set=a.844355352294649.1073742112.221927764537414&type=3) by [[Steve Rogers]] that includes their 11/20/14 performance in [[Festivals/WaffleFest 2014|WaffleFest 2014]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204805641883616.1073741964.1315383518&type=3) by [[Michael Yew]] the includes their 9/2/15 show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

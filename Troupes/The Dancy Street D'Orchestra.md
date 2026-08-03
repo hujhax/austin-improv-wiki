@@ -84,7 +84,7 @@ After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]]
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/10899146) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/9/10 performance at [[The Lair]].
+* [Video](http://vimeo.com/10899146) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/9/10 performance at The Lair.
 * [Video](http://vimeo.com/17806209) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/6/10 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Video](http://vimeo.com/16893567) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/15/10 performance at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 * [Video](http://vimeo.com/17089776) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/19/10 performance at [[Festivals/Wafflefest|Wafflefest]].
@@ -98,8 +98,8 @@ After the troupe was dissolved, [[Performers/Susannah Raulino|Susannah Raulino]]
 * [Video](http://vimeo.com/28875521) by [[Performers/Peter Rogers|Peter Rogers]] of their final show, their 9/1/11 performance at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.426328652264.201079.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from before and after their 4/2/10 performance at [[The Lair]].
-* [A casual photo](http://www.facebook.com/hujhax/media_set?set=a.432644602264.207692.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from before their 4/9/10 performance at [[The Lair]].
+* [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.426328652264.201079.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from before and after their 4/2/10 performance at The Lair.
+* [A casual photo](http://www.facebook.com/hujhax/media_set?set=a.432644602264.207692.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from before their 4/9/10 performance at The Lair.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/13/10 show in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1308342800540.2037332.1589679282&type=3) by [[Roy Moore]] that includes their 7/17/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1330574876328.2040082.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.

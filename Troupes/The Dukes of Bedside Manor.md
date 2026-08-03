@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
+  --><li style="">Hugo Vargas-Zesati</li><!--
   --><!--
   --><!--
   --><!--

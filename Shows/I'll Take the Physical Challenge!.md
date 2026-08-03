@@ -35,11 +35,11 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>Improvisors' physical and mental limits are stretched in this most extreme challenge show.  In the style of Japanese game shows like *[[Wikipedia - Downtown no Gaki no Tsukai ya Arahende!!|Gaki No Tsukai]]* and 80s American classics like *[[Wikipedia - Double Dare (Nickelodeon game show)|Double Dare]]*
+From the show announcement:<blockquote>Improvisors' physical and mental limits are stretched in this most extreme challenge show.  In the style of Japanese game shows like *Gaki No Tsukai* and 80s American classics like *Double Dare*
 </blockquote>
 
 ## More Information
 * [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/1001162679906836/) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

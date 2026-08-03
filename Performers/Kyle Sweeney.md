@@ -29,29 +29,29 @@ An avid improvisor, Kyle graduated from ColdTowne Conservatory in 2008 and since
 Always the class clown, Kyle made his way through university attaining both a B.S. in Professional Aviation and an MA in Speech-Theatre from the prestigious Louisiana Tech University. He moved to Austin in 2007 to pursue his career in comedy and filmmaking.
 
 ## IRL (In Real Life)
-Kyle is married to [[Julia Kirchen]]-Sweeney, and has two daughters [[Eva Marie Sweeney]] and [[Zoe Sweeney]]. They are a really cool family.
+Kyle is married to Julia Kirchen-Sweeney, and has two daughters Eva Marie Sweeney and Zoe Sweeney. They are a really cool family.
 
 Outside of performing, Kyle manages to stay pretty busy working in post-production for a local commercial agency- as well as creating comedy shorts, commercials, and jokes in what little freetime he cultivates.
 
 ## Troupes
 * [[Shows/Movie Riot|Movie Riot]]
-* [[The P! Company]]
+* The P! Company
 * [[Troupes/The Team|The Team]] 
 * [[Troupes/Murphy|Murphy]]
 * [[Troupes/Movie Meat|Movie Meat]]
 * [[Troupes/Red Giant|Red Giant]]
-* [[ThinkTank]]
+* ThinkTank
 * [[Troupes/LadyForms|LadyForms]]
-* [[Master Sweeney's Improv 101]]
+* Master Sweeney's Improv 101
 
 ## Shows
 * [[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]]
-* [[Star Force]]
-* [[The Morning Sausage]]
+* Star Force
+* The Morning Sausage
 * [[Shows/Indy Movies|Indy Movies]]
-* [[Oscar Bait]]
-* [[The Gordons]]
-* [[Thursday Night Social Club]]
-* [[The Night Show with Joshua Krilov]]
-* [[Midnight Society Presents]]
+* Oscar Bait
+* The Gordons
+* Thursday Night Social Club
+* The Night Show with Joshua Krilov
+* Midnight Society Presents
 [[Category/Performers|Category:Performers]]

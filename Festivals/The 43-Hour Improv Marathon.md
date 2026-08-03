@@ -52,7 +52,7 @@
 * Sunday 7am: [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * Sunday 8am: Student Show
 * Sunday 9am: *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
-* Sunday 10am: an improv show based on *[[Wikipedia - The Hunger Games|The Hunger Games]]*
+* Sunday 10am: an improv show based on *The Hunger Games*
 * Sunday 11am: Free-form improv from the core cast.
 
 ## Media
@@ -63,7 +63,7 @@
 
 ### Photos
 * [A photoset](http://www.facebook.com/Jonbolden/media_set?set=a.597112071223.2051376.76200304&type=3) by [[Performers/Jon Bolden|Jon Bolden]] of the pre-Marathon meeting at the Dog & Duck.
-* [Photoset](http://www.facebook.com/media/set/?set=a.3952167173802.162192.1568827741&type=3) from [[Anna Lattka]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.3952167173802.162192.1568827741&type=3) from Anna Lattka.
 * [Photoset](http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/) from [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset of hours 1-4](http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3) from [[Steve Rogers]].
 * [Photoset of hours 5-9](http://www.facebook.com/media/set/?set=a.3204199026618.122311.1315383518&type=3) from [[Michael Yew]].
@@ -84,5 +84,5 @@
 * [A story about the marathon](http://www.austinchronicle.com/arts/2012-06-01/the-43-hour-improv-marathon/) in *The Austin Chronicle*.
 * [A blog post prior to the marathon](http://blog.jonbolden.com/2012/43-hour-improv-marathon/) from [[Performers/Jon Bolden|Jon Bolden]].
 	* [A post from Jon](http://www.hideouttheatre.com/a-voice-of-concern) about the possible damage the marathon might potentially do to his voice.
-* [A blog post about the Hardcore Four](http://www.hideouttheatre.com/the-first-hardcore-four), audience members [[Ashley Lowe]], [[Amy Dietze]], [[Ryan Criswell]], and [[Performers/Cat Drago|Cat Drago]] who stayed for the entire 43 hours.
-[[Category/Festivals|Category:Festivals]]
+* [A blog post about the Hardcore Four](http://www.hideouttheatre.com/the-first-hardcore-four), audience members Ashley Lowe, Amy Dietze, Ryan Criswell, and [[Performers/Cat Drago|Cat Drago]] who stayed for the entire 43 hours.
+Category:Festivals

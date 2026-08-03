@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bethany Adams">Bethany Adams</a></li><!--
-  --><li style=""><a class="internal-link" href="Danny Goldstein">Danny Goldstein</a></li><!--
-  --><li style=""><a class="internal-link" href="Derick Fields">Derick Fields</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Dehn">Justin Dehn</a></li><!--
-  --><li style=""><a class="internal-link" href="Kenah Benefield">Kenah Benefield</a></li><!--
+  --><li style="">Bethany Adams</li><!--
+  --><li style="">Danny Goldstein</li><!--
+  --><li style="">Derick Fields</li><!--
+  --><li style="">Justin Dehn</li><!--
+  --><li style="">Kenah Benefield</li><!--
   --><!--
   --><!--
   --><!--
@@ -85,4 +85,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

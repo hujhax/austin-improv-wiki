@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
-  --><li style=""><a class="internal-link" href="Cole Spainhour">Cole Spainhour</a></li><!--
+  --><li style="">Cole Spainhour</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
@@ -81,7 +81,7 @@ The current members of ¡Zarzamora! are:
 * [[Performers/Brad Hawkins|Brad Hawkins]]
 * [[Performers/Kevin Miller|Kevin Miller]]
 * [[Troupes/Topping Haggerty|Topping Haggerty]]
-* [[Cole Spainhour]]
+* Cole Spainhour
 * [[Performers/Patrick Daniel|Patrick Daniel]] (member at large)
 
 Here is [[Performers/Chuy Zarate|Chuy Zarate]]'s explanation of the name's origin:<blockquote>Lampe and I had always wanted to try a duo together and we were discussing names while having some beers (go figure)... It is pretty common for The Oxymmorons to mention the street, Zarzamora when referencing San Antonio locales in shows. It has kind of become a running joke... Anyway, since we are both from SA and Oxy, we decided to name our duo, iZarzamora! Then we proceeded to invite other people to join. So much for our duo...  :D</blockquote>
@@ -120,5 +120,5 @@ The following upcoming festival appearances are scheduled:
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Zarzamora/126236170779574)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Zarzamora]]

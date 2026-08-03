@@ -74,19 +74,19 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
+  --><li style="">Barrett Phelan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
+  --><li style="">Emma Czarnecki</li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Ericka Bundy">Ericka Bundy</a></li><!--
+  --><li style="">Ericka Bundy</li><!--
   --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
-  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style="">Haley Alea Erickson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style="" ><a class="internal-link" href="Joshua Santo">Joshua Santo</a></li><!--
+  --><li style="" >Joshua Santo</li><!--
   --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
-  --><li style=""><a class="internal-link" href="Matthew Davis">Matthew Davis</a></li><!--
+  --><li style="">Matthew Davis</li><!--
   --><!--
   --><!--
   --><!--
@@ -198,7 +198,7 @@ The show included over-the-top 70s costumes and many fake moustaches.
 ## History
 The name "Cochise" is a reference to a character in the Beastie Boys video "Sabotage", which traffics in the same genre as the improv show.
 
-The show premiered at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]], and then ran as [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of [[Frontera Fest]] from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
+The show premiered at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]], and then ran as [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s mainstage show from 11/29/08 to 12/20/08.  After that, it played at the Long Fringe of Frontera Fest from 1/21/09 to 1/31/09, the first improv show to play the festival.  Since then, it has played a smattering of other dates, including an appearance at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 It returned in 2014 for a June/July run as one of the first [[Hideout Student Mainstage]] shows.
 
@@ -213,14 +213,14 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 
 #### Student Mainstage Run
 ![[Cochise2014.jpg|Poster for the student-mainstage run of *Cochise*.]]
-* [[Barrett Phelan]]
-* [[Emma Czarnecki]]
-* [[Ericka Bundy]]
+* Barrett Phelan
+* Emma Czarnecki
+* Ericka Bundy
 * [[Performers/Greg Blank|Greg Blank]]
-* [[Haley Alea Erickson]]
-* [[Joshua Santo]]
+* Haley Alea Erickson
+* Joshua Santo
 * [[Performers/Manuel Duran|Manuel Duran]]
-* [[Matthew Davis]]
+* Matthew Davis
 
 ### Frontera Fest Show Dates
 * January 21st, 2009 at 7:30pm 
@@ -248,8 +248,8 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s 2008 set design.
 
 ## More Information
-* [The announcement of the dates](http://forum.austinimprov.com/viewtopic.php?p=72523) for [[Frontera Fest]] on [[The Austin Improv Forums]].
+* [The announcement of the dates](http://forum.austinimprov.com/viewtopic.php?p=72523) for Frontera Fest on [[The Austin Improv Forums]].
 * [Article in *The Austin Chronicle* about the show.](http://www.austinchronicle.com/arts/2008-11-28/707074/)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

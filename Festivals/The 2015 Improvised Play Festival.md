@@ -12,7 +12,7 @@ It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Perfor
 * *[[Shows/The Dahl House|The Dahl House]]*
 * [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
 * [[Troupes/The Escorts|The Escorts]]
-* *[[The Fitzgeralds Save the World]]*
+* *The Fitzgeralds Save the World*
 * *[[Shows/Golden (mainstage)|Golden]]*
 * The Half-Written Play, a Physical Plant Theater & [[Performers/Jon Bolden|Jon Bolden]] Project
 * *[[Shows/Hurly Burly|Hurly Burly]]*
@@ -37,7 +37,7 @@ It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Perfor
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.939384229458427.1073742178.221927764537414&type=3) by [[Steve Rogers]] of "Jinni Lyons is an Only Child" (4/9/15).
 * [Photoset](http://www.facebook.com/media/set/?set=a.940624079334442.1073742179.221927764537414&type=3) by [[Steve Rogers]] of the Black Lodge (4/10/15).
-* [Photoset](http://www.facebook.com/media/set/?set=a.940701185993398.1073742180.221927764537414&type=3) by [[Steve Rogers]] of "It's Not You, It's Me," featuring [[Theo Dailey]] and [[Performers/Aspen Webster|Aspen Webster]] (4/10/15).
+* [Photoset](http://www.facebook.com/media/set/?set=a.940701185993398.1073742180.221927764537414&type=3) by [[Steve Rogers]] of "It's Not You, It's Me," featuring Theo Dailey and [[Performers/Aspen Webster|Aspen Webster]] (4/10/15).
 * [Photoset](http://www.facebook.com/media/set/?set=a.940852415978275.1073742181.221927764537414&type=3) by [[Steve Rogers]] of [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] in "Box and String" (4/10/15).
 * [Photoset](http://www.facebook.com/media/set/?set=a.941350029261847.1073742182.221927764537414&type=3) by [[Steve Rogers]] of [[Troupes/Golden|Golden]] (4/11/15).
 * [Photoset](http://www.facebook.com/media/set/?set=a.941955962534587.1073742183.221927764537414&type=3) by [[Steve Rogers]] of [[Troupes/Confidence Men|Confidence Men]] (4/11/15).
@@ -52,4 +52,4 @@ It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Perfor
 
 ## More Information
 * [The festival website.](http://www.improvisedplayfestival.com/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

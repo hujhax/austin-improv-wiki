@@ -79,13 +79,13 @@
   --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="Clay Towrey">Clay Towrey</a></li><!--
+  --><li style="">Clay Towrey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Leah Moss">Leah Moss</a></li><!--
-  --><li style=""><a class="internal-link" href="Liz Bigger">Liz Bigger</a></li><!--
+  --><li style="">Leah Moss</li><!--
+  --><li style="">Liz Bigger</li><!--
   --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
@@ -93,7 +93,7 @@
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
-  --><li style=""><a class="internal-link" href="Zach Palmer">Zach Palmer</a></li><!--
+  --><li style="">Zach Palmer</li><!--
   --><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-**Guilds of Steel** was a narrative longform show based on [[Wikipedia - Massively multiplayer online role-playing game|MMORPG]]s such as *[[Wikipedia - World of Warcraft|World of Warcraft]]*.
+**Guilds of Steel** was a narrative longform show based on MMORPGs such as *World of Warcraft*.
 
 ## History
 There were two runs of *Guilds of Steel*.
@@ -152,13 +152,13 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [[Performers/Bryan Roberts|Bryan Roberts]]
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
-* [[Leah Moss]]
+* Leah Moss
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Michael Joplin|Michael Joplin]]
 * [[Performers/Mike Kinald|Mike Kinald]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * [[Troupes/Topping Haggerty|Topping Haggerty]]
-* [[Zach Palmer]]
+* Zach Palmer
 
 ### 2010 Cast
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
@@ -168,17 +168,17 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 * [[Performers/Clay Towery|Clay Towery]]
 * [[Performers/Emily Breedlove|Emily Breedlove]]
 * [[Performers/Kyle Traughber|Kyle Traughber]]
-* [[Liz Bigger]]
+* Liz Bigger
 * [[Performers/Madi Goff|Madi Goff]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Mike Kinald|Mike Kinald]]
 * [[Performers/Quinn Buckner|Quinn Buckner]]
 * [[Troupes/Topping Haggerty|Topping Haggerty]]
-* [[Zach Palmer]]
+* Zach Palmer
 
 ## Media
 ### Videos
-* Video by [[Brian Boyko]] of the 5/23/09 show: [1](http://youtu.be/ASVoyW31QjE), [2](http://youtu.be/UJG2GTDPVXA), [3](http://youtu.be/nDy6k6F_vbc), [4](http://youtu.be/HNKP0yiDfVg), [5](http://youtu.be/gk-9JyczlTA).
+* Video by Brian Boyko of the 5/23/09 show: [1](http://youtu.be/ASVoyW31QjE), [2](http://youtu.be/UJG2GTDPVXA), [3](http://youtu.be/nDy6k6F_vbc), [4](http://youtu.be/HNKP0yiDfVg), [5](http://youtu.be/gk-9JyczlTA).
 
 ### Photos
 * [Photoset of the 7/16/10 performance](http://www.facebook.com/media/set/?set=a.1305295204352.2036938.1589679282&type=3) by [[Roy Moore]].
@@ -191,4 +191,4 @@ The second was called *Guilds of Steel: The Reign of Haggoth*, ran in July 2010,
 
 ### Publicity
 * [Promotional photos for the 2010 run.](http://www.facebook.com/media/set/?set=a.405946063310.181500.16782108310&type=3)
-[[Category/Shows|Category:Shows]]
+Category:Shows

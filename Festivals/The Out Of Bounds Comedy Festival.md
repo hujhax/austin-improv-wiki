@@ -1,4 +1,4 @@
-**The Out of Bounds Comedy Festival** (formerly **The Out of Bounds Improv Festival**) is an annual comedy festival that occurs during and around [[Wikipedia - Labor Day|Labor Day]] weekend.
+**The Out of Bounds Comedy Festival** (formerly **The Out of Bounds Improv Festival**) is an annual comedy festival that occurs during and around Labor Day weekend.
 
 ## Summary
 While Out of Bounds began as an improv festival, it has grown to include sketch comedy, stand-up performers, and short film as well.  It is the largest-scale comedy festival in Austin, with around fifty acts attending in 2008, and momentous growth since then.  It takes over multiple theaters in the Austin area, and in 2012, it lasted from the Tuesday before Labor Day through the Monday afterwards.
@@ -33,4 +33,4 @@ Earlier years of the festival included [[The Well Hung Jury Memorial Scholarship
 * [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]
 * [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]]
 * [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]]
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

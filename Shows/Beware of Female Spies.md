@@ -79,7 +79,7 @@
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Chrissy Shackleford</a></li><!--
-  --><li style=""><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
+  --><li style="">Liz Dykes</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
@@ -150,4 +150,4 @@ The show took place in "America's top spy agency", Special Patriotic Operations 
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=16662) in [[The Austin Improv Forums]].
 * [An interview with the cast](http://thetheftforum.libsyn.com/episode-41-beware-of-female-spies) on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

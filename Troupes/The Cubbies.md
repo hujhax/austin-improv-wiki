@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Christie Grace">Christie Grace</a></li><!--
-  --><li style=""><a class="internal-link" href="Dan Grimm">Dan Grimm</a></li><!--
-  --><li style=""><a class="internal-link" href="Javier Smith">Javier Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Price">Sarah Price</a></li><!--
-  --><li style=""><a class="internal-link" href="Thomas Niland">Thomas Niland</a></li><!--
+  --><li style="">Christie Grace</li><!--
+  --><li style="">Dan Grimm</li><!--
+  --><li style="">Javier Smith</li><!--
+  --><li style="">Sarah Price</li><!--
+  --><li style="">Thomas Niland</li><!--
   --><!--
   --><!--
   --><!--
@@ -82,4 +82,4 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 * [The troupe's facebook page.](https://www.facebook.com/CubbiesImprov)
 
 [[Category/Troupes|Cubbies]]
-[[Category/Active|Category:Active]]
+Category:Active

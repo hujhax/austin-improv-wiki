@@ -95,4 +95,4 @@
 * [A Hideout blogpost](http://www.hideouttheatre.com/here-comes-the-sun-ceej-allen-on-the-improv-marathon) by [[Performers/Ceej Allen|Ceej Allen]] offering the core cast advice on the marathon.
 * [A Hideout blogpost](http://www.hideouttheatre.com/marathon-blog-post-by-bridge-o) by [[Performers/Bridget Brewer|Bridget Brewer]] detailing why she chose to do the marathon.
 * [A podcast interview](http://www.hideouttheatre.com/improv-marathon-couples-podcast) with the two couples in the cast, from the Hideout's blog.
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

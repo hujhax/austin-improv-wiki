@@ -77,8 +77,8 @@
   --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Avimaan Syam</a></li><!--
-  --><li style=""><a class="internal-link" href="Howard L Katz">Howard L Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
+  --><li style="">Howard L Katz</li><!--
+  --><li style="">Hugo Vargas-Zesati</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
@@ -145,7 +145,7 @@ A crack team of improvisers pull off a the crime of a lifetime. Expect elaborate
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1537815417212.2066940.1589679282&type=3) by [[Roy Moore]] that includes their 2/19/11 performance at the 2011 [[Gnap! Homecoming Party]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1537815417212.2066940.1589679282&type=3) by [[Roy Moore]] that includes their 2/19/11 performance at the 2011 Gnap! Homecoming Party.
 	* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes the same show.
 
-[[Category/Shows|Heist]]
+Heist

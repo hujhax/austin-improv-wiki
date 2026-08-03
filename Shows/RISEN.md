@@ -25,10 +25,10 @@
   --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Heidi Penix</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Kierstin Hettler">Kierstin Hettler</a></li><!--
+  --><li style="">Kierstin Hettler</li><!--
   --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Trey Stoker">Trey Stoker</a></li><!--
+  --><li style="">Trey Stoker</li><!--
   --><!--
   --><!--
   --><!--
@@ -133,19 +133,19 @@
 	</table>
 </div>
 
-***Risen*** was a long-form narrative improv show inspired by *[[Wikipedia - World War Z|World War Z]]* by Max Brooks.
+***Risen*** was a long-form narrative improv show inspired by *World War Z* by Max Brooks.
 
 ## Summary
-Each week, an acclaimed Austin actor performed an edited selection from *[[Wikipedia - World War Z|World War Z]]* by Max Brooks, sharing a their first­hand account of the zombie apocalypse. 
+Each week, an acclaimed Austin actor performed an edited selection from *World War Z* by Max Brooks, sharing a their first­hand account of the zombie apocalypse. 
 
 The monologists: 
 
 * Kwang Jing-shu: The Doctor - [[Performers/Leng Wong|Leng Wong]]
-* Jacob Nyathi: The South African - [[Benjamin Scott]]
+* Jacob Nyathi: The South African - Benjamin Scott
 * Sharon: The Feral Child - [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * Maria Zhuganova: The Russian - [[Performers/Adriane Shown|Adriane Shown]]
-* T. Sean Collins: The Mercinary - [[James Leary]]
-* Jesika Hendricks: The All American - [[Courtney Hans]]
+* T. Sean Collins: The Mercinary - James Leary
+* Jesika Hendricks: The All American - Courtney Hans
 * David Allen Forbes: The Englishman - [[Performers/Kevin Miller|Kevin Miller]]
 * Andre Renard: Under Paris - [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * Darnell Hackworth: The Dog Handler - [[Performers/Brently Heilbron|Brently Heilbron]] & Ambrosia
@@ -181,4 +181,4 @@ It goes by many names: “The Crisis,” “The Dark Years,” “The Walking Pl
 ## More Information
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17545) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

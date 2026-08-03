@@ -19,11 +19,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
+  --><li style="">Andrea Young</li><!--
+  --><li style="">Andy Pereira</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
-  --><li style=""><a class="internal-link" href="Rene Pinnell">Rene Pinnell</a></li><!--
+  --><li style="">Jill Morris</li><!--
+  --><li style="">Rene Pinnell</li><!--
   --><!--
   --><!--
   --><!--
@@ -84,4 +84,4 @@
 ### Show Name
 From the show's director: "Inspired by a Harold-style Groundlings show in L.A., the name was meant to convey an 'anything can happen' theme, not connected with any particular style or genre.  In retrospect the name would have been better utilized for a Reality TV parody, shows of which were quite popular at the time."
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

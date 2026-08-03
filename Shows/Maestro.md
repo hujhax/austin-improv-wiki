@@ -70,7 +70,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 ### Videos
 * 3/26/99 Maestro: [part 1](http://vimeo.com/45370945), [part 2](http://vimeo.com/45370946).
 * Video of the 8/29/08 "All-Star Maestro" at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]]: [1](http://blip.tv/out-of-bounds-comedy-festival/all-star-maestro-fri-12midnight-svt-apples-stage-1234101), [2](http://blip.tv/out-of-bounds-comedy-festival/maestro-pt-2-fri-12midnight-svt-apples-stage-1271626).
-* Video by [[Brian Boyko]] of the 4/24/10 show: [1](http://youtu.be/cqsBX0XlKts), [2](http://youtu.be/UrFzuunbrTU), [3](http://youtu.be/LjCqqv64Wq8).
+* Video by Brian Boyko of the 4/24/10 show: [1](http://youtu.be/cqsBX0XlKts), [2](http://youtu.be/UrFzuunbrTU), [3](http://youtu.be/LjCqqv64Wq8).
 * [10/22/11 Maestro.](http://vimeo.com/30999435)
 * 12/10/11 Maestro: [part 1](http://vimeo.com/33847258), [part 2](http://vimeo.com/33862670).
 * [12/17/11 Maestro.](http://vimeo.com/33971411)
@@ -178,7 +178,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] which includes the 5/29/10 Maestro.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes the 6/5/10 Maestro from [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100427938659370.3109252.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 8/28/10 show.
-* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157624879000746/) by [[Nadine Latief]] of the 9/3/10 All-Star Maestro at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157624879000746/) by Nadine Latief of the 9/3/10 All-Star Maestro at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 	* [Another photoset](http://www.facebook.com/roy.moore/media_set?set=a.1349973521282.2049911.1589679282&type=3) by [[Roy Moore]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1365397666876.2051363.1589679282&type=3) by [[Roy Moore]] of the 9/18/10 Maestro.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100397893450210.3089568.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 11/13/10 show.
@@ -235,7 +235,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [The Improv Encyclopedia's summary of Maestro.](http://improvencyclopedia.org/games//Micetro.html)
 * [A 12/18/12 post](http://www.hideouttheatre.com/how-you-won-maestro) by [[Performers/Marc Majcher|Marc Majcher]] on the Hideout blog, detailing how the audience recently won *Maestro*.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

@@ -23,8 +23,8 @@
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Duncan Coe">Duncan Coe</a></li><!--
-  --><li style=""><a class="internal-link" href="Elena Weinberg">Elena Weinberg</a></li><!--
+  --><li style="">Duncan Coe</li><!--
+  --><li style="">Elena Weinberg</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
@@ -219,8 +219,8 @@ The show returned for a holiday run in November and December of 2013.  [[Perform
 * [[Performers/Ash Nunley|Ash Nunley]]
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Performers/Claudio Fox|Claudio Fox]]
-* [[Duncan Coe]]
-* [[Elena Weinberg]]
+* Duncan Coe
+* Elena Weinberg
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * [[Performers/Tom Booker|Tom Booker]]
 
@@ -252,8 +252,8 @@ A third run of the show happened in April and May of 2014.
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Performers/Bryan Curry|Bryan Curry]]
 * [[Performers/Claudio Fox|Claudio Fox]]
-* [[Duncan Coe]]
-* [[Elena Weinberg]]
+* Duncan Coe
+* Elena Weinberg
 * [[Performers/Sam Schak|Sam Schak]]
 * [[Performers/Sarah Swofford|Sarah Swofford]]
 * [[Performers/Tyler Bryce|Tyler Bryce]]
@@ -264,12 +264,12 @@ A third run of the show happened in April and May of 2014.
 #### Cast
 * [[Performers/Tyler Bryce|Tyler Bryce]]
 * [[Performers/Bryan Curry|Bryan Curry]]
-* [[Tess Hermes]]
+* Tess Hermes
 * [[Performers/Lena Long|Lena Long]]
-* [[Mason Pitluk]]
+* Mason Pitluk
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]]
 * [[Performers/Sam Schak|Sam Schak]]
-* [[Kim Stacy]]
+* Kim Stacy
 
 The run was directed by Tom Booker and featured musical accompaniment from Cynthia Ward.
 
@@ -303,4 +303,4 @@ The run was directed by Tom Booker and featured musical accompaniment from Cynth
 * [Review of the show from *Awesome Austin*.](http://www.meetup.com/AWESOME-AUSTIN-Im-fun-and-in-Austin-Im-in-my-30s-40s/events/155427402/)
 * [Facebook event for the "Sex and Queso" run.](http://www.facebook.com/events/652783781449386/?ref=5)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

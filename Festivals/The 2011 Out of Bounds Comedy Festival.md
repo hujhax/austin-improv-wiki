@@ -3,7 +3,7 @@
 ## Summary
 Its advertising was themed around ancient Rome, and referred to the festival with a roman numeral: "Out of Bounds X".
 
-It featured [[Wikipedia - Tim Meadows|Tim Meadows]] and [[Wikipedia - Greg Proops|Greg Proops]] as headliners.
+It featured Tim Meadows and Greg Proops as headliners.
 
 The festival ran from Tuesday 8/30/11, to Monday 9/5/11.
 
@@ -28,7 +28,7 @@ The roast featured [[Performers/Tom Booker|Tom Booker]].
 * [[Troupes/Delta Burka|Delta Burka]]
 * [[Troupes/Dick Rambuck|Dick Rambuck]]
 * [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]
-* [[Duo Shmuo]]
+* Duo Shmuo
 * [[Troupes/Firth & Arjet|Firth & Arjet]]
 * [[Shows/Flying Theatre Machine|Flying Theatre Machine]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
@@ -59,8 +59,8 @@ The roast featured [[Performers/Tom Booker|Tom Booker]].
 * [[Troupes/Spirit Desire|Spirit Desire]]
 * [[Troupes/Stag Comedy|Stag Comedy]]
 * [[Shows/Stool Pigeon|Stool Pigeon]]
-* [[Storyboard]]
-* [[ThinkTank]]
+* Storyboard
+* ThinkTank
 * [[Shows/Victrola|Victrola]]
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
@@ -180,4 +180,4 @@ The roast featured [[Performers/Tom Booker|Tom Booker]].
 
 ## More Information
 * [The 2011 Out of Bounds web site.](http://www.outofboundscomedy.com/2011/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

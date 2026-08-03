@@ -141,12 +141,12 @@
 
 ## Summary
 ### Publicity Blurb
-From the show announcement:<blockquote>Inspired by the nostalgic era of 1950s & 60s TV Westerns like *[[Wikipedia - Bonanza|Bonanza]]* and *[[Wikipedia - Gunsmoke|Gunsmoke]]*, *Boy, Howdy!* presents clean-cut cowboys and cowgirls fighting for love, land, and liberty against smooth-talkin' city folk and backwater bandits.
+From the show announcement:<blockquote>Inspired by the nostalgic era of 1950s & 60s TV Westerns like *Bonanza* and *Gunsmoke*, *Boy, Howdy!* presents clean-cut cowboys and cowgirls fighting for love, land, and liberty against smooth-talkin' city folk and backwater bandits.
 </blockquote>
 
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
 * [The casting announcement.](http://www.facebook.com/groups/hideouttheatre/permalink/975419935814444/)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

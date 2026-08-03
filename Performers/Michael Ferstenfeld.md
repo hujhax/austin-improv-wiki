@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Dystheatre">Dystheatre</a></td>
+			<td class="category">Dystheatre</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>
@@ -35,16 +35,16 @@ Michael is the co-founder and artistic director of [Dystheatre](http://dystheatr
 * [[Troupes/Double Dutch|Double Dutch]]
 * [[Troupes/Ed 32|Ed 32]]
 * [[Troupes/Goat|Goat]]
-* [[Short & Sweet]]
+* Short & Sweet
 * [[Troupes/The Polite Society|The Polite Society]]
 
 
 ## Shows
 * *[[Shows/Fakespeare|Fakespeare]]* (Balthasar/Borachio/Banquo)
 * *[[Shows/Gorilla Theatre|Gorilla Theatre]]*
-* *[[Key Party]]*
+* *Key Party*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
-* *[[This Week Tonight]]*
+* *This Week Tonight*
 * *[[Shows/This American LIVE!|This American LIVE!]]* (Not Ira Glass)
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]* (Young Einstein)
 * *[[Shows/Tarantula|Tarantula]]*

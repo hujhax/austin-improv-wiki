@@ -74,4 +74,4 @@
 They had a theme song.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Inactive|Category:Inactive]]
+Category:Inactive

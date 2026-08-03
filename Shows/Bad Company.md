@@ -74,13 +74,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
+  --><li style="">Ashlee Medlin</li><!--
+  --><li style="">Bob Khosravi</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style=""><a class="internal-link" href="Enecito Acedillo">Enecito Acedillo</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style="">Enecito Acedillo</li><!--
+  --><li style="">Jessica Salinas</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Crocker">Scott Crocker</a></li><!--
+  --><li style="">Scott Crocker</li><!--
   --><!--
   --><!--
   --><!--
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as *[[Wikipedia - The Office|The Office]]*.
+***Bad Company*** was an improvised longform narrative show inspired by mockumentaries such as *The Office*.
 
 It was a [[Merlin Works Graduation Show]] that opened the *[[Shows/Saturday Night Special|Saturday Night Special]]* for a three-week run (12/4/10, 12/11/10, 12/18/10) at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
@@ -141,4 +141,4 @@ It was a [[Merlin Works Graduation Show]] that opened the *[[Shows/Saturday Nigh
 ## Media
 * [Museum](http://vimeo.com/34696186)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

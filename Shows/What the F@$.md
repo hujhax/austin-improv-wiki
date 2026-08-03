@@ -23,15 +23,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
+  --><li style="">Adrienne Brown</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
-  --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
+  --><li style="">Emma Czarnecki</li><!--
+  --><li style="">Judith Schomp</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Michael Guy Bowman">Michael Guy Bowman</a></li><!--
+  --><li style="" >Michael Guy Bowman</li><!--
   --><!--
   --><!--
   --><!--
@@ -105,9 +105,9 @@ The cast would then integrate that into the show's second half, when chaos would
 
 ## More Information
 * [The audition notice](http://forum.austinimprov.com/viewforum.php?f=3) on [[The Austin Improv Forums]], and [the audition form](http://docs.google.com/spreadsheet/viewform?formkey=dHpzNTQ4clBGV2JCUDZjWW9Idmp1VkE6MA#gid=1).
-* [Blog post about the rehearsal process](http://www.hideouttheatre.com/fun-at-first-sight) by cast member [[Judith Schomp]].
+* [Blog post about the rehearsal process](http://www.hideouttheatre.com/fun-at-first-sight) by cast member Judith Schomp.
 * [Blog post about the premiere](http://www.hideouttheatre.com/i-heart-wtf) by cast member [[Performers/Chris Albano|Chris Albano]].
 * [Blog post about the show](http://www.hideouttheatre.com/carefree-and-fearless) by cast member [[Performers/Lindsay Hejl|Lindsay Hejl]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

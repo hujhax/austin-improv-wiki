@@ -19,13 +19,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amira Pollock">Amira Pollock</a></li><!--
+  --><li style="">Amira Pollock</li><!--
   --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Kristin Faner">Kristin Faner</a></li><!--
+  --><li style="">Kristin Faner</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
@@ -191,7 +191,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Performers/Ruby Willmann|Ruby Willmann]]
 
 ### Alumni / On Hiatus
-* [[Andrew Robinson]]
+* Andrew Robinson
 * [[Performers/Bridget Brewer|Bridget Brewer]] 
 * [[Performers/David Ronn|David Ronn]]  
 * [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]]  
@@ -199,7 +199,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [[Performers/Matt Pollock|Matt Pollock]] (2007-June 2013, currently on paternity hiatus)
 * [[Performers/Mike Kinald|Mike Kinald]]
 * [[Performers/Mike Nystul|Mike Nystul]]
-* [[Kristin Faner]]    (Nov 2012-Jun 2013)
+* Kristin Faner    (Nov 2012-Jun 2013)
 * [[Performers/Kristin Firth|Kristin Firth]]
 * [[Performers/Cody Melcher|Cody Melcher]]
 * [[Performers/Neal Tibrewala|Neal Tibrewala]]
@@ -220,6 +220,6 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * [A post about the show](http://www.hideouttheatre.com/wow-theater-makes-a-difference) by [[Performers/Jessica Arjet|Jessica Arjet]].
 	* [A 12/13/10 video interview with Jessica about the show.](http://www.hideouttheatre.com/why-the-theater-machine-flies)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

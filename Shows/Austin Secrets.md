@@ -22,8 +22,8 @@
   --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Angie Yaeyama">Angie Yaeyama</a></li><!--
+  --><li style="">Angelina Martin</li><!--
+  --><li style="">Angie Yaeyama</li><!--
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
@@ -53,12 +53,12 @@
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style="">Regina Soto</li><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Theo Daley">Theo Daley</a></li><!--
-  --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
+  --><li style="">Tyler Groce</li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
@@ -133,12 +133,12 @@
 	</table>
 </div>
 
-***Austin Secrets*** is an improvised shortform show inspired by real-life-storytelling projects such as [[Wikipedia - PostSecret|PostSecret]], [[Wikipedia - StoryCorps|StoryCorps]], and [[Wikipedia - The Moth|The Moth]].
+***Austin Secrets*** is an improvised shortform show inspired by real-life-storytelling projects such as PostSecret, StoryCorps, and The Moth.
 
 Due to its sustained artistic and commercial success, *Austin Secrets* has been a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] nearly every year since its initial run in 2010.
 
 ## Structure
-Generally, the show works with "secrets" -- these are real-life secrets from anonymous people, either taken from [[Wikipedia - PostSecret|PostSecret]] or sent to [[Theatres/The Hideout|The Hideout]] on postcards or via email.  A secret will be shown on the theater's TV screen to the audience and to the players (or, in the case of "Hidden Secrets", to just one player), and then the scene will draw its inspiration from that. Traditionally, the five segments played in the following order; starting with the 2016 run, the order of the Truth Chair and Audio Secrets segments were swapped.
+Generally, the show works with "secrets" -- these are real-life secrets from anonymous people, either taken from PostSecret or sent to [[Theatres/The Hideout|The Hideout]] on postcards or via email.  A secret will be shown on the theater's TV screen to the audience and to the players (or, in the case of "Hidden Secrets", to just one player), and then the scene will draw its inspiration from that. Traditionally, the five segments played in the following order; starting with the 2016 run, the order of the Truth Chair and Audio Secrets segments were swapped.
  
 ### A Thousand Different Directions
 After the introductory hosting -- which, among other things, informs the audience about the projects that *Austin Secrets* uses for inspiration -- the show kicks off with "A Thousand Different Directions" where a single secret is shown onscreen, and the players perform a quick montage of a couple dozen scene starts based on that secret.  This helps to start the show energetically, shows the audience that there are lot of different ways to interpret a secret, and demonstrates to the audience by quick examples that the tone of the show can vary widely; from light, surreal silliness to powerful, real-life drama.
@@ -209,7 +209,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 
 #### Crew
 * [[Performers/Cindy Page|Cindy Page]] (tech director)
-* [[Katherine Grecco]]
+* Katherine Grecco
 * [[Performers/Luke Wallens|Luke Wallens]]
 * [[Performers/Warren Henderson|Warren Henderson]]
 
@@ -232,8 +232,8 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Chris Albano|Chris Albano]]
 * [[Performers/Cindy Page|Cindy Page]]
 * [[Performers/David Ronn|David Ronn]]
-* [[Dean Palm]]
-* [[Jennifer Brinlee]]
+* Dean Palm
+* Jennifer Brinlee
 * [[Performers/Luke Wallens|Luke Wallens]]
 * [[Performers/Warren Henderson|Warren Henderson]]
 
@@ -254,15 +254,15 @@ During this final segment, a secret is shown to the audience and to *only one* p
 
 #### Crew
 * [[Performers/Lindsey McGowen|Lindsey McGowen]] (tech director)
-* [[Ian Markot]]
+* Ian Markot
 * [[Performers/Mike Reed|Mike Reed]]
 * [[Performers/Norman Tran|Norman Tran]]
-* [[Ripley Adams]]
+* Ripley Adams
 
 ### Season Six (2016)
 #### Cast
 * [[Performers/Aaron Saenz|Aaron Saenz]]
-* [[Angie Yaeyama]]
+* Angie Yaeyama
 * [[Performers/Chuy Zarate|Chuy Zarate]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/Heather Hasselle|Heather Hasselle]]
@@ -277,8 +277,8 @@ During this final segment, a secret is shown to the audience and to *only one* p
 #### Crew
 * [[Performers/Lindsey McGowen|Lindsey McGowen]] (technical director)
 * [[Performers/Brent Chismark|Brent Chismark]]
-* [[Bonnie Dilber]]
-* [[Casey Quinlan]]
+* Bonnie Dilber
+* Casey Quinlan
 * [[Performers/Jay Mahavier|Jay Mahavier]]
 * [[Performers/Kelly Campbell|Kelly Campbell]]
 * [[Performers/Rob Yoho|Rob Yoho]]
@@ -286,8 +286,8 @@ During this final segment, a secret is shown to the audience and to *only one* p
 ### Season Seven (2018)
 #### Cast
 * [[Performers/Aaron Saenz|Aaron Saenz]]
-* [[Angelina Martin]]
-* [[Angie Yaeyama]]
+* Angelina Martin
+* Angie Yaeyama
 * [[Performers/Chuy Zarate|Chuy Zarate]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/J. R. Zambrano|J. R. Zambrano]]
@@ -295,13 +295,13 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Margaret Rose Hunsicker|Margaret Rose Hunsicker]]
-* [[Regina Soto]]
-* [[Tyler Groce]]
+* Regina Soto
+* Tyler Groce
 
 #### Crew
-* Stage Management: [[Bonnie Dilber]]
+* Stage Management: Bonnie Dilber
 * Technical Direction: [[Performers/Lindsey McGowen|Lindsey McGowen]]
-* Technical Improvisers: [[Biz Gilmore]] and [[Performers/Cindy Page|Cindy Page]]
+* Technical Improvisers: Biz Gilmore and [[Performers/Cindy Page|Cindy Page]]
 * Scenic and Visual Design: [[Performers/Kaci Beeler|Kaci Beeler]]
 
 ## Media
@@ -356,6 +356,6 @@ During this final segment, a secret is shown to the audience and to *only one* p
 ## Notes
 <references/>
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

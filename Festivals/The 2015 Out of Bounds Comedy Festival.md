@@ -11,7 +11,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 ## Acts
 ### Local Improv and Sketch Acts
 * [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]] (The Fitzgeralds Save The World)
-* [[Austin Translation]]
+* Austin Translation
 * [[Troupes/Austin-Austin|Austin-Austin]]
 * [[Troupes/Available Cupholders|Available Cupholders]]
 * [[Troupes/Bad Boys|Bad Boys]]
@@ -21,7 +21,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * [[Troupes/Brain Trust|Brain Trust]]
 * [[Troupes/Cascade|Cascade]]
 * [[Troupes/Confidence Men|Confidence Men]]
-* [[Damn, Gina!]]
+* Damn, Gina!
 * [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
 * [[Troupes/Decoy|Decoy]]
 * [[Troupes/Dervish|Dervish]]
@@ -41,12 +41,12 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * [[Troupes/Grounded in Harmony|Grounded in Harmony]]
 * [[Shows/History Under the Influence|History Under the Influence]]
 * [[Troupes/Honey Ladies|Honey Ladies]]
-* [[Impressionable]]
+* Impressionable
 * [[Troupes/Junk|Junk]]
 * [[Troupes/Kingz|Kingz]]
 * [[Troupes/The Known Wizards|The Known Wizards]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
-* [[Love Me Tinder]]
+* Love Me Tinder
 * [[Troupes/Loverboy|Loverboy]]
 * [[Troupes/Magician vs. Clown|Magician vs. Clown]]
 * [[Troupes/Midnight Society|Midnight Society]]
@@ -122,7 +122,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Alex Hooper
 * Ali Safar
 * Amber Bixby
-* [[Amy Dietze]]
+* Amy Dietze
 * Andrew Dismukes
 * April Richardson
 * Austen Silver
@@ -130,8 +130,8 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Brendon Walsh
 * [[Performers/Brently Heilbron|Brently Heilbron]]
 * Bryan Gutmann
-* [[Catherine Grady]]
-* [[Chris Sebilia]]
+* Catherine Grady
+* Chris Sebilia
 * Christian Spicer
 * Dan Wilbur
 * Danny Palumbo
@@ -143,14 +143,14 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Joel Keith
 * [[Performers/John Buseman|John Buseman]]
 * Jon Savoy
-* [[Jonathan Euseppi]]
+* Jonathan Euseppi
 * Josh Johnson
 * Jr De Guzman
 * Katie Pengra
-* [[Kerri Lendo]]
+* Kerri Lendo
 * Linda Stogner
 * Liz Russo
-* [[Maggie Maye]]
+* Maggie Maye
 * Martin Morrow
 * Matt Peters
 * Matt White
@@ -163,7 +163,7 @@ This discontinued the festival tradition of having an annual roast, but did incl
 * Steve Herndon
 * Susan Burke
 * Terance Mcdavid
-* [[Will Cleveland]]
+* Will Cleveland
 * Yusef Roach
 
 ### Other Acts
@@ -218,4 +218,4 @@ This discontinued the festival tradition of having an annual roast, but did incl
 
 ## More Information
 * [The 2015 Out of Bounds web site.](http://www.outofboundscomedy.com/2015)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

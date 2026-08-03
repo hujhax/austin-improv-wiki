@@ -24,4 +24,4 @@ The festival ran from 5/7/09 to 5/9/09 at [[Theatres/Salvage Vanguard Theater|Sa
 * Sara Benicasa
 * Selena Coppock (NYC/Boston)
 * Virginia Jones
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

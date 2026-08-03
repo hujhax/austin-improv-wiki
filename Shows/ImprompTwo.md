@@ -35,16 +35,16 @@
 ## Guests
 * January 11th - [[Troupes/MANDINKA|MANDINKA]]
 * January 18th - [[Troupes/Austin-Austin|Austin-Austin]]
-* January 25th - [[Kim Stacy]] & [[Performers/Asaf Ronen|Asaf Ronen]]
+* January 25th - Kim Stacy & [[Performers/Asaf Ronen|Asaf Ronen]]
 
 ## Media
 ### Videos
 * Videos of the 5/23/15 show:
 	* [Video](http://vimeo.com/131850763) of [[Troupes/JK|JK]].
-	* [Video](http://vimeo.com/131851909) of interstitial music from [[The Laylas]].
+	* [Video](http://vimeo.com/131851909) of interstitial music from The Laylas.
 	* [Video](http://vimeo.com/131853278) of [[Performers/Sarah Marie Curry|Sarah Marie Curry]] and [[Performers/Clifton Highfield|Clifton Highfield]], sitting in for [[Troupes/Cascade|Cascade]].
 * Videos of the 8/30/15 show:
 	* [Video](http://vimeo.com/137809092) of [[Performers/Lindsey McGowen|Lindsey McGowen]] and [[Performers/Peter Rogers|Peter Rogers]] singing "Dance Me to the End of Love".
 	* [Video](http://vimeo.com/137908715) of [[Performers/Lindsey McGowen|Lindsey McGowen]] and [[Performers/Tosin awofeso|Tosin awofeso]] singing "Manhattan".
 	* [Video](http://vimeo.com/137908715) of [[Performers/Lindsey McGowen|Lindsey McGowen]] leading an a cappella improv game.
-[[Category/Shows|Category:Shows]]
+Category:Shows

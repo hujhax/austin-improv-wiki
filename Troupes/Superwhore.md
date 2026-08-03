@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amber Quick">Amber Quick</a></li><!--
+  --><li style="">Amber Quick</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Roberts">Meredith Roberts</a></li><!--
+  --><li style="">Meredith Roberts</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Will Cleveland">Will Cleveland</a></li><!--
+  --><li style="">Will Cleveland</li><!--
   --><!--
   --><!--
   --><!--

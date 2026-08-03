@@ -36,6 +36,6 @@
 * *[[Shows/TheatreSports|TheatreSports]]*
 
 ## More Information
-* [[List of Free Fringes#August 21.2C 2014 .28the 118th show.29|Info about her going-away show]] in *[[Shows/The Free Fringe|The Free Fringe]]* on 8/21/14.
+* Info about her going-away show in *[[Shows/The Free Fringe|The Free Fringe]]* on 8/21/14.
 
 [[Category/Performers|Brewer]]

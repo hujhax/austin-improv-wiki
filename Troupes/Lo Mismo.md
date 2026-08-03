@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style="">Justin York</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
   --><!--
   --><!--

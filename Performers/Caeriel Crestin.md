@@ -41,8 +41,8 @@ He is a regular cast member of the Flying Theater Machine.
 * *[[Shows/What the F@$|What the F@$]]* (co-director)
 * *[[Shows/Close Up|Close Up]]* (creator, co-director)
 * *[[Shows/183 Dewberry Lane|183 Dewberry Lane]]* (creator, director)
-* *[[Wizard School]]*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
-* *[[Three Wishes]]*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
-* *[[Spoonful of Sugar]]*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
+* *Wizard School*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
+* *Three Wishes*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
+* *Spoonful of Sugar*-*[[Shows/Flying Theater Machine|Flying Theater Machine]]* (creator, director, performer)
 
 [[Category/Performers|Crestin]]

@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Melendez">Ed Melendez</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style=""><a class="internal-link" href="Shea Scott">Shea Scott</a></li><!--
+  --><li style="">Shea Scott</li><!--
   --><!--
   --><!--
   --><!--

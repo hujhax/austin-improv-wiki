@@ -18,11 +18,11 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Jenna Howard">Jenna Howard</a></td>
+			<td class="category">Jenna Howard</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="James Blair">James Blair</a></td>
+			<td class="category">James Blair</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -30,7 +30,7 @@
   --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Cynthia Cobb Oelkers">Cynthia Cobb Oelkers</a></li><!--
+  --><li style="">Cynthia Cobb Oelkers</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
@@ -82,10 +82,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a> (lights and sound)</li><!--
+  --><li style="">Andrew Schwartz (lights and sound)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a> (stage manager, lights and sound)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a> (technical director)</li><!--
-  --><li style=""><a class="internal-link" href="Paul Ramone Weiner">Paul Ramone Weiner</a> (lights and sound)</li><!--
+  --><li style="">Paul Ramone Weiner (lights and sound)</li><!--
   --><!--
   --><!--
   --><!--
@@ -141,7 +141,7 @@
 	</table>
 </div>
 
-***Scene of the Crime*** was the May/June 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was based on the works of [[Wikipedia - Agatha Christie|Agatha Christie]] and other authors from the  [[Wikipedia - Golden Age of Detective Fiction|Golden Age of detective fiction]].
+***Scene of the Crime*** was the May/June 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was based on the works of Agatha Christie and other authors from the  Golden Age of detective fiction.
 
 ## Summary
 ### Structure
@@ -152,10 +152,10 @@ At the start of each performance, the cast took the stage in the dark.  The ligh
 The first scene would depict the murder.  To preserve the mystery, the 'victim' performer would play it out as a solo scene, with the murderer's presence implied.  The story would proceed over the course of a few days of story time, alternating between interrogations, accusations, and revelations in the current day and flashbacks to suspects' interactions with the victims, all the while drawing out mystery and tension.  The story ended with the detective gathering all the suspects together, describing the evidence gathered to that point, and showing how it revealed the identity of the murderer.  A flashback to the initial murder -- this time, with the murderer present -- followed.  Finally, the murderer received their just comeuppance.
 
 ### Tech
-The set featured a custom-built door upstage center.  The show was scored live by [[James Blair]], who provided classically suspenseful keyboard music.  There were also ambient sound effects -- birdsong, etc. -- depending on the location.  Costumes were 'timeless' -- nice, classic, elegant outfits from anywhere from the 1940s to the present.  Lighting was stylized for the flashback scenes, to make them distinct.
+The set featured a custom-built door upstage center.  The show was scored live by James Blair, who provided classically suspenseful keyboard music.  There were also ambient sound effects -- birdsong, etc. -- depending on the location.  Costumes were 'timeless' -- nice, classic, elegant outfits from anywhere from the 1940s to the present.  Lighting was stylized for the flashback scenes, to make them distinct.
 
 ### Publicity Blurb
-From the show announcement:<blockquote>*Scene of the Crime* takes its cue from [[Wikipedia - Golden Age of Detective Fiction|classic whodunits]] crafted by the likes of [[Wikipedia - Agatha Christie|Agatha Christie]], wherein a murder is committed at the outset of our story, and everyone is a suspect.
+From the show announcement:<blockquote>*Scene of the Crime* takes its cue from classic whodunits crafted by the likes of Agatha Christie, wherein a murder is committed at the outset of our story, and everyone is a suspect.
 </blockquote>
 
 ## Media
@@ -169,5 +169,5 @@ From the show announcement:<blockquote>*Scene of the Crime* takes its cue from [
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105247791520600&set=gm.825478397475266&type=1) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

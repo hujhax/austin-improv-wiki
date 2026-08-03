@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Byron Brown">Byron Brown</a></li><!--
-  --><li style=""><a class="internal-link" href="Joshua Phillips">Joshua Phillips</a></li><!--
+  --><li style="">Byron Brown</li><!--
+  --><li style="">Joshua Phillips</li><!--
   --><!--
   --><!--
   --><!--

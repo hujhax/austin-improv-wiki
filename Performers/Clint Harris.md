@@ -28,6 +28,6 @@
 
 ### Non-Improvised
 * *[[Shows/South Park Live|South Park Live]]*
-* *[[Comedy Dance Camp]]*
+* *Comedy Dance Camp*
 
 [[Category/Performers|Harris]]

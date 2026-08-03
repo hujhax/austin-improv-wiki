@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
+  --><li style="">Meredith Mae Roberts</li><!--
   --><!--
   --><!--
   --><!--
@@ -86,4 +86,4 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

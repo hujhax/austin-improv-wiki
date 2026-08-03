@@ -17,8 +17,8 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
-  --><li style=""><a class="internal-link" href="Natalie Wright">Natalie Wright</a> Former:</li><!--
-  --><li style=""><a class="internal-link" href="Walter Nichols">Walter Nichols</a></li><!--
+  --><li style="">Natalie Wright Former:</li><!--
+  --><li style="">Walter Nichols</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
@@ -73,10 +73,10 @@
 **Rook** is a dramatic modern musical improv troupe.
 
 ## Promotional Copy
-Forged in Austin in the fires of 2016, Rook has been performing Modern Musical Improv all over the state of Texas and beyond. Using a unique blend of synth and piano, drama and comedy, improvisation and theatrical training, Rook presents the cutting edge of musical improv. Discovered on the spot, emotional and poignant, hilarious and cerebral, this off-off-off-broadway show will be surprising, delightful, and oh-so-well sung. With award winning actor [[Performers/Sarah Marie Curry|Sarah Marie Curry]], improvisor extraordinaire [[Performers/Cat Drago|Cat Drago]], classically trained opera singer [[Performers/Megan Sherrod|Megan Sherrod]], and composer and pianist [[Walter Nichols]], Rook is good because of training and amazing because of improv.
+Forged in Austin in the fires of 2016, Rook has been performing Modern Musical Improv all over the state of Texas and beyond. Using a unique blend of synth and piano, drama and comedy, improvisation and theatrical training, Rook presents the cutting edge of musical improv. Discovered on the spot, emotional and poignant, hilarious and cerebral, this off-off-off-broadway show will be surprising, delightful, and oh-so-well sung. With award winning actor [[Performers/Sarah Marie Curry|Sarah Marie Curry]], improvisor extraordinaire [[Performers/Cat Drago|Cat Drago]], classically trained opera singer [[Performers/Megan Sherrod|Megan Sherrod]], and composer and pianist Walter Nichols, Rook is good because of training and amazing because of improv.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/rookimprov/)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

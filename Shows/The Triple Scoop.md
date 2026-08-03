@@ -35,5 +35,5 @@ Each show consisted of three improv troupes performing a half-hour minute set wi
 
 It had its last performance in March 2014.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Institution Theater|Category:The Institution Theater]]
+Category:Shows
+Category:The Institution Theater

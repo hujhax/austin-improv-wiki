@@ -11,7 +11,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Independent">Independent</a></li><!--
+  --><li style="">Independent</li><!--
   --><li style=""><a class="internal-link" href="Theatres/ColdTowne Conservatory">ColdTowne Conservatory</a></li><!--
   --><!--
   --><!--
@@ -92,4 +92,4 @@ The jam is open to any improv students or experienced improvisers who want to do
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

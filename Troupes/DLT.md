@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Dash Shearer">Dash Shearer</a></li><!--
-  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
-  --><li style=""><a class="internal-link" href="Tatiana Panovich">Tatiana Panovich</a></li><!--
+  --><li style="">Dash Shearer</li><!--
+  --><li style="">Linzy Beltran</li><!--
+  --><li style="">Tatiana Panovich</li><!--
   --><!--
   --><!--
   --><!--

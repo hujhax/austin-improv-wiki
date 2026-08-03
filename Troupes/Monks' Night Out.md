@@ -14,37 +14,37 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Marc Pruter">Marc Pruter</a></td>
+			<td class="category">Marc Pruter</td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andy Cobb">Andy Cobb</a></li><!--
-  --><li style=""><a class="internal-link" href="Becca Sadler">Becca Sadler</a></li><!--
-  --><li style=""><a class="internal-link" href="Ben Prince">Ben Prince</a></li><!--
+  --><li style="">Andy Cobb</li><!--
+  --><li style="">Becca Sadler</li><!--
+  --><li style="">Ben Prince</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
-  --><li style=""><a class="internal-link" href="Christie Ingram">Christie Ingram</a></li><!--
+  --><li style="">Christie Ingram</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric Perry">Eric Perry</a></li><!--
-  --><li style=""><a class="internal-link" href="G Cole Spainhour">G Cole Spainhour</a></li><!--
-  --><li style="" ><a class="internal-link" href="Gabriel Folse">Gabriel Folse</a></li><!--
-  --><li style=""><a class="internal-link" href="Greg Dorchak">Greg Dorchak</a></li><!--
-  --><li style=""><a class="internal-link" href="Holly Simpson">Holly Simpson</a></li><!--
-  --><li style=""><a class="internal-link" href="Jon Wiley">Jon Wiley</a></li><!--
-  --><li style=""><a class="internal-link" href="Joseph Anthony Fotinos">Joseph Anthony Fotinos</a></li><!--
+  --><li style="">Eric Perry</li><!--
+  --><li style="">G Cole Spainhour</li><!--
+  --><li style="" >Gabriel Folse</li><!--
+  --><li style="">Greg Dorchak</li><!--
+  --><li style="">Holly Simpson</li><!--
+  --><li style="">Jon Wiley</li><!--
+  --><li style="">Joseph Anthony Fotinos</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katey Mushlin">Katey Mushlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Laura Estep">Laura Estep</a></li><!--
-  --><li style=""><a class="internal-link" href="Marc Pruter">Marc Pruter</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Bearden">Matt Bearden</a></li><!--
-  --><li style=""><a class="internal-link" href="Mervyn Burnett">Mervyn Burnett</a></li><!--
+  --><li style="">Laura Estep</li><!--
+  --><li style="">Marc Pruter</li><!--
+  --><li style="">Matt Bearden</li><!--
+  --><li style="">Mervyn Burnett</li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Pamela Ribon">Pamela Ribon</a></li><!--
-  --><li style=""><a class="internal-link" href="Paul Finley">Paul Finley</a></li><!--
-  --><li style=""><a class="internal-link" href="Regina Reale">Regina Reale</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Pattison Cavazos">Sarah Pattison Cavazos</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Perry">Scott Perry</a></li><!--
-  --><li style=""><a class="internal-link" href="Tim Bauer">Tim Bauer</a></li><!--
-  --><li style=""><a class="internal-link" href="Tim Girardot">Tim Girardot</a></li><!--
+  --><li style="">Pamela Ribon</li><!--
+  --><li style="">Paul Finley</li><!--
+  --><li style="">Regina Reale</li><!--
+  --><li style="">Sarah Pattison Cavazos</li><!--
+  --><li style="">Scott Perry</li><!--
+  --><li style="">Tim Bauer</li><!--
+  --><li style="">Tim Girardot</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
@@ -79,22 +79,22 @@
 ![[Monks Ticket.jpg|A ticket to a Monks' Night Out show.]]
 ## History
 The troupe first splintered off from [[Troupes/ComedySportz|ComedySportz]] in 1994, with the following cast:
-* [[Gabriel Folse]]
-* [[Holly Simpson]]
-* [[Laura Estep]]
-* [[Marc Pruter]]
-* [[Scott Perry]]
-* [[Tim Bauer]]
+* Gabriel Folse
+* Holly Simpson
+* Laura Estep
+* Marc Pruter
+* Scott Perry
+* Tim Bauer
 
 In 1996, Monks' Night Out was voted "Austin's Best Theater Company" in the *Austin Chronicle*.
 
-The troupe was at one point scrutinized by the producers of the American adaptation of *[[Wikipedia - Whose Line Is It, Anyway|Whose Line Is It, Anyway?]]*.
+The troupe was at one point scrutinized by the producers of the American adaptation of *Whose Line Is It, Anyway?*.
 
-They performed at the [[Wikipedia - Just for Laughs|Just for Laughs Comedy Fest in Montreal]] and at the HBO workspace in L. A., and were important figures in the [[Big Stinkin' Improv Festival]].
+They performed at the Just for Laughs Comedy Fest in Montreal and at the HBO workspace in L. A., and were important figures in the Big Stinkin' Improv Festival.
 
-The troupe had several musical directors: first [[Ben Prince]], then [[Tim Girardot]], and then [[Paul Finley]].
+The troupe had several musical directors: first Ben Prince, then Tim Girardot, and then Paul Finley.
 
-[[Sarah Pattison Cavazos]] and, later, [[Mervyn Burnett]] served as the troupe's lighting directors.
+Sarah Pattison Cavazos and, later, Mervyn Burnett served as the troupe's lighting directors.
 
 ## Media
 ![[Monks T-Shirt.jpg|A Monks' Night Out t-shirt.]]

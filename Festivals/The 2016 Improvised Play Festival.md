@@ -10,12 +10,12 @@ It is produced by [[Performers/Thedward Blevins|Thedward Blevins]].
 * *[[Shows/Austin Secrets|Austin Secrets]]*
 * [[Troupes/Austin-Austin|Austin-Austin]]
 * *[[Shows/Boy, Howdy!|Boy, Howdy!]]*
-* *[[Express Yourself]]*
-* *[[The Fitzgeralds Save the World]]*
+* *Express Yourself*
+* *The Fitzgeralds Save the World*
 * The Half-Written Play, a Physical Plant Theater & [[Performers/Jon Bolden|Jon Bolden]] Project
 * *[[Shows/Origins|Origins]]*
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
-* [[The Reason]]
+* The Reason
 * *[[Shows/Teenage Wasteland|Teenage Wasteland]]*
 
 ### Out-of-Town Acts
@@ -26,4 +26,4 @@ It is produced by [[Performers/Thedward Blevins|Thedward Blevins]].
 
 ## More Information
 * [The festival website.](http://www.improvisedplayfestival.com/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

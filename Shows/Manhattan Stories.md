@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Manhattan Stories*** was an improvised longform show in style of the films of [[Wikipedia - Woody Allen|Woody Allen]].
+***Manhattan Stories*** was an improvised longform show in style of the films of Woody Allen.
 
 ## History
 It originally ran in July/August of 2012 but was extended through September.
@@ -165,5 +165,5 @@ It originally ran in July/August of 2012 but was extended through September.
 	* [A Hideout blogpost about the show](http://www.hideouttheatre.com/an-insiders-look-at-manhattan-stories-improvised-woody-allen) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Post about "Sex & Death"](http://www.hideouttheatre.com/manhattan-stories-the-game), a show-associated game by [[Performers/Marc Majcher|Marc Majcher]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

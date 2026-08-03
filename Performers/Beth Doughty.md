@@ -26,9 +26,9 @@ Beth dabbles in improv and sketch, but spends most of her time producing short f
 
 ## Troupes
 * [[Troupes/BatShyt Crazy|BatShyt Crazy]]
-* [[The Moral Compass Rumpus]]
+* The Moral Compass Rumpus
 
 
 
 [[Category/Performers|Doughty]]
-[[Category/Active|Category:Active]]
+Category:Active

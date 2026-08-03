@@ -26,6 +26,6 @@ Donna moved to Austin, Texas in October of 2013. Six days later, she happened to
 
 ## Shows
 * *[[Shows/Rock N Roll Purgatory|Rock N Roll Purgatory]]*
-* *[[The Last Freakshow]]*
+* *The Last Freakshow*
 
 [[Category/Performers|Rice]]

@@ -23,14 +23,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
+  --><li style="">Bob Khosravi</li><!--
   --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
-  --><li style=""><a class="internal-link" href="Jerry Akellian">Jerry Akellian</a></li><!--
+  --><li style="">Jerry Akellian</li><!--
   --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Reid Jacobson">Reid Jacobson</a></li><!--
-  --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
-  --><li style=""><a class="internal-link" href="Valerie Nies">Valerie Nies</a></li><!--
+  --><li style="">Reid Jacobson</li><!--
+  --><li style="">Robin Anderson</li><!--
+  --><li style="">Valerie Nies</li><!--
   --><!--
   --><!--
   --><!--
@@ -84,7 +84,7 @@
 
 
 
-***"_____" or Bust!*** was a longform improv show loosely inspired by [[Wikipedia - National Lampoon's Vacation (film series)|National Lampoon's *Vacation* film series]].
+***"_____" or Bust!*** was a longform improv show loosely inspired by National Lampoon's *Vacation* film series.
 
 It was one of the [[Merlin Works Graduation Shows]].
 
@@ -94,4 +94,4 @@ The show ran as part of *[[Shows/The Saturday Night Special|The Saturday Night S
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=11189&p=98103) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

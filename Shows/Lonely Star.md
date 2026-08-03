@@ -79,7 +79,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Emily Cawood">Emily Cawood</a> (costume design)</li><!--
+  --><li style="">Emily Cawood (costume design)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (scoring)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a> (sound effects)</li><!--
   --><!--
@@ -137,12 +137,12 @@
 	</table>
 </div>
 
-***Lonely Star*** is an upcoming mainstage show at [[Theatres/The Institution Theater|The Institution Theater]], inspired by "space westerns" such as *[[Wikipedia - Firefly (TV series)|Firefly]]* and *[[Wikipedia - Cowboy Bebop|Cowboy Bebop]]*.  It will run on Fridays and Saturdays at 8pm, from 11/6/15 to 11/21/15.
+***Lonely Star*** is an upcoming mainstage show at [[Theatres/The Institution Theater|The Institution Theater]], inspired by "space westerns" such as *Firefly* and *Cowboy Bebop*.  It will run on Fridays and Saturdays at 8pm, from 11/6/15 to 11/21/15.
 
 ## History
 ### Guest Stars
 * 11/5: [[Performers/Kareem Badr|Kareem Badr]]
-* 11/6: [[Haley Alea Erickson]]
+* 11/6: Haley Alea Erickson
 * 11/13: [[Performers/Alexander Hilary|Alexander Hilary]]
 * 11/14: [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * 11/20: [[Performers/Kacey Samiee|Kacey Samiee]]
@@ -160,4 +160,4 @@
 ## More Information
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=18234) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

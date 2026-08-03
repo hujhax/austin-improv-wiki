@@ -25,7 +25,7 @@
   --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
+  --><li style="">Robin Anderson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@
 At the start of the show, the troupe got a suggestion from the audience that they made into the reason for the apocalypse.  A [La Ronde](http://wiki.improvresourcecenter.com/index.php?title=La_Ronde) established characters and then they went from there in a long-form story.
 
 ## History
-[[Performers/Andreas Fabis|Andreas Fabis]] founded the troupe after the end of *[[Shows/Apocalypse! (Show)|Apocalypse!]]*, the similarly-themed show of the same name.  They performed their last show on 12/21/12, the day of the so-called [[Wikipedia - 2012 phenomenon#Apocalypse|"Mayan Apocalypse"]].
+[[Performers/Andreas Fabis|Andreas Fabis]] founded the troupe after the end of *[[Shows/Apocalypse! (Show)|Apocalypse!]]*, the similarly-themed show of the same name.  They performed their last show on 12/21/12, the day of the so-called "Mayan Apocalypse".
 
 ## Media
 ### Videos

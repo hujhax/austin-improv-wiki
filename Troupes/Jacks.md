@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
+  --><li style="">Arian Brumby</li><!--
   --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
+  --><li style="">Sarah Coker</li><!--
   --><!--
   --><!--
   --><!--
@@ -76,4 +76,4 @@
 They played in the 7/23/14 *Cagematch*.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

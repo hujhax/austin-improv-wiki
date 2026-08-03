@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andy Pereira">Andy Pereira</a></li><!--
+  --><li style="">Andy Pereira</li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--

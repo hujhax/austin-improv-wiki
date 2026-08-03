@@ -27,14 +27,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Cindy Brio">Cindy Brio</a></li><!--
-  --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
-  --><li style=""><a class="internal-link" href="Kendall Raymond">Kendall Raymond</a></li><!--
-  --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
+  --><li style="">Cindy Brio</li><!--
+  --><li style="">Frank Sánchez</li><!--
+  --><li style="">Kendall Raymond</li><!--
+  --><li style="">Marissa Macy</li><!--
   --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
-  --><li style=""><a class="internal-link" href="Shane Gannaway">Shane Gannaway</a></li><!--
-  --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
-  --><li style=""><a class="internal-link" href="Way Spurr-Chen">Way Spurr-Chen</a></li><!--
+  --><li style="">Shane Gannaway</li><!--
+  --><li style="">Trent Thomson</li><!--
+  --><li style="">Way Spurr-Chen</li><!--
   --><!--
   --><!--
   --><!--
@@ -93,13 +93,13 @@ Powered by newfangled inventions and a percussive soundtrack created by the cast
 
 ## Full Crew List
 * Props and Costumes Master: [[Performers/Cindy Page|Cindy Page]]
-* Props and Costumes: [[Rachel Collier]]
-* Stage Manager: [[Biz Gilmore]]
-* Lights: [[Max Kaufmann]]
-* Sound Effects: [[Paul Henderson]]
+* Props and Costumes: Rachel Collier
+* Stage Manager: Biz Gilmore
+* Lights: Max Kaufmann
+* Sound Effects: Paul Henderson
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/clickclickwhir)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

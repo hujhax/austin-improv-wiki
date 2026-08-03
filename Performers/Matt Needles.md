@@ -25,14 +25,14 @@
 * [[Troupes/Empty Promises|Empty Promises]]
 * [[Troupes/Array|Array]]
 * [[Troupes/Cheap Date|Cheap Date]]
-* [[The Comedy Bazaar]]
+* The Comedy Bazaar
 * [[Troupes/Lunch Pail|Lunch Pail]]
 
 ## Shows
 * *[[Shows/TGIS|TGIS]]*
 * *[[Shows/The Organ Trail|The Organ Trail]]*
-* *[[A Brief History of Murder]]*
-* *[[A Brief History of Magic]]*
-* *[[Rezurangur]]*
+* *A Brief History of Murder*
+* *A Brief History of Magic*
+* *Rezurangur*
 
 [[Category/Performers|Needles]]

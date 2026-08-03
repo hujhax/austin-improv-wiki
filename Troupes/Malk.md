@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
+  --><li style="">Mac Blake</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Malk is the two person troupe mashing up [[Performers/Lance Gilstrap|Lance Gilstrap]] and [[Mac Blake]].</p> 
+Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Malk is the two person troupe mashing up [[Performers/Lance Gilstrap|Lance Gilstrap]] and Mac Blake.</p> 
 
 <p>Between them, half of Austin's comedy has been covered... [[Troupes/Midnight Society|Midnight Society]], KOOP's Mascot Wedding, Master Pancake Theater, *[[Shows/The Hustle Show|The Hustle Show]]*, [[Troupes/Stag Comedy|Stag Comedy]], [[Troupes/Hot Property|Hot Property]], and a finalist in the Funniest Person in Austin.</p></blockquote>
 

@@ -18,14 +18,14 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Lucky Chaos Theatre Projects">Lucky Chaos Theatre Projects</a></td>
+			<td class="category">Lucky Chaos Theatre Projects</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bobby Ford">Bobby Ford</a></li><!--
-  --><li style=""><a class="internal-link" href="Circe Sturm">Circe Sturm</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style="">Circe Sturm</li><!--
+  --><li style="">Jessica Salinas</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kathy Rose Center">Kathy Rose Center</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
@@ -120,4 +120,4 @@
 ## More Information
 * [Audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=15339) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

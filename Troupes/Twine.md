@@ -17,11 +17,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Amar Dev">Amar Dev</a></li><!--
+  --><li style="">Benjamin Blattberg</li><!--
+  --><li style="">Amar Dev</li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
-  --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
-  --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
+  --><li style="">Graham Snow</li><!--
+  --><li style="">Trent Symmonds</li><!--
   --><!--
   --><!--
   --><!--
@@ -130,4 +130,4 @@ The suggestion is taken from the audience as a single word (ex: "Atlantis"). The
 * Show Count: 3 (as of 3/2017)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

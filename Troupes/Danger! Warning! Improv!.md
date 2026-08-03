@@ -78,7 +78,7 @@ In a Danger! Warning! Improv!, both actors play all the parts, trading parts bac
 ## Formats
 The troupe primarily works in specific genres for each show.
 
-So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|James Bond]]), "Two to Beam Up" (*[[Wikipedia - Star Trek|classic Star Trek]]* -- also known as "Double Tribble"), and "Elementary, Dear Holmes" (classic [[Wikipedia - Sherlock Holmes|Sherlock Holmes]]).
+So far, their formats have been "Secret Agent Men" (James Bond), "Two to Beam Up" (*classic Star Trek* -- also known as "Double Tribble"), and "Elementary, Dear Holmes" (classic Sherlock Holmes).
 
 ## Media
 ### Videos
@@ -111,5 +111,5 @@ So far, their formats have been "Secret Agent Men" ([[Wikipedia - James Bond|Jam
 * [The troupe's facebook page.](http://www.facebook.com/pages/Danger-Warning-Improv/346798645384312)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

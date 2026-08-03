@@ -22,7 +22,7 @@
 **Katie Thornton** is an improv performer.
 
 ## History
-Katie started taking improv classes with [[Performers/Shana Merlin|Shana Merlin]] at [[The State Theater]] in 2007, with classmates [[Performers/Courtney Hopkin|Courtney Hopkin]] and [[Albert Im]].
+Katie started taking improv classes with [[Performers/Shana Merlin|Shana Merlin]] at The State Theater in 2007, with classmates [[Performers/Courtney Hopkin|Courtney Hopkin]] and Albert Im.
 
 ## Troupes
 * [[Troupes/Snackers|Snackers]]
@@ -37,7 +37,7 @@ Katie started taking improv classes with [[Performers/Shana Merlin|Shana Merlin]
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (Kelly Taylor)
 * *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
-* *[[Oscar Bait]]*
+* *Oscar Bait*
 * *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Shows/Beware of Female Spies|Beware of Female Spies]]* (producer) 
 * ''[[Shows/Back In Townsville|Back In Townsville]]

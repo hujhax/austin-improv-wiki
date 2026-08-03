@@ -9,10 +9,10 @@ These are the published rules from the 2008 contest[http://forum.austinimprov.co
 * 2006:
 	* Winner: [[Performers/Kaci Beeler|Kaci Beeler]] with *Opening Night at the Burton Community Theater*
 	* Runners-up:
-		* [[Wesley Bain]] with *Final Moments* 
-		* [[Jesse Parent]] with *The Hook* 
+		* Wesley Bain with *Final Moments* 
+		* Jesse Parent with *The Hook* 
 		* [[Performers/Andy Crouch|Andy Crouch]] with *The Vulnerable Show* 
-		* [[Wesley Bain]] with *You Again*
+		* Wesley Bain with *You Again*
 * 2007: 
 	* Winner: [[Performers/Jeff Britt|Jeff Britt]] with *Wild Strawberries* [http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499](http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499)
 	* Runner-up: [[Performers/Roy Janik|Roy Janik]] with *The Tesseract* [http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499](http://forum.austinimprov.com/viewtopic.php?f=11&t=4514#p37499)

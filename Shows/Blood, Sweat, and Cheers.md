@@ -24,7 +24,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy Gentry">Amy Gentry</a></li><!--
+  --><li style="">Amy Gentry</li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
@@ -85,7 +85,7 @@
 ***Blood, Sweat, and Cheers*** is a devised play about competitive cheerleading.
 
 ## Summary
-The script was written by [[Amy Gentry]] and [[Performers/Kaci Beeler|Kaci Beeler]].  It was subsequently revised to incorporate improvisations by the cast, via a process inspired by Chicago's New Colony theater company.
+The script was written by Amy Gentry and [[Performers/Kaci Beeler|Kaci Beeler]].  It was subsequently revised to incorporate improvisations by the cast, via a process inspired by Chicago's New Colony theater company.
 
 ### Cast
 * Barbara Davis -- [[Performers/Jessica Arjet|Jessica Arjet]]
@@ -94,7 +94,7 @@ The script was written by [[Amy Gentry]] and [[Performers/Kaci Beeler|Kaci Beele
 * James Kowalski  -- [[Performers/Alex Dobrenko|Alex Dobrenko]]
 * Kennedy Campbell  -- [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]]
 * Chrissy McCarthy  -- [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]]
-* Katherine Pepper (Coach Kay) -- [[Amy Gentry]]
+* Katherine Pepper (Coach Kay) -- Amy Gentry
 * Samantha "Sam" Rogers -- [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * Jason Flipp (Coach Jay) -- [[Performers/Curtis Luciani|Curtis Luciani]]
 * Bob Davis -- [[Performers/Paul Normandin|Paul Normandin]]
@@ -103,7 +103,7 @@ The show also features 9 athletes from Austin Cheer Factory, Austin's most elite
 
 ### Crew
 * Choreography -- Amanda Butterfield, [[Performers/Cortney DeAngelo|Cortney DeAngelo]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]], and the Austin Cheer Factory
-* Lighting design -- [[Brigette Hutchison]]
+* Lighting design -- Brigette Hutchison
 * Sound -- [[Performers/Bridget Brewer|Bridget Brewer]]
 * Set design -- [[Performers/Jon Bolden|Jon Bolden]] and [[Performers/Kaci Beeler|Kaci Beeler]]
 * Photography -- [[Performers/Jon Bolden|Jon Bolden]]
@@ -139,4 +139,4 @@ Several cast members played as an exhibition team in *[[Shows/TheatreSports|Thea
 * [The show's blog.](http://austincheershow.blogspot.com/)
 * [An interview about the play](http://kut.org/2013/05/204801/) with [[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Halyn Erickson|Halyn Erickson]] on KUT's *Arts Eclectic*.
 * [An interview](http://www.mystatesman.com/news/entertainment/like-a-local-kaci-beeler-cheers-for-some-laughs/nX5Bx/) with [[Performers/Kaci Beeler|Kaci Beeler]] in *The Austin-American Statesman*.
-[[Category/Shows|Category:Shows]]
+Category:Shows

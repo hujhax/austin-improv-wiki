@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Summer Wilson Brow">Summer Wilson Brow</a></li><!--
+  --><li style="">Summer Wilson Brow</li><!--
   --><!--
   --><!--
   --><!--

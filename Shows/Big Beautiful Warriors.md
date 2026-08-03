@@ -31,4 +31,4 @@
 
 Created, produced and performed by [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]], the show is best known for "Frank Calls," improvised group prank calls.
 
-[[Category/Shows|Big]]
+Big

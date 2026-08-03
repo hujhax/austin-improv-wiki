@@ -74,7 +74,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
+  --><li style="">Amanda Hinsman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
@@ -83,7 +83,7 @@
   --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
-  --><li style=""><a class="internal-link" href="Megan Moten">Megan Moten</a></li><!--
+  --><li style="">Megan Moten</li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
@@ -130,8 +130,8 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Mark Shoemaker">Mark Shoemaker</a> (lights, sound)</li><!--
-  --><li style=""><a class="internal-link" href="Zoe Jaye">Zoe Jaye</a> (stage manager)</li><!--
-  --><li style=""><a class="internal-link" href="Victoria Hawthorne">Victoria Hawthorne</a> (costumes)</li><!--
+  --><li style="">Zoe Jaye (stage manager)</li><!--
+  --><li style="">Victoria Hawthorne (costumes)</li><!--
   --><!--
   --><!--
   --><!--
@@ -246,5 +246,5 @@ The show was sponsored by Treaty Oak Rum and The Crow Bar.
 * [Francesca the Fierce promo video](http://www.youtube.com/watch?v=UeehwECBrWg)
 * [Captain Finch promo video](http://www.youtube.com/watch?v=F4lqCthf22I)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

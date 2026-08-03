@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Allen Rogers">Allen Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Nowrouz">Elizabeth Nowrouz</a></li><!--
-  --><li style=""><a class="internal-link" href="G-Su Paek">G-Su Paek</a></li><!--
-  --><li style=""><a class="internal-link" href="Karen Early">Karen Early</a></li><!--
+  --><li style="">Allen Rogers</li><!--
+  --><li style="">Elizabeth Nowrouz</li><!--
+  --><li style="">G-Su Paek</li><!--
+  --><li style="">Karen Early</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Meal of Sides is an ensemble cast of veteran performers at TNM including [[G-Su Paek]] (Judge G-Su, The Megaphone Show), [[Karen Early]] (Liar Liar, The Megaphone Show), [[Elizabeth Nowrouz]] (Part II, Tourceratops) and [[Allen Rogers]] (Nixon, Bananas Foster Wallace).
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Meal of Sides is an ensemble cast of veteran performers at TNM including G-Su Paek (Judge G-Su, The Megaphone Show), Karen Early (Liar Liar, The Megaphone Show), Elizabeth Nowrouz (Part II, Tourceratops) and Allen Rogers (Nixon, Bananas Foster Wallace).
 
 Playing their own version of Close Quarters-a pithy, Pulp Fiction-esque show form-Meal of Sides offers the audience everything from teeming, show-stopping, cerebral brilliance to the lowest form of primordial comedy-the pun. Most of all they have fun and you will too.</blockquote>
 
@@ -91,4 +91,4 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

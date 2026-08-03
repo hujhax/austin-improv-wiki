@@ -74,7 +74,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Dean Palm">Dean Palm</a></li><!--
+  --><li style="">Dean Palm</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
@@ -133,13 +133,13 @@
 	</table>
 </div>
 
-***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] about love, with a structure similar to the film *[[Wikipedia - Love, Actually|Love, Actually]]*.
+***I Love You So Much*** (full title: ***I Love You So Much: Improvised Stories of Love***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] about love, with a structure similar to the film *Love, Actually*.
 
 ## Summary
 Each performance featured three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer played one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show emphasized honest, grounded scenes and vulnerability, similar to the style of British improv duo [Ten Thousand Million Love Stories](http://www.facebook.com/TenThousandMillionLoveStories).
 
 ## History
-At the end of opening night of *I Love You So Much*, improviser [[Performers/Ryan Hill|Ryan Hill]] proposed to improviser [[Performers/Jen Kaplan|Jen Kaplan]], during a contrived "bonus scene" set up by [[Performers/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, [[Dean Palm]], was in the tech booth.
+At the end of opening night of *I Love You So Much*, improviser [[Performers/Ryan Hill|Ryan Hill]] proposed to improviser [[Performers/Jen Kaplan|Jen Kaplan]], during a contrived "bonus scene" set up by [[Performers/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, Dean Palm, was in the tech booth.
 
 Later in the run, an audience member proposed to his girlfriend during a show (she also said yes).
 
@@ -163,6 +163,6 @@ Later in the run, an audience member proposed to his girlfriend during a show (s
 * [Post about the show](http://yesandrew.com/2014/01/25/i-love-you-so-much/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Post about the show](http://www.hideouttheatre.com/trust-and-love) by [[Performers/Bridget Brewer|Bridget Brewer]] on the Hideout blog.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

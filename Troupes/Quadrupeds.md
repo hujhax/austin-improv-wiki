@@ -87,5 +87,5 @@ And repeat a third time with yet another choice. We try to make sure the stories
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Allison Parra">Allison Parra</a></li><!--
-  --><li style=""><a class="internal-link" href="Brooke Becker">Brooke Becker</a></li><!--
-  --><li style=""><a class="internal-link" href="Coco Robertson">Coco Robertson</a></li><!--
-  --><li style=""><a class="internal-link" href="Eden Keig">Eden Keig</a></li><!--
-  --><li style=""><a class="internal-link" href="Erin Caldwell">Erin Caldwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyrie Wynn">Kyrie Wynn</a></li><!--
+  --><li style="">Allison Parra</li><!--
+  --><li style="">Brooke Becker</li><!--
+  --><li style="">Coco Robertson</li><!--
+  --><li style="">Eden Keig</li><!--
+  --><li style="">Erin Caldwell</li><!--
+  --><li style="">Kyrie Wynn</li><!--
   --><!--
   --><!--
   --><!--

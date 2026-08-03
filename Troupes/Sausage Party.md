@@ -18,17 +18,17 @@
   --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style="">Katie Sicking</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
-  --><li style="" ><a class="internal-link" href="Liz Dykes">Liz Dykes</a></li><!--
+  --><li style="">Liz Butler</li><!--
+  --><li style="" >Liz Dykes</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
-  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
-  --><li style=""><a class="internal-link" href="Sandra Markarian">Sandra Markarian</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
+  --><li style="">Patricia Tate</li><!--
+  --><li style="">Sandra Markarian</li><!--
+  --><li style="">Stephanie Russo</li><!--
+  --><li style="">Teresa Kubos</li><!--
   --><!--
   --><!--
   --><!--

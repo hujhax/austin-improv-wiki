@@ -189,6 +189,6 @@ But just before they blast us into particle dust, they want to get to know us a 
 * Show Count: 16 (as of 11/21/2014)
  
 [[Category/Troupes|Starborn]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Starborn]]
 [[Category/Started as a Fringe Show|Starborn‎]]

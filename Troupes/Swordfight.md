@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
-  --><li style=""><a class="internal-link" href="Mark Bond">Mark Bond</a></li><!--
-  --><li style=""><a class="internal-link" href="Rachel Slager">Rachel Slager</a></li><!--
-  --><li style=""><a class="internal-link" href="Ryan Thomas">Ryan Thomas</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Smith">Scott Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Sonny Castillo">Sonny Castillo</a></li><!--
+  --><li style="">Indigo Rael</li><!--
+  --><li style="">Mark Bond</li><!--
+  --><li style="">Rachel Slager</li><!--
+  --><li style="">Ryan Thomas</li><!--
+  --><li style="">Scott Smith</li><!--
+  --><li style="">Sonny Castillo</li><!--
   --><!--
   --><!--
   --><!--

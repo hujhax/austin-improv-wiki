@@ -21,19 +21,19 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
-  --><li style=""><a class="internal-link" href="Daniel Erving">Daniel Erving</a></li><!--
+  --><li style="">Daniel Erving</li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Eli Eidson</a></li><!--
-  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
+  --><li style="">Jake Millward</li><!--
+  --><li style="">Katie Moore</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style="">Maitland Lederer</li><!--
+  --><li style="">Naomi Perryman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
-  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
-  --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
+  --><li style="">Steve Moore</li><!--
+  --><li style="">Will Casto</li><!--
   --><!--
   --><!--
   --><!--
@@ -108,4 +108,4 @@ The show included stage-blood effects and fight choreography.
 * [A review of the show](http://yesandrew.com/2013/08/21/there-will-be-fake-blood/comment-page-1) by [[Performers/Andrew Buck|Andrew Buck]] on his blog.
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2461457) with director [[Performers/Cody Dearing|Cody Dearing]] and cast member [[Performers/Chrissy Shackelford|Chrissy Shackelford]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

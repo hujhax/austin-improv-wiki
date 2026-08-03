@@ -85,4 +85,4 @@ This show is what *[[Shows/The Jam with Oh, Science!|The Jam with Oh, Science!]]
 
 It had its first performance on 5/12/13.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

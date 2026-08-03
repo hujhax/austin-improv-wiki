@@ -28,13 +28,13 @@ After moving to Texas in 2003, he received improv lessons as a gift for Christma
 He was asked to join the newly forming Austin troupe [[Troupes/Improv For Evil|Improv For Evil]], which he accepted and became one of the troupe's original members. Improv for Evil debuted in May of 2007 at the Hideout, opening *[[Shows/The Threefer|The Threefer]]*.
 
 ## Troupes
-* [[Big and Tall]]
+* Big and Tall
 * [[Shows/GrimmNoir|GrimmNoir]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 
 ## Shows
-* *[[The Blank Show]]*
+* *The Blank Show*
 * *[[Shows/Blue Maestro|Blue Maestro]]*
 * *[[Shows/The Cagematch|The Cagematch]]* (host, 2007)
 * *[[Shows/Cochise|Cochise]]*
@@ -48,9 +48,9 @@ He was asked to join the newly forming Austin troupe [[Troupes/Improv For Evil|I
 * *[[Shows/Maestro|Maestro]]*
 * *[[Shows/The Nightmare Video Project|The Nightmare Video Project]]*
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
-* *[[Splatter Theater]]*
+* *Splatter Theater*
 * *[[Shows/TheatreSports|TheatreSports]]* (2007)
 * *[[Shows/The Tribunal|The Tribunal]]*
-* *[[Late Night Time Machine With Teddy Hancox]]*
+* *Late Night Time Machine With Teddy Hancox*
 
 [[Category/Performers|Kinald]]

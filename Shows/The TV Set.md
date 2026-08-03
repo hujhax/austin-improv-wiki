@@ -46,5 +46,5 @@ In May 2013, perhaps due to running out of TV-themed shows and troupes who hadn'
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/thetvset)
 
-[[Category/Shows|TV Set]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+TV Set
+Category:The Hideout Theatre

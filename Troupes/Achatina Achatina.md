@@ -20,16 +20,16 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Brian Howard">Brian Howard</a></li><!--
-  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style="">Brian Howard</li><!--
+  --><li style="">Chaz Formichella</li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Ed Reed IV">Ed Reed IV</a></li><!--
-  --><li style=""><a class="internal-link" href="Grant Specht">Grant Specht</a></li><!--
+  --><li style="">Ed Reed IV</li><!--
+  --><li style="">Grant Specht</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style="" ><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Derman">Matt Derman</a></li><!--
-  --><li style=""><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
+  --><li style="" >Liz Butler</li><!--
+  --><li style="">Matt Derman</li><!--
+  --><li style="">Steve Donovan</li><!--
   --><!--
   --><!--
   --><!--
@@ -93,4 +93,4 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Never Performed|Category:Never Performed]]
+Category:Never Performed

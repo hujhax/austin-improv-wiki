@@ -33,9 +33,9 @@ A post from her about the first improv show she ever saw:<blockquote><p>My siste
 <p>Then, I came back to Austin a few months later. I went to a [[Troupes/Pgraph|Pgraph]] show with my friend who had free tickets because she was taking an improv class. The show stuck in my mind because I'd never seen an improvised narrative, and I certainly had never seen any dramatic improv. It was their Eris format and [[Performers/Roy Janik|Roy]]'s character died or disappeared in space or something. I hate sci-fi, but I loved that show because it wasn't really about sci-fi at all; it was about people and feelings.</p> </blockquote>
 
 ## Troupes
-* [[Dance Card]]
+* Dance Card
 * [[Troupes/The Nesting Dolls|The Nesting Dolls]]
-* [[Nice Save]]
+* Nice Save
 * [[Troupes/Royston|Royston]]
 * [[Troupes/Sugarbakers|Sugarbakers]]
 
@@ -48,7 +48,7 @@ A post from her about the first improv show she ever saw:<blockquote><p>My siste
 * *[[Shows/The Suitcase|The Suitcase]]*
 
 ## More Information
-* [Her self-introduction thread](http://forum.austinimprov.com/viewtopic.php?f=21&t=11684) on [[The AIC Forum]].
+* [Her self-introduction thread](http://forum.austinimprov.com/viewtopic.php?f=21&t=11684) on The AIC Forum.
 * ["In Praise Of..." post](http://yesandrew.com/2013/07/05/in-praise-of-kayla-lane-freeman/) by [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]].
 * [A post bidding farewell to Austin](http://www.hideouttheatre.com/marathon-musings-before-leaving-austin) from the Hideout blog.
 

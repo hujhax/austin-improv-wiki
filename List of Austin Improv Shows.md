@@ -5,8 +5,8 @@ Here is a list of shows that have run or are running in Austin, organized by pro
 * *[[Shows/The Cagematch|The Cagematch]]*
 * *[[Shows/Comedy Bazaar|Comedy Bazaar]]*
 * *[[Shows/Movie Riot|Movie Riot]]*
-* *[[Nice Astronaut Presents Improv Roulette]]*
-* *[[Play By Play]]*
+* *Nice Astronaut Presents Improv Roulette*
+* *Play By Play*
 * *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*
 * *[[Troupes/What's the Story Steve|What's the Story Steve]]*
 
@@ -59,7 +59,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Shows/Documentary Later -  The Doc Web|Documentary Later -  The Doc Web]]*
 * *[[Shows/Old Love (an improvised comedy)|Old Love (an improvised comedy)]]*
 * *[[Shows/One Hour Til Air|One Hour Til Air]]*
-* *[[StarringYallWeAsian]]*
+* *StarringYallWeAsian*
 * *[[Shows/The Rose -  Trouble in Paradise|The Rose -  Trouble in Paradise]]*
 * *[[Shows/Way Down in the Hole|Way Down in the Hole]]*
 * *[[Shows/Angola (a comedy)|Angola (a comedy)]]*
@@ -149,7 +149,7 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 
 ### Mainstage Productions
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*
-* *[[Bitterfest]]*
+* *Bitterfest*
 * *[[Shows/Boys of Summer|Boys of Summer]]*
 * *[[Shows/Buzz Band|Buzz Band]]*
 * *[[Shows/Danger|Danger]]*
@@ -191,5 +191,5 @@ The Hideout Theatre puts on regular shows that run weekly or monthly for long pe
 * *[[Shows/Stoned vs. Drunk vs. Sober|Stoned vs. Drunk vs. Sober]]*
 * *[[Shows/Student Union|Student Union]]*
 
-## [[Lucky Chaos Theatre Projects]]
+## Lucky Chaos Theatre Projects
 * *[[Shows/The ReSet Project|The ReSet Project]]*

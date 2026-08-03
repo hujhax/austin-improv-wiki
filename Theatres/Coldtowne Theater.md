@@ -33,8 +33,8 @@ The theater was founded by the improv troupe [[Troupes/ColdTowne (Troupe)|ColdTo
 * *[[Shows/The Cagematch|The Cagematch]]*
 * *[[Shows/Comedy Bazaar|Comedy Bazaar]]*
 * *[[Shows/Movie Riot|Movie Riot]]*
-* *[[Nice Astronaut Presents Improv Roulette]]*
-* *[[Play By Play]]*
+* *Nice Astronaut Presents Improv Roulette*
+* *Play By Play*
 * *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*
 * *[[Troupes/What's the Story Steve|What's the Story Steve]]*
 
@@ -87,7 +87,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Shows/Documentary Later -  The Doc Web|Documentary Later -  The Doc Web]]*
 * *[[Shows/Old Love (an improvised comedy)|Old Love (an improvised comedy)]]*
 * *[[Shows/One Hour Til Air|One Hour Til Air]]*
-* *[[StarringYallWeAsian]]*
+* *StarringYallWeAsian*
 * *[[Shows/The Rose -  Trouble in Paradise|The Rose -  Trouble in Paradise]]*
 * *[[Shows/Way Down in the Hole|Way Down in the Hole]]*
 * *[[Shows/Angola (a comedy)|Angola (a comedy)]]*
@@ -113,4 +113,4 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 
 ## Media
 * [Post about the theater](http://yesandrew.com/2014/03/24/austin-improv-theaters-as-modern-american-humorists-day-1-coldtowne/) by [[Performers/Andrew Buck|Andrew Buck]].
-[[Category/Theatres|Category:Theatres]]
+Category:Theatres

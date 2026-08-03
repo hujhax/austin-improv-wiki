@@ -20,11 +20,11 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Indigo Rael">Indigo Rael</a></li><!--
+  --><li style="">Indigo Rael</li><!--
   --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style="">Nat Miller</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
-  --><li style=""><a class="internal-link" href="Wayne Alan Brenner">Wayne Alan Brenner</a></li><!--
+  --><li style="">Wayne Alan Brenner</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,12 +78,12 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: John Hughes Summer School*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of "John Hughes Summer School", a staged reading of various scenes from classic [[Wikipedia - John Hughes|John Hughes]] teen films.
+***Live TV Tuesdays: John Hughes Summer School*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of "John Hughes Summer School", a staged reading of various scenes from classic John Hughes teen films.
 
 ## Summary
 It ran exclusively at [[Theatres/The Highball|The Highball]].
 
-[[Wayne Allen Brenner]] played the role of John Hughes.
+Wayne Allen Brenner played the role of John Hughes.
 
 ## Crew
 ## Media
@@ -91,4 +91,4 @@ It ran exclusively at [[Theatres/The Highball|The Highball]].
 
 ## More Information
 * [Forum announcement of the show.](http://forum.austinimprov.com/viewtopic.php?p=109894)
-[[Category/Shows|Category:Shows]]
+Category:Shows

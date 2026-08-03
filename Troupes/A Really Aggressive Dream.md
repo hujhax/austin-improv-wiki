@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Barrett Phelan">Barrett Phelan</a></li><!--
-  --><li style=""><a class="internal-link" href="Erika Bundy">Erika Bundy</a></li><!--
-  --><li style=""><a class="internal-link" href="Jaci Kramer">Jaci Kramer</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Davis">Matt Davis</a></li><!--
+  --><li style="">Barrett Phelan</li><!--
+  --><li style="">Erika Bundy</li><!--
+  --><li style="">Jaci Kramer</li><!--
+  --><li style="">Matt Davis</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Richard Gentry">Richard Gentry</a></li><!--
+  --><li style="">Richard Gentry</li><!--
   --><!--
   --><!--
   --><!--
@@ -85,4 +85,4 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Really Aggressive Dream]]
 [[Category/Auto-Generated Troupe Pages|Really Aggressive Dream]]
-[[Category/Active|Really Aggressive Dream]]
+Really Aggressive Dream

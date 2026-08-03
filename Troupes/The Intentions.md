@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bob Khosravi">Bob Khosravi</a></li><!--
+  --><li style="">Bob Khosravi</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
@@ -92,5 +92,5 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 ## More Information
 * [The Intentions' facebook page](http://www.facebook.com/theintentionsimprov/info)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Intentions]]

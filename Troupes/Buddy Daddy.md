@@ -20,7 +20,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
-  --><li style=""><a class="internal-link" href="Robin Goodfellow">Robin Goodfellow</a></li><!--
+  --><li style="">Robin Goodfellow</li><!--
   --><!--
   --><!--
   --><!--
@@ -87,8 +87,8 @@ The duo played [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds C
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.164046067009758.43495.100002130980897&type=3) by [[Steve Rogers]] that includes their 9/1/11 performance in [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 
 ## More Information
-* [Article about the duo](http://www.austinchronicle.com/arts/2007-07-27/507393/) by [[Wayne Allen Brenner]] in *The Austin Chronicle*.
+* [Article about the duo](http://www.austinchronicle.com/arts/2007-07-27/507393/) by Wayne Allen Brenner in *The Austin Chronicle*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active

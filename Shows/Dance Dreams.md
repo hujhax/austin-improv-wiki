@@ -72,16 +72,16 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Kelly Hasandras">Kelly Hasandras</a></li><!--
-  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style="">Kelly Hasandras</li><!--
+  --><li style="">Linzy Beltran</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
-  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
+  --><li style="">Margaret Hunsicker</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicholas Marino">Nicholas Marino</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Way Spurr-Chen">Way Spurr-Chen</a></li><!--
+  --><li style="">Way Spurr-Chen</li><!--
   --><!--
   --><!--
   --><!--
@@ -134,6 +134,6 @@
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/dancedreams)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

@@ -34,17 +34,17 @@
 * *[[Shows/Process|Process]]* (lighting design/run crew)
 * *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
 * *[[Shows/Story to the Death|Story to the Death]]* (scoring)
-* *[[2017 Student Battle Royale]]* (director)
+* *2017 Student Battle Royale* (director)
 * *[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]* (lighting/media design)
-* *[[Gauntlet]]* 
+* *Gauntlet* 
 * *[[Shows/Death By Musical|Death By Musical]]* (sound effects)
 * *[[Shows/Soundstage 23|Soundstage 23]]* (technical director)
-* *[[Martini Ranch -  Queer and Now]]*
+* *Martini Ranch: Queer and Now*
 * ''[[Troupes/Epic|Epic]]
-* *[[Speak No More]]*
-* "[[Spoonful of Sugar]]"
-* "[[Well Made Play]]" (technical director)
-* "[[Shattered]]" (assistant director/technical design)
+* *Speak No More*
+* "Spoonful of Sugar"
+* "Well Made Play" (technical director)
+* "Shattered" (assistant director/technical design)
 
 
 

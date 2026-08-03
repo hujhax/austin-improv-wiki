@@ -129,10 +129,10 @@
 	</table>
 </div>
 
-**The Professor** (full name: ***The Professor: Improv Inspired by *Doctor Who**) is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *[[Wikipedia - Doctor Who|Doctor Who]]*.
+**The Professor** (full name: ***The Professor: Improv Inspired by *Doctor Who**) is a narrative improv troupe that presents improv in the style of the British science-fiction franchise *Doctor Who*.
 
 ## Summary
-While identical in concept to *Doctor Who*, the shows performed by The Professor don't occupy the exact same universe as *Doctor Who*.  The central character is "The Professor", and no mention is made of specific [[Wikipedia - Whoniverse|Whoniverse]] villains.
+While identical in concept to *Doctor Who*, the shows performed by The Professor don't occupy the exact same universe as *Doctor Who*.  The central character is "The Professor", and no mention is made of specific Whoniverse villains.
 
 In the first two seasons, no scenes ever occurred in TARDIS.  Onstage, the exit of the TARDIS was represented by a free-standing blue door.  In season two, this door could flip around to a non-blue side, and thus become a non-TARDIS door on the set.
 
@@ -256,5 +256,5 @@ The run featured tech by [[Michael Yew]].
 * [A 2012 Tor.com blog story about season two.](http://www.tor.com/blogs/2012/04/time-and-relative-dimensions-in-improv-the-professor)
 * [Facebook event for the third season.](http://www.facebook.com/events/1424792731066029/)
 
-[[Category/Shows|Professor]]
+Professor
 [[Category/Troupes|Category:Troupes]]

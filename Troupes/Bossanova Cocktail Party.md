@@ -19,7 +19,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Delaney Liming">Delaney Liming</a></li><!--
+  --><li style="">Delaney Liming</li><!--
   --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
   --><!--
   --><!--

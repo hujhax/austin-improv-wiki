@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Marpe">Jessica Marpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style="">Jessica Marpe</li><!--
+  --><li style="">Naomi Perryman</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,6 +78,6 @@
 * [Video](http://vimeo.com/91532401) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 3/27/14 show.
 
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

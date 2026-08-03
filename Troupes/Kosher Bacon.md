@@ -19,14 +19,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amber Shae">Amber Shae</a></li><!--
-  --><li style=""><a class="internal-link" href="Ashley Carlisle">Ashley Carlisle</a></li><!--
+  --><li style="">Amber Shae</li><!--
+  --><li style="">Ashley Carlisle</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ellen Pittsford">Ellen Pittsford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
-  --><li style=""><a class="internal-link" href="Travis Devitt">Travis Devitt</a></li><!--
+  --><li style="">Travis Devitt</li><!--
   --><!--
   --><!--
   --><!--

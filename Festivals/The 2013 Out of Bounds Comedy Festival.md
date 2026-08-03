@@ -24,7 +24,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[Troupes/Brain Trust|Brain Trust]]
 * [[Shows/Braised in Texas|Braised in Texas]]
 * [[Troupes/Cheap Date|Cheap Date]]
-* [[ColdTowne Rap Tigers]]
+* ColdTowne Rap Tigers
 * [[Troupes/Confidence Men|Confidence Men]]
 * [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]]
 * [[Troupes/Dervish|Dervish]]
@@ -81,7 +81,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [[Troupes/You're Not My Real Dad|You're Not My Real Dad]]
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
-* [[ZEDtalks]]
+* ZEDtalks
 
 ### Out-of-Town Improv and Sketch Acts
 * #UGH (all of my disappointments located conveniently in one show)
@@ -145,7 +145,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * Brendan K. O'Grady
 * Caitlin Durante
 * Chris Gaffney
-* [[Chris Sebilia]]
+* Chris Sebilia
 * [[Performers/Cody Melcher|Cody Melcher]]
 * David Drake
 * Dean Kirkpatrick
@@ -160,7 +160,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * Jake Sharon
 * Jess Salomon
 * Kat Timpf
-* [[Kerri Lendo]]
+* Kerri Lendo
 * Kofi Thomas
 * Linda Stogner
 * Luke Lockfeld
@@ -199,7 +199,7 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 * [Video](http://vimeo.com/76269860) of the Hill/Jones show.
 * [Video of the 8/29/13 roast of Tim League.](http://vimeo.com/74687764)
 * [Video](http://vimeo.com/79299057) of the 8/30/13 All Girl Revue performance.
-* [Video](http://vimeo.com/74055491) of the 8/30/13 [[Stag]] performance.
+* [Video](http://vimeo.com/74055491) of the 8/30/13 Stag performance.
 * [Video of the 8/31/13 All Girl Revue.](http://vimeo.com/74439290)
 * [Video](http://vimeo.com/75094440) of the 9/1/13 [[Troupes/Waiting for Batman|Waiting for Batman]] performance.
 
@@ -211,4 +211,4 @@ The festival roast featured Alamo Drafthouse founder Tim League.
 
 ## More Information
 * [The 2013 Out of Bounds web site.](http://www.outofboundscomedy.com/2013)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

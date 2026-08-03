@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
+  --><li style="">David Hess</li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika McNichol">Erika McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
@@ -81,4 +81,4 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

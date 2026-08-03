@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style="">Brent Foshee</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Jericho Thorpe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
-  --><li style=""><a class="internal-link" href="Todd Schaenbacher">Todd Schaenbacher</a></li><!--
+  --><li style="">Nick Ramirez</li><!--
+  --><li style="">Todd Schaenbacher</li><!--
   --><!--
   --><!--
   --><!--
@@ -83,14 +83,14 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 <p>We perform onstage in character as retired wrestlers. We treat the improv seriously, mostly, but use wrestling themed scene breaks and edits. It's really all about having fun onstage and connecting with the audience.</p></blockquote>
 
 ### Cast
-* [[Brent Foshee]] as The Texecutioner
+* Brent Foshee as The Texecutioner
 * [[Performers/Brett Tribe|Brett Tribe]] as El Tribe Loco
 * [[Performers/Bryan Roberts|Bryan Roberts]] as The Natural Boy
 * [[Performers/Dave Buckman|Dave Buckman]] as Baby Bob Buckland
 * [[Performers/Jericho Thorpe|Jericho Thorpe]] as Psychobilly
 * [[Performers/Lance Gilstrap|Lance Gilstrap]] as Harrison Mack, The Business Maniac
-* [[Nick Ramierez]] as Stone Cold Nick Ramirez
-* [[Todd Schanbacher]] as The Ultimate Midwesterner
+* Nick Ramierez as Stone Cold Nick Ramirez
+* Todd Schanbacher as The Ultimate Midwesterner
 
 ## Media
 ### Photos

@@ -74,12 +74,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Abra Chusid">Abra Chusid</a></li><!--
-  --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Brian Wittenbrook">Brian Wittenbrook</a></li><!--
+  --><li style="">Abra Chusid</li><!--
+  --><li style="">Ashlee Medlin</li><!--
+  --><li style="">Brian Wittenbrook</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Wells">David Wells</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
-  --><li style=""><a class="internal-link" href="Karina Dominguez">Karina Dominguez</a></li><!--
+  --><li style="">Jesse Overright</li><!--
+  --><li style="">Karina Dominguez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***The Amazing Improvised Race*** was a longform improv show loosely inspired by the television show *[[Wikipedia - The Amazing Race|The Amazing Race]]*.
+***The Amazing Improvised Race*** was a longform improv show loosely inspired by the television show *The Amazing Race*.
 
 It was one of the [[Merlin Works Graduation Shows]].
 
@@ -150,4 +150,4 @@ The show ran as part of *[[Shows/The Saturday Night Special|The Saturday Night S
 ## Publicity
 * [Publicity photos for the show.](http://www.facebook.com/hujhax/media_set?set=a.10152313262782265.1073741843.588952264&type=1)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

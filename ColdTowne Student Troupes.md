@@ -1,4 +1,4 @@
-**ColdTowne Student Troupes** are officially sponsored troupes of ColdTowne Theater composed of [[Theatres/ColdTowne Conservatory|ColdTowne Conservatory]] students and graduates.  Auditions are held once to twice per year, and only ColdTowne students and alumni are eligible to audition.  The [[ColdTowne Faculty]] typically selects 9 to 11 performers and assigns a ColdTowne faculty member as the new troupe's coach.  Until the troupe selects a name, they are typically referred as "The New Troupe" or "Troupe X" where X is the student troupe number.
+**ColdTowne Student Troupes** are officially sponsored troupes of ColdTowne Theater composed of [[Theatres/ColdTowne Conservatory|ColdTowne Conservatory]] students and graduates.  Auditions are held once to twice per year, and only ColdTowne students and alumni are eligible to audition.  The ColdTowne Faculty typically selects 9 to 11 performers and assigns a ColdTowne faculty member as the new troupe's coach.  Until the troupe selects a name, they are typically referred as "The New Troupe" or "Troupe X" where X is the student troupe number.
 
 ## ColdTowne Student Troupes
 <table class="wikitable">

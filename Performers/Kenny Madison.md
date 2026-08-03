@@ -32,24 +32,24 @@ Kenny wants you to realize that you need to accept how great you are. Improv cha
 
 ## Troupes
 * [[Troupes/Mirage Machine|Mirage Machine]] (member)
-* [[Camp sLaughter]] (coach)
-* [[Kenny-Rogers]] (member)
+* Camp sLaughter (coach)
+* Kenny/Rogers (member)
 * [[Troupes/Past Life Aggression|Past Life Aggression]] (member)
-* [[Oliver!]] (member)
+* Oliver! (member)
 
 ## Shows
 * *[[Shows/Start Trekkin'|Start Trekkin']]* (player)
-* *[[Fuck It's Christmas!]]* (writer/player)
+* *Fuck It's Christmas!* (writer/player)
 * *[[Shows/It Came From Your Brain!|It Came From Your Brain!]]* (producer/director/Monster Crew)
-* *[[Over the Lege]]* (writer/player)
-* *[[Award Winner]]* (director)
+* *Over the Lege* (writer/player)
+* *Award Winner* (director)
 * *[[Shows/Close Up|Close Up]]* (player)
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]* (guest appearance: Stanley Kubrick) 
 * *[[Shows/Scene of the Crime|Scene of the Crime]]* (junior improviser)
 * *[[Shows/You Can't Stay Here|You Can't Stay Here]]* (quizmaster)
-* *[[My Stepdad is a Genie]]* (quizmaster)
-* *[[Kenny Does Community]]* (starring role)
-* *[[High-deas]]* (player)
+* *My Stepdad is a Genie* (quizmaster)
+* *Kenny Does Community* (starring role)
+* *High-deas* (player)
 * *[[Shows/Improv Anonymous|Improv Anonymous]]* (director)
 [[Category/Performers|Madison]]
 [[Category/Directors|Madison]]

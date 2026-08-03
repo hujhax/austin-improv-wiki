@@ -27,5 +27,5 @@
 
 Most notably, the venue hosted the first productions of *[[Shows/Live TV Tuesdays -  Saved by the Bell|Staged by the Bell]]* in The United States Art Authority, the Spider House's adjunct, event-hosting facility.
 
-Since that run in 2009, the venue has only rarely hosted improv events, including a visit from improv duo [[Wikipedia - T. J. Jagodowski|TJ]] & [[Wikipedia - David Pasquesi|Dave]].
-[[Category/Theatres|Category:Theatres]]
+Since that run in 2009, the venue has only rarely hosted improv events, including a visit from improv duo TJ & Dave.
+Category:Theatres

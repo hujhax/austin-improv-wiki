@@ -3,7 +3,7 @@
 ## Summary
 Publicity poster for *[[Shows/The ReSet Project|The ReSet Project]]*.
 
-Photos of [[Jessica Salinas]] by: unknown.
+Photos of Jessica Salinas by: unknown.
 
 Art by: unknown.
 ## Licensing

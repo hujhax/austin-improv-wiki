@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="AJ Holler">AJ Holler</a></li><!--
+  --><li style="">AJ Holler</li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
-  --><li style=""><a class="internal-link" href="Caitlin Baumgartner">Caitlin Baumgartner</a></li><!--
-  --><li style=""><a class="internal-link" href="Wes Gandy">Wes Gandy</a></li><!--
+  --><li style="">Caitlin Baumgartner</li><!--
+  --><li style="">Wes Gandy</li><!--
   --><!--
   --><!--
   --><!--

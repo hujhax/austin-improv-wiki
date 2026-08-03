@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
-  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
-  --><li style=""><a class="internal-link" href="Jared Robertson">Jared Robertson</a></li><!--
-  --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--
-  --><li style=""><a class="internal-link" href="Steven H. Moore">Steven H. Moore</a></li><!--
+  --><li style="">Jake Millward</li><!--
+  --><li style="">Jared Robertson</li><!--
+  --><li style="">Javier Ungo</li><!--
+  --><li style="">Steven H. Moore</li><!--
   --><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 Alright, now that you have learned about what is a phoenix, know that the imagery of the phoenix can be applied to Kinkade.  For this metaphor, Kinkade is the new phoenix that comes out of the ashes.  The ashes are made of the burnt-up corpses of the members of [[Troupes/Collective Alibi|Collective Alibi]].  When [[Troupes/Collective Alibi|Collective Alibi]] was over and ended, all of the bodies of the members began to be on fire.  After they had been finished being on fire, they slowly turned into black powder (the aforementioned ash).  Now this is the ash that somehow got pregnant and made a baby bird through gestation.  This baby bird is the same bird that is Kinkade in this metaphor.
 
 Do you understand?
-[[Yes]]    [[No]]
+Yes    No
 
 ## Summary
 ### Press Blurb
@@ -86,4 +86,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

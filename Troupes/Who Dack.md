@@ -29,21 +29,21 @@ The lineup of Who Dack? has evolved in accordance with the troupe philosophy of 
 
 * [[Performers/Drew Wesely|Drew Wesely]]
 * [[Performers/Brad Hawkins|Brad Hawkins]]
-* [[Delaney Jo Hernandez]]
+* Delaney Jo Hernandez
 * [[Performers/Nathan Sowell|Nathan Sowell]]
-* [[Joseph Dailey]]
-* [[Eric Rutherford]]
-* [[John Brewster]]
+* Joseph Dailey
+* Eric Rutherford
+* John Brewster
 
 
 
 Those who have performed with the troupe include:
-* [[Milo Smith]]
-* [[Scott Raney]]
+* Milo Smith
+* Scott Raney
 * [[Performers/Nicole McCracken|Nicole McCracken]]
-* [[Katie Sicking]]
-* [[Will Storie]]
-* [[Ryan Thomas]]
+* Katie Sicking
+* Will Storie
+* Ryan Thomas
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

@@ -85,6 +85,6 @@ Heck yeah! DOES compute. I would love to play with you. You're the bees knees.</
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/fasterrobotkillkill)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

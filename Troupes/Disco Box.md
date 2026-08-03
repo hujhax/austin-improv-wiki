@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
-  --><li style=""><a class="internal-link" href="Ariel Greenspoon">Ariel Greenspoon</a></li><!--
+  --><li style="">Ariel Greenspoon</li><!--
   --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Christina Parrish</a></li><!--
-  --><li style=""><a class="internal-link" href="G-su Paek">G-su Paek</a></li><!--
+  --><li style="">G-su Paek</li><!--
   --><!--
   --><!--
   --><!--
@@ -79,4 +79,4 @@
 * [The troupe's facebook page.](http://www.facebook.com/pages/Disco-Box/200949976641619)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

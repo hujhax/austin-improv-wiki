@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{bulleted list | 
-* <a class="internal-link" href="Phil Wilhelm">Phil Wilhelm</a>
+* Phil Wilhelm
 * <a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a>
-* <a class="internal-link" href="Zach Palmer">Zach Palmer</a>
-* <a class="internal-link" href="Michael Williams">Michael Williams</a>
+* Zach Palmer
+* Michael Williams
 * <a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a>
 * <a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a>
 ] }}</td>
@@ -29,10 +29,10 @@
 ## History
 [[Troupes/The Perfect Banana|The Perfect Banana]] was a 2008 cagematch team consisting of:
 
-* [[Phil Wilhelm]]
+* Phil Wilhelm
 * [[Performers/Gene Zhou|Gene Zhou]]
-* [[Zach Palmer]]
-* [[Michael Williams]]
+* Zach Palmer
+* Michael Williams
 * [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]
 * [[Performers/Frank Willmore|Frank Willmore]]
 

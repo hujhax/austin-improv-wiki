@@ -16,12 +16,12 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Katherine Greco">Katherine Greco</a></li><!--
-  --><li style=""><a class="internal-link" href="Monica Torres">Monica Torres</a></li><!--
+  --><li style="">Katherine Greco</li><!--
+  --><li style="">Monica Torres</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
-  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
-  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
-  --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
+  --><li style="">Regina Soto</li><!--
+  --><li style="">Sandra Ybarra</li><!--
+  --><li style="">Todd Geldon</li><!--
   --><!--
   --><!--
   --><!--

@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
-  --><li style=""><a class="internal-link" href="David Lee Hess">David Lee Hess</a></li><!--
+  --><li style="">Danny Catlow</li><!--
+  --><li style="">David Lee Hess</li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
@@ -76,7 +76,7 @@
 ### Press Blurb
 Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Balancing grounded scene work with wildly physical play, The Team's sharp-witted cast is always eager to support whatever strange, darkly-funny, or dangerous idea is on the table. There's little hesitation, so the Team often find themselves in scenes playing fantastical or creepy characters, often stuck in physically uncomfortable positions. But these guys boost every move with an infectious energy that lights up audiences from their unique opening sequences to their exhilarating finales.</p>
 
-<p>The Team is an improv quartet constructed of [[Danny Catlow]], [[David Hess]], [[Performers/Joshua Krilov|Joshua Krilov]], and [[Performers/Kyle Sweeney|Kyle Sweeney]]. The Team was awarded Coldtowne Theater's Best New Troupe (2011).</p></blockquote>
+<p>The Team is an improv quartet constructed of Danny Catlow, David Hess, [[Performers/Joshua Krilov|Joshua Krilov]], and [[Performers/Kyle Sweeney|Kyle Sweeney]]. The Team was awarded Coldtowne Theater's Best New Troupe (2011).</p></blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Suggestion, Lights Up, Lights Down. That's all.  We'll get a suggestion. Perform a silent scene with one person (supported from the sides). Then launch into a run of scenes taking/deconstructing elements provided in the silent scene. These scenes typically recur in some way as the show takes shape (via characters, theme, plot and beyond). New scenes can also be presented if further inspirations strikes. Typically the show tends to get more and more physical, big, and absurd. Light Out on a huge laugh.</blockquote>
@@ -92,13 +92,13 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/34042566) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 11/28/11 show at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*, "Dillo".
 * [Video](http://vimeo.com/34034952) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 12/19/11 show, "Tangerine GOP".
 * [Video](http://vimeo.com/34151775) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 12/22/11 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], "Bananarama".
-* [Video](http://vimeo.com/34680711) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their first performance in *[[Thursday Night Social Club]]*, "Parachute" (uploaded 1/6/12). 
-* [Video](http://vimeo.com/35170333) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their second performance in *[[Thursday Night Social Club]]*, "Morissey Unicorn" (uploaded 1/16/12). 
+* [Video](http://vimeo.com/34680711) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their first performance in *Thursday Night Social Club*, "Parachute" (uploaded 1/6/12). 
+* [Video](http://vimeo.com/35170333) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their second performance in *Thursday Night Social Club*, "Morissey Unicorn" (uploaded 1/16/12). 
 * [Video](http://vimeo.com/35514485) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Enlightenment" show (uploaded 1/23/12).
-* [Video](http://vimeo.com/36086833) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their final January performance in *[[Thursday Night Social Club]]*, "Lottery" (uploaded 2/2/12). 
-* [Video](http://vimeo.com/36578944) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of another performance in *[[Thursday Night Social Club]]*, "Asswipe" (uploaded 2/10/12). 
+* [Video](http://vimeo.com/36086833) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their final January performance in *Thursday Night Social Club*, "Lottery" (uploaded 2/2/12). 
+* [Video](http://vimeo.com/36578944) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of another performance in *Thursday Night Social Club*, "Asswipe" (uploaded 2/10/12). 
 * [Video](http://vimeo.com/37084183) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "Pyramid" show (uploaded 2/19/12). 
-* [Video](http://vimeo.com/37385435) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their final performance in *[[Thursday Night Social Club]]*, "Hoop Poop" (uploaded 2/24/12). 
+* [Video](http://vimeo.com/37385435) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their final performance in *Thursday Night Social Club*, "Hoop Poop" (uploaded 2/24/12). 
 * [Video](http://vimeo.com/37550428) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 2/27/12 show, "Sit In's".
 * [Video](http://vimeo.com/40252187) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 4/12/12 show, "Rooster".
 * [Video](http://vimeo.com/41814176) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 5/7/12 *[[Shows/Monday Night Mash|Monday Night Mash]]* show, "Rooster".
@@ -149,5 +149,5 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [The troupe's facebook page.](http://www.facebook.com/TheTeamImprov)
 
 [[Category/Troupes|Team]]
-[[Category/Active|Team]]
+Team
 [[Category/Auto-Generated Troupe Pages|Team]]

@@ -95,4 +95,4 @@ Their bio, from the web site for [[Festivals/The 2012 Out of Bounds Comedy Festi
  
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active

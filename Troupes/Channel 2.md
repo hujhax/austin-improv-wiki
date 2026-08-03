@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
+  --><li style="">Tess Hermes</li><!--
   --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Mason Pitluk">Mason Pitluk</a></li><!--
+  --><li style="">Mason Pitluk</li><!--
   --><li style=""><a class="internal-link" href="Performers/Donna Rice">Donna Rice</a></li><!--
   --><!--
   --><!--
@@ -75,12 +75,12 @@
 ## Summary
 Channel 2 creates a unique movie with each performance, drawing inspiration from a randomly generated Netflix micro-genre.
 
-The troupe began rehearsing for a short period before settling on a name, thus leading many individuals throughout Austin to refer to them as [[Tyler Lane and the Giggle Gang]].
+The troupe began rehearsing for a short period before settling on a name, thus leading many individuals throughout Austin to refer to them as Tyler Lane and the Giggle Gang.
 
 ## Performances
 **Oct. 14, 2015 - ColdTowne Cagematch**
 
-In Channel 2's debut performance, the gang created an "Underdog Mind-Bending Mockumentary." Channel 2 was defeated in the Cagematch by a new troupe of ColdTowne All-Stars dubbed [[Cool Little Night Owls]].
+In Channel 2's debut performance, the gang created an "Underdog Mind-Bending Mockumentary." Channel 2 was defeated in the Cagematch by a new troupe of ColdTowne All-Stars dubbed Cool Little Night Owls.
 
 **Oct. 22, 2015 - Hideout Threefer**
 

@@ -64,7 +64,7 @@
 * [[Troupes/Two Guys from Yonkers|Two Guys from Yonkers]] (2011 - 2013)
 * [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]] (2012 - 2016)
 * [[Troupes/The Known Wizards|The Known Wizards]] (2020 - Present)
-* [[We're Moving]] (2025 - Present)
+* We're Moving (2025 - Present)
 
 ## Improv Shows
 * *[[Troupes/EPIC!|EPIC!]]* (Season 1 & 2 - 2011)
@@ -80,24 +80,24 @@
 * *[[Shows/Improv Anonymous|Improv Anonymous]]* (2014 - )
 * *[[Shows/Grimm Noir|Grimm Noir]]* (2015)
 * ''["Austin Playback Theatre"](https://austinplaybacktheatre.wordpress.com/) (2015 - 2018)
-* *[[Shattered]]* (2019) 
+* *Shattered* (2019) 
 
 ## Scripted Shows
 * *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]* (Bob Davis 2012)
-* *[[The Spark]]* (Jerry 2015)
-* *[[No One Dies in This Story]]* (Paul 2017)
-* *[[Bargainland]]* (Johnny 2017)
-* *[[The Other Side of the Window]]* (Earl 2018)
-* *[[Pagewood]]* (Brother Ken 2019)
-* *[[The Road Trip]]* (Playwright 2023)
-* *[[Out Out Damn I'm Out]]* (Director/Co-writer 2024)
+* *The Spark* (Jerry 2015)
+* *No One Dies in This Story* (Paul 2017)
+* *Bargainland* (Johnny 2017)
+* *The Other Side of the Window* (Earl 2018)
+* *Pagewood* (Brother Ken 2019)
+* *The Road Trip* (Playwright 2023)
+* *Out Out Damn I'm Out* (Director/Co-writer 2024)
 
 ## Festival Producer
 * *[[Festivals/Wafflefest|Wafflefest]]* (2014 - 2018)
 
 ## Director of Improv Shows
 * ''[Stories from Around the World](http://wiki.austinimprov.com/wiki/Hideout_Kids) Co-Director (2018)
-* ''[[Gone Tomorrow]] Co-Director (2017) 
+* ''Gone Tomorrow Co-Director (2017) 
 * ''[Cochise: Student Mainstage Run](http://wiki.austinimprov.com/wiki/Cochise_(Student_Mainstage)#Student_Mainstage_Run) Assistant Director (2014)
 
 ## Improv History
@@ -105,15 +105,15 @@ Paul decided to take Improv classes after seeing a [[Troupes/Firth & Arjet|Firth
 
 Paul completed classes at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with his friend and classmate, [[Performers/Bobby Ford|Bobby Ford]].  Paulie and Bobby were two characters the pair often played while in class.  After completing Level 6, Bob invited Paul to form a duo called "[[Troupes/Two Guys from Yonkers|Two Guys from Yonkers]]" on October 31, 2011.  
 
-Other classmates included [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Chad Wellington|Chad Wellington]], [[Katherine Greco]], and [[Performers/Cindy Page|Cindy Page]]. This core group completed Levels 1 through 5 at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
+Other classmates included [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Chad Wellington|Chad Wellington]], Katherine Greco, and [[Performers/Cindy Page|Cindy Page]]. This core group completed Levels 1 through 5 at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Paul, Bob, Chad, Kat, and Cindy also completed Level 6 together in 2011.
 
 Paul conceived of and started a dramedy focused troupe [[Troupes/In Our Prime|In Our Prime]] in 2011 with [[Performers/Gloria Rabil-Bankler|Gloria Rabil-Bankler]], [[Performers/Ryan Hill|Ryan Hill]], and [[Performers/Jessica Arjet|Jessica Arjet]].
 
-Paul completed classes with [[Todd Geldon]] and [[Jennifer Dorsey]] at [[Merlin Works]]. The three performed with their 601 class in the show [[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]] founded in 2012. 
+Paul completed classes with Todd Geldon and Jennifer Dorsey at [[Merlin Works]]. The three performed with their 601 class in the show [[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]. Paul, Jen and Todd are all members of the Improv troupe [[Troupes/We're Here to Date Your Daughter|We're Here to Date Your Daughter]] founded in 2012. 
 
 He has also produced one off shows for [[Shows/The Free Fringe|The Free Fringe]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]] to include two different versions of the Improviser's Nightmare format, The Great Debate, Bob Finds 50, and Little House on the Alien Prairie.
 
-Paul was a regular performer at [[Austin No Shame Theater]]. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show [[Testify]] in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Performers/Ryan Hill|Ryan Hill]] on guitar at [[FronteraFest]]. Paul won the ["2017 Texas Storytelling Festival StorySlam"](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf) in March.
+Paul was a regular performer at Austin No Shame Theater. Often telling stories or performing in his own or others' sketches. Paul tells stories around town. He has told stories on the RISK! Live Show in Austin in September 2013 and in January 2017. Paul has won Moth StorySlams in Houston in November 2015, September 2016 and the GrandSlam in March 2016. Paul joined the Production team at the Austin storytelling show Testify in January of 2017 and Drinking with the Saints Storytelling in January of 2018. In February 2017, Paul created and performed in a twenty five minute solo piece with [[Performers/Ryan Hill|Ryan Hill]] on guitar at FronteraFest. Paul won the ["2017 Texas Storytelling Festival StorySlam"](http://www.tejasstorytelling.com/downloads/Teller-Spring2017.pdf) in March.
 
 Paul was a teaching assistant at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2013 and [[Merlin Works]] in 2019. Paul was the producer of [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s annual [[Festivals/Wafflefest|Wafflefest]] from 2014 to 2018. 
 

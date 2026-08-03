@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style="">Regina Soto</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,13 +73,13 @@
 **The Better Half** is an improv duo in Austin, TX.
 
 ## Summary
-The troupe features [[Regina Soto]] and [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] as manly men who talk about women, relationships, jobs, what it means to be a man, and arts and crafts.
+The troupe features Regina Soto and [[Performers/Madeline Jo Chauvin|Madeline Jo Chauvin]] as manly men who talk about women, relationships, jobs, what it means to be a man, and arts and crafts.
 
-The troupe began as a scene in the Master Class at [[Theatres/The Institution Theater|The Institution Theater]] in 2011.  The instructor, [[Performers/Asaf Ronen|Asaf Ronen]], came up with the troupe name.  They weren't given a choice, really.  The first show also had [[Performers/Kathy Rose Center|Kathy Rose Center]] and [[Ashley Lowe]] in the cast.
+The troupe began as a scene in the Master Class at [[Theatres/The Institution Theater|The Institution Theater]] in 2011.  The instructor, [[Performers/Asaf Ronen|Asaf Ronen]], came up with the troupe name.  They weren't given a choice, really.  The first show also had [[Performers/Kathy Rose Center|Kathy Rose Center]] and Ashley Lowe in the cast.
 
 Shortly thereafter, Regina, Jo, and Ashley took off and started performing around Austin at [[Theatres/The Institution Theater|The Institution Theater]], [[Theatres/The Hideout Theatre|The Hideout Theatre]], and [[Theatres/Coldtowne Theater|Coldtowne Theater]].  They also performed in Houston at the FemProv improv festival in 2012.
 
-In Spring 2013 [[Ashley Lowe]] left the troupe (amicably!) to focus on other projects.  Now Regina and Jo perform The Better Half as a duo and sometimes with special guests, most notably [[Performers/Heidi Caldwell|Heidi Caldwell]] and [[Carla Goodman]].
+In Spring 2013 Ashley Lowe left the troupe (amicably!) to focus on other projects.  Now Regina and Jo perform The Better Half as a duo and sometimes with special guests, most notably [[Performers/Heidi Caldwell|Heidi Caldwell]] and Carla Goodman.
 
 The Better Half Presents Date Night, featuring diverse acts such as clowning, storytelling, improv, music, and sketch, also including real blind dates on stage, had a 4-week run at [[Theatres/The Institution Theater|The Institution Theater]] in August 2014, after a one-off show in July sold out. They brought back their real live "Dating Game", "Relationship Game", and Blind Date onstage during Lovefest in 2015.
 
@@ -98,7 +98,7 @@ The Better Half perfected the spank circle, and Regina can never remember what C
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) by [[Steve Rogers]] that includes their 4/19/12 *[[Shows/Free Fringe|Free Fringe]]* show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200805008470281.1073741865.1315383518&type=3) by [[Michael Yew]] that includes their 11/8/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Better Half]]
 [[Category/Duos|Better Half]]
 [[Category/All-Female Troupes|Better Half]]

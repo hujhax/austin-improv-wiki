@@ -75,29 +75,29 @@
 ## History
 Prior to forming the troupe, the members trained, directed and performed extensively at The Second City in Chicago and Cleveland, The Annoyance Theater and Improv Olympic Theater in Chicago, Boom!Chicago in Amsterdam and [[Troupes/ComedySportz|ComedySportz]] in Austin and Chicago.  
 
-They have been consistently recognized by their peers, winning "Best Improv Troupe" by the [[Austin Improv Collective]] in 2006 and 2008, and by the Austin artistic community at large; receiving the first [[B. Iden Payne Award]] for "Outstanding Improvisation Ensemble" in 2005-06. 
+They have been consistently recognized by their peers, winning "Best Improv Troupe" by the [[Austin Improv Collective]] in 2006 and 2008, and by the Austin artistic community at large; receiving the first B. Iden Payne Award for "Outstanding Improvisation Ensemble" in 2005-06. 
 
 In addition, The Frank Mills were selected as "Best of the Fest" by Hyde Park Theater's FronteraFest 2007.
 
 All five current members were founding faculty at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ### Former Members
-* [[Todd Schanbacher]] (2009-2013)
+* Todd Schanbacher (2009-2013)
 
 ## Shows
 ### Improv Shows
-Inspired by [[TJ and Dave]] & [[Dasariski]], the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover" "Spring Cleaning", (their first Fronera Fest show) and "Snuff Film", (their 3rd Show as The Frank Mills), all of which became full cast sketches for their sketch shows of 2007
+Inspired by TJ and Dave & Dasariski, the troupe began performing the monoscene in 2005, which produced notable shows such as "Passover" "Spring Cleaning", (their first Fronera Fest show) and "Snuff Film", (their 3rd Show as The Frank Mills), all of which became full cast sketches for their sketch shows of 2007
 
-In 2009 They opened for [[TJ & Dave]] during SXSW and performed *Computational Linguistics* and "Rumspringa'' which weaved Pop Outs into their Monoscene format.
+In 2009 They opened for TJ & Dave during SXSW and performed *Computational Linguistics* and "Rumspringa'' which weaved Pop Outs into their Monoscene format.
 
-They have also performed [[Wikipedia - Harold (improvisation)|the Harold]], Close Quarters, and the Armando.
+They have also performed the Harold, Close Quarters, and the Armando.
 
-They currently alternate between [[MonoPop]], a Gameless [[Harold]] and following [[Rabbit Holes]].
+They currently alternate between MonoPop, a Gameless Harold and following Rabbit Holes.
 
 ### Sketch Shows
 * *Classy Ass Show* Feb 2007, [[Theatres/The Hideout|The Hideout]]
 
-* *Winning Dirty* May 2007, [[The Blue Theater]]
+* *Winning Dirty* May 2007, The Blue Theater
 
 ## Residency
 On 4/3/2010 The Frank Mills began their Saturday night residency at ColdTowne Theater and have performed weekly ever since.
@@ -125,21 +125,21 @@ Ed Illades
 
 and Austin Improvisers:
 [[Performers/Arthur Simone|Arthur Simone]],
-[[Justin York]],
-[[Teresa Kubos]],
-[[Eric Rutherford]],
+Justin York,
+Teresa Kubos,
+Eric Rutherford,
 [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]],
 [[Performers/Chrissy Shackelford|Chrissy Shackelford]],
 [[Performers/Bridget Brewer|Bridget Brewer]],
-[[Katie Sicking]],
+Katie Sicking,
 [[Performers/Michael Joplin|Michael Joplin]],
-[[Adam Trabka]],
-[[Sam Van Metre]]
+Adam Trabka,
+Sam Van Metre
 and many of their students
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/MGPbzObquSM) by [[Brian Boyko]] of their 4/7/12 show.
+* [Video](http://youtu.be/MGPbzObquSM) by Brian Boyko of their 4/7/12 show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance.
@@ -159,4 +159,4 @@ and many of their students
 * [The troupe's blog from their writing process of their sketch show Winning Dirty.](http://thefrankmills.wordpress.com/)
 
 [[Category/Troupes|Frank Mills]]
-[[Category/Active|Category:Active]]
+Category:Active

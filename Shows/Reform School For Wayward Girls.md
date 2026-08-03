@@ -19,7 +19,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adrienne Brown">Adrienne Brown</a></li><!--
+  --><li style="">Adrienne Brown</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Ash Nunley</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
@@ -136,10 +136,10 @@
 ***Reform School for Wayward Girls*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] set in a 1970s all-girl reform school.
 
 ## Summary
-The show took place in 1976 in St. Agatha's Reform School for Wayward Girls, a reform school in the fictional town of East Libertyville, Ohio.  The show was based on old exploitation films such as *[Girl Gang](http://www.imdb.com/title/tt0171344/?ref_=fn_al_tt_1)*, *[[Wikipedia - Reform School Girl|Reform School Girl]]*, and *[Girls in Prison](http://www.imdb.com/title/tt0109903/?ref_=fn_al_tt_1)*.
+The show took place in 1976 in St. Agatha's Reform School for Wayward Girls, a reform school in the fictional town of East Libertyville, Ohio.  The show was based on old exploitation films such as *[Girl Gang](http://www.imdb.com/title/tt0171344/?ref_=fn_al_tt_1)*, *Reform School Girl*, and *[Girls in Prison](http://www.imdb.com/title/tt0109903/?ref_=fn_al_tt_1)*.
 
 ### Show Structure
-Each performance opened with a hosted introduction from "Mitch Dawson", the superintendent of the East Libertyville Independent School District.  The host welcomed the audience and got an audience volunteer to assign a set of six reform-school-girl archetypes (such as "the cheerleader" or "the daddy's girl") to six of that night's female cast members.  (Each archetype came with a basic description and a set of accessories.)  Then the show proper started with a choreographed dance number to [[Wikipedia - Cherry Bomb (song)|the Runaways' "Cherry Bomb"]].  The dance included the whole cast: the six students, one student-aged boy, and two adults (one male, one female).
+Each performance opened with a hosted introduction from "Mitch Dawson", the superintendent of the East Libertyville Independent School District.  The host welcomed the audience and got an audience volunteer to assign a set of six reform-school-girl archetypes (such as "the cheerleader" or "the daddy's girl") to six of that night's female cast members.  (Each archetype came with a basic description and a set of accessories.)  Then the show proper started with a choreographed dance number to the Runaways' "Cherry Bomb".  The dance included the whole cast: the six students, one student-aged boy, and two adults (one male, one female).
 
 The dance then segued to the first act, which was an improvised monoscene in which a teacher oversaw the six girls in detention.  The scene opened with a roll call which established each girl's name.  The scene then included pop-out flashbacks to earlier scenes from the girls' lives, which usually included information about how each one landed in the reform school.  Typically, halfway through, there was a fight among the students that prompts the arrival of a sinister headmaster or similar authority figure.  The first act ended with another fight among the girls and then the end of detention.
 
@@ -170,5 +170,5 @@ This began act two, which was an improvised narrative.  The cast improvised the 
 * [The show's web page.](http://www.hideouttheatre.com/shows/ReformSchoolforWaywardGirls)
 * [Post about the show](http://www.hideouttheatre.com/only-three-more-chances-to-see-reform-school-for-wayward-girls) from the Hideout's blog.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

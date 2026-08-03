@@ -65,4 +65,4 @@
 * [The marathon schedule announcement.](http://www.hideouttheatre.com/the-complete-2010-41-hour-marathon-schedule)
 	* [A promotional post about the marathon.](http://www.hideouttheatre.com/the-marathon-madness-is-about-to-begin)
 * [[Performers/Kevin Miller|Kevin Miller]] posts [a story about hour 41 of the marathon](http://happywaffle.wordpress.com/2010/06/06/hour-41-of-the-41-hour-improv-marathon/).
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

@@ -27,7 +27,7 @@
   --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Kerri Lendo">Kerri Lendo</a></li><!--
+  --><li style="">Kerri Lendo</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
@@ -78,7 +78,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brandon Salinas">Brandon Salinas</a></li><!--
+  --><li style="">Brandon Salinas</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></li><!--
   --><!--
   --><!--
@@ -143,7 +143,7 @@
 ### List of Formats
 * 1/21/11: [[Performers/Kyle Traughber|Kyle Traughber]] directed "Moriboto's Good Time Show!", an animé-based performance.
 * 1/22/11: [[Performers/Eric Heiberg|Eric Heiberg]] directed "Robot, Shark, Romance, Other", a new network television show based on intense real-time market research.
-* 1/28/11: [[Kerri Lendo]] directed "Teenage Dream", a night of improv themed around adolescence.
+* 1/28/11: Kerri Lendo directed "Teenage Dream", a night of improv themed around adolescence.
 * 1/29/11: [[Performers/Britney Salyer|Britney Salyer]] directed "Lesser Humans".
 * 2/4/11: [[Performers/Marc Majcher|Marc Majcher]] directed "Bloody Work", a retelling and exploration of the Servant Girl Annihilator murders in Austin in 1884-1885.
 * 2/5/11: [[Performers/Jason Vines|Jason Vines]] directed "Crossroads".
@@ -167,4 +167,4 @@
 * [A blog post](http://gnaptheater.org/some-thoughts-on-the-sandbox/)  by [[Performers/Shannon McCormick|Shannon McCormick]] about the show.
 * [Another blog post](http://gnaptheater.org/some-upcoming-sandbox-show-themes/) by [[Performers/Shannon McCormick|Shannon McCormick]] about various show themes.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

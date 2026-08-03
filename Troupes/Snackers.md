@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Albert Im">Albert Im</a> (2007-2008)</li><!--
+  --><li style="">Albert Im (2007-2008)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
+  --><li style="">James Roberts</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
   --><!--
@@ -73,17 +73,17 @@
 **Snackers** was an improv troupe. 
 
 ## History
-The troupe's members met in [[Performers/Shana Merlin|Shana Merlin]]'s improv classes at [[The State Theater]] in 2006 and 2007.  The troupe began in September 2007.  In 2008, they founded *[[Shows/The Monday Night Mash|The Monday Night Mash]]*, which [[Albert Im]] has arranged for them to host at [[Kick Butt Coffee]].  In 2010, they played the Black Box Comedy Festival in Atlanta, Georgia.
+The troupe's members met in [[Performers/Shana Merlin|Shana Merlin]]'s improv classes at The State Theater in 2006 and 2007.  The troupe began in September 2007.  In 2008, they founded *[[Shows/The Monday Night Mash|The Monday Night Mash]]*, which Albert Im has arranged for them to host at Kick Butt Coffee.  In 2010, they played the Black Box Comedy Festival in Atlanta, Georgia.
 
 In 2015 they had a one-off reunion show at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]], sans [[Performers/Mark Carpenter|Mark Carpenter]]. 
 
 ### Formats
 After an initial run that performed the Living Room format, the troupe performed a series of formats that drew inspiration from television, movies, and books:
-* "Snackers Club" was improv inspired by the works of [[Wikipedia - John Hughes|John Hughes]].  This was their most successful run of shows.  In an unfortunate coincidence, John Hughes passed away the same day they premiered their first run of the format.
-* "Snackers Mystery Van" was a mystery format from the cartoon *[[Wikipedia - Scooby Doo|Scooby Doo]]*.
-* "Switcheroo" was a show based on "[[Wikipedia - Body swap|body-swap]]" movies like *[[Wikipedia - Freaky Friday|Freaky Friday]]*.
-* "Roommates" was a format inspired by *[[Wikipedia - The Young Ones|The Young Ones]]*.
-* "Snacksucker Proxy" drew from the writing of [[Wikipedia - Horatio Alger|Horatio Alger]] and the movie *[[Wikipedia - The Hudsucker Proxy|The Hudsucker Proxy]]*.  (This was their last format before they disbanded.)
+* "Snackers Club" was improv inspired by the works of John Hughes.  This was their most successful run of shows.  In an unfortunate coincidence, John Hughes passed away the same day they premiered their first run of the format.
+* "Snackers Mystery Van" was a mystery format from the cartoon *Scooby Doo*.
+* "Switcheroo" was a show based on "body-swap" movies like *Freaky Friday*.
+* "Roommates" was a format inspired by *The Young Ones*.
+* "Snacksucker Proxy" drew from the writing of Horatio Alger and the movie *The Hudsucker Proxy*.  (This was their last format before they disbanded.)
 
 ## Media
 ![[SnackersLogo.gif|The Snackers logo.]]

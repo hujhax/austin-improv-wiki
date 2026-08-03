@@ -3,7 +3,7 @@
 ## Summary
 [[Troupes/Pasta with a Chat|Pasta with a Chat]], performing at the 2011 [[Theatres/ColdTowne|ColdTowne]] Lock-In.
 
-Still from a video by [[Bryan Boyko]].
+Still from a video by Bryan Boyko.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

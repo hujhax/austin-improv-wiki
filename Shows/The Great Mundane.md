@@ -14,12 +14,12 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a></td>
+			<td class="category">Jay Bernardo</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Jon Hunt">Jon Hunt</a></li><!--
+  --><li style="">Jon Hunt</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
@@ -74,9 +74,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Christina Bain">Christina Bain</a></li><!--
-  --><li style=""><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
+  --><li style="">Christina Bain</li><!--
+  --><li style="">Jay Bernardo</li><!--
+  --><li style="">Jeffrey Amos</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><!--
@@ -136,7 +136,7 @@
 ***The Great Mundane*** was a serialized improv show.  It ran as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in March 2006.
 
 ## Summary
-[[Jon Hunt]] assisted the director as a "story coach", and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] wound up running the production after a certain point.
+Jon Hunt assisted the director as a "story coach", and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] wound up running the production after a certain point.
 
 ### Guest Stars
 Each week included a guest star.  These are the guests who appeared on the show:
@@ -151,5 +151,5 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 ## Media
 * [A photoset](http://xhibition.majcher.com/images/2006_03_19_improv/) from [[Performers/Marc Majcher|Marc Majcher]] that includes at least one performance of *The Great Mundane*.
 
-[[Category/Shows|Great Mundane]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Great Mundane
+Category:The Hideout Theatre

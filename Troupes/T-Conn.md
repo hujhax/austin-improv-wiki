@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Delaney Jo Hernandez">Delaney Jo Hernandez</a></li><!--
+  --><li style="">Delaney Jo Hernandez</li><!--
   --><!--
   --><!--
   --><!--
@@ -81,5 +81,5 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

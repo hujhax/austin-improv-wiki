@@ -4,17 +4,17 @@
 
 ## Acts
 ### Local Acts
-* [[Catch 24]]
+* Catch 24
 * [[Troupes/Ed 32|Ed 32]]
-* [[Edmond Bulldogs]]
+* Edmond Bulldogs
 * [[Troupes/First Round Draft|First Round Draft]]
-* [[Gag Reflex]]
+* Gag Reflex
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Gravy|Gravy]]
 * [[Troupes/Heroes of Comedy|Heroes of Comedy]]
 * [[Troupes/National Comedy Theatre|National Comedy Theatre]]
-* [[No Shame Theatre]]
-* [[One Night Band]]
+* No Shame Theatre
+* One Night Band
 * [[Troupes/Well Hung Jury|Well Hung Jury]]
 
 ### Out-of-Town Acts
@@ -23,4 +23,4 @@
 * Pavlov's Dogs (Dallas)
 * Punch Drunk Comedy (Dallas)
 * The Kihckercast Project (New York)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

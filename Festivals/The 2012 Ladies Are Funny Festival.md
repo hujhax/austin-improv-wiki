@@ -11,7 +11,7 @@ The festival ran from 5/9/12 to 5/12/12 at [[Theatres/Salvage Vanguard Theater|S
 * [[Troupes/DA Foundry|DA Foundry]]
 * [[Troupes/Galactic|Galactic]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-* [[It's Just Reilly]]
+* It's Just Reilly
 * [[Troupes/Sarah 7|Sarah 7]]
 * [[Troupes/There's Waldo|There's Waldo]]
 
@@ -53,4 +53,4 @@ The festival ran from 5/9/12 to 5/12/12 at [[Theatres/Salvage Vanguard Theater|S
 * [Photoset](http://www.facebook.com/media/set/?set=a.363289433734579.87673.221927764537414&type=3) by [[Steve Rogers]] of 5/11/12 (Reformed Whores).
 * [Photoset](http://www.facebook.com/media/set/?set=a.363274543736068.87671.221927764537414&type=3) by [[Steve Rogers]] of 5/12/12 (stand-up).
 * [Photoset](http://www.facebook.com/media/set/?set=a.363310977065758.87675.221927764537414&type=3) by [[Steve Rogers]] of 5/12/12 (Skinny Bitch Jesus Meeting).
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

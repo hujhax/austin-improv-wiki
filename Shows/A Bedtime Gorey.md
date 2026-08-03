@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***A Bedtime Gorey*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the works of [[Wikipedia - Edward Gorey|Edward Gorey]].
+***A Bedtime Gorey*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]], inspired by the works of Edward Gorey.
 
 ## Summary
 Each performance featured the entire cast (or as many as were available), in stylized black-and-white makeup and Edwardian costume.  As the audience entered the theater and took their seats, the cast greeted them as if they (the audience) were children entering a playroom.  Meanwhile, a narrator was hidden stage right in a high-backed chair facing upstage.  Once the audience was seated and after a lights-down/lights-up, the narrator would spin the chair, reveal themselves, and open the show with an introductory poem that explained the format.
@@ -88,7 +88,7 @@ The players then began a monoscene set among heightened, upper-class society typ
 After intermission, the show would restart with a choreographed dance, followed by another shadow scene, a return to the parlor monoscene, and a final shadow story.  The whole performance typically ran about ninety minutes.
 
 ### Tech
-The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from [[Wikipedia - Danny Elfman|Danny Elfman]], [[Wikipedia - Thomas Newman|Thomas Newman]], and [[Wikipedia - Rachel Portman|Rachel Portman]].  The choreographed dance featured a mix of songs chosen by [[Performers/Kaci Beeler|Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [Gorey's opening sequence for PBS's *Mystery!*](http://youtu.be/rAmGsM4Dids)
+The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from Danny Elfman, Thomas Newman, and Rachel Portman.  The choreographed dance featured a mix of songs chosen by [[Performers/Kaci Beeler|Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [Gorey's opening sequence for PBS's *Mystery!*](http://youtu.be/rAmGsM4Dids)
 
 Sound effects were limited to environmental sound effects, with rare effects for actions like gunshots or breaking glass.
 
@@ -114,7 +114,7 @@ A dozen of Austin’s finest improvisers embody that ethos as *A Bedtime Gorey* 
 
 ## More Information
 * [The audition notice for the show](http://forum.austinimprov.com/viewtopic.php?f=3&t=15503) on [[The Austin Improv Forums]].
-* [An article about the show](http://www.austinchronicle.com/arts/2013-12-06/a-bedtime-gorey/) by [[Wayne Allen Brenner]] for *The Austin Chronicle*.
+* [An article about the show](http://www.austinchronicle.com/arts/2013-12-06/a-bedtime-gorey/) by Wayne Allen Brenner for *The Austin Chronicle*.
 
-[[Category/Shows|Bedtime Gorey]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Bedtime Gorey
+Category:The Hideout Theatre

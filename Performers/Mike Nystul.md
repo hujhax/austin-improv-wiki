@@ -75,10 +75,10 @@
 ## History
 Mike Nystul studied at [[Theatres/The Hideout Theatre|The Hideout Theatre]] (he was part of their first level-6 class) and [[Theatres/The Institution Theater|The Institution Theater]].
 
-In 2010, Nystul founded [[The Lair]], an improv theater in Round Rock, Texas.
+In 2010, Nystul founded The Lair, an improv theater in Round Rock, Texas.
 
 ## Troupes
-* [[Big & Tall]]
+* Big & Tall
 * [[Troupes/Fine, Thanks|Fine, Thanks]]
 * [[Troupes/Happy Butter|Happy Butter]]
 * [[Troupes/The Professor|The Professor]]

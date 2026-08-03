@@ -25,7 +25,7 @@ Its advertising was classic-Nintendo themed.
 * [[Troupes/Golden Eagle|Golden Eagle]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
 * The Inmates of [[Theatres/The Institution Theatre|The Institution Theatre]]
-* [[Jabbertalky]]
+* Jabbertalky
 * [[Troupes/Junk|Junk]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * [[Troupes/Look Cookie|Look Cookie]]
@@ -120,4 +120,4 @@ Its advertising was classic-Nintendo themed.
 
 ## More Information
 * [An article about the festival from *The Examiner*.](http://www.examiner.com/article/out-of-bounds-comedy-festival-2009-thursday)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

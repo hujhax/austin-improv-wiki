@@ -3,7 +3,7 @@
 **The Austin Improv Potluck** is an annual potluck for the Austin Improv community.
 
 ## Summary
-The potluck occurs every year on the Sunday before [[Wikipedia - Thanskgiving|Thanskgiving]].  Everyone in the Austin-improv community is invited, and typically about a hundred people show up for the event.  The potluck is one of the few events still under the aegis of [[The Austin Improv Collective]].  At some point during every potluck, all the improvisors gather together for a massive group photo.
+The potluck occurs every year on the Sunday before Thanskgiving.  Everyone in the Austin-improv community is invited, and typically about a hundred people show up for the event.  The potluck is one of the few events still under the aegis of [[The Austin Improv Collective]].  At some point during every potluck, all the improvisors gather together for a massive group photo.
 
 ### Love Notes
 "Love notes", a potluck tradition, are short affectionate notes exchanged among improvisors.
@@ -19,10 +19,10 @@ Earlier potlucks were held at improvisors' houses, but the potluck has grown too
 
 ### Potluck Locations
 * 2005: [[Theatres/The Hideout Theatre|The Hideout Theatre]], upstairs
-* 2006: [[Jen Cargill]] and [[Performers/Erin Plischke|Erin Plischke]]'s house.
+* 2006: Jen Cargill and [[Performers/Erin Plischke|Erin Plischke]]'s house.
 * 2007: [[Performers/Shannon McCormick|Shannon McCormick]]'s house.
 * 2008: [[Performers/Julie Gillis|Julie Gillis]]'s house.
-* 2009: [[Café Caffeine]]
+* 2009: Café Caffeine
 * 2010: [[Performers/Julie Gillis|Julie Gillis]]'s house.
 * 2011: [[Theatres/The Institution Theater|The Institution Theater]]
 * 2012: The Elks Lodge

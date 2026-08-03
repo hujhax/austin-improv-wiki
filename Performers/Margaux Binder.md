@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Margaux Binder** is an improv performer who works primarily with [[The&nbsp;New&nbsp;Movement]].
+**Margaux Binder** is an improv performer who works primarily with The&nbsp;New&nbsp;Movement.
 
 *This article is a stub. You can help the Austin Improv Wiki by editing it.*
 

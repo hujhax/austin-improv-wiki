@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brian Boyko">Brian Boyko</a></li><!--
+  --><li style="">Brian Boyko</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
   --><!--
   --><!--
@@ -77,8 +77,8 @@ The duo played at least one *[[Shows/Cagematch|Cagematch]]* in 2006.
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/aZT7jykYW64) by [[Brian Boyko]] of their 5/26/06 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
-* Video by [[Brian Boyko]] of their final show, from 2010: [1](http://youtu.be/0ilwJZpivlQ), [2](http://youtu.be/CTK-UQYxGHY), [3](http://youtu.be/uRj8FOd0sjk), [4](http://youtu.be/ScuxtGPJC14).
+* [Video](http://youtu.be/aZT7jykYW64) by Brian Boyko of their 5/26/06 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+* Video by Brian Boyko of their final show, from 2010: [1](http://youtu.be/0ilwJZpivlQ), [2](http://youtu.be/CTK-UQYxGHY), [3](http://youtu.be/uRj8FOd0sjk), [4](http://youtu.be/ScuxtGPJC14).
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

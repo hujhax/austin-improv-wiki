@@ -69,7 +69,7 @@ Here's a quick list of some of the most useful ways to format text in a wiki pag
     <td >
 <pre>
 * Start each line
-<em> with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (</em>).
+<em> with an asterisk (</em>).
 <em></em> More asterisks gives deeper
 <em></em>* and deeper levels.
 * Line breaks<br />don't break levels.
@@ -78,7 +78,7 @@ Any other start ends the list.
 </pre></td>
     <td >
 * Start each line
-<em> with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (</em>).
+<em> with an asterisk (</em>).
 <em></em> More asterisks gives deeper
 <em></em>* and deeper levels.
 * Line breaks<br />don't break levels.
@@ -90,7 +90,7 @@ Any other start ends the list.</td>
     <td >
 <pre>
 1. Start each line
-1. with a <a class="internal-link" href="Wikipedia - Number sign">number sign</a> (#).
+1. with a number sign (#).
 	1. More number signs gives deeper
 		1. and deeper
 		1. levels.
@@ -103,7 +103,7 @@ ends the list.
 </pre></td>
     <td >
 1. Start each line
-1. with a <a class="internal-link" href="Wikipedia - Number sign">number sign</a> (#).
+1. with a number sign (#).
 	1. More number signs gives deeper
 		1. and deeper
 		1. levels.

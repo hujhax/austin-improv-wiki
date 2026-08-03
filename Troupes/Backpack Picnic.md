@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="David Bewley">David Bewley</a></li><!--
+  --><li style="">David Bewley</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Mitch Baker">Mitch Baker</a></li><!--
-  --><li style=""><a class="internal-link" href="René Pinnell">René Pinnell</a></li><!--
+  --><li style="">Mitch Baker</li><!--
+  --><li style="">René Pinnell</li><!--
   --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
@@ -96,7 +96,7 @@ After going dormant in 2008, the troupe performed several reunion shows for [[Fe
 
 ## More Information
 * [The duo's wikipedia page.](http://en.wikipedia.org/wiki/Backpack_Picnic)
-* [An article about the troupe](http://www.austinchronicle.com/screens/2008-05-02/618741/) in *[[Wikipedia - The Austin Chronicle|The Austin Chronicle]]*.
+* [An article about the troupe](http://www.austinchronicle.com/screens/2008-05-02/618741/) in *The Austin Chronicle*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

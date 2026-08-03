@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric Seufert">Eric Seufert</a></li><!--
+  --><li style="">Eric Seufert</li><!--
   --><!--
   --><!--
   --><!--

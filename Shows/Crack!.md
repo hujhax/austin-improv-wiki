@@ -75,8 +75,8 @@
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style=""><a class="internal-link" href="Jason Laney">Jason Laney</a></li><!--
-  --><li style=""><a class="internal-link" href="Pat Buchta">Pat Buchta</a></li><!--
+  --><li style="">Jason Laney</li><!--
+  --><li style="">Pat Buchta</li><!--
   --><!--
   --><!--
   --><!--
@@ -133,7 +133,7 @@
   --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style="">Jesse Overright</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
@@ -199,11 +199,11 @@ Each performance had a (human) guest for the night, while all the other performe
 
 ### Guests
 Here is a list of guests for each show:
-* 8/6/10: [[Albert Im]]
+* 8/6/10: Albert Im
 * 8/7/10: [[Performers/Arthur Simone|Arthur Simone]]
 * 8/13/10: [[Performers/Les McGehee|Les McGehee]]
 * 8/14/10: [[Performers/John Ratliff|John Ratliff]]
-* 8/20/10: [[L. B. Deyo]]
+* 8/20/10: L. B. Deyo
 * 8/21/10: [[Performers/Shana Merlin|Shana Merlin]]
 
 ### Press Description
@@ -227,4 +227,4 @@ The show is created by mixing highly volatile puppet characters with a band of u
 
 ## More Information
 * [The show's website.](http://puppetimprovproject.org/crack.html)
-[[Category/Shows|Category:Shows]]
+Category:Shows

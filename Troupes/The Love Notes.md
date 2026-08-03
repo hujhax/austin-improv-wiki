@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Chelsea Adland">Chelsea Adland</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
-  --><li style=""><a class="internal-link" href="Paul Wainwright">Paul Wainwright</a></li><!--
+  --><li style="">Paul Wainwright</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,9 +73,9 @@
 **The Love Notes** was an improv troupe.
 
 ## History
-The first iteration of the troupe consisted of [[Performers/Avimaan Syam|Avimaan Syam]], [[Paul Wainwright]], and a third member.  Upon her departure from Austin, the two men auditioned for new members, eventually adding [[Performers/Chelsea Adland|Chelsea Adland]], [[Performers/Kristin Firth|Kristin Firth]], and [[Performers/Meghan Wolff|Meghan Wolff]] in mid-2009, and performing in that incarnation for the first time on 8/27/09.
+The first iteration of the troupe consisted of [[Performers/Avimaan Syam|Avimaan Syam]], Paul Wainwright, and a third member.  Upon her departure from Austin, the two men auditioned for new members, eventually adding [[Performers/Chelsea Adland|Chelsea Adland]], [[Performers/Kristin Firth|Kristin Firth]], and [[Performers/Meghan Wolff|Meghan Wolff]] in mid-2009, and performing in that incarnation for the first time on 8/27/09.
 
-In November 2009, they presented "Where in the World?", a show format based on *[[Wikipedia - Where in the World is Carmen Sandiego|Where in the World is Carmen Sandiego?]]* as the regular opener for *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
+In November 2009, they presented "Where in the World?", a show format based on *Where in the World is Carmen Sandiego?* as the regular opener for *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 
 The troupe performed in [[Festivals/WaffleFest 2009|WaffleFest 2009]], [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]], and  [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 

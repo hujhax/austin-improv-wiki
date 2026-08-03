@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Café Caffeine">Café Caffeine</a></td>
+			<td class="category">Café Caffeine</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -89,4 +89,4 @@ This was a forty-minute show with games, scenes, and audience participation.  It
 
 ## More Information
 * [The show's web page.](http://puppetimprovproject.org/sock-treatment.html)
-[[Category/Shows|Category:Shows]]
+Category:Shows

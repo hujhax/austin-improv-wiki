@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
-  --><li style=""><a class="internal-link" href="Kim Lowery">Kim Lowery</a></li><!--
+  --><li style="">Kim Lowery</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Maria Pond">Maria Pond</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Shirley">Matt Shirley</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Wuthrich">Nick Wuthrich</a></li><!--
+  --><li style="">Maria Pond</li><!--
+  --><li style="">Matt Shirley</li><!--
+  --><li style="">Nick Wuthrich</li><!--
   --><!--
   --><!--
   --><!--
@@ -77,4 +77,4 @@ Sides Hugs is an improv troupe.
 
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

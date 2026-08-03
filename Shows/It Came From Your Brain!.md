@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
-  --><li style=""><a class="internal-link" href="Nicholaus Weindel">Nicholaus Weindel</a></li><!--
+  --><li style="">Nicholaus Weindel</li><!--
   --><!--
   --><!--
   --><!--
@@ -69,18 +69,18 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category">[[Chelsea Dougherty]]</td>
+			<td class="category">Chelsea Dougherty</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
+  --><li style="">Jennifer Dorsey</li><!--
+  --><li style="">Marcone Cangussu</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Alicia Earls">Alicia Earls</a></li><!--
-  --><li style=""><a class="internal-link" href="Ethan Stites">Ethan Stites</a></li><!--
+  --><li style="">Alicia Earls</li><!--
+  --><li style="">Ethan Stites</li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Heidi Penix</a></li><!--
-  --><li style=""><a class="internal-link" href="Ben Howell">Ben Howell</a></li><!--
+  --><li style="">Ben Howell</li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Lorenz">Heidi Lorenz</a> (Host)</li><!--
   --><!--
   --><!--
@@ -129,8 +129,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Juese Cutler">Juese Cutler</a></li><!--
+  --><li style="">Neil Dorsey</li><!--
+  --><li style="">Juese Cutler</li><!--
   --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
@@ -208,4 +208,4 @@ IT CAME FROM YOUR BRAIN! is an improvised sci-fi horror show that harkens back t
 *This improvised retro sci-fi monster movie may pique your curiosity enough that you’ll want to visit the “drive-in” more than once* <br/>
 — T. Lynn Mikeska **[The Institution Theater's It Came From Your Brain](https://www.austinchronicle.com/arts/2016-10-28/it-came-from-your-brain/)**
 </blockquote>
-[[Category/Shows|Category:Shows]]
+Category:Shows

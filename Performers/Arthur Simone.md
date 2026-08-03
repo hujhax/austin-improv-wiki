@@ -30,7 +30,7 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 ## Troupes
 * [[Troupes/3, 2, 1, Kill!|3, 2, 1, Kill!]]
 * [[Troupes/Array|Array]]
-* [[Arthur Simone & Chris Trew Sing the Songs of]] 
+* Arthur Simone & Chris Trew Sing the Songs of       
 * [[Troupes/Boy Toy|Boy Toy]]
 * [[Troupes/Buddy Daddy|Buddy Daddy]]
 * [[Troupes/ColdTowne (Troupe)|ColdTowne]]
@@ -54,4 +54,4 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 [[Category/Performers|Simone]]
 [[Category/Teachers|Simone]]
 [[Category/Directors|Simone]]
-[[Category/Active|Simone]]
+Simone

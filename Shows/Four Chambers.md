@@ -48,10 +48,10 @@ http://leavingmundania.com/2014/08/17/j-tuomas-harviainen-larp-collection/
 
 #### Cast
 * [[Performers/Chris Albano|Chris Albano]]
-* [[Leonard Balsera]]
+* Leonard Balsera
 * [[Performers/Jeff Britt|Jeff Britt]]
-* [[Ericka Bundy]]
-* [[Terra Chirieleison]]
+* Ericka Bundy
+* Terra Chirieleison
 * [[Performers/Cat Drago|Cat Drago]]
 * [[Performers/Heidi Penix|Heidi Penix]]
 * [[Performers/Lacy Shawn|Lacy Shawn]]
@@ -71,7 +71,7 @@ Four players are divided into two couples – old and young – one for each sto
 http://scenariofestival.se/archive/scenarios-2013/previous-occupants/
 
 #### Cast
-* Husband: [[JM Specht]]
+* Husband: JM Specht
 * Wife: [[Performers/Jayme Ramsay|Jayme Ramsay]]
 * Boyfriend: [[Performers/Brandon Martin|Brandon Martin]]
 * Girlfriend: [[Performers/Aspen Webster|Aspen Webster]]
@@ -87,7 +87,7 @@ http://www.bullypulpitgames.com/games/juggernaut/
 
 This show played on May 23, 2015. 
 #### Cast
-* Dr. Takahashi: [[Angie Alegria Smith]]
+* Dr. Takahashi: Angie Alegria Smith
 * Dr. Dörflinger: [[Performers/Emily Breedlove|Emily Breedlove]]
 * Chandrakar: [[Performers/Sushant Sethi|Sushant Sethi]]
 * Major Van Der Meer: [[Performers/Brad Hawkins|Brad Hawkins]]
@@ -95,14 +95,14 @@ This show played on May 23, 2015.
 * Brasseau: [[Performers/Ryan Hill|Ryan Hill]]
 
 ### Icebox
-This was a customized format written by [[Performers/Marc Majcher|Marc Majcher]] that told the story of a [[Wikipedia - Generation ship|generation ship]] whose mission went horribly awry.
+This was a customized format written by [[Performers/Marc Majcher|Marc Majcher]] that told the story of a generation ship whose mission went horribly awry.
 
 http://www.drivethrucards.com/product/149806/Icebox-Decompression
 
 This show played on May 30, 2015. 
 
 #### Cast
-* [[Ripley Adams]]
+* Ripley Adams
 * [[Performers/Jessica Arjet|Jessica Arjet]]
 * [[Performers/Chad Wellington|Chad Wellington]]
 * [[Performers/Heidi Rogers|Heidi Rogers]]
@@ -117,5 +117,5 @@ This show played on May 30, 2015.
 * [Video](http://vimeo.com/130296223) of the 5/23/15 performance of "Juggernaut".
 	* [iPhone video](http://youtu.be/suIDfmBkZ80) of the show.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

@@ -20,9 +20,9 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
-  --><li style=""><a class="internal-link" href="Gsu Paek">Gsu Paek</a></li><!--
-  --><li style=""><a class="internal-link" href="Karen Early">Karen Early</a></li><!--
-  --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--
+  --><li style="">Gsu Paek</li><!--
+  --><li style="">Karen Early</li><!--
+  --><li style="">Megan Simon</li><!--
   --><!--
   --><!--
   --><!--
@@ -92,5 +92,5 @@ Previously, it ran on Wednesdays, then every Saturday at 10:30 pm.
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/the-megaphone-show)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

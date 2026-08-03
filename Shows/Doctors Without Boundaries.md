@@ -25,10 +25,10 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Cyrus Lum">Cyrus Lum</a></li><!--
-  --><li style=""><a class="internal-link" href="Evan T Atherton">Evan T Atherton</a></li><!--
-  --><li style=""><a class="internal-link" href="Janice Kay Bech">Janice Kay Bech</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Towery">Stephanie Towery</a></li><!--
+  --><li style="">Cyrus Lum</li><!--
+  --><li style="">Evan T Atherton</li><!--
+  --><li style="">Janice Kay Bech</li><!--
+  --><li style="">Stephanie Towery</li><!--
   --><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Doctors Without Boundaries*** was an improvised longform inspired by the medical soap opera *[[Wikipedia - Grey's Anatomy|Grey's Anatomy]]*
+***Doctors Without Boundaries*** was an improvised longform inspired by the medical soap opera *Grey's Anatomy*
 
 It was one the [[Merlin Works Graduation Shows]].
 
@@ -101,4 +101,4 @@ Each of the show's three performances included guest stars:
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=11864) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

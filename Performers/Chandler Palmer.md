@@ -23,10 +23,10 @@
 
 
 ## Shows
-* *[[Wild Friends]]* (2024)
-* *[[Spooky Halloween Journey]]* (2024)
-* *[[Excellent Adventure]]* (2024)
-* *[[Those Meddling Kids]]* (2024)
-* *[[Wonky Wishes]]* (2023)
+* *Wild Friends* (2024)
+* *Spooky Halloween Journey* (2024)
+* *Excellent Adventure* (2024)
+* *Those Meddling Kids* (2024)
+* *Wonky Wishes* (2023)
 
 [[Category/Performers|Palmer]]

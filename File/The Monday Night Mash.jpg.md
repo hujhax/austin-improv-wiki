@@ -3,7 +3,7 @@
 ## Summary
 Publicity art for *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.
 
-Art by [[Albert Im]].
+Art by Albert Im.
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

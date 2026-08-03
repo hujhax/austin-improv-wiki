@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bobby DiPasquale">Bobby DiPasquale</a></li><!--
-  --><li style=""><a class="internal-link" href="Daniel Sawtelle">Daniel Sawtelle</a></li><!--
-  --><li style=""><a class="internal-link" href="Dario Konjicija">Dario Konjicija</a></li><!--
+  --><li style="">Bobby DiPasquale</li><!--
+  --><li style="">Daniel Sawtelle</li><!--
+  --><li style="">Dario Konjicija</li><!--
   --><!--
   --><!--
   --><!--

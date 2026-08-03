@@ -41,21 +41,21 @@ A post from her about the first improv show she ever saw:<blockquote><p>The firs
 
 <p>In comparison the improv I see and participate in here in Austin is sooooo much simpler!</p></blockquote>
 
-In 2014, she moved away to Oregon, but visits Austin regularly and is still involved in several local projects, including [[Troupes/Girls Girls Girls|Girls Girls Girls]], [[The World Peace Project]] and [[Troupes/The Known Wizards|The Known Wizards]].
+In 2014, she moved away to Oregon, but visits Austin regularly and is still involved in several local projects, including [[Troupes/Girls Girls Girls|Girls Girls Girls]], The World Peace Project and [[Troupes/The Known Wizards|The Known Wizards]].
 
 ## Troupes
 * [[Troupes/ComedySportz|ComedySportz]]
-* [[Duck Duck Boom]]
+* Duck Duck Boom
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/The Known Wizards|The Known Wizards]]
 * [[Troupes/The Starter Kit|The Starter Kit]]
-* [[The World Peace Project]]
-* [[The Extra-Ordinary League]]
+* The World Peace Project
+* The Extra-Ordinary League
 
 ## Shows
 * *[[Shows/The Andersons|The Andersons]]*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Esther's Follies]]*
+* *Esther's Follies*
 * *[[Shows/Fakespeare|Fakespeare]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Shows/Rock|Rock]]*

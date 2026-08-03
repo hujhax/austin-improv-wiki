@@ -34,27 +34,27 @@ A post from her about the first improv show she ever saw:<blockquote>I saw "Star
 ## Troupes
 * [[Troupes/The Better Half|The Better Half]]
 * [[Troupes/Church Potluck|Church Potluck]]
-* [[The Cruise Ladies]]
+* The Cruise Ladies
 * [[Troupes/Grey Matters|Grey Matters]]
-* [[The Inmates]]
-* [[Tight Cookie]]
+* The Inmates
+* Tight Cookie
 
 ## Shows
 * *[[Shows/The Ladies Room|The Ladies Room]]* (improv) 2016
-* *[[Will You Be My Tinderella]]*(improv)
+* *Will You Be My Tinderella*(improv)
 * *[[Shows/The Ladies Room|The Ladies Room]]* (improv)2015
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Festivals/Love Fest|Love Fest]]* (performer, improv, host)
-* *[[Christmas at the Cozy Mountain Inn]]* (improv)
-* *[[The Better Half Presents Date Night]]*(co-producer, co-director, host)
+* *Christmas at the Cozy Mountain Inn* (improv)
+* *The Better Half Presents Date Night*(co-producer, co-director, host)
 * *[[Shows/Thinning The Herd|Thinning The Herd]]* (producer, season three)
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (performer, scripted, "Juanita", 1-time fill in)
 * *[[Shows/Danger!|Danger!]]* (performer, improv)
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (performer, improv 2013- 2015)
-* *[[The Informal Pig Show]]* (host)
+* *The Informal Pig Show* (host)
 * *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Shows/Manson -  The Musical|Manson -  The Musical]]* (performer, scripted, "Katie")
-* *[[The Moral Compass Rumpus]]* (performer, scripted, 1-time fill in)
+* *The Moral Compass Rumpus* (performer, scripted, 1-time fill in)
 * *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (stage manager)
 * *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog]]* (tech)
 * *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]* (stage manager)

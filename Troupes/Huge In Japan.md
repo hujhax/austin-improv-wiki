@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Christine Crocker">Christine Crocker</a></li><!--
-  --><li style=""><a class="internal-link" href="Laura Galos">Laura Galos</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Nelson">Matt Nelson</a></li><!--
+  --><li style="">Christine Crocker</li><!--
+  --><li style="">Laura Galos</li><!--
+  --><li style="">Matt Nelson</li><!--
   --><!--
   --><!--
   --><!--

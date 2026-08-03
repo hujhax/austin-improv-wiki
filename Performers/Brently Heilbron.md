@@ -29,7 +29,7 @@ He guested with [[Troupes/Girls Girls Girls|Girls Girls Girls]] during their *[[
 ## Troupes
 * [[Troupes/Monks' Night Out|Monks' Night Out]]
 * [[Troupes/Only 90% Effective|Only 90% Effective]]
-* [[P.A.L.S]]
+* P.A.L.S.
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 
 ## Shows
@@ -43,4 +43,4 @@ He guested with [[Troupes/Girls Girls Girls|Girls Girls Girls]] during their *[[
 [[Category/Performers|Heilbron]]
 [[Category/Directors|Heilbron]]
 [[Category/Teachers|Heilbron]]
-[[Category/Musicians|Heilbron]]
+Heilbron

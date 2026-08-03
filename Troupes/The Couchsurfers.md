@@ -19,8 +19,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Callie Sharon">Callie Sharon</a></li><!--
-  --><li style=""><a class="internal-link" href="Jake Sharon">Jake Sharon</a></li><!--
+  --><li style="">Callie Sharon</li><!--
+  --><li style="">Jake Sharon</li><!--
   --><!--
   --><!--
   --><!--
@@ -96,7 +96,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 <p>Jake and Callie have both been training at [[Theatres/The Institution Theater|The Institution Theater]] and other theaters. </p>
 <p>Jake has 5+ years of improv under his belt. </p>
 <p>Callie is in level 3 at the [[Theatres/Institution Theater|Institution Theater]]. </p>
-<p>The Couchsurfers coach with [[Performers/Asaf Ronen|Asaf Ronen]] and recently debuted their show at [[The Insitution Theater]]'s *[[Shows/Triple Scoop|Triple Scoop]]* showcase.</p>
+<p>The Couchsurfers coach with [[Performers/Asaf Ronen|Asaf Ronen]] and recently debuted their show at The Insitution Theater's *[[Shows/Triple Scoop|Triple Scoop]]* showcase.</p>
 </blockquote>
 
 ## More Information
@@ -105,5 +105,5 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Couchsurfers]]
 [[Category/Auto-Generated Troupe Pages|Couchsurfers]]
-[[Category/Active|Couchsurfers]]
+Couchsurfers
 [[Category/Duos|Couchsurfers]]

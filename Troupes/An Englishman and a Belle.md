@@ -77,7 +77,7 @@ Formed in 2015, these [[Theatres/The Hideout Theatre|The Hideout Theatre]] alumn
 
 In April 2016, they performed together again, first at [[Troupes/Cascade|Cascade]]'s [[Shows/ImprompTwo|ImprompTwo]] show at [[Theatres/The Institution Theater|The Institution Theater]] (doing the two chairs format again), and then at the Hideout's [[Festivals/The 2016 Improvised Play Festival|The 2016 Improvised Play Festival]], as part of the duos slot. Inspired by the rich, theatrical and character-led improv that the Hideout teaches, and the music of The Lumineers their show told two vignettes from characters' lives, allowing both performers to play a lead role. Each vignette was inspired by the name of a person significant to an audience member, and an emotion that they associated with them. The result was a delightful show, mixing comedy and powerful emotion and is something that both the Englishman and the Belle are very proud of.
 
-They performed together once more in Austin in April 2017, first at the Hideout's Dual Reality show, then again at ImprompTwo. They followed this up in June with two sets at the 1st Ocean State Improv Festival in Wakefield Rhode Island (at the Contemporary Theatre Company, directed by fellow Hideout alumnus Christopher Simpson), together with other Austin-based teams [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] and [[The Matriarchy]]. At all of these shows, they did the format that they performed at The Improvised Play Festival, it continuing to be one that appeals deeply to both of them.
+They performed together once more in Austin in April 2017, first at the Hideout's Dual Reality show, then again at ImprompTwo. They followed this up in June with two sets at the 1st Ocean State Improv Festival in Wakefield Rhode Island (at the Contemporary Theatre Company, directed by fellow Hideout alumnus Christopher Simpson), together with other Austin-based teams [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] and The Matriarchy. At all of these shows, they did the format that they performed at The Improvised Play Festival, it continuing to be one that appeals deeply to both of them.
 
 They're also becoming know as one of the more splendidly-dressed improv duos around. Like all the best improv-related decisions, what started as a joke about Mark wearing a waistcoat and Aspen a beautiful dress to the TIF show escalated rather spectacularly...
 
@@ -99,5 +99,5 @@ They're also becoming know as one of the more splendidly-dressed improv duos aro
 * [An Englishman and a Belle profiled for The 2016 Improvised Play Festival.](http://www.hideouttheatre.com/improvised-play-festival-spotlight-an-englishman-and-a-belle)
 
 [[Category/Troupes|An Englishman and a Belle]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

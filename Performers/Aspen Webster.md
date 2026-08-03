@@ -33,23 +33,23 @@ Aspen started taking classes at the [[Theatres/Hideout Theater|Hideout Theater]]
 * *[[Shows/Lonely Star|Lonely Star]]* (2015) (Assistant Director)
 * *[[Shows/183 Dewberry Lane|183 Dewberry Lane]]* (2016)
 * *[[Shows/Fiasco|Fiasco]]* (2016)
-* *[[Shameless Dames]]* (2016)
+* *Shameless Dames* (2016)
 * ''[[Shows/Story to the Death|Story to the Death]] (2016) (Assistant Director)
-* *[[Fool's Well]]* (2016)
+* *Fool's Well* (2016)
 * ''[[Shows/Start Trekkin|Start Trekkin]] (2017)
 * ''[[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]] (2017)
 * *[[Shows/Soundstage 23|Soundstage 23]]* (2017) (Co-Director)
-* *[[Big Gay Musical]]* (2018)
-* *[[Mischief Managed]]* (2018)
-* *[[Silly Love Songs]]* (2019) (Co-Director)
+* *Big Gay Musical* (2018)
+* *Mischief Managed* (2018)
+* *Silly Love Songs* (2019) (Co-Director)
 * *[[Shows/The Black Vault|The Black Vault]]* (2019)
-* *[[Escape the Zoom]]* (2020)
-* *[[#Found]]* (2020)
-* *[[In a Galaxy a Farce Farce Away]]* (2021)
+* *Escape the Zoom* (2020)
+* *#Found* (2020)
+* *In a Galaxy a Farce Farce Away...* (2021)
 
 ## Troupes
 * [[Troupes/Physics Curse|Physics Curse]] 
-* [[Sparkle Cat]]
+* Sparkle Cat
 * [[Troupes/An Englishman and a Belle|An Englishman and a Belle]]
 * [[Shows/History Under the Influence|History Under the Influence]] 
 

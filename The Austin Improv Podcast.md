@@ -11,4 +11,4 @@ The podcast is hosted and produced by [[Performers/Scott Hearne|Scott Hearne]] a
 * [The podcast's facebook page.](http://www.facebook.com/austinimprov)
 * [The podcast's episode list.](http://directory.libsyn.com/shows/view/id/austinimprov)
 
-[[Category/Podcasts|Category:Podcasts]]
+Category:Podcasts

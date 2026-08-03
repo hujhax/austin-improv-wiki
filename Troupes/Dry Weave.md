@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Arian Brumby">Arian Brumby</a></li><!--
-  --><li style=""><a class="internal-link" href="Daniel Goldstein">Daniel Goldstein</a></li><!--
-  --><li style=""><a class="internal-link" href="Dustin Conley">Dustin Conley</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Asmus">Stephanie Asmus</a></li><!--
-  --><li style=""><a class="internal-link" href="Tyler Wasden">Tyler Wasden</a></li><!--
+  --><li style="">Arian Brumby</li><!--
+  --><li style="">Daniel Goldstein</li><!--
+  --><li style="">Dustin Conley</li><!--
+  --><li style="">Stephanie Asmus</li><!--
+  --><li style="">Tyler Wasden</li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@ They won the summer 2012 Cagematch on 6/29/12.
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/44662712) by [[Daniel Goldstein]] of their 6/22/12 semifinal *[[Shows/Cagematch|Cagematch]]* show.
+* [Video](http://vimeo.com/44662712) by Daniel Goldstein of their 6/22/12 semifinal *[[Shows/Cagematch|Cagematch]]* show.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Only One Performance|Category:Only One Performance]]

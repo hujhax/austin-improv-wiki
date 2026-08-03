@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
+  --><li style="">Amy McCurdy</li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--

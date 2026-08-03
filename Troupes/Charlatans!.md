@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Christina Parrish</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Will Cleveland">Will Cleveland</a></li><!--
+  --><li style="">Will Cleveland</li><!--
   --><!--
   --><!--
   --><!--

@@ -81,7 +81,7 @@ This is their bio from the [[Festivals/2012 Out of Bounds|2012 Out of Bounds]] w
 After two years of relative inactivity, the troupe performed their final show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]. 
 
 ### Former Members
-* [[Nadine Latief]]
+* Nadine Latief
 * [[Performers/Kristin Firth|Kristin Firth]]
 
 ## Media

@@ -26,7 +26,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Vinh Ngo">Vinh Ngo</a></td>
+			<td class="category">Vinh Ngo</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -35,7 +35,7 @@
   --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Colin Thomas Bates</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
+  --><li style="">Jesse Overright</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Kimberly Cox</a></li><!--
@@ -86,7 +86,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Anne Wolfe Andersen">Anne Wolfe Andersen</a></li><!--
+  --><li style="">Anne Wolfe Andersen</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
   --><!--
   --><!--
@@ -146,7 +146,7 @@
 </div>
 
 :*This page refers to the [[Gnap! Theater Projects]] improv show based on *90210*.  For the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* staging of the *90210* episode "Spring Dance", see *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]''.
-***Totally Improvised, 90210*** was an improvised take on *[[Wikipedia - Beverly Hills, 90210|Beverly Hills, 90210]]*.
+***Totally Improvised, 90210*** was an improvised take on *Beverly Hills, 90210*.
 
 ## Summary
 The show took place in the same world as *Beverly Hills, 90210*, with that same central cast.  Each performance began with a three-minute intro from an episode of the show, and then ran with that for about an hour of improv.
@@ -161,7 +161,7 @@ The show was produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vangua
 * [[Performers/Bryan Cruz|Bryan Cruz]] as Dylan McKay
 * [[Performers/Colin Thomas Bates|Colin Thomas Bates]] as David Silver
 * [[Performers/Courtney Hopkin|Courtney Hopkin]] as Donna Martin
-* [[Jesse Overright]] as Brandon Walsh
+* Jesse Overright as Brandon Walsh
 * [[Performers/Katie Thornton|Katie Thornton]] as Kelly Taylor
 * [[Performers/Michael Thomas|Michael Thomas]] as Steve Sanders
 * [[Performers/Lauren Buck|Lauren Buck]] as Brenda Walsh
@@ -169,9 +169,9 @@ The show was produced by [[Gnap! Theater Projects]] at [[Theatres/Salvage Vangua
 
 Flex Cast: [[Performers/Amy Averett|Amy Averett]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Kimberly Cox|Kimberly Cox]], [[Performers/Mark Carpenter|Mark Carpenter]], [[Performers/Peter Rogers|Peter Rogers]]
 
-Musician:  [[Vinh Ngo]]
+Musician:  Vinh Ngo
 
-Tech Crew: [[Anne Wolfe Andersen]], [[Performers/Jen Kaplan|Jen Kaplan]]
+Tech Crew: Anne Wolfe Andersen, [[Performers/Jen Kaplan|Jen Kaplan]]
 
 Assistant Director: [[Performers/Peter Rogers|Peter Rogers]]
 
@@ -195,4 +195,4 @@ Assistant Director: [[Performers/Peter Rogers|Peter Rogers]]
 	* [Behind-the-scenes photos from the publicity shoot.](http://www.facebook.com/SteveRogers1212/media_set?set=a.159711617443203.42516.100002130980897&type=3)
 * [Promo photos](http://www.facebook.com/media/set/?set=a.10150243909883311.328380.16782108310&type=1) by [[Steve Rogers]], with art by [[Performers/Courtney Hopkin|Courtney Hopkin]].
 
-[[Category/Shows|Totally]]
+Totally

@@ -31,17 +31,17 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Troupes/A Really Aggressive Dream|A Really Aggressive Dream]] (former troupe member)
 * [[Troupes/Physics Curse|Physics Curse]]
 * [[Shows/Control Issues|Control Issues]] (former troupe member)
-* [[Coyly Blunt]]
+* Coyly Blunt
 * [[Troupes/Zarzamora|Zarzamora]]
-* [[Donut Patrol]]
+* Donut Patrol
 
 ## Shows
 * [[Shows/Dance Dreams|Dance Dreams]]
-* [[God vs. Devil]]
+* God vs. Devil
 * [[Shows/How I Saved the World Over Summer Vacation|How I Saved the World Over Summer Vacation]]
-* [[Damn Gina Presents The Nightwatch]]
+* Damn Gina Presents The Nightwatch
 * [[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]
-* [[Coven]]
+* Coven
 * [[Shows/I'll Take the Physical Challenge|I'll Take the Physical Challenge]]
 * [[Shows/Process|Process]]
 * [[Festivals/The 47-Hour Improv Marathon|The 47-Hour Improv Marathon]]
@@ -49,11 +49,11 @@ For a complete list of her performances, check out her performance calendar [htt
 * [[Shows/Lonely Star|Lonely Star]]
 * [[Shows/A Deed So Dark|A Deed So Dark]] (sound tech)
 * [[Shows/The Tribunal|The Tribunal]] (played Mouse)
-* [[The Beach Boys Solve A Mystery]]
+* The Beach Boys Solve A Mystery
 * [[Shows/Nothing And Everything|Nothing And Everything]] (assistant director)
 * [[Shows/The Dahl House|The Dahl House]] (sound tech)
 * *[[Shows/The Organ Trail|The Organ Trail]]* 
-* *[[It's Saturday Night!]]*
+* *It's Saturday Night!*
 * *[[Shows/Camp Madeuponthespotta|Camp Madeuponthespotta]]*
 
 ## Festivals

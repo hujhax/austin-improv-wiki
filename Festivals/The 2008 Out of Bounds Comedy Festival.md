@@ -17,16 +17,16 @@ Its advertising and art were election-themed.
 * [[Troupes/Junk|Junk]]
 * [[Shows/Ka-Baam!!|Ka-Baam!!]]
 * [[Troupes/Look Cookie|Look Cookie]]
-* [[Lovey and Lovey]]
-* [[Master Pancake Theatre]]
-* [[Matt Bearden]]
+* Lovey and Lovey
+* Master Pancake Theatre
+* Matt Bearden
 * [[Troupes/Midnight Society|Midnight Society]]
 * [[Troupes/Murphy|Murphy]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* [[Skipfield]]
+* Skipfield
 * [[Troupes/Snackers|Snackers]]
 * [[Shows/Stool Pigeon|Stool Pigeon]]
-* [[The 3 Actorteers]]
+* The 3 Actorteers
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * [[Troupes/The Starter Kit|The Starter Kit]]
 * [[Troupes/You're Not My Real Dad|You're Not My Real Dad]]
@@ -80,4 +80,4 @@ Its advertising and art were election-themed.
 
 ## More Information
 * [The 2008 Out of Bounds web site.](http://www.outofboundsimprov.com/2008/home08.html)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

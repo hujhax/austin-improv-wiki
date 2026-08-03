@@ -72,6 +72,6 @@
 
 **Tom Does The Good Work** is an improv duo.
 
-[[Category/Troupes|Category: Troupes]]
-[[Category/Duos|Category: Duos]]
+Category: Troupes
+Category: Duos
 [[Category/Troupes|Category:Troupes]]

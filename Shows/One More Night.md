@@ -27,7 +27,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Avimaan Vivek Syam">Avimaan Vivek Syam</a></li><!--
+  --><li style="">Avimaan Vivek Syam</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
@@ -87,7 +87,7 @@
 ![[One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]
 
 
-***One More Night*** was an improvised longform narrative show inspired by *[[Wikipedia - The Arabian Nights|The Arabian Nights]]*.
+***One More Night*** was an improvised longform narrative show inspired by *The Arabian Nights*.
 
 ## Summary
 *One More Night* featured multi-layered framing devices, used bolts of bright fabric scattered about the stage for a variety of props, costumes, and scenery, and emphasized sensuality and violence.
@@ -125,4 +125,4 @@ The following are links to songs that were frequently used in the *One More Nigh
 ## More Information
 * [The announcement of the premiere](http://forum.austinimprov.com/viewtopic.php?p=89742) on [[The AIC Forums]].
 
-[[Category/Shows|One]]
+One

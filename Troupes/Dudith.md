@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Judith Schomp">Judith Schomp</a></li><!--
+  --><li style="">Judith Schomp</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,5 +78,5 @@ Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hi
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

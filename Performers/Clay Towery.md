@@ -30,7 +30,7 @@ He passed away unexpectedly the morning of February 13, 2014.
 
 ## Troupes
 * [[Troupes/Dandy|Dandy]]
-* [[Duck Duck Boom]]
+* Duck Duck Boom
 * [[Troupes/The Professor|The Professor]]
 
 ## Shows

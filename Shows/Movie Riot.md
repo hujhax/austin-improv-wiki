@@ -19,10 +19,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
+  --><li style="">Mac Blake</li><!--
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Kirk Johnson">Kirk Johnson</a></li><!--
+  --><li style="">Kirk Johnson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
@@ -105,5 +105,5 @@ You can see this band of brothers every week in their acclaimed improv showcase 
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/blog/movie-movie-returns)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

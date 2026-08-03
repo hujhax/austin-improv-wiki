@@ -127,8 +127,8 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael McGill">Michael McGill</a></li><!--
-  --><li style=""><a class="internal-link" href="Susan Pantell">Susan Pantell</a></li><!--
+  --><li style="">Michael McGill</li><!--
+  --><li style="">Susan Pantell</li><!--
   --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
@@ -184,7 +184,7 @@
 	</table>
 </div>
 
-***Who is T. Henry Baudecliffe?*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was inspired by the 'outsider art' of artists like [[Wikipedia - Henry Darger|Henry Darger]].
+***Who is T. Henry Baudecliffe?*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was inspired by the 'outsider art' of artists like Henry Darger.
 
 ## Summary
 The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and [[Theatres/The Hideout Theatre|The Hideout Theatre]] was presenting stagings of some of his work.  An excerpt from a blog post from [[Performers/Curtis Luciani|Curtis Luciani]] explains the conceit in further detail:<blockquote><p>"Late in 2009, I received an email from an artist friend of mine. She had sent me and several other friends a collection of digital images. The images looked like severely demented children's drawings, and each drawing had handwritten captions that seemed to be drawn from some equally demented narrative. This was my first encounter with the work of T. Henry Baudecliffe.</p>
@@ -233,5 +233,5 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 * [Reviews of the show.](http://www.hideouttheatre.com/baudecliffereviews)
 * [An announcement of their 2010 holiday show](http://www.hideouttheatre.com/baudecliffe-takes-on-the-holidays).
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

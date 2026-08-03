@@ -77,4 +77,4 @@
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Never Performed|Category:Never Performed]]
+Category:Never Performed

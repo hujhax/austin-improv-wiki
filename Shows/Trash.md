@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Dougherty Arts Center">The Dougherty Arts Center</a></td>
+			<td class="category">The Dougherty Arts Center</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -28,9 +28,9 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Buchanan">Elizabeth Buchanan</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Bateman">Jennifer Bateman</a></li><!--
-  --><li style=""><a class="internal-link" href="Joel Reese">Joel Reese</a></li><!--
+  --><li style="">Elizabeth Buchanan</li><!--
+  --><li style="">Jennifer Bateman</li><!--
+  --><li style="">Joel Reese</li><!--
   --><!--
   --><!--
   --><!--
@@ -92,12 +92,12 @@
 The musical was about a small town that generated an out-of-control trash heap.  To keep it from destroying the town, the citizens had to learn about recycling and eco-friendliness.
  
 ## History
-The show ran for two days, 7/5/13 and 7/6/13.  It was written by [[Joel Reese]].  [[Amy Smith]] designed its costumes.
+The show ran for two days, 7/5/13 and 7/6/13.  It was written by Joel Reese.  Amy Smith designed its costumes.
 
 ### Cast
-* [[Joel Reese]] as "Mrs. Green" & "Mayor".
-* [[Jennifer Bateman]] as "Carla".
-* [[Elizabeth Buchanan]] as "Alex" & "Ms. Great".
+* Joel Reese as "Mrs. Green" & "Mayor".
+* Jennifer Bateman as "Carla".
+* Elizabeth Buchanan as "Alex" & "Ms. Great".
 * [[Performers/Chad Wellington|Chad Wellington]] as "Officer Phil" & "Heap".
 
 ## Media
@@ -107,4 +107,4 @@ The show ran for two days, 7/5/13 and 7/6/13.  It was written by [[Joel Reese]].
 ## More Information
 * [The show's web page.](http://puppetimprovproject.org/trash.html)
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=15334) on [[The Austin Improv Forums]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

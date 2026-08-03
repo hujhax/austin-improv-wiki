@@ -94,5 +94,5 @@ Here is [[Performers/Andrew Buck|Andrew Buck]]'s explanation of the name's origi
 * [The troupe's facebook page.](http://www.facebook.com/mandinkaimprov)
 
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

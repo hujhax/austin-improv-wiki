@@ -39,4 +39,4 @@
 * *[[Shows/Boys of Summer|Boys of Summer]]* (2011 run)
 
 [[Category/Performers|Byrd]]
-[[Category/Active|Byrd]]
+Byrd

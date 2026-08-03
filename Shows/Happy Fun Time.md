@@ -84,4 +84,4 @@
 It runs Fridays nights from 6/10/16 to 7/15/16.
 
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

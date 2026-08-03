@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Addison Billingsley">Addison Billingsley</a></li><!--
-  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
-  --><li style=""><a class="internal-link" href="Jack Jeahy">Jack Jeahy</a></li><!--
+  --><li style="">Addison Billingsley</li><!--
+  --><li style="">Danny Catlow</li><!--
+  --><li style="">Jack Jeahy</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Max Lipchitz">Max Lipchitz</a></li><!--
+  --><li style="">Max Lipchitz</li><!--
   --><!--
   --><!--
   --><!--

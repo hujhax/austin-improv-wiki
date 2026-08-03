@@ -32,7 +32,7 @@
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/RISEN|RISEN]]*
 * *[[Shows/Reframed|Reframed]]*  (Producer)
-* *[[Project ReSet]]*
+* *Project ReSet*
 * *[[Shows/False Matters|False Matters]]* (stage manager)
 * *[[Shows/Magna Veritas|Magna Veritas]]*
 * *[[Shows/Spirited|Spirited]]*

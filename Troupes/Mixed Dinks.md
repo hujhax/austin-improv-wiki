@@ -21,7 +21,7 @@
   --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Gill">Joshua Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa Kubos">Teresa Kubos</a></li><!--
+  --><li style="">Teresa Kubos</li><!--
   --><!--
   --><!--
   --><!--

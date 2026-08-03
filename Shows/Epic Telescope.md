@@ -96,6 +96,6 @@ It was part of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marath
 * [Video of the 6/22/13 show](https://vimeo.com/77276938) in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 
-[[Category/Active|Category:Active]]
-[[Category/Shows|Category:Shows]]
-[[Category/Started as a Fringe Show‎|Category:Started as a Fringe Show‎]]
+Category:Active
+Category:Shows
+Category:Started as a Fringe Show‎

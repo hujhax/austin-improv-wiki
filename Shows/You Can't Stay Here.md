@@ -33,9 +33,9 @@
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessy Schwartz">Jessy Schwartz</a></li><!--
-  --><li style="" ><a class="internal-link" href="Letty Tomlinson">Letty Tomlinson</a></li><!--
+  --><li style="">Donnie Garcia</li><!--
+  --><li style="">Jessy Schwartz</li><!--
+  --><li style="" >Letty Tomlinson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><!--
   --><!--
@@ -155,7 +155,7 @@ From the initial show announcement: <blockquote>"It’s two a.m. in the big, bad
 
 ### Tom's Place
 ![[Toms-place.jpg|Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)]]
-*You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Kenny Madison|Kenny Madison]], and [[Will Cleveland]] served as quizmasters.
+*You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Kenny Madison|Kenny Madison]], and Will Cleveland served as quizmasters.
 
 Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director [[Performers/Brad Hawkins|Brad Hawkins]] announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.
 <div style="clear: both"></div>
@@ -174,5 +174,5 @@ Following the quiz, the first scene of the show began in Tom's Place. The four c
 * [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=17910) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Institution Theater|Category:The Institution Theater]]
+Category:Shows
+Category:The Institution Theater

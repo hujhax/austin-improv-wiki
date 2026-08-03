@@ -28,7 +28,7 @@
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style="">Jessica Salinas</li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Kimberly Cox</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
@@ -99,4 +99,4 @@ This show headlined *[[Shows/The Threefer|The Threefer]]* in March 2011.
 ## More Information
 * [The show announcement](http://forum.austinimprov.com/viewtopic.php?t=11652) on [[The Austin Improv Forums]].
 * [The show's web page.](http://puppetimprovproject.org/pip-on-tv.html)
-[[Category/Shows|Category:Shows]]
+Category:Shows

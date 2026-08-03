@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bobby Stover">Bobby Stover</a></li><!--
+  --><li style="">Bobby Stover</li><!--
   --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Frances Nguyen">Frances Nguyen</a></li><!--
+  --><li style="">Frances Nguyen</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
-  --><li style=""><a class="internal-link" href="Javier Ungo">Javier Ungo</a></li><!--
-  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Soileau">Justin Soileau</a></li><!--
-  --><li style=""><a class="internal-link" href="Lance Nealy">Lance Nealy</a></li><!--
+  --><li style="">Javier Ungo</li><!--
+  --><li style="">Joseph Dailey</li><!--
+  --><li style="">Justin Soileau</li><!--
+  --><li style="">Lance Nealy</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
@@ -85,4 +85,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

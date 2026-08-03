@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Pierce Purselley">Pierce Purselley</a></li><!--
+  --><li style="">Nat Miller</li><!--
+  --><li style="">Pierce Purselley</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Miller and Purselley** (originally **Nat and Pierce**) are an improv duo consisting of ColdTowne faculty members [[Nat Miller]] and [[Pierce Purselley]].  They perform improvised plays.
+**Miller and Purselley** (originally **Nat and Pierce**) are an improv duo consisting of ColdTowne faculty members Nat Miller and Pierce Purselley.  They perform improvised plays.
 
 They played a weekly show at [[Theatres/Coldtowne Theater|Coldtowne Theater]] every Wednesday at 8:30pm for three years, performing their final regular show on March 25, 2015. [[Troupes/Patio Talk|Patio Talk]] replaced them in the Wednesday-night slot.
 
@@ -80,12 +80,12 @@ From [their facebook page](http://www.facebook.com/pages/Miller-and-Purselley/12
 
 ## Media
 ### Photos
-* [A photoset](http://www.facebook.com/media/set/?set=a.537592239637630.1073741866.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/12/13 performance at [[ZACH Theater]].
-* [A photoset](http://www.facebook.com/media/set/?set=a.902699009793616.1073742153.221927764537414&type=3) by [[Steve Rogers]] that includes their 2/8/15 performance at [[ZACH Theater]].
+* [A photoset](http://www.facebook.com/media/set/?set=a.537592239637630.1073741866.221927764537414&type=3) by [[Steve Rogers]] that includes their 5/12/13 performance at ZACH Theater.
+* [A photoset](http://www.facebook.com/media/set/?set=a.902699009793616.1073742153.221927764537414&type=3) by [[Steve Rogers]] that includes their 2/8/15 performance at ZACH Theater.
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/pages/Miller-and-Purselley/122244037880791)
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active

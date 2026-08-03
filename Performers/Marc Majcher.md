@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Marc Majcher** ([[Wikipedia - Help - IPA for English#Key|/ˈmeɪtʃər/]]) is an improv performer, director, and teacher. He has enormous hands.
+**Marc Majcher** (/ˈmeɪtʃər/) is an improv performer, director, and teacher. He has enormous hands.
 
 ## History
 Marc began taking improv classes at the [[Theatres/Hideout Theatre|Hideout Theatre]] in August of 2005. He's done a whole bunch of stuff since then.
@@ -28,7 +28,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 
 <p>(The interesting part of that story is that [[Performers/Asaf Ronen|Asaf]] was in one or more troupes with Tim around then, so I probably saw him in there, and talked to him at a party or something after. Shortly after arriving in Austin, Asaf brought me some photos that he took at a juggling club thing, and there I was. Crazy.)</p> 
 
-<p>The first improv that I saw in Austin (and I don't think I'd seen any in between, aside from zapping through *Whose Line* on the teevee a couple times) was a show that [[Performers/Les McGehee|Les McGehee]] put together for the Alamo in 2003 or so. I'd been doing roller derby stuff a bunch in the years around then, and Les was emceeing the matches, and got a bunch of us to go to his show. It was mostly short formy stuff, with Les and [[Cynthia Oelkers]] and [[Scott Chester]] and... someone else. Again, funny, but didn't go to see it more than once.</p> </blockquote>
+<p>The first improv that I saw in Austin (and I don't think I'd seen any in between, aside from zapping through *Whose Line* on the teevee a couple times) was a show that [[Performers/Les McGehee|Les McGehee]] put together for the Alamo in 2003 or so. I'd been doing roller derby stuff a bunch in the years around then, and Les was emceeing the matches, and got a bunch of us to go to his show. It was mostly short formy stuff, with Les and Cynthia Oelkers and Scott Chester and... someone else. Again, funny, but didn't go to see it more than once.</p> </blockquote>
 
 ## Troupes
 * [[Troupes/Monster|Monster]]
@@ -55,7 +55,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/The Derby|The Derby]]*
 * *[[Shows/Death By Musical|Death By Musical]]* (Music)
 * *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]* (2010-2012)
-* *[[Ego's Trip]]*
+* *Ego's Trip*
 * *[[Shows/False Matters|False Matters]]* (2011)
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Fandom|Fandom]]*
@@ -72,7 +72,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/Hurly Burly|Hurly Burly]]* (performer, co-director)
 * *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
-* *[[Intergalactic Nemesis]]* (Scripted - Mysterion/Silcron/etc)
+* *Intergalactic Nemesis* (Scripted - Mysterion/Silcron/etc)
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
 * *[[Shows/The Kindness of Strangers|The Kindness of Strangers]]*
 * *[[Shows/Kenjutsu|Kenjutsu]]*
@@ -81,7 +81,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/Lola|Lola]]*
 * *[[Shows/Lonely Star|Lonely Star]]*
 * "[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]" (Dietrich von Geltsack)
-* *[[Louder Than Words]]*
+* *Louder Than Words*
 * *[[Shows/Maestro|Maestro]]* (2000-)
 * *[[Shows/Maestro|Maestro RAW]]* (Directed)
 * *[[Shows/Magna Veritas|Magna Veritas]]*
@@ -100,7 +100,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>I'm prett
 * *[[Shows/Savage Swords|Savage Swords]]* (director)
 * *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*  (Co-director)
 * *[[Shows/Seance|Seance]]*
-* *[[Speak No More]]* (Director/performer)
+* *Speak No More* (Director/performer)
 * *[[Shows/Spirited|Spirited]]* (Performed and co-directed)
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/Steam|Steam]]* (2012)

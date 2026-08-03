@@ -16,7 +16,7 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a> ("Buddies")</li><!--
-  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a> ("Boy Greets World")</li><!--
+  --><li style="">Courtney Sevener ("Boy Greets World")</li><!--
   --><!--
   --><!--
   --><!--
@@ -75,13 +75,13 @@
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeff Whitaker">Jeff Whitaker</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenna Marie Carey">Jenna Marie Carey</a></li><!--
+  --><li style="">Gary Richardson</li><!--
+  --><li style="">Jeff Whitaker</li><!--
+  --><li style="">Jenna Marie Carey</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style="">Meredith Mae Roberts</li><!--
+  --><li style="">Naomi Perryman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
@@ -132,7 +132,7 @@
 ***TGIS*** was a mainstage show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].  It was an improv double-bill inspired by 1990s TV sitcoms.
 
 ## Summary
-Each performance included two episodes: an episode of "Boy Greets World" (an improv take on *[[Wikipedia - Boy Meets World|Boy Meets World]]*) and an episode of "Buddies!" (an improv take on *[[Wikipedia - Friends|Friends]]*).
+Each performance included two episodes: an episode of "Boy Greets World" (an improv take on *Boy Meets World*) and an episode of "Buddies!" (an improv take on *Friends*).
 
 It ran Saturdays at 8:30pm in March and April of 2013, with a special finale on Sunday 4/29/13 at 7pm.
 
@@ -146,27 +146,27 @@ Each half of the bill had its own cast.
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Performers/Carlos Larotta|Carlos Larotta]]
 * [[Performers/Emma Holder|Emma Holder]]
-* [[Jeff Whitaker]]
-* [[Jenna Marie Carey]]
+* Jeff Whitaker
+* Jenna Marie Carey
 * [[Performers/Lance Gilstrap|Lance Gilstrap]]
 * [[Performers/Matt Needles|Matt Needles]]
-* [[Naomi Perryman]]
+* Naomi Perryman
 
 #### "Buddies"
 * [[Performers/Cody Dearing|Cody Dearing]]
-* [[Gary Richardson]]
-* [[Meredith Mae Roberts]]
+* Gary Richardson
+* Meredith Mae Roberts
 * [[Performers/Nathan Sowell|Nathan Sowell]]
 
 ## History
 The show included special guests every week, as follows:
-* 3/16 - Toby Keith & The French Guy (played by [[Performers/Chris Baldenhofer|Chris Baldenhofer]] & [[Scott Moss]])
-* 3/23 - [[Stephanie Russo]] & Josh Krilov
+* 3/16 - Toby Keith & The French Guy (played by [[Performers/Chris Baldenhofer|Chris Baldenhofer]] & Scott Moss)
+* 3/23 - Stephanie Russo & Josh Krilov
 * 3/30 - [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 
 * 4/6 - [[Performers/Valerie Ward|Valerie Ward]] & [[Performers/Michael Jastroch|Michael Jastroch]]
-* 4/13 - [[Mac Blake]] & [[Courtney Sevener]]
+* 4/13 - Mac Blake & Courtney Sevener
 * 4/20 - The original Buddies cast from Dallas
-* 4/27 - [[Mike Reikofski]], [[Jessica Hamilton]], & [[Brady James]]
+* 4/27 - Mike Reikofski, Jessica Hamilton, & Brady James
 * 4/28 - every available guest returned for a finale "clip show"
 
 ## Media
@@ -179,4 +179,4 @@ The show included special guests every week, as follows:
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/blog/tgis-90s-sitcoms-saturdays-march)
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?f=2&t=14718) on [[The Austin Improv Forums]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

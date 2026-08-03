@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
+  --><li style="">Christine Giordano</li><!--
   --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Ryan Thomas">Ryan Thomas</a></li><!--
+  --><li style="">Ryan Thomas</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ted Meredith">Ted Meredith</a></li><!--
   --><!--
   --><!--

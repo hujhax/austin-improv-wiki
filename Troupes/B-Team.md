@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chase Rowan">Chase Rowan</a></li><!--
-  --><li style=""><a class="internal-link" href="Craig McGreggor">Craig McGreggor</a></li><!--
-  --><li style=""><a class="internal-link" href="LeAnn Levering-Plant">LeAnn Levering-Plant</a></li><!--
-  --><li style=""><a class="internal-link" href="Melissa Siele">Melissa Siele</a></li><!--
-  --><li style=""><a class="internal-link" href="Molly Harris">Molly Harris</a></li><!--
+  --><li style="">Chase Rowan</li><!--
+  --><li style="">Craig McGreggor</li><!--
+  --><li style="">LeAnn Levering-Plant</li><!--
+  --><li style="">Melissa Siele</li><!--
+  --><li style="">Molly Harris</li><!--
   --><li style=""><a class="internal-link" href="Performers/Pius Wong">Pius Wong</a></li><!--
   --><!--
   --><!--
@@ -90,4 +90,4 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.649123725109126.1073741866.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/5/13 performance in *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

@@ -27,16 +27,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ali Meier">Ali Meier</a></li><!--
+  --><li style="">Ali Meier</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Bradshaw">Elizabeth Bradshaw</a></li><!--
-  --><li style=""><a class="internal-link" href="Michelle Dahlenburg">Michelle Dahlenburg</a></li><!--
-  --><li style=""><a class="internal-link" href="Neil Dorsey">Neil Dorsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Raymond Gutierrez">Raymond Gutierrez</a></li><!--
+  --><li style="">Elizabeth Bradshaw</li><!--
+  --><li style="">Michelle Dahlenburg</li><!--
+  --><li style="">Neil Dorsey</li><!--
+  --><li style="">Raymond Gutierrez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
-  --><li style="" ><a class="internal-link" href="Zac Carr">Zac Carr</a></li><!--
-  --><li style=""><a class="internal-link" href="Sue Jordan">Sue Jordan</a></li><!--
+  --><li style="" >Zac Carr</li><!--
+  --><li style="">Sue Jordan</li><!--
   --><!--
   --><!--
   --><!--
@@ -141,7 +141,7 @@
 	</table>
 </div>
 
-***The Untitled Avant-Garde Theater Project with a Really Long Title*** will be the December 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***The Untitled Avant-Garde Theater Project with a Really Long Title*** will be the December 2016 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
@@ -151,5 +151,5 @@ From the show announcement:<blockquote>(Lights).  (Silence) ... THEN .... The so
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

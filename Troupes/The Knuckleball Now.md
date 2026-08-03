@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Craig Kotfas</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Lee Eddy">Lee Eddy</a></li><!--
+  --><li style="">Lee Eddy</li><!--
   --><!--
   --><!--
   --><!--
@@ -91,9 +91,9 @@ In 2014 Lee Eddy, after a long absence, re-joined The Knuckleball Now.
 The Knuckleball Now was honored with the Rudy Kloptic Award for Oustanding Improvisational Troupe at the 2017 B. Iden Payne Awards.
 
 ### Former Members
-* [[David Modigliani]] (founder)
+* David Modigliani (founder)
 * [[Performers/Mike D'Alonzo|Mike D'Alonzo]] (founder)
-* [[Mike Dolan]] (founder)
+* Mike Dolan (founder)
 
 ## Media
 ### Videos
@@ -132,4 +132,4 @@ The Knuckleball Now was honored with the Rudy Kloptic Award for Oustanding Impro
 * [The first forum mention of the troupe.](http://forum.austinimprov.com/viewtopic.php?t=112&view=previous)
 
 [[Category/Troupes|Knuckleball Now]]
-[[Category/Active|Category:Active]]
+Category:Active

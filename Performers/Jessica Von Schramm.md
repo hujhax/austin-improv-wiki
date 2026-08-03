@@ -82,9 +82,9 @@ Jessica von Schramm started taking improv classes at [[Theatres/The Hideout Thea
 * [[Troupes/Minority Report|Minority Report]]
 * [[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]] (2015-2016)
 * [[Troupes/AJAR|AJAR]]
-* [[Cupcake Compadres]]
-* [[Garage]]
-* [[MANIC PIXIE STIX]]
+* Cupcake Compadres
+* Garage
+* MANIC PIXIE STIX
 
 ## Shows
 * *[[Shows/A Penny Dreadful|A Penny Dreadful]]*
@@ -93,17 +93,17 @@ Jessica von Schramm started taking improv classes at [[Theatres/The Hideout Thea
 * *[[Shows/Happily Ever After|Happily Ever After]]* (stage manager)
 * *[[Shows/Home for the Holidays|Home for the Holidays]]*
 * *[[Shows/Control Issues|Control Issues]]*
-* *[[2016 Student Appreciation Show]]* (director/producer)
+* *2016 Student Appreciation Show* (director/producer)
 * *[[Shows/Process|Process]]* (stage manager)
-* *[[Speak No More]]*
+* *Speak No More*
 
 ## Festivals
 * [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]]
-* [[2015 Boston Comedy Arts Festival]]
+* 2015 Boston Comedy Arts Festival
 * [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]]
 * [[Festivals/WaffleFest 2015|WaffleFest 2015]]
-* [[FronteraFest 2016]]
-* [[2016 Houston Improv Festival]]
-* [[The Big Sexy 8 Improv Fest]]
+* FronteraFest 2016
+* 2016 Houston Improv Festival
+* The Big Sexy 8 Improv Fest
 
 [[Category/Performers|Von Schramm]]

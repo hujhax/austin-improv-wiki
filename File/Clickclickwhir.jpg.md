@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Clickclickwhir.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-Promo image for *[[Shows/Click Click Whir|Click Click Whir]]* featuring [[Way Spurr-Chen]] and [[Marissa Macy]].
+Promo image for *[[Shows/Click Click Whir|Click Click Whir]]* featuring Way Spurr-Chen and Marissa Macy.
 
 Design by [[Performers/Kaci Beeler|Kaci Beeler]].
 

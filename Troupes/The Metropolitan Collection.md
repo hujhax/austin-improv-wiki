@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style="">Amy McKenna</li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
+  --><li style="">James Roberts</li><!--
   --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Moss">Scott Moss</a></li><!--
+  --><li style="">Scott Moss</li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@ Their press blurb, taken from a 2010 application to perform at [[Theatres/The Hi
 Their answer to the "What's Your Deal?" question on a 2010 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Sketch comedy</blockquote>
 
 ## History
-The troupe played in [[Theatres/ColdTowne|ColdTowne]]'s [[24-Hour Sketch Challenge]].
+The troupe played in [[Theatres/ColdTowne|ColdTowne]]'s 24-Hour Sketch Challenge.
 
 [[Category/Troupes|Metropolitan Collection]]
 [[Category/Auto-Generated Troupe Pages|Metropolitan Collection]]

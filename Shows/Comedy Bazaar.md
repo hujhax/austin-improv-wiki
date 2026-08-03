@@ -40,4 +40,4 @@ The show premiered on Fridays at midnight at [[Theatres/Coldtowne Theater|Coldto
 ## More Information
 * [The show's youtube channel.](http://www.youtube.com/user/ComedyBazaarAustin?feature=watch)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

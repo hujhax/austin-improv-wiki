@@ -97,12 +97,12 @@ Here is [[Performers/Josh Gill|Josh Gill]]'s explanation of the name's origin:<b
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1904181927003.93571.1315383518&type=3) by [[Michael Yew]] that includes their 8/18/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.330094210392598.73756.118587218209966&type=3) by [[Roy Moore]] that includes their 5/10/12 show at [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.591902264206627.1073741923.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/13 show at [[The ColdTowne Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.591902264206627.1073741923.221927764537414&type=3) by [[Steve Rogers]] of their 9/4/13 show at The ColdTowne Marathon.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1032345030162346.1073742240.221927764537414&type=3) by [[Steve Rogers]] which includes their 9/2/15 performance in [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/BattlestarGillacktucka)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

@@ -27,4 +27,4 @@ The first WaffleFest was organized by [[Performers/Sean Hill|Sean Hill]], and it
 
 ## More Information
 * [Post about the festival](http://www.hideouttheatre.com/waffles-improv-and-vicki) by [[Performers/Paul Normandin|Paul Normandin]] from the Hideout blog.
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

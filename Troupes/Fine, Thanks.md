@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alex Gray">Alex Gray</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy O'Connor">Amy O'Connor</a></li><!--
-  --><li style=""><a class="internal-link" href="Bradley Harrington">Bradley Harrington</a></li><!--
+  --><li style="">Alex Gray</li><!--
+  --><li style="">Amy O'Connor</li><!--
+  --><li style="">Bradley Harrington</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--

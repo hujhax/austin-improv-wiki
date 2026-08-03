@@ -3,9 +3,9 @@
 ## Summary
 The festival ran from Tuesday, 8/31/10 to Monday, 9/6/10.
 
-Its advertising was themed around [[Wikipedia - 2010 (film)|the film *2010*]].
+Its advertising was themed around the film *2010*.
 
-It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikipedia - The Kids in the Hall|The Kids in the Hall]]) as a headliner.
+It featured Kevin McDonald (formerly of The Kids in the Hall) as a headliner.
 
 ## Acts
 ### Local Improv and Sketch Acts
@@ -18,9 +18,9 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Troupes/Boy Toy|Boy Toy]]
 * [[Troupes/Buddy Daddy|Buddy Daddy]]
 * [[Theatres/ColdTowne|ColdTowne]]
-* [[ColdTowne Fantasy]]
+* ColdTowne Fantasy
 * [[Troupes/Confidence Men -  Improvised Mamet|Confidence Men -  Improvised Mamet]]
-* [[Cooper Street]]
+* Cooper Street
 * [[Shows/Crack!|Crack!]]
 * [[Troupes/Dick Rambuck|Dick Rambuck]]
 * [[Shows/Dusk -  Improvised Tween Erotica|Dusk -  Improvised Tween Erotica]]
@@ -33,13 +33,13 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Troupes/Happiness is a Choice|Happiness is a Choice]]
 * [[Shows/Hitchcocked!|Hitchcocked!]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
-* [[The Inmates of the Institution]]
+* The Inmates of the Institution
 * [[Troupes/J-K|J-K]]
 * [[Troupes/Junk|Junk]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * [[Troupes/Look Cookie|Look Cookie]]
 * [[Troupes/Midnight Society|Midnight Society]]
-* [[MilkMilkLemonade]]
+* MilkMilkLemonade
 * [[Troupes/Murphy|Murphy]]
 * [[Troupes/Nice Astronaut|Nice Astronaut]]
 * [[Troupes/Northshore Local|Northshore Local]]
@@ -53,8 +53,8 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 * [[Shows/Start Trekkin'|Start Trekkin']] (NYC+Austin)
 * [[Troupes/The Starter Kit|The Starter Kit]]
 * [[Shows/Stool Pigeon|Stool Pigeon]]
-* [[Topping Haggerty Experience]]
-* [[Triforce]]
+* Topping Haggerty Experience
+* Triforce
 * [[Troupes/Venn Diaphragm|Venn Diaphragm]]
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
@@ -160,9 +160,9 @@ It featured [[Wikipedia - Kevin McDonald|Kevin McDonald]] (formerly of [[Wikiped
 		* The small stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_5/oob2010_5.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_4/oob2010_4.jpg?disposition=download).
 		* The large stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_7/oob2010_7.jpg?disposition=download),[2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_8/oob2010_8.jpg?disposition=download),[3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_6/oob2010_6.jpg?disposition=download).
 	* At [[Theatres/The Hideout Theatre|The Hideout Theatre]]: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_3/oob2010_3.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_2/oob2010_2.jpg?disposition=download).
-	* At [[The Velveeta Room]]: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_1/oob2010_1.jpg?disposition=download).
+	* At The Velveeta Room: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_1/oob2010_1.jpg?disposition=download).
 	* At the mainstage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_10/oob2010_10.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_11/oob2010_11.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_9/oob2010_9.jpg?disposition=download).
 
 ## More Information
 * [The 2010 Out of Bounds web site.](http://www.outofboundscomedy.com/2010/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

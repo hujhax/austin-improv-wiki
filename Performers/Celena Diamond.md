@@ -25,11 +25,11 @@
 Celena is an improviser, actor, artist, maker, seamstress, painter, designer, poet, creativity and self-expression coach, ordained minister and avid lover of dancing, singing, spinning in circles and giggling. She’s been studying improv since March of 2012 with The Institution Theater. Celena also does film and voice work.
 
 ## Troupes
-* [[ALL CAPS]] (2012)
+* ALL CAPS (2012)
 
 ## Shows
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
-* ''[[How Improv Saved My Life-Free Fringe]]
+* ''How Improv Saved My Life/Free Fringe
 * ''[[Shows/Maestro|Maestro]]
 * ''[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]
 

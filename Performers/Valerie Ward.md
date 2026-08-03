@@ -44,7 +44,7 @@ Past:
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
 * *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
 * *[[Shows/The Dahl House|The Dahl House]]* (director)
-* *[[F. Scott & Zelda Fitzgerald Save The World]]*
+* *F. Scott & Zelda Fitzgerald Save The World*
 * *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]* (director) 
 * *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Shows/Manhattan Stories|Manhattan Stories]]* (co-director)

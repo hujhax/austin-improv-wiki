@@ -19,7 +19,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Allison Asher">Allison Asher</a></li><!--
+  --><li style="">Allison Asher</li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
   --><!--
   --><!--
@@ -75,8 +75,8 @@
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeremy Logan">Jeremy Logan</a></li><!--
-  --><li style=""><a class="internal-link" href="Thelma Faglie">Thelma Faglie</a></li><!--
+  --><li style="">Jeremy Logan</li><!--
+  --><li style="">Thelma Faglie</li><!--
   --><!--
   --><!--
   --><!--
@@ -245,7 +245,7 @@
 
 ![[Live TV Tuesdays - Firefly.jpg|The cast of *Firefly* takes a bow.]]
 
-***Live TV Tuesdays: Firefly*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - Firefly (TV series)|*Firefly*]] episode [[Wikipedia - Our Mrs. Reynolds|"Our Mrs. Reynolds"]]
+***Live TV Tuesdays: Firefly*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *Firefly* episode "Our Mrs. Reynolds"
 
 ## Summary
 For this production, director [[Performers/Asaf Ronen|Asaf Ronen]] and assistant director [[Performers/Michael Thomas|Michael Thomas]] wrote six original songs for the show, turning it into a musical.
@@ -278,7 +278,7 @@ Also, [[Performers/Kacey Samiee|Kacey Samiee]] subbed in for [[Performers/Lindse
 * Vocal Coach -- [[Performers/Chelley Pyatt|Chelley Pyatt]]
 * Lights -- [[Performers/Cindy Page|Cindy Page]]
 * Video/Sound -- [[Performers/Chad Wellington|Chad Wellington]]
-* Assistant Directors -- [[Allison Asher]] and [[Performers/Michael Thomas|Michael Thomas]]
+* Assistant Directors -- Allison Asher and [[Performers/Michael Thomas|Michael Thomas]]
 * Director -- [[Performers/Asaf Ronen|Asaf Ronen]]
 
 ## Media
@@ -295,4 +295,4 @@ Also, [[Performers/Kacey Samiee|Kacey Samiee]] subbed in for [[Performers/Lindse
 * [Reddit post about the production.](http://www.reddit.com/r/firefly/comments/t1s45/walked_by_this_near_ut_campus_in_austin_today/c6m87m7)
 * [Response to news of the production on Whedonesque.](http://whedonesque.com/comments/28667)
 * [Crushable article about the production.](http://www.crushable.com/2012/04/30/entertainment/firefly-our-mrs-reynolds-musical-christina-hendricks-242/)
-[[Category/Shows|Category:Shows]]
+Category:Shows

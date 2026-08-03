@@ -79,7 +79,7 @@
   --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
-  --><li style=""><a class="internal-link" href="Megan Simon">Megan Simon</a></li><!--
+  --><li style="">Megan Simon</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
   --><!--
   --><!--
@@ -152,4 +152,4 @@ From the initial show announcement: <blockquote>"Enter the world of musicians on
 ## More Information
 * [The show announcement](http://www.facebook.com/notes/the-institution-theater/the-2015-spring-season-at-the-institution-theater/10152942899449090) on the [[Theatres/Institution Theater|Institution Theater]] facebook page.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

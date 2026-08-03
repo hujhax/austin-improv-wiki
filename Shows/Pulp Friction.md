@@ -25,8 +25,8 @@
   --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Joe Ricks">Joe Ricks</a></li><!--
-  --><li style=""><a class="internal-link" href="Laura Komkov">Laura Komkov</a></li><!--
+  --><li style="">Joe Ricks</li><!--
+  --><li style="">Laura Komkov</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
@@ -74,7 +74,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
+  --><li style="">Carl Ziegler</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Pulp Friction*** was an improvised longform narrative show inspired by the works of [[Wikipedia - Quentin Tarantino|Quentin Tarantino]].
+***Pulp Friction*** was an improvised longform narrative show inspired by the works of Quentin Tarantino.
 
 It was a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]].
 
@@ -150,4 +150,4 @@ It was a mainstage show at [[Theatres/The Institution Theater|The Institution Th
 * [Photoset](http://www.facebook.com/media/set/?set=a.421587074571481.102701.221927764537414&type=3) by [[Steve Rogers]] of their 9/14/12 show.
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151322055487265.525636.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/26/12 show.
 
-[[Category/Shows|Pulp]]
+Pulp

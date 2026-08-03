@@ -42,7 +42,7 @@ A post from him about the first improv show he ever saw:<blockquote> <p>I'm sure
 
 <p>Then I left Atlanta and went to grad school to learn I wasn't going to be the next David Foster Wallace and moved to Austin with a huge theater jones in 2000. Both the Hideout and Bad Dog were open at the time and I kind of flipped a coin as to where I was going to take classes. For some vague reason I chose the Hideout--I think I liked the intimacy of the stage more than the cavern that was the Bad Dog. The first person I met was Shana. [[Performers/Ace Manning|Ace Manning]] and [[Performers/Kacey Samiee|Kacey Samiee]] were both in my class and both, I think, were still in high school.</p> 
 
-<p>I want to say it was the same evening as my first class, I'm not sure, but the first improv show I saw in Austin was the very first *[[Shows/Six Degrees|Six Degrees]]*, which premiered as part of the late, lamented MOMFest. The cast was [[Performers/Jeremy Lamb|Jeremy Lamb]], [[Performers/Craig Kotfas|Craig Kotfas]], [[Jon Benner]], [[Amy McCurdy]], [[Performers/Sean Hill|Sean Hill]], and maybe [[Performers/Shana Merlin|Shana]]? I was hooked, and haven't really looked back since.</p> </blockquote>
+<p>I want to say it was the same evening as my first class, I'm not sure, but the first improv show I saw in Austin was the very first *[[Shows/Six Degrees|Six Degrees]]*, which premiered as part of the late, lamented MOMFest. The cast was [[Performers/Jeremy Lamb|Jeremy Lamb]], [[Performers/Craig Kotfas|Craig Kotfas]], Jon Benner, Amy McCurdy, [[Performers/Sean Hill|Sean Hill]], and maybe [[Performers/Shana Merlin|Shana]]? I was hooked, and haven't really looked back since.</p> </blockquote>
 
 ## Troupes
 * [[Shows/False Matters|False Matters]]

@@ -19,9 +19,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brian Boyko">Brian Boyko</a></li><!--
-  --><li style=""><a class="internal-link" href="Jay Bernardo">Jay Bernardo</a></li><!--
-  --><li style=""><a class="internal-link" href="Nadine Latief">Nadine Latief</a></li><!--
+  --><li style="">Brian Boyko</li><!--
+  --><li style="">Jay Bernardo</li><!--
+  --><li style="">Nadine Latief</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--

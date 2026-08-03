@@ -18,21 +18,21 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Lizzie Leslie">Lizzie Leslie</a></td>
+			<td class="category">Lizzie Leslie</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Jason Laney">Jason Laney</a></td>
+			<td class="category">Jason Laney</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a></li><!--
+  --><li style="">Adam Trabka</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
+  --><li style="">Meredith Mae Roberts</li><!--
   --><!--
   --><!--
   --><!--
@@ -97,4 +97,4 @@ The show had a couple of previews in August 2011, and then ran on Fridays and Sa
 ## More Information
 * [The show's announcement on the ColdTowne Theater blog.](http://www.coldtownetheater.com/blog/mainstage-sketch-show-has-a-name-september-debut)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

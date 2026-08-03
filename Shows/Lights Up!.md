@@ -32,5 +32,5 @@
 ## Summary
 The show runs from 8:30pm to 9:30pm on Thursday nights.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The New Movement|Category:The New Movement]]
+Category:Shows
+Category:The New Movement

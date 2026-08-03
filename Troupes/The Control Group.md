@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alex Berry">Alex Berry</a></li><!--
-  --><li style=""><a class="internal-link" href="Mandy Spivey">Mandy Spivey</a></li><!--
+  --><li style="">Alex Berry</li><!--
+  --><li style="">Mandy Spivey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Margaux Binder">Margaux Binder</a></li><!--
-  --><li style=""><a class="internal-link" href="Micheal Foulk">Micheal Foulk</a></li><!--
-  --><li style=""><a class="internal-link" href="Tom Niland">Tom Niland</a></li><!--
+  --><li style="">Micheal Foulk</li><!--
+  --><li style="">Tom Niland</li><!--
   --><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 ## Summary
 ### Press Blurb
 Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
-<p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[Theatres/The New Movement|The New Movement]], the members of TCG consist of [[Tom Niland]], [[Alex Berry]], [[Micheal Foulk]], [[Performers/Margaux Binder|Margaux Binder]], and [[Mandy Spivey]]. </p>
+<p>Tearing forth from the comedy black holes from the far-off spaces in the universe, The Control Group was formed using the most intense forces of nature known to man. Veteran students of [[Theatres/The New Movement|The New Movement]], the members of TCG consist of Tom Niland, Alex Berry, Micheal Foulk, [[Performers/Margaux Binder|Margaux Binder]], and Mandy Spivey. </p>
 <p>They came to know/adore/fear each other through the skillful crafting and assembling of [[Performers/Chris Trew|Chris]] and [[Performers/Tami Nelson|Tami]]. The world has never been the same since.</p>
 </blockquote>
 

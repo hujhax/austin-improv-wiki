@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Erik Rogers">Erik Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="K.C. Harvey Taylor">K.C. Harvey Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
+  --><li style="">Erik Rogers</li><!--
+  --><li style="">K.C. Harvey Taylor</li><!--
+  --><li style="">Katie Moore</li><!--
+  --><li style="">Naomi Perryman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
@@ -76,4 +76,4 @@
 They played in the 7/23/14 *Cagematch*.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

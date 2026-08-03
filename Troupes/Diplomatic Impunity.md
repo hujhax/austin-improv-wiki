@@ -19,11 +19,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amber Shae">Amber Shae</a></li><!--
+  --><li style="">Amber Shae</li><!--
   --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Dee Ann Asbury">Dee Ann Asbury</a></li><!--
+  --><li style="">Dee Ann Asbury</li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="Reid O'Conor">Reid O'Conor</a></li><!--
+  --><li style="">Reid O'Conor</li><!--
   --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
   --><!--
   --><!--

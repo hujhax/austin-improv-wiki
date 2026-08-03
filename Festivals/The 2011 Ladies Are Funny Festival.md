@@ -42,4 +42,4 @@ These lists are incomplete until we can find a complete schedule for the 2011 fe
 
 ## More Information
 * [Article about the festival in *The Austinist*.](http://austinist.com/2011/05/11/ladies_are_funny_festival_keeps_the.php)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

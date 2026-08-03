@@ -5,7 +5,7 @@ Poster for *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]*, featuring their produc
 
 (The poster is from 2011, when the production ran under the name "*Teen Angst Tuesdays*".)
 
-Photo of [[Ruby Young]] by: unknown.
+Photo of Ruby Young by: unknown.
 
 Art by [[Performers/Asaf Ronen|Asaf Ronen]].
 

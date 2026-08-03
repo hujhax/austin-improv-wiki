@@ -78,7 +78,7 @@ This template lists standard, useful information about an improv show.
   </tr>
   <tr >
     <td > <em>Cast</em>           </td>
-    <td > Who was in the show.  Use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to make a list of performers.</td>
+    <td > Who was in the show.  Use the unbulleted list template to make a list of performers.</td>
   </tr>
   <tr >
     <td > <em>Past Members</em>           </td>
@@ -86,7 +86,7 @@ This template lists standard, useful information about an improv show.
   </tr>
   <tr >
     <td > <em>Tech</em>           </td>
-    <td > Who teched the show.  Use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to make a list of technical improvisors, if necessary.</td>
+    <td > Who teched the show.  Use the unbulleted list template to make a list of technical improvisors, if necessary.</td>
   </tr>
   <tr >
     <td > <em>Music</em>           </td>
@@ -98,7 +98,7 @@ This template lists standard, useful information about an improv show.
   </tr>
   <tr >
     <td > <em>Subsequent Runs</em>     </td>
-    <td > The time frame(s) of its subsequent run(s) -- e.g., "Jan/Feb 2010".  If there are multiple subsequent runs, use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to create a list.</td>
+    <td > The time frame(s) of its subsequent run(s) -- e.g., "Jan/Feb 2010".  If there are multiple subsequent runs, use the unbulleted list template to create a list.</td>
   </tr>
 </table>
 

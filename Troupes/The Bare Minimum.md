@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Harrison Hammonds">Harrison Hammonds</a></li><!--
+  --><li style="">Harrison Hammonds</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
   --><!--
   --><!--
@@ -70,20 +70,20 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bo Briggs">Bo Briggs</a></li><!--
-  --><li style=""><a class="internal-link" href="Braxton Manley">Braxton Manley</a></li><!--
-  --><li style=""><a class="internal-link" href="Christian Haddad">Christian Haddad</a></li><!--
-  --><li style=""><a class="internal-link" href="Cortney Hall">Cortney Hall</a></li><!--
-  --><li style=""><a class="internal-link" href="Curtis Faulkner">Curtis Faulkner</a></li><!--
-  --><li style=""><a class="internal-link" href="Drake Touvre">Drake Touvre</a></li><!--
-  --><li style=""><a class="internal-link" href="Harrison Hammonds">Harrison Hammonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Ian Balles">Ian Balles</a></li><!--
-  --><li style="" ><a class="internal-link" href="Jonah Foster">Jonah Foster</a></li><!--
-  --><li style=""><a class="internal-link" href="Kaysie Bekkala">Kaysie Bekkala</a></li><!--
-  --><li style=""><a class="internal-link" href="Kaysie Bekkela">Kaysie Bekkela</a></li><!--
-  --><li style=""><a class="internal-link" href="Martin Pandola">Martin Pandola</a></li><!--
-  --><li style=""><a class="internal-link" href="Mishi Gonzalez">Mishi Gonzalez</a></li><!--
-  --><li style=""><a class="internal-link" href="TJ Stewart">TJ Stewart</a></li><!--
+  --><li style="">Bo Briggs</li><!--
+  --><li style="">Braxton Manley</li><!--
+  --><li style="">Christian Haddad</li><!--
+  --><li style="">Cortney Hall</li><!--
+  --><li style="">Curtis Faulkner</li><!--
+  --><li style="">Drake Touvre</li><!--
+  --><li style="">Harrison Hammonds</li><!--
+  --><li style="">Ian Balles</li><!--
+  --><li style="" >Jonah Foster</li><!--
+  --><li style="">Kaysie Bekkala</li><!--
+  --><li style="">Kaysie Bekkela</li><!--
+  --><li style="">Martin Pandola</li><!--
+  --><li style="">Mishi Gonzalez</li><!--
+  --><li style="">TJ Stewart</li><!--
   --><!--
   --><!--
   --><!--
@@ -129,11 +129,11 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The Bare Minimum is James Bowie High School's comedy club. It's led by [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], a Hideout regular, and [[Harrison Hammonds]], a kid. We try to go over improv and comedy writing and host open mics in the school's theatre once a month.</blockquote>
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>The Bare Minimum is James Bowie High School's comedy club. It's led by [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]], a Hideout regular, and Harrison Hammonds, a kid. We try to go over improv and comedy writing and host open mics in the school's theatre once a month.</blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a mix of stand-up, improv, and sketch. At the Hideout we'll probably just do improv and maybe some stand-up. In terms of improv we do short-form games. If we had a deal or gimmick it would probably be that we're in high school.</blockquote>
 
 [[Category/Troupes|Bare Minimum]]
 [[Category/Auto-Generated Troupe Pages|Bare Minimum]]
-[[Category/Active|Bare Minimum]]
+Bare Minimum

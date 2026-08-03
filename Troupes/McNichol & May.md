@@ -78,8 +78,8 @@
 
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/pages/McNichol-May/292617510794087)
-* [A 2007 *Austin Chronicle* article about the duo](http://www.austinchronicle.com/arts/2007-06-22/494039/) by [[Wayne Allen Brenner]].
+* [A 2007 *Austin Chronicle* article about the duo](http://www.austinchronicle.com/arts/2007-06-22/494039/) by Wayne Allen Brenner.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active

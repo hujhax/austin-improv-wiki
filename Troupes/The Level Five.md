@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alejandro Garcia">Alejandro Garcia</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
+  --><li style="">Katie Moore</li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
-  --><li style=""><a class="internal-link" href="Naomi Perryman">Naomi Perryman</a></li><!--
-  --><li style=""><a class="internal-link" href="Spin Beck">Spin Beck</a></li><!--
+  --><li style="">Naomi Perryman</li><!--
+  --><li style="">Spin Beck</li><!--
   --><!--
   --><!--
   --><!--

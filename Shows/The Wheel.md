@@ -72,6 +72,6 @@ In May 2013, *[[Shows/The TV Set|The TV Set]]* was retired and replaced with *[[
 ## More Information
 * [The announcement of the early-2012 schedule.](http://www.hideouttheatre.com/announcing-the-2012-season-and-schedule)
 
-[[Category/Shows|Wheel]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Wheel
+Category:The Hideout Theatre
+Category:Active

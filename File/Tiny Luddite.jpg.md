@@ -3,7 +3,7 @@
 ## Summary
 Publicity image for [[Troupes/Tiny Luddite|Tiny Luddite]].
 
-Art by [[Alessandra Traini]].
+Art by Alessandra Traini.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

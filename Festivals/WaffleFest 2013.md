@@ -36,4 +36,4 @@ It included an all-star *[[Shows/Maestro|Maestro]]* and a teen showcase.
 
 ## More Information
 * [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?t=11204) on [[The Austin Improv Forums]].
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

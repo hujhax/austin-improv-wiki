@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
-  --><li style=""><a class="internal-link" href="Lacy Cox">Lacy Cox</a></li><!--
+  --><li style="">Lacy Cox</li><!--
   --><!--
   --><!--
   --><!--
@@ -90,4 +90,4 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

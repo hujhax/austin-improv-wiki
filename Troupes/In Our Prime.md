@@ -83,9 +83,9 @@ The troupe was briefly named *It'll Come to Us* until the name *In Our Prime* wa
 
 Ryan was a teaching assistant for Hideout Theatre co-owner [[Performers/Jessica Arjet|Jessica Arjet]] at the time. When he told her about the troupe she asked if she could play with them. The four rehearsed together once. Ten minutes after a very successful second show with Jessica guesting, the troupe asked her to join them. In March of 2015, Jessica left the troupe. 
 
-IOP is a house troupe for [[Alamao City Improv]] headlining a show in San Antonio (starting in 2016) on the first Saturday of each month. In Our Prime is also directing a main stage show for [[Alamao City Improv]], Gone Tomorrow, with performances each Friday and Saturday July 14 through August 12, 2017.
+IOP is a house troupe for Alamao City Improv headlining a show in San Antonio (starting in 2016) on the first Saturday of each month. In Our Prime is also directing a main stage show for Alamao City Improv, Gone Tomorrow, with performances each Friday and Saturday July 14 through August 12, 2017.
 
-IOP has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[Festivals/Wafflefest|Wafflefest]] (2012-13), [[Frontera Fest]] (2013-14), [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] (2013-2014), [[Unscripted New York]] (2014) and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[Shows/The Free Fringe|The Free Fringe]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] through 2013 and have also performed a month-long [[Shows/Threefer|Threefer]] run there. The troupe's *[[Shows/Free Fringe|Free Fringe]]* shows tended to be more humorous and less grounded. 
+IOP has played in the Oklahoma Improv Festival (2012-14), the Improvaganza Hawaii Improv Festival (2012), the District Improv Festival in Washington, DC, (2013), the [[Festivals/Wafflefest|Wafflefest]] (2012-13), Frontera Fest (2013-14), [[Festivals/The Improvised Play Festival|The Improvised Play Festival]] (2013-2014), Unscripted New York (2014) and [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] (2012-14). They played a regular monthly slot in *[[Shows/The Free Fringe|The Free Fringe]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] through 2013 and have also performed a month-long [[Shows/Threefer|Threefer]] run there. The troupe's *[[Shows/Free Fringe|Free Fringe]]* shows tended to be more humorous and less grounded. 
 
 They were coached for a period of several months in 2012 by [[Performers/Jeremy Sweetlamb|Jeremy Lamb]]. [[Performers/Shannon McCormick|Shannon McCormick]] also coached them for several months starting in June of 2013. [[Performers/Chuy Zarate|Chuy Zarate]] and [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]] have coached them in 2015.
 
@@ -161,5 +161,5 @@ Here is [[Performers/Paul Normandin|Paul Normandin]]'s explanation of the name's
 * [In Our Prime website](http://www.inourprimeimprov.com/)
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2089910) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

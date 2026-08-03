@@ -71,18 +71,18 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Marcone Cangussu">Marcone Cangussu</a></li><!--
+  --><li style="">Marcone Cangussu</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Tatiana Jitkoff">Tatiana Jitkoff</a></li><!--
+  --><li style="">Margaret Hunsicker</li><!--
+  --><li style="">Tatiana Jitkoff</li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
-  --><li style="" ><a class="internal-link" href="Adrian Prado">Adrian Prado</a></li><!--
+  --><li style="" >Adrian Prado</li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
+  --><li style="">Alex Walker</li><!--
   --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
@@ -139,6 +139,6 @@ The Kindness of Strangers is a journey through the lurid, steamy world of the Am
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/thekindnessofstrangers)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

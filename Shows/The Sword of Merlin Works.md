@@ -75,13 +75,13 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/David Wells">David Wells</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Dorsey">Jennifer Dorsey</a></li><!--
+  --><li style="">Jennifer Dorsey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Stacey Hopp">Stacey Hopp</a></li><!--
+  --><li style="">Stacey Hopp</li><!--
   --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
-  --><li style=""><a class="internal-link" href="Todd Geldon">Todd Geldon</a></li><!--
-  --><li style=""><a class="internal-link" href="Zachary Palmer">Zachary Palmer</a></li><!--
+  --><li style="">Todd Geldon</li><!--
+  --><li style="">Zachary Palmer</li><!--
   --><!--
   --><!--
   --><!--
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***The Sword of Merlin Works*** was an improvised narrative based on [[Wikipedia - King Arthur|Arthurian]] fantasy.
+***The Sword of Merlin Works*** was an improvised narrative based on Arthurian fantasy.
 
 It was a [[Merlin Works Graduation Shows|Merlin Works graduation show]].
 
@@ -149,4 +149,4 @@ The show ran for three performances: Saturday 10pm shows on 5/19/12, 6/2/12, and
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=13461&p=120703) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

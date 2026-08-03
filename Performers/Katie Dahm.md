@@ -26,7 +26,7 @@ Katie got her first taste of improv in high school when a lovely Austin improvis
 
 ## Troupes
 * [[Troupes/Quayle|Quayle]]
-* [[Rhythm Reactor]]
+* Rhythm Reactor
 * [[Troupes/The Walk-Ons|The Walk-Ons]]
 
 ## Shows

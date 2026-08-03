@@ -15,17 +15,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Wesley">Andrew Wesley</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Petruzzo">Andy Petruzzo</a></li><!--
-  --><li style=""><a class="internal-link" href="Collin Cannaday">Collin Cannaday</a></li><!--
-  --><li style=""><a class="internal-link" href="Delaney Liming">Delaney Liming</a></li><!--
+  --><li style="">Andrew Wesley</li><!--
+  --><li style="">Andy Petruzzo</li><!--
+  --><li style="">Collin Cannaday</li><!--
+  --><li style="">Delaney Liming</li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
+  --><li style="">Jenny Carlson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Jericho Thorpe</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Redding">Stephanie Redding</a></li><!--
+  --><li style="">Stephanie Redding</li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/29TzLuMxPus?hd=1) by [[Bryan Boyko]] of their show at the 1/22/11 ColdTowne Lock-In.
+* [Video](http://youtu.be/29TzLuMxPus?hd=1) by Bryan Boyko of their show at the 1/22/11 ColdTowne Lock-In.
 
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1610537235212.2072289.1589679282&type=3) by [[Roy Moore]] that includes their 4/11/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.

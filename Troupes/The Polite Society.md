@@ -17,7 +17,7 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Kan Yan">Kan Yan</a></li><!--
+  --><li style="">Kan Yan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><!--
   --><!--
@@ -75,5 +75,5 @@
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/politesocietypresents)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Polite Society]]

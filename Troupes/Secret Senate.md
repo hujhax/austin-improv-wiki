@@ -14,21 +14,21 @@
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Brent Foshee">Brent Foshee</a></td>
+			<td class="category">Brent Foshee</td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
-  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style="">Chaz Formichella</li><!--
+  --><li style="">Danny Catlow</li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Hamilton">Jessica Hamilton</a></li><!--
+  --><li style="">Jessica Hamilton</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
-  --><li style=""><a class="internal-link" href="Rick Heineman">Rick Heineman</a></li><!--
-  --><li style="" ><a class="internal-link" href="Steve Donovan">Steve Donovan</a></li><!--
-  --><li style=""><a class="internal-link" href="Vickie Sokol Evans">Vickie Sokol Evans</a></li><!--
+  --><li style="">Patricia Tate</li><!--
+  --><li style="">Rick Heineman</li><!--
+  --><li style="" >Steve Donovan</li><!--
+  --><li style="">Vickie Sokol Evans</li><!--
   --><!--
   --><!--
   --><!--

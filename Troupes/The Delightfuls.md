@@ -79,5 +79,5 @@ The troupe was formed around the time of [[Festivals/The 2013 Out of Bounds Come
 Their style consists of positive, relatively quick-paced scenes based on true stories of their lives.
 
 [[Category/Troupes|Delightfuls]]
-[[Category/Active|Delightfuls]]
+Delightfuls
 [[Category/All-Female Troupes|Delightfuls]]

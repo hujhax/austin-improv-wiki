@@ -78,7 +78,7 @@
 ## More Information
 * [The duo's myspace page.](http://myspace.com/kazillionaireprov)
 * [Announcement of the summer 2006 run](http://forum.austinimprov.com/viewtopic.php?t=1298) on [[The Austin Improv Forums]].
-* [Review of their summer 2006 show](http://www.austinchronicle.com/arts/2006-07-28/390497/) from *[[Wikipedia - The Austin Chronicle|The Austin Chronicle]]*.
+* [Review of their summer 2006 show](http://www.austinchronicle.com/arts/2006-07-28/390497/) from *The Austin Chronicle*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

@@ -34,7 +34,7 @@ Rob is also an actor in improvised theatre, having appeared in productions in Au
 ## Shows
 * [[Shows/Austin Secrets|Austin Secrets]] (stage manager)
 * [[Shows/Boy, Howdy!|Boy, Howdy!]] (stage manager)
-* [[Hardish Bodies]] (performer)
+* Hardish Bodies (performer)
 * [[Shows/Process|Process]], 2016 run (performer)
 * [[Shows/Savage Swords|Savage Swords]] (stage manager)
 * [[Festivals/The 47-Hour Improv Marathon|The 47-Hour Improv Marathon]], Co-Producer

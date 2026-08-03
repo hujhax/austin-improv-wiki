@@ -34,4 +34,4 @@ Pianist Tosin Awofeso is an accompanist for [[Shows/Hurly Burly|Hurly Burly]], [
 * *[[Shows/You Can't Stay Here|You Can't Stay Here]]* (accompanist)
 
 [[Category/Performers|Awofeso]]
-[[Category/Musicians|Awofeso]]
+Awofeso

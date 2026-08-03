@@ -3,7 +3,7 @@
 ## Summary
 [[Troupes/Kakkerlakken|Kakkerlakken]], performing in *[[Shows/The Weekender|The Weekender]]* on 3/6/11.
 
-Still from a video by [[David Nayer]].
+Still from a video by David Nayer.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

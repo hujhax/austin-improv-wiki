@@ -85,4 +85,4 @@ Formed by [[Theatres/ColdTowne|ColdTowne]] graduates [[Performers/Matt Needles|M
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

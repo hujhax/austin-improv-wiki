@@ -32,13 +32,13 @@ He is a regular cast member of *[[Shows/Flying Theater Machine|Flying Theater Ma
 ## Shows
 * *[[Shows/Danger!|Danger!]]*
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
-* *[[The Good Life]]*
+* *The Good Life*
 * *[[Shows/GrimmNoir|GrimmNoir]]*
-* *[[Key Party]]*
+* *Key Party*
 * *[[Shows/The Next Chapter|The Next Chapter]]*
 * *[[Shows/Only Three Will Survive|Only Three Will Survive]]*
 * *[[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]]*
 * *[[Troupes/Scrabbled|Scrabbled]]*
 
 [[Category/Performers|Wallens]]
-[[Category/Active|Category:Active]]
+Category:Active

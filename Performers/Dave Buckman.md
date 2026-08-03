@@ -32,7 +32,7 @@ A bio from the website for [[Troupes/Rachel and Dave|Rachel and Dave]]:<blockquo
 
 <p>Since 2005, Dave has been living in Austin, TX with wife and creative partner [[Performers/Rachel Madorsky|Rachel Madorsky]], teaching and performing with their award-winning troupe [[Troupes/The Frank Mills|The Frank Mills]]. Dave also performs with [[Troupes/You're Not My Real Dad|You're Not My Real Dad]], [[Troupes/Brain Trust|Brain Trust]] and with [[Troupes/Rachel and Dave|Rachel and Dave]]. </p>
 
-<p>He is also a producer for The [[Festivals/Out of Bounds|Out of Bounds]] Comedy Festival and has helped produce the [[Austin Sketch Fest]] and [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]] (LAFF).</p>
+<p>He is also a producer for The [[Festivals/Out of Bounds|Out of Bounds]] Comedy Festival and has helped produce the Austin Sketch Fest and [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]] (LAFF).</p>
 </blockquote>
 
 ## Troupes
@@ -44,14 +44,14 @@ ACTIVE
 
 PREVIOUS
 * [[Troupes/Dick Rambuck|Dick Rambuck]]
-* [[BlueBalls]]
-* [[Fart Thought]]
+* BlueBalls
+* Fart Thought
 * [[Troupes/Straight Men|Straight Men]]
-* [[Cuddle Corner Crew]]
+* Cuddle Corner Crew
 
 
 ## Coached
-* [[The Foolish Mortals]]
+* The Foolish Mortals
 * [[Troupes/Wooden Nickel|Wooden Nickel]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
 * [[Troupes/Journey To The Big Water|Journey To The Big Water]]
@@ -59,19 +59,19 @@ PREVIOUS
 * [[Troupes/Bad Font|Bad Font]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Array|Array]]
-* [[Ego's Trip]]
+* Ego's Trip
 
 ## Directed
-* [[Fart Thought]]
-* [[Dead Uncle Ted - Loose Fish]]
+* Fart Thought
+* Dead Uncle Ted / Loose Fish
 * [[Shows/Shanty Town Lake|Shanty Town Lake]]
-* [[Thursday Night Awesome]]
+* Thursday Night Awesome
 * [[Shows/Eye for an iPhone|Eye for an iPhone]]
-* [[B. Iden Payne Awards Ceremony]]
-* [[Array -  JTS BROWN]]
-* [[Nice Astronaut -  It's A Tolerbale Christmas]]
-* [[Nice Astronaut -  Improvioke]]
-* [[McNichol & May -  Great Americans]]
+* B. Iden Payne Awards Ceremony
+* Array: JTS BROWN
+* Nice Astronaut: It's A Tolerbale Christmas
+* Nice Astronaut: Improvioke
+* McNichol & May: Great Americans
 
 ## Shows
 * *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Mr. Weir)

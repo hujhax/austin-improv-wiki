@@ -23,13 +23,13 @@
 
 **Cindy Page** is a technical improviser, improv performer, musician, and Co-Technical Director of [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-She was awarded [[The 2013 Institution Theater Awards#Favorite Tech Performer|Favorite Tech Performer]] at the [[The 2013 Institution Theater Awards]].
+She was awarded Favorite Tech Performer at the [[The 2013 Institution Theater Awards]].
 
 She was Technical Director for the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]] from 2013-2017.
 
 ## Troupes
 * [[Troupes/Indigo Shift|Indigo Shift]]
-* [[Noice Distortion]]
+* Noice Distortion
 * [[Shows/Tech Nightmare|Tech Nightmare]]
 
 ## Shows
@@ -40,7 +40,7 @@ She was Technical Director for the [[Festivals/Out of Bounds Comedy Festival|Out
 * *[[Shows/The Black Vault|The Black Vault]]* *(sound tech)*
 * *[[Shows/Buddy Cop|Buddy Cop]]* *(technical director)*
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]* *(light tech)*
-* *[[Christmas at the Cozy Mountain Inn]]* *(tech)*
+* *Christmas at the Cozy Mountain Inn* *(tech)*
 * *[[Shows/Click Click Whir|Click Click Whir]]* *(props master)*
 * *[[Shows/Death By Musical|Death By Musical]]* *(musician)*
 * *[[Shows/A Deed So Dark|A Deed So Dark]]* *(tech director, light tech)*

@@ -128,18 +128,18 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">[[Chris Anderson]]</td>
+			<td class="category">Chris Anderson</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amanda Chang">Amanda Chang</a></li><!--
-  --><li style=""><a class="internal-link" href="Benjamin Blattberg">Benjamin Blattberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Caroline Gorman">Caroline Gorman</a></li><!--
-  --><li style=""><a class="internal-link" href="Jeffrey Chatman">Jeffrey Chatman</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Banister">Jennifer Banister</a></li><!--
-  --><li style=""><a class="internal-link" href="Marissa Macy">Marissa Macy</a></li><!--
-  --><li style=""><a class="internal-link" href="Scott Rose">Scott Rose</a></li><!--
+  --><li style="">Amanda Chang</li><!--
+  --><li style="">Benjamin Blattberg</li><!--
+  --><li style="">Caroline Gorman</li><!--
+  --><li style="">Jeffrey Chatman</li><!--
+  --><li style="">Jennifer Banister</li><!--
+  --><li style="">Marissa Macy</li><!--
+  --><li style="">Scott Rose</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
@@ -188,11 +188,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Caroline Dinges">Caroline Dinges</a></li><!--
+  --><li style="">Caroline Dinges</li><!--
   --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
-  --><li style=""><a class="internal-link" href="Daniel Ellsworth">Daniel Ellsworth</a></li><!--
-  --><li style=""><a class="internal-link" href="Brad Geiger">Brad Geiger</a></li><!--
-  --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
+  --><li style="">Daniel Ellsworth</li><!--
+  --><li style="">Brad Geiger</li><!--
+  --><li style="">Kay Krasin</li><!--
   --><!--
   --><!--
   --><!--
@@ -258,11 +258,11 @@ Will their hard work pay off with a satisfying newscast, or will everything go h
 </blockquote>
 
 ## Production notes
-*Local on the Eights* is the first Hideout show to include a (simulated) Live TV news broadcast which constitutes the second half of the show. This is made possible through the combined work of Video Tech (or "Switcher") [[Daniel Ellsworth]] and Camerapeople [[Brad Geiger]] and [[Kay Krasin]]. During the second act of the show, the TV in the Hideout upstairs theater broadcasted the entire news broadcast, including intros, chevrons, and multiple camera angles.
+*Local on the Eights* is the first Hideout show to include a (simulated) Live TV news broadcast which constitutes the second half of the show. This is made possible through the combined work of Video Tech (or "Switcher") Daniel Ellsworth and Camerapeople Brad Geiger and Kay Krasin. During the second act of the show, the TV in the Hideout upstairs theater broadcasted the entire news broadcast, including intros, chevrons, and multiple camera angles.
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/localontheeights)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

@@ -26,20 +26,20 @@
 * *[[Shows/History Under the Influence|History Under the Influence]]*
 * *[[Troupes/JK|JK]]*
 * *[[Shows/Control Issues|Control Issues]]*
-* *[[Martini Ranch]]*
-* *[[Big Bully]]*
+* *Martini Ranch*
+* *Big Bully*
 
 ## Shows
 * The Hideout: *[[Shows/Maestro|Maestro]]*, *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*, *[[Shows/The Threefer|The Threefer]]*, *[[Shows/The Free Fringe|The Free Fringe]]*, *[[Shows/The Weekender|The Weekender]]*
 * The Institution: *[[Shows/The Triple Scoop|The Triple Scoop]]*, *[[Shows/2x4|2x4]]* 
-* The New Movement: *[[The Knockout Tournament]]* (2015 Champions: [[Troupes/JK|JK]])
-* ColdTowne: *[[Shows/The Cagematch|The Cagematch]]*, [[Troupes/Loverboy|Loverboy]] (openers), *[[QueerTowne]]*
+* The New Movement: *The Knockout Tournament* (2015 Champions: [[Troupes/JK|JK]])
+* ColdTowne: *[[Shows/The Cagematch|The Cagematch]]*, [[Troupes/Loverboy|Loverboy]] (openers), *QueerTowne*
 * Cheer Up Charlie's: [[Troupes/JK|JK]]
 * Rain
 
 ## Mainstage Shows
 	* The Hideout: *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
-	* ColdTowne: *[[It's Saturday Night!]]*, *[[Shows/America -  Have it Your Way|America -  Have it Your Way]]*, *[[Shows/Martini Ranch -  Hidden Valley|Martini Ranch -  Hidden Valley]]* 
+	* ColdTowne: *It's Saturday Night!*, *[[Shows/America -  Have it Your Way|America -  Have it Your Way]]*, *[[Shows/Martini Ranch -  Hidden Valley|Martini Ranch -  Hidden Valley]]* 
 
 ## Festivals
 BettyFest (JK & Femmes of Martini Ranch),

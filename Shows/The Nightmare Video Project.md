@@ -32,14 +32,14 @@
 It was part of *[[Shows/The Wheel|The Wheel]]*.
 
 ## Summary
-*The Nightmare Video Project* featured [[Performers/Marc Majcher|Marc Majcher]] as "the Gate Keeper", a hideous, cackling, [[Wikipedia - Tales from the Crypt (TV series)#Episodes|Crypt-Keeper]]-like improv director.  The conceit of the show was that all the performers had landed in hell, and had to perform according to the Gate Keeper's whims if they wanted the privilege of avoiding painful death.
+*The Nightmare Video Project* featured [[Performers/Marc Majcher|Marc Majcher]] as "the Gate Keeper", a hideous, cackling, Crypt-Keeper-like improv director.  The conceit of the show was that all the performers had landed in hell, and had to perform according to the Gate Keeper's whims if they wanted the privilege of avoiding painful death.
 
 The Gate Keeper only appeared onscreen, as the entire performance was a pre-recorded DVD prepared by Mr. Majcher and projected, during the show, on the theater's video screen.  This meant that everything -- setups, suggestion-taking, even calling the end of scenes (which he usually did with a shouted, "SCENE IS OVER!") -- was recorded ahead of time, and the players had to contend with it as best as they could.
 
 Towards the end of the *Nightmare* run, Mr. Majcher began experimenting with the multimedia format, including, for example, a setup where, in the scene, the characters' inner thoughts were represented as floating text onscreen.  For another episode, he brought in his four-year-old daughter as an Assistant Gate Keeper.
 
 ## History
-*The Nightmare Video Project* drew inspiration from 80s VHS-multimedia board games like [[Wikipedia - Atmosfear (series)|Atmosfear]], which used prerecorded video material to time out the game and to provide instructions.  Most directly, it lifted its format from Sean Tabares, who performed an identical show in Toronto.
+*The Nightmare Video Project* drew inspiration from 80s VHS-multimedia board games like Atmosfear, which used prerecorded video material to time out the game and to provide instructions.  Most directly, it lifted its format from Sean Tabares, who performed an identical show in Toronto.
 
 The show was included in *[[Festivals/The Hideout Improv Marathon|The Hideout Improv Marathon]]* several times before debuting as part of *[[Shows/The Wheel|The Wheel]]*.
 
@@ -65,5 +65,5 @@ Unfortunately, the video production schedule required for *The Nightmare Video P
 * [The show's web page.](http://www.hideouttheatre.com/shows/nightmarevideoproject)
 * [A Hideout blogpost about the show, commemorating its closing night.](http://www.hideouttheatre.com/in-praise-of-marc-majcher)
 
-[[Category/Shows|Nightmare Video Project]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Nightmare Video Project
+Category:The Hideout Theatre

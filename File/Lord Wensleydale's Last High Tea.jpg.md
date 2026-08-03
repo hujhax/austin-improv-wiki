@@ -3,7 +3,7 @@
 ## Summary
 The cast of *[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]*.
 
-Photo by [[Wayne Allen Brenner]].
+Photo by Wayne Allen Brenner.
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

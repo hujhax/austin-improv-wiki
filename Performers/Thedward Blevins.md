@@ -23,7 +23,7 @@
 
 He has studied improvised theatre at [[Theatres/The Hideout Theatre|The Hideout]], [[The Merlin Works Institute for Improvisation|Merlin Works]], and [[Theatres/The Institution Theater|The Institution]].
 
-Thedward has performed at [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], [[Theatres/The Institution Theater|The Institution Theater]], [[Theatres/Coldtowne Theater|Coldtowne Theater]],[Station Theater](http://www.stationtheater.com/) (Houston, TX), [Dive Bar](http://www.diveaustin.com/), [[Theatres/The New Movement Theater|The New Movement Theater]], [[The Blind Tiger Comedy Club]] (San Antonio, TX), [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], The [Houson Improv Festival](http://houstonimprovfestival.com/), The [Austin Scottish Rite Theater](http://scottishritetheater.org/), and the [Umlauf Sculpture Garden](http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum).
+Thedward has performed at [[Theatres/The Hideout Theatre|The Hideout Theatre]], [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]], [[Theatres/The Institution Theater|The Institution Theater]], [[Theatres/Coldtowne Theater|Coldtowne Theater]],[Station Theater](http://www.stationtheater.com/) (Houston, TX), [Dive Bar](http://www.diveaustin.com/), [[Theatres/The New Movement Theater|The New Movement Theater]], The Blind Tiger Comedy Club (San Antonio, TX), [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]], The [Houson Improv Festival](http://houstonimprovfestival.com/), The [Austin Scottish Rite Theater](http://scottishritetheater.org/), and the [Umlauf Sculpture Garden](http://en.wikipedia.org/wiki/Umlauf_Sculpture_Garden_and_Museum).
 
 Performing regularly since 2010, he was a regular cast member of *[[Shows/Flying Theater Machine|Flying Theater Machine]]* from 2012 until 2017 when it was rebranded as *[[Shows/Hideout Kids|Hideout Kids]]* and transitioned to a rotating cast per production.
 
@@ -35,21 +35,21 @@ He has been a regular performer in a number of ongoing shows, including
 and *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*.
 
 
-He has been teaching assistant for both adult and children's improv classes, and regularly leads the [[Wednesday Jams at Hideout Studios]].
+He has been teaching assistant for both adult and children's improv classes, and regularly leads the Wednesday Jams at Hideout Studios.
 
 ## Shows
-* *[[Wild Friends]]* (2024)
-* *[[Doctor When]]* (2024) (Technical Improviser — Sound Effects)
-* *[[Spooky Halloween Journey]]* (2024)
-* *[[Weird Frontier]]* (2024) (Stage Manager)
-* *[[Excellent Adventure]]* (2024)
-* *[[Those Meddling Kids]]* (2024)
-* *[[Wonky Wishes]]* (2023)
-* *[[Outrageous Holiday Tales]]* (2019)
-* *[[Once Upon A Wha!!]]* (2019)
-* *[[The Pirates of Hideout Cove]]* (2018)
+* *Wild Friends* (2024)
+* *Doctor When* (2024) (Technical Improviser — Sound Effects)
+* *Spooky Halloween Journey* (2024)
+* *Weird Frontier* (2024) (Stage Manager)
+* *Excellent Adventure* (2024)
+* *Those Meddling Kids* (2024)
+* *Wonky Wishes* (2023)
+* *Outrageous Holiday Tales* (2019)
+* *Once Upon A Wha!?!* (2019)
+* *The Pirates of Hideout Cove* (2018)
 * *[[Shows/Start Trekkin'|Start Trekkin']]* (Season 8 — 2017) (Technical Improviser)
-* *[[The Fourth Wall is Behind You]]* (2017) (Sketch show with [[Troupes/Inner Picnic|Inner Picnic]] at the Frontera Fest Short Fringe)
+* *The Fourth Wall is Behind You* (2017) (Sketch show with [[Troupes/Inner Picnic|Inner Picnic]] at the Frontera Fest Short Fringe)
 * *[[Shows/Fiasco|Fiasco]]* (2016) (Technical Improviser — Multimedia)
 * *[[Shows/It Came From Your Brain!|It Came From Your Brain!]]* (2016) (Stage Manager/ Monster Crew)
 * *[[Shows/Adventure PhD|Adventure PhD]]* (2016)
@@ -64,7 +64,7 @@ He has been teaching assistant for both adult and children's improv classes, and
 
 ## Troupes
 * [[Troupes/Happy Butter|Happy Butter]] (2011) (defunct)
-* [[Candy Vampires]] (2014) (former member)
+* Candy Vampires (2014) (former member)
 * [[Troupes/Northward|Northward]] (2014-2016)
 * [[Shows/History Under the Influence|History Under the Influence]] (2014-2017)
 

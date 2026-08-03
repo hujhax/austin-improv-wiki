@@ -38,4 +38,4 @@
 * *[[Troupes/UpTowne|UpTowne]]*
 
 [[Category/Performers|Bojanek]]
-[[Category/Active|Bojanek]]
+Bojanek

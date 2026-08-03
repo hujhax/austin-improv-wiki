@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Rob Gagnon">Rob Gagnon</a></td>
+			<td class="category">Rob Gagnon</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -36,11 +36,11 @@ Themes include:
 * 50 First Jokes
 	* 50 comics share one joke apiece.
 * Never-ending Comedy Contest
-	* [[Lane Krarup]] gathers together comedians who then compete for a panel of three veteran comedians who act as judges and between-set commentators.  At the end of every show, Mr. Krarup and regular guest [[Pat Sirois]] freestyle rap about whatever the audience calls out.
+	* Lane Krarup gathers together comedians who then compete for a panel of three veteran comedians who act as judges and between-set commentators.  At the end of every show, Mr. Krarup and regular guest Pat Sirois freestyle rap about whatever the audience calls out.
 * Comedian Battle Rap Authority
 	* Comics perform stand up, riff and rap on audience suggestions, and battle until one winner remains.
 * Rob Gagnon's 1 Hour Comedy Festival
 * Shit's Golden
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

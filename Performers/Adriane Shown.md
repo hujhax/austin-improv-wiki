@@ -26,21 +26,21 @@ Having been involved with The Institution Theater before it actually had a home 
 Hurly Burly : Improvised Burlesque Stories, won two B. Iden Payne Awards, invited to play at Out Of Bounds Comedy Festival & the Seattle Festival of Improvised Theater. She was one of the recipients of the [[Performers/Tom Booker|Tom Booker]] Appreciation Awards, as well as Blind Side Award at [[The Institution Theater Awards]] 2014. Also nominated for Favorite Female Performer & her show, Hell & Back Cabaret was nominated for Favorite Variety Show.
 
 ## Troupes
-* [[The Dark Sparkles]]
+* The Dark Sparkles
 
 ## Shows
-* *[[30 Trips in 60 Minutes]]* Lucky Chaos at SVT
+* *30 Trips in 60 Minutes* Lucky Chaos at SVT
 * *[[Shows/Hurly Burly|Hurly Burly]]* (Rose Bouquet) 2nd run
-* *[[Risen!]]* (Monologist)
+* *Risen!* (Monologist)
 * *[[Shows/Hurly Burly|Hurly Burly]]* (Lili Corsage) 1st run
-* *[[Hell & Back Cabaret - Trois]]* (creator, director, host [as "Gentress Helena Back"])
+* *Hell & Back Cabaret - Trois* (creator, director, host [as "Gentress Helena Back"])
 * *[[Shows/The Cherry Bowl|The Cherry Bowl]]* (Lyubov) at SVT 2013 run
-* *[[BitterFest]]*
-* *[[Hell & Back Cabaret - Redux]]* (creator, director, host [as "Gentress Helena Back" & "Sugarbabe Goodhue])
+* *BitterFest*
+* *Hell & Back Cabaret - Redux* (creator, director, host [as "Gentress Helena Back" & "Sugarbabe Goodhue])
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]* (Mother Superior, Helena, Bad Girl)
 * *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]* (creator, director, host [as "Gentress Helena Back" & "Sugarbabe Goodhue"])
-* *[[Teen Angst Tuesdays -  Felicity  -  Gimmie an O]]* (Various Roles)
-* *[[Teen Angst Tuesdays -  Scrubs  -  My Musical]]* (Jordan / Ensemble)
+* *Teen Angst Tuesdays: Felicity : Gimmie an O* (Various Roles)
+* *Teen Angst Tuesdays: Scrubs : My Musical* (Jordan / Ensemble)
 * *[[Shows/This American Live|This American Live]]* (Set Design)
 * *[[Shows/The Suitcase|The Suitcase]]* (Costume & Set Design)
 

@@ -81,6 +81,6 @@ in the July Duo Exhibition round at [[Theatres/Coldtowne Theater|Coldtowne Theat
 ## Media
 ### Videos
 ### Photos
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

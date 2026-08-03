@@ -29,7 +29,7 @@
   --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ben Masten">Ben Masten</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessie Pitluk">Jessie Pitluk</a></li><!--
+  --><li style="">Jessie Pitluk</li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Megan Venable">Megan Venable</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
@@ -121,7 +121,7 @@ Each night of the show had a different guest author. An author was interviewed, 
 * [Photoset](http://www.facebook.com/media/set/?set=a.715439391852913.1073741988.221927764537414&type=3) by [[Steve Rogers]] of the 4/12/14 show at [[Festivals/The 2014 Improvised Play Festival|The 2014 Improvised Play Festival]].
 
 ## More Information
-* [An *Austin Chronicle* interview](http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/) with director [[Performers/Justin Bozied|Justin Bozied]] by [[Wayne Allen Brenner]].
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2344367) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[Performers/Brad Hawkins|Brad Hawkins]], [[Jessie Pitluck]], and [[Performers/Megan Venable|Megan Venable]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
+* [An *Austin Chronicle* interview](http://www.austinchronicle.com/blogs/books/2013-06-11/who-dares-try-to-out-author-the-authors-onstage-and-off-the-cuff/) with director [[Performers/Justin Bozied|Justin Bozied]] by Wayne Allen Brenner.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2344367) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[Performers/Brad Hawkins|Brad Hawkins]], Jessie Pitluck, and [[Performers/Megan Venable|Megan Venable]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
-[[Category/Shows|Next]]
+Next

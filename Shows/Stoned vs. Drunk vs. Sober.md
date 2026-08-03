@@ -35,5 +35,5 @@ The show features comedians in three states of mind (stoned, drunk, sober) perfo
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13449)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

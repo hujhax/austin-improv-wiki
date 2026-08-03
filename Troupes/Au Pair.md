@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="G-Su Paek">G-Su Paek</a></li><!--
-  --><li style=""><a class="internal-link" href="Karen Early">Karen Early</a></li><!--
+  --><li style="">G-Su Paek</li><!--
+  --><li style="">Karen Early</li><!--
   --><!--
   --><!--
   --><!--
@@ -90,5 +90,5 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

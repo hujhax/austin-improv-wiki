@@ -19,10 +19,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aaron Parker-Fasel">Aaron Parker-Fasel</a></li><!--
-  --><li style=""><a class="internal-link" href="Aden Pennington">Aden Pennington</a></li><!--
-  --><li style=""><a class="internal-link" href="Alex Biasci">Alex Biasci</a></li><!--
-  --><li style=""><a class="internal-link" href="Ana Ward">Ana Ward</a></li><!--
+  --><li style="">Aaron Parker-Fasel</li><!--
+  --><li style="">Aden Pennington</li><!--
+  --><li style="">Alex Biasci</li><!--
+  --><li style="">Ana Ward</li><!--
   --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><!--

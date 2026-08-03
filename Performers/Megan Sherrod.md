@@ -22,21 +22,21 @@
 **Megan Sherrod** is an improv performer, teacher, and opera singer.
 
 ## Summary
-Megan Sherrod is a classically trained mezzo soprano and improv performer.  She holds a Bachelor of Music in Voice Performance from [[Wikipedia - Oklahoma City University|Oklahoma City University]] and Master of Music in Voice Performance from the [[Wikipedia - University of North Texas|University of North Texas]].  She has extensive performance experience in opera, operetta, and musical theatre.
+Megan Sherrod is a classically trained mezzo soprano and improv performer.  She holds a Bachelor of Music in Voice Performance from Oklahoma City University and Master of Music in Voice Performance from the University of North Texas.  She has extensive performance experience in opera, operetta, and musical theatre.
 
 ## History
 Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014. She won her first [[Shows/Maestro|Maestro]] on October 4, 2014. She has been a teacher for the Hideout Theatre since 2017. In 2019, she was one of the core eight cast that completed [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].
 
 ## Shows
-* *[[Make It So]]*
+* *Make It So*
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Wonderland - Hideout Kids Production]]*
-* *[[Mischief Managed]]*
-* *[[Happily Ever After - Hideout Kids Production]]*
+* *Wonderland - Hideout Kids Production*
+* *Mischief Managed*
+* *Happily Ever After - Hideout Kids Production*
 * *[[Shows/Boy, Howdy!|Boy, Howdy!]]*
 * *[[Shows/Buzz Band|Buzz Band]]*
 * *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*
-* *[[The Fool's Well]]*
+* *The Fool's Well*
 * *[[Shows/Happily Ever After|Happily Ever After]]*
 * *[[Shows/Maestro|Maestro]]*
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
@@ -62,4 +62,4 @@ Megan began taking improv and singing improv classes at [[Merlin Works]] in 2014
 * [Megan's web page](http://www.megansherrod.com), which includes more information about her performance activities.
 
 [[Category/Performers|Sherrod]]
-[[Category/Active|Category:Active]]
+Category:Active

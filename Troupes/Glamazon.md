@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
-  --><li style=""><a class="internal-link" href="XJ Coleman">XJ Coleman</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Moore">Katie Moore</a></li><!--
+  --><li style="">Amy Carpenter</li><!--
+  --><li style="">XJ Coleman</li><!--
+  --><li style="">Katie Moore</li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
@@ -83,5 +83,5 @@ Fact: each member of Glamazon is a woman 5'8" or over.
 * [The troupe's facebook page.](http://www.facebook.com/GlamazonImprov)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

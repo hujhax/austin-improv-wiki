@@ -76,9 +76,9 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Amira Wizig">Amira Wizig</a></li><!--
+  --><li style="">Amira Wizig</li><!--
   --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Andrew Robinson">Andrew Robinson</a></li><!--
+  --><li style="">Andrew Robinson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
@@ -91,7 +91,7 @@
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Joe Fraser">Joe Fraser</a></li><!--
+  --><li style="">Joe Fraser</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
@@ -117,7 +117,7 @@
   --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Ted Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa Troxel">Teresa Troxel</a></li><!--
+  --><li style="">Teresa Troxel</li><!--
   --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
@@ -190,7 +190,7 @@
 
 : *This page refers to the competitive short-form improv show that's had several runs as a [[Theatres/Hideout|Hideout]] mainstage show.  For the sports-themed short-form improv show that ran in a number of theaters from 1986 to 2012, see [[Troupes/ComedySportz|ComedySportz]].*
 
-***Theatresports*** is an improv-contest format from [[Wikipedia - Keith Johnstone|Keith Johnstone]] that has run repeatedly as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Theatresports*** is an improv-contest format from Keith Johnstone that has run repeatedly as a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 Theatresports is an improv show in which two teams of improvisors challenge each other to a series of improv games, improvised scenes, and other, less classifiable feats.
@@ -213,7 +213,7 @@ For this one, teams were set at the start of the run, and those teams played tog
 	* [[Performers/Peter Rogers|Peter Rogers]]
 	* [[Performers/Roy Janik|Roy Janik]]
 * Team ?????
-	* [[Amira Wizig]]
+	* Amira Wizig
 	* [[Performers/Jay Michael|Jay Michael]]
 	* [[Performers/Jessica Arjet|Jessica Arjet]]
 	* [[Performers/Matt Pollock|Matt Pollock]]
@@ -241,12 +241,12 @@ For this one, teams were set at the start of the run, and those teams played tog
 * Team Bennu
 	* [[Performers/Andy Crouch|Andy Crouch]]
 	* [[Performers/Jason Vines|Jason Vines]]
-	* [[Joe Fraser]]
+	* Joe Fraser
 	* [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * Team Hey Cupcake!
 	* [[Performers/Ace Manning|Ace Manning]]
 	* [[Performers/Kacey Samiee|Kacey Samiee]]
-	* [[Teresa Troxel]]
+	* Teresa Troxel
 
 ## 2013 Run
 The third run was directed by [[Performers/Roy Janik|Roy Janik]], with assistance from [[Performers/Ryan Austin|Ryan Austin]].
@@ -320,7 +320,7 @@ The schedule is as follows:
 
 ### Fourth Run Cast
 * [[Performers/Andrew Buck|Andrew Buck]]
-* [[Andrew Robinson]]
+* Andrew Robinson
 * [[Performers/Bridget Brewer|Bridget Brewer]]
 * [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]]
 * [[Performers/Katie Dahm|Katie Dahm]]
@@ -334,21 +334,21 @@ The schedule is as follows:
 * [[Performers/Ryan Austin|Ryan Austin]]
 * [[Performers/Chelsea Bunn|Chelsea Bunn]]
 * [[Performers/Patrick Creamer|Patrick Creamer]]
-* [[Rachel Elaine Creason]]
-* [[Allison Day]]
+* Rachel Elaine Creason
+* Allison Day
 * [[Performers/Zac Grantham|Zac Grantham]]
 * [[Performers/Ace Manning|Ace Manning]]
 * [[Performers/Nicholas Marino|Nicholas Marino]]
 * [[Performers/Erin Molson|Erin Molson]]
-* [[Hemant Sharma]]
+* Hemant Sharma
 * [[Performers/Shannon Dale Stott|Shannon Dale Stott]]
-* [[Alex Walker]]
+* Alex Walker
 
 ### Crew of Theatresports 2017
-* [[Jenn Hamm]]
-* [[Jason Hoppenworth]]
+* Jenn Hamm
+* Jason Hoppenworth
 * [[Performers/R Lance Hunter|R Lance Hunter]]
-* [[Davey Wreden]]
+* Davey Wreden
 
 ## Media
 ### Videos
@@ -393,6 +393,6 @@ The schedule is as follows:
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/TheatresportsTournament)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

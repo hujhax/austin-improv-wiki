@@ -30,23 +30,23 @@
 ## Summary
 ## Super Apocalypse Cast
 * [[Performers/Alex Baia|Alex Baia]]
-* [[Jenna Marie Carey]]
-* [[Max Lipchitz]]
+* Jenna Marie Carey
+* Max Lipchitz
 * [[Performers/Bryan Roberts|Bryan Roberts]]
-* [[Adam Trabka]]
+* Adam Trabka
 * [[Performers/Jason Oliver|Jason Oliver]]
 * [[Performers/Nicole McCracken|Nicole McCracken]]
 * [[Performers/Brett Tribe|Brett Tribe]]
-* [[Jeff Whitaker]]
-* [[Clinton Harris]]
+* Jeff Whitaker
+* Clinton Harris
 
 ## Starforce Cast
-* [[Calam Lambert]]
-* [[Danny Catlow]]
+* Calam Lambert
+* Danny Catlow
 * [[Performers/David Lampe|David Lampe]]
-* [[Eric Rutherford]]
+* Eric Rutherford
 * [[Performers/Jericho Thorp|Jericho Thorp]]
-* [[Katie Moore]]
+* Katie Moore
 * [[Performers/Kyle Sweeney|Kyle Sweeney]]
 * [[Performers/Lacy Shawn|Lacy Shawn]]
 * [[Performers/Lance Gilstrap|Lance Gilstrap]]
@@ -71,4 +71,4 @@ other
 * [The show's preshow roll.](http://vimeo.com/62181891)
 * [The show's opening credits.](http://vimeo.com/62181892)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

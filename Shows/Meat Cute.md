@@ -80,6 +80,6 @@
 
 ***Meat Cute*** is a Hideout student mainstage show inspired by zombie-themed romantic comedies.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

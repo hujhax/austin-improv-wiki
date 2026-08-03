@@ -22,7 +22,7 @@
 **Kimberly Cox** is an improv performer.
 
 ## Troupes
-* [[Duck Duck Boom]]
+* Duck Duck Boom
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/The Intentions|The Intentions]]
 

@@ -97,5 +97,5 @@ Oh, Science! has performed at [[Festivals/The Out Of Bounds Comedy Festival|The 
 * [Photoset](http://www.facebook.com/media/set/?set=a.704040979659421.1073741972.221927764537414&type=3) by [[Steve Rogers]] that includes their 3/16/14 show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.793165274080324.1073742049.221927764537414&type=3) by [[Steve Rogers]] of their performance at [[Festivals/The 2014 Out of Bounds Comedy Festival|The 2014 Out of Bounds Comedy Festival]].
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

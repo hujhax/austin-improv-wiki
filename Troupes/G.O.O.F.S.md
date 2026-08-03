@@ -17,10 +17,10 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Bowman">Michael Bowman</a></li><!--
-  --><li style=""><a class="internal-link" href="Mitchell Shotts">Mitchell Shotts</a></li><!--
+  --><li style="">Michael Bowman</li><!--
+  --><li style="">Mitchell Shotts</li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Tim Stiefler">Tim Stiefler</a></li><!--
+  --><li style="">Tim Stiefler</li><!--
   --><!--
   --><!--
   --><!--
@@ -88,4 +88,4 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

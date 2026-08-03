@@ -3,7 +3,7 @@
 ## Summary
 A [[Troupes/Monks' Night Out|Monks' Night Out]] t-shirt.
 
-Art by [[Greg Dorchak]].
+Art by Greg Dorchak.
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

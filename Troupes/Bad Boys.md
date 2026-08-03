@@ -16,10 +16,10 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Byron Brown">Byron Brown</a></li><!--
+  --><li style="">Byron Brown</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Sam Malcom">Sam Malcom</a></li><!--
+  --><li style="">Sam Malcom</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,9 +74,9 @@
 **Bad Boys** is an improv troupe.
 
 ## Summary
-Bad Boys have been performing since July of 2010. Bad Boys was originally formed by [[Danny Catlow]], [[Adam Trabka]], [[Byron Brown]] and [[Performers/Brett Tribe|Brett Tribe]] to compete in [[Shows/Cagematch|Cagematch]] while they were students at the [[Theatres/ColdTowne Conservatory|ColdTowne Conservatory]]. They decided to continue performing together after winning that tournament.
+Bad Boys have been performing since July of 2010. Bad Boys was originally formed by Danny Catlow, Adam Trabka, Byron Brown and [[Performers/Brett Tribe|Brett Tribe]] to compete in [[Shows/Cagematch|Cagematch]] while they were students at the [[Theatres/ColdTowne Conservatory|ColdTowne Conservatory]]. They decided to continue performing together after winning that tournament.
 
-[[Danny Catlow]] and [[Adam Trabka]] have since moved to other cities in the U.S. but are still considered full members of the ensemble.
+Danny Catlow and Adam Trabka have since moved to other cities in the U.S. but are still considered full members of the ensemble.
 
 In late 2012 they added two members, [[Performers/Ed Reed|Ed Reed]] and [[Performers/Sam Malcolm|Sam Malcolm]]. In August 2014, they added [[Performers/Jon Bolden|Jon Bolden]].
 
@@ -85,12 +85,12 @@ Their initial format involved interviewing an audience member as inspiration for
 Bad Boys currently has an open-ended run on Friday nights at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 
 ## History
-Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[[Shows/Cagematch|Cagematch]]* submission was due and we were spitballing names in RLM when Byron made this big dramatic proclamation that he knew exactly the name that would exemplify us and walked up to the chalkboard and wrote "BAD BOYS" in big letters. No one could come up with an argument against it so we went with it since at that time we were only committed to doing a Cagematch.</p>
+Here is Adam Trabka's explanation of the name's origin:<blockquote><p>Our *[[Shows/Cagematch|Cagematch]]* submission was due and we were spitballing names in RLM when Byron made this big dramatic proclamation that he knew exactly the name that would exemplify us and walked up to the chalkboard and wrote "BAD BOYS" in big letters. No one could come up with an argument against it so we went with it since at that time we were only committed to doing a Cagematch.</p>
 
 <p>In hindsight, he was probably doing a bit.</p></blockquote>
 ## Awards
-* Most Outstanding Troupe - [[ColdTowne Awards]] - 2011, 2014
-* [[B. Iden Payne Award]] for Outstanding Work in Improvisational Theatre Nominee - 2012, 2013, 2014
+* Most Outstanding Troupe - ColdTowne Awards - 2011, 2014
+* B. Iden Payne Award for Outstanding Work in Improvisational Theatre Nominee - 2012, 2013, 2014
 
 ## Media
 ### Videos
@@ -125,5 +125,5 @@ Here is [[Adam Trabka]]'s explanation of the name's origin:<blockquote><p>Our *[
 * [Bad Boys' Vimeo](http://vimeo.com/user6611089/videos)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
-[[Category/Started as a Cagematch Troupe|Category:Started as a Cagematch Troupe]]
+Category:Active
+Category:Started as a Cagematch Troupe

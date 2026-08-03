@@ -73,7 +73,7 @@
 **Get Up** is an improv duo.
 
 ## Summary
-Get Up members [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Shannon McCormick|Shannon McCormick]] have been working together in different improv troupes, such as [[Troupes/The Heroes of Comedy|The Heroes of Comedy]], and performances, such as [[No Shame Theatre]], since 2002. In 2005, they decided to get rid of all the dead weight and form a two-person improv troupe. In their debut show at FronteraFest 2005, they won Best of the Week with their original format "24 (minutes)," an improvised parody of the hit show "24," where they solve a matter of national security in exactly 24 minutes while the clock is ticking onstage. Later that year in "The Giants of Austin Improv Show", they debuted their format "Fast Forward," where they interview an audience member and turn his life into an action adventure thriller. In 2006 they added sound improviser [[Performers/Sara Farr|Sara Farr]] to their ensemble to provide a live soundtrack and scoring to Shannon and Shana's improvised stories. Get Up's latest format begins with the audience randomly selecting the theme music for the show, listening to it, offering ideas as to what images the music suggests and the performers use that as inspiration for a improvised comedic one act play.
+Get Up members [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Shannon McCormick|Shannon McCormick]] have been working together in different improv troupes, such as [[Troupes/The Heroes of Comedy|The Heroes of Comedy]], and performances, such as No Shame Theatre, since 2002. In 2005, they decided to get rid of all the dead weight and form a two-person improv troupe. In their debut show at FronteraFest 2005, they won Best of the Week with their original format "24 (minutes)," an improvised parody of the hit show "24," where they solve a matter of national security in exactly 24 minutes while the clock is ticking onstage. Later that year in "The Giants of Austin Improv Show", they debuted their format "Fast Forward," where they interview an audience member and turn his life into an action adventure thriller. In 2006 they added sound improviser [[Performers/Sara Farr|Sara Farr]] to their ensemble to provide a live soundtrack and scoring to Shannon and Shana's improvised stories. Get Up's latest format begins with the audience randomly selecting the theme music for the show, listening to it, offering ideas as to what images the music suggests and the performers use that as inspiration for a improvised comedic one act play.
 
 ## History
 Here is [[Performers/Shannon McCormick|Shannon McCormick]]'s explanation of the name's origin:<blockquote>No one knows this, but Get Up got on our list of possible names when Shana and I were riffing because it was an acronym, kinda, for GTP, Gnap! Theater Projects. GTP=Get Up. Of all our ideas we liked that one the best because of the multiple colloquial meanings of 'get up'--costume, dance, what you say to someone after you've punched them in the face.</blockquote>
@@ -89,7 +89,7 @@ Here is [[Performers/Shannon McCormick|Shannon McCormick]]'s explanation of the 
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1330574876328.2040082.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1337793056778.2040655.1589679282&type=3) by [[Roy Moore]] that includes their 8/21/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1351282834014.2050063.1589679282&type=3) by [[Roy Moore]] of their 9/2/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1537815417212.2066940.1589679282&type=3) by [[Roy Moore]] that includes their 2/19/11 performance at the 2011 [[Gnap! Homecoming Party]].
+* [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1537815417212.2066940.1589679282&type=3) by [[Roy Moore]] that includes their 2/19/11 performance at the 2011 Gnap! Homecoming Party.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.116697345077964.23729.100002130980897&type=3) by [[Steve Rogers]] of their 4/9/11 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1724667128388.2082226.1589679282&type=3) by [[Roy Moore]] that includes their 6/11/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1811908780232.89127.1315383518&type=3) by [[Michael Yew]] that includes their 7/1/11 show at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
@@ -111,6 +111,6 @@ Here is [[Performers/Shannon McCormick|Shannon McCormick]]'s explanation of the 
 ## More Info
 * [Get Up's website](http://getup.austinimprov.com)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

@@ -93,4 +93,4 @@ Cat began doing improv after watching long stretches of [[Festivals/The 42-Hour 
 * [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with Cat about discovering and watching [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 [[Category/Performers|Drago]]
-[[Category/Active|Category:Active]]
+Category:Active

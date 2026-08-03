@@ -3,7 +3,7 @@
 ## Summary
 Publicity photo of the 2014 incarnation of [[Troupes/The Escorts|The Escorts]].
 
-From left to right: [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Marc Majcher|Marc Majcher]], [[Performers/Lindsey Reeves|Lindsey Reeves]], [[Ruby Willman]], and [[Performers/Aaron Saenz|Aaron Saenz]].
+From left to right: [[Performers/Andreas Fabis|Andreas Fabis]], [[Performers/Marc Majcher|Marc Majcher]], [[Performers/Lindsey Reeves|Lindsey Reeves]], Ruby Willman, and [[Performers/Aaron Saenz|Aaron Saenz]].
 
 Photo by: unknown.
 

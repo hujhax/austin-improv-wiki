@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Artho">Adam Artho</a></li><!--
-  --><li style=""><a class="internal-link" href="Atticus Rowe">Atticus Rowe</a></li><!--
-  --><li style=""><a class="internal-link" href="Henry Linser">Henry Linser</a></li><!--
-  --><li style=""><a class="internal-link" href="Jen Sembera">Jen Sembera</a></li><!--
-  --><li style=""><a class="internal-link" href="Sheila Ray">Sheila Ray</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Huerta">Stephanie Huerta</a></li><!--
+  --><li style="">Adam Artho</li><!--
+  --><li style="">Atticus Rowe</li><!--
+  --><li style="">Henry Linser</li><!--
+  --><li style="">Jen Sembera</li><!--
+  --><li style="">Sheila Ray</li><!--
+  --><li style="">Stephanie Huerta</li><!--
   --><!--
   --><!--
   --><!--

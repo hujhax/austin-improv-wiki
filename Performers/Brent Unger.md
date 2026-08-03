@@ -33,7 +33,7 @@ Brent is the founding director of *[[Troupes/Taxi Cab Impressions|Taxi Cab Impre
 Mr. Unger has been a taxi driver in the Austin area since 2008 and he is a member of the Austin Facial Hair Club which is featured regularly on the reality T.V. show “Whisker Wars”.
 
 ## Shows
-* *[[Apocalypse]]* 
+* *Apocalypse* 
 * *[[Shows/The Derby|The Derby]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
@@ -42,7 +42,7 @@ Mr. Unger has been a taxi driver in the Austin area since 2008 and he is a membe
 [[Category/Performers|Unger]]
 
 ## Troupes
-* [[Apocalypse]] (2012) 
+* Apocalypse (2012) 
 * [[Troupes/Epic|Epic]] (2012)
 * [[Troupes/Joy|Joy]] (2012-Present)
 * [[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]] (2013-Present)

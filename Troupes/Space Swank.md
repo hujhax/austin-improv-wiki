@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Johnny Anzollitto">Johnny Anzollitto</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
-  --><li style=""><a class="internal-link" href="Paul Mahaffey">Paul Mahaffey</a></li><!--
-  --><li style=""><a class="internal-link" href="Ross Puryear">Ross Puryear</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Mathews">Katie Mathews</a></li><!--
+  --><li style="">Johnny Anzollitto</li><!--
+  --><li style="">Jessica Soos</li><!--
+  --><li style="">Paul Mahaffey</li><!--
+  --><li style="">Ross Puryear</li><!--
+  --><li style="">Katie Mathews</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><!--
   --><!--
@@ -75,5 +75,5 @@
 ## History
 During one class, students were asked to write down activities they enjoyed. Someone wrote down "space work," but his handwriting was so bad that it looked like "space wank." Our teachers convinced us that we really didn't want to be called "Space Wank," so **Space Swank** was born.
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

@@ -103,36 +103,36 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 ### 2008 Run
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] 
-* [[Erik Adams]] 
-* [[Albert Im]] 
+* Erik Adams 
+* Albert Im 
 * [[Performers/Jason Vines|Jason Vines]] 
 * [[Performers/Roy Janik|Roy Janik]] 
-* [[Mitch Baker]] and [[Dave Brewer]], of [[Troupes/Backpack Picnic|Backpack Picnic]]
+* Mitch Baker and Dave Brewer, of [[Troupes/Backpack Picnic|Backpack Picnic]]
 ### 2009 Run
 * [[Performers/Michael Joplin|Michael Joplin]] 
-* [[Jason Neulander]] 
+* Jason Neulander 
 * Westen Borghesi ("Shorty" from the White Ghost Shivers) 
 * [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]] 
 * [[Performers/Owen Egerton|Owen Egerton]] 
 * [[Performers/Shannon McCormick|Shannon McCormick]] 
 ### 2010 Run
-* [[Pierce Purselley]]
+* Pierce Purselley
 * [[Performers/Joshua Krilov|Joshua Krilov]]
 * [[Performers/Peter Rogers|Peter Rogers]]
 * [[Performers/Eric Heiberg|Eric Heiberg]] 
-* [[M. Scott Tatum]] 
+* M. Scott Tatum 
 * [[Performers/Jon Bolden|Jon Bolden]]
 ### 2011 Run
 * [[Performers/Michael Thomas|Michael Thomas]]
 * [[Performers/Jay Byrd|Jay Byrd]]
 * [[Performers/Jason Finkelman|Jason Finkelman]]
 * [[Performers/Deano Jones|Deano Jones]]
-* [[Jason Laney]]
+* Jason Laney
 ### 2012 Run
 * Clint and Buck Vrazel, of Twinprov (Oklahoma City)
 * [[Performers/Clay Towery|Clay Towery]]
-* [[Jesse Overright]]
-* [[Bobby DiPasquale]]
+* Jesse Overright
+* Bobby DiPasquale
 * [[Performers/Tom Booker|Tom Booker]]
 ### 2013 Run
 * Bryan Curry
@@ -144,7 +144,7 @@ An improvisor only gets one chance to guest star in a Boys of Summer show; there
 	* Mitch Mills was the run's "Pick-a-Boy", where a number of possible guests were nominated by Austin improvisors, and then put to an audience vote.
 ### 2014 Run
 * 7/12/14: Pick-A-Boy Thunderdome (come vote for your favorite!) 
-	* The competitors were [[Mike Carreon]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Ryan Austin|Ryan Austin]], [[Doug Pendergras]], [[Performers/Chuy Zarate|Chuy Zarate]], and [[Performers/Tom Booker|Tom Booker]].
+	* The competitors were Mike Carreon, [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Ryan Austin|Ryan Austin]], Doug Pendergras, [[Performers/Chuy Zarate|Chuy Zarate]], and [[Performers/Tom Booker|Tom Booker]].
 * 7/19/14: [[Performers/Clifton Highfield|Clifton Highfield]]
 * 7/26/14: [[Performers/Tyler Bryce|Tyler Bryce]]
 * 8/2/14: [[Performers/Michael Jastroch|Michael Jastroch]]
@@ -168,7 +168,7 @@ The show is scheduled to return to [[Theatres/The Institution Theater|The Instit
 * Video of [[Performers/Jay Byrd|Jay Byrd]] guesting with *Boys of Summer* in 2011: [part 1](http://vimeo.com/29503112), [part 2](http://vimeo.com/30314674).
 * [Video](http://vimeo.com/27829205) of [[Performers/Jason Finkelman|Jason Finkelman]] guesting with *Boys of Summer* in 2011.
 * [Video](http://vimeo.com/28332016) of [[Performers/Deano Jones|Deano Jones]] guesting with *Boys of Summer* in 2011.
-* [Video](http://vimeo.com/29000288) of [[Jason Laney]] guesting with *Boys of Summer* in 2011.
+* [Video](http://vimeo.com/29000288) of Jason Laney guesting with *Boys of Summer* in 2011.
 * [Video](http://youtu.be/0Ed8OCc5R2E&feature=youtu.be) of [[Performers/Mitch Mills|Mitch Mills]] guesting with *Boys of Summer* in 2013.
 
 ### Photos
@@ -176,12 +176,12 @@ The show is scheduled to return to [[Theatres/The Institution Theater|The Instit
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers|Peter Rogers]].
 	* [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers|Peter Rogers]] with that night's cast.
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.148885235192508.40280.100002130980897&type=3) by [[Steve Rogers]] of the 7/31/11 show featuring [[Performers/Michael Thomas|Michael Thomas]]. ("Comic Book Convention")
-* [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show featuring [[Jason Laney]]. ("Mortuary")
+* [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show featuring Jason Laney. ("Mortuary")
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200301863411969.1073741843.1315383518&type=3) by [[Michael Yew]] of the 2013 show featuring [[Performers/Chuy Zarate|Chuy Zarate]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.614654581889374.1073741852.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 8/16/13 show featuring [[Performers/Brently Heilbron|Brently Heilbron]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.1007687835961399.1073742223.221927764537414&type=3) by [[Steve Rogers]] of the 7/24/15 performance featuring [[Performers/Ryan Austin|Ryan Austin]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204579909600450.1073741959.1315383518&type=3) by [[Steve Rogers]] of the 7/31/15 performance featuring [[Performers/Kevin Miller|Kevin Miller]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/The Institution Theater|Category:The Institution Theater]]
+Category:Shows
+Category:The Hideout Theatre
+Category:The Institution Theater

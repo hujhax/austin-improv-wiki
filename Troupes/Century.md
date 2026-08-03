@@ -93,4 +93,4 @@ The troupe decided to call it quits in mid 2014.
 * [Century's facebook page](http://www.facebook.com/pages/centuryimprov)
 
 [[Category/Troupes|Century]]
-[[Category/Inactive|Century]]
+Century

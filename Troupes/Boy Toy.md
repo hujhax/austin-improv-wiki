@@ -15,15 +15,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alison Alvarez">Alison Alvarez</a></li><!--
+  --><li style="">Alison Alvarez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
-  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
-  --><li style=""><a class="internal-link" href="Clay Crenshaw">Clay Crenshaw</a></li><!--
+  --><li style="">Brent Foshee</li><!--
+  --><li style="">Clay Crenshaw</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="David Hess">David Hess</a></li><!--
+  --><li style="">David Hess</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
-  --><li style="" ><a class="internal-link" href="Katie Sicking">Katie Sicking</a></li><!--
+  --><li style="" >Katie Sicking</li><!--
   --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><!--
   --><!--

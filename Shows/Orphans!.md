@@ -74,18 +74,18 @@
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Frank Sánchez">Frank Sánchez</a></li><!--
+  --><li style="">Frank Sánchez</li><!--
   --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Mallory Schlossberg">Mallory Schlossberg</a></li><!--
+  --><li style="">Mallory Schlossberg</li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Rachel Elaine Creason">Rachel Elaine Creason</a></li><!--
+  --><li style="">Rachel Elaine Creason</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a></li><!--
-  --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
+  --><li style="">Tyler Groce</li><!--
   --><!--
   --><!--
   --><!--
@@ -134,14 +134,14 @@
 ## Crew Roles
 * Technical Director – [[Performers/Lindsey McGowen|Lindsey McGowen]]
 * Light Design – [[Performers/Jay Mahavier|Jay Mahavier]] (Lead), [[Performers/Greg Blank|Greg Blank]]
-* Sound Design – [[Michael Yew]] (Lead), [[Andre K. Buchanan]]
+* Sound Design – [[Michael Yew]] (Lead), Andre K. Buchanan
 * Costume Design – [[Performers/Carolyn Gjertsen|Carolyn Gjertsen]]
-* Costume Builders – [[Performers/Cindy Page|Cindy Page]], [[Danielle DaVerona]]
-* Stage Managers – [[Shay Millheiser]], [[Joey Neugart]]
+* Costume Builders – [[Performers/Cindy Page|Cindy Page]], Danielle DaVerona
+* Stage Managers – Shay Millheiser, Joey Neugart
 * Graphic & Scenic Design – [[Performers/Kaci Beeler|Kaci Beeler]]
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/orphans)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

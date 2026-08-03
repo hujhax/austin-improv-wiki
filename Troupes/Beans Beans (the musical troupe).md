@@ -16,11 +16,11 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Osterwisch">Elizabeth Osterwisch</a></li><!--
+  --><li style="">Elizabeth Osterwisch</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Jay Byrd</a></li><!--
-  --><li style=""><a class="internal-link" href="Joel Usher">Joel Usher</a></li><!--
-  --><li style=""><a class="internal-link" href="Kevin Williamson">Kevin Williamson</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Newell">Meredith Newell</a></li><!--
+  --><li style="">Joel Usher</li><!--
+  --><li style="">Kevin Williamson</li><!--
+  --><li style="">Meredith Newell</li><!--
   --><!--
   --><!--
   --><!--

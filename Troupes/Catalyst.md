@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ashley Jayne Carlisle">Ashley Jayne Carlisle</a></li><!--
+  --><li style="">Ashley Jayne Carlisle</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
   --><!--

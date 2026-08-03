@@ -39,7 +39,7 @@ In 2008 while attending UT Quinn saw some [[Troupes/GigglePants|GigglePants]] sh
 * [[Troupes/Tastemakers|Tastemakers]]
 * [[Troupes/The Dukes of Bedside Manor|The Dukes of Bedside Manor]]
 * [[Troupes/The Known Wizards|The Known Wizards]]
-* [[Techno Forest of Doom]]
+* Techno Forest of Doom
 * [[Troupes/Senshi Sokkyo|Senshi Sokkyo]]
 
 ## Shows
@@ -53,14 +53,14 @@ In 2008 while attending UT Quinn saw some [[Troupes/GigglePants|GigglePants]] sh
 * *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Shows/I'll Take the Physical Challenge|I'll Take the Physical Challenge]]*
 * *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]*
-* *[[The Gauntlet]]*
-* *[[Improv Fantasy League]]* 
+* *The Gauntlet*
+* *Improv Fantasy League* 
 * *[[Shows/Dance Dreams|Dance Dreams]]*
 * *[[Shows/Home for the Holidays|Home for the Holidays]]*
-* *[[Missed Connections]]*
-* *[[Super Black]]*
-* *[[Angola]]*
-* *[[The Hallmark Holiday Musical]]*
+* *Missed Connections*
+* *Super Black*
+* *Angola*
+* *The Hallmark Holiday Musical*
 
 ## Festivals
 * 2010 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Anticdotes|Anticdotes]], *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
@@ -81,7 +81,7 @@ In 2008 while attending UT Quinn saw some [[Troupes/GigglePants|GigglePants]] sh
 * 2014 - Sketchfest / Cover Night - [[Troupes/Tastemakers|Tastemakers]]
 * 2015 - Improvised Play Festival - *[[Shows/Austin Secrets|Austin Secrets]]*
 * 2015 - [[Festivals/46-Hour Improv Marathon|46-Hour Improv Marathon]] - Ensemble
-* 2015 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Austin-Austin|Austin-Austin]], [[Troupes/Tastemakers|Tastemakers]], *[[Thunderdome]]*
+* 2015 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Austin-Austin|Austin-Austin]], [[Troupes/Tastemakers|Tastemakers]], *Thunderdome*
 * 2015 - Sketchfest / Cover Night - [[Troupes/Tastemakers|Tastemakers]]
 * 2015 - [[Festivals/Wafflefest|Wafflefest]] - [[Troupes/Austin-Austin|Austin-Austin]]
 * 2016 - Frontera Fest - [[Troupes/Austin-Austin|Austin-Austin]]
@@ -100,8 +100,8 @@ In 2008 while attending UT Quinn saw some [[Troupes/GigglePants|GigglePants]] sh
 * 2018 - Vancouver International Improv Festival - Ensemble
 * 2018 - [[Festivals/Wafflefest|Wafflefest]] - [[Troupes/Twins|Twins]]
 * 2019 - [[Festivals/Improvised Play Festival|Improvised Play Festival]] - [[Troupes/Twins|Twins]]
-* 2019 - [[I Love Love]] - Ensemble
-* 2019 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Bric-a-Brac|Bric-a-Brac]], [[Troupes/Twins|Twins]], [[Super Black]]
+* 2019 - I Love Love - Ensemble
+* 2019 - [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]] - [[Troupes/Bric-a-Brac|Bric-a-Brac]], [[Troupes/Twins|Twins]], Super Black
 
 ## Previous Photos
 Picture =	Quinn_Headshot.jpg

@@ -38,17 +38,17 @@ Winners are listed in **bold text**.
 * [[Performers/Chelley Pyatt|Chelley Pyatt]], for *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*, *[[Shows/Fuck It's Hot|Fuck It's Hot]]*, *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*, and *[[Shows/The Next Chapter|The Next Chapter]]*.
 * [[Performers/Cindy Page|Cindy Page]], for *[[Shows/False Matters|False Matters]]* and *[[Shows/Hell and Back Cabaret|Hell and Back Cabaret]]*.
 * [[Performers/Cindy Page|Cindy Page]] & [[Performers/Chad Wellington|Chad Wellington]], for *[[Shows/Thinning The Herd|Thinning The Herd]]*.
-* [[Courtney DeAngelo]], for *[[Shows/The Suitcase|The Suitcase]]* and *[[Shows/Hell and Back Cabaret|Hell and Back Cabaret]]*.
+* Courtney DeAngelo, for *[[Shows/The Suitcase|The Suitcase]]* and *[[Shows/Hell and Back Cabaret|Hell and Back Cabaret]]*.
 * **[[Performers/Mark Shoemaker|Mark Shoemaker]], for *[[Shows/The Triple Scoop|The Triple Scoop]]*, *[[Shows/False Matters|False Matters]]*, and *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.**
 
 ### Favorite Male Performer
-* **[[Andrew Robinson]]**
+* **Andrew Robinson**
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
 * [[Performers/Bryan Curry|Bryan Curry]]
 * [[Performers/Ceej Allen|Ceej Allen]]
 * [[Performers/Clifton Highfield|Clifton Highfield]]
 * [[Performers/Jason Vines|Jason Vines]]
-* [[Marv Pratt]]
+* Marv Pratt
 * [[Performers/Wyatt Tall|Wyatt Tall]]
 
 ### Favorite Female Performer
@@ -57,7 +57,7 @@ Winners are listed in **bold text**.
 * **[[Performers/Erica Lies|Erica Lies]]**
 * [[Performers/Heidi Caldwell|Heidi Caldwell]]
 * [[Performers/Jeanette Jones|Jeanette Jones]]
-* [[Regina Soto]]
+* Regina Soto
 * [[Performers/Sam Schak|Sam Schak]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 
@@ -67,32 +67,32 @@ Winners are listed in **bold text**.
 * [[Performers/James C. Leary|James C. Leary]]
 * **[[Performers/Justin Davidson|Justin Davidson]]**
 * [[Performers/Mark Shoemaker|Mark Shoemaker]]
-* [[Mason Pitluck]]
+* Mason Pitluck
 
 ### Favorite New Female Improvisor
-* [[Allison Huston]]
-* [[Callie Sharon]]
-* [[Jessie Pitluck]]
+* Allison Huston
+* Callie Sharon
+* Jessie Pitluck
 * [[Performers/Kristen Kurtis|Kristen Kurtis]]
 * [[Performers/Lena Long|Lena Long]]
 * **[[Performers/Megan Venable|Megan Venable]]**
 
 ### Favorite Male Stand-Up Comedian
 * [[Performers/Brently Heilbron|Brently Heilbron]]
-* [[Evan Eggers]]
+* Evan Eggers
 * **[[Performers/John Buseman|John Buseman]]**
-* [[Marv Pratt]]
-* [[Will Cleveland]]
+* Marv Pratt
+* Will Cleveland
 
 ### Favorite Female Stand-Up Comedian
-* [[Brittany Flurry]]
-* [[Cassidy Santaguida]]
-* [[Catherine Grady]]
-* [[Regina Soto]]
-* **[[Valerie Nies]]**
+* Brittany Flurry
+* Cassidy Santaguida
+* Catherine Grady
+* Regina Soto
+* **Valerie Nies**
 
 ### The Audience Member Award
-* [[Allison Huston]]
+* Allison Huston
 * [[Performers/Andrew Johnston|Andrew Johnston]]
 * [[Performers/Celena Diamond|Celena Diamond]]
 * [[Performers/Kathy Rose Center|Kathy Rose Center]]
@@ -102,19 +102,19 @@ Winners are listed in **bold text**.
 ### Favorite Outstanding Intern
 * **[[Performers/Adam Mengesha|Adam Mengesha]]**
 * [[Performers/Mark Shoemaker|Mark Shoemaker]]
-* [[Sydney Huddleston]]
-* [[Vicki Ralston]]
+* Sydney Huddleston
+* Vicki Ralston
 
 ### Favorite Original Line
 * **"Emotions are mother nature's way of saying fuck you." -- [[Performers/Clifton Highfield|Clifton Highfield]] in *[[Shows/The Rubber Room|The Rubber Room]]*.**
-* "Oh wow, Candy Land" -- [[Rebecca Blue Velvet]], about a back tattoo in 201 student showcase.
-* "Masturbating makes you gain weight. Look at me!" -- [[Monica Torres]] in *[[Shows/Thinning The Herd|Thinning The Herd]]*, Season 2, 10/20/13.
+* "Oh wow, Candy Land" -- Rebecca Blue Velvet, about a back tattoo in 201 student showcase.
+* "Masturbating makes you gain weight. Look at me!" -- Monica Torres in *[[Shows/Thinning The Herd|Thinning The Herd]]*, Season 2, 10/20/13.
 * "Can you have your dog smell my fingers and sniff out my girlfriend?" -- [[Performers/Clifton Highfield|Clifton Highfield]], during "David Razowsky and Friends" in *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
-* [[Performers/David Lampe|David Lampe]]: "Have you had sex with a pie?" [[Jennifer Dorsey]]: "Yes." [[Performers/David Lampe|David Lampe]]: "Oh? … Did you scissor it?" [Jen wipes scene] [[Performers/Tom Booker|Tom Booker]]: "Wow! I wondered when we'd find 'the line,' and I think we've found it!" in *[[Shows/Thinning The Herd|Thinning The Herd]]*, Season 3, 12/1/13.
-* "Breaking news from the TMZ war room. Tom Cruise is actually only 3 feet tall. He's doing his first motion picture without his traditional steps. It turns out that he's only as tall as a tiny baby." -- [[Performers/Michael Joplin|Michael Joplin]] with troupe [[Troupes/The Knuckleball Now|The Knuckleball Now]] in *[[Ponzi Scream]]*.
+* [[Performers/David Lampe|David Lampe]]: "Have you had sex with a pie?" Jennifer Dorsey: "Yes." [[Performers/David Lampe|David Lampe]]: "Oh? … Did you scissor it?" [Jen wipes scene] [[Performers/Tom Booker|Tom Booker]]: "Wow! I wondered when we'd find 'the line,' and I think we've found it!" in *[[Shows/Thinning The Herd|Thinning The Herd]]*, Season 3, 12/1/13.
+* "Breaking news from the TMZ war room. Tom Cruise is actually only 3 feet tall. He's doing his first motion picture without his traditional steps. It turns out that he's only as tall as a tiny baby." -- [[Performers/Michael Joplin|Michael Joplin]] with troupe [[Troupes/The Knuckleball Now|The Knuckleball Now]] in *Ponzi Scream*.
 * "I'm educational speckle! I'm here to fill holes!" -- [[Performers/Asaf Ronen|Asaf Ronen]], as a substitute teacher in [[Troupes/Confidence Men|Confidence Men]]'s "100 Shows & C*nting".
 * [[Performers/Asaf Ronen|Asaf Ronen]]: "You guys ever play the game Fuck, Marry, or Kill?" [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]: "Fuck!" in [[Troupes/Confidence Men|Confidence Men]]'s "100 Shows & C*nting".
-* "These aren't words. Is this Braille?" -- [[Regina Soto]], seeing Hebrew for the first time with troupe [[Troupes/The Better Half|The Better Half]] in *[[Shows/The Triple Scoop|The Triple Scoop]]*, 11/2/13.
+* "These aren't words. Is this Braille?" -- Regina Soto, seeing Hebrew for the first time with troupe [[Troupes/The Better Half|The Better Half]] in *[[Shows/The Triple Scoop|The Triple Scoop]]*, 11/2/13.
 * "As God is my pendulum, I swing both ways" -- [[Performers/Caeriel Crestin|Caeriel Crestin]] in *[[Shows/The Rubber Room|The Rubber Room]]*, 1/6/13.
 * "So I took one of those 'What Knight Are You' online tests... I'm 56% Lancelot, 22% Robb Stark, and 5% M. Night Shyamalan." -- [[Performers/Luke Wallens|Luke Wallens]] in "The Key Party".
 * "Okay, zombies. 5, 6, 7, 8... *'cause this is thrillerrrrrr!*" -- [[Performers/Luke Wallens|Luke Wallens]] in *[[Shows/The Next Chapter|The Next Chapter]]*.
@@ -123,7 +123,7 @@ Winners are listed in **bold text**.
 Tom Booker gave out four appreciation awards in the ceremony, to the following people:
 * [[Performers/Adriane Shown|Adriane Shown]]
 * [[Performers/Mark Shoemaker|Mark Shoemaker]]
-* [[Regina Soto]]
+* Regina Soto
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 
 ## Media

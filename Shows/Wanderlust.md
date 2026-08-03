@@ -78,7 +78,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ian Marcotte">Ian Marcotte</a> (stage manager)</li><!--
+  --><li style="">Ian Marcotte (stage manager)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (sound)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a> (lights)</li><!--
   --><!--
@@ -144,7 +144,7 @@ For each performance, the central protagonists were dressed in red, while the re
 
 After that, the show opened with a split-stage montage, depicting each of the central characters in their day-to-day life, set to ["Chicago" by Sufjan Stevens](http://en.wikipedia.org/wiki/Chicago_(Sufjan_Stevens_song)).  The montage ended with the two characters meeting and beginning their journey.
 
-The show consisted of a series of scenes along that trip, interspersed with improvised interviews with couples (depicted by the cast) about their relationships, à la *[[Wikipedia - When Harry Met Sally|When Harry Met Sally]]*.  The non-protagonist players portrayed all the other characters in the show (including the "interview subjects"), and also performed 'sceneography', using their bodies, motion, and built-in swaths of onstage fabric to suggest settings and props, often reflecting the mood of the scene while they did so.
+The show consisted of a series of scenes along that trip, interspersed with improvised interviews with couples (depicted by the cast) about their relationships, à la *When Harry Met Sally*.  The non-protagonist players portrayed all the other characters in the show (including the "interview subjects"), and also performed 'sceneography', using their bodies, motion, and built-in swaths of onstage fabric to suggest settings and props, often reflecting the mood of the scene while they did so.
 
 The show concluded, typically, with the central couple on the "interview couch", reflecting on their journey and their experiences.
 
@@ -198,4 +198,4 @@ There will be lots of fluid and visually dynamic movement. The show will not be 
 * [Hideout blogpost](http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback) by [[Performers/Nicole Oliver|Nicole Oliver]] about the production.
 * [Hideout blogpost](http://www.hideouttheatre.com/cat-drago-bedtime-storytelling) by [[Performers/Cat Drago|Cat Drago]] about the production.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

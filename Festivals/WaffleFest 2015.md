@@ -13,7 +13,7 @@ It included an all-star *[[Shows/Maestro|Maestro]]* and a teen showcase.
 * [[Troupes/Boomerang|Boomerang]]
 * *[[Shows/Boy, Howdy!|Boy, Howdy!]]*
 * [[Troupes/Confidence Men|Confidence Men]]
-* [[Damn, Gina!]]
+* Damn, Gina!
 * [[Troupes/Echo Lake|Echo Lake]]
 * [[Troupes/The Escorts|The Escorts]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
@@ -35,4 +35,4 @@ It included an all-star *[[Shows/Maestro|Maestro]]* and a teen showcase.
 ## Media
 ### Photos
 ### Videos
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

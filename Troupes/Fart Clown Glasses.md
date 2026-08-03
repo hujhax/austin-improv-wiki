@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
+  --><li style="">Andrea Young</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
-  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style="">Jill Morris</li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><!--
   --><!--
@@ -75,7 +75,7 @@
 ## History
 The troupe played in at least two *[[Shows/Cagematch|Cagematches]]* in 2006.
 
-[[Jill Morris]] came up with the troupe's name.
+Jill Morris came up with the troupe's name.
 
 ## More Information
 * [Discussion of the origin of the troupe name](http://forum.austinimprov.com/viewtopic.php?t=477) on [[The Austin Improv Forums]].

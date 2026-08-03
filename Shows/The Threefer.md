@@ -45,6 +45,6 @@ Inflation eventually drove the ticket price up to $5.
 * [An early call for submissions](http://forum.austinimprov.com/viewtopic.php?t=113) from [[Performers/Dave Buckman|Dave Buckman]].
 * [The show's site.](http://www.hideouttheatre.com/shows/threefer)
 
-[[Category/Shows|Threefer]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Threefer
+Category:The Hideout Theatre
+Category:Active

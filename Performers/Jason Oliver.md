@@ -25,9 +25,9 @@
 Jason started his improv career in Houston, where he performed with Scatter!  After quitting his MFA Acting program at the University of Houston, he moved to New York City and then to Austin in 2007.
 
 ## Troupes
-* [[Scatter!]]
+* Scatter!
 * [[Troupes/Baby Kick Baby|Baby Kick Baby]]
-* [[Roosevelt's Legs]]
+* Roosevelt's Legs
 * [[Troupes/Mother Fing Action Heroes!|Mother Fing Action Heroes!]]
 * [[Troupes/Mathematical!|Mathematical!]]
 * [[Troupes/Epic|Epic]]

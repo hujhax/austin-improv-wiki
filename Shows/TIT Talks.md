@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Niederpruem">Adam Niederpruem</a></li><!--
+  --><li style="">Adam Niederpruem</li><!--
   --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***TIT Talks*** is an improv show inspired by [[Wikipedia - TED (conference)|TED Talks]]. It was named TIT Talks because its initial run of shows was at [[Theatres/The Institution Theater|The Institution Theater]]. Later it had two runs of shows at [[Theatres/The New Movement Theater|The New Movement Theater]], during which it was renamed TNM Talks. 
+***TIT Talks*** is an improv show inspired by TED Talks. It was named TIT Talks because its initial run of shows was at [[Theatres/The Institution Theater|The Institution Theater]]. Later it had two runs of shows at [[Theatres/The New Movement Theater|The New Movement Theater]], during which it was renamed TNM Talks. 
 
 ## Summary
 The show ran Fridays and Saturdays at [[Theatres/The Institution Theater|The Institution Theater]] from 2/28/14 to 3/22/14.
@@ -87,20 +87,20 @@ The show featured a series of 'guest lecturers', performers from all of Austin's
 
 The show was rounded out by scripted performances.
 
-It was hosted by [[Wikipedia - KGSR|KGSR]]'s [Kristen Kurtis](http://www.kgsr.com/jocks/kristen.aspx).
+It was hosted by KGSR's [Kristen Kurtis](http://www.kgsr.com/jocks/kristen.aspx).
 
 ### Guests
-* 2/28/14: Lectures from [[Performers/Tom Booker|Tom Booker]], [[Adam Niederpruem]], [[Performers/Heidi Rogers|Heidi Rogers]], and [[Performers/Katie Thornton|Katie Thornton]]; performances from [[David Howe]] and [[Thomas Nilan]].
-* 3/1/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Justin Davidson|Justin Davidson]], [[Performers/Heidi Rogers|Heidi Rogers]], and [[Performers/Katie Thornton|Katie Thornton]]; performances from [[Thomas Niland]] and [[Performers/Christina Parrish|Christina Parrish]].
-* 3/7/14: Lectures from [[Performers/Lindsay Hejl|Lindsay Hejl]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Ash Nunley|Ash Nunley]], [[Justin Strackany]], and [[Performers/Drew Wesely|Drew Wesely]]; performances from [[Performers/Justin Davidson|Justin Davidson]] and [[Thomas Niland]].
-* 3/8/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], [[Performers/Lindsay Hejl|Lindsay Hejl]], [[Justin Strackany]], and [[Performers/Drew Wesely|Drew Wesely]]; performances from [[Roxy Castillo]] and [[David Howe]].
-* 3/14/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], [[Performers/Michael Joplin|Michael Joplin]], [[Amy Jordan]], and [[Performers/Drew Wesely|Drew Wesely]]; a performance from [[Adam Niederpruem]].
-* 3/15/14: Lectures from [[Performers/Tom Booker|Tom Booker]], [[Amy Jordan]], [[Performers/Ash Nunley|Ash Nunley]], and [[Performers/Drew Wesely|Drew Wesely]]; a performance from [[Adam Niederpruem]].
-* 3/21/14: Lectures from [[Performers/Justin Davidson|Justin Davidson]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen|Asaf Ronen]],; performances from [[Thomas Niland]] and [[The Balance Brothers]].
-* 3/22/14: Lectures from [[Performers/Emma Holder|Emma Holder]], [[Performers/Ash Nunley|Ash Nunley]], [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen|Asaf Ronen]],; performances from [[Roxy Castillo]] and [[The Balance Brothers]].
+* 2/28/14: Lectures from [[Performers/Tom Booker|Tom Booker]], Adam Niederpruem, [[Performers/Heidi Rogers|Heidi Rogers]], and [[Performers/Katie Thornton|Katie Thornton]]; performances from David Howe and Thomas Nilan.
+* 3/1/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Justin Davidson|Justin Davidson]], [[Performers/Heidi Rogers|Heidi Rogers]], and [[Performers/Katie Thornton|Katie Thornton]]; performances from Thomas Niland and [[Performers/Christina Parrish|Christina Parrish]].
+* 3/7/14: Lectures from [[Performers/Lindsay Hejl|Lindsay Hejl]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Ash Nunley|Ash Nunley]], Justin Strackany, and [[Performers/Drew Wesely|Drew Wesely]]; performances from [[Performers/Justin Davidson|Justin Davidson]] and Thomas Niland.
+* 3/8/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], [[Performers/Lindsay Hejl|Lindsay Hejl]], Justin Strackany, and [[Performers/Drew Wesely|Drew Wesely]]; performances from Roxy Castillo and David Howe.
+* 3/14/14: Lectures from [[Performers/John Buseman|John Buseman]], [[Performers/Sarah Marie Curry|Sarah Marie Curry]], [[Performers/Michael Joplin|Michael Joplin]], Amy Jordan, and [[Performers/Drew Wesely|Drew Wesely]]; a performance from Adam Niederpruem.
+* 3/15/14: Lectures from [[Performers/Tom Booker|Tom Booker]], Amy Jordan, [[Performers/Ash Nunley|Ash Nunley]], and [[Performers/Drew Wesely|Drew Wesely]]; a performance from Adam Niederpruem.
+* 3/21/14: Lectures from [[Performers/Justin Davidson|Justin Davidson]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen|Asaf Ronen]],; performances from Thomas Niland and The Balance Brothers.
+* 3/22/14: Lectures from [[Performers/Emma Holder|Emma Holder]], [[Performers/Ash Nunley|Ash Nunley]], [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]], and [[Performers/Asaf Ronen|Asaf Ronen]],; performances from Roxy Castillo and The Balance Brothers.
 
 ## TNM Runs
-The show ran during [[The Moontower Comedy Festival]] on April 23 and April 24, 2014 as TNM Talks at [[Theatres/The New Movement Theater|The New Movement Theater]]. It had another run there Friday evenings in November 2014. During that November TNM Talks performed on the Yellow Stage of Fun Fun Fun Fest on November 7th. The lectures at Fun Fun Fun Fest were from [[Performers/Drew Wesely|Drew Wesely]], [[Amy Jordan]], [[Performers/John Buseman|John Buseman]], and [[Performers/Justin Davidson|Justin Davidson]], with a musical-comedy performance from [[David Howe]]. 
+The show ran during The Moontower Comedy Festival on April 23 and April 24, 2014 as TNM Talks at [[Theatres/The New Movement Theater|The New Movement Theater]]. It had another run there Friday evenings in November 2014. During that November TNM Talks performed on the Yellow Stage of Fun Fun Fun Fest on November 7th. The lectures at Fun Fun Fun Fest were from [[Performers/Drew Wesely|Drew Wesely]], Amy Jordan, [[Performers/John Buseman|John Buseman]], and [[Performers/Justin Davidson|Justin Davidson]], with a musical-comedy performance from David Howe. 
 
 ## Media
 ### Photos
@@ -111,4 +111,4 @@ The show ran during [[The Moontower Comedy Festival]] on April 23 and April 24, 
 ## More Information
 * [The show's web page.](http://www.theinstitutiontheater.com/shows)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Avimaan Syam</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Bertron">Jesse Bertron</a></li><!--
-  --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
+  --><li style="">Jesse Bertron</li><!--
+  --><li style="">Paul Wainright</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Second Hand is a three person outfit, composing and performing short plays on the spot. Taking the works of [[Wikipedia - Sarah Ruhl|Sarah Ruhl]], [[Wikipedia - Charles Mee|Charles Mee]], and [[Wikipedia - Miranda July|Miranda July]] (amongst others) as a lead, Second Hand aspires to weave small stories of wonder and bewilderment, surprise and loss, melancholy and whimsy. </blockquote>
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Second Hand is a three person outfit, composing and performing short plays on the spot. Taking the works of Sarah Ruhl, Charles Mee, and Miranda July (amongst others) as a lead, Second Hand aspires to weave small stories of wonder and bewilderment, surprise and loss, melancholy and whimsy. </blockquote>
 
 ### "What's Your Deal?"
 Their answer to the "What's Your Deal?" question on a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>

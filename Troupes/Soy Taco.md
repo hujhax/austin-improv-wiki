@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Angie Smith">Angie Smith</a></li><!--
+  --><li style="">Angie Smith</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Monica Maher">Monica Maher</a></li><!--
+  --><li style="">Monica Maher</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
-  --><li style=""><a class="internal-link" href="Robert Evans">Robert Evans</a></li><!--
-  --><li style=""><a class="internal-link" href="Vijay Thakkar">Vijay Thakkar</a></li><!--
+  --><li style="">Robert Evans</li><!--
+  --><li style="">Vijay Thakkar</li><!--
   --><!--
   --><!--
   --><!--
@@ -92,4 +92,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

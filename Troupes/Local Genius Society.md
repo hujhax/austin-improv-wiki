@@ -87,7 +87,7 @@ Local Genius Society has presented a number of different improv formats, includi
 ### Groundhog Day
 ### Evil Genius
 ### Beach Cops
-Beach Cops was a series of narratives done in the style of *[[Wikipedia - Baywatch|Baywatch]]*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *[[Wikipedia - Pacific Blue|Pacific Blue]]*. Beach Cops debuted at the [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]] ([Video](http://vimeo.com/40328506)) and was met with surprising success.
+Beach Cops was a series of narratives done in the style of *Baywatch*. It came about as a one one-off joke in a show where Andrew and Zac played Beach Cops patrolling and protecting a beach. Tickled by the idea, LGS developed the format by drawing not only from Baywatch but also from *Pacific Blue*. Beach Cops debuted at the [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]] ([Video](http://vimeo.com/40328506)) and was met with surprising success.
 
 It was performed several more times, including once at [[Theatres/Coldtowne Theater|Coldtowne Theater]] with [[Performers/Kaci Danger|Kaci Danger]] as a guest Beach Cop. The final show was performed in Honolulu's Improvaganza festival in 2012. Beach Cops has since been retired.
 
@@ -156,4 +156,4 @@ Here is [[Performers/Zac Grantham|Zac Grantham]]'s explanation of the name's ori
 	* [Interview](http://www.hideouttheatre.com/lgs-karen-jane-dewitt) with [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]].
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

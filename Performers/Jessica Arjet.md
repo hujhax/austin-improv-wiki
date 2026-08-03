@@ -30,7 +30,7 @@ Jessica Arjet graduated from the [[Troupes/Heroes of Comedy|Heroes of Comedy]] I
 She was a core cast member of [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]] and [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
 ## Troupes
-* [[Bedfellows]]
+* Bedfellows
 * [[Troupes/ComedySportz|ComedySportz]]
 * [[Troupes/Firth & Arjet|Firth & Arjet]]
 * [[Troupes/In Our Prime|In Our Prime]]

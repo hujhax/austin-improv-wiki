@@ -79,7 +79,7 @@ A post from him about the first improv show he ever saw:<blockquote>Ka-Baam with
 
 ## Troupes
 * [[Troupes/Apocalypse (troupe)|Apocalypse]]
-* [[Troupes/Huge In Japan|Huge In Japan]] / [[The Bystanders]]
+* [[Troupes/Huge In Japan|Huge In Japan]] / The Bystanders
 * [[Shows/Racket|Racket]]
 * [[Troupes/Stone Airplane|Stone Airplane]]
 

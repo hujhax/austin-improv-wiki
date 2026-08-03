@@ -28,4 +28,4 @@ It ran from 4/11/13 to 4/13/13.
 
 ## More Information
 * [The festival schedule.](http://www.improvisedplayfestival.com/about/schedule/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

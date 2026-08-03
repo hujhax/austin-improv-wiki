@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Christie Grace">Christie Grace</a></li><!--
-  --><li style=""><a class="internal-link" href="Dan Grimm">Dan Grimm</a></li><!--
+  --><li style="">Christie Grace</li><!--
+  --><li style="">Dan Grimm</li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Price">Sarah Price</a></li><!--
+  --><li style="">Sarah Price</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Narwhal, [[Christie Grace]], [[Sarah Price]], [[Dan Grimm]] and [[Performers/Patrick Knisely|Patrick Knisely]], formed in early 2011, deciding to make an official troupe after nearly two years worth of playing in various shows and ensembles together.</p> 
+Their press blurb, taken from a 2011 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote><p>Narwhal, Christie Grace, Sarah Price, Dan Grimm and [[Performers/Patrick Knisely|Patrick Knisely]], formed in early 2011, deciding to make an official troupe after nearly two years worth of playing in various shows and ensembles together.</p> 
 
 <p>A mixture of fast and slow paced comedy, Narwhal throws out a handful of scenes through their show and brings them all home together weaving the storylines together in the end.</p></blockquote>
 

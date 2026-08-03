@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
-  --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
+  --><li style="">Greg Mihalik</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a> (music)</li><!--
   --><!--
   --><!--
@@ -80,12 +80,12 @@ Greg and Chris met during level two music class at [[Theatres/The Hideout Theatr
 
 ## Shows
 * *[[Shows/2x4|2x4]]*
-* *[[Musical Night at Indra's]]*
+* *Musical Night at Indra's*
 * *[[Shows/Impromp-Two|Impromp-Two]]*
-* *[[Alamo City Improv]]*
+* *Alamo City Improv*
 * *Duo Night at [Station Theatre](http://www.stationtheater.com/)*
 * *[[Shows/Free Fringe|Free Fringe]]* (with special guest [[Performers/Aspen Webster|Aspen Webster]])
-* *[[Dual Reality]]*
+* *Dual Reality*
 * *Alternative Comedy Theatre's 10th Annual Big Weekend of Improv*
 * *[[Shows/Threefer|Threefer]]*
 
@@ -109,5 +109,5 @@ Greg and Chris met during level two music class at [[Theatres/The Hideout Theatr
 * Michael O'Connor
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

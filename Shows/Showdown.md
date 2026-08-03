@@ -78,7 +78,7 @@
   --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Bertron">Jesse Bertron</a></li><!--
+  --><li style="">Jesse Bertron</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Van Winkle">Katie Van Winkle</a></li><!--
@@ -145,7 +145,7 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 * Clement Merseault -- [[Performers/Clay Towery|Clay Towery]]
 * Doc Parish, George, Jebidiah, Jacob -- [[Performers/Jason Vines|Jason Vines]]
 * Sheriff Robert Solomon, Bertram -- [[Performers/Jericho Thorp|Jericho Thorp]]
-* Hank, Judge Thomas Clancy -- [[Jesse Bertron]]
+* Hank, Judge Thomas Clancy -- Jesse Bertron
 * Zeke Preston, Caleb Forsythe, Sam Houston, Reverend -- [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * Fancy, Miss Jessie -- [[Performers/Julie Gillis|Julie Gillis]]
 * Clarinda, Marquesa/Adelaide -- [[Performers/Katie Van Winkle|Katie Van Winkle]]
@@ -154,7 +154,7 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 
 ## Crew
 * Directed by: [[Performers/Avimaan Syam|Avimaan Syam]] 
-* Lighting: [[Jerry Fugit]] 
+* Lighting: Jerry Fugit 
 * Sound/Stage Manager: [[Performers/Katie Dahm|Katie Dahm]] 
 * PR: [[Performers/Andreas Fabis|Andreas Fabis]] 
 * Producer: [[Performers/Shannon McCormick|Shannon McCormick]]
@@ -189,4 +189,4 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 ### Publicity
 * [Character portraits](http://www.facebook.com/SteveRogers1212/media_set?set=a.116016391812726.23306.100002130980897&type=3) by [[Steve Rogers]].
 
-[[Category/Shows|Showdown]]
+Showdown

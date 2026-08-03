@@ -24,14 +24,14 @@
 ## Summary
 Aaron Walther started studying improv at [[Theatres/The New Movement Theater|The New Movement Theater]] in 2009 and started performing shortly thereafter. He's been in troupes City High, DJ Danger Dad, The Sticky Boys, and Disco Box, all of whom are either defunct or inactive. Currently he is a regular player in the weekly Megaphone show at The New Movement and works with the online sketch group Humordy.
 
-In 2012, Aaron attended [[The iO Summer Intensive]].
+In 2012, Aaron attended The iO Summer Intensive.
 
 ## Troupes
 * [[Troupes/City High|City High]]
 * [[Troupes/Disco Box|Disco Box]]
 * [[Troupes/DJ Danger Dad|DJ Danger Dad]]
-* [[Humordy]]
-* [[The Sticky Boys]]
+* Humordy
+* The Sticky Boys
 
 ## Shows
 * *[[Shows/The Cherry Bowl|The Cherry Bowl]]* (Yasha)

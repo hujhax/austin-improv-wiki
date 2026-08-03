@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Benjamin Bazan">Benjamin Bazan</a></li><!--
+  --><li style="">Benjamin Bazan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
-  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
-  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style="">Jake Millward</li><!--
+  --><li style="">Joseph Dailey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
@@ -90,5 +90,5 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 * [Video](http://vimeo.com/86047403) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their "1st Drivers License" show (uploaded 2/6/14).
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

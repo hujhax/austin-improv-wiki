@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brandt Pileggi">Brandt Pileggi</a></li><!--
-  --><li style=""><a class="internal-link" href="Brian Engravalle">Brian Engravalle</a></li><!--
+  --><li style="">Brandt Pileggi</li><!--
+  --><li style="">Brian Engravalle</li><!--
   --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><!--
@@ -74,8 +74,8 @@
 
 ## Summary
 The cast had the following personas:
-* [[Brandt Pileggi]]: Dj Dubb 
-* [[Brian Engravalle]]: El Chiba Masta Cruel 
+* Brandt Pileggi: Dj Dubb 
+* Brian Engravalle: El Chiba Masta Cruel 
 * [[Performers/Elizabeth Brammer|Elizabeth Brammer]]: Lil' One Eye 
 * [[Performers/Patrick Daniel|Patrick Daniel]]: Shorty Bodega 
 

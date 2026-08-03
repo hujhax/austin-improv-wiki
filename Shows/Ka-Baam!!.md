@@ -22,7 +22,7 @@
   --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Erik Adams">Erik Adams</a></li><!--
+  --><li style="">Erik Adams</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
@@ -84,7 +84,7 @@
 
 ***Ka-Baam!!*** (often written in all-caps: ***KA-BAAM!!***) was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-It was based on [[Wikipedia - Golden Age of Comic Books|the Golden Age of superhero comics]].
+It was based on the Golden Age of superhero comics.
 
 ## Summary
 ### Show Structure
@@ -105,7 +105,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 
 ### 2008 Cast
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
-* [[Erik Adams]]
+* Erik Adams
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
 * [[Performers/Justin Davis|Justin Davis]]
@@ -120,7 +120,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Performers/Aden Kirschner|Aden Kirschner]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
-* [[Erik Adams]]
+* Erik Adams
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Justin Davis|Justin Davis]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
@@ -138,7 +138,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 	* [[Performers/Michael Thomas|Michael Thomas]] as Mariachi Man
 * 5/10/08
 	* [[Performers/Kaci Beeler|Kaci Beeler]] as Dr. Steam
-	* [[Erik Adams]] as Big Wet Hero
+	* Erik Adams as Big Wet Hero
 	* [[Performers/Jason Vines|Jason Vines]] as Captain Accomodator
 * 5/17/08
 	* [[Performers/Michael Thomas|Michael Thomas]] as Inflatable Man
@@ -146,14 +146,14 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 	* [[Performers/Roy Janik|Roy Janik]] as The Exciting Elemental
 * 5/24/08
 	* [[Performers/Michael Thomas|Michael Thomas]] as Anteater Man
-	* [[Erik Adams]] as Captain Giggles
+	* Erik Adams as Captain Giggles
 	* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Sargent Shortbread
 
 #### 2009 Run
 * 9/11/09
 	* [[Performers/Troy Miller|Troy Miller]] as Mr. No Depth Perception Guy
 	* [[Performers/Michael Thomas|Michael Thomas]] as Cricket the Clairvoyant Kitty Cat
-	* [[Erik Adams]] as Austin Music Scene Kid
+	* Erik Adams as Austin Music Scene Kid
 	* [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]] as Black Fungus Guy [villain]
 * 9/12/09
 	* [[Performers/Eric Heiberg|Eric Heiberg]] as Mr. Buckets
@@ -163,7 +163,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * 9/18/09
 	* [[Performers/Eric Heiberg|Eric Heiberg]] as Recyclotron
 	* [[Performers/Sarah Marie Curry|Sarah Marie Curry]] as Jazz Hands!
-	* [[Erik Adams]] as Catch Man
+	* Erik Adams as Catch Man
 	* [[Performers/Jason Vines|Jason Vines]] as Spaceclaw [villain]
 * 9/19/09
 	* [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Brick Woman
@@ -221,12 +221,12 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 ## More Information
 * [Announcement of the opening of the first run](http://forum.austinimprov.com/viewtopic.php?t=6771) on [[The AIC Forums]].
 * [Press release for the 2008 run](http://keepjustinwriting.com/2009/05/11/7/) by [[Performers/Justin Davis|Justin Davis]].
-* [A story about the show in *The Austin Chronicle*](http://www.austinchronicle.com/arts/2008-05-02/618700/) by [[Wayne Allen Brenner]]
-* [The top ten arts events of 2008 (which included *Ka-Baam!!*)](http://www.austinchronicle.com/arts/2009-01-02/721384/), by [[Wayne Allen Brenner]] for *The Austin Chronicle*
+* [A story about the show in *The Austin Chronicle*](http://www.austinchronicle.com/arts/2008-05-02/618700/) by Wayne Allen Brenner
+* [The top ten arts events of 2008 (which included *Ka-Baam!!*)](http://www.austinchronicle.com/arts/2009-01-02/721384/), by Wayne Allen Brenner for *The Austin Chronicle*
 * [An announcement of the 5/31/08 show](http://forum.austinimprov.com/viewtopic.php?t=6953) on [[The AIC Forums]].
 * [Article on comicbookresources.com from 6/16/08.](http://www.comicbookresources.com/?page=article&id=16806)
 * [Article on comicbookresources.com from 6/26/08.](http://goodcomics.comicbookresources.com/2008/06/26/superhero-improv-is-good/)
 * [Announcement of the opening of the second run](http://forum.austinimprov.com/viewtopic.php?t=9700) on [[The AIC Forums]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

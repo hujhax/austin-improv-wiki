@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Niederpruem">Adam Niederpruem</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy Pacheco Jordan">Amy Pacheco Jordan</a></li><!--
+  --><li style="">Adam Niederpruem</li><!--
+  --><li style="">Amy Pacheco Jordan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Strackany">Justin Strackany</a></li><!--
-  --><li style=""><a class="internal-link" href="Megan Poncho Simon">Megan Poncho Simon</a></li><!--
+  --><li style="">Justin Strackany</li><!--
+  --><li style="">Megan Poncho Simon</li><!--
   --><!--
   --><!--
   --><!--
@@ -86,4 +86,4 @@
 * [The troupe's facebook page.](http://www.facebook.com/pages/Water-Park/350085621711326)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

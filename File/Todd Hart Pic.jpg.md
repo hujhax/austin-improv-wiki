@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Todd Hart Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Todd Hart|Todd Hart]], in the 4/6/13 performance of *[[The Depression Chronicles]]*.
+[[Performers/Todd Hart|Todd Hart]], in the 4/6/13 performance of *The Depression Chronicles*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.519990878064433.1073741847.221927764537414&type=3).
 ## Licensing

@@ -12,7 +12,7 @@
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a>
 	<a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a>
-	<a class="internal-link" href="ZACH Theater">ZACH Theater</a></td>
+	ZACH Theater</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

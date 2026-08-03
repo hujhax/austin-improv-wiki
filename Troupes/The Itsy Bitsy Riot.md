@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Matthew Derman">Matthew Derman</a></li><!--
-  --><li style=""><a class="internal-link" href="Patricia Tate">Patricia Tate</a></li><!--
+  --><li style="">Matthew Derman</li><!--
+  --><li style="">Patricia Tate</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
-  --><li style=""><a class="internal-link" href="Sam Van Metre">Sam Van Metre</a></li><!--
+  --><li style="">Sam Van Metre</li><!--
   --><!--
   --><!--
   --><!--

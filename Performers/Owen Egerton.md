@@ -26,7 +26,7 @@ In addition to performing with [[Troupes/ComedySportz|ComedySportz]] from 1995-2
 
 Owen's books include: *Marshall Hollenzer is Driving* (2000), *How Best to Avoid Dying* (2007), *The Book of Harold: The Illegitimate Son of God* (2010), and *Everyone Says That at the End of the World* (2013).  
 
-Owen is also a regular cast member of [[The Pie and Ear Show]].  
+Owen is also a regular cast member of The Pie and Ear Show.  
 
-He is happily married to [[Jodi Egerton]], and they have two lovely children, and a third one they never seem to mention.
+He is happily married to Jodi Egerton, and they have two lovely children, and a third one they never seem to mention.
 [[Category/Performers|Category:Performers]]

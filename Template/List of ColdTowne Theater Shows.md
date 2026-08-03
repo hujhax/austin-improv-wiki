@@ -5,8 +5,8 @@ This **List of [[Theatres/Coldtowne Theater|Coldtowne Theater]] Shows** is desig
 * *[[Shows/The Cagematch|The Cagematch]]*
 * *[[Shows/Comedy Bazaar|Comedy Bazaar]]*
 * *[[Shows/Movie Riot|Movie Riot]]*
-* *[[Nice Astronaut Presents Improv Roulette]]*
-* *[[Play By Play]]*
+* *Nice Astronaut Presents Improv Roulette*
+* *Play By Play*
 * *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*
 * *[[Troupes/What's the Story Steve|What's the Story Steve]]*
 
@@ -59,7 +59,7 @@ In this context, "Mainstage Productions" means weekly themed shows with one- or 
 * *[[Shows/Documentary Later -  The Doc Web|Documentary Later -  The Doc Web]]*
 * *[[Shows/Old Love (an improvised comedy)|Old Love (an improvised comedy)]]*
 * *[[Shows/One Hour Til Air|One Hour Til Air]]*
-* *[[StarringYallWeAsian]]*
+* *StarringYallWeAsian*
 * *[[Shows/The Rose -  Trouble in Paradise|The Rose -  Trouble in Paradise]]*
 * *[[Shows/Way Down in the Hole|Way Down in the Hole]]*
 * *[[Shows/Angola (a comedy)|Angola (a comedy)]]*

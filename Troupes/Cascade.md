@@ -96,5 +96,5 @@ In January 2015 they began hosting *[[Shows/ImprompTwo|ImprompTwo]]* at [[Theatr
 * [The troupe's facebook page.](http://www.facebook.com/cascadeimprov)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

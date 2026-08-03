@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Matt Giles">Matt Giles</a></li><!--
-  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
-  --><li style=""><a class="internal-link" href="Steve Glazer">Steve Glazer</a></li><!--
+  --><li style="">Matt Giles</li><!--
+  --><li style="">Regina Soto</li><!--
+  --><li style="">Steve Glazer</li><!--
   --><!--
   --><!--
   --><!--
@@ -85,4 +85,4 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

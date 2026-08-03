@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Christina Bain">Christina Bain</a></li><!--
-  --><li style=""><a class="internal-link" href="Wesley Bain">Wesley Bain</a></li><!--
+  --><li style="">Christina Bain</li><!--
+  --><li style="">Wesley Bain</li><!--
   --><!--
   --><!--
   --><!--

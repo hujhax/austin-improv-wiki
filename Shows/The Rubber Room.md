@@ -105,4 +105,4 @@ Starting with the 5/19/13 *Rubber Room*, the faculty made it possible for attend
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]
 
-[[Category/Shows|Rubber]]
+Rubber

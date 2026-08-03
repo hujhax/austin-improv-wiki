@@ -20,7 +20,7 @@
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Robin Anderson">Robin Anderson</a></li><!--
+  --><li style="">Robin Anderson</li><!--
   --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
@@ -70,7 +70,7 @@
 	</table>
 </div>
 
-**Celebrity Alter Ego** was an improv troupe that started as a [[List of Free Fringes#Celebrity Alter-Ego .28Andreas Fabis.29|fringe format]].
+**Celebrity Alter Ego** was an improv troupe that started as a fringe format.
 
 ## Summary
 ### Press Blurb

@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Daniel Rigney">Daniel Rigney</a></li><!--
-  --><li style=""><a class="internal-link" href="Jackie Myers">Jackie Myers</a></li><!--
+  --><li style="">Daniel Rigney</li><!--
+  --><li style="">Jackie Myers</li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
-  --><li style=""><a class="internal-link" href="Paul Wainwright">Paul Wainwright</a></li><!--
-  --><li style=""><a class="internal-link" href="Petra Kelsey">Petra Kelsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Todd Mein">Todd Mein</a></li><!--
-  --><li style=""><a class="internal-link" href="Jason Laney">Jason Laney</a></li><!--
+  --><li style="">Paul Wainwright</li><!--
+  --><li style="">Petra Kelsey</li><!--
+  --><li style="">Todd Mein</li><!--
+  --><li style="">Jason Laney</li><!--
   --><!--
   --><!--
   --><!--

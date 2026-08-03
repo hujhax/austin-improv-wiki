@@ -145,8 +145,8 @@ Every show has exactly four performers, one host, one musician, and one technica
 * [Video](http://youtu.be/nLUzSGqYLZw) by [[Performers/Warren Henderson|Warren Henderson]] of the 5/30/14 show.
 
 ## More Information
-* [Article about the show](http://www.austinchronicle.com/arts/2013-12-27/the-big-bash/) by [[Robert Faires]] for *The Austin Chronicle*. (12/27/13)
+* [Article about the show](http://www.austinchronicle.com/arts/2013-12-27/the-big-bash/) by Robert Faires for *The Austin Chronicle*. (12/27/13)
 
-[[Category/Shows|Big Bash]]
-[[Category/Active|Big Bash]]
+Big Bash
+Big Bash
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Big Bash]]

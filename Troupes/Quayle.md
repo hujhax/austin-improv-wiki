@@ -98,4 +98,4 @@ The current rehearsed format is a loose attempt at a Harold, taking liberties wh
 * Show Count since 2014: 0
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

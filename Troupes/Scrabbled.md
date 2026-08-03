@@ -80,9 +80,9 @@ Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hi
 Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>We do a scene throughout the show where we play the game Scrabble and we are characters in that scene, then when we play a word that inspired someone, we pop out into a montage of scenes, then when we're done, we pop back into playing the game. </blockquote>
 
 ## History
-This started as a *[[Shows/Free Fringe|Free Fringe]]* show on [[List of Free Fringes#Scrabble .28Heidi Rogers.29|10/24/13]].
+This started as a *[[Shows/Free Fringe|Free Fringe]]* show on 10/24/13.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

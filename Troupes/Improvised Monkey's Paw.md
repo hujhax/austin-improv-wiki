@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
+  --><li style="">Amy Carpenter</li><!--
   --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
   --><!--
   --><!--
@@ -83,7 +83,7 @@ Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hi
 <p>IF YOU DARE!</p></blockquote>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our format is based on the short story [[Wikipedia - The Monkey's Paw|"The Monkey's Paw"]] by [[Wikipedia - W. W. Jacobs|W. W. Jacobs]]. 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>Our format is based on the short story "The Monkey's Paw" by W. W. Jacobs. 
 
 We ask the audience for a suggestion of an object. 
 

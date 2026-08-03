@@ -25,13 +25,13 @@
 From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.com/performer/carlos-larotta):
 <blockquote><p>Carlos LaRotta used to be a filmmaker who liked to perform improv and sketch, but currently he identifies himself as an improv/sketch performer who likes to make films.</p>
 
-<p>As ColdTowne’s (arguably) hottest "Chubby Hispanic Guy", Carlos can be seen every Friday at 7pm with [[Shows/Movie Riot|Movie Riot]], as well as frequently performing with such house troupes as [[Troupes/Precious Dads|Precious Dads]], [[Troupes/Skutch|Skutch]], [[Troupes/Whalehouse|Whalehouse]], and [[Carlos and Chrissy are Twins]].</p>
+<p>As ColdTowne’s (arguably) hottest "Chubby Hispanic Guy", Carlos can be seen every Friday at 7pm with [[Shows/Movie Riot|Movie Riot]], as well as frequently performing with such house troupes as [[Troupes/Precious Dads|Precious Dads]], [[Troupes/Skutch|Skutch]], [[Troupes/Whalehouse|Whalehouse]], and Carlos and Chrissy are Twins.</p>
 
 <p>Also, he is known to switch from third person to first person in one sentence, I think.</p></blockquote>
 
 ## Troupes
 * [[Troupes/Bad Font|Bad Font]]
-* [[Carlos and Chrissy are Twins]]
+* Carlos and Chrissy are Twins
 * [[Troupes/Cup|Cup]]
 * [[Troupes/Delta Force of Venus|Delta Force of Venus]]
 * [[Shows/Movie Riot|Movie Riot]]
@@ -50,4 +50,4 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 * [Interview](http://yesandrew.com/the-sunday-interview-carlos-larotta/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|LaRotta]]
-[[Category/Active|LaRotta]]
+LaRotta

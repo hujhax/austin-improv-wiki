@@ -30,7 +30,7 @@ Sarah began taking classes at the [[Theatres/Hideout|Hideout]] in 2013 and singi
 * *[[Shows/The Organ Trail|The Organ Trail]]*
 * *[[Shows/The Aftermath|The Aftermath]]* (Crew - Scoring)
 * *[[Shows/Lonely Star|Lonely Star]]* (Crew - Sound Effects)
-* *[[Next Week on Game of Thrones]]* (Crew - Sound Effects)
+* *Next Week on Game of Thrones* (Crew - Sound Effects)
 * *[[Shows/The Untitled Avant-Garde Theater Project with a Really Long Title|The Untitled Avant-Garde Theater Project with a Really Long Title]]* (Tech Director)
 
 [[Category/Performers|Hutchins]]

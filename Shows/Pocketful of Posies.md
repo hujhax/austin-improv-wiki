@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Pocketful of Posies*** was an improvised show based around the films of the European [[Wikipedia - French New Wave|New Wave]] of the 1960s. It was staged at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] through [[Gnap! Theater Projects]] in July and August of 2012.
+***Pocketful of Posies*** was an improvised show based around the films of the European New Wave of the 1960s. It was staged at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] through [[Gnap! Theater Projects]] in July and August of 2012.
 
 ## Media
 ### Photos
@@ -146,4 +146,4 @@
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2035639) with cast members [[Performers/Kristin Firth|Kristin Firth]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Ruby Willmann|Ruby Willmann]], and [[Performers/Ryan Austin|Ryan Austin]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
-[[Category/Shows|Pocketful]]
+Pocketful

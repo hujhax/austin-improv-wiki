@@ -23,14 +23,14 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Schwartz">Andrew Schwartz</a></li><!--
+  --><li style="">Andrew Schwartz</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Heather Hasselle</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Guy Bowman">Michael Guy Bowman</a></li><!--
+  --><li style="">Michael Guy Bowman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
+  --><li style="">Tess Hermes</li><!--
   --><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@
 	</table>
 </div>
 
-***The Dahl House*** was the August 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***The Dahl House*** was the August 2014 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Format
@@ -120,5 +120,5 @@ The world can be a scary and flamboozled place for the good-at-heart, but Roald 
 * [The show announcement](http://www.hideouttheatre.com/announcing-the-next-three-student-mainstages-of-2014) on the Hideout's web site.
 * [Wikipedia's entry on Roald Dahl](http://en.wikipedia.org/wiki/Roald_Dahl)
 
-[[Category/Shows|Dahl House]]
-[[Category/The Hideout Theatre|Dahl House]]
+Dahl House
+Dahl House

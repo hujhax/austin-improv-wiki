@@ -21,11 +21,11 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Ellana Kelter">Ellana Kelter</a></li><!--
-  --><li style=""><a class="internal-link" href="Espie Randolph">Espie Randolph</a></li><!--
-  --><li style=""><a class="internal-link" href="Lauren Forman">Lauren Forman</a></li><!--
+  --><li style="">Ellana Kelter</li><!--
+  --><li style="">Espie Randolph</li><!--
+  --><li style="">Lauren Forman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
-  --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
+  --><li style="">Terrill Fischer</li><!--
   --><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: Saved by the Bell*** refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of the [[Wikipedia - Saved by the Bell|*Saved by the Bell*]] epiodes ["Jessie's Song"](http://www.imdb.com/title/tt0794963) and ["The Zack Tapes"](http://www.imdb.com/title/tt0695237).
+***Live TV Tuesdays: Saved by the Bell*** refers to the [[Shows/Live TV Tuesdays|Live TV Tuesdays]] presentation of the *Saved by the Bell* epiodes ["Jessie's Song"](http://www.imdb.com/title/tt0794963) and ["The Zack Tapes"](http://www.imdb.com/title/tt0695237).
 
 ## Summary
 This was the first production in what became the "Teen Angst Tuesdays" and subsequently the "Live TV Tuesdays" series.  At the time, this show was known only as "Staged by the Bell".
@@ -99,12 +99,12 @@ All of these performances were at The United States Art Authority at [[Theatres/
 
 ## Cast
 * Zack Morris -- [[Performers/Patrick Daniel|Patrick Daniel]]
-* Kelly Kapowski -- [[Lauren Forman]]
+* Kelly Kapowski -- Lauren Forman
 * A. C. Slater -- [[Performers/Bryan Cruz|Bryan Cruz]]
-* Jessie Spano -- [[Ellana Kelter]]
+* Jessie Spano -- Ellana Kelter
 * Samuel 'Screech' Powers -- [[Performers/Bryan Roberts|Bryan Roberts]]
-* Lisa Turtle -- [[Espie Randolph]]
-* Principal Belding -- [[Terrill Fischer]]
+* Lisa Turtle -- Espie Randolph
+* Principal Belding -- Terrill Fischer
  
 ## Media
 ### Videos
@@ -120,4 +120,4 @@ All of these performances were at The United States Art Authority at [[Theatres/
 * [Forum announcement of the August run.](http://forum.austinimprov.com/viewtopic.php?f=2&t=9512)
 * [Forum announcement of the October/November run.](http://forum.austinimprov.com/viewtopic.php?t=9826)
 * [Forum announcement of the double-bill show.](http://forum.austinimprov.com/viewtopic.php?t=9903)
-[[Category/Shows|Category:Shows]]
+Category:Shows

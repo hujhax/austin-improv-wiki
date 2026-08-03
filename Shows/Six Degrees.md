@@ -95,5 +95,5 @@ The show was put on sporadically during the early years of the Hideout, and then
 ## Media
 * [Photoset of the 2/28/2002 show](http://www.facebook.com/media/set/?set=a.19102072264.15340.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

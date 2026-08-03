@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Joseph Robert Daily">Joseph Robert Daily</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Soileau">Justin Soileau</a></li><!--
-  --><li style=""><a class="internal-link" href="Robert Moncrief">Robert Moncrief</a></li><!--
+  --><li style="">Joseph Robert Daily</li><!--
+  --><li style="">Justin Soileau</li><!--
+  --><li style="">Robert Moncrief</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,9 +73,9 @@
 **Mixed Company** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
-[[Joseph Dailey]] is also a member of [[Troupes/Nice Astronaut|Nice Astronaut]].
+Joseph Dailey is also a member of [[Troupes/Nice Astronaut|Nice Astronaut]].
 
-[[Justin Soileau]] and Robert Moncreiff were in [[Lasagna]].
+Justin Soileau and Robert Moncreiff were in Lasagna.
 
 They are all graduates of the ColdTowne Conservatory
 

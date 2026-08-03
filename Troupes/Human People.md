@@ -15,16 +15,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
-  --><li style=""><a class="internal-link" href="Erik McVicker">Erik McVicker</a></li><!--
+  --><li style="">Greg Mihalik</li><!--
+  --><li style="">Erik McVicker</li><!--
   --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kris Raab">Kris Raab</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Pius Wong">Pius Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Sheri Soltes">Sheri Soltes</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy McClellan">Amy McClellan</a></li><!--
+  --><li style="">Sheri Soltes</li><!--
+  --><li style="">Amy McClellan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
-  --><li style="" ><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
-  --><li style=""><a class="internal-link" href="Sue Jordan">Sue Jordan</a></li><!--
+  --><li style="" >Kay Krasin</li><!--
+  --><li style="">Sue Jordan</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,9 +70,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bloom Davis">Bloom Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Carolyn Gjersten">Carolyn Gjersten</a></li><!--
-  --><li style=""><a class="internal-link" href="Judy Blackshear">Judy Blackshear</a></li><!--
+  --><li style="">Bloom Davis</li><!--
+  --><li style="">Carolyn Gjersten</li><!--
+  --><li style="">Judy Blackshear</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><!--
   --><!--
@@ -156,4 +156,4 @@ We founded Human People in 2016 from a musical improv jam at Greg's cat-filled a
 
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

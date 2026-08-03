@@ -34,7 +34,7 @@ It is part of *[[Shows/The Wheel|The Wheel]]*.
 ## Summary
 Fancy Pants is a show that happens on the first Friday of every month at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. It was "lovingly borrowed (i.e., egregiously stolen)" from [PROJECTproject](http://en.wikipedia.org/wiki/Projectproject) in Toronto, Canada.
 
-It currently is cast and directed by [[Jeffrey Chatman]] and [[Performers/Megan Venable|Megan Venable]].
+It currently is cast and directed by Jeffrey Chatman and [[Performers/Megan Venable|Megan Venable]].
 
 ## Format
 17 - 21 improvisors are cast each month and put their names in a hat. The host/director draws out two names at a time and those players do whatever they want. It can be a scene/game or something they make up.
@@ -110,6 +110,6 @@ The show began under the direction of [[Performers/Jon Bolden|Jon Bolden]]. It h
 ## Other Information
 * [The show's home page.](http://www.hideouttheatre.com/shows/thefancy-pantsmashup)
 
-[[Category/Shows|Fancy-Pants Mashup]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Fancy-Pants Mashup
+Category:The Hideout Theatre
+Category:Active

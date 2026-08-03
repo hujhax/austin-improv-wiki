@@ -23,8 +23,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bob Halgren">Bob Halgren</a> (2016)</li><!--
-  --><li style=""><a class="internal-link" href="KC Ryan">KC Ryan</a> (2018)</li><!--
+  --><li style="">Bob Halgren (2016)</li><!--
+  --><li style="">KC Ryan (2018)</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,26 +78,26 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aaron Seriff-Cullick">Aaron Seriff-Cullick</a></li><!--
-  --><li style=""><a class="internal-link" href="Alex Bennett">Alex Bennett</a></li><!--
-  --><li style=""><a class="internal-link" href="Angelina Martin">Angelina Martin</a></li><!--
+  --><li style="">Aaron Seriff-Cullick</li><!--
+  --><li style="">Alex Bennett</li><!--
+  --><li style="">Angelina Martin</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Annie Shortt">Annie Shortt</a></li><!--
-  --><li style=""><a class="internal-link" href="Ashley Blom">Ashley Blom</a></li><!--
+  --><li style="">Annie Shortt</li><!--
+  --><li style="">Ashley Blom</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
-  --><li style="" ><a class="internal-link" href="Espi Rivandeneira">Espi Rivandeneira</a></li><!--
-  --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
+  --><li style="">Emily McDonald</li><!--
+  --><li style="" >Espi Rivandeneira</li><!--
+  --><li style="">Graham Snow</li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Jessica Soos">Jessica Soos</a></li><!--
-  --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
-  --><li style=""><a class="internal-link" href="Ladislao Loera">Ladislao Loera</a></li><!--
+  --><li style="">Jessica Soos</li><!--
+  --><li style="">Kay Krasin</li><!--
+  --><li style="">Ladislao Loera</li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
-  --><li style=""><a class="internal-link" href="Tess Forneris">Tess Forneris</a></li><!--
+  --><li style="">Tess Forneris</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
-  --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Trent Thomson">Trent Thomson</a></li><!--
+  --><li style="">Trent Symmonds</li><!--
+  --><li style="">Trent Thomson</li><!--
   --><!--
   --><!--
   --><!--
@@ -133,11 +133,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Heather Coffee">Heather Coffee</a></li><!--
-  --><li style=""><a class="internal-link" href="Laura Galan Wells">Laura Galan Wells</a></li><!--
+  --><li style="">Heather Coffee</li><!--
+  --><li style="">Laura Galan Wells</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
-  --><li style=""><a class="internal-link" href="Peter Wilde">Peter Wilde</a></li><!--
-  --><li style=""><a class="internal-link" href="Tori Haddox">Tori Haddox</a></li><!--
+  --><li style="">Peter Wilde</li><!--
+  --><li style="">Tori Haddox</li><!--
   --><!--
   --><!--
   --><!--
@@ -196,7 +196,7 @@
 	</table>
 </div>
 
-***Story to the Death*** is a recurring [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. It first ran in August 2016, and had second run in February 2018.
+***Story to the Death*** is a recurring student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. It first ran in August 2016, and had second run in February 2018.
 
 ## Summary
 ### Publicity Blurb
@@ -209,39 +209,39 @@ Every single element of Story To The Death is completely improvised based on aud
 ### Aug 2016
 #### Cast
 * [[Performers/Ann Symmonds|Ann Symmonds]]
-* [[Emily McDonald]]
-* [[Graham Snow]]
+* Emily McDonald
+* Graham Snow
 * [[Performers/Heidi Rogers|Heidi Rogers]]
-* [[Jessica Soos]]
-* [[Kay Krasin]]
+* Jessica Soos
+* Kay Krasin
 * [[Performers/Marc Jalandoon|Marc Jalandoon]]
 * [[Performers/Sushant Sethi|Sushant Sethi]]
 * [[Performers/Tosin awofeso|Tosin awofeso]]
-* [[Trent Symmonds]]
+* Trent Symmonds
 #### Crew
-* [[Bob Halgren]] (Stage Manager)
-* [[Heather Coffee]]
+* Bob Halgren (Stage Manager)
+* Heather Coffee
 * [[Performers/Nichole Bennett|Nichole Bennett]]
 ### Feb 2018
 #### Cast
-* [[Aaron Seriff-Cullick]]
-* [[Alex Bennett]]
-* [[Angelina Martin]]
-* [[Annie Shortt]]
-* [[Ashley Blom]]
+* Aaron Seriff-Cullick
+* Alex Bennett
+* Angelina Martin
+* Annie Shortt
+* Ashley Blom
 * [[Performers/David Ronn|David Ronn]]
-* [[Espi Rivandeneira]]
-* [[Ladislao Loera]]
-* [[Tess Forneris]]
-* [[Trent Thomson]]
+* Espi Rivandeneira
+* Ladislao Loera
+* Tess Forneris
+* Trent Thomson
 #### Crew
-* [[KC Ryan]] (Stage Manager)
-* [[Laura Galan Wells]]
-* [[Peter Wilde]]
-* [[Tori Haddox]]
+* KC Ryan (Stage Manager)
+* Laura Galan Wells
+* Peter Wilde
+* Tori Haddox
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/storytothedeath)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

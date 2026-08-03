@@ -46,6 +46,6 @@ From [his bio page on the ColdTowne Theater site](http://www.coldtownetheater.co
 * [An interview](http://gybpodcast.libsyn.com/audition-advice-for-improvisers-ep32-a-gyb-short) from *[[Troupes/Got Your Back|Got Your Back]]* on the topic of "Audition Advice for Improvisors".
 
 [[Category/Performers|Netscher]]
-[[Category/Active|Netscher]]
+Netscher
 
 __NOINDEX__

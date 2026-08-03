@@ -75,13 +75,13 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="David Harper">David Harper</a></li><!--
+  --><li style="">David Harper</li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Terrill Fischer">Terrill Fischer</a></li><!--
+  --><li style="">Terrill Fischer</li><!--
   --><!--
   --><!--
   --><!--
@@ -146,4 +146,4 @@
 	* This show (and this show only) was part of *[[Shows/The Double Barrel|The Double Barrel]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * 12/20/08
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

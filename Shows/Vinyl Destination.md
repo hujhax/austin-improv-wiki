@@ -24,11 +24,11 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Bill Stern">Bill Stern</a></li><!--
-  --><li style=""><a class="internal-link" href="Christina de Roos">Christina de Roos</a></li><!--
+  --><li style="">Christina de Roos</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Karolyn McKenzie">Karolyn McKenzie</a></li><!--
+  --><li style="">Karolyn McKenzie</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
@@ -98,4 +98,4 @@ The show was subsequently brought back for [[Festivals/The 2007 Out of Bounds Co
 ## More Information
 * [Announcement of the show run](http://forum.austinimprov.com/viewtopic.php?t=3378&p=27714) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

@@ -40,19 +40,19 @@ Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
 * [[Performers/Andreas Fabis|Andreas Fabis]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Avimaan Syam|Avimaan Syam]]
-* [[Ben Schave]]
-* [[Brandon Salinas]]
+* Ben Schave
+* Brandon Salinas
 * [[Performers/Britney Salyer|Britney Salyer]]
 * [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]]
-* [[Caitlin Reilly]]
+* Caitlin Reilly
 * [[Performers/Clay Towery|Clay Towery]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/Craig Kotfas|Craig Kotfas]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
 * [[Performers/Jason Vines|Jason Vines]]
-* [[Jennifer Micallef]]
+* Jennifer Micallef
 * [[Performers/Julie Gillis|Julie Gillis]]
-* [[Kerri Lendo]]
+* Kerri Lendo
 * [[Performers/Kyle Traughber|Kyle Traughber]]
 * [[Performers/Lauren Buck|Lauren Buck]]
 * [[Performers/Liz Brammer|Liz Brammer]]
@@ -65,6 +65,6 @@ Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
 * [[Troupes/Topping Haggerty|Topping Haggerty]]
 
 ## Artistic Associates
-* [[Chris Lucas]]
-* [[Don Swaynos]]
+* Chris Lucas
+* Don Swaynos
 * [[Performers/Jon Bolden|Jon Bolden]]

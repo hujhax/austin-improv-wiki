@@ -39,5 +39,5 @@ The show runs from 9:00pm-10:30pm, the third Sunday of every month, at [[Theatre
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13001)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

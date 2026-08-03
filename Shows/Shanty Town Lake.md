@@ -26,7 +26,7 @@
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eizabeth Brammer">Eizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style="">Justin York</li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
@@ -92,4 +92,4 @@ The show ran Fridays at 8pm from 4/2/10 to 7/31/10.
 * [Description of the show in *The Austinist*.](http://austinist.com/2010/04/02/preview_shanty_town_lake_at_coldtow.php)
 * [Facebook event for the run.](http://www.facebook.com/events/106394436050454/)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

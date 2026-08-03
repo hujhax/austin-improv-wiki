@@ -32,6 +32,6 @@
 ## Summary
 The show runs from 9:00pm to 10:00pm on Friday nights.
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
-[[Category/The New Movement|Category:The New Movement]]
+Category:Shows
+Category:Active
+Category:The New Movement

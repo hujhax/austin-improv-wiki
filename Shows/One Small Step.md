@@ -74,10 +74,10 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amanda Hinsman">Amanda Hinsman</a></li><!--
+  --><li style="">Amanda Hinsman</li><!--
   --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Chris Canada">Chris Canada</a></li><!--
+  --><li style="">Chris Canada</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Ray Goodson">Courtney Ray Goodson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
@@ -129,8 +129,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a> (sound)</li><!--
-  --><li style=""><a class="internal-link" href="Ripley Adams">Ripley Adams</a> (lights)</li><!--
+  --><li style="">Donnie Garcia (sound)</li><!--
+  --><li style="">Ripley Adams (lights)</li><!--
   --><!--
   --><!--
   --><!--
@@ -188,10 +188,10 @@
 	</table>
 </div>
 
-***One Small Step*** was the February 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. The run was extended with an extra show on March 7th. 
+***One Small Step*** was the February 2015 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. The run was extended with an extra show on March 7th. 
 
 ## Summary
-The show played its space genre in a generally straightforward way, rather than acting as a knowing sendup.  It drew from a variety of works in and around the genre, including *[[Wikipedia - Firefly (TV series)|Firefly]]*, *[[Wikipedia - The Abyss|The Abyss]]*, and (especially) *[[Wikipedia - Space Station 76|Space Station 76]]*.
+The show played its space genre in a generally straightforward way, rather than acting as a knowing sendup.  It drew from a variety of works in and around the genre, including *Firefly*, *The Abyss*, and (especially) *Space Station 76*.
 
 ### Show Structure
 The show ran approximately 75 minutes in the upstairs theater, with a ten-minute intermission.  All eight cast members played every night.
@@ -208,7 +208,7 @@ Each performance ended with the first step on the destination planet.
 Each stage performer had a uniform consisting of black clothes decorated with brightly-colored duct tape, as per their own designs.
 
 ### Tech
-The show included light scoring.  Party scenes typically had jazz/bossa nova music.  The last scene before intermission featured a slow-motion sequence set to the initial fanfare of [[Wikipedia - Also sprach Zarathustra (Strauss)|"Also Sprach Zarathustra"]].  The landing at the end of the show had appropriately dramatic orchestral sounds.
+The show included light scoring.  Party scenes typically had jazz/bossa nova music.  The last scene before intermission featured a slow-motion sequence set to the initial fanfare of "Also Sprach Zarathustra".  The landing at the end of the show had appropriately dramatic orchestral sounds.
 
 The show also included a special sound effect and thrust spotlighting for the computer-diary sequences, and appropriate sound effects for the initial countdown/takeoff.  The alarm sequence featured a klaxon sound effect, a red wash, and foreboding ambient music.
 
@@ -236,5 +236,5 @@ From hilarious moments of triumph over everyday obstacles like eating in Zero G 
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
 * [Aspen Webster's Blog entry on One Small Step](http://www.hideouttheatre.com/aspen-webster-on-one-small-step)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

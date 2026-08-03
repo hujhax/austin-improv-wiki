@@ -125,7 +125,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Catherine Arjet">Catherine Arjet</a></li><!--
+  --><li style="">Catherine Arjet</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
@@ -187,7 +187,7 @@
 ***Fakespeare*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was a slight variation on previous runs of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*.
 
 ## Summary
-*Fakespeare* included a scripted show run in July, in which *[[Wikipedia - Much Ado About Nothing|Much Ado About Nothing]]* and *[[Wikipedia - Macbeth|Macbeth]]* were presented in repertory, and then an improvised run in August, which varied from the traditional "improvise a play" format of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*, instead borrowing elements from previous [[Theatres/Hideout|Hideout]] shows such as *[[Shows/Process|Process]]*, *[[Shows/Live Nude Improv|Live Nude Improv]]*, and *[[Shows/Fandom|Fandom]]*.  The same fifteen performers put on *Much Ado About Nothing*, *Macbeth*, *and* the improvised run.
+*Fakespeare* included a scripted show run in July, in which *Much Ado About Nothing* and *Macbeth* were presented in repertory, and then an improvised run in August, which varied from the traditional "improvise a play" format of *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*, instead borrowing elements from previous [[Theatres/Hideout|Hideout]] shows such as *[[Shows/Process|Process]]*, *[[Shows/Live Nude Improv|Live Nude Improv]]*, and *[[Shows/Fandom|Fandom]]*.  The same fifteen performers put on *Much Ado About Nothing*, *Macbeth*, *and* the improvised run.
 
 [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] directed *Macbeth*.  [[Performers/Andy Crouch|Andy Crouch]] directed *Much Ado About Nothing* and improvised run, and managed the overall production.
 
@@ -233,7 +233,7 @@
 
 ## Show Dates
 ### Scripted Run
-* July 3 (Wednesday) - *Much Ado* preview at [[Wikipedia - Shakespeare at Winedale|Shakespeare at Winedale]]
+* July 3 (Wednesday) - *Much Ado* preview at Shakespeare at Winedale
 * July 5 (Friday) - *Macbeth*
 * July 6 (Saturday) - *Much Ado*
 * July 7 (Sunday) - *Macbeth*
@@ -281,5 +281,5 @@
 * [The facebook casting announcement for the show.](http://www.facebook.com/hideouttheatre/posts/10151433012633510)
 * [A post about the show](http://www.hideouttheatre.com/inside-fakespeare) by director [[Performers/Andy Crouch|Andy Crouch]] from the Hideout blog.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

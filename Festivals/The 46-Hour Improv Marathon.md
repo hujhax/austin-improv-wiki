@@ -78,7 +78,7 @@
 * Sunday 8am (hour 40): [[Troupes/The Escorts|The Escorts]]
 * Sunday 9am (hour 41): [[Troupes/Of Mice And Mostly Women|Of Mice And Mostly Women]]
 * Sunday 10am (hour 42): "Fury Road"
-	* "*[[Wikipedia - Mad Max -  Fury Road|Mad Max: Fury Road]]* was a hell of a movie, and this will be a hell of a show."
+	* "*Mad Max: Fury Road* was a hell of a movie, and this will be a hell of a show."
 * Sunday 11am (hour 43): *[[Shows/Spirited|Spirited]]*
 * Sunday 12pm (hour 44): [[Troupes/The Available Cupholders|The Available Cupholders]]
 * Sunday 1pm (hour 45): *[[Shows/Fakespeare|Fakespeare]]*
@@ -104,4 +104,4 @@
 
 ## More Information
 * [The marathon's web page.](http://www.hideouttheatre.com/shows/improvmarathon)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

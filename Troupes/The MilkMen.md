@@ -18,8 +18,8 @@
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael WIlliams">Michael WIlliams</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
+  --><li style="">Michael WIlliams</li><!--
+  --><li style="">Nick Ramirez</li><!--
   --><!--
   --><!--
   --><!--

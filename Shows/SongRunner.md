@@ -77,20 +77,20 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category">[[Content Love Knowles]]</td>
+			<td class="category">Content Love Knowles</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Creighton Moench">Creighton Moench</a></li><!--
-  --><li style=""><a class="internal-link" href="Emma Czarnecki">Emma Czarnecki</a></li><!--
-  --><li style=""><a class="internal-link" href="Haley Alea Erickson">Haley Alea Erickson</a></li><!--
+  --><li style="">Creighton Moench</li><!--
+  --><li style="">Emma Czarnecki</li><!--
+  --><li style="">Haley Alea Erickson</li><!--
   --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="John Mendell">John Mendell</a></li><!--
+  --><li style="">John Mendell</li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
-  --><li style="" ><a class="internal-link" href="Steve Jaffe">Steve Jaffe</a></li><!--
+  --><li style="" >Steve Jaffe</li><!--
   --><!--
   --><!--
   --><!--
@@ -138,7 +138,7 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
-  --><li style=""><a class="internal-link" href="Kyle Grier">Kyle Grier</a></li><!--
+  --><li style="">Kyle Grier</li><!--
   --><!--
   --><!--
   --><!--
@@ -196,10 +196,10 @@
 	</table>
 </div>
 
-***SongRunner*** was the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***SongRunner*** was the June 2015 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
-*SongRunner* was a musical set in a dystopian, sci-fi future, in which rebellious, free-spirited 'runners' were pursued by government agents intent on reducing them to emotionless drones.  The show drew on sci-fi works such as *[[Wikipedia - Blade Runner|Blade Runner]]* and *[[Wikipedia - V for Vendetta|V for Vendetta]]*.
+*SongRunner* was a musical set in a dystopian, sci-fi future, in which rebellious, free-spirited 'runners' were pursued by government agents intent on reducing them to emotionless drones.  The show drew on sci-fi works such as *Blade Runner* and *V for Vendetta*.
 
 The show opened with an introductory video made by [[Performers/Kacey Samiee|Kacey]] and [[Performers/Jordan T. Maxwell|Jordan]].
 
@@ -219,5 +219,5 @@ From the show announcement:<blockquote>"A futuristic blade-runner/cyber-punk/cyb
 ## More Information
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

@@ -318,7 +318,7 @@ This is a list of improvisors who perform or who have performed regularly in the
 * <a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a>
 * <a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a>
 * <a class="internal-link" href="Performers/Leng Wong">Leng Wong</a>
-* <a class="internal-link" href="Help-Contents">Contents</a>
+* Contents
 * <a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a>
 * <a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a>
 * <a class="internal-link" href="Performers/David Young">David Young</a>

@@ -29,7 +29,7 @@
   --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa Troxel">Teresa Troxel</a></li><!--
+  --><li style="">Teresa Troxel</li><!--
   --><!--
   --><!--
   --><!--
@@ -75,8 +75,8 @@
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
-  --><li style=""><a class="internal-link" href="Carl Ziegler">Carl Ziegler</a></li><!--
-  --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
+  --><li style="">Carl Ziegler</li><!--
+  --><li style="">John Brewster</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
   --><!--
@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Holy 1960's Batman, Batman!*** was an improvised longform narrative show inspired by [[Wikipedia - Batman (TV series)|the 1960's *Batman* TV series]].
+***Holy 1960's Batman, Batman!*** was an improvised longform narrative show inspired by the 1960's *Batman* TV series.
 
 ## Cast & Crew
 [[Performers/Deano Jones|Deano Jones]] appeared as Batman/Bruce Wayne, and [[Performers/Kaci Beeler|Kaci Beeler]] played Robin/Dick Grayson.
@@ -154,7 +154,7 @@ Each week, a guest improvisor would play the villain of the episode.  The villia
 ## History
 Early takes on the format appeared under the title "Holy Sleep Deprivation, Batman" at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] and [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 
-[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Deano Jones|Deano Jones]] appeared live on [[Wikipedia - KEYE-TV|KEYE-TV]] on 5/11/11 to promote the show.
+[[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Deano Jones|Deano Jones]] appeared live on KEYE-TV on 5/11/11 to promote the show.
 
 The show sold out all 10 weeks of its mainstage run at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Its mainstage run included appearances in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]] and [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
 
@@ -197,5 +197,5 @@ On 2/28/13, [[Performers/Eric Heiberg|Eric Heiberg]] and [[Performers/Curtis Luc
 	* [An interview](http://www.hideouttheatre.com/guest-villain-kareem-badr) with [[Performers/Kareem Badr|Kareem Badr]].
 	* [An interview](http://www.hideouttheatre.com/guest-villain-jason-vines) with [[Performers/Jason Vines|Jason Vines]].
  
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

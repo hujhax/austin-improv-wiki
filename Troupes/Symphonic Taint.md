@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Content Love Knowles">Content Love Knowles</a></li><!--
-  --><li style=""><a class="internal-link" href="David DeMaris">David DeMaris</a></li><!--
+  --><li style="">Content Love Knowles</li><!--
+  --><li style="">David DeMaris</li><!--
   --><!--
   --><!--
   --><!--
@@ -105,4 +105,4 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active

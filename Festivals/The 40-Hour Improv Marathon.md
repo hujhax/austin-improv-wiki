@@ -67,11 +67,11 @@
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129987327264.120574.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the Final Countdown (Sunday 8am).
 
 ## Other
-* [Intro video](http://youtu.be/RBv0-UyY9Oo) by [[Brian Boyko]].
+* [Intro video](http://youtu.be/RBv0-UyY9Oo) by Brian Boyko.
 
 ## More Information
 * ["The Hideout’s 40-Hour Improv Marathon a Big Success"](http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success) (blogpost at [[Theatres/The Hideout|The Hideout]]'s web site)
-* ["The Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-06-26/799086/) by [[Robert Faires]] (*The Austin Chronicle*)
-* ["Review: Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-07-03/803083/) by [[Robert Faires]] (*The Austin Chronicle*)
+* ["The Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-06-26/799086/) by Robert Faires (*The Austin Chronicle*)
+* ["Review: Hideout Improv Marathon"](http://www.austinchronicle.com/arts/2009-07-03/803083/) by Robert Faires (*The Austin Chronicle*)
 * [A post recapping the marathon.](http://www.hideouttheatre.com/the-hideouts-40-hour-improv-marathon-a-big-success)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

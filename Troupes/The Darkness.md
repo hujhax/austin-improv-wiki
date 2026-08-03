@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Chris Nicholas">Chris Nicholas</a></li><!--
-  --><li style=""><a class="internal-link" href="Content Knowles">Content Knowles</a></li><!--
-  --><li style=""><a class="internal-link" href="Ed Collins">Ed Collins</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Strackany">Justin Strackany</a></li><!--
+  --><li style="">Chris Nicholas</li><!--
+  --><li style="">Content Knowles</li><!--
+  --><li style="">Ed Collins</li><!--
+  --><li style="">Justin Strackany</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ron Morelli">Ron Morelli</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Stuart Feild">Stuart Feild</a></li><!--
   --><!--
@@ -75,7 +75,7 @@
 ## Summary
 ### Press Blurb
 Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:<blockquote>
-<p>The Darkness is a collaboration between students and alumni from [[Theatres/The New Movement|The New Movement]] and Hideout Theatres, which began after each theatre had a bat workshop held by [[Justin Strackany]] from The New Movement. </p>
+<p>The Darkness is a collaboration between students and alumni from [[Theatres/The New Movement|The New Movement]] and Hideout Theatres, which began after each theatre had a bat workshop held by Justin Strackany from The New Movement. </p>
 <p>And what is the bat? </p>
 <p>The bat is improv in the dark. </p>
 <p>No lights. </p>

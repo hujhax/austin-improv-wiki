@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="'Mike S.'">'Mike S.'</a></li><!--
-  --><li style=""><a class="internal-link" href="Delanie Liming">Delanie Liming</a></li><!--
+  --><li style="">"Mike S."</li><!--
+  --><li style="">Delanie Liming</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Ramirez">Nick Ramirez</a></li><!--
+  --><li style="">Nick Ramirez</li><!--
   --><!--
   --><!--
   --><!--

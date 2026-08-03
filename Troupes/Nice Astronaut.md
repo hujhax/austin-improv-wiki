@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Abby Lincoln">Abby Lincoln</a></li><!--
-  --><li style=""><a class="internal-link" href="AJ McKeon">AJ McKeon</a></li><!--
-  --><li style=""><a class="internal-link" href="Chaz Formichella">Chaz Formichella</a></li><!--
+  --><li style="">Abby Lincoln</li><!--
+  --><li style="">AJ McKeon</li><!--
+  --><li style="">Chaz Formichella</li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
-  --><li style=""><a class="internal-link" href="Katie Byrnes">Katie Byrnes</a></li><!--
+  --><li style="">Joseph Dailey</li><!--
+  --><li style="">Katie Byrnes</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
@@ -125,7 +125,7 @@ Nice Astronaut has performed at the following festivals
 
 ## Media
 ### Videos
-* [Video](http://youtu.be/Vih0JjV831I) by [[Brian Boyko]] of a 2009 show.
+* [Video](http://youtu.be/Vih0JjV831I) by Brian Boyko of a 2009 show.
 * [Video](http://vimeo.com/21037196) by [[Performers/Lisa Jackson|Lisa Jackson]] of their 3/12/11 "Improvioke" show.
 * [December 2011 "It's a Tolerable Existence" show.](http://vimeo.com/36009826)
 * [8/11/12 show: "Mattress Cover".](http://vimeo.com/50645379)
@@ -151,5 +151,5 @@ Nice Astronaut also hosted the short lived ["Nomad Comedy Nights"](http://blog.c
 * [Nice Astronaut on Twitter](http://twitter.com/NiceAstronaut)
 * [Interview](http://directory.libsyn.com/episode/index/id/2762592) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

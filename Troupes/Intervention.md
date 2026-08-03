@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Conner Strickland">Conner Strickland</a></li><!--
-  --><li style=""><a class="internal-link" href="Kitton Clark">Kitton Clark</a></li><!--
-  --><li style=""><a class="internal-link" href="Matthew Owens">Matthew Owens</a></li><!--
+  --><li style="">Conner Strickland</li><!--
+  --><li style="">Kitton Clark</li><!--
+  --><li style="">Matthew Owens</li><!--
   --><!--
   --><!--
   --><!--
@@ -76,4 +76,4 @@
 They played in the 7/16/14 *Cagematch*.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

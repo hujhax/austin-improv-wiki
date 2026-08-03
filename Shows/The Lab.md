@@ -35,5 +35,5 @@ The show is free to attend, and runs 9:30pm-10:30pm the third Wednesday of every
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=13626)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

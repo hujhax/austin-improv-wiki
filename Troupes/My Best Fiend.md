@@ -70,10 +70,10 @@
 	</table>
 </div>
 
-**My Best Fiend** is an improv duo that creates fake behind the scenes documentaries in the style of [[Wikipedia - Werner Herzog|Werner Herzog]]'s *[[Wikipedia - My Best Fiend|My Best Fiend]]*.
+**My Best Fiend** is an improv duo that creates fake behind the scenes documentaries in the style of Werner Herzog's *My Best Fiend*.
 
 ## Summary
-[[Performers/Chris Allen|Chris Allen]] plays genius/insane German actor [[Wikipedia - Klaus Kinski|Klaus Kinski]]; [[Performers/Andreas Fabis|Andreas Fabis]] plays director [[Wikipedia - Werner Herzog|Werner Herzog]]. Their troubled cooperation resulted in movies like *Nosferatu*, *Fitzcarraldo* and *Aguierre*. The show presents a never-before-seen glimpse into the relationship and work of these two extraordinary men on one of their "forgotten" films.
+[[Performers/Chris Allen|Chris Allen]] plays genius/insane German actor Klaus Kinski; [[Performers/Andreas Fabis|Andreas Fabis]] plays director Werner Herzog. Their troubled cooperation resulted in movies like *Nosferatu*, *Fitzcarraldo* and *Aguierre*. The show presents a never-before-seen glimpse into the relationship and work of these two extraordinary men on one of their "forgotten" films.
 
 Andreas is from Düsseldorf, Germany. He speaks German very well. Christopher is from Iowa. He took German twenty years ago in college... and tries hard to remember how to speak it while performing on stage. Andreas interprets as best as he can.
 
@@ -105,7 +105,7 @@ My Best Fiend premiered at the Hideout's *[[Shows/Free Fringe|Free Fringe]]* on 
 ## More Information
 * [My Best Fiend facebook page](http://www.facebook.com/klausandwerner)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
-[[Category/Started as a Fringe Show‎|Category:Started as a Fringe Show‎]]
+Category:Started as a Fringe Show‎

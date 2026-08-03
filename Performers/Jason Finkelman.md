@@ -27,14 +27,14 @@ Jason began performing improv after taking classes at the University of Florida 
 
 Since moving to Austin in 2010, he has appeared in *[[Shows/Rock|Rock]]* and was the show director for [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]].
 
-He is a member of Austin troupes [[Troupes/The Intentions|The Intentions]], [[Troupes/Array|Array]], [[Newsical]], and [[Troupes/The Wombmates|The Wombmates]].
+He is a member of Austin troupes [[Troupes/The Intentions|The Intentions]], [[Troupes/Array|Array]], Newsical, and [[Troupes/The Wombmates|The Wombmates]].
 
 ## Troupes
 * [[Troupes/The Intentions|The Intentions]] (2010)
 * [[Troupes/The Seven Eight Sevens|The Seven Eight Sevens]] (director) (2012)
-* [[Duck Duck Boom]] (2011)
+* Duck Duck Boom (2011)
 * [[Troupes/Array|Array]] (2013)
-* [[Newsical]] (2013)
+* Newsical (2013)
 * [[Troupes/The Wombmates|The Wombmates]] (2013)
 
 ## Shows

@@ -136,9 +136,9 @@ These are shows that have are not currently running at The Hideout Theatre -- mo
 * <a class="internal-link" href="Shows/Twilight Zoned">Twilight Zoned</a>
 * <a class="internal-link" href="Shows/The Violet Underbelly">The Violet Underbelly</a>
 * <a class="internal-link" href="Shows/The Weekender">The Weekender</a>
-* <a class="internal-link" href="Shows-What the F@$">What the F@$</a>
+* What the F@$
 * <a class="internal-link" href="Shows/The Wheel">The Wheel</a>
-* <a class="internal-link" href="Shows-Who is T. Henry Baudecliffe">Who is T. Henry Baudecliffe</a>
+* Who is T. Henry Baudecliffe
 * <a class="internal-link" href="Shows/¡Escándalo!">¡Escándalo!</a>
 
 
@@ -146,6 +146,6 @@ These are shows that have are not currently running at The Hideout Theatre -- mo
 
 ### Shows Without Pages
 These are Hideout shows that still need pages on the wiki.
-* *[[The Blank Show]]*
-* *[[Thursday Night Awesome]]*
-* *[[Slumber Party Slaughter]]*
+* *The Blank Show*
+* *Thursday Night Awesome*
+* *Slumber Party Slaughter*

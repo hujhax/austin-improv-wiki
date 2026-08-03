@@ -39,4 +39,4 @@ He took his first improv class at [[Theatres/The Institution Theater|The Institu
 
 
 [[Category/Performers|Mengesha]]
-[[Category/Active|Category:Active]]
+Category:Active

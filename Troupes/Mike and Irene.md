@@ -82,6 +82,6 @@
 ## More Information
 * [The duo's facebook page.](http://www.facebook.com/mikeandireneimprov)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

@@ -96,7 +96,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 
 ## Festivals
 * The Chicago Improv Festival
-* [[Frontera Fest]]
+* Frontera Fest
 * [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]]
 * The New Orleans Improv Festival
 * [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]]
@@ -135,7 +135,7 @@ Jessica and Kristin create a brand new fantasy story each week, using fairy tale
 * [Video of their 5/17/12 "Tomboys" show.](http://vimeo.com/42431879)
 
 ## More Information
-* [The troupe's web site](http://firthandarjet.austinimprov.com/) on [[The Austin Improv Website]].
+* [The troupe's web site](http://firthandarjet.austinimprov.com/) on The Austin Improv Website.
 * [The troupe's independent web site.](http://www.firthandarjet.com/)
 * [The troupe's facebook page.](http://www.facebook.com/FirthAndArjet)
 

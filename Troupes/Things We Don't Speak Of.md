@@ -16,8 +16,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
-  --><li style=""><a class="internal-link" href="Frank Sanchez">Frank Sanchez</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
+  --><li style="">Frank Sanchez</li><!--
+  --><li style="">Jenn Hamm</li><!--
   --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
   --><!--
   --><!--
@@ -140,5 +140,5 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

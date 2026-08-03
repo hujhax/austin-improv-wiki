@@ -24,10 +24,10 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Angie Yaeyama">Angie Yaeyama</a></li><!--
+  --><li style="">Angie Yaeyama</li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="JM Specht">JM Specht</a></li><!--
+  --><li style="">JM Specht</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
@@ -151,7 +151,7 @@ From the show announcement:<blockquote>SAVAGE SWORDS! is a swords and sorcery ad
 * 1/30/16: narrated by [[Performers/Shannon McCormick|Shannon McCormick]], featuring [[Performers/Suzanne Link|Suzanne Link]].
 * 2/6/16: narrated by [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], featuring [[Performers/Ace Manning|Ace Manning]].
 * 2/13/16: narrated by [[Performers/Jayme Ramsay|Jayme Ramsay]], featuring [[Performers/Rosemarie Frezza|Rosemarie Frezza]].
-* 2/20/16: narrated by [[J. M. Specht]], featuring [[Performers/J. R. Zambrano|J. R. Zambrano]].
+* 2/20/16: narrated by J. M. Specht, featuring [[Performers/J. R. Zambrano|J. R. Zambrano]].
 * 2/27/16: narrated by [[Performers/Roy Janik|Roy Janik]], featuring [[Performers/Shannon McCormick|Shannon McCormick]].
 
 ## Media
@@ -177,5 +177,5 @@ From the show announcement:<blockquote>SAVAGE SWORDS! is a swords and sorcery ad
 * [The show announcement](http://www.facebook.com/groups/hideouttheatre/permalink/998359810187123/) on the Hideout's facebook group.
 * [The casting announcement.](http://www.facebook.com/groups/hideouttheatre/permalink/1003211013035336/)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

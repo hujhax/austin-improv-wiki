@@ -223,12 +223,12 @@ In addition to its main run, the *Fandom* cast also performed a one-off *Buffy* 
 	* [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.4247734954364.142935.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.491315270931994.116331.221927764537414&type=3) by [[Steve Rogers]] of the 2/9/13 show (*Star Wars*).
 	* [Another photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.534632676558232.117948.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the same show.
-	* [Photoset](http://www.facebook.com/media/set/?set=a.491557640907757.116359.221927764537414&type=3) of [[Paul Marino]] as Boba Fett at the event.
+	* [Photoset](http://www.facebook.com/media/set/?set=a.491557640907757.116359.221927764537414&type=3) of Paul Marino as Boba Fett at the event.
 * [Photoset](http://www.facebook.com/media/set/?set=a.494601140603407.116693.221927764537414&type=3) by [[Steve Rogers]] of the 2/16/13 shows (*Harry Potter*).
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.540278589326974.118800.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 2/23/13 show (*Firefly*).
 
 ## More Information
 * Posts by [[Performers/Andrew Buck|Andrew Buck]]: ["Batman"](http://yesandrew.com/2013/01/19/fandom-batman/), ["The Hunger Games"](http://yesandrew.com/2013/01/27/fandom-the-hunger-games/), ["Harry Potter"](http://yesandrew.com/2013/02/17/my-personal-threefer/), [wrap-up](http://yesandrew.com/2013/02/17/fandom-wrap-up/), [further thoughts](http://yesandrew.com/2013/03/20/less-them-more-us/).
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

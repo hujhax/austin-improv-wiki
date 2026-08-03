@@ -83,4 +83,4 @@ Scott and Ryan were the only two members of [[Troupes/The Seven Eight Sevens|The
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]
-[[Category/Active|Category:Active]]
+Category:Active

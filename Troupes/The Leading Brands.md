@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
+  --><li style="">Amy McKenna</li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Mike McGill">Mike McGill</a></li><!--
+  --><li style="">James Roberts</li><!--
+  --><li style="">Mike McGill</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><!--
   --><!--

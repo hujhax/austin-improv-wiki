@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Celena Diamond Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Celena Diamond|Celena Diamond]] performing in [[ALL CAPS]] at [[Theatres/The Institution Theater|The Institution Theater]] during *[[Shows/The Triple Scoop|The Triple Scoop]]*.
+[[Performers/Celena Diamond|Celena Diamond]] performing in ALL CAPS at [[Theatres/The Institution Theater|The Institution Theater]] during *[[Shows/The Triple Scoop|The Triple Scoop]]*.
 
 Photo by [[Performers/Claudio Fox|Claudio Fox]].
 

@@ -7,7 +7,7 @@ Through this stretch of time, *The Cagematch* was not a bracketed tournament.  I
 
 ### 2005
 #### Ad Hoc Troupes
-* The Science Geeks: [[Wesley Bain]], other players
+* The Science Geeks: Wesley Bain, other players
 * Kevin [in honor of a fallen comrade]
 
 #### Matches
@@ -55,7 +55,7 @@ This was the very first Cagematch tournament.
 ### Matches
 #### Quarterfinals
 * 5/4/07: **[[Troupes/Look Cookie|Look Cookie]]** vs. unknown troupe
-	* [[Eric Seufert]] put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Troupes/Look Cookie|Look Cookie]].
+	* Eric Seufert put out repeated requests for a second team to compete against look cookie.  As of 5/1/07, no team had offered to take on [[Troupes/Look Cookie|Look Cookie]].
 * 5/11/07: **[[Troupes/A Bride Soon|A Bride Soon]]** vs. [[Troupes/JaMiGe|JaMiGe]]
 * 5/18/07: **[[Troupes/The Starter Kit|The Starter Kit]]** vs. [[Troupes/Suspicious Package|Suspicious Package]]
 * 5/25/07: [[Troupes/Firth & Arjet|Firth & Arjet]] vs. [[Troupes/The Great Toad & Chameleon Circus|The Great Toad & Chameleon Circus]]
@@ -123,7 +123,7 @@ There are no more known matches for this tournament.
 * [Championship announcement](http://forum.austinimprov.com/viewtopic.php?t=6914) on [[The Austin Improv Forums]].
 
 ## Late-2008 Tournaments
-* 8/14/08: [[Troupes/Werewolf Birthday|Werewolf Birthday]] vs. [[Troupes/Antique Limax|Antique Limax]] vs. [[Race Card]] (semifinal)
+* 8/14/08: [[Troupes/Werewolf Birthday|Werewolf Birthday]] vs. [[Troupes/Antique Limax|Antique Limax]] vs. Race Card (semifinal)
 
 This is the only known match from late 2008.
 
@@ -158,7 +158,7 @@ Nothing is known about the other two quarterfinals.
 
 #### Semifinals
 * 4/11/09: [[Troupes/Rise & Shine|Rise & Shine]] vs. **[[Troupes/Twelve Inch Integrity|Twelve Inch Integrity]]**
-* 4/18/09: [[Troupes/Ramirez and Gilstrap|Ramirez and Gilstrap]] vs. [[The P Comany!]] vs. [[Troupes/Fuck You!|Fuck You!]]
+* 4/18/09: [[Troupes/Ramirez and Gilstrap|Ramirez and Gilstrap]] vs. The P Comany! vs. [[Troupes/Fuck You!|Fuck You!]]
 
 #### Championship
 * 4/25/09: **[[Troupes/Twelve Inch Integrity|Twelve Inch Integrity]]** vs. ???
@@ -168,7 +168,7 @@ Nothing is known about the other two quarterfinals.
 
 ## 5/2/09-6/27/09 ("Slash of the Talons!")
 ### Ad Hoc Troupes
-* Blokes with Jokes: This is described as "straight in from London, [[Eric Seufert]] and friends".
+* Blokes with Jokes: This is described as "straight in from London, Eric Seufert and friends".
 
 ### Matches
 #### Quarterfinals
@@ -232,7 +232,7 @@ All that's known of the semifinals is that they were played on 6/6/13 and 6/13/1
 
 #### Exhibition
 * 10/31/09: ZombieProv vs. ???
-	* "That's My Retarded Brother" ([[Performers/Patrick Knisely|Patrick Knisely]] and [[David Meyers]]) were schedule to play against ZombieProv, but Mr. Meyers got sick that day.
+	* "That's My Retarded Brother" ([[Performers/Patrick Knisely|Patrick Knisely]] and David Meyers) were schedule to play against ZombieProv, but Mr. Meyers got sick that day.
 
 ### More Information
 * [Online bracket info.](http://www.bracketmaker.com/tmenu.cfm?tid=336345&tclass=War%20Forms%20of%20Dangerous%20Curves)
@@ -565,10 +565,10 @@ There is no record of the semifinals of this tournament.
 ## 9/4/13-10/23/13
 ### Ad Hoc Troupes
 * Camera Shy
-* The Japanese Adaptation of Happy Hour See What Happens: [[Performers/Lisa Jackson|Lisa Jackson]], [[Meredith Mae Roberts]], and several other women
+* The Japanese Adaptation of Happy Hour See What Happens: [[Performers/Lisa Jackson|Lisa Jackson]], Meredith Mae Roberts, and several other women
 * Kevin Space Jam
 * Meat Candy: Pierce Purselly's level one class.
-* Scrimshawshank Redemption: [[Brendan K. O'Grady]], others
+* Scrimshawshank Redemption: Brendan K. O'Grady, others
 * Shitload of Bears
 * Skim
 * Underground Bus

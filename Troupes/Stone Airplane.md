@@ -70,13 +70,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="April Sanchez">April Sanchez</a></li><!--
-  --><li style=""><a class="internal-link" href="Bryson Rushing">Bryson Rushing</a></li><!--
+  --><li style="">April Sanchez</li><!--
+  --><li style="">Bryson Rushing</li><!--
   --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Colin Bates">Colin Bates</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style="">Linzy Beltran</li><!--
   --><!--
   --><!--
   --><!--
@@ -130,7 +130,7 @@
 **Stone Airplane** was an improv troupe.
 
 ## History
-Stone Airplane was cast from one of the [[Merlin Works Mixers]] and performed improv inspired by the works of [[Wikipedia - Shel Silverstein|Shel Silverstein]].  At each show, an audience member selected a random Shel Silverstein poem (brought in by the cast).  The poem was read aloud, and then players identified 3-5 "facts" about the world in which that poem existed.  The players then engage in a montage set in this world.  
+Stone Airplane was cast from one of the [[Merlin Works Mixers]] and performed improv inspired by the works of Shel Silverstein.  At each show, an audience member selected a random Shel Silverstein poem (brought in by the cast).  The poem was read aloud, and then players identified 3-5 "facts" about the world in which that poem existed.  The players then engage in a montage set in this world.  
 
 Stone Airplane completed a run of shows at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] in the summer of 2012.
 

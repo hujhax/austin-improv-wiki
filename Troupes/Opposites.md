@@ -85,6 +85,6 @@ Currently, the duo performs every Wednesday at 8:00 pm at [[Theatres/The New Mov
 * [Opposites facebook page](http://www.facebook.com/OppositesComedy?ref=ts&fref=ts)
 * [Opposites website](http://www.oppositescomedy.com)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

@@ -24,7 +24,7 @@
 ## History
 Jason began studying improv at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2003 after attending a performance of *[[Shows/Maestro|Maestro]]* and participating as an audience volunteer.
 
-He founded [[Troupes/Improv For Evil|Improv For Evil]] with [[Performers/Marc Majcher|Marc Majcher]] and [[Nadine Crouch]].
+He founded [[Troupes/Improv For Evil|Improv For Evil]] with [[Performers/Marc Majcher|Marc Majcher]] and Nadine Crouch.
 
 In 2012 he had his directing debut with *[[Shows/After School Improv|After School Improv]]*.
 
@@ -56,6 +56,6 @@ A post from him about the first improv show he ever saw:<blockquote><p>I used to
 ## Media
 ### Videos
 * The ["Human Clay" show he directed](http://vimeo.com/78187121) on 6/23/13 for [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
-* [His audition video](http://youtu.be/3MG9MHm3jAo) for the makeup-artist-competition show *[[Wikipedia - Face Off (TV series)|Face Off]]*.
+* [His audition video](http://youtu.be/3MG9MHm3jAo) for the makeup-artist-competition show *Face Off*.
 
 [[Category/Performers|Vines]]

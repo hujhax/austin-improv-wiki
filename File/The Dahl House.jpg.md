@@ -5,7 +5,7 @@ Publicity image for *[[Shows/The Dahl House|The Dahl House]]*.
 
 Photo concept by [[Performers/Valerie Ward|Valerie Ward]].
 
-Photo by [[Tania Quintanilla]].
+Photo by Tania Quintanilla.
 
 Art by [[Performers/Kaci Beeler|Kaci Beeler]].
 

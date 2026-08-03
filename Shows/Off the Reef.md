@@ -10,7 +10,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="The Dougherty Arts Center">The Dougherty Arts Center</a></td>
+			<td class="category">The Dougherty Arts Center</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -22,20 +22,20 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="David Meyers">David Meyers</a></td>
+			<td class="category">David Meyers</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alyse Deller">Alyse Deller</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy Smith">Amy Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Chadwick Smith">Chadwick Smith</a></li><!--
+  --><li style="">Alyse Deller</li><!--
+  --><li style="">Amy Smith</li><!--
+  --><li style="">Chadwick Smith</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ellen Pittsford">Ellen Pittsford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenna Howard">Jenna Howard</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Overright">Jesse Overright</a></li><!--
-  --><li style="" ><a class="internal-link" href="Jessica Salinas">Jessica Salinas</a></li><!--
+  --><li style="">Jenna Howard</li><!--
+  --><li style="">Jesse Overright</li><!--
+  --><li style="" >Jessica Salinas</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
@@ -81,7 +81,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category">[[Kat Greco]]</td>
+			<td class="category">Kat Greco</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -108,4 +108,4 @@ The show's run included the following dates: 11/2/12, 11/3/12, 11/9/12, and 11/1
 ## More Information
 * [The show's web page.](http://puppetimprovproject.org/off-the-reef.html)
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=14206) on [[The Austin Improv Forums]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

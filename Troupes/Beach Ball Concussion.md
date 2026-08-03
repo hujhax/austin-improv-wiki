@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Anna Giacomo">Anna Giacomo</a></li><!--
-  --><li style=""><a class="internal-link" href="Brad Smith">Brad Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Brett Weaver">Brett Weaver</a></li><!--
+  --><li style="">Anna Giacomo</li><!--
+  --><li style="">Brad Smith</li><!--
+  --><li style="">Brett Weaver</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Noah Wright">Noah Wright</a></li><!--
-  --><li style=""><a class="internal-link" href="Patrick Yonkin">Patrick Yonkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Rhett O'Hara">Rhett O'Hara</a></li><!--
-  --><li style=""><a class="internal-link" href="Vicky Vegh">Vicky Vegh</a></li><!--
+  --><li style="">Noah Wright</li><!--
+  --><li style="">Patrick Yonkin</li><!--
+  --><li style="">Rhett O'Hara</li><!--
+  --><li style="">Vicky Vegh</li><!--
   --><!--
   --><!--
   --><!--

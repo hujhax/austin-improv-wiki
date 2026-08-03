@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrea Young">Andrea Young</a></li><!--
+  --><li style="">Andrea Young</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><!--
   --><!--
@@ -73,16 +73,16 @@
 **Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday** was an improv duo.
 
 ## Summary
-In the show, [[Andrea Young]] and [[Performers/Cody Dearing|Cody Dearing]] portrayed a popular band that everyone was very familiar with.
+In the show, Andrea Young and [[Performers/Cody Dearing|Cody Dearing]] portrayed a popular band that everyone was very familiar with.
 
 The audience would suggest songs from their back catalog to play, and the duo would improvise that song and use it as inspiration for scenes.
 
 ## History
 This was Cody's first improv group In Austin -- Andrea asked him to work with her on a project after she directed a sketch show of his called "No Astronauts Allowed".
 
-The duo played at least one *[[Shows/Cagematch|Cagematch]]* in 2006, against [[Chris Trew and Arthur Simone Sing the Songs of]].
+The duo played at least one *[[Shows/Cagematch|Cagematch]]* in 2006, against Chris Trew and Arthur Simone Sing the Songs of     .
 
-They also played the second [[See.Hear.Speak]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in 2007.
+They also played the second See.Hear.Speak at [[Theatres/Coldtowne Theater|Coldtowne Theater]] in 2007.
 
 ## More Information
 * [Announcement of one of their *CageMatch* shows](http://forum.austinimprov.com/viewtopic.php?t=1985) on [[The Austin Improv Forums]].

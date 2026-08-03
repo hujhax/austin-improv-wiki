@@ -28,7 +28,7 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 * [[Troupes/Kosher Bacon|Kosher Bacon]] 
 * [[Troupes/WIG|WIG]]
 * [[Lady Cops]]
-* [[Animalia]]
+* Animalia
 
 ## Shows
 **Limited Run:** 
@@ -36,8 +36,8 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 * *[[Shows/Off the Reef|Off the Reef]]* (2012)
 * *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]* (2016)
 * *[[Shows/Adventure PhD|Adventure PhD]]* (2016)
-* *[[The Gauntlet]]* (2017)
-* *[[God vs. the Devil]]* (2017)
+* *The Gauntlet* (2017)
+* *God vs. the Devil* (2017)
 
 **Ongoing: **
 * *[[Shows/Maestro|Maestro]]* (2011-present)
@@ -45,4 +45,4 @@ In December of 2012, she moved to the San Francisco Bay Area, and then married T
 * *[[Shows/The Monologue Jam|The Monologue Jam]]* (2016-2017)
 
 [[Category/Performers|Pizarek]]
-[[Category/Active|Pizarek]]
+Pizarek

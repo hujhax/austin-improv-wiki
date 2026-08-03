@@ -48,7 +48,7 @@ Ruby Willmann started taking improv classes after seeing a [[Troupes/Parallelogr
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]* (Host, 2011-2012)
-* *[[The Good Life]]* *(director)*
+* *The Good Life* *(director)*
 * *[[Shows/The International Improv Experience|The International Improv Experience]]*
 * *[[Shows/The New Game Project|The New Game Project]]*
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
@@ -62,4 +62,4 @@ Ruby Willmann started taking improv classes after seeing a [[Troupes/Parallelogr
 [[Category/Performers|Willmann]]
 [[Category/Teachers|Willmann]]
 [[Category/Directors|Willmann]]
-[[Category/Active|Category:Active]]
+Category:Active

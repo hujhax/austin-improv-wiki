@@ -48,7 +48,7 @@ Show #3 was [[Performers/Andy Crouch|Andy]]'s graduation show, fall 2001. I star
 
 ## Shows
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
-* *[[Slumber Party Slaughter]]*
+* *Slumber Party Slaughter*
 * *[[Shows/False Matters|False Matters]]*
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
 * *[[Shows/Cover to Cover|Cover to Cover]]*
@@ -56,7 +56,7 @@ Show #3 was [[Performers/Andy Crouch|Andy]]'s graduation show, fall 2001. I star
 * *[[Shows/Not This American Life|Not This American Life]]*
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/Fiasco|Fiasco]]* (assistant director)
-* *[[Over the Lege]]* (assistant director/performer)
+* *Over the Lege* (assistant director/performer)
 
 ## More Information
 * [Interview](http://yesandrew.com/2013/06/24/the-sunday-interview-kevin-miller-2/) by [[Performers/Andrew Buck|Andrew Buck]].

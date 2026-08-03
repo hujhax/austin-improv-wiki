@@ -99,7 +99,7 @@ Here is [[Performers/Bobby Ford|Bobby Ford]]'s explanation of the name's origin:
 * [Video](http://vimeo.com/51661337) by [[Performers/Paul Normandin|Paul Normandin]] of their 10/17/12 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Video](http://vimeo.com/55690464) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/9/12 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Video](http://vimeo.com/57209037) by [[Performers/Paul Normandin|Paul Normandin]] of their 12/23/12 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
-* [Video](http://vimeo.com/57533245) by [[Performers/Paul Normandin|Paul Normandin]] of their January 2013 performance in [[FronteraFest]].
+* [Video](http://vimeo.com/57533245) by [[Performers/Paul Normandin|Paul Normandin]] of their January 2013 performance in FronteraFest.
 * [Video](http://vimeo.com/60376143) by [[Performers/Paul Normandin|Paul Normandin]] of their 2/15/13 performance in *[[Shows/PGraph Presents|PGraph Presents]]*.
 * [Video](http://vimeo.com/61076534) by [[Performers/Paul Normandin|Paul Normandin]] of their 3/3/13 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Video](http://vimeo.com/64470434) by [[Performers/Paul Normandin|Paul Normandin]] of their 4/6/13 performance at [[Theatres/The Institution Theater|The Institution Theater]].
@@ -111,6 +111,6 @@ Here is [[Performers/Bobby Ford|Bobby Ford]]'s explanation of the name's origin:
 * [Two Guys From Yonkers debut show](http://vimeo.com/36173294)
 * [Paul Normandin's Vimeo channel](http://vimeo.com/normandin)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

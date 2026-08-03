@@ -59,4 +59,4 @@ In 2015 she moved to Paris.
 * [Interview](http://yesandrew.com/halyn-erickson/) by [[Performers/Andrew Buck|Andrew Buck]].
 
 [[Category/Performers|Erickson]]
-[[Category/Active|Category:Active]]
+Category:Active

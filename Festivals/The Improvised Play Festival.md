@@ -13,4 +13,4 @@
 ## More Info
 * [Publicity art for the 2012 Improvised Play Festival.](http://www.flickr.com/photos/hideouttheatre/sets/72157629690749871/comments/)
 * [Homepage for The Improvised Play Festival](http://www.improvisedplayfestival.com/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

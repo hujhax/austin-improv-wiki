@@ -23,16 +23,16 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
+  --><li style="">Aaron Rubin</li><!--
   --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Adam Mengesha</a></li><!--
-  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
+  --><li style="">Alex Walker</li><!--
   --><li style=""><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
-  --><li style=""><a class="internal-link" href="Donnie Garcia">Donnie Garcia</a></li><!--
+  --><li style="">Donnie Garcia</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica T. Von Schramm">Jessica T. Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Patricia Harpst">Patricia Harpst</a></li><!--
+  --><li style="">Patricia Harpst</li><!--
   --><li style="" ><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a></li><!--
-  --><li style=""><a class="internal-link" href="Trent Symmonds">Trent Symmonds</a></li><!--
+  --><li style="">Trent Symmonds</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,8 +78,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a> (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Carolina Andrade">Carolina Andrade</a> (sound)</li><!--
+  --><li style="">Bonnie Dilber (lights)</li><!--
+  --><li style="">Carolina Andrade (sound)</li><!--
   --><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***Home for the Holidays*** (original title: ***I'll Be Home for Christmas***) will be the December 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Home for the Holidays*** (original title: ***I'll Be Home for Christmas***) will be the December 2015 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb
@@ -147,5 +147,5 @@ From the show announcement:<blockquote>"In *I'll Be Home for Christmas*, the hol
 * [The show announcement](http://www.facebook.com/photo.php?fbid=10105253626207840&set=gm.826241390732300&type=1&theater) on the Hideout's facebook group.
 * [The casting announcement](https://www.facebook.com/groups/hideouttheatre/permalink/987699487919822/) on the Hideout's facebook group
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

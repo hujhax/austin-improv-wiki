@@ -39,7 +39,7 @@ The show headlined *[[Shows/The Threefer|The Threefer]]* in June 2014.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202063069321016.1073741890.1315383518&type=3) by [[Michael Yew]] that includes her 6/5/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.849934101703743.1073741876.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes her 6/12/14 performance in *[[Shows/The Threefer|The Threefer]]*.
 
-[[Category/Shows|Devil and Halyn Erickson]]
+Devil and Halyn Erickson
 [[Category/Auto-Generated Troupe Pages|Devil and Halyn Erickson]]
-[[Category/Solo Acts|Devil and Halyn Erickson]]
+Devil and Halyn Erickson
 [[Category/Troupes|Category:Troupes]]

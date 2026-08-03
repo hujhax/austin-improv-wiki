@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="K.C. Harvey-Taylor">K.C. Harvey-Taylor</a></li><!--
+  --><li style="">K.C. Harvey-Taylor</li><!--
   --><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@
 The first show released on 2/3/14, with an interview of [[Performers/Michael Jastroch|Michael Jastroch]].
 
 ## Format
-In each show, hosts [[Performers/Cody Dearing|Cody Dearing]] and [[K.C. Harvey-Taylor]] interview a local comedian. Often times the special guest performs or teachers improv, sketch or stand-up comedy. Shows begin with an open interview of a guest, and then move to a second portion where the guest is asked a standard set of seven questions. Here are those seven questions copied from Cody Dearing's notes:
+In each show, hosts [[Performers/Cody Dearing|Cody Dearing]] and K.C. Harvey-Taylor interview a local comedian. Often times the special guest performs or teachers improv, sketch or stand-up comedy. Shows begin with an open interview of a guest, and then move to a second portion where the guest is asked a standard set of seven questions. Here are those seven questions copied from Cody Dearing's notes:
 
 1. Do you have a favorite quote about [comedy, improv, writing, etc]?
 
@@ -105,5 +105,5 @@ After the standard questions segment there is typically a "commercial break" tha
 * [The podcast's LibSyn page.](http://gybpodcast.libsyn.com/webpage)
 * [The podcast's iTunes page.](http://itunes.apple.com/us/podcast/got-your-back/id813599155)
 
-[[Category/Podcasts|Category:Podcasts]]
+Category:Podcasts
 [[Category/Troupes|Category:Troupes]]

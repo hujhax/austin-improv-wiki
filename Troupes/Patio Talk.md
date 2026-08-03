@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Kasey Borger">Kasey Borger</a></li><!--
-  --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy Wright">Amy Wright</a></li><!--
+  --><li style="">Kasey Borger</li><!--
+  --><li style="">Juliet Prather</li><!--
+  --><li style="">Amy Wright</li><!--
   --><!--
   --><!--
   --><!--
@@ -139,4 +139,4 @@
 * [Interview](http://gybpodcast.libsyn.com/patio-talk-ep23-got-your-back) on *[[Troupes/Got Your Back|Got Your Back]]*.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

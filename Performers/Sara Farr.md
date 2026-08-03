@@ -106,8 +106,8 @@ A post from her about the first improv show she ever saw:<blockquote><p>A stand-
 	* *[[Shows/Puppet Fever|Puppet Fever]]*
 	* *[[Shows/Puppet Katamari|Puppet Katamari]]*
 	* *[[Shows/Trash|Trash]]*
-	* *[[Wild West Puppets]]*
+	* *Wild West Puppets*
 * *[[Shows/Seance|Seance]]*
 [[Category/Performers|Farr]]
 [[Category/Techs|Farr]]
-[[Category/Active|Category:Active]]
+Category:Active

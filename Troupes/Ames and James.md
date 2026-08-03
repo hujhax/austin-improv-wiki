@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
-  --><li style=""><a class="internal-link" href="James Roberts">James Roberts</a></li><!--
+  --><li style="">Amy McKenna</li><!--
+  --><li style="">James Roberts</li><!--
   --><!--
   --><!--
   --><!--

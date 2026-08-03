@@ -125,7 +125,7 @@ The Austin-based core cast of *History Under the Influence* is listed below, but
 * [[Performers/Aspen Webster|Aspen Webster]]
 * [[Performers/Chris Curl|Chris Curl]]
 * [[Performers/Thedward Blevins|Thedward Blevins]]
-* [[Performers/Lindsey McGowen|Lindsey McGowen]] or [[Cynthia Ward]] on tech
+* [[Performers/Lindsey McGowen|Lindsey McGowen]] or Cynthia Ward on tech
 
 ## Media
 ### Photos
@@ -146,6 +146,6 @@ The Austin-based core cast of *History Under the Influence* is listed below, but
 ## More Information
 * The [youtube series](http://www.youtube.com/user/DrunkHistory) and [Comedy Central show](http://www.cc.com/shows/drunk-history) that inspired the format.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:The Hideout Theatre

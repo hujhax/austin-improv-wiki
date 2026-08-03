@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Linzy Beltran">Linzy Beltran</a></li><!--
+  --><li style="">Linzy Beltran</li><!--
   --><!--
   --><!--
   --><!--
@@ -81,5 +81,5 @@ Minority Report highlights the vastly different personalities, backgrounds, and 
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/All-Female Troupes|Category:All-Female Troupes]]

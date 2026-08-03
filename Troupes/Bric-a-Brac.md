@@ -18,8 +18,8 @@
   --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Shannon Stott">Shannon Stott</a></li><!--
-  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
+  --><li style="">Shannon Stott</li><!--
+  --><li style="">Alex Walker</li><!--
   --><!--
   --><!--
   --><!--
@@ -107,4 +107,4 @@ Jus wait.
 * [Their facebook page.](https://www.facebook.com/officialBRICABRAC/)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

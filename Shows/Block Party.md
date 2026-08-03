@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Rob Gagnon">Rob Gagnon</a> (host)</td>
+			<td class="category">Rob Gagnon (host)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -35,5 +35,5 @@ The show runs from 9:30pm to 11:30pm on Thursday nights.
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?mc_id=10367)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

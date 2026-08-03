@@ -136,10 +136,10 @@
 ![[Strange Worlds Heroes Drawing.jpg|A drawing by [Ryan Austin](Performers/Ryan%20Austin) of the cast of heroes from *Strange Worlds*.]]
 
 
-***Strange Worlds*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] based on 30s [[Wikipedia - Pulp magazine|pulp adventure]].
+***Strange Worlds*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] based on 30s pulp adventure.
 
 ## Summary
-The show was an improvised serial anthology based in the tropes of [[Wikipedia - Pulp magazine|the pulps]] of the 30s and 40s.  The cast developed hero characters in rehearsals, and each performance featured two adventures, each featuring one of those heroes, and an shorter interstitial story ("Strange Times") that followed a reporter and cop as they investigated the blowback from those stories.
+The show was an improvised serial anthology based in the tropes of the pulps of the 30s and 40s.  The cast developed hero characters in rehearsals, and each performance featured two adventures, each featuring one of those heroes, and an shorter interstitial story ("Strange Times") that followed a reporter and cop as they investigated the blowback from those stories.
 
 The technical improvisors for the show are [[Performers/Cindy Page|Cindy Page]], [[Performers/Chad Wellington|Chad Wellington]], and [[Michael Yew]].
 
@@ -256,5 +256,5 @@ Here is [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]'s explanation of the 
 * ["Ryan Austin Vs. The Perils of Pulp"](http://www.hideouttheatre.com/ryan-austin-vs-the-perils-of-pulp): a post from [[Performers/Ryan Austin|Ryan Austin]] about the rehearsal process.
 * [Review of the closing-night show](http://yesandrew.com/2013/04/29/monday-morning-news/) by [[Performers/Andrew Buck|Andrew Buck]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

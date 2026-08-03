@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Edward Melendez">Edward Melendez</a></li><!--
+  --><li style="">Edward Melendez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
-  --><li style=""><a class="internal-link" href="Shea Scott">Shea Scott</a></li><!--
-  --><li style=""><a class="internal-link" href="Wes Gandy">Wes Gandy</a></li><!--
+  --><li style="">Shea Scott</li><!--
+  --><li style="">Wes Gandy</li><!--
   --><!--
   --><!--
   --><!--

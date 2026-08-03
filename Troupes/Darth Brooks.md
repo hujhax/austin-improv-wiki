@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ashley Blom">Ashley Blom</a></li><!--
-  --><li style=""><a class="internal-link" href="Christian Payne">Christian Payne</a></li><!--
-  --><li style=""><a class="internal-link" href="Dalton Allen">Dalton Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="James Fernandez">James Fernandez</a></li><!--
-  --><li style=""><a class="internal-link" href="Josephh Stahlman">Josephh Stahlman</a></li><!--
-  --><li style=""><a class="internal-link" href="Ronnita Miller">Ronnita Miller</a></li><!--
+  --><li style="">Ashley Blom</li><!--
+  --><li style="">Christian Payne</li><!--
+  --><li style="">Dalton Allen</li><!--
+  --><li style="">James Fernandez</li><!--
+  --><li style="">Josephh Stahlman</li><!--
+  --><li style="">Ronnita Miller</li><!--
   --><!--
   --><!--
   --><!--
@@ -88,4 +88,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

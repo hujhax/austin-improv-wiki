@@ -15,15 +15,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ann Potter">Ann Potter</a></li><!--
-  --><li style=""><a class="internal-link" href="Ashley Franks">Ashley Franks</a></li><!--
+  --><li style="">Ann Potter</li><!--
+  --><li style="">Ashley Franks</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Danny Catlow">Danny Catlow</a></li><!--
+  --><li style="">Danny Catlow</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="John Brewster">John Brewster</a></li><!--
-  --><li style=""><a class="internal-link" href="Joshua Philips">Joshua Philips</a></li><!--
+  --><li style="">John Brewster</li><!--
+  --><li style="">Joshua Philips</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
-  --><li style="" ><a class="internal-link" href="Sam Malcom">Sam Malcom</a></li><!--
+  --><li style="" >Sam Malcom</li><!--
   --><!--
   --><!--
   --><!--
@@ -81,12 +81,12 @@ Their answer to the "What's Your Deal?" question on a 2011 application to perfor
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/35515689) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the second *[[Thursday Night Social Club]]* (uploaded 1/23/12).
-* [Video](http://vimeo.com/35520324) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the third *[[Thursday Night Social Club]]* (uploaded 1/23/12).
-* [Video](http://vimeo.com/36701542) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the fourth *[[Thursday Night Social Club]]* (uploaded 2/13/12).
-* [Video](http://vimeo.com/37190908) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the sixth *[[Thursday Night Social Club]]* (uploaded 2/21/12).
-* [Video](http://vimeo.com/37084282) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the seventh *[[Thursday Night Social Club]]* (uploaded 2/19/12).
-* [Video](http://vimeo.com/37385871) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the eighth *[[Thursday Night Social Club]]* (uploaded 2/24/12).
+* [Video](http://vimeo.com/35515689) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the second *Thursday Night Social Club* (uploaded 1/23/12).
+* [Video](http://vimeo.com/35520324) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the third *Thursday Night Social Club* (uploaded 1/23/12).
+* [Video](http://vimeo.com/36701542) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the fourth *Thursday Night Social Club* (uploaded 2/13/12).
+* [Video](http://vimeo.com/37190908) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the sixth *Thursday Night Social Club* (uploaded 2/21/12).
+* [Video](http://vimeo.com/37084282) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the seventh *Thursday Night Social Club* (uploaded 2/19/12).
+* [Video](http://vimeo.com/37385871) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their performance in the eighth *Thursday Night Social Club* (uploaded 2/24/12).
 * [Video](http://vimeo.com/49200779) by [[Performers/Kyle Sweeney|Kyle Sweeney]] of their 9/8/12 show.
 
 ### Photos

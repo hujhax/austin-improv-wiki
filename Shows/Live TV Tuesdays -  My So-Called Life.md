@@ -19,12 +19,12 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ann Wilson">Ann Wilson</a></li><!--
-  --><li style=""><a class="internal-link" href="Brittany Salyer">Brittany Salyer</a></li><!--
-  --><li style=""><a class="internal-link" href="Christian Rashsalve Huey">Christian Rashsalve Huey</a></li><!--
-  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
+  --><li style="">Ann Wilson</li><!--
+  --><li style="">Brittany Salyer</li><!--
+  --><li style="">Christian Rashsalve Huey</li><!--
+  --><li style="">Christine Giordano</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Rafael Virguez">Rafael Virguez</a></li><!--
+  --><li style="">Rafael Virguez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Ted Meredith">Ted Meredith</a></li><!--
@@ -78,7 +78,7 @@
 	</table>
 </div>
 
-***Live TV Tuesdays: My So-Called Life*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the [[Wikipedia - My So-Called Life|*My So-Called Life*]] episode ["Pressure"](http://www.imdb.com/title/tt0654958/).
+***Live TV Tuesdays: My So-Called Life*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *My So-Called Life* episode ["Pressure"](http://www.imdb.com/title/tt0654958/).
 
 ## Summary
 This show was referred to as "*Teen Angst Tuesdays, Featuring *My So-Called Life".
@@ -86,15 +86,15 @@ This show was referred to as "*Teen Angst Tuesdays, Featuring *My So-Called Life
 It played exclusively at [[Theatres/The Highball|The Highball]].
 
 ## Cast
-* Angela Chase -- [[Christine Giordano]]
+* Angela Chase -- Christine Giordano
 * Jordan Catalano -- [[Performers/Kyle Traughber|Kyle Traughber]]
 * Brian Krakow -- [[Performers/Ted Meredith|Ted Meredith]] 
 * Patricia Chase/Sharon Cherski -- [[Performers/Ruby Willmann|Ruby Willmann]]
-* Graham Chase -- [[Christian Rashsalve Huey]]
+* Graham Chase -- Christian Rashsalve Huey
 * Danielle Chase -- [[Performers/Stephanie Hagemeister|Stephanie Hagemeister]]
-* Rickie Vasquez -- [[Matholomew Giles]]
-* Rayanne Graff -- [[Britany Salyer]]
-* Ensemble -- [[Ann Wilson]], [[Rafael Virguez]]
+* Rickie Vasquez -- Matholomew Giles
+* Rayanne Graff -- Britany Salyer
+* Ensemble -- Ann Wilson, Rafael Virguez
 
 ## Media
 * [Photoset of the 6/21/11 performance.](http://www.facebook.com/media/set/?set=a.10150272583409090.354543.273514734089&type=3)
@@ -104,4 +104,4 @@ It played exclusively at [[Theatres/The Highball|The Highball]].
 ## More Information
 * [Facebook event for one of the performances.](http://www.facebook.com/events/222767514422626/)
 * The original TV episode, on youtube in five parts: [1](http://youtu.be/QieSD2QBnFA), [2](http://youtu.be/-p6h6UQ8HPY), [3](http://youtu.be/b4bQPYzLHPY), [4](http://youtu.be/8hpc7H6qfJA), [5](http://youtu.be/JzHXDhsTOFw).
-[[Category/Shows|Category:Shows]]
+Category:Shows

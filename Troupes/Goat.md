@@ -86,9 +86,9 @@ Goat takes its name from the Greek word *tragos*, which means "goat" and is the 
 * [[Performers/Sam Schak|Sam Schak]]
 ## Former members
 * [[Performers/Alexander Hilary|Alexander Hilary]]
-* [[Indigo Rael]]
-* [[Amber Shae]]
-* [[John Brewster]]
+* Indigo Rael
+* Amber Shae
+* John Brewster
 * [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]
 
 ## Festivals
@@ -121,5 +121,5 @@ Goat has appeared in the following festivals:
 * [Goat's Facebook Page](http://facebook.com/goatimprov)
 * [Goat's Vimeo Channel](http://vimeo.com/channels/307618)
 
-[[Category/Inactive|Category:Inactive]]
+Category:Inactive
 [[Category/Troupes|Category:Troupes]]

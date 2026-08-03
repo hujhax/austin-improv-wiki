@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Doug Pena">Doug Pena</a></li><!--
-  --><li style=""><a class="internal-link" href="Greg Spencer">Greg Spencer</a></li><!--
+  --><li style="">Doug Pena</li><!--
+  --><li style="">Greg Spencer</li><!--
   --><li style=""><a class="internal-link" href="Performers/Phil Aulie">Phil Aulie</a></li><!--
   --><!--
   --><!--

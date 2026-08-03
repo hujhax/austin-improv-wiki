@@ -14,7 +14,7 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Joe Faina">Joe Faina</a> (host)</td>
+			<td class="category">Joe Faina (host)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -35,5 +35,5 @@ The show consists of sets of prepared stand-up material, followed by improviesed
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?cid=all&mc_id=13123)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

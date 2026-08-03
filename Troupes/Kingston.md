@@ -19,8 +19,8 @@
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
-  --><li style=""><a class="internal-link" href="Jillian Besemer">Jillian Besemer</a></li><!--
-  --><li style=""><a class="internal-link" href="Lane Ingram">Lane Ingram</a></li><!--
+  --><li style="">Jillian Besemer</li><!--
+  --><li style="">Lane Ingram</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
@@ -91,4 +91,4 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

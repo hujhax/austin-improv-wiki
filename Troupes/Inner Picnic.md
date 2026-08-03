@@ -20,8 +20,8 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
-  --><li style=""><a class="internal-link" href="Brian Bonnet">Brian Bonnet</a></li><!--
-  --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
+  --><li style="">Brian Bonnet</li><!--
+  --><li style="">Catherine Grady</li><!--
   --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
@@ -77,5 +77,5 @@
 Inner Picnic writes and performs [Neo-Futurist](https://en.wikipedia.org/wiki/Neo-Futurists) inspired short plays.
 
 ### Shows
-* *[[The Fourth Wall is Behind You]]* — FronteraFest Short Fringe (2017)
+* *The Fourth Wall is Behind You* — FronteraFest Short Fringe (2017)
 [[Category/Troupes|Category:Troupes]]

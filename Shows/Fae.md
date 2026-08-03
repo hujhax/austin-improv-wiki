@@ -32,4 +32,4 @@
 </div>
 
 ***Fae*** is an upcoming show from the [[Puppet Improv Project]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

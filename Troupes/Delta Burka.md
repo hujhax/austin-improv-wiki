@@ -15,11 +15,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Britt Wright">Britt Wright</a></li><!--
-  --><li style=""><a class="internal-link" href="Danu Uribe">Danu Uribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Domangue">Michael Domangue</a></li><!--
-  --><li style=""><a class="internal-link" href="Mike Breese">Mike Breese</a></li><!--
-  --><li style=""><a class="internal-link" href="Vanessa Gonzalez">Vanessa Gonzalez</a></li><!--
+  --><li style="">Britt Wright</li><!--
+  --><li style="">Danu Uribe</li><!--
+  --><li style="">Michael Domangue</li><!--
+  --><li style="">Mike Breese</li><!--
+  --><li style="">Vanessa Gonzalez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--

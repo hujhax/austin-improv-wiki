@@ -17,12 +17,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Robinson">Andrew Robinson</a></li><!--
+  --><li style="">Andrew Robinson</li><!--
   --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Marv Pratt">Marv Pratt</a></li><!--
-  --><li style=""><a class="internal-link" href="Regina Soto">Regina Soto</a></li><!--
+  --><li style="">Marv Pratt</li><!--
+  --><li style="">Regina Soto</li><!--
   --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
@@ -104,5 +104,5 @@ They perform a Harold.
 * [The troupe's facebook page.](http://www.facebook.com/iScreamSandwich)
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2191988) with the troupe on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

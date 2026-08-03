@@ -43,5 +43,5 @@ Highly Suggestible runs the second Saturday of every month at the Institution Th
 ## More Information
 * [The show's page on the Institution Theater site.](http://www.theinstitutiontheater.com/shows/129/highly-suggestible-improv)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Institution Theater|Category:The Institution Theater]]
+Category:Shows
+Category:The Institution Theater

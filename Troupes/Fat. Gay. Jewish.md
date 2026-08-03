@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Britain Spellings">Britain Spellings</a></li><!--
-  --><li style=""><a class="internal-link" href="George Benedele">George Benedele</a></li><!--
+  --><li style="">Britain Spellings</li><!--
+  --><li style="">George Benedele</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--

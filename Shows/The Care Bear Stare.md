@@ -151,5 +151,5 @@ The show was brought back for the [[Festivals/The 45-Hour Improv Marathon|The 45
 ## More Information
 * The [characters](http://en.wikipedia.org/wiki/Care_Bears) that inspired the format.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

@@ -15,12 +15,12 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
-  --><li style=""><a class="internal-link" href="James Sweeney">James Sweeney</a></li><!--
+  --><li style="">Brent Foshee</li><!--
+  --><li style="">James Sweeney</li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Russo">Stephanie Russo</a></li><!--
+  --><li style="">Stephanie Russo</li><!--
   --><!--
   --><!--
   --><!--

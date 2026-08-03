@@ -76,5 +76,5 @@
 They played one *[[Shows/Cagematch|Cagematch]]* on 8/14/08, and one on 3/20/13.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

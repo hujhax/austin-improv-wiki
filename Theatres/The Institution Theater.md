@@ -45,7 +45,7 @@ In 2014, the Institution expanded into a second space, just across the parking l
 
 ### Mainstage Productions
 * *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*
-* *[[Bitterfest]]*
+* *Bitterfest*
 * *[[Shows/Boys of Summer|Boys of Summer]]*
 * *[[Shows/Buzz Band|Buzz Band]]*
 * *[[Shows/Danger|Danger]]*
@@ -74,4 +74,4 @@ In 2014, the Institution expanded into a second space, just across the parking l
 
 ## More Information
 * [Post about the theater](http://yesandrew.com/2014/03/26/austin-improv-theaters-as-modern-american-humorists-day-3-the-institution/) by [[Performers/Andrew Buck|Andrew Buck]].
-[[Category/Theatres|Category:Theatres]]
+Category:Theatres

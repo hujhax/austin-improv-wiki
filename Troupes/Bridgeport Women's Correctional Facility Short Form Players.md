@@ -23,8 +23,8 @@
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Jen Cargill">Jen Cargill</a></li><!--
-  --><li style=""><a class="internal-link" href="Jill Morris">Jill Morris</a></li><!--
+  --><li style="">Jen Cargill</li><!--
+  --><li style="">Jill Morris</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
@@ -84,12 +84,12 @@ In their 2006-2007 performances (see below), they played sets usually lasting tw
 The troupe prepared for the performance runs by, among other things, developing their "prisoner" personas and rehearsing stage combat.
 
 ## History
-[[Performers/Erika May McNichol|Erika May McNichol]] came up with the idea for the troupe while living in Chicago, after seeing *[[Wikipedia - Switchblade Sisters|Switchblade Sisters]]*.  She also drew inspiration from the 1980s promotional TV show [[Wikipedia - Gorgeous Ladies of Wrestling|Gorgeous Ladies of Wrestling]].
+[[Performers/Erika May McNichol|Erika May McNichol]] came up with the idea for the troupe while living in Chicago, after seeing *Switchblade Sisters*.  She also drew inspiration from the 1980s promotional TV show Gorgeous Ladies of Wrestling.
 
 The troupe debuted in *[[Shows/The Cagematch|The Cagematch]]* on 7/14/06 with the following cast:
 * [[Performers/Erika May|Erika May]]
-* [[Jen Cargill]]
-* [[Jill Morris]]
+* Jen Cargill
+* Jill Morris
 * [[Performers/Kaci Beeler|Kaci Beeler]]
 * [[Pseudonyms|Madeline M.]]
 * [[Performers/Rachel Madorsky|Rachel Madorsky]]

@@ -14,7 +14,7 @@ Its advertising and art were themed around Soviet Russia.
 * [[Troupes/Hoover's Blanket|Hoover's Blanket]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
 * [[Troupes/Junk|Junk]]
-* [[Latino Comedy Project]]
+* Latino Comedy Project
 * [[Troupes/Look Cookie|Look Cookie]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
 * [[Troupes/The Frank Mills|The Frank Mills]]
@@ -54,4 +54,4 @@ Its advertising and art were themed around Soviet Russia.
 
 ## More Information
 * [The 2007 Out of Bounds web site.](http://www.outofboundsimprov.com/2007/home07.html)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

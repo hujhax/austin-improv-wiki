@@ -40,4 +40,4 @@ It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Perfor
 ## More Information
 * [The festival website.](http://www.improvisedplayfestival.com/)
 * [Apply to the 2014 Festival](http://www.improvisedplayfestival.com/apply/)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

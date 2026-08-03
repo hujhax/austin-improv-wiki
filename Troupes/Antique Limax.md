@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Javier Smith">Javier Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Shawn Davis">Shawn Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Wesley Reynolds">Wesley Reynolds</a></li><!--
-  --><li style=""><a class="internal-link" href="Zach Petticord">Zach Petticord</a></li><!--
+  --><li style="">Javier Smith</li><!--
+  --><li style="">Shawn Davis</li><!--
+  --><li style="">Wesley Reynolds</li><!--
+  --><li style="">Zach Petticord</li><!--
   --><!--
   --><!--
   --><!--

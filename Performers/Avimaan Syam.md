@@ -31,7 +31,7 @@ In 2012, he moved away to Los Angeles.
 * [[Troupes/The Love Notes|The Love Notes]]
 
 ## Shows
-* *[[69 Love Scenes]]*
+* *69 Love Scenes*
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
 * *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Heist!|Heist!]]*

@@ -18,8 +18,8 @@
   --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael James Williams">Michael James Williams</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Rousso">Stephanie Rousso</a></li><!--
+  --><li style="">Michael James Williams</li><!--
+  --><li style="">Stephanie Rousso</li><!--
   --><!--
   --><!--
   --><!--

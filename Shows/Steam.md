@@ -25,14 +25,14 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Brady James">Brady James</a></li><!--
+  --><li style="">Brady James</li><!--
   --><li style=""><a class="internal-link" href="Performers/Elizabeth Brammer">Elizabeth Brammer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Gricelda Silva">Gricelda Silva</a></li><!--
+  --><li style="">Gricelda Silva</li><!--
   --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style="" ><a class="internal-link" href="Jeff Mills">Jeff Mills</a></li><!--
-  --><li style=""><a class="internal-link" href="Joel Osborne">Joel Osborne</a></li><!--
+  --><li style="" >Jeff Mills</li><!--
+  --><li style="">Joel Osborne</li><!--
   --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
@@ -92,20 +92,20 @@ Like *[[Shows/Showdown|Showdown]]*, *Steam* was a serialized narrative, with ten
 * [[Performers/Julie Gillis|Julie Gillis]] as "The Duchess," Lady Electra Spencer
 * [[Performers/Emily Breedlove|Emily Breedlove]] as "The Amazon," Yvette Cloud
 * [[Performers/Elizabeth Brammer|Elizabeth Brammer]] as "The Ingenue," Adelaide McKenna
-* [[Gricelda Silva]] as "The Pixie," Leto
+* Gricelda Silva as "The Pixie," Leto
 * [[Performers/Aaron Walther|Aaron Walther]] as "The Rogue," Captain Hamwich Leon
-* [[Brady James]] as "The Young Adventurer," Benjamin Cumberbatch
+* Brady James as "The Young Adventurer," Benjamin Cumberbatch
 * [[Performers/Marc Majcher|Marc Majcher]] as "The Veteran," Colonel Solomon Fitzgerald
-* [[Jeff Mills]] as "The Reluctant Hero," Barnaby Jones
+* Jeff Mills as "The Reluctant Hero," Barnaby Jones
 * [[Performers/Kevin Miller|Kevin Miller]] as "The Engineer," Joshua Mew
 
 ### "The Machine" (supporting cast)
-* [[Ashlee Medlin]] as Bolt
+* Ashlee Medlin as Bolt
 * [[Performers/Howard Katz|Howard Katz]] as Gear Shift
-* [[Joel Osborne]] as Leather Strap
+* Joel Osborne as Leather Strap
 * [[Performers/Jayme Ramsay|Jayme Ramsay]] as Crank
 * [[Performers/Leng Wong|Leng Wong]] as Alloysia
-* [[Ashley Lowe]] as Lily Sabine
+* Ashley Lowe as Lily Sabine
 
 ## Episode Summaries
 * [[Steam – First Night]]
@@ -157,4 +157,4 @@ Like *[[Shows/Showdown|Showdown]]*, *Steam* was a serialized narrative, with ten
 ### Publicity
 * [Character photoset](http://www.facebook.com/media/set/?set=a.273249729405217.69252.221927764537414&type=3) by [[Steve Rogers]].
 
-[[Category/Shows|Steam]]
+Steam

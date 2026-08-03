@@ -15,7 +15,7 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Carpenter">Amy Carpenter</a></li><!--
+  --><li style="">Amy Carpenter</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristen Kurtis">Kristen Kurtis</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
@@ -81,4 +81,4 @@ Their answer to the "What's Your Deal?" question on a 2015 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

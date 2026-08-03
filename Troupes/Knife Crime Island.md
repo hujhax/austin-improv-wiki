@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Leah Nobel">Leah Nobel</a></li><!--
-  --><li style=""><a class="internal-link" href="Matthew Stoner">Matthew Stoner</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Coker">Sarah Coker</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephen Husmann">Stephen Husmann</a></li><!--
+  --><li style="">Leah Nobel</li><!--
+  --><li style="">Matthew Stoner</li><!--
+  --><li style="">Sarah Coker</li><!--
+  --><li style="">Stephen Husmann</li><!--
   --><!--
   --><!--
   --><!--

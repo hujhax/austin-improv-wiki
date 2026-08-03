@@ -34,7 +34,7 @@
 * [[Troupes/Tom Does The Good Work|Tom Does The Good Work]]
 * [[Troupes/Character Explosion|Character Explosion]] (Former Member)
 * [[Troupes/Boomerang|Boomerang]]
-* [[Caspen]]
+* Caspen
 * [[Troupes/Channel 2|Channel 2]]
 
 [[Category/Performers|Ortiz]]

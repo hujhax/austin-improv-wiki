@@ -56,4 +56,4 @@ In the Spring of 2018, Trew and Nelson transferred ownership of the Austin theat
 ## More Information
 * [Post about the theater](http://yesandrew.com/2014/03/28/austin-improv-theaters-as-modern-american-humorists-day-5-the-new-movement/) by [[Performers/Andrew Buck|Andrew Buck]].
 * [Article about TNM ATX](https://austinot.com/the-new-movement-shows/) by Kelli McDonald.
-[[Category/Theatres|Category:Theatres]]
+Category:Theatres

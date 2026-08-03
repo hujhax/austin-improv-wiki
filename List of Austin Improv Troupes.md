@@ -6,7 +6,7 @@ These troupes are currently performing in Austin.
 
 
 * <a class="internal-link" href="Troupes/20 Years and Counting">20 Years and Counting</a>
-* <a class="internal-link" href="Troupes-7-10 Split">7-10 Split</a>
+* 7-10 Split
 * <a class="internal-link" href="Troupes/Adventure Squad!">Adventure Squad!</a>
 * <a class="internal-link" href="Troupes/The Amazon and The Milksop">The Amazon and The Milksop</a>
 * <a class="internal-link" href="Troupes/An Englishman and a Belle">An Englishman and a Belle</a>
@@ -14,7 +14,7 @@ These troupes are currently performing in Austin.
 * <a class="internal-link" href="Troupes/Array">Array</a>
 * <a class="internal-link" href="Troupes/Au Pair">Au Pair</a>
 * <a class="internal-link" href="Troupes/Aunt Diane">Aunt Diane</a>
-* <a class="internal-link" href="Troupes-Austin-Austin">Austin-Austin</a>
+* Austin-Austin
 * <a class="internal-link" href="Troupes/Available Cupholders">Available Cupholders</a>
 * <a class="internal-link" href="Troupes/The Awkwards">The Awkwards</a>
 * <a class="internal-link" href="Troupes/B-Team">B-Team</a>
@@ -38,7 +38,7 @@ These troupes are currently performing in Austin.
 * <a class="internal-link" href="Troupes/Character Explosion">Character Explosion</a>
 * <a class="internal-link" href="Troupes/Cheap Date">Cheap Date</a>
 * <a class="internal-link" href="Troupes/Chips & Queso">Chips & Queso</a>
-* <a class="internal-link" href="Troupes-Chris Kyle - American Improvisers">Chris Kyle -  American Improvisers</a>
+* Chris Kyle -  American Improvisers
 * <a class="internal-link" href="Troupes/Collective Alibi">Collective Alibi</a>
 * <a class="internal-link" href="Troupes/Concrete">Concrete</a>
 * <a class="internal-link" href="Troupes/Confidence Men">Confidence Men</a>
@@ -64,11 +64,11 @@ These troupes are currently performing in Austin.
 * <a class="internal-link" href="Troupes/Felix">Felix</a>
 * <a class="internal-link" href="Troupes/Field Day">Field Day</a>
 * <a class="internal-link" href="Troupes/Four Stories Tall">Four Stories Tall</a>
-* <a class="internal-link" href="Help-Contents">Contents</a>
+* Contents
 * <a class="internal-link" href="Troupes/The Frank Mills">The Frank Mills</a>
 * <a class="internal-link" href="Troupes/Franz & Dave">Franz & Dave</a>
 * <a class="internal-link" href="Troupes/Furiously Missing">Furiously Missing</a>
-* <a class="internal-link" href="Troupes-G.O.O.F.S">G.O.O.F.S</a>
+* G.O.O.F.S
 * <a class="internal-link" href="Troupes/Galactic">Galactic</a>
 * <a class="internal-link" href="Troupes/Ganymede">Ganymede</a>
 * <a class="internal-link" href="Troupes/Get Up">Get Up</a>
@@ -205,9 +205,9 @@ These troupes are currently performing in Austin.
 * <a class="internal-link" href="Troupes/Waterpark">Waterpark</a>
 * <a class="internal-link" href="Troupes/We're Here to Date Your Daughter">We're Here to Date Your Daughter</a>
 * <a class="internal-link" href="Troupes/Werewolf Birthday">Werewolf Birthday</a>
-* <a class="internal-link" href="Troupes-What's the Story, Steve">What's the Story, Steve</a>
-* <a class="internal-link" href="Troupes-Who Dack">Who Dack</a>
-* <a class="internal-link" href="Troupes-Who Wants Attention!">Who Wants Attention!</a>
+* What's the Story, Steve
+* Who Dack
+* Who Wants Attention!
 * <a class="internal-link" href="Troupes/WIG">WIG</a>
 * <a class="internal-link" href="Troupes/Wink Planet">Wink Planet</a>
 * <a class="internal-link" href="Troupes/Wish You Were Beer">Wish You Were Beer</a>
@@ -227,13 +227,13 @@ Of those troupes, the following are duos:
 
 
 * <a class="internal-link" href="Troupes/20 Years and Counting">20 Years and Counting</a>
-* <a class="internal-link" href="Troupes-7-10 Split">7-10 Split</a>
+* 7-10 Split
 * <a class="internal-link" href="Troupes/Adventure Squad!">Adventure Squad!</a>
 * <a class="internal-link" href="Troupes/The Amazon and The Milksop">The Amazon and The Milksop</a>
 * <a class="internal-link" href="Troupes/An Englishman and a Belle">An Englishman and a Belle</a>
 * <a class="internal-link" href="Troupes/Andrew & Jeremy Hypnotize Each Other!">Andrew & Jeremy Hypnotize Each Other!</a>
 * <a class="internal-link" href="Troupes/Au Pair">Au Pair</a>
-* <a class="internal-link" href="Troupes-Austin-Austin">Austin-Austin</a>
+* Austin-Austin
 * <a class="internal-link" href="Troupes/Ball&Chain">Ball&Chain</a>
 * <a class="internal-link" href="Troupes/Baxter and Bernard">Baxter and Bernard</a>
 * <a class="internal-link" href="Troupes/The Better Half">The Better Half</a>
@@ -243,7 +243,7 @@ Of those troupes, the following are duos:
 * <a class="internal-link" href="Troupes/Butter">Butter</a>
 * <a class="internal-link" href="Troupes/Cascade">Cascade</a>
 * <a class="internal-link" href="Troupes/Chips & Queso">Chips & Queso</a>
-* <a class="internal-link" href="Troupes-Chris Kyle - American Improvisers">Chris Kyle -  American Improvisers</a>
+* Chris Kyle -  American Improvisers
 * <a class="internal-link" href="Troupes/The Couchsurfers">The Couchsurfers</a>
 * <a class="internal-link" href="Troupes/Danger! Warning! Improv!">Danger! Warning! Improv!</a>
 * <a class="internal-link" href="Troupes/Déclassé">Déclassé</a>
@@ -315,7 +315,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/3">3</a>
 * <a class="internal-link" href="Troupes/The $3 Bills">The $3 Bills</a>
 * <a class="internal-link" href="Troupes/3, 2, 1, Kill!">3, 2, 1, Kill!</a>
-* <a class="internal-link" href="Troupes-7-10 Split">7-10 Split</a>
+* 7-10 Split
 * <a class="internal-link" href="Troupes/Abstract Rainbow">Abstract Rainbow</a>
 * <a class="internal-link" href="Troupes/Achatina Achatina">Achatina Achatina</a>
 * <a class="internal-link" href="Troupes/The Actors">The Actors</a>
@@ -341,7 +341,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Au Pair">Au Pair</a>
 * <a class="internal-link" href="Troupes/Aunt Diane">Aunt Diane</a>
 * <a class="internal-link" href="Troupes/Austin Playback Theatre">Austin Playback Theatre</a>
-* <a class="internal-link" href="Troupes-Austin-Austin">Austin-Austin</a>
+* Austin-Austin
 * <a class="internal-link" href="Troupes/Available Cupholders">Available Cupholders</a>
 * <a class="internal-link" href="Troupes/The Awkwards">The Awkwards</a>
 * <a class="internal-link" href="Troupes/Awww, Shit!">Awww, Shit!</a>
@@ -408,7 +408,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Checkbook">Checkbook</a>
 * <a class="internal-link" href="Troupes/Chips & Queso">Chips & Queso</a>
 * <a class="internal-link" href="Troupes/Chris & Kaci">Chris & Kaci</a>
-* <a class="internal-link" href="Troupes-Chris Kyle - American Improvisers">Chris Kyle -  American Improvisers</a>
+* Chris Kyle -  American Improvisers
 * <a class="internal-link" href="Troupes/Chronobear">Chronobear</a>
 * <a class="internal-link" href="Troupes/Church Potluck">Church Potluck</a>
 * <a class="internal-link" href="Troupes/ChuTopp">ChuTopp</a>
@@ -464,11 +464,11 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/DJ Danger Dad">DJ Danger Dad</a>
 * <a class="internal-link" href="Troupes/DJ Dubb and the Tripspinnaz">DJ Dubb and the Tripspinnaz</a>
 * <a class="internal-link" href="Troupes/DLT">DLT</a>
-* <a class="internal-link" href="Troupes-Do You Still Want to Do This">Do You Still Want to Do This</a>
+* Do You Still Want to Do This
 * <a class="internal-link" href="Troupes/Doin' Maintenance">Doin' Maintenance</a>
 * <a class="internal-link" href="Troupes/Don't Forget Kimberly">Don't Forget Kimberly</a>
 * <a class="internal-link" href="Troupes/Double Dutch">Double Dutch</a>
-* <a class="internal-link" href="Troupes-Dragons">Dragons</a>
+* Dragons
 * <a class="internal-link" href="Troupes/Drinkies Galore">Drinkies Galore</a>
 * <a class="internal-link" href="Troupes/Dry Weave">Dry Weave</a>
 * <a class="internal-link" href="Troupes/Dudeprov">Dudeprov</a>
@@ -495,7 +495,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/The Fancy Saucers">The Fancy Saucers</a>
 * <a class="internal-link" href="Troupes/Fart Clown Glasses">Fart Clown Glasses</a>
 * <a class="internal-link" href="Troupes/Faster, Robot! Kill! Kill!">Faster, Robot! Kill! Kill!</a>
-* <a class="internal-link" href="Troupes-Fat. Gay. Jewish">Fat. Gay. Jewish</a>
+* Fat. Gay. Jewish
 * <a class="internal-link" href="Troupes/Fatbuckle">Fatbuckle</a>
 * <a class="internal-link" href="Troupes/Felix">Felix</a>
 * <a class="internal-link" href="Troupes/Field Day">Field Day</a>
@@ -512,13 +512,13 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Fox Paws">Fox Paws</a>
 * <a class="internal-link" href="Troupes/FoxHound">FoxHound</a>
 * <a class="internal-link" href="Troupes/Franco">Franco</a>
-* <a class="internal-link" href="Help-Contents">Contents</a>
+* Contents
 * <a class="internal-link" href="Troupes/The Frank Mills">The Frank Mills</a>
 * <a class="internal-link" href="Troupes/Franz & Dave">Franz & Dave</a>
 * <a class="internal-link" href="Troupes/FredProv">FredProv</a>
 * <a class="internal-link" href="Troupes/Frogtown Hollow Jubilee Jugband">Frogtown Hollow Jubilee Jugband</a>
 * <a class="internal-link" href="Troupes/Furiously Missing">Furiously Missing</a>
-* <a class="internal-link" href="Troupes-G.O.O.F.S">G.O.O.F.S</a>
+* G.O.O.F.S
 * <a class="internal-link" href="Troupes/Galactic">Galactic</a>
 * <a class="internal-link" href="Troupes/Gang Bang">Gang Bang</a>
 * <a class="internal-link" href="Troupes/Ganymede">Ganymede</a>
@@ -592,7 +592,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/IPhone the Musical">IPhone the Musical</a>
 * <a class="internal-link" href="Troupes/IScream Sandwich">IScream Sandwich</a>
 * <a class="internal-link" href="Troupes/The Itsy Bitsy Riot">The Itsy Bitsy Riot</a>
-* <a class="internal-link" href="Troupes-J-K">J-K</a>
+* J-K
 * <a class="internal-link" href="Troupes/Jacks">Jacks</a>
 * <a class="internal-link" href="Troupes/The Jackson May Experience">The Jackson May Experience</a>
 * <a class="internal-link" href="Troupes/JaMiGe">JaMiGe</a>
@@ -616,7 +616,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Knife Crime Island">Knife Crime Island</a>
 * <a class="internal-link" href="Troupes/The Known Wizards">The Known Wizards</a>
 * <a class="internal-link" href="Troupes/The Knuckleball Now">The Knuckleball Now</a>
-* <a class="internal-link" href="Troupes-Kopp & Buddy - Buddy Cops">Kopp & Buddy -  Buddy Cops</a>
+* Kopp & Buddy -  Buddy Cops
 * <a class="internal-link" href="Troupes/Kosher Bacon">Kosher Bacon</a>
 * <a class="internal-link" href="Troupes/La Ronde">La Ronde</a>
 * <a class="internal-link" href="Troupes/The Ladies">The Ladies</a>
@@ -674,9 +674,9 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Monster">Monster</a>
 * <a class="internal-link" href="Troupes/Moondogg">Moondogg</a>
 * <a class="internal-link" href="Troupes/Moonsault">Moonsault</a>
-* <a class="internal-link" href="Troupes-Mother Fing Action Heroes!">Mother Fing Action Heroes!</a>
+* Mother Fing Action Heroes!
 * <a class="internal-link" href="Troupes/Mother Punch">Mother Punch</a>
-* <a class="internal-link" href="Troupes-Movie - The Movie">Movie -  The Movie</a>
+* Movie -  The Movie
 * <a class="internal-link" href="Troupes/Movie Meat">Movie Meat</a>
 * <a class="internal-link" href="Troupes/Mr. and Mrs. Danger">Mr. and Mrs. Danger</a>
 * <a class="internal-link" href="Troupes/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday">Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday</a>
@@ -825,7 +825,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Straight Blades">Straight Blades</a>
 * <a class="internal-link" href="Troupes/Straight Men">Straight Men</a>
 * <a class="internal-link" href="Troupes/Strategery">Strategery</a>
-* <a class="internal-link" href="Troupes-Subject - Object">Subject -  Object</a>
+* Subject -  Object
 * <a class="internal-link" href="Troupes/Sugarbakers">Sugarbakers</a>
 * <a class="internal-link" href="Troupes/Sui Generis">Sui Generis</a>
 * <a class="internal-link" href="Troupes/Super Sweet">Super Sweet</a>
@@ -883,7 +883,7 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Two Guys from Yonkers">Two Guys from Yonkers</a>
 * <a class="internal-link" href="Troupes/Two Man Polanski">Two Man Polanski</a>
 * <a class="internal-link" href="Troupes/Two Minute Brother">Two Minute Brother</a>
-* <a class="internal-link" href="Troupes-Two-Thousand and Fun - An Improv Odyssey">Two-Thousand and Fun -  An Improv Odyssey</a>
+* Two-Thousand and Fun -  An Improv Odyssey
 * <a class="internal-link" href="Troupes/Umami">Umami</a>
 * <a class="internal-link" href="Troupes/Uncle Dan">Uncle Dan</a>
 * <a class="internal-link" href="Troupes/Unfurled">Unfurled</a>
@@ -900,9 +900,9 @@ These troupes are no longer performing in Austin (though some may perform rare "
 * <a class="internal-link" href="Troupes/Well Hung Jury">Well Hung Jury</a>
 * <a class="internal-link" href="Troupes/Werewolf Birthday">Werewolf Birthday</a>
 * <a class="internal-link" href="Troupes/Whalehouse">Whalehouse</a>
-* <a class="internal-link" href="Troupes-What's the Story, Steve">What's the Story, Steve</a>
-* <a class="internal-link" href="Troupes-Who Dack">Who Dack</a>
-* <a class="internal-link" href="Troupes-Who Wants Attention!">Who Wants Attention!</a>
+* What's the Story, Steve
+* Who Dack
+* Who Wants Attention!
 * <a class="internal-link" href="Troupes/WIG">WIG</a>
 * <a class="internal-link" href="Troupes/The Wine Smugglers">The Wine Smugglers</a>
 * <a class="internal-link" href="Troupes/Wink Planet">Wink Planet</a>
@@ -928,126 +928,126 @@ These troupes are no longer performing in Austin (though some may perform rare "
 
 ## In Need of Pages
 These are troupes that still need pages created for them.
-* [[1205 Draft]]
-* [[3rd Wheel]]
-* [[90 Percent Effective]]
-* [[Adult Baby]]
-* [[Amber Alert]]
-* [[The Apologists]]
-* [[Art & Jazz]]
-* [[The Balance Brothers]]
-* [[Bare Moxie]]
-* [[Bearded Lamb]]
-* [[Bedfellows]]
-* [[Big & Tall]]
-* [[Bombshell]]
-* [[Book Club]]
-* [[Bros]]
-* [[Brownstone]]
-* [[Camp sLaughter]]
-* [[Candy Vampires]]
-* [[Car Chase]]
-* [[Carlos and Chrissy are Twins]]
-* [[Carrots]]
-* [[Catch 24]]
-* [[Cheeks]]
-* [[Chicken Dinner]]
-* [[Classically Handsome]]
-* [[Comedy Spartans]]
-* [[Cool Dog]]
-* [[Coolio Populore]]
-* [[Cops]]
-* [[Costa Cider]]
-* [[Crepes Suzette]]
-* [[The Cruise Ladies]]
-* [[The Crumbs]]
-* [[The Crypt Kids]]
-* [[Dance Card]]
-* [[The Dark Sparkles]]
-* [[Depeche a la Mode]]
-* [[Derb City]]
-* [[The Divorcees]]
-* [[Don't Shake The Baby]]
-* [[Double Tap]]
-* [[The Draft]]
-* [[Drama Club]]
-* [[Dubsport]]
-* [[Dumpster Town]]
-* [[Earnest MacGuffin]]
-* [[Fancy Boy]]
-* [[Flipped Scripts]]
-* [[Freestroch]]
-* [[Fucking Wizards]]
-* [[Glorias]]
-* [[Green Team]]
-* [[H.U.G.S]]
-* [[Handbomb]]
-* [[Hank and Tony]]
-* [[Hot Glue]]
-* [[Hugaday]]
-* [[Hyde Park Homeschoolers]]
-* [[IFL]]
-* [[Inflatable Egos]]
-* [[The Inmates Of The Institution Theatre]]
-* [[Interrobang]]
-* [[Irrefutable Baby]]
-* [[J.C.'s B.M]]
-* [[Lasagna]]
-* [[Let's Rock]]
-* [[LoneStar DeathStar]]
-* [[Los Paranoias]]
-* [[Mac and Cheese]]
-* [[Mascot Wedding]]
-* [[Matt and Alejandro's One Man Show!]]
-* [[Meat Candy]]
-* [[The Mission]]
-* [[Monopolistic Monotony]]
-* [[Murray & Lark]]
-* [[The Neighborhood]]
-* [[Neon Braille]]
-* [[The Newlybed Game]]
-* [[Newsical]]
-* [[Nice Save]]
-* [[One A.M]]
-* [[One Too]]
-* [[Oscar Bait]]
-* [[P. O. V]]
-* [[P.A.L.S]]
-* [[Patriot Actors]]
-* [[The Plurals]]
-* [[Puppet Gun]]
-* [[Pussycake]]
-* [[Quality Seafood]]
-* [[Ray Prewitt's Fourth Grade Class]]
-* [[Regular Saints]]
-* [[Rosewood]]
-* [[Rumprov]]
-* [[Salem]]
-* [[Sanjaaaaaaaay]]
-* [[School Girl Giddy]]
-* [[Shot]]
-* [[Sidecar]]
-* [[Signifying Nothing]]
-* [[The Smoking Arm]]
-* [[So Many Dicks]]
-* [[Speed Force, Go]]
-* [[Spice Rack]]
-* [[Sticky Boys]]
-* [[Strugglebus]]
-* [[Sword Fight]]
-* [[Teacon]]
-* [[Technoforest of Doom]]
-* [[Tight Cookie]]
-* [[Topaz]]
-* [[Total Awareness]]
-* [[Toy Boat]]
-* [[Triple Threat]]
-* [[Troupon!]]
-* [[Tuck and Roll]]
-* [[Unsuspectingly Sponsored By]]
-* [[Urban Yogurt]]
-* [[Vertigo Ramp]]
-* [[We Have Jetpacks!]]
-* [[WeatherVane]]
-* [[Whittle]]
-* [[Zoology Club]]
+* 1205 Draft
+* 3rd Wheel
+* 90 Percent Effective
+* Adult Baby
+* Amber Alert
+* The Apologists
+* Art & Jazz
+* The Balance Brothers
+* Bare Moxie
+* Bearded Lamb
+* Bedfellows
+* Big & Tall
+* Bombshell
+* Book Club
+* Bros
+* Brownstone
+* Camp sLaughter
+* Candy Vampires
+* Car Chase
+* Carlos and Chrissy are Twins
+* Carrots
+* Catch 24
+* Cheeks
+* Chicken Dinner
+* Classically Handsome
+* Comedy Spartans
+* Cool Dog
+* Coolio Populore
+* Cops
+* Costa Cider
+* Crepes Suzette
+* The Cruise Ladies
+* The Crumbs
+* The Crypt Kids
+* Dance Card
+* The Dark Sparkles
+* Depeche a la Mode
+* Derb City
+* The Divorcees
+* Don't Shake The Baby
+* Double Tap
+* The Draft
+* Drama Club
+* Dubsport
+* Dumpster Town
+* Earnest MacGuffin
+* Fancy Boy
+* Flipped Scripts
+* Freestroch
+* Fucking Wizards
+* Glorias
+* Green Team
+* H.U.G.S.
+* Handbomb
+* Hank and Tony
+* Hot Glue
+* Hugaday
+* Hyde Park Homeschoolers
+* IFL
+* Inflatable Egos
+* The Inmates Of The Institution Theatre
+* Interrobang
+* Irrefutable Baby
+* J.C.'s B.M.
+* Lasagna
+* Let's Rock
+* LoneStar DeathStar
+* Los Paranoias
+* Mac and Cheese
+* Mascot Wedding
+* Matt and Alejandro's One Man Show!
+* Meat Candy
+* The Mission
+* Monopolistic Monotony
+* Murray & Lark
+* The Neighborhood
+* Neon Braille
+* The Newlybed Game
+* Newsical
+* Nice Save
+* One A.M.
+* One Too
+* Oscar Bait
+* P. O. V.
+* P.A.L.S.
+* Patriot Actors
+* The Plurals
+* Puppet Gun
+* Pussycake
+* Quality Seafood
+* Ray Prewitt's Fourth Grade Class
+* Regular Saints
+* Rosewood
+* Rumprov
+* Salem
+* Sanjaaaaaaaay
+* School Girl Giddy
+* Shot
+* Sidecar
+* Signifying Nothing
+* The Smoking Arm
+* So Many Dicks
+* Speed Force, Go
+* Spice Rack
+* Sticky Boys
+* Strugglebus
+* Sword Fight
+* Teacon
+* Technoforest of Doom
+* Tight Cookie
+* Topaz
+* Total Awareness
+* Toy Boat
+* Triple Threat
+* Troupon!
+* Tuck and Roll
+* Unsuspectingly Sponsored By
+* Urban Yogurt
+* Vertigo Ramp
+* We Have Jetpacks!
+* WeatherVane
+* Whittle
+* Zoology Club

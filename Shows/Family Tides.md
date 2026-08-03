@@ -19,13 +19,13 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ashley Franks">Ashley Franks</a></li><!--
+  --><li style="">Ashley Franks</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
+  --><li style="">Mac Blake</li><!--
   --><!--
   --><!--
   --><!--
@@ -89,4 +89,4 @@
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=12337) on [[The Austin Improv Forums]].
 * [The show's web page.](http://www.coldtownetheater.com/events/family-tides-improv)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

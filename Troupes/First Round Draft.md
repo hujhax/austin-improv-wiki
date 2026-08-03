@@ -15,16 +15,16 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
+  --><li style="">Amy McCurdy</li><!--
   --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Chris R. B. Fay">Chris R. B. Fay</a></li><!--
-  --><li style=""><a class="internal-link" href="Ed Piston">Ed Piston</a></li><!--
-  --><li style=""><a class="internal-link" href="Griffin Mauser">Griffin Mauser</a></li><!--
-  --><li style=""><a class="internal-link" href="Katy Shea">Katy Shea</a></li><!--
+  --><li style="">Chris R. B. Fay</li><!--
+  --><li style="">Ed Piston</li><!--
+  --><li style="">Griffin Mauser</li><!--
+  --><li style="">Katy Shea</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
-  --><li style="" ><a class="internal-link" href="Shelly Miller Bosse">Shelly Miller Bosse</a></li><!--
-  --><li style=""><a class="internal-link" href="Suzie Mihalak">Suzie Mihalak</a></li><!--
+  --><li style="" >Shelly Miller Bosse</li><!--
+  --><li style="">Suzie Mihalak</li><!--
   --><!--
   --><!--
   --><!--
@@ -72,9 +72,9 @@
 
 **First Round Draft** was a short-form improv troupe based out of [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
-They occasionally included musicians [[Brett Webster]] on guitar and [[Tim Girardot]] on keyboards.
+They occasionally included musicians Brett Webster on guitar and Tim Girardot on keyboards.
 
-[[Maggie Bell]] was their lighting improvisor.
+Maggie Bell was their lighting improvisor.
 
 ## History
 The troupe formed out of the first graduating class from the [[Theatres/Hideout|Hideout]]'s improv program.

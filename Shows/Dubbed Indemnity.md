@@ -56,5 +56,5 @@ Since then, *Dubbed Indemnity* has shown up for occasional one-off performances 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/dubbedindemnity)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

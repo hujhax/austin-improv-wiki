@@ -15,14 +15,14 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andy O'Meara">Andy O'Meara</a></li><!--
-  --><li style=""><a class="internal-link" href="Billy Smith">Billy Smith</a></li><!--
-  --><li style=""><a class="internal-link" href="Brad Knox">Brad Knox</a></li><!--
-  --><li style=""><a class="internal-link" href="Bradford Hardie">Bradford Hardie</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Karydas">Jennifer Karydas</a></li><!--
-  --><li style=""><a class="internal-link" href="Liz Butler">Liz Butler</a></li><!--
+  --><li style="">Andy O'Meara</li><!--
+  --><li style="">Billy Smith</li><!--
+  --><li style="">Brad Knox</li><!--
+  --><li style="">Bradford Hardie</li><!--
+  --><li style="">Jennifer Karydas</li><!--
+  --><li style="">Liz Butler</li><!--
   --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
-  --><li style=""><a class="internal-link" href="Stephanie Redding Hardie">Stephanie Redding Hardie</a></li><!--
+  --><li style="">Stephanie Redding Hardie</li><!--
   --><!--
   --><!--
   --><!--

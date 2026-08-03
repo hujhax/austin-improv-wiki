@@ -35,7 +35,7 @@ He was a guest boy with *[[Shows/Boys of Summer|Boys of Summer]]* in 2007.
 
 ## Troupes
 * [[Troupes/ComedySportz|ComedySportz]]
-* [[The Pie and Ear Show]]
+* The Pie and Ear Show
 
 ## Shows
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*

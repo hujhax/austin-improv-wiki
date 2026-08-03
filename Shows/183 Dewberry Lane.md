@@ -24,15 +24,15 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Carolina A. Andrade">Carolina A. Andrade</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric Peterson">Eric Peterson</a></li><!--
-  --><li style=""><a class="internal-link" href="Graham Snow">Graham Snow</a></li><!--
-  --><li style=""><a class="internal-link" href="Greg Mihalik">Greg Mihalik</a></li><!--
-  --><li style=""><a class="internal-link" href="Kay Krasin">Kay Krasin</a></li><!--
+  --><li style="">Carolina A. Andrade</li><!--
+  --><li style="">Eric Peterson</li><!--
+  --><li style="">Graham Snow</li><!--
+  --><li style="">Greg Mihalik</li><!--
+  --><li style="">Kay Krasin</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Sue Woodka Jordan">Sue Woodka Jordan</a></li><!--
-  --><li style="" ><a class="internal-link" href="Tamara Warton">Tamara Warton</a></li><!--
-  --><li style=""><a class="internal-link" href="Zachariah Rollins">Zachariah Rollins</a></li><!--
+  --><li style="">Sue Woodka Jordan</li><!--
+  --><li style="" >Tamara Warton</li><!--
+  --><li style="">Zachariah Rollins</li><!--
   --><!--
   --><!--
   --><!--
@@ -78,8 +78,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alex Walker">Alex Walker</a></li><!--
-  --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
+  --><li style="">Alex Walker</li><!--
+  --><li style="">Casey Marie</li><!--
   --><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@
 	</table>
 </div>
 
-***183 Dewberry Lane*** will be the February 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***183 Dewberry Lane*** will be the February 2016 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 A delightful family, much like yours, but perhaps even better, moves into a charming new home. The neighborhood is perfect, and everyone is getting along so well! It’s probably best to ignore the faucet dripping blood, or the curtains that try and choke people who walk by them at midnight or that porcelain clown that keeps trying to throw the baby out the window.
@@ -150,5 +150,5 @@ From the show announcement:<blockquote>Don't Blink.  Don't Sleep.  There's Somet
 ## More Information
 * [The show announcement](https://www.facebook.com/photo.php?fbid=10106839495533000&set=gm.1001564373200000) on the Hideout's facebook group.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

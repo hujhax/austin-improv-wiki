@@ -97,6 +97,6 @@ Roy and Jon developed a series of exercises based on positivity and connection. 
 * [Review of 6/27/13 show. Examiner.com](http://www.examiner.com/article/squirrel-buddies-what-s-right-about-austin-improv)
 * [The Squirrel Buddies home page.](http://www.squirrelbuddies.com)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]
 [[Category/Duos|Category:Duos]]

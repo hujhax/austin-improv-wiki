@@ -22,21 +22,21 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category"><a class="internal-link" href="Angelina Martin">Angelina Martin</a></td>
+			<td class="category">Angelina Martin</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
-  --><li style=""><a class="internal-link" href="Alonso Salas">Alonso Salas</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Gonzalez-Bendiksen">Andy Gonzalez-Bendiksen</a></li><!--
-  --><li style=""><a class="internal-link" href="Cindy Brio">Cindy Brio</a></li><!--
+  --><li style="">Aaron Rubin</li><!--
+  --><li style="">Alonso Salas</li><!--
+  --><li style="">Andy Gonzalez-Bendiksen</li><!--
+  --><li style="">Cindy Brio</li><!--
   --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--
-  --><li style=""><a class="internal-link" href="Gabriela Vargas">Gabriela Vargas</a></li><!--
-  --><li style="" ><a class="internal-link" href="Karlie Lemos">Karlie Lemos</a></li><!--
-  --><li style=""><a class="internal-link" href="Laura Galán Wells">Laura Galán Wells</a></li><!--
+  --><li style="">Esperanza Rivadeneira</li><!--
+  --><li style="">Gabriela Vargas</li><!--
+  --><li style="" >Karlie Lemos</li><!--
+  --><li style="">Laura Galán Wells</li><!--
   --><!--
   --><!--
   --><!--
@@ -111,15 +111,15 @@ Los esperamos en The Hideout para explorar temas de intriga, amor desafortunado,
 Join us at The Hideout to explore themes of nail-biting intrigue, star-crossed love, strong women, dastardly villains and breaking the fourth wall in ¡ESCÁNDALO!
 
 ## Full Crew
-* [[Francisco Peña]] (score)
-* [[Jennifer Dorsey]] (sound effects)
-* [[Sandra Ybarra]] (lights)
+* Francisco Peña (score)
+* Jennifer Dorsey (sound effects)
+* Sandra Ybarra (lights)
 
-Also, [[Lahari Dunn]] served as a production consultant.
+Also, Lahari Dunn served as a production consultant.
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/escandalo)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

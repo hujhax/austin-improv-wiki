@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Austen Silver">Austen Silver</a></li><!--
-  --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
-  --><li style=""><a class="internal-link" href="Evan Eggers">Evan Eggers</a></li><!--
+  --><li style="">Austen Silver</li><!--
+  --><li style="">Catherine Grady</li><!--
+  --><li style="">Evan Eggers</li><!--
   --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
   --><!--
   --><!--

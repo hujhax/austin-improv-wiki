@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-[[Category/Performers|Lies]]
+Lies
 **Erica Lies** is an improv and sketch performer.
 
 ## History
@@ -27,22 +27,22 @@ Erica Lies is a writer, improviser, and teacher in Austin. She’s been writing 
 
 ## Troupes
 * [[Troupes/Miller and Lies|Miller and Lies]]
-* [[Snapshot]]
-* [[Menenists]]
-* [[Reverb]]
+* snapshot
+* Menenists
+* Reverb
 * [[Troupes/IScream Sandwich|IScream Sandwich]]
 * [[Troupes/There's Waldo|There's Waldo]]
 * [[Troupes/Venn Diaphragm|Venn Diaphragm]]
 
 ## Shows
-* *[[Bitterfest]]*
-* [[Damn Gina Presents Night Watch]] (director)
+* *Bitterfest*
+* Damn Gina Presents Night Watch (director)
 * [[Shows/Highly Suggestible|Highly Suggestible]] (director, producer)
-* [[It Takes Two -  A Night of Almost Famous Comedy Duos]] (producer)
+* It Takes Two: A Night of Almost Famous Comedy Duos (producer)
 * *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (Andrea Zuckerman)
 * *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]*
-* "[[New Year, Same Shit (ColdTowne TourCo)]]"
+* "New Year, Same Shit (ColdTowne TourCo)"
 * *[[Shows/Rapture The Flag|Rapture The Flag]]*
 * "[[Shows/Stool Pigeon|Stool Pigeon]]"
 * *[[Shows/The Triple Scoop|The Triple Scoop]]*
-* *[[The Velvet Rut]]*
+* *The Velvet Rut*

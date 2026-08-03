@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aaron McDavis">Aaron McDavis</a></li><!--
-  --><li style=""><a class="internal-link" href="Alexander Julian Verner">Alexander Julian Verner</a></li><!--
-  --><li style=""><a class="internal-link" href="Ian Downing-Beaver">Ian Downing-Beaver</a></li><!--
+  --><li style="">Aaron McDavis</li><!--
+  --><li style="">Alexander Julian Verner</li><!--
+  --><li style="">Ian Downing-Beaver</li><!--
   --><!--
   --><!--
   --><!--

@@ -30,7 +30,7 @@ A post from him about the first improv show he ever saw:<blockquote><p>Aside fro
 * *[[Shows/Live Nude Improv|Live Nude Improv]]*
 * *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Xander Harris) 
 * *[[Shows/Live TV Tuesdays -  South Park|Live TV Tuesdays -  South Park]]* (Director)
-* [[The Pappy Parker Players]] 
+* The Pappy Parker Players 
 * *[[Shows/Pulp Friction|Pulp Friction]]*: Improvised Tarantino 
 * [[Troupes/Secret Senate|Secret Senate]]
 * [[Troupes/Best Friends Club of Austin|Best Friends Club of Austin]]

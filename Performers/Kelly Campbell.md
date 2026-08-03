@@ -79,14 +79,14 @@ Ms. Campbell saw her first improv show in high school, at UCB in New York City. 
 * *[[Shows/Austin Secrets|Austin Secrets]]* (scoring tech)
 * *[[Shows/Close Up|Close Up]]*
 * *[[Shows/Fiasco|Fiasco]]* (scoring tech)
-* *[[Hardish Bodies]]*
+* *Hardish Bodies*
 * *[[Shows/The Jukebox Musical Project|The Jukebox Musical Project]]* ("Karma Police")
 * *[[Shows/Lonely Star|Lonely Star]]*
 * *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*
-* *[[The Fool's Well]]*
+* *The Fool's Well*
 * *[[Shows/Immigrants, The Musical! (Part One)|Immigrants, The Musical! (Part One)]]*
-* *[[Next Week On... Game of Thrones]]*
-* *[[Missed Connections]]*
+* *Next Week On... Game of Thrones*
+* *Missed Connections*
 
 [[Category/Performers|Campbell]]
 [[Category/Techs|Campbell]]

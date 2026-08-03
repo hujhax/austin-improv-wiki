@@ -17,15 +17,15 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy McCurdy">Amy McCurdy</a></li><!--
-  --><li style=""><a class="internal-link" href="Andrei Haq">Andrei Haq</a></li><!--
+  --><li style="">Amy McCurdy</li><!--
+  --><li style="">Andrei Haq</li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Ben Sterling">Ben Sterling</a></li><!--
+  --><li style="">Ben Sterling</li><!--
   --><li style=""><a class="internal-link" href="Performers/Bill Stern">Bill Stern</a></li><!--
-  --><li style=""><a class="internal-link" href="James Aldredge">James Aldredge</a></li><!--
-  --><li style="" ><a class="internal-link" href="Jeffrey Amos">Jeffrey Amos</a></li><!--
+  --><li style="">James Aldredge</li><!--
+  --><li style="" >Jeffrey Amos</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Jonathan Benner">Jonathan Benner</a></li><!--
+  --><li style="">Jonathan Benner</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
@@ -142,7 +142,7 @@ Secondarily, they penned and directed a new play, *For the Love of You, Mother D
 
 ## Media
 * [A video of one of their "Inter-Presidential Wrestling" shows.](http://youtu.be/NLhCMNArKzA)
-* [A photoset](http://www.flickr.com/photos/noahvoelker/sets/72157617960415800/with/3519108591/) of the reunion show from [[Noah Voelker]].
+* [A photoset](http://www.flickr.com/photos/noahvoelker/sets/72157617960415800/with/3519108591/) of the reunion show from Noah Voelker.
 
 ## More Information
 * [A list of the Jury's formats.](http://web.archive.org/web/20020802152723/http://www.wellhungjury.com/theformats.html)

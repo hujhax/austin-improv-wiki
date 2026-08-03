@@ -15,15 +15,15 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Collin Cannaday">Collin Cannaday</a></li><!--
+  --><li style="">Collin Cannaday</li><!--
   --><li style=""><a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
-  --><li style=""><a class="internal-link" href="Kim Gottschalk">Kim Gottschalk</a></li><!--
-  --><li style=""><a class="internal-link" href="Lizzie Leslie">Lizzie Leslie</a></li><!--
-  --><li style=""><a class="internal-link" href="Melanie DeMartinis">Melanie DeMartinis</a></li><!--
-  --><li style=""><a class="internal-link" href="Meredith Newell">Meredith Newell</a></li><!--
-  --><li style="" ><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style="">Jenny Carlson</li><!--
+  --><li style="">Kim Gottschalk</li><!--
+  --><li style="">Lizzie Leslie</li><!--
+  --><li style="">Melanie DeMartinis</li><!--
+  --><li style="">Meredith Newell</li><!--
+  --><li style="" >Sandra Ybarra</li><!--
   --><!--
   --><!--
   --><!--

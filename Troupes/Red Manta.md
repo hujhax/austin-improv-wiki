@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chrissy Shackleford">Chrissy Shackleford</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric Rutherford">Eric Rutherford</a></li><!--
+  --><li style="">Eric Rutherford</li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika McNichol">Erika McNichol</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
@@ -76,4 +76,4 @@
 They played in the 7/23/14 *Cagematch*.
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

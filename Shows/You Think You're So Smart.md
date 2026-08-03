@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***You Think You're So Smart*** is an improvised panel show in the style of British programs like *[[Wikipedia - QI|QI]]*, *[[Wikipedia - Never Mind the Buzzcocks|Never Mind the Buzzcocks]]*, and *[[Wikipedia - Would I Lie to You (TV series)|Would I Lie to You?]]*
+***You Think You're So Smart*** is an improvised panel show in the style of British programs like *QI*, *Never Mind the Buzzcocks*, and *Would I Lie to You?*
 
 ## Format
 In every performance, the panelists discuss facts and trivia in that week's category, provided by the show's host, [[Performers/Justin Davis|Justin Davis]].
@@ -95,33 +95,33 @@ The show initially ran Fridays at 8pm at [[Theatres/The Institution Theater|The 
 
 * 9/6/13: "Spacing Out" (the cosmos)
 	* Cast: [[Performers/Valerie Ward|Valerie Ward]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]]
-	* Guests: [[Mary Jo Pehl]], [[Performers/Kareem Badr|Kareem Badr]]
+	* Guests: Mary Jo Pehl, [[Performers/Kareem Badr|Kareem Badr]]
 	* Guest Ranter: [[Performers/Andrew Buck|Andrew Buck]]
 
 * 9/13/13: "The Devil's Tongue" (the English language)
 	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Valerie Ward|Valerie Ward]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
-	* Guest: [[Robert Faires]]
-	* Guest Ranter: [[Maggie Maye]]
+	* Guest: Robert Faires
+	* Guest Ranter: Maggie Maye
 
 * 9/20/13: "Political Relations" (odd political connections and scenarios)
 	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]]
-	* Guests: [[Suzy Spencer]], [[Performers/Tom Booker|Tom Booker]]
+	* Guests: Suzy Spencer, [[Performers/Tom Booker|Tom Booker]]
 	* Guest Ranter: [[Performers/Asaf Ronen|Asaf Ronen]]
 
 * 9/27/13: "Not-So-Great Expectations" (one-hit wonders, failed ideas, and surprising/accidental successes)
 	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
-	* Guests: [[Robert Faires]]
+	* Guests: Robert Faires
 	* Guest Ranter: [[Performers/Brett Tribe|Brett Tribe]]
 
 ### Subsequent Run
 The show was revived for shows on 7/25/14 and 8/22/14 at [[Theatres/The Hideout Theatre|The Hideout Theatre]] as a temporary part of *[[Shows/The Wheel|The Wheel]]*.
 
 * 7/25/14: "You Think You're So In Love" (courtship in different societies, animal mating rituals, and romantic and sexual art)
-	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], [[Mary Jo Pehl]], [[Performers/Peter Rogers|Peter Rogers]]
+	* Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], Mary Jo Pehl, [[Performers/Peter Rogers|Peter Rogers]]
 
 ## Media
 ### Videos
 * [The 9/27/13 show: "Not-So-Great Expectations".](http://vimeo.com/75653611/)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Institution Theater|Category:The Institution Theater]]
+Category:Shows
+Category:The Institution Theater

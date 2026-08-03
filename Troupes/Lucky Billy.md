@@ -16,13 +16,13 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Ali Shepher">Ali Shepher</a></li><!--
-  --><li style=""><a class="internal-link" href="Brandi Gist">Brandi Gist</a></li><!--
-  --><li style=""><a class="internal-link" href="Dani Hendricks">Dani Hendricks</a></li><!--
-  --><li style=""><a class="internal-link" href="Gil Cardenas">Gil Cardenas</a></li><!--
-  --><li style=""><a class="internal-link" href="Juan Castañeda">Juan Castañeda</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin Han">Justin Han</a></li><!--
-  --><li style=""><a class="internal-link" href="Robyn Reynolds">Robyn Reynolds</a></li><!--
+  --><li style="">Ali Shepher</li><!--
+  --><li style="">Brandi Gist</li><!--
+  --><li style="">Dani Hendricks</li><!--
+  --><li style="">Gil Cardenas</li><!--
+  --><li style="">Juan Castañeda</li><!--
+  --><li style="">Justin Han</li><!--
+  --><li style="">Robyn Reynolds</li><!--
   --><!--
   --><!--
   --><!--
@@ -89,5 +89,5 @@ Lucky Billy has performed at the following festivals
 ### Photos
 ## See Also
 ## More Information
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

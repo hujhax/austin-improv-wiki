@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ann Potter">Ann Potter</a></li><!--
-  --><li style=""><a class="internal-link" href="Brent Foshee">Brent Foshee</a></li><!--
+  --><li style="">Ann Potter</li><!--
+  --><li style="">Brent Foshee</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><!--
@@ -73,9 +73,9 @@
 **Fall Then Smirk** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## Summary
-The troupe was set up to be an analog to [[Troupes/The Frank Mills|The Frank Mills]] ("Fall Then Smirk" is an anagram for that name), with each cast member playing in the style of one of the [[Frank Mills]] troupe members:
-* [[Ann Potter]] as [[Performers/Erika May McNichol|Erika May McNichol]]
-* [[Brent Foshee]] as [[Todd Schanbacher]]
+The troupe was set up to be an analog to [[Troupes/The Frank Mills|The Frank Mills]] ("Fall Then Smirk" is an anagram for that name), with each cast member playing in the style of one of the Frank Mills troupe members:
+* Ann Potter as [[Performers/Erika May McNichol|Erika May McNichol]]
+* Brent Foshee as Todd Schanbacher
 * [[Performers/Brett Tribe|Brett Tribe]] as [[Performers/Dave Buckman|Dave Buckman]]
 * [[Performers/Kate Bojanek|Kate Bojanek]] as [[Performers/Rachel Madorsky|Rachel Madorsky]]
 * [[Performers/Sam Malcolm|Sam Malcolm]] as [[Performers/Bob McNichol|Bob McNichol]]

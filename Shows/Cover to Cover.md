@@ -75,17 +75,17 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
-  --><li style=""><a class="internal-link" href="Amy McKenna">Amy McKenna</a></li><!--
-  --><li style=""><a class="internal-link" href="Ashlee Medlin">Ashlee Medlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Ashley Lowe">Ashley Lowe</a></li><!--
+  --><li style="">Amy McKenna</li><!--
+  --><li style="">Ashlee Medlin</li><!--
+  --><li style="">Ashley Lowe</li><!--
   --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Jimenez">Nick Jimenez</a></li><!--
+  --><li style="">Nick Jimenez</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
-  --><li style=""><a class="internal-link" href="Odin Amador">Odin Amador</a></li><!--
+  --><li style="">Odin Amador</li><!--
   --><!--
   --><!--
   --><!--
@@ -137,7 +137,7 @@
 ![[Cover to Cover Blackboard.jpg|The *Cover to Cover* blackboard, showing the book title and the chapter assignments.]]
 
 
-***Cover to Cover*** was a longform show inspired by the [[Wikipedia - Nancy Drew|Nancy Drew]] and [[Wikipedia - Hardy Boys|Hardy Boys]] young-adult mystery novels.
+***Cover to Cover*** was a longform show inspired by the Nancy Drew and Hardy Boys young-adult mystery novels.
 
 ## Show Structure
 *Cover to Cover* opened with the audience suggestion -- for this show, this meant that an audience member came onstage to pick a book off of an onstage bookshelf.  The cast had come up with a collection of plausible-sounding Nancy Drew/Hardy Boys titles, and created a set of book covers with those titles on the spine.  Ideally, they got a child in the audience to pick the book, but defaulted to picking an adult theatergoer if necessary.
@@ -164,4 +164,4 @@ After its mainstage run with Gnap!, *Cover to Cover* had a special benefit show 
 * [The show announcement](http://forum.austinimprov.com/viewtopic.php?p=112700) on [[The Austin Improv Forums]].
 * [The benefit-show announcement](http://forum.austinimprov.com/viewtopic.php?p=113728) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Cover]]
+Cover

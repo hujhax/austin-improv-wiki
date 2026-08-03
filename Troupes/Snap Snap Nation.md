@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Adam Benden">Adam Benden</a> (guitarist)</li><!--
+  --><li style="">Adam Benden (guitarist)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
-  --><li style=""><a class="internal-link" href="Vanessa Shields">Vanessa Shields</a></li><!--
+  --><li style="">Vanessa Shields</li><!--
   --><!--
   --><!--
   --><!--

@@ -23,9 +23,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Catherine Grady">Catherine Grady</a></li><!--
+  --><li style="">Catherine Grady</li><!--
   --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="Heather McConochie">Heather McConochie</a></li><!--
+  --><li style="">Heather McConochie</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jillian Summar">Jillian Summar</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mitch Mills">Mitch Mills</a></li><!--
@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Camp Madeupponaspotta*** was the April 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student Mainstage Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Camp Madeupponaspotta*** was the April 2014 student mainstage production at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 *Camp Madeupponaspotta* featured improvised coming-of-age stories about the lives of teens & camp counselors at a fictional summer camp. The characters and details were different every show. The show focused on positivity, ensemble, and creating endearing moments as well as hilarious ones.
@@ -104,5 +104,5 @@ The show returned for the Saturday 7pm hour of [[Festivals/The 45-Hour Improv Ma
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.711676885562497.1073741981.221927764537414&type=3) by [[Steve Rogers]] of the 4/5/14 show.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

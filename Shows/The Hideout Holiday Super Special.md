@@ -48,5 +48,5 @@
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial)
 
-[[Category/Shows|Hideout Holiday Super Special]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Hideout Holiday Super Special
+Category:The Hideout Theatre

@@ -45,7 +45,7 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * [[Troupes/DA Foundry|DA Foundry]]
 * [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 * [[Troupes/Drinkies Galore|Drinkies Galore]]
-* [[The Moral Compass Rumpus]]
+* The Moral Compass Rumpus
 * [[Troupes/RedRover|RedRover]]
 * [[Troupes/The Special Features|The Special Features]]
 * [[Troupes/The Topping Haggerty Experience|The Topping Haggerty Experience]]
@@ -60,15 +60,15 @@ Topping was a company member with [[Gnap! Theater Projects]].
 * *[[Shows/Elf Employment|Elf Employment]]*
 * *[[Shows/GrimmNoir|GrimmNoir]]*
 * *[[Shows/Guilds Of Steel|Guilds Of Steel]]*
-* *[[The Last Freak Show]]*
-* *[[This Week Tonight]]*
+* *The Last Freak Show*
+* *This Week Tonight*
 * *[[Shows/Late Night Time Machine|Late Night Time Machine]]*
 * *[[Shows/Lola|Lola]]*
 * *[[Shows/Off the Reef|Off the Reef]]*
 * *[[Shows/The Sandbox|The Sandbox]]*
-* *[[Two on Two]]*
+* *Two on Two*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 
 [[Category/Performers|Haggerty]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

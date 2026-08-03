@@ -25,12 +25,12 @@
 Chris McKeever studied improv and comedy at The Upright Citizens Brigade Theater in New York City, New York. He maintains a Twitter presence as "NormalTweetGuy". Katie Perry is one of his followers on Twitter. THE Katie Perry. 
 
 ## Troupes
-* [[Double Tap]]
+* Double Tap
 * [[Troupes/Kingston|Kingston]]
 
 ## Shows
-* *[[Play by Play featuring Double Tap]]*
-* *[[Nice Astronaut Presents -  Back to Townsville]]* (Director)
+* *Play by Play featuring Double Tap*
+* *Nice Astronaut Presents: Back to Townsville* (Director)
 
 [[Category/Performers|McKeever]]
 [[Category/Directors|McKeever]]

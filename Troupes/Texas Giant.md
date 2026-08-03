@@ -21,7 +21,7 @@
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Erika May">Erika May</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style="">Justin York</li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><!--

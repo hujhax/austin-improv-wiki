@@ -133,7 +133,7 @@
 	</table>
 </div>
 
-***Twilight Zoned*** was an improvised longform narrative show inspired by [[Wikipedia - The Twilight Zone (1959 TV series)|*The Twilight Zone*]].
+***Twilight Zoned*** was an improvised longform narrative show inspired by *The Twilight Zone*.
 
 ## Summary
 *Twilight Zoned* ran as part of *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*.  It aimed to tell science fiction stories in the same style as the original 1959 television show.  Actors dressed in period 50s costume, and the show opened with a theatrical representation of the show's classic opening sequence.
@@ -163,5 +163,5 @@ The cast worked at slowing down the plot.  They would focus less on making thing
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/pages/Twilight-Zoned-Improv-Comedy/273908725985889)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

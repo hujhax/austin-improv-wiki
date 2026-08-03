@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
-  --><li style=""><a class="internal-link" href="Wes Gandy">Wes Gandy</a></li><!--
+  --><li style="">Wes Gandy</li><!--
   --><!--
   --><!--
   --><!--

@@ -8,7 +8,7 @@ The festival ran from 4/24/08 to 4/26/08 at [[Theatres/The Hideout Theatre|The H
 * [[Troupes/Adventure Squad!|Adventure Squad!]]
 * [Dick Monologues](http://www.dickmonologues.com/)
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
-* [[Pom Pom Sisterhood]]
+* Pom Pom Sisterhood
 
 ### Out-of-Town Acts
 * Elaine (Carrboro, NC)
@@ -23,4 +23,4 @@ The festival ran from 4/24/08 to 4/26/08 at [[Theatres/The Hideout Theatre|The H
 * Mary Jo Pehl
 * Patton Quinn 
 * Selena Coppock (NYC/Boston)
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

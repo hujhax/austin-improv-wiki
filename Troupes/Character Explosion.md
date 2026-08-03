@@ -16,12 +16,12 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenn Hamm">Jenn Hamm</a></li><!--
-  --><li style=""><a class="internal-link" href="Kathleen McFerren">Kathleen McFerren</a></li><!--
+  --><li style="">Jenn Hamm</li><!--
+  --><li style="">Kathleen McFerren</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
-  --><li style=""><a class="internal-link" href="Nick Amsden">Nick Amsden</a></li><!--
+  --><li style="">Nick Amsden</li><!--
   --><li style=""><a class="internal-link" href="Performers/Timothy Coyle">Timothy Coyle</a></li><!--
-  --><li style=""><a class="internal-link" href="Zach Leos">Zach Leos</a></li><!--
+  --><li style="">Zach Leos</li><!--
   --><!--
   --><!--
   --><!--
@@ -102,11 +102,11 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 * [[Shows/The Cagematch|The Cagematch]] 2015 - current
 
 [[Theatres/The Institution Theater|The Institution Theater]]
-* [[The Improv Mixtape]] 2015 - current
-* [[Tightrope]] 2016 - current
+* The Improv Mixtape 2015 - current
+* Tightrope 2016 - current
 
 [[Theatres/The New Movement|The New Movement]]
-* [[KNOCK-OUT]] 2016 - current
+* KNOCK-OUT 2016 - current
 
 ### Coaches
 * [[Performers/Robert Slack|Robert Slack]] was an original member of the troupe and coach, bringing his Improv and acting experience to the troupe.
@@ -115,18 +115,18 @@ The format was a brainstorm idea of Ceej Allen, which after a lunch with Tim Coy
 
 ### Troupe Members History
 Started as a Free Fringe :
-* *[[Ceej Character Explosion]]* ([[Performers/Ceej Allen|Ceej Allen]])
+* *Ceej Character Explosion* ([[Performers/Ceej Allen|Ceej Allen]])
 
 Debuted February 12, 2015 in the Threefer as a troupe
 
-Original Members of the troupe include [[Performers/Cagney Ortiz|Cagney Ortiz]], [[Performers/Joy Parks|Joy Parks]], [[Kathleen McFerren]], [[Performers/Lahari Samineni|Lahari Samineni]], [[Performers/Robert Slack|Robert Slack]], [[Performers/Tim Coyle|Tim Coyle]] and [[Performers/Sushant Sethi|Sushant Sethi]].
+Original Members of the troupe include [[Performers/Cagney Ortiz|Cagney Ortiz]], [[Performers/Joy Parks|Joy Parks]], Kathleen McFerren, [[Performers/Lahari Samineni|Lahari Samineni]], [[Performers/Robert Slack|Robert Slack]], [[Performers/Tim Coyle|Tim Coyle]] and [[Performers/Sushant Sethi|Sushant Sethi]].
 
 The five students / recent graduates of the Hideout Theatre who played in the fringe (Cagney, Joy, Kathleen, Robert and Tim) with the addition of two more students / recent graduates (Lahari and Sushant) took the format and turned it into a troupe with the blessing of [[Performers/Ceej Allen|Ceej Allen]].  
 
 ### Alumni
 Alumni
 <div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Bonnie Dilber">Bonnie Dilber</a></li><!--
+  --><li style="">Bonnie Dilber</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
@@ -189,6 +189,6 @@ Alumni
 
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

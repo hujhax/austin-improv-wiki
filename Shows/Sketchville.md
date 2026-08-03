@@ -28,7 +28,7 @@
   --><li style="">Jason Yackov</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
   --><li style="" >Jeremy Dozier</li><!--
-  --><li style=""><a class="internal-link" href="JM Specht">JM Specht</a></li><!--
+  --><li style="">JM Specht</li><!--
   --><li style="">John Daws</li><!--
   --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Karin L. Kross</li><!--
@@ -193,7 +193,7 @@ The series was projected to eventually zero in on a botched robbery in the middl
 
 ### Cast
 * College Kid: Brit Reese
-* Detective Rutherford: [[JM Specht]]
+* Detective Rutherford: JM Specht
 * Fish Thief: [[Performers/Jeff Britt|Jeff Britt]]
 * Hans: Kirk Landson
 * Innana: Karin L. Kross
@@ -259,4 +259,4 @@ This is a list of all the completed episodes of *Sketchville*.
 ## More Information
 * [The 2006 livejournal post detailing the original idea for the webseries.](http://hujhax.livejournal.com/261159.html)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

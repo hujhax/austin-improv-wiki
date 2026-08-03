@@ -76,4 +76,4 @@
 [[Category/Duos|Category:Duos]]
 [[Category/John Ratliff Duos|Category:John Ratliff Duos]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Never Performed|Category:Never Performed]]
+Category:Never Performed

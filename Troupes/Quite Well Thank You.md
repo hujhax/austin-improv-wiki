@@ -15,10 +15,10 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Pacheco">Amy Pacheco</a></li><!--
-  --><li style=""><a class="internal-link" href="Dan Rumney">Dan Rumney</a></li><!--
-  --><li style=""><a class="internal-link" href="Jen Sembera">Jen Sembera</a></li><!--
-  --><li style=""><a class="internal-link" href="Jennifer Sembera">Jennifer Sembera</a></li><!--
+  --><li style="">Amy Pacheco</li><!--
+  --><li style="">Dan Rumney</li><!--
+  --><li style="">Jen Sembera</li><!--
+  --><li style="">Jennifer Sembera</li><!--
   --><!--
   --><!--
   --><!--

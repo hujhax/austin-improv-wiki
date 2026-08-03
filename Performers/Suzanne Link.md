@@ -32,7 +32,7 @@
 * *[[Shows/Savage Swords|Savage Swords]]*
 * *[[Shows/The Secret Life of Inanimate Objects|The Secret Life of Inanimate Objects]]*  (Assistant Director)
 * *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]*
-* *[[Nozes Off]]*
-* *[[Buddy Cop -  Metro City Nights]]* (Assistant Director)
+* *Nozes Off*
+* *Buddy Cop: Metro City Nights* (Assistant Director)
 
 [[Category/Performers|Link]]

@@ -82,6 +82,6 @@ Originally from the Rio Grande Valley, Cristy moved to Austin to attend the Univ
 * [[Troupes/Soy Taco|Soy Taco]]
 
 ## Shows
-[[Austin Monologue Jam]]
+Austin Monologue Jam
 
 [[Category/Performers|Salinas]]

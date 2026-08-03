@@ -35,7 +35,7 @@ After attending the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Come
 * [[Troupes/Who Dack|Who Dack]]
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]]
 * [[Troupes/Taxicab Impressions|Taxicab Impressions]]
-* [[Alpha Quest]]
+* Alpha Quest
 
 ## Shows
 ### Improvised
@@ -49,7 +49,7 @@ After attending the [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Come
 * *[[Shows/Grimm Noir|Grimm Noir]]*
 * *[[Shows/You Can't Stay Here|You Can't Stay Here]]* (directed)
 * *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]*
-* *[[All Hell Breaks Loose]]*
+* *All Hell Breaks Loose*
 
 ### Non-Improvised
 * *[[Shows/Live TV Tuesdays -  Felicity|Live TV Tuesdays -  Felicity]]*

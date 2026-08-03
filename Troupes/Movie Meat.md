@@ -73,10 +73,10 @@
 **Movie Meat** was a *[[Shows/Cagematch|Cagematch]]* duo that performed the Movie format.
 
 ## Summary
-The duo occasionally performed with guests such as [[Performers/Joshua Krilov|Joshua Krilov]], [[Performers/Lance Gilstrap|Lance Gilstrap]], and [[Andy Petruzzo]].
+The duo occasionally performed with guests such as [[Performers/Joshua Krilov|Joshua Krilov]], [[Performers/Lance Gilstrap|Lance Gilstrap]], and Andy Petruzzo.
 
 ## History
-[[Performers/Sam Malcolm|Sam Malcolm]] started the duo after he directed, but could not perform in, the uber-successful large cast movie-format run *[[Oscar Bait]]* in November 2012.
+[[Performers/Sam Malcolm|Sam Malcolm]] started the duo after he directed, but could not perform in, the uber-successful large cast movie-format run *Oscar Bait* in November 2012.
 
 They played in the Cagematch on 2/20/13 and 2/27/13.
 

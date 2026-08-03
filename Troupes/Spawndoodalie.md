@@ -15,9 +15,9 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Erin Plishke">Erin Plishke</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenn Cargill">Jenn Cargill</a></li><!--
-  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style="">Erin Plishke</li><!--
+  --><li style="">Jenn Cargill</li><!--
+  --><li style="">Nat Miller</li><!--
   --><!--
   --><!--
   --><!--

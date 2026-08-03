@@ -27,7 +27,7 @@ Rachel is a core cast member in [[Festivals/The 45-Hour Improv Marathon|The 45-H
 ## Troupes
 * [[Troupes/The Frank Mills|The Frank Mills]]
 * [[Troupes/Rachel and Dave|Rachel and Dave]]
-* [[Yay with Rachel and Emma]]
+* Yay with Rachel and Emma
 * [[Troupes/ComedySportz|ComedySportz]]
 
 ## Shows
@@ -42,4 +42,4 @@ Rachel is a core cast member in [[Festivals/The 45-Hour Improv Marathon|The 45-H
 
 [[Category/Performers|Madorsky]]
 [[Category/Teachers|Madorsky]]
-[[Category/Active|Madorsky]]
+Madorsky

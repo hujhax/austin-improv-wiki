@@ -149,7 +149,7 @@ The name is intended to invoke a generic town that could be anywhere.  **Townsvi
 ### MacDaddy's Bar & Grill
 ![[Townsville-macdaddys.jpg|The cast of MacDaddy's Bar & Grill - March 2012 Run at ColdTowne (incomplete)]]
 
-Townsville's first script took place at a fictional sleazy small-town bar named "MacDaddy's" and was composed of 5 core sketches with 3 beats each and 3 transition sketches with 3 beats each (similar to what would be an 8x3 [[Harold]]). 
+Townsville's first script took place at a fictional sleazy small-town bar named "MacDaddy's" and was composed of 5 core sketches with 3 beats each and 3 transition sketches with 3 beats each (similar to what would be an 8x3 Harold). 
 
 ![[Macdaddy-Redux-11x17 smaller.png|The poster for the March 2012 run of MacDaddy's at ColdTowne Theater]]
 
@@ -159,18 +159,18 @@ The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole pa
 * Nicole McCracken - writer/co-director/producer, lead actress
 * Tim - writer/co-director/producer/actor
 * [[Performers/Clifton Highfield|Clifton Highfield]] - Director/Tech
-* [[Sam Van Metre]] - Assistant Director/Tech
-* [[Annette Cantu]] - Assistant Director/Tech
-* [[Joel Keith]] - lead actor
-* [[Kristen Henn]] - actor
-* [[Tre Fuentes]] - actor
+* Sam Van Metre - Assistant Director/Tech
+* Annette Cantu - Assistant Director/Tech
+* Joel Keith - lead actor
+* Kristen Henn - actor
+* Tre Fuentes - actor
 * [[Performers/Drew Wesely|Drew Wesely]] - actor
 * [[Performers/Frank Netscher|Frank Netscher]] - actor
 * [[Performers/Emma Holder|Emma Holder]] - actor
-* [[Caitlin Bumgartner]] - actor
-* [[Max Krumke]] - video sketch camera operator, actor, editor
-* [[A.J. Holler]] - actor
-* [[Michael Pedacano]] - actor
+* Caitlin Bumgartner - actor
+* Max Krumke - video sketch camera operator, actor, editor
+* A.J. Holler - actor
+* Michael Pedacano - actor
 
 ### Community Center
 ![[Townsville-communitycenter-planning.jpg|Townsville second script in planning. Writing and organizing 8 sketches with 3 beats each and a total of 10 reoccurring characters is a complex process]]
@@ -178,14 +178,14 @@ The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole pa
 Community Center will be the second installment of Townsville.
 
 ## Festivals
-[[Townsville presents MacDaddy's Bar & Grill]] performed as part of the Hyde Park Theater Short Fringe Festival in February 2012.
+Townsville presents MacDaddy's Bar & Grill performed as part of the Hyde Park Theater Short Fringe Festival in February 2012.
 
 ## Awards
-Townsville was nominated for Best Sketch Show at the [[ColdTowne Theater Awards]] 2012.
+Townsville was nominated for Best Sketch Show at the ColdTowne Theater Awards 2012.
 
 ## See Also
 * [[Troupes/Nice Astronaut|Nice Astronaut]]
-* [[Close Quarters]]
+* Close Quarters
 
-[[Category/Active|Category:Active]]
-[[Category/Shows|Category:Shows]]
+Category:Active
+Category:Shows

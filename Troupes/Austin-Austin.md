@@ -139,5 +139,5 @@ Lo! What dangers lie beyond that dark and stormy sea? Just listen, sailor!  Hear
 * Show Count: 43 (as of 09/15/2017)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

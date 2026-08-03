@@ -15,17 +15,17 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Ashley Seibels">Ashley Seibels</a></li><!--
-  --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
+  --><li style="">Ashley Seibels</li><!--
+  --><li style="">Emily McDonald</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Juliet Prather">Juliet Prather</a></li><!--
-  --><li style=""><a class="internal-link" href="Kim Dilling">Kim Dilling</a></li><!--
+  --><li style="">Juliet Prather</li><!--
+  --><li style="">Kim Dilling</li><!--
   --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Stoner">Matt Stoner</a></li><!--
-  --><li style=""><a class="internal-link" href="Matt Vaughn">Matt Vaughn</a></li><!--
-  --><li style="" ><a class="internal-link" href="Ricky Oliphant">Ricky Oliphant</a></li><!--
-  --><li style=""><a class="internal-link" href="Steve Moore">Steve Moore</a></li><!--
-  --><li style=""><a class="internal-link" href="Tevis Paxton">Tevis Paxton</a></li><!--
+  --><li style="">Matt Stoner</li><!--
+  --><li style="">Matt Vaughn</li><!--
+  --><li style="" >Ricky Oliphant</li><!--
+  --><li style="">Steve Moore</li><!--
+  --><li style="">Tevis Paxton</li><!--
   --><!--
   --><!--
   --><!--
@@ -85,4 +85,4 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active

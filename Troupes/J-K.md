@@ -72,12 +72,12 @@
 
 :*This page refers to the 2011 Pinter-themed improv duo.  For the 2015-founded high-energy duo, see [[Troupes/JK|JK]].*
 
-**J/K** was an improv duo that presented improvised plays in the style of [[Wikipedia - Harold Pinter|Harold Pinter]].
+**J/K** was an improv duo that presented improvised plays in the style of Harold Pinter.
 
 ## Media
 ### Photos
 * [Publicity photos.](http://www.facebook.com/media/set/?set=a.213931031950717.60617.176837108993443&type=3)
-* [A photoset](http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/2/11 performance at [[The Hyde Park Theater]].
+* [A photoset](http://www.facebook.com/michael.yew/photos?collection_token=1315383518%3A2305272732%3A69&set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/2/11 performance at The Hyde Park Theater.
 
 ## More Information
 [[Category/Troupes|Category:Troupes]]

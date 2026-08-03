@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Amy Dietze">Amy Dietze</a></li><!--
-  --><li style=""><a class="internal-link" href="Christine Giordano">Christine Giordano</a></li><!--
+  --><li style="">Amy Dietze</li><!--
+  --><li style="">Christine Giordano</li><!--
   --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Sara Osburn">Sara Osburn</a></li><!--
+  --><li style="">Sara Osburn</li><!--
   --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
-  --><li style=""><a class="internal-link" href="Tyler Reece Booker">Tyler Reece Booker</a></li><!--
+  --><li style="">Tyler Reece Booker</li><!--
   --><!--
   --><!--
   --><!--
@@ -95,11 +95,11 @@ The troupe played their last show at [[Festivals/The 2013 Out of Bounds Comedy F
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2996259548261.118592.1315383518&type=3) by [[Michael Yew]] of a 4/12 show at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.412426615445506.93569.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 5/12/12 performance at [[Festivals/The 2012 Ladies Are Funny Festival|The 2012 Ladies Are Funny Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3281807046770.124187.1315383518&type=3) by [[Michael Yew]] that includes their 6/24/12 performance.
-* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102379642080070.3466612.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 9/22/12 performance in *[[The Informal Pig Show]]*.
+* [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102379642080070.3466612.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 9/22/12 performance in *The Informal Pig Show*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3972198386122.139663.1315383518&type=3) by [[Michael Yew]] of their 12/15/12 "Human Santapede" show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.507735242581309.114139.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 12/20/12 "Human Santapede" show at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4125445057193.142095.1315383518&type=3) by [[Michael Yew]] which includes their 1/18/13 performance in "The Ladies Monthly Museum" at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=3) by [[Roy Moore]] that includes their 2/3/13 performance at *[[BitterFest]]*.
+* [Photoset](http://www.facebook.com/media/set/?set=a.445948858807132.97683.118587218209966&type=3) by [[Roy Moore]] that includes their 2/3/13 performance at *BitterFest*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200414001335347.1073741846.1315383518&type=3) by [[Michael Yew]] which includes their final 8/30/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information

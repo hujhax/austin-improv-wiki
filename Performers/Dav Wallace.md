@@ -22,9 +22,9 @@
 **Dav Wallace** is an improv performer.
 
 ## Summary
-Dav Wallace first joined [[Troupes/ComedySportz|ComedySportz]] in the late 1990s while the troupe was performing in [[The ComedySportz Playhouse|the first Northcross Mall space]].  Dav is probably best remembered for his quick wordplay, fantastic singing, and his psychic-like guessing abilities in 5 Things.  
+Dav Wallace first joined [[Troupes/ComedySportz|ComedySportz]] in the late 1990s while the troupe was performing in the first Northcross Mall space.  Dav is probably best remembered for his quick wordplay, fantastic singing, and his psychic-like guessing abilities in 5 Things.  
 
-While performing at [[Cafe Caffeine]], Dav took on a managerial role.
+While performing at Cafe Caffeine, Dav took on a managerial role.
 
 While a regular performer with [[Troupes/ComedySportz|ComedySportz]], Dav has also performed in many other AIC shows through the years. 
 

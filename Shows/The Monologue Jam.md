@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Jen Dorsey">Jen Dorsey</a></li><!--
+  --><li style="">Jen Dorsey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
@@ -105,5 +105,5 @@ It runs the first Saturday of every month at 10pm.
 ## More Information
 * [The show's facebook page](http://www.facebook.com/monologuejam), which is also the means of signing up for the show.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Institution Theater|Category:The Institution Theater]]
+Category:Shows
+Category:The Institution Theater

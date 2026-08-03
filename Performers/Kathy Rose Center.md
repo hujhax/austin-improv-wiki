@@ -38,7 +38,7 @@ In 2013, she applied her improv skills to her professional acting work, becoming
 ## Troupes
 * [[Troupes/Pom-Pom Sisterhood|Pom-Pom Sisterhood]]
 * [[Troupes/Grey Matters|Grey Matters]]
-* [[JOY!]]
+* JOY!
 * [[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]]
 
 ## Shows

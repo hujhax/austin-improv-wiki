@@ -16,7 +16,7 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
-  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style="">Nat Miller</li><!--
   --><!--
   --><!--
   --><!--
@@ -89,5 +89,5 @@ We play slow grounded shows with real characters and whole lot of sensitive men.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Duos|Category:Duos]]

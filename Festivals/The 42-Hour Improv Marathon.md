@@ -17,7 +17,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * Friday 7pm: *[[Shows/Maestro|Maestro]]*
 * Friday 9pm: [[Troupes/Junk|Junk]]
 * Friday 10pm: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] presents "Impromatic!", an improvised play using old photos 
-* Friday 11pm: *[[Wikipedia - TheatreSports|TheatreSports]]*
+* Friday 11pm: *TheatreSports*
 * Saturday 12am: [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * Saturday 1am: [[Troupes/Sarah 7|Sarah 7]] 
 * Saturday 2am: [[Troupes/Three Hot Chicks|Three Hot Chicks]]
@@ -48,7 +48,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * Sunday 4am: [[Troupes/Secret Senate|Secret Senate]]
 * Sunday 5am: [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]]
 * Sunday 6am: [[Shows/Doctors Without Boundaries|Doctors Without Boundaries]]
-* Sunday 7am: [[Your Dad’s Friends]] present "Improvention"
+* Sunday 7am: Your Dad’s Friends present "Improvention"
 * Sunday 8am: [[Troupes/The Amazon & The Milksop|The Amazon & The Milksop]]
 * Sunday 9am: *[[Shows/False Matters|False Matters]]*
 * Sunday 10am: *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
@@ -79,7 +79,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * [Video of hour 42](http://vimeo.com/24979661)
 
 ### Photos
-* Photosets of [hours 0 and 1](http://www.facebook.com/media/set/?set=a.2021040415803.120215.1537720942&type=3), as well as [hours 2 and 3](http://www.facebook.com/media/set/?set=a.2021301582332.120233.1537720942&type=3) from [[Lorraine DeNardis]].
+* Photosets of [hours 0 and 1](http://www.facebook.com/media/set/?set=a.2021040415803.120215.1537720942&type=3), as well as [hours 2 and 3](http://www.facebook.com/media/set/?set=a.2021301582332.120233.1537720942&type=3) from Lorraine DeNardis.
 * [Photoset of hours 20, 21, and 22](http://www.facebook.com/media/set/?set=a.863884206963.2357098.209898&type=3) from [[Performers/Nicole Beckley|Nicole Beckley]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.562180183845502.1073741892.221927764537414&type=3) by [[Steve Rogers]] of hour 23 with [[Troupes/Happy Butter|Happy Butter]].
 * [A photoset](http://www.facebook.com/media/set/?set=a.562188987177955.1073741893.221927764537414&type=3) by [[Steve Rogers]] of hour 24 with [[Troupes/The Knuckleball Now|The Knuckleball Now]].
@@ -88,7 +88,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * [A photoset](http://www.facebook.com/roy.moore/media_set?set=a.1714827082393.2081748.1589679282&type=3) by [[Roy Moore]] of hour 33 with the *[[Puppet Improv Project]]*.
 * Overall photosets:
 	* [Photoset](http://www.facebook.com/media/set/?set=a.1724964966691.86123.1315383518&type=3) from [[Michael Yew]].
-	* [Photoset](http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3)  from [[Shruti Saran]].
+	* [Photoset](http://www.facebook.com/media/set/?set=a.10100679445652283.3052072.2230063&type=3)  from Shruti Saran.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.227294783964236.77228.167352376625144&type=3) from [[Performers/Menelaos Prokos|Menelaos Prokos]].
 
 ## More Information
@@ -98,4 +98,4 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * [A recap of the event](http://hujhax.livejournal.com/760057.html) from core player [[Performers/Peter Rogers|Peter Rogers]].
 * [A 5/30/12 interview](http://www.hideouttheatre.com/the-game-changer-part-one) with [[Performers/Ryan Hill|Ryan Hill]] about discovering and watching the event.
 * [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with [[Performers/Cat Drago|Cat Drago]] about discovering and watching the event.
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

@@ -19,7 +19,7 @@
   --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Nat Miller">Nat Miller</a></li><!--
+  --><li style="">Nat Miller</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--

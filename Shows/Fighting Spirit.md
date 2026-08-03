@@ -32,6 +32,6 @@
 ## Summary
 Each show features two competing troupes.  The winner is determined at the end by audience votes.
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
-[[Category/The New Movement|Category:The New Movement]]
+Category:Shows
+Category:Active
+Category:The New Movement

@@ -18,7 +18,7 @@
   --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
-  --><li style=""><a class="internal-link" href="Paul Wainright">Paul Wainright</a></li><!--
+  --><li style="">Paul Wainright</li><!--
   --><!--
   --><!--
   --><!--
@@ -86,5 +86,5 @@ Happiness is a Choice use improvisation and their unique style of meta-theater t
 ## More Info
 * [Have VISITS of their WEBSITE!](http://choosehappiness.info)
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

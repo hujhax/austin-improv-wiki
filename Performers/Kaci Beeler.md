@@ -30,11 +30,11 @@ In December of 2005 Kaci moved back to Austin, Texas after withdrawing from Cal 
 
 Kaci went on to perform in shows like The Twofer, The Blank Show, The Cagematch and The Style Show with a variety of groups in 2006 at The Hideout Theatre. She was also a part of the original [[Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players|Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players]] cast that won the [[Festivals/Out of Bounds|Out of Bounds]] cagematch tournament in August of 2006. [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] got their first weekly show at the newly opened [[Theatres/Coldtowne Theater|Coldtowne Theater]] in October of 2006, where they originally performed [[Shows/After School Improv|After School Improv]], their first original longform narrative show concept, opening for [[Troupes/Get Up|Get Up]]. 
 
-Kaci was invited to join the [[Troupes/Available Cupholders|Available Cupholders]] in the Spring of 2007, debuting at a [[Battle of the Sexes]] show versus the all-female musical troupe [[Troupes/Girls Girls Girls|Girls Girls Girls]]. The conceit of the show was that Kaci had been brought out as a "secret weapon" to help the formerly all-male team win the match. Kaci formed the duo [[Troupes/Adventure Squad!|Adventure Squad!]] with [[Performers/Valerie Ward|Valerie Ward]] in 2008 in order to perform at [[Festivals/LAFF|LAFF]] (Ladies Are Funny Festival). She also was cast in [[Shows/Start Trekkin|Start Trekkin]] and [[Shows/Improvised Shakespeare|Improvised Shakespeare]] in 2007, and went on to perform in several seasons of both productions. She directed her first show [[Shows/After School Improv|After School Improv]] in 2009 at The [[Theatres/Hideout Theatre|Hideout Theatre]], using PGraph's original format, now with an expanded cast, specialized technical improvisation, and a new scenic design. 
+Kaci was invited to join the [[Troupes/Available Cupholders|Available Cupholders]] in the Spring of 2007, debuting at a Battle of the Sexes show versus the all-female musical troupe [[Troupes/Girls Girls Girls|Girls Girls Girls]]. The conceit of the show was that Kaci had been brought out as a "secret weapon" to help the formerly all-male team win the match. Kaci formed the duo [[Troupes/Adventure Squad!|Adventure Squad!]] with [[Performers/Valerie Ward|Valerie Ward]] in 2008 in order to perform at [[Festivals/LAFF|LAFF]] (Ladies Are Funny Festival). She also was cast in [[Shows/Start Trekkin|Start Trekkin]] and [[Shows/Improvised Shakespeare|Improvised Shakespeare]] in 2007, and went on to perform in several seasons of both productions. She directed her first show [[Shows/After School Improv|After School Improv]] in 2009 at The [[Theatres/Hideout Theatre|Hideout Theatre]], using PGraph's original format, now with an expanded cast, specialized technical improvisation, and a new scenic design. 
 
-In 2009, Kaci took on the role of Director of Design at The Hideout Theatre when the new owners [[Performers/Kareem Badr|Kareem Badr]], [[Performers/Roy Janik|Roy Janik]], and [[Performers/Jessica Arjet|Jessica Arjet]] bought the business from [[Performers/Sean Hill|Sean Hill]]. Kaci was involved with the original restructuring and talks with the landlords of the buildings, taking on her new position as a staff member of The Hideout Theatre when she graduated from St. Edward's University in May of 2009 at the age of 22. Kaci co-directed the Hideout Mainstage production [[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]] with Jessica Arjet in November/December of 2009 and [[Who Is T. Henry Baudecliffe]] with Curtis Luciani in July/August of 2010. In the Fall of 2009, Kaci formed a duo troupe, [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]] with fellow Improvised Shakespeare cast member [[Performers/Curtis Luciani|Curtis Luciani]]. They originally set out to explore gender roles through improvisation but have since gone on to create several original shows like [[Fitzgeralds For Hire]] and [[Catchin' Frogs]]. 
+In 2009, Kaci took on the role of Director of Design at The Hideout Theatre when the new owners [[Performers/Kareem Badr|Kareem Badr]], [[Performers/Roy Janik|Roy Janik]], and [[Performers/Jessica Arjet|Jessica Arjet]] bought the business from [[Performers/Sean Hill|Sean Hill]]. Kaci was involved with the original restructuring and talks with the landlords of the buildings, taking on her new position as a staff member of The Hideout Theatre when she graduated from St. Edward's University in May of 2009 at the age of 22. Kaci co-directed the Hideout Mainstage production [[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]] with Jessica Arjet in November/December of 2009 and Who Is T. Henry Baudecliffe with Curtis Luciani in July/August of 2010. In the Fall of 2009, Kaci formed a duo troupe, [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]] with fellow Improvised Shakespeare cast member [[Performers/Curtis Luciani|Curtis Luciani]]. They originally set out to explore gender roles through improvisation but have since gone on to create several original shows like Fitzgeralds For Hire and Catchin' Frogs. 
 
-Kaci performed in both the 2009 [[40-Hour Improv Marathon]] and the 2010 [[Festivals/41-Hour Improv Marathon|41-Hour Improv Marathon]]. In 2011 PGraph lived and performed in Edinburgh, Scotland for 28 days while they performed 22 improv shows at the Edinburgh Fringe Festival. In 2012 Kaci toured Asia with the Boston, Massachusetts based group Improv Boston. They performed and taught improv in Seoul, South Korea, Beijing, China, Hong Kong, Shanghai, China, Osaka, Japan, and Tokyo, Japan. 
+Kaci performed in both the 2009 40-Hour Improv Marathon and the 2010 [[Festivals/41-Hour Improv Marathon|41-Hour Improv Marathon]]. In 2011 PGraph lived and performed in Edinburgh, Scotland for 28 days while they performed 22 improv shows at the Edinburgh Fringe Festival. In 2012 Kaci toured Asia with the Boston, Massachusetts based group Improv Boston. They performed and taught improv in Seoul, South Korea, Beijing, China, Hong Kong, Shanghai, China, Osaka, Japan, and Tokyo, Japan. 
 Through her personal improv work and her work with Parallelogramophonograph and the Available Cupholders, Kaci has toured to teach and perform improv throughout the United States, Canada, Australia, Scotland, England, France, China, Japan, and South Korea.
 
 ### The First Improv Show She Saw
@@ -83,16 +83,16 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Shows/The Derby|The Derby]]*
 * *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]* (2010-2012)
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
-* [[F. Scott and Zelda Fitzgerald Save The World!]] (Performed and Produced)
+* F. Scott and Zelda Fitzgerald Save The World! (Performed and Produced)
 * *[[Shows/Fandom|Fandom]]* (Performed and Directed)
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]* (Touring Performer)
 * *[[Shows/Gorilla Theater|Gorilla Theater]]*
-* *[[Heavens, Mr. Darcy! Improvised Erotic Jane Austen]]*
+* *Heavens, Mr. Darcy! Improvised Erotic Jane Austen*
 * *[[Shows/Hitchcocked!|Hitchcocked!]]*
 * *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]* (Performed and Directed)
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*
-* *[[The Kindness of Strangers -  Improvised Tennesee Williams]]* (Performed and Co-Directed)
+* *The Kindness of Strangers: Improvised Tennesee Williams* (Performed and Co-Directed)
 * *[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]*
 * *[[Shows/Manhattan Stories|Manhattan Stories]]*
 * *[[Shows/Maestro|Maestro]]* (2005-)
@@ -101,11 +101,11 @@ I never thought, "I can do this." I figured they were just really funny and tale
 * *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]* (Performed and Directed)
 * *[[Shows/Pick Your Own Path|Pick Your Own Path]]*
 * *[[Shows/Process|Process]]*
-* *[[Orphans! The Improvised Orphan Musical]]* (Performed and Co-Directed)
+* *Orphans! The Improvised Orphan Musical* (Performed and Co-Directed)
 * *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/Stool Pigeon|Stool Pigeon]]*
-* *[[This Week Tonight]]*
+* *This Week Tonight*
 * *[[Shows/Victrola|Victrola]]*
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 * *[[Shows/Whirled News Tonight|Whirled News Tonight]]*

@@ -20,9 +20,9 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
-  --><li style=""><a class="internal-link" href="Angela Maldonado">Angela Maldonado</a></li><!--
-  --><li style=""><a class="internal-link" href="Britain Spellings">Britain Spellings</a></li><!--
-  --><li style=""><a class="internal-link" href="Caitlin Baumgartner">Caitlin Baumgartner</a></li><!--
+  --><li style="">Angela Maldonado</li><!--
+  --><li style="">Britain Spellings</li><!--
+  --><li style="">Caitlin Baumgartner</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Celena Diamond">Celena Diamond</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
@@ -31,18 +31,18 @@
   --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Jaime Gonzales">Jaime Gonzales</a></li><!--
+  --><li style="">Jaime Gonzales</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Jen Dorsey">Jen Dorsey</a></li><!--
+  --><li style="">Jen Dorsey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Jesse Pangelinan">Jesse Pangelinan</a></li><!--
-  --><li style=""><a class="internal-link" href="Jim Doggett">Jim Doggett</a></li><!--
+  --><li style="">Jesse Pangelinan</li><!--
+  --><li style="">Jim Doggett</li><!--
   --><li style=""><a class="internal-link" href="Performers/Les McGehee">Les McGehee</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Mark Shoemaker">Mark Shoemaker</a></li><!--
-  --><li style=""><a class="internal-link" href="Monica Ybarra-Torres">Monica Ybarra-Torres</a></li><!--
+  --><li style="">Monica Ybarra-Torres</li><!--
   --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Sandra Ybarra">Sandra Ybarra</a></li><!--
+  --><li style="">Sandra Ybarra</li><!--
   --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
@@ -152,57 +152,57 @@ For each of its runs, the show has run every other Sunday at 6pm.
 Season one ran from 10/1/12 to 1/3/2013.
 
 * [[Performers/Amy Averett|Amy Averett]]
-* [[Britain Spellings]]
-* [[Caitlin Baumgartner]]
+* Britain Spellings
+* Caitlin Baumgartner
 * [[Performers/Chuy Zarate|Chuy Zarate]]
 * [[Performers/Cortney DeAngelo|Cortney DeAngelo]]
-* [[Jaime Gonzales]]
+* Jaime Gonzales
 * [[Performers/Jeff Britt|Jeff Britt]]
-* [[Jen Dorsey]]
+* Jen Dorsey
 * [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]]
-* [[Jesse Pangelinan]]
-* [[Jim Doggett]]
-* [[Monica Ybarra-Torres]]
-* [[Sandra Ybarra]]
+* Jesse Pangelinan
+* Jim Doggett
+* Monica Ybarra-Torres
+* Sandra Ybarra
 * [[Performers/Tom Booker|Tom Booker]]
 * [[Performers/Tyler Bryce|Tyler Bryce]]
 
 #### Season 2
 Season two ran from 2/10/13 to June of 2013.
 
-* [[Caitlin Baumgartner]]
+* Caitlin Baumgartner
 * [[Performers/Celena Diamond|Celena Diamond]]
 * [[Performers/Chelley Pyatt|Chelley Pyatt]]
 * [[Performers/Cortney DeAngelo|Cortney DeAngelo]]
 * [[Performers/Dave Buckman|Dave Buckman]]
 * [[Performers/Heidi Caldwell|Heidi Caldwell]]
-* [[Jaime Gonzales]]
-* [[Jen Dorsey]]
-* [[Jesse Pangelinan]]
-* [[Jim Doggett]]
+* Jaime Gonzales
+* Jen Dorsey
+* Jesse Pangelinan
+* Jim Doggett
 * [[Performers/Les McGehee|Les McGehee]]
 * [[Performers/Mark Shoemaker|Mark Shoemaker]]
-* [[Monica Ybarra-Torres]]
+* Monica Ybarra-Torres
 * [[Performers/Roy Janik|Roy Janik]]
-* [[Sandra Ybarra]]
+* Sandra Ybarra
 * [[Performers/Tom Booker|Tom Booker]]
 * [[Performers/Tyler Bryce|Tyler Bryce]]
 
 #### Season 3
 Season one ran from 10/6/13 to January 2014.
 
-* [[Angela Maldonado]]
+* Angela Maldonado
 * [[Performers/Ceej Allen|Ceej Allen]]
 * [[Performers/Celena Diamond|Celena Diamond]]
 * [[Performers/Chelley Pyatt|Chelley Pyatt]]
 * [[Performers/Cortney DeAngelo|Cortney DeAngelo]]
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Heidi Caldwell|Heidi Caldwell]]
-* [[Jen Dorsey]]
+* Jen Dorsey
 * [[Performers/Mark Shoemaker|Mark Shoemaker]]
-* [[Monica Ybarra-Torres]]
+* Monica Ybarra-Torres
 * [[Performers/Paul Normandin|Paul Normandin]]
-* [[Sandra Ybarra]]
+* Sandra Ybarra
 * [[Performers/Tom Booker|Tom Booker]]
 * [[Performers/Tyler Bryce|Tyler Bryce]]
 
@@ -233,7 +233,7 @@ Season one ran from 10/6/13 to January 2014.
 
 ## More Information
 * [The show's facebook page.](http://www.facebook.com/thintheherd)
-* [An article about the show](http://www.austinchronicle.com/daily/arts/2013-01-04/always-on-a-sunday-the-comedians-of-thinning-the-herd/) by [[Wayne Alan Brenner]] for *The Austin Chronicle*.
+* [An article about the show](http://www.austinchronicle.com/daily/arts/2013-01-04/always-on-a-sunday-the-comedians-of-thinning-the-herd/) by Wayne Alan Brenner for *The Austin Chronicle*.
 
-[[Category/Shows|Category:Shows]]
+Category:Shows
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]

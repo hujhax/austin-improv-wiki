@@ -19,13 +19,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aaron Roxby">Aaron Roxby</a></li><!--
-  --><li style=""><a class="internal-link" href="Cassidy Santaguida">Cassidy Santaguida</a></li><!--
-  --><li style=""><a class="internal-link" href="Chris Sebilia">Chris Sebilia</a></li><!--
+  --><li style="">Aaron Roxby</li><!--
+  --><li style="">Cassidy Santaguida</li><!--
+  --><li style="">Chris Sebilia</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
-  --><li style=""><a class="internal-link" href="Steve Jaffe">Steve Jaffe</a></li><!--
+  --><li style="">Maitland Lederer</li><!--
+  --><li style="">Steve Jaffe</li><!--
   --><li style=""><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--

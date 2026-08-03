@@ -15,8 +15,8 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Courtney Sevener">Courtney Sevener</a> (co-host)</li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Osterwisch">Elizabeth Osterwisch</a> (co-host)</li><!--
+  --><li style="">Courtney Sevener (co-host)</li><!--
+  --><li style="">Elizabeth Osterwisch (co-host)</li><!--
   --><!--
   --><!--
   --><!--
@@ -88,5 +88,5 @@ It plays the first Thursday of every month at 10pm.
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/events/red-envelope-improv-8)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

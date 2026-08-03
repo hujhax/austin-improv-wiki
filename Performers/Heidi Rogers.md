@@ -25,7 +25,7 @@
 Heidi was a film student and enthusiast. She started taking improv classes at the Hideout in 2011. 
 
 ## Troupes
-* [[The Secret Garden]] (2012) 
+* The Secret Garden (2012) 
 
 ## Shows
 * *[[Shows/After School Improv|After School Improv]]*

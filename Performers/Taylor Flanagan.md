@@ -27,7 +27,7 @@ Taylor Flanagan is an experienced actress in scripted productions who improvised
 By day, she works as a Spanish teacher and reading tutor.
 
 ## History
-Taylor Flanagan grew up taking theater classes at [[ZACH theater]]'s Performing Arts School, winning a [[B. Iden Payne Award]] for Outstanding Youth Performer for the part of the Teacher in *The Visit* at The Vortex Theater.
+Taylor Flanagan grew up taking theater classes at ZACH theater's Performing Arts School, winning a B. Iden Payne Award for Outstanding Youth Performer for the part of the Teacher in *The Visit* at The Vortex Theater.
 
 The highlight of her stage life so far has been performing in a dance-based show ("Parents/Kids Dance Party") with her real-life mother, sister, and grandmother.
 

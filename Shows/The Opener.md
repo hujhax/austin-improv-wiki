@@ -10,13 +10,13 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Hotel Vegas">Hotel Vegas</a></td>
+			<td class="category">Hotel Vegas</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Dean Kirkpatrick">Dean Kirkpatrick</a> (co-host)</li><!--
-  --><li style=""><a class="internal-link" href="Eric Nagurney">Eric Nagurney</a> (co-host)</li><!--
+  --><li style="">Dean Kirkpatrick (co-host)</li><!--
+  --><li style="">Eric Nagurney (co-host)</li><!--
   --><!--
   --><!--
   --><!--
@@ -90,5 +90,5 @@ The show runs on Sundays from 8:00pm to 10:00pm.
 ## More Information
 * [The show's web page.](http://www.newmovementtheater.com/details/?cid=all&mc_id=13635)
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:Active

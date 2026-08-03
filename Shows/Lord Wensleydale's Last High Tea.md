@@ -122,4 +122,4 @@ The event was nominated for an Austin Critics Table Award in 2013, under the cat
 * [The list of 2013 Austin Critics Table Award Nominations.](http://www.austinchronicle.com/arts/2013-05-24/austin-critics-table-awards-2013/)
 
 [[Category/Only One Performance|Category:Only One Performance]]
-[[Category/Shows|Category:Shows]]
+Category:Shows

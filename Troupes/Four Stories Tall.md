@@ -19,11 +19,11 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alec Bainter">Alec Bainter</a></li><!--
-  --><li style=""><a class="internal-link" href="John Manzer">John Manzer</a></li><!--
-  --><li style=""><a class="internal-link" href="Monk Landry">Monk Landry</a></li><!--
-  --><li style=""><a class="internal-link" href="Ryan Farley">Ryan Farley</a></li><!--
-  --><li style=""><a class="internal-link" href="Thomas Scruggs">Thomas Scruggs</a></li><!--
+  --><li style="">Alec Bainter</li><!--
+  --><li style="">John Manzer</li><!--
+  --><li style="">Monk Landry</li><!--
+  --><li style="">Ryan Farley</li><!--
+  --><li style="">Thomas Scruggs</li><!--
   --><!--
   --><!--
   --><!--
@@ -91,5 +91,5 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 * [The troupe's facebook page.](http://www.facebook.com/pages/Four-Stories-Tall/288843287855043)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

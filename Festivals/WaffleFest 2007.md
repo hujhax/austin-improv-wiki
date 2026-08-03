@@ -12,16 +12,16 @@ It included an all-star *[[Shows/Maestro|Maestro]]*.
 * [[Troupes/Get Up|Get Up]]
 * [[Troupes/Girls Girls Girls|Girls Girls Girls]]
 * [[Troupes/Improv For Evil|Improv For Evil]]
-* [[Is That Science]]
+* Is That Science?
 * [[Troupes/Junk|Junk]]
 * [[Troupes/The Knuckleball Now|The Knuckleball Now]]
 * [[Performers/Les McGehee|Les McGehee]] (as "Les McGehee plays well with Waffles")
 * [[Troupes/Look Cookie|Look Cookie]]
 * [[Troupes/Midnight Society|Midnight Society]]
 * [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* [[The Smoking Arm]]
+* The Smoking Arm
 * [[Troupes/The Starter Kit|The Starter Kit]]
 
 ## More Information
 * [Call for volunteers](http://forum.austinimprov.com/viewtopic.php?f=13&t=5380) on [[The Austin Improv Forums]].
-[[Category/Festivals|Category:Festivals]]
+Category:Festivals

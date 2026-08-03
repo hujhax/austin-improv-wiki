@@ -28,8 +28,8 @@
 * [[Troupes/Who Dack|Who Dack]]
 * [[Troupes/Silent Letters|Silent Letters]]
 * [[Troupes/Skutch|Skutch]]
-* [[Natan]]
-* [[Unreliable]]
+* Natan
+* Unreliable
 
 ## Shows
 * *[[Shows/Indy Movies|Indy Movies]]*

@@ -214,4 +214,4 @@ It then ran Fridays in February and March of 2015, and was part of [[Festivals/T
 * [Audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17121) in [[The Austin Improv Forums]].
 * [Review](http://yesandrew.com/2014/06/14/6305/) by [[Performers/Andrew Buck|Andrew Buck]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

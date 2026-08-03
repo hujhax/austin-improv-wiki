@@ -46,6 +46,6 @@ Its early performances included a five-minute interstitial act between the first
 * [The story created for the 4/9/10 show](http://www.hideouttheatre.com/the-pony-wife-inspired-by-the-49-spectacle) (by [[Performers/Jo Chauvin|Jo Chauvin]]).
 * [The poem created for the 4/23/10 show](http://www.hideouttheatre.com/big-poppa-es-poem-inspired-by-the-423-spectacle).
 
-[[Category/Shows|Spectacle]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Spectacle
+Category:The Hideout Theatre
+Category:Active

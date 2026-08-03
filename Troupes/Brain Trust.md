@@ -85,4 +85,4 @@
 * [The troupe's facebook page.](http://www.facebook.com/braintrustimprov)
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

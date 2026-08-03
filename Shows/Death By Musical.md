@@ -15,7 +15,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
+  --><li style="">Margaret Hunsicker</li><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
@@ -73,17 +73,17 @@
   --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Jordan T Maxwell">Jordan T Maxwell</a></li><!--
+  --><li style="">Jordan T Maxwell</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Mallory Schlossburg">Mallory Schlossburg</a></li><!--
+  --><li style="">Mallory Schlossburg</li><!--
   --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
-  --><li style="" ><a class="internal-link" href="Marcone Cangassu">Marcone Cangassu</a></li><!--
-  --><li style=""><a class="internal-link" href="Margaret Hunsicker">Margaret Hunsicker</a></li><!--
+  --><li style="" >Marcone Cangassu</li><!--
+  --><li style="">Margaret Hunsicker</li><!--
   --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Sarah Doering">Sarah Doering</a></li><!--
-  --><li style=""><a class="internal-link" href="Tyler Groce">Tyler Groce</a></li><!--
+  --><li style="">Sarah Doering</li><!--
+  --><li style="">Tyler Groce</li><!--
   --><!--
   --><!--
   --><!--
@@ -137,6 +137,6 @@ Every week a brand new horror comedy musical will be improvised before your very
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/deathbymusical)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

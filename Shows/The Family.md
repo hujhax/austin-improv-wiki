@@ -23,15 +23,15 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aron Taylor">Aron Taylor</a></li><!--
+  --><li style="">Aron Taylor</li><!--
   --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Elizabeth Bigger">Elizabeth Bigger</a></li><!--
+  --><li style="">Elizabeth Bigger</li><!--
   --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Gary Richardson">Gary Richardson</a></li><!--
-  --><li style=""><a class="internal-link" href="Hugo Vargas-Zesati">Hugo Vargas-Zesati</a></li><!--
-  --><li style=""><a class="internal-link" href="Jonathan Euseppi">Jonathan Euseppi</a></li><!--
+  --><li style="">Gary Richardson</li><!--
+  --><li style="">Hugo Vargas-Zesati</li><!--
+  --><li style="">Jonathan Euseppi</li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
-  --><li style="" ><a class="internal-link" href="Ron Weisberg">Ron Weisberg</a></li><!--
+  --><li style="" >Ron Weisberg</li><!--
   --><!--
   --><!--
   --><!--
@@ -88,7 +88,7 @@
 *The Family* was a scripted production where the script was 'devised' -- that is, it was written based on improvisation performed by the cast.  It was set in New York City in 1985, after the boss of the Marchetti crime family had been murdered. 
 
 ## Cast
-* Giovanni Valenti -- [[Hugo Vargas-Zesati]]
+* Giovanni Valenti -- Hugo Vargas-Zesati
 
 ## Media
 * [A music video for "You Don't Have To Know My Name (To Be My Lover)"](http://youtu.be/wwsSt9mL3aI), ostensibly created by Giovanni Valenti, one of the show's characters.
@@ -97,4 +97,4 @@
 ## More Information
 * [The show's website.](http://gnaptheater.org/the-family/)
 * [The show's facebook event.](http://www.facebook.com/events/496285910062/)
-[[Category/Shows|Category:Shows]]
+Category:Shows

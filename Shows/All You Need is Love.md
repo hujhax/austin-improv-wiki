@@ -73,21 +73,21 @@
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category">[[Sandra Ybarra]]</td>
+			<td class="category">Sandra Ybarra</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Aaron Rubin">Aaron Rubin</a></li><!--
-  --><li style=""><a class="internal-link" href="Casey Marie">Casey Marie</a></li><!--
+  --><li style="">Aaron Rubin</li><!--
+  --><li style="">Casey Marie</li><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
-  --><li style=""><a class="internal-link" href="Cody Herring">Cody Herring</a></li><!--
-  --><li style=""><a class="internal-link" href="Emily McDonald">Emily McDonald</a></li><!--
-  --><li style=""><a class="internal-link" href="Esperanza Rivadeneira">Esperanza Rivadeneira</a></li><!--
-  --><li style=""><a class="internal-link" href="Kendall Raymond">Kendall Raymond</a></li><!--
-  --><li style=""><a class="internal-link" href="Kristy Okada">Kristy Okada</a></li><!--
-  --><li style="" ><a class="internal-link" href="Matthew Hernandez">Matthew Hernandez</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Raymond">Michael Raymond</a></li><!--
+  --><li style="">Cody Herring</li><!--
+  --><li style="">Emily McDonald</li><!--
+  --><li style="">Esperanza Rivadeneira</li><!--
+  --><li style="">Kendall Raymond</li><!--
+  --><li style="">Kristy Okada</li><!--
+  --><li style="" >Matthew Hernandez</li><!--
+  --><li style="">Michael Raymond</li><!--
   --><!--
   --><!--
   --><!--
@@ -133,9 +133,9 @@
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Frank S&aacute;nchez">Frank S&aacute;nchez</a></li><!--
-  --><li style=""><a class="internal-link" href="Seymour Addison">Seymour Addison</a></li><!--
-  --><li style=""><a class="internal-link" href="Eric McVicker">Eric McVicker</a></li><!--
+  --><li style="">Frank S&aacute;nchez</li><!--
+  --><li style="">Seymour Addison</li><!--
+  --><li style="">Eric McVicker</li><!--
   --><!--
   --><!--
   --><!--
@@ -200,6 +200,6 @@
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/AllYouNeedisLove)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

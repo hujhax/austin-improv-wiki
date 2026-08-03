@@ -23,7 +23,7 @@
 **Dana Yanoshak** is an improv performer. Sometimes she performs in a Furkini.
 ## Troupes
 * [[Troupes/Apocalypse (troupe)|Apocalypse]]
-* [[Bedfellows]]
+* Bedfellows
 * [[Troupes/My Best Fiend|My Best Fiend]] (Guest Appearance as Marlene Dietrich)
 * [[Shows/Pick Your Own Path|Pick Your Own Path]] 
 * [[Troupes/Senshi Sokyo|Senshi Sokyo]]

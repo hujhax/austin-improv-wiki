@@ -15,8 +15,8 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Collin Cannaday">Collin Cannaday</a></li><!--
-  --><li style=""><a class="internal-link" href="Jenny Carlson">Jenny Carlson</a></li><!--
+  --><li style="">Collin Cannaday</li><!--
+  --><li style="">Jenny Carlson</li><!--
   --><!--
   --><!--
   --><!--

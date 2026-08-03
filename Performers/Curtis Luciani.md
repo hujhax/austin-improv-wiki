@@ -19,7 +19,7 @@
 	</table>
 </div>
 
-**Curtis Luciani** ([[Wikipedia - Help - IPA for English#Key|/ˈluːtʃiːˌɑːniː/]]) is an improv performer and director.
+**Curtis Luciani** (/ˈluːtʃiːˌɑːniː/) is an improv performer and director.
 
 ## History
 Curtis was a core performer in both [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] and [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].

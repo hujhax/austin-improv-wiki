@@ -15,13 +15,13 @@
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Andrew Rosas">Andrew Rosas</a></li><!--
-  --><li style=""><a class="internal-link" href="Dave Youmans">Dave Youmans</a></li><!--
-  --><li style=""><a class="internal-link" href="David Jara">David Jara</a></li><!--
-  --><li style=""><a class="internal-link" href="Joe Parsons">Joe Parsons</a></li><!--
+  --><li style="">Andrew Rosas</li><!--
+  --><li style="">Dave Youmans</li><!--
+  --><li style="">David Jara</li><!--
+  --><li style="">Joe Parsons</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Mac Blake">Mac Blake</a></li><!--
-  --><li style=""><a class="internal-link" href="Ximena Estrada">Ximena Estrada</a></li><!--
+  --><li style="">Mac Blake</li><!--
+  --><li style="">Ximena Estrada</li><!--
   --><!--
   --><!--
   --><!--
@@ -81,8 +81,8 @@ The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstag
 * [Video](http://vimeo.com/74055491) by [[Performers/Dave alley|Dave alley]] of their 8/30/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.744463752283810.1073742012.221927764537414&type=3) by [[Steve Rogers]] of their performance at the 2014 [[Austin Sketch Fest]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.965141490216034.1073742201.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/21/15 show at [[Austin Sketch Fest]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.744463752283810.1073742012.221927764537414&type=3) by [[Steve Rogers]] of their performance at the 2014 Austin Sketch Fest.
+* [Photoset](http://www.facebook.com/media/set/?set=a.965141490216034.1073742201.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/21/15 show at Austin Sketch Fest.
 
 ## More Information
 * [The troupe's web page.](http://stagcomedy.com/?page_id=549)
@@ -90,4 +90,4 @@ The troupe produced "Stab Comedy", a Halloween-themed sketch show, as a mainstag
 
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

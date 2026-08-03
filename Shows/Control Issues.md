@@ -71,8 +71,8 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a> (2014-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Angie Yaeyama">Angie Yaeyama</a> (2015-Present)</li><!--
-  --><li style=""><a class="internal-link" href="Caroline Gorman">Caroline Gorman</a> (2015-Present)</li><!--
+  --><li style="">Angie Yaeyama (2015-Present)</li><!--
+  --><li style="">Caroline Gorman (2015-Present)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a> (2014-Present)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a> (2015-Present)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a> (2015-Present)</li><!--
@@ -129,7 +129,7 @@
   --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a> (2014-2015)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a> (2014-2015)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a> (2014-2015)</li><!--
-  --><li style=""><a class="internal-link" href="Phil Morin">Phil Morin</a> (2015-2016)</li><!--
+  --><li style="">Phil Morin (2015-2016)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Austin">Rachel Austin</a> (2015-2016)</li><!--
   --><!--
   --><!--
@@ -247,6 +247,6 @@ From 2010 to 2014, the show was a pick-up format, cast month-to-month from inter
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/pickyourownpath)
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
-[[Category/Active|Category:Active]]
+Category:Shows
+Category:The Hideout Theatre
+Category:Active

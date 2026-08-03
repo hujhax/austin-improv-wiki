@@ -1,4 +1,4 @@
-The AIC Wiki follows the [[Wikipedia - Wikipedia - Manual of Style|Wikipedia Manual of Style]] except in cases noted below.
+The AIC Wiki follows the Wikipedia Manual of Style except in cases noted below.
 
 ## Names and Titles
 * Each article should begin with the name of the page in **bold text**.
@@ -17,7 +17,7 @@ Categories can be added for the following:
 * Shows
 * Performers
 
-Categories are added by adding the <nowiki>[[Category]]</nowiki> tag, in the following style:
+Categories are added by adding the <nowiki>Category</nowiki> tag, in the following style:
 
  <nowiki>[[Category/Performers|Smith]]</nowiki>
 
@@ -25,7 +25,7 @@ This would put the page (presumably for someone named Smith) into the Performers
 
 ## Links
 * Link everything you can on the first mention. Subsequent mentions on the same page need not be linked.
-* Links to Wikipedia use the following syntax: <nowiki>[[Wikipedia - monkeys|monkeys]]</nowiki>
+* Links to Wikipedia use the following syntax: <nowiki>monkeys</nowiki>
 * Try and use the canonical name of a page if possible. For example, the canonical name for that festival we all call "OOB" is [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 * If you wish to refer to a page using a non-canonical name, you can add it to the link as:
  <nowiki>[[Festivals/The Out Of Bounds Comedy Festival|OOB]]</nowiki>

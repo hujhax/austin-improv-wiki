@@ -82,7 +82,7 @@
 	</table>
 </div>
 
-***Myth Debunkers*** was an improvised version of *[[Wikipedia - MythBusters|MythBusters]]*.
+***Myth Debunkers*** was an improvised version of *MythBusters*.
 
 ## History
 The show ran once as a *[[Shows/Free Fringe|Free Fringe]]* on 6/14/12, and had an encore performance on 3/22/13 as part of *[[Shows/The TV Set|The TV Set]]*.
@@ -100,5 +100,5 @@ Improvisors played the central cast of *MythBusters*, occasionally subbing out a
 * [Video of the 6/14/12 show.](http://vimeo.com/44089819)
 * [Video of the 3/22/13 show.](http://vimeo.com/68283980)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows
 [[Category/Started as a Fringe Show|Category:Started as a Fringe Show]]

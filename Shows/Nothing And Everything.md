@@ -19,7 +19,7 @@
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Dave Yakubik">Dave Yakubik</a></li><!--
+  --><li style="">Dave Yakubik</li><!--
   --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
@@ -192,7 +192,7 @@
 	</table>
 </div>
 
-***Nothing and Everything*** was a narrative improv show inspired by the works of [[Wikipedia - Anton Chekhov|Anton Chekhov]].  It was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Nothing and Everything*** was a narrative improv show inspired by the works of Anton Chekhov.  It was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Show Style
 The show took place on a rural Russian estate in the 1890s.  The costumes, while not absolutely period-perfect, suggested that era while conveying an out-of-time quality.  Similarly, the stage was filled with props and furniture that suggest the time period and location -- in fact, the show featured no spacework whatsoever, using only real, physical props and furniture.
@@ -205,7 +205,7 @@ The show featured long scenes that shifted focus and composition over time.  Cha
 
 The tech aimed to avoid being 'busy'.  The lights featured slow isolations focussing the audience on particular characters or conversations, but tended to keep the same feel for each act (see below).  Likewise, sound tended to be very sparing with sound effects -- as with Chekhov, the production aimed to make every sound effect something that's significant to the story.
 
-The show wrestled with the same themes as Chekhov's "big four" (*[[Wikipedia - The Seagull|The Seagull]]*, *[[Wikipedia - Three Sisters|Three Sisters]]*, *[[Wikipedia - Uncle Vanya|Uncle Vanya]]*, *[[Wikipedia - The Cherry Orchard|The Cherry Orchard]]*).  Characters were often frustrated with the ineffectuality of their own lives or of the nation as a whole.  Passionate, romantic feelings went unrequited.  The characters lived in a historical context where the aristocracy was fading in power and relevance, and nobody was certain what would replace it.
+The show wrestled with the same themes as Chekhov's "big four" (*The Seagull*, *Three Sisters*, *Uncle Vanya*, *The Cherry Orchard*).  Characters were often frustrated with the ineffectuality of their own lives or of the nation as a whole.  Passionate, romantic feelings went unrequited.  The characters lived in a historical context where the aristocracy was fading in power and relevance, and nobody was certain what would replace it.
 
 At the same time, the show aimed more for realism than for traditional "everyone learns a lesson" storytelling.  It aimed for minor-key depictions of real life, caring as much about giving the audience a brief window into this world as it does about any traditional notions of plot.
 
@@ -234,7 +234,7 @@ It was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised
 	* [Video](http://vimeo.com/113191194) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/29/14 show.
 	* [Video](http://vimeo.com/114520138) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/13/14 show.
 	* [Video](http://vimeo.com/115144124) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/20/14 show. (The infamous flower catch is at time code 1:03. Hideout direct post is here: https://www.facebook.com/groups/hideouttheatre/permalink/853007534722352/)
-* 2015 [[Long Center]] run:
+* 2015 Long Center run:
 	* [Video](http://vimeo.com/137272124) of the 8/21/15 performance.
 		* [Video](http://vimeo.com/138711711) of the following audience Q&A.
 	* [Video](http://vimeo.com/138222384) of the 8/22/15 performance.
@@ -245,7 +245,7 @@ It was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised
 	* [Photoset](http://www.facebook.com/media/set/?set=a.835683449828506.1073742104.221927764537414&type=3) by [[Steve Rogers]] of the 11/6/14 preview.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.722827997793714.1073741850.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of the 11/22/14 show.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.10203172881145618.1073741922.1315383518&type=3) by [[Michael Yew]] of the 12/20/14 show.
-* 2015 [[Long Center]] run:
+* 2015 Long Center run:
 * [Photos](http://www.facebook.com/michael.yew/media_set?set=a.10204706711010406.1073741962.1315383518&type=3) by [[Michael Yew]] from the run.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.1024131600983689.1073742232.221927764537414&type=3) by [[Steve Rogers]] of the 8/20/15 show.
 	* [Photoset](http://www.facebook.com/media/set/?set=a.1026071640789685.1073742233.221927764537414&type=3) by [[Steve Rogers]] of the 8/23/15 show.
@@ -257,5 +257,5 @@ It was part of [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised
 * [A faux interview](http://yesandrew.com/the-sunday-interview-anton-chekhov/) with Chekhov by [[Performers/Andrew Buck|Andrew Buck]].
 * [Admiring quotes about the show](http://www.hideouttheatre.com/audiences-are-raving-about-nothing-and-everything) from the Hideout's blog.
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

@@ -71,10 +71,10 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Buck">Andy Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Annabel Guevara">Annabel Guevara</a></li><!--
+  --><li style="">Annabel Guevara</li><!--
   --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Colin Bates">Colin Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Dan Kerrigan">Dan Kerrigan</a></li><!--
+  --><li style="">Dan Kerrigan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
@@ -83,12 +83,12 @@
   --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Mars Wright">Mars Wright</a></li><!--
+  --><li style="">Mars Wright</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Teresa York">Teresa York</a></li><!--
+  --><li style="">Teresa York</li><!--
   --><!--
   --><!--
   --><!--
@@ -184,21 +184,21 @@
 	</table>
 </div>
 
-***Not This American Life*** (original title: ***This American Live***) was a variety show that explores a topic via scripted and improvised material.  It was inspired by the NPR program *[[Wikipedia - This American Life|This American Life]]*.
+***Not This American Life*** (original title: ***This American Live***) was a variety show that explores a topic via scripted and improvised material.  It was inspired by the NPR program *This American Life*.
 
 ## Summary
 ## History
 ### Name Change
-The show was originally called *This American Live*, but in 2013, it received a cease-and-desist letter from NPR, which apologized for the 'hassle' but pointed out that at least one theatergoer had contacted NPR asking for ticket information.  Host [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] wrote back with a set of suggested alternate titles.  *This American Life* host [[Wikipedia - This American Life|Ira Glass]] favored "Not This American Life", and the name change followed.
+The show was originally called *This American Live*, but in 2013, it received a cease-and-desist letter from NPR, which apologized for the 'hassle' but pointed out that at least one theatergoer had contacted NPR asking for ticket information.  Host [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] wrote back with a set of suggested alternate titles.  *This American Life* host Ira Glass favored "Not This American Life", and the name change followed.
 
 ### Casts
-* First run, cast by [[Performers/Shannon McCormick|Shannon McCormick]] & [[Kerri Lendo]]
+* First run, cast by [[Performers/Shannon McCormick|Shannon McCormick]] & Kerri Lendo
 	* Directed and adapted for the stage by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]
 	* Assistant Directed by [[Performers/Ruby Willmann|Ruby Willmann]]
-	* Cast & Producers: [[Performers/Andy Buck|Andy Buck]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Lisa Jackson|Lisa Jackson]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Luis Salinas|Luis Salinas]], [[Teresa York]], [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Gene Zhou|Gene Zhou]], [[Performers/Sam Schak|Sam Schak]] (tech)
+	* Cast & Producers: [[Performers/Andy Buck|Andy Buck]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Lisa Jackson|Lisa Jackson]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Luis Salinas|Luis Salinas]], Teresa York, [[Performers/Ruby Willmann|Ruby Willmann]], [[Performers/Gene Zhou|Gene Zhou]], [[Performers/Sam Schak|Sam Schak]] (tech)
  
 * Second run, cast, directed, and produced by [[Performers/Asaf Ronen|Asaf Ronen]] & [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]
-	* [[Performers/Colin Bates|Colin Bates]], [[Performers/Nicole Beckley|Nicole Beckley]], [[Performers/Heidi Caldwell|Heidi Caldwell]], [[Annabel Guevara]], [[Dan Kerrigan]], [[Performers/Brandon Martin|Brandon Martin]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Sam Schak|Sam Schak]], [[Mars Wright]], [[Performers/Gene Zhou|Gene Zhou]]
+	* [[Performers/Colin Bates|Colin Bates]], [[Performers/Nicole Beckley|Nicole Beckley]], [[Performers/Heidi Caldwell|Heidi Caldwell]], Annabel Guevara, Dan Kerrigan, [[Performers/Brandon Martin|Brandon Martin]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Sam Schak|Sam Schak]], Mars Wright, [[Performers/Gene Zhou|Gene Zhou]]
 
 * Third run, no regular cast:
 	* Directed and Produced by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] & [[Performers/Asaf Ronen|Asaf Ronen]]
@@ -211,7 +211,7 @@ The show was originally called *This American Live*, but in 2013, it received a 
 * 5/19/12 - Episode 2 - "Co-existence" (produced by [[Performers/Ruby Willmann|Ruby Willmann]] & [[Performers/Lisa Jackson|Lisa Jackson]])
 * 5/25/12 - Episode 3 - "Physics as a Metaphor" (produced by [[Performers/Luis Salinas|Luis Salinas]])
 * 5/26/12 - Episode 4 - "Cinematic Reality" (produced by [[Performers/Heidi Rogers|Heidi Rogers]])
-* 6/1/12 - Episode 5 - "What a Coincidence" (produced by [[Teresa York]])
+* 6/1/12 - Episode 5 - "What a Coincidence" (produced by Teresa York)
 * 6/2/12 - Episode 6 - "Haunted." (produced by [[Performers/Kevin Miller|Kevin Miller]])
 * 6/8/12 - Episode 7 - "Food Glorious Food" (produced by [[Performers/Andy Buck|Andy Buck]])
 * 6/9/12 - Episode 8 - "Beginnings and Endings" (produced by [[Performers/Emma Holder|Emma Holder]] & [[Performers/Asaf Ronen|Asaf Ronen]])
@@ -263,4 +263,4 @@ The show was originally called *This American Live*, but in 2013, it received a 
 	* [A call for stories for the 2013 run.](http://forum.austinimprov.com/viewtopic.php?f=3&t=15372)
 	* [Show announcement of the 2013 run.](http://forum.austinimprov.com/viewtopic.php?f=2&t=16660)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

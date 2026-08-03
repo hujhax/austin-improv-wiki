@@ -153,4 +153,4 @@ Summary for the second run at The Institution:
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.989925791070937.1073742217.221927764537414&type=3) by [[Steve Rogers]] of the 6/27/15 performance, featuring [[Troupes/Bad Font|Bad Font]] and [[Troupes/Empty Promises|Empty Promises]].
-[[Category/Shows|Category:Shows]]
+Category:Shows

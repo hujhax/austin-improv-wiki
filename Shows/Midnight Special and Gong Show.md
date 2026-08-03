@@ -27,7 +27,7 @@
 	</table>
 </div>
 
-***Midnight Special and Gong Show*** is a free monthly [[Wikipedia - The Gong Show|gong show]], presented by [[Troupes/Midnight Society|Midnight Society]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]] .
+***Midnight Special and Gong Show*** is a free monthly gong show, presented by [[Troupes/Midnight Society|Midnight Society]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]] .
 
 ## Summary
 Performers of all types come to do five minutes of material.  If judges consider the act to be particularly bad, that act is cut short.
@@ -35,4 +35,4 @@ Performers of all types come to do five minutes of material.  If judges consider
 ## More Information
 * [The show's web page.](http://www.coldtownetheater.com/events/midnight-special-gong-show)
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

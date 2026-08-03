@@ -28,7 +28,7 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 * [[Shows/False Matters|False Matters]]
 * [[Troupes/Girl Embassy World Team|Girl Embassy World Team]]
 * [[Troupes/Lady Couch|Lady Couch]]
-* [[Ratgirls]]
+* Ratgirls
 * [[Troupes/Rhinodino|Rhinodino]]
 * [[Troupes/Snackers|Snackers]]
 * [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]]
@@ -49,7 +49,7 @@ Courtney Hopkin was a member of [[Gnap! Theater Projects]], and was in charge of
 * *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
 * *[[Shows/Twilight Zoned|Twilight Zoned]]*
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
-* *[[F. Scott and Zelda Fitzgerald Save the World]]*
+* *F. Scott and Zelda Fitzgerald Save the World*
 * *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*
 * *[[Troupes/Bridgeport Women's Correctional Facility Short Form Players|Bridgeport Women's Correctional Facility Short Form Players]]*
 

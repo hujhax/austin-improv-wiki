@@ -25,16 +25,16 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alexandria Ayala">Alexandria Ayala</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Hush">Andy Hush</a></li><!--
+  --><li style="">Andy Hush</li><!--
   --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Maitland Lederer">Maitland Lederer</a></li><!--
+  --><li style="">Maitland Lederer</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
-  --><li style=""><a class="internal-link" href="Tess Hermes">Tess Hermes</a></li><!--
+  --><li style="">Tess Hermes</li><!--
   --><!--
   --><!--
   --><!--
@@ -143,7 +143,7 @@
 The show was a longform narrative, dealing with conspiracies and paranoia. An audience suggestion of a single organization that secretly controls everything (usually, an entity not generally held to be sinister in nature) was used to craft an improvised play in which the shadowy dealings of this organization are discovered.
 
 ### The View-Master of Providence
-In materials promoting this show, the Institution Theater's [[Wikipedia - View-Master|View-Master]] logo was incorporated into the [[Wikipedia - Eye of Providence|Eye of Providence]], a common [[Wikipedia - Freemasonry|Masonic]] symbol and one often associated with the [[Wikipedia - Illuminati|Illuminati]]. 
+In materials promoting this show, the Institution Theater's View-Master logo was incorporated into the Eye of Providence, a common Masonic symbol and one often associated with the Illuminati. 
 
 ![[Eye-of-institution-1.gif|The View-Master of Providence, designed by [Brad Hawkins](Performers/Brad%20Hawkins)]]
 
@@ -174,4 +174,4 @@ In materials promoting this show, the Institution Theater's [[Wikipedia - View-M
 ## Links
 [Cast photos](https://www.flickr.com/photos/58011781@N00/sets/72157642005128263/) taken by [[Roy Moore]]
 
-[[Category/Shows|Trust]]
+Trust

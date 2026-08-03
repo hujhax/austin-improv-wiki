@@ -73,7 +73,7 @@
 **Parallelogramophonograph** (often abbreviated to **Pgraph**) is a theatre company in Austin, TX that specializes in improvising plays. They have a weekly show ([[Shows/The Spectacle|The Spectacle]]) on Fridays at 10pm at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-Here is [[Robert Faires]]'s explanation of the name's origin:<blockquote>After a long, tedious search for a group name in which hundreds of options were considered and discarded, a somewhat alcohol-lubricated Janik offered "Parallelogramophone." Immediately, Badr built on it with "Parallelogramophonograph." They tried it out on some friends, and since it made them laugh, it stuck.</blockquote>
+Here is Robert Faires's explanation of the name's origin:<blockquote>After a long, tedious search for a group name in which hundreds of options were considered and discarded, a somewhat alcohol-lubricated Janik offered "Parallelogramophone." Immediately, Badr built on it with "Parallelogramophonograph." They tried it out on some friends, and since it made them laugh, it stuck.</blockquote>
 
 ## Show Formats
 ### The Nutty Funsters
@@ -114,10 +114,10 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 * ["Tarantulas on a Hovercraft"](http://vimeo.com/95122), their entry into the Alamo Drafthouse's "Blanks on a Blank" competition from 2006.
 * [Video](http://vimeo.com/910471) of their *[[Shows/After School Improv|After School Improv]]* show from November 2006.
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/pgraph-presents-villainy-sat-8pm-svt-apples-stage-1242488) of their 8/30/08 "Villainy" show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
-* Video by [[Brian Boyko]] of their 200th show (1/8/09): [1](http://youtu.be/_aFUyr1zNmY), [2](http://youtu.be/4GV4hUcEF-A), [3](http://youtu.be/EGOmaAU2GP8), [4](http://youtu.be/eQg0Hddr9io), [5](http://youtu.be/boI75lAlM3g), [6](http://youtu.be/7rCCMYbhstw), [7](http://youtu.be/eKFTkz2p8Lg), [8](http://youtu.be/wrJPE7v9pF4), [9](http://youtu.be/x1n-0HwPqzI).
-* Video by [[Brian Boyko]] of their 1/22/09 show ("Bulgarian Architecture"): [1](http://youtu.be/Ko0Ff6dpjnU), [2](http://youtu.be/lYA0skiIG-U), [3](http://youtu.be/rs0Xb_esZxk), [4](http://youtu.be/vutDwB1RxqE), [5](http://youtu.be/lrkMCqhNz8c).
+* Video by Brian Boyko of their 200th show (1/8/09): [1](http://youtu.be/_aFUyr1zNmY), [2](http://youtu.be/4GV4hUcEF-A), [3](http://youtu.be/EGOmaAU2GP8), [4](http://youtu.be/eQg0Hddr9io), [5](http://youtu.be/boI75lAlM3g), [6](http://youtu.be/7rCCMYbhstw), [7](http://youtu.be/eKFTkz2p8Lg), [8](http://youtu.be/wrJPE7v9pF4), [9](http://youtu.be/x1n-0HwPqzI).
+* Video by Brian Boyko of their 1/22/09 show ("Bulgarian Architecture"): [1](http://youtu.be/Ko0Ff6dpjnU), [2](http://youtu.be/lYA0skiIG-U), [3](http://youtu.be/rs0Xb_esZxk), [4](http://youtu.be/vutDwB1RxqE), [5](http://youtu.be/lrkMCqhNz8c).
 * [Video](http://vimeo.com/12785670) of their 4/30/10 "Dick and Jane" show.
-	* A video by [[Brian Boyko]] of the same show: [1](http://youtu.be/MxHCGDOXaUA), [2](http://youtu.be/hBpbdxTycaw), [3](http://youtu.be/y4V4sdCqvlU), [4](http://youtu.be/S6xwnyfpvfQ), [5](http://youtu.be/t6ZNylopXck), [6](http://youtu.be/9cwJc6tizLE), [7](http://youtu.be/F5kR61GWzWg).
+	* A video by Brian Boyko of the same show: [1](http://youtu.be/MxHCGDOXaUA), [2](http://youtu.be/hBpbdxTycaw), [3](http://youtu.be/y4V4sdCqvlU), [4](http://youtu.be/S6xwnyfpvfQ), [5](http://youtu.be/t6ZNylopXck), [6](http://youtu.be/9cwJc6tizLE), [7](http://youtu.be/F5kR61GWzWg).
 * [Video](http://vimeo.com/12785670) of their "Dick and Jane" show at the Twin Cities Improv Festival (uploaded 8/5/10).
 * [Clip of "Dick & Jane" from 2010.](http://vimeo.com/132036967)
 * [Video](http://vimeo.com/26027879) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/7/11 show.
@@ -195,15 +195,15 @@ An improvised French Farce, visually reminiscent of [Molière](http://en.wikiped
 	* [Video](http://vimeo.com/14394533) from [[Performers/Kathy Rose Center|Kathy Rose Center]].
 	* [Video](http://vimeo.com/14394565) from [[Performers/Deano Jones|Deano Jones]].
 	* [Video](http://vimeo.com/15100500) from [[Performers/Peter Rogers|Peter Rogers]].
-	* [Video](http://vimeo.com/15100672) from [[Menelaos Pokros]].
+	* [Video](http://vimeo.com/15100672) from Menelaos Pokros.
 	* [Video](http://vimeo.com/15100690) from [[Performers/Marc Majcher|Marc Majcher]].
-	* [Video](http://vimeo.com/15100823) from [[David Lee Hess]].
+	* [Video](http://vimeo.com/15100823) from David Lee Hess.
 	* [Video](http://vimeo.com/15100672) from Tuesday, [[Performers/Roy Janik|Roy]] and [[Performers/Kaci Beeler|Kaci]]'s dog.
 	* [Video](http://vimeo.com/15101226) from [[Performers/Curtis Luciani|Curtis Luciani]].
 	* [Video](http://vimeo.com/15101375) from Patti Stiles.
 
 ## More Information
-* [An article about the troupe](http://www.austinchronicle.com/arts/2011-12-30/oh-the-places-you-ll-go/) by [[Robert Faires]] from the 12/30/11 *Austin Chronicle*.
+* [An article about the troupe](http://www.austinchronicle.com/arts/2011-12-30/oh-the-places-you-ll-go/) by Robert Faires from the 12/30/11 *Austin Chronicle*.
 
-[[Category/Active|Category:Active]]
+Category:Active
 [[Category/Troupes|Category:Troupes]]

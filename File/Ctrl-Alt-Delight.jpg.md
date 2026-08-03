@@ -1,7 +1,7 @@
 <div style="text-align: center;"><img src="Ctrl-Alt-Delight.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-(From left) [[Jonathan Euseppi]], [[Hugo Vargas-Zesati]], [[Gary Richardson]], and [[Performers/Mike Sullivan|Mike Sullivan]], performing as [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]] in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
+(From left) Jonathan Euseppi, Hugo Vargas-Zesati, Gary Richardson, and [[Performers/Mike Sullivan|Mike Sullivan]], performing as [[Troupes/Ctrl-Alt-Delight|Ctrl-Alt-Delight]] in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 
 Photo by [[Performers/Sarah Swofford|Sarah Swofford]], taken from [flickr](http://www.flickr.com/photos/oob_pics/7897686022/).
 ## Licensing

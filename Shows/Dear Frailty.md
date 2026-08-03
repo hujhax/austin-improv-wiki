@@ -92,7 +92,7 @@ Simone had concepts of several new characters he wanted to use in the show and u
 
 ## Performances
 * ColdTowne Theater run July-August 2009
-* Hyde Park Theater 3 night run 2010; produced by [[Wayne Alan Brenner]]
+* Hyde Park Theater 3 night run 2010; produced by Wayne Alan Brenner
 * Austin Sketch Fest 2010
 
 ## Reviews
@@ -100,4 +100,4 @@ Simone had concepts of several new characters he wanted to use in the show and u
 * [The Onion AV Club](http://origin.avclub.com/austin/articles/the-uphill-battle-of-arthur-simone,30055/)
 * [The Examiner](http://www.examiner.com/comedy-in-austin/a-conversation-arthur-simone-and-his-latest-project)
 * [Austin 360](http://www.austin360.com/blogs/content/shared-gen/blogs/austin/seeingthings/entries/2009/07/21/review_dear_fraility.html)
-[[Category/Shows|Category:Shows]]
+Category:Shows

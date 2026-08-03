@@ -19,11 +19,11 @@
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Alison Alvarez">Alison Alvarez</a></li><!--
-  --><li style=""><a class="internal-link" href="Andy Petruzzo">Andy Petruzzo</a></li><!--
+  --><li style="">Alison Alvarez</li><!--
+  --><li style="">Andy Petruzzo</li><!--
   --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Justin York">Justin York</a></li><!--
+  --><li style="">Justin York</li><!--
   --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><!--
   --><!--
@@ -85,4 +85,4 @@ The show ran on Fridays at 8pm from 10/8/09 to 12/18/09.
 
 ## More Information
 * [Show announcement](http://forum.austinimprov.com/viewtopic.php?t=9716&p=85879)
-[[Category/Shows|Category:Shows]]
+Category:Shows

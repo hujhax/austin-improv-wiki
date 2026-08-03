@@ -16,9 +16,9 @@
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
-  --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
+  --><li style="">Will Casto</li><!--
   --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Jake Millward">Jake Millward</a></li><!--
+  --><li style="">Jake Millward</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
@@ -76,4 +76,4 @@
 * January 2013 - [[Theatres/Coldtowne Theater|Coldtowne Theater]] Cagematch Champions
 
 [[Category/Troupes|Category:Troupes]]
-[[Category/Active|Category:Active]]
+Category:Active

@@ -25,17 +25,17 @@
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
-  --><li style=""><a class="internal-link" href="Benjamin Bazan">Benjamin Bazan</a></li><!--
+  --><li style="">Benjamin Bazan</li><!--
   --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Joseph Dailey">Joseph Dailey</a></li><!--
+  --><li style="">Joseph Dailey</li><!--
   --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style="" ><a class="internal-link" href="Meredith Mae Roberts">Meredith Mae Roberts</a></li><!--
+  --><li style="" >Meredith Mae Roberts</li><!--
   --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a></li><!--
+  --><li style="">Michael Williams</li><!--
   --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
-  --><li style=""><a class="internal-link" href="Will Casto">Will Casto</a></li><!--
+  --><li style="">Will Casto</li><!--
   --><!--
   --><!--
   --><!--
@@ -98,4 +98,4 @@ The show returned for performances including an exhibition match in the 2014 [[S
 ## More Information
 * [Audition announcement](http://forum.austinimprov.com/viewtopic.php?t=17162&p=135889) on [[The Austin Improv Forums]].
 
-[[Category/Shows|Category:Shows]]
+Category:Shows

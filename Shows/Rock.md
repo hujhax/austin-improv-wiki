@@ -75,7 +75,7 @@
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Amber Franklin">Amber Franklin</a></li><!--
+  --><li style="">Amber Franklin</li><!--
   --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
@@ -214,9 +214,9 @@
 * Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s 2011 set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set/rock-opera-set.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set-detail/rock-opera-set-detail.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera/rock-opera.jpg?disposition=download).
 
 ## More Information
-* [A 5/25/12 post about the show](http://www.hideouttheatre.com/rock-opera-the-swim-class) by [[Amber Shae]].
+* [A 5/25/12 post about the show](http://www.hideouttheatre.com/rock-opera-the-swim-class) by Amber Shae.
 * [A 5/29/12 post about the show](http://www.hideouttheatre.com/rockman) by [[Performers/Michael Brockman|Michael Brockman]].
 * [A 6/8/12 post about the show](http://www.hideouttheatre.com/born-to-rock) by [[Performers/Lindsey Reeves|Lindsey Reeves]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/The Hideout Theatre|Category:The Hideout Theatre]]
+Category:Shows
+Category:The Hideout Theatre

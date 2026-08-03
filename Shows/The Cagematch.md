@@ -67,8 +67,8 @@
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a> (2007-2008)</li><!--
-  --><li style=""><a class="internal-link" href="Michael Williams">Michael Williams</a> (2008-2012)</li><!--
-  --><li style=""><a class="internal-link" href="Adam Trabka">Adam Trabka</a> (2012-2014)</li><!--
+  --><li style="">Michael Williams (2008-2012)</li><!--
+  --><li style="">Adam Trabka (2012-2014)</li><!--
   --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a> (2014-Present)</li><!--
   --><!--
   --><!--
@@ -134,7 +134,7 @@
 ## Summary
 In its current incarnation, the Cagematch is a single-elimination bracket tournament.  Eight to twelve 'teams' (troupes) play against each other, first in four preliminary matches featuring two to three teams, then in two-team matches, over the course of seven weeks.  In each show, each scheduled team performs a twenty-minute set.  The audience votes for their favorite performance, and the winning team advances to the next round or (in the last match) wins the championship.  Occasionally, there is an exhibition match scheduled among the regular tournament. The winner of the exhibition match automatically gets a slot in the next tournament (provided they submit).
 
-Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild" or "Trail of Terror."  It is scheduled by the so-called "Cagematch Commissioner", a position which has been held by [[Performers/Chris Trew|Chris Trew]] (2007-2008) and [[Michael Williams]] (2008-2012), [[Adam Trabka]] (August 2012 - April 2014), and which has been held by [[Performers/Nathan Sowell|Nathan Sowell]] since April 2014.
+Each bracket tournament usually has an over-the-top subtitle, such as "Hog Wild" or "Trail of Terror."  It is scheduled by the so-called "Cagematch Commissioner", a position which has been held by [[Performers/Chris Trew|Chris Trew]] (2007-2008) and Michael Williams (2008-2012), Adam Trabka (August 2012 - April 2014), and which has been held by [[Performers/Nathan Sowell|Nathan Sowell]] since April 2014.
 
 ## History
 ![[Cagematch2x4.jpg|The winners of *The Cagematch* are recorded on a 2x4 mounted on the wall at ColdTowne Theater.]]
@@ -150,7 +150,7 @@ This is a list of winners of the Cagematch.
 #### The "King of the Hill" Years
 * [[Troupes/Frogtown Hollow Jubilee Jug Band|Frogtown Hollow Jubilee Jug Band]] (5 weeks)
 * [[Troupes/You, Me & Greg|You, Me & Greg]] (4 weeks)
-* [[Arthur Simone & Chris Trew Sing the Songs of]] (3 weeks)
+* Arthur Simone & Chris Trew Sing the Songs of       (3 weeks)
 * [[Troupes/Awww, Shit!|Awww, Shit!]]
 
 #### The Tournament Years
@@ -161,23 +161,23 @@ This is a list of winners of the Cagematch.
 * [[Troupes/Nice Astronaut|Nice Astronaut]] (at the time called "HJ Compromise") (12/6/08)
 * [[Troupes/Golden Eagle|Golden Eagle]] (2/28/09)
 * [[Troupes/Twelve Inch Integrity|Twelve Inch Integrity]] (4/25?/09)
-* [[Lady Forms]] (6/20/09)
-* [[I Don't Appreciate It When You Talk to Me That Way]] (10/24/09)
+* Lady Forms (6/20/09)
+* I Don't Appreciate It When You Talk to Me That Way (10/24/09)
 * [[Troupes/Achatina Achatina|Achatina Achatina]] (12/19/09)
 * [[Troupes/Your Dad's Friends|Your Dad's Friends]] (2/27/10)
 * [[Troupes/Bless This Mess|Bless This Mess]] (4/25/10)
-* [[You're In Big Trouble Mr]] (Tournament of Champions 6/26/10)
+* You're In Big Trouble Mr. (Tournament of Champions 6/26/10)
 * [[Troupes/Bad Boys|Bad Boys]] (9/11/10)
 
 At this point in 2010, the Cagematch reverted to a "King of the Hill" format with weekly winners.  There are no records of the winners through this stretch.
 
-* [[Stabby Jake]] (3/5/11)
+* Stabby Jake (3/5/11)
 * [[Troupes/The British Knights|The British Knights]] (6/25/11)
-* [[Depeche à la Mode]] (8/26/11)
+* Depeche à la Mode (8/26/11)
 * [[Troupes/The Box Social|The Box Social]] (10/29/11)
-* [[Beertown Beers]] (1/6/12)
+* Beertown Beers (1/6/12)
 * [[Troupes/Tears But Joy|Tears But Joy]] (2/24/12)
-* [[Martians]] (4/20/12)
+* Martians (4/20/12)
 * [[Troupes/Dry Weave|Dry Weave]] (6/29/12)
 * [[Troupes/The Golden Age|The Golden Age]] (10/24/2012)
 * [[Troupes/Concrete|Concrete]] 1/16/13
@@ -192,6 +192,6 @@ At this point in 2010, the Cagematch reverted to a "King of the Hill" format wit
 * [The show's facebook page.](http://www.facebook.com/ColdTowneCageMatch)
 * [[List of Cagematches]].
 
-[[Category/Shows|Category:Shows]]
-[[Category/Active|Category:Active]]
-[[Category/ColdTowne Theater|Category:ColdTowne Theater]]
+Category:Shows
+Category:Active
+Category:ColdTowne Theater

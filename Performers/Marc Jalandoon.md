@@ -56,7 +56,7 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * Level 5 (5/2017) - Sarah Marie Curry
 
 ### Merlin Works
-* Level 2 (11/2016) - [[Susan Pickover]]
+* Level 2 (11/2016) - Susan Pickover
 
 ## Troupes
 ### Inactive Troupes
@@ -67,26 +67,26 @@ Over the past 10 months, I've met some of my best friends, been welcomed to an i
 * [[Shows/Maestro|Maestro]] - (10/1/2016, 11/5/2016, 2/11/2017, 10/14/2017)
 * [[Shows/Maestro Raw|Maestro Raw]] - (5/7/2016*, 7/16/2016, 9/10/2016)
 * [[Shows/Fancy Pants|Fancy Pants]] - (7/1/2016, 9/9/2016, 10/7/2016)
-* [[Student Appreciation Show]] - (5/28/2016, 9/24/2016)
+* Student Appreciation Show - (5/28/2016, 9/24/2016)
 * [[Shows/Free Fringe|Free Fringe]] - (11/10/2016, 1/19/2017, 10/12/2017)
 
 ### ColdTowne Theater
-* [[Improv Fantasy League]] - (8/17/2016, 8/24/2016)
+* Improv Fantasy League - (8/17/2016, 8/24/2016)
 
 ### The Institution Theater
 * [[Shows/Tarantula|Tarantula]] - (10/29/2016)
 
 ### 616 Lavaca
-* [[Penalty Box]] - (12/8/2017)
+* Penalty Box - (12/8/2017)
 
 ## Extended Run Shows
 ### The Hideout Theatre
 * [[Shows/Story to the Death|Story to the Death]] - (Actor, 8/2016)
 * [[Shows/Adventure PhD|Adventure PhD]] - (Stage Manager, 10/2016)
-* [[Nozes Off]] - (Stage Manager, 1/2017)
+* Nozes Off - (Stage Manager, 1/2017)
 * [[Shows/Death By Musical|Death By Musical]] - (Actor, 9/2017)
 * [[Shows/Dance Dreams|Dance Dreams]] - (Actor, 11/2017)
-* [[Orphans, the Musical]] - (Actor, 1/2018)
+* Orphans, the Musical - (Actor, 1/2018)
 
 ### The Institution Theater
 * [[Shows/Immigrants, The Musical! (Part One)|Immigrants, The Musical! (Part One)]] - (Actor, 6/2017)

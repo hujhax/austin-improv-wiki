@@ -41,7 +41,7 @@ Often, a single act would open a month of shows.
 ## History
 The first *Saturday Night Special* happened on 3/8/08.  It started out running on the second and fourth Saturdays of each month at 10:30pm.  Then the following February, [[Gnap! Theater Projects]] restructured its schedule, expanding to include 8pm and 10pm shows on both Friday and Saturday.  At that point, *The Saturday Night Special* became a weekly show that ran every Saturday at 10pm.
 
-On Dec. 19, 2009 there was a wedding proposal on stage during the Saturday Night Special. One of the troupe members of [[Hugaday]] proposed to his then girlfriend. She said yes.
+On Dec. 19, 2009 there was a wedding proposal on stage during the Saturday Night Special. One of the troupe members of Hugaday proposed to his then girlfriend. She said yes.
 
 The Saturday Night Special's final performance was on 12/22/12. 
 
@@ -51,5 +51,5 @@ The Saturday Night Special's final performance was on 12/22/12.
 * [The announcement](http://forum.austinimprov.com/viewtopic.php?p=54901) on [[The Austin Improv Forums]] of the show's debut.
 * [The announcement](http://forum.austinimprov.com/viewtopic.php?p=90812) on [[The Austin Improv Forums]] that *[[Shows/Heist!|Heist!]]* was opening *The Saturday Night Special* in March 2010.
 
-[[Category/Shows|Saturday Night Special]]
+Saturday Night Special
 [[Category/Productions That Have Included Real-Life Wedding Proposals|Category:Productions That Have Included Real-Life Wedding Proposals]]
