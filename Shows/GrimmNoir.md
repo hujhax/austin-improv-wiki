@@ -205,7 +205,7 @@ Their press blurb, taken from a 2012 application to perform at [[Theatres/The Hi
 
 
 ## History
-The show premiered as a *[[Shows/Free Fringe|Free Fringe]]* on [[List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
+The show premiered as a *[[Shows/Free Fringe|Free Fringe]]* on [[Lists/List of Free Fringes#GrimmNoire|2/2/12]].  It then went on to a number of one-off performances that year, including [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].
 
 It is returning as a mainstage show at [[Theatres/The Institution Theater|The Institution Theater]], running on Friday and Saturday nights at 8pm from 2/20/15 to 3/7/15.
 

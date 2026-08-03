@@ -1,7 +1,7 @@
 ---
-redirect: "List of Austin Improv Directors"
+redirect: "Lists/List of Austin Improv Directors"
 ---
-#REDIRECT [[List of Austin Improv Directors]]
+#REDIRECT [[Lists/List of Austin Improv Directors]]
 
 ## Pages in category "Directors"
 

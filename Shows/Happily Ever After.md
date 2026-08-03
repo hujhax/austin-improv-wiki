@@ -141,7 +141,7 @@ image: "File/Happily%20Ever%20After.jpg"
 	</table>
 </div>
 
-***Happily Ever After*** will be the July/August 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Happily Ever After*** will be the July/August 2015 [[Lists/List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb

@@ -4,7 +4,7 @@ description: "== Summary ==."
 <div style="text-align: center;"><img src="Katie Van Winkle Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
-[[Performers/Katie Van Winkle|Katie Van Winkle]], in the [[Showdown – Sixth Episode -  'Death and Texas'|4/9/11 performance ("Death and Texas")]] of *[[Shows/Showdown|Showdown]]*.
+[[Performers/Katie Van Winkle|Katie Van Winkle]], in the [[Shows/Showdown Episodes/Showdown – Sixth Episode -  'Death and Texas'|4/9/11 performance ("Death and Texas")]] of *[[Shows/Showdown|Showdown]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.116459398435092.23584.100002130980897&type=3).
 ## Licensing

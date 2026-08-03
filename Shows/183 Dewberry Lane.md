@@ -141,7 +141,7 @@ image: "File/183%20Dewberry%20Lane%20Poster.jpg"
 	</table>
 </div>
 
-***183 Dewberry Lane*** will be the February 2016 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***183 Dewberry Lane*** will be the February 2016 [[Lists/List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 A delightful family, much like yours, but perhaps even better, moves into a charming new home. The neighborhood is perfect, and everyone is getting along so well! It’s probably best to ignore the faucet dripping blood, or the curtains that try and choke people who walk by them at midnight or that porcelain clown that keeps trying to throw the baby out the window.

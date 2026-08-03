@@ -200,7 +200,7 @@ image: "File/SongRunner.jpg"
 	</table>
 </div>
 
-***SongRunner*** was the June 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***SongRunner*** was the June 2015 [[Lists/List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 *SongRunner* was a musical set in a dystopian, sci-fi future, in which rebellious, free-spirited 'runners' were pursued by government agents intent on reducing them to emotionless drones.  The show drew on sci-fi works such as *Blade Runner* and *V for Vendetta*.

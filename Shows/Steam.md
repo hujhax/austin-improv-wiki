@@ -112,16 +112,16 @@ Like *[[Shows/Showdown|Showdown]]*, *Steam* was a serialized narrative, with ten
 * Ashley Lowe as Lily Sabine
 
 ## Episode Summaries
-* [[Steam – First Night]]
-* [[Steam – Second Night]]
-* [[Steam – Third Night]]
-* [[Steam – Fourth Night]]
-* [[Steam – Fifth Night]]
-* [[Steam – Sixth Night]]
-* [[Steam – Seventh Night]]
-* [[Steam – Eighth Night]]
-* [[Steam – Ninth Night]]
-* [[Steam – Tenth Night]]
+* [[Shows/Steam Episodes/Steam – First Night|Steam – First Night]]
+* [[Shows/Steam Episodes/Steam – Second Night|Steam – Second Night]]
+* [[Shows/Steam Episodes/Steam – Third Night|Steam – Third Night]]
+* [[Shows/Steam Episodes/Steam – Fourth Night|Steam – Fourth Night]]
+* [[Shows/Steam Episodes/Steam – Fifth Night|Steam – Fifth Night]]
+* [[Shows/Steam Episodes/Steam – Sixth Night|Steam – Sixth Night]]
+* [[Shows/Steam Episodes/Steam – Seventh Night|Steam – Seventh Night]]
+* [[Shows/Steam Episodes/Steam – Eighth Night|Steam – Eighth Night]]
+* [[Shows/Steam Episodes/Steam – Ninth Night|Steam – Ninth Night]]
+* [[Shows/Steam Episodes/Steam – Tenth Night|Steam – Tenth Night]]
 
 ## Media
 ### Videos

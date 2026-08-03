@@ -1,4 +1,4 @@
 ---
-redirect: "List of Austin Improv Troupes#Active"
+redirect: "Lists/List of Austin Improv Troupes#Active"
 ---
-#REDIRECT [[List of Austin Improv Troupes#Active]]
+#REDIRECT [[Lists/List of Austin Improv Troupes#Active]]

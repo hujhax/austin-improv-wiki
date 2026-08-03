@@ -47,7 +47,7 @@ By mid-2009, [[Performers/Sean Hill|Sean Hill]]'s lease on the property came to 
 On November 1st, 2012, The Hideout Theatre acquired The Hideout Coffee House business and operations. In January of 2013, the Saturday mainstage shows, as well as *[[Shows/Maestro|Maestro]]*, were moved to the building's larger, downstairs theater. In April, the Coffee House hours were extended, so performers could, at last, grab a drink or a bite to eat at the Hideout after finishing their shows. A second, smaller, Hideout Coffee bar location opened inside an office building at 504 Lavaca in June of 2014. Unlike the expanded hours of The Hideout Coffee House, the Coffee Bar is only open Monday-Friday from 7am until 3pm.
 
 ## Shows
-The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
+The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[Lists/List of Hideout Mainstage Shows in Chronological Order|List of Hideout Mainstage Shows in Chronological Order]].
 
 ### Ongoing Shows
 * *[[Shows/Hideout Kids|Hideout Kids]]*

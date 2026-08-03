@@ -116,7 +116,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * *[[Shows/The Trouble With Terry|The Trouble With Terry]]*
 
 ## [[Theatres/The Hideout Theatre|The Hideout Theatre]]
-The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[List of Hideout Mainstage Shows in Chronological Order]].
+The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[Lists/List of Hideout Mainstage Shows in Chronological Order|List of Hideout Mainstage Shows in Chronological Order]].
 
 ### Ongoing Shows
 * *[[Shows/Hideout Kids|Hideout Kids]]*

@@ -28,12 +28,12 @@ But if you want to learn about wiki markup, [[Help/Formatting|this page]] gives 
 
 
 **How do I show up in the &lt;x&gt; category?**<br/>
-We can use [[List of Austin Improv Performers|the performers category]] as an example.  To ensure that your wiki page shows in in the Performers category, add the following code to your page: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. (Including your last name ensures you'll be put in proper alphabetical order.)
+We can use [[Lists/List of Austin Improv Performers|the performers category]] as an example.  To ensure that your wiki page shows in in the Performers category, add the following code to your page: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. (Including your last name ensures you'll be put in proper alphabetical order.)
 
 You can do the same thing with different category names to make a page show up in Techs, Directors, and so on.
 
 
-**How do I get my troupe to show up in [[List of Austin Improv Troupes|the troupes category]]?**<br/>
+**How do I get my troupe to show up in [[Lists/List of Austin Improv Troupes|the troupes category]]?**<br/>
 Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Category:Troupes]]</nowiki>.
 
 If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[Troupes/The Frank Mills|The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.

@@ -137,7 +137,7 @@ image: "File/Golden.jpg"
 	</table>
 </div>
 
-***Golden*** was the April 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It continued on as [[Troupes/Golden|a troupe of the same name]].
+***Golden*** was the April 2015 [[Lists/List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It continued on as [[Troupes/Golden|a troupe of the same name]].
 
 ## Summary
 The show ran 90 minutes, with a 15-minute intermission, in the Hideout's upstairs theater.

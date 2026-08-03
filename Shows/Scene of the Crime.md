@@ -145,7 +145,7 @@ image: "File/Scene%20of%20the%20Crime%20Poster.jpg"
 	</table>
 </div>
 
-***Scene of the Crime*** was the May/June 2015 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was based on the works of Agatha Christie and other authors from the  Golden Age of detective fiction.
+***Scene of the Crime*** was the May/June 2015 [[Lists/List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It was based on the works of Agatha Christie and other authors from the  Golden Age of detective fiction.
 
 ## Summary
 ### Structure

@@ -208,7 +208,7 @@ image: "File/The%20Sicks.jpg"
 
 (The Sicks were presented as a group of orphaned circus children who had each gained a unique superpower through a random series of unrelated events.  The sketches were framed by their quest to find and defeat Kobayashi Maru, the undefeatable foe, a criminal mastermind who allegedly killed their parents and now threatened the world.  [[Performers/Mike D'Alonzo|Mike D'Alonzo]] and Jeffery Amos alternated guest starring as Maru.)
 
-Their final show run was called "The Sicks Farewell Tour" and ran as a [[List of Hideout Mainstage Shows in Chronological Order|Hideout mainstage show]] from 4/15/06 to 5/19/06.
+Their final show run was called "The Sicks Farewell Tour" and ran as a [[Lists/List of Hideout Mainstage Shows in Chronological Order|Hideout mainstage show]] from 4/15/06 to 5/19/06.
 
 The run had the following members:
 * Jeffrey Amos

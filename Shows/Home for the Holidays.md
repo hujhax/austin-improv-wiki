@@ -141,7 +141,7 @@ image: "File/I%27ll%20Be%20Home%20for%20Christmas.jpg"
 	</table>
 </div>
 
-***Home for the Holidays*** (original title: ***I'll Be Home for Christmas***) will be the December 2015 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Home for the Holidays*** (original title: ***I'll Be Home for Christmas***) will be the December 2015 [[Lists/List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb

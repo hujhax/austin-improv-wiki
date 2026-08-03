@@ -18,7 +18,7 @@ A mixer usually lasts between 1½ and 2 hours.  For the first half-hour or so, a
 Sometimes local improv directors scout for talent at the mixers, or announce projects to the attendees to connect with people interested in participating.
 
 ## History
-From 2008 to 2012, the Merlin Works Mixers also served as auditions for [[Theatres/Gnap!|Gnap!]]'s [[List of Austin Improv Shows#Mainstage_Productions_2|mainstage shows]], which ran regularly at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+From 2008 to 2012, the Merlin Works Mixers also served as auditions for [[Theatres/Gnap!|Gnap!]]'s [[Lists/List of Austin Improv Shows#Mainstage_Productions_2|mainstage shows]], which ran regularly at the [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 They went on hiatus through late 2012 and early 2013, as [[Theatres/Merlin Works|Merlin Works]] completed its move to ZACH Theater.
 

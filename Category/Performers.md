@@ -1,7 +1,7 @@
 ---
-redirect: "List of Austin Improv Performers"
+redirect: "Lists/List of Austin Improv Performers"
 ---
-#REDIRECT [[List of Austin Improv Performers]]
+#REDIRECT [[Lists/List of Austin Improv Performers]]
 
 ## Pages in category "Performers"
 

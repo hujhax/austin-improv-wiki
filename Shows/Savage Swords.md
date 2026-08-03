@@ -141,7 +141,7 @@ image: "File/Savage%20Swords.jpg"
 	</table>
 </div>
 
-***Savage Swords*** is the January/February 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
+***Savage Swords*** is the January/February 2016 [[Lists/List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## Summary
 ### Publicity Blurb

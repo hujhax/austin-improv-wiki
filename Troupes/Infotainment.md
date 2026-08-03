@@ -88,7 +88,7 @@ Their answer to the "What's Your Deal?" question on a 2013 application to perfor
 
 
 ## History
-The format premiered as a [[List of Free Fringes#Infotainment_.28Brad_Smith.29|*Free Fringe* on 5/30/13]].
+The format premiered as a [[Lists/List of Free Fringes#Infotainment_.28Brad_Smith.29|*Free Fringe* on 5/30/13]].
 
 ## More Information
 * [The troupe's facebook page.](https://www.facebook.com/austininfotainment)

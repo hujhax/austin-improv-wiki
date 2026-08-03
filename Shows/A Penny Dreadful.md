@@ -141,7 +141,7 @@ image: "File/A%20Penny%20Dreadful.jpg"
 	</table>
 </div>
 
-***A Penny Dreadful*** was the December 2014 [[List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It drew inspiration from the Gothic horror genre.
+***A Penny Dreadful*** was the December 2014 [[Lists/List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|student mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It drew inspiration from the Gothic horror genre.
 
 ## Summary
 This was an hour and a half show with a ten-minute intermission.  It ran in the upstairs theater.  Each performance included all ten cast members, although each show had two designated "snoggers" (scene-ographers) who donned black masks and created environments and emotions using their bodies. 

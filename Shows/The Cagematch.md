@@ -194,7 +194,7 @@ At this point in 2010, the Cagematch reverted to a "King of the Hill" format wit
 ## More Information
 * [The original announcement of the show](http://forum.austinimprov.com/viewtopic.php?f=2&t=57&hilit=cagematch) on [[The Austin Improv Forums]].
 * [The show's facebook page.](http://www.facebook.com/ColdTowneCageMatch)
-* [[List of Cagematches]].
+* [[Lists/List of Cagematches|List of Cagematches]].
 
 Category:Shows
 Category:Active

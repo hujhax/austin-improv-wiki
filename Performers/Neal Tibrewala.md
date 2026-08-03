@@ -79,7 +79,7 @@ image: "File/Neal%20Tibrewala%20Pic.jpg"
 ## History
 Neal started out by taking classes at [[Theatres/The Hideout Theater|The Hideout Theater]] and then [[Theatres/Merlin Works|Merlin Works]] and the [[Theatres/Institution Theater|Institution Theater]]s.  After being in a few student troupes, he performed with the [[Shows/Flying Theater Machine|Flying Theater Machine]] and [[Troupes/The Dancy Street D'Orchestra|The Dancy Street D'Orchestra]].  
 
-Throughout his improv career he specialized in Technical Improv, having done a great many [[List of Austin Improv Shows#Mainstage_Productions_3|mainstage]] shows and serving as dedicated tech for several troupes.  He retired from improv in 2015.
+Throughout his improv career he specialized in Technical Improv, having done a great many [[Lists/List of Austin Improv Shows#Mainstage_Productions_3|mainstage]] shows and serving as dedicated tech for several troupes.  He retired from improv in 2015.
 
 The first improv show he ever saw was *[[Shows/After School Improv|After School Improv]]*.
 
@@ -102,8 +102,8 @@ The first improv show he ever saw was *[[Shows/After School Improv|After School 
 * [[Shows/The Derby|The Derby]] (tech & performer)
 * [[Shows/Fandom|Fandom]] (tech)
 * [[Shows/The Free Fringe|The Free Fringe]]
-  * *[[List of Free Fringes#Shortform_Mashup_.28Neal_Tibrewala.29|The Shortform Mashup]]* (director)
-  * *[[List of Free Fringes#Object_Stories_.28Neal_Tibrewala.29|Object Stories]]* (director)
+  * *[[Lists/List of Free Fringes#Shortform_Mashup_.28Neal_Tibrewala.29|The Shortform Mashup]]* (director)
+  * *[[Lists/List of Free Fringes#Object_Stories_.28Neal_Tibrewala.29|Object Stories]]* (director)
 * [[Shows/Hitchcocked!|Hitchcocked!]] (tech)
 * [[Shows/Ka-Baam!!|Ka-Baam!!]] (tech)
 * [[Shows/Maestro|Maestro]] (performer & tech)

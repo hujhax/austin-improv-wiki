@@ -147,7 +147,7 @@ image: "File/Fiasco%20Poster.jpg"
 
 ![Fiasco set, by [Kaci Beeler](Performers/Kaci%20Beeler).](/File/Fiasco%20Set.jpg)
 
-***Fiasco*** is the May/June 2016 [[List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  
+***Fiasco*** is the May/June 2016 [[Lists/List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  
 
 ## Summary
 The show is an improvised crime caper, adapted from the Bully Pulpit Games RPG and loosely inspired by Coen Brothers films.  It is an ensemble show with elements of farce that focuses on criminal plans going very, very wrong.

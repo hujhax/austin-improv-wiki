@@ -164,12 +164,12 @@ Its story was characterized by brutal violence, civic instability, and near-cons
 * Producer: [[Performers/Shannon McCormick|Shannon McCormick]]
 
 ## Episode Summaries
-* [[Showdown – First Episode -  'Pilot']]
-* [[Showdown – Second Episode -  'One Town, Two Doctors, Six Feet Under']]
-* [[Showdown – Third Episode -  'Texas, My Texas']]
-* [[Showdown – Fourth Episode -  'Trial and Error']]
-* [[Showdown – Fifth Episode -  'The End is Near']]
-* [[Showdown – Sixth Episode -  'Death and Texas']]
+* [[Shows/Showdown Episodes/Showdown – First Episode -  'Pilot'|Showdown – First Episode -  'Pilot']]
+* [[Shows/Showdown Episodes/Showdown – Second Episode -  'One Town, Two Doctors, Six Feet Under'|Showdown – Second Episode -  'One Town, Two Doctors, Six Feet Under']]
+* [[Shows/Showdown Episodes/Showdown – Third Episode -  'Texas, My Texas'|Showdown – Third Episode -  'Texas, My Texas']]
+* [[Shows/Showdown Episodes/Showdown – Fourth Episode -  'Trial and Error'|Showdown – Fourth Episode -  'Trial and Error']]
+* [[Shows/Showdown Episodes/Showdown – Fifth Episode -  'The End is Near'|Showdown – Fifth Episode -  'The End is Near']]
+* [[Shows/Showdown Episodes/Showdown – Sixth Episode -  'Death and Texas'|Showdown – Sixth Episode -  'Death and Texas']]
 
 ## Media
 ### Photos

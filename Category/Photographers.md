@@ -1,7 +1,7 @@
 ---
-redirect: "List of Austin Improv Photographers"
+redirect: "Lists/List of Austin Improv Photographers"
 ---
-#REDIRECT [[List of Austin Improv Photographers]]
+#REDIRECT [[Lists/List of Austin Improv Photographers]]
 
 ## Pages in category "Photographers"
 
