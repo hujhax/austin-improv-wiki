@@ -8,7 +8,7 @@ image: "File/I%27ll%20Take%20the%20Physical%20Challenge%21%20placeholder%20image
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-I'll Take the Physical Challenge! placeholder image.jpg.md.md"><img src="File/File-I'll%20Take%20the%20Physical%20Challenge!%20placeholder%20image.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/I'll%20Take%20the%20Physical%20Challenge!%20placeholder%20image.jpg)
 			</td>
 		</tr>
 		<tr class="">

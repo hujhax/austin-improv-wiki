@@ -9,7 +9,7 @@ image: "File/Flying%20Theater%20Machine.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Flying Theater Machine.jpg.md.md"><img src="File/File-Flying%20Theater%20Machine.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Flying%20Theater%20Machine.jpg)
 			</td>
 		</tr>
 		<tr class="">

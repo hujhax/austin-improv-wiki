@@ -9,7 +9,7 @@ image: "File/The%20Megaphone%20Show.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Megaphone Show.jpg.md.md"><img src="File/File-The%20Megaphone%20Show.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/The%20Megaphone%20Show.jpg)
 			</td>
 		</tr>
 		<tr class="">

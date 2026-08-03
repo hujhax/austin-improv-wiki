@@ -9,7 +9,7 @@ image: "File/Cap%20City%20Comedy%20Club.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Cap City Comedy Club.png.md.md"><img src="File/File-Cap%20City%20Comedy%20Club.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Cap%20City%20Comedy%20Club.png)
 			</td>
 		</tr>
 		<tr class="">

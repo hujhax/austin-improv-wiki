@@ -9,7 +9,7 @@ image: "File/http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JK
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Http - --www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg.md.md"><img src="File/File-Http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg)
 			</td>
 		</tr>
 		<tr class="">

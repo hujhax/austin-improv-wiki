@@ -9,7 +9,7 @@ image: "File/Lgs%20grouphug.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Lgs grouphug.jpg.md.md"><img src="File/File-Lgs%20grouphug.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Lgs%20grouphug.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -74,9 +74,9 @@ image: "File/Lgs%20grouphug.jpg"
 	</table>
 </div>
 
-![[File/LGSpatch.jpg|Local Genius Society custom club jacket crest. Designed by [Ryan Austin](Performers/Ryan%20Austin). Each object on the crest represents a member of the cast at the time of design.]]
+![Local Genius Society custom club jacket crest. Designed by [Ryan Austin](Performers/Ryan%20Austin). Each object on the crest represents a member of the cast at the time of design.](/File/LGSpatch.jpg)
 
-![[File/Poster Beach Cops.jpg|Official poster promoting Local Genius Society in the 2012 Honolulu Improvaganza festival performing "Beach Cops".]]
+![Official poster promoting Local Genius Society in the 2012 Honolulu Improvaganza festival performing "Beach Cops".](/File/Poster%20Beach%20Cops.jpg)
 
 
 **Local Genius Society** is an improv troupe of raconteurs, savants, and bon vivants.

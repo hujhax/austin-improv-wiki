@@ -9,7 +9,7 @@ image: "File/Free%20Fringe%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Free Fringe Poster.jpg.md.md"><img src="File/File-Free%20Fringe%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Free%20Fringe%20Poster.jpg)
 			</td>
 		</tr>
 		<tr class="">

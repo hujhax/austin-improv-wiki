@@ -9,7 +9,7 @@ image: "File/Boys%20of%20Summer%202012%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Boys of Summer 2012 Poster.jpg.md.md"><img src="File/File-Boys%20of%20Summer%202012%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Boys%20of%20Summer%202012%20Poster.jpg)
 			</td>
 		</tr>
 		<tr class="">

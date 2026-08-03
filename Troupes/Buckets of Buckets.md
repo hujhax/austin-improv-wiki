@@ -9,7 +9,7 @@ image: "File/Buckets%20of%20Buckets.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Buckets of Buckets.jpg.md.md"><img src="File/File-Buckets%20of%20Buckets.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Buckets%20of%20Buckets.jpg)
 			</td>
 		</tr>
 		<tr class="">

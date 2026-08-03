@@ -9,7 +9,7 @@ image: "File/Who%20is%20T.%20Henry%20Baudecliffe.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Who is T. Henry Baudecliffe.jpg.md.md"><img src="File/File-Who%20is%20T.%20Henry%20Baudecliffe.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Who%20is%20T.%20Henry%20Baudecliffe.jpg)
 			</td>
 		</tr>
 		<tr class="">

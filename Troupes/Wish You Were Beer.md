@@ -9,7 +9,7 @@ image: "File/Wish%20You%20Were%20Beer.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Wish You Were Beer.jpg.md.md"><img src="File/File-Wish%20You%20Were%20Beer.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Wish%20You%20Were%20Beer.jpg)
 			</td>
 		</tr>
 		<tr class="">

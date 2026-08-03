@@ -9,7 +9,7 @@ image: "File/The%20Violet%20Underbelly.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Violet Underbelly.jpg.md.md"><img src="File/File-The%20Violet%20Underbelly.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/The%20Violet%20Underbelly.jpg)
 			</td>
 		</tr>
 		<tr class="">

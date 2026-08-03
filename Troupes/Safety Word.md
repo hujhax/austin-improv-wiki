@@ -9,7 +9,7 @@ image: "File/Safety%20Word.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Safety Word.jpg.md.md"><img src="File/File-Safety%20Word.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Safety%20Word.jpg)
 			</td>
 		</tr>
 		<tr class="">

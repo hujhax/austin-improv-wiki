@@ -9,7 +9,7 @@ image: "File/Austin%27s%20Next%20Top%20Improviser.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Austin's Next Top Improviser.jpg.md.md"><img src="File/File-Austin's%20Next%20Top%20Improviser.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Austin's%20Next%20Top%20Improviser.jpg)
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/Reform%20School%20for%20Wayward%20Girls.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Reform School for Wayward Girls.jpg.md.md"><img src="File/File-Reform%20School%20for%20Wayward%20Girls.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Reform%20School%20for%20Wayward%20Girls.jpg)
 			</td>
 		</tr>
 		<tr class="">

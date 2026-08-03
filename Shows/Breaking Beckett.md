@@ -9,7 +9,7 @@ image: "File/Breaking%20Beckett%20Poster%20Ryan.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Breaking Beckett Poster Ryan.png.md.md"><img src="File/File-Breaking%20Beckett%20Poster%20Ryan.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Breaking%20Beckett%20Poster%20Ryan.png)
 			</td>
 		</tr>
 		<tr class="">

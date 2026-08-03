@@ -9,7 +9,7 @@ image: "File/Girl%20Embassy%20World%20Team.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Girl Embassy World Team.jpg.md.md"><img src="File/File-Girl%20Embassy%20World%20Team.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Girl%20Embassy%20World%20Team.jpg)
 			</td>
 		</tr>
 		<tr class="">

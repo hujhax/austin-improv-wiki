@@ -9,7 +9,7 @@ image: "File/Puppet%20Katamari.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Puppet Katamari.jpg.md.md"><img src="File/File-Puppet%20Katamari.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Puppet%20Katamari.jpg)
 			</td>
 		</tr>
 		<tr class="">

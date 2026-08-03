@@ -9,7 +9,7 @@ image: "File/Live%20TV%20Tuesdays-%20Buffy.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Live TV Tuesdays- Buffy.jpg.md.md"><img src="File/File-Live%20TV%20Tuesdays-%20Buffy.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Live%20TV%20Tuesdays-%20Buffy.jpg)
 			</td>
 		</tr>
 		<tr class="">

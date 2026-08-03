@@ -9,7 +9,7 @@ image: "File/Doctors%20Without%20Boundaries.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Doctors Without Boundaries.jpg.md.md"><img src="File/File-Doctors%20Without%20Boundaries.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Doctors%20Without%20Boundaries.jpg)
 			</td>
 		</tr>
 		<tr class="">

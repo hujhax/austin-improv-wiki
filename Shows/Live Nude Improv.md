@@ -11,7 +11,7 @@ __NOINDEX__
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Live Nude Improv Performance.jpg.md.md"><img src="File/File-Live%20Nude%20Improv%20Performance.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Live%20Nude%20Improv%20Performance.jpg)
 			</td>
 		</tr>
 		<tr class="">

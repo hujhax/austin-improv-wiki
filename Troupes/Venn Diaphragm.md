@@ -9,7 +9,7 @@ image: "File/Venn%20Diaphragm.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Venn Diaphragm.jpg.md.md"><img src="File/File-Venn%20Diaphragm.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Venn%20Diaphragm.jpg)
 			</td>
 		</tr>
 		<tr class="">

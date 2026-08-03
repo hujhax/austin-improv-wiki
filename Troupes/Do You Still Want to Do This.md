@@ -9,7 +9,7 @@ image: "File/Do%20You%20Still%20Want%20To%20Do%20This.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Do You Still Want To Do This.jpg.md.md"><img src="File/File-Do%20You%20Still%20Want%20To%20Do%20This.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Do%20You%20Still%20Want%20To%20Do%20This.jpg)
 			</td>
 		</tr>
 		<tr class="">

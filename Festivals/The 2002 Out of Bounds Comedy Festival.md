@@ -4,7 +4,7 @@ image: "File/2002%20Out%20of%20Bounds%20Schedule.jpg"
 ---
 **The 2002 Out of Bounds Comedy Festival** was the first annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].  It ran from 7/31/02 to 8/3/02.
 
-![[File/2002 Out of Bounds Schedule.jpg|The schedule/program for the 2002 Out of Bounds Comedy Festival]]
+![The schedule/program for the 2002 Out of Bounds Comedy Festival](/File/2002%20Out%20of%20Bounds%20Schedule.jpg)
 
 ## Acts
 ### Local Acts

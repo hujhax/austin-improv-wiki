@@ -9,7 +9,7 @@ image: "File/Best%20Friends%20Club%20of%20Austin.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Best Friends Club of Austin.jpg.md.md"><img src="File/File-Best%20Friends%20Club%20of%20Austin.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Best%20Friends%20Club%20of%20Austin.jpg)
 			</td>
 		</tr>
 		<tr class="">

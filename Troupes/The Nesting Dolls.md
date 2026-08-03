@@ -9,7 +9,7 @@ image: "File/The%20Nesting%20Dolls.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-The Nesting Dolls.jpg.md.md"><img src="File/File-The%20Nesting%20Dolls.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/The%20Nesting%20Dolls.jpg)
 			</td>
 		</tr>
 		<tr class="">

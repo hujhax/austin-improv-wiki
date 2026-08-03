@@ -11,7 +11,7 @@ image: "File/iScream%20Sandwich.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-IScream Sandwich.jpg.md.md"><img src="File/File-IScream%20Sandwich.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/IScream%20Sandwich.jpg)
 			</td>
 		</tr>
 		<tr class="">

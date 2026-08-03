@@ -9,7 +9,7 @@ image: "File/Only%2090%25%20Effective.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Only 90% Effective.jpg.md.md"><img src="File/File-Only%2090%%20Effective.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Only%2090%%20Effective.jpg)
 			</td>
 		</tr>
 		<tr class="">

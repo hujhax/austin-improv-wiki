@@ -9,7 +9,7 @@ image: "File/Lonely%20Star%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Lonely Star Poster.jpg.md.md"><img src="File/File-Lonely%20Star%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Lonely%20Star%20Poster.jpg)
 			</td>
 		</tr>
 		<tr class="">

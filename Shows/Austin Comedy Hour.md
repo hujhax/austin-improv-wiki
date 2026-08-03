@@ -9,7 +9,7 @@ image: "File/Austin%20Comedy%20Hour.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Austin Comedy Hour.jpg.md.md"><img src="File/File-Austin%20Comedy%20Hour.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Austin%20Comedy%20Hour.jpg)
 			</td>
 		</tr>
 		<tr class="">

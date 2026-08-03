@@ -9,7 +9,7 @@ image: "File/You%20Think%20You%27re%20So%20Smart%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-You Think You're So Smart Poster.jpg.md.md"><img src="File/File-You%20Think%20You're%20So%20Smart%20Poster.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/You%20Think%20You're%20So%20Smart%20Poster.jpg)
 			</td>
 		</tr>
 		<tr class="">

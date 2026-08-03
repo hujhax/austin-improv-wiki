@@ -9,7 +9,7 @@ image: "File/Ghetto%20Sketch%20Warlock.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Ghetto Sketch Warlock.jpg.md.md"><img src="File/File-Ghetto%20Sketch%20Warlock.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Ghetto%20Sketch%20Warlock.jpg)
 			</td>
 		</tr>
 		<tr class="">

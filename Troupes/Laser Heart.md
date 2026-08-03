@@ -9,7 +9,7 @@ image: "File/Laser%20Heart.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Laser Heart.jpg.md.md"><img src="File/File-Laser%20Heart.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Laser%20Heart.jpg)
 			</td>
 		</tr>
 		<tr class="">

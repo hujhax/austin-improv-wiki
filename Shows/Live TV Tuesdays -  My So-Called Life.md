@@ -9,7 +9,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20My%20So-Called%20Life.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Live TV Tuesdays - My So-Called Life.jpg.md.md"><img src="File/File-Live%20TV%20Tuesdays%20-%20My%20So-Called%20Life.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Live%20TV%20Tuesdays%20-%20My%20So-Called%20Life.jpg)
 			</td>
 		</tr>
 		<tr class="">

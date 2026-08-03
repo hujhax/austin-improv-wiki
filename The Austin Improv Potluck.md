@@ -2,7 +2,7 @@
 description: "An annual potluck for the Austin Improv community."
 image: "File/AIC%202012%20Potluck%20Group%20Photo.jpg"
 ---
-![[File/AIC 2012 Potluck Group Photo.jpg|The group photo from the 2012 Austin Improv Potluck.]]
+![The group photo from the 2012 Austin Improv Potluck.](/File/AIC%202012%20Potluck%20Group%20Photo.jpg)
 
 **The Austin Improv Potluck** is an annual potluck for the Austin Improv community.
 

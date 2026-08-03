@@ -9,7 +9,7 @@ image: "File/Charles%20Dickens%20Unleashed.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Charles Dickens Unleashed.jpg.md.md"><img src="File/File-Charles%20Dickens%20Unleashed.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Charles%20Dickens%20Unleashed.jpg)
 			</td>
 		</tr>
 		<tr class="">

@@ -8,7 +8,7 @@ description: "|Theater = The Institution Theater."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Love Fest.jpg ‎.md.md"><img src="File/File-Love%20Fest.jpg%20‎.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Love%20Fest.jpg%20‎)
 			</td>
 		</tr>
 		<tr class="">

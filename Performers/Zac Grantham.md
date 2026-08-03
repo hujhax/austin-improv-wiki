@@ -9,7 +9,7 @@ image: "File/Zac%20GranthamPic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Zac GranthamPic.jpg.md.md"><img src="File/File-Zac%20GranthamPic.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Zac%20GranthamPic.jpg)
 			</td>
 		</tr>
 		<tr class="">

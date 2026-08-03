@@ -2,7 +2,7 @@
 description: "|Years = 2016-."
 image: "File/twinehands.jpg"
 ---
-![[File/Twinecover2.jpg]]
+![](/File/Twinecover2.jpg)
 
 <div>
 	<table class="infobox infobox-troupe">
@@ -11,7 +11,7 @@ image: "File/twinehands.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Twinehands.jpg.md.md"><img src="File/File-Twinehands.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Twinehands.jpg)
 			</td>
 		</tr>
 		<tr class="">

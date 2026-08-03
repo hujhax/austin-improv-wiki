@@ -13,7 +13,7 @@ This template lists standard, useful information about an improv performer.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href=".md"><img src="" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/)
 			</td>
 		</tr>
 		<tr class="">
@@ -65,7 +65,7 @@ This template lists standard, useful information about an improv performer.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/File-Performer Default Image.png.md.md"><img src="File/File-Performer%20Default%20Image.png.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Performer%20Default%20Image.png)
 			</td>
 		</tr>
 		<tr class="">

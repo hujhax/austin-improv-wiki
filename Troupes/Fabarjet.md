@@ -9,7 +9,7 @@ image: "File/Gnome%20noir.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Gnome noir.jpg.md.md"><img src="File/File-Gnome%20noir.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Gnome%20noir.jpg)
 			</td>
 		</tr>
 		<tr class="">

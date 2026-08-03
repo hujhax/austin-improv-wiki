@@ -9,7 +9,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Merlin Works Second Sundays.jpg.md.md"><img src="File/File-Merlin%20Works%20Second%20Sundays.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Merlin%20Works%20Second%20Sundays.jpg)
 			</td>
 		</tr>
 		<tr class="">

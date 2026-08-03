@@ -9,7 +9,7 @@ image: "File/Highly%20Suggestible.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Highly Suggestible.jpg.md.md"><img src="File/File-Highly%20Suggestible.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Highly%20Suggestible.jpg)
 			</td>
 		</tr>
 		<tr class="">

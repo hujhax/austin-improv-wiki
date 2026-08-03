@@ -9,7 +9,7 @@ image: "File/I%27ll%20Be%20Home%20for%20Christmas.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-I'll Be Home for Christmas.jpg.md.md"><img src="File/File-I'll%20Be%20Home%20for%20Christmas.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/I'll%20Be%20Home%20for%20Christmas.jpg)
 			</td>
 		</tr>
 		<tr class="">

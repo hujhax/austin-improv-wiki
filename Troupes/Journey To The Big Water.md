@@ -9,7 +9,7 @@ image: "File/Journey%20to%20the%20Big%20Water.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Journey to the Big Water.jpg.md.md"><img src="File/File-Journey%20to%20the%20Big%20Water.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Journey%20to%20the%20Big%20Water.jpg)
 			</td>
 		</tr>
 		<tr class="">

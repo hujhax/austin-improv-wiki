@@ -9,7 +9,7 @@ image: "File/SciFiSaturdays-Duo-v2.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-SciFiSaturdays-Duo-v2.jpg.md.md"><img src="File/File-SciFiSaturdays-Duo-v2.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/SciFiSaturdays-Duo-v2.jpg)
 			</td>
 		</tr>
 		<tr class="">

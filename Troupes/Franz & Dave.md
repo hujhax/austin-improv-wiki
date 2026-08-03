@@ -9,7 +9,7 @@ image: "File/fd-promo.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Fd-promo.jpg.md.md"><img src="File/File-Fd-promo.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Fd-promo.jpg)
 			</td>
 		</tr>
 		<tr class="">

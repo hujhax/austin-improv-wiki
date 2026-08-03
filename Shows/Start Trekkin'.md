@@ -9,7 +9,7 @@ image: "File/Start%20Trekkin%27.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/File-Start Trekkin'.jpg.md.md"><img src="File/File-Start%20Trekkin'.jpg.md" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				![](/File/Start%20Trekkin'.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -169,7 +169,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Season 7: Jan-Feb 2012
 
 ### Event Appearances
-![[File/TrekInVegas.jpg|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
+![The season-two cast at the convention.](/File/TrekInVegas.jpg)In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 *Start Trekkin*' performed at the [*Star Trek* Premiere Party](http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/) at the Bob Bullock State History Museum on May 8th, 2009.
 
