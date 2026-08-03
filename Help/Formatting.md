@@ -10,42 +10,42 @@ Here's a quick list of some of the most useful ways to format text in a wiki pag
     <th width=40%>You get</th>
   </tr>
   <tr >
-    <th colspan="3" style="background:#ABE">character (inline) formatting – *applies anywhere*</th>
+    <th colspan="3" style="background:#ABE">character (inline) formatting – <em>applies anywhere</em></th>
   </tr>
   <tr >
     <td > Italic text</td>
     <td > <pre>
-*italic*
+<em>italic</em>
 </pre></td>
     <td >
-*italic*</td>
+<em>italic</em></td>
   </tr>
   <tr >
     <td > Bold text</td>
     <td > <pre>
-**bold**
+<strong>bold</strong>
 </pre></td>
     <td >
-**bold**</td>
+<strong>bold</strong></td>
   </tr>
   <tr >
     <td > Bold and italic</td>
     <td > <pre>
-***bold & italic***
+<strong><em>bold & italic</em></strong>
 </pre></td>
     <td >
-***bold & italic***</td>
+<strong><em>bold & italic</em></strong></td>
   </tr>
   <tr >
     <td > Escape wiki markup</td>
     <td > <pre>
-&lt;nowiki&gt;no *markup*&lt;/nowiki&gt;
+&lt;nowiki&gt;no <em>markup</em>&lt;/nowiki&gt;
 </pre></td>
     <td >
-<nowiki>no *markup*</nowiki></td>
+<nowiki>no <em>markup</em></nowiki></td>
   </tr>
   <tr >
-    <th colspan="3" style="background:#ABE">section formatting – *only at the beginning of the line*</th>
+    <th colspan="3" style="background:#ABE">section formatting – <em>only at the beginning of the line</em></th>
   </tr>
   <tr >
     <td > Headings of different levels</td>
@@ -69,20 +69,20 @@ Here's a quick list of some of the most useful ways to format text in a wiki pag
     <td >
 <pre>
 * Start each line
-* with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (*).
-	* More asterisks gives deeper
-		* and deeper levels.
+<em> with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (</em>).
+<em></em> More asterisks gives deeper
+<em></em>* and deeper levels.
 * Line breaks<br />don't break levels.
-		* But jumping levels creates empty space.
+<em></em>* But jumping levels creates empty space.
 Any other start ends the list.
 </pre></td>
     <td >
 * Start each line
-* with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (*).
-	* More asterisks gives deeper
-		* and deeper levels.
+<em> with an <a class="internal-link" href="Wikipedia - asterisk">asterisk</a> (</em>).
+<em></em> More asterisks gives deeper
+<em></em>* and deeper levels.
 * Line breaks<br />don't break levels.
-		* But jumping levels creates empty space.
+<em></em>* But jumping levels creates empty space.
 Any other start ends the list.</td>
   </tr>
   <tr >

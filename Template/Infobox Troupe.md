@@ -32,35 +32,35 @@ This template lists standard, useful information about an improv troupe.
     <th style="background:gray; text-align:left;">Explanation</th>
   </tr>
   <tr >
-    <td > *Name*       </td>
+    <td > <em>Name</em>       </td>
     <td > The name of the troupe.</td>
   </tr>
   <tr >
-    <td > *Picture*           </td>
+    <td > <em>Picture</em>           </td>
     <td > A picture of the troupe.</td>
   </tr>
   <tr >
-    <td > *Years*     </td>
+    <td > <em>Years</em>     </td>
     <td > The years that the troupe was active, for instance "1993-1997".  If it's still in operation, set it to something like "1998-Present".</td>
   </tr>
   <tr >
-    <td > *Directed By*     </td>
+    <td > <em>Directed By</em>     </td>
     <td > The director of the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
-    <td > *Cast*           </td>
+    <td > <em>Cast</em>           </td>
     <td > The stage performers in the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
-    <td > *Past Members*           </td>
+    <td > <em>Past Members</em>           </td>
     <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
-    <td > *Tech*           </td>
+    <td > <em>Tech</em>           </td>
     <td > The technical improvisors in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
-    <td > *Crew*           </td>
+    <td > <em>Crew</em>           </td>
     <td > The backstage people involved in the troupe (optional). To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
 </table>

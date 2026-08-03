@@ -32,9 +32,9 @@
 
 <table class="wikitable">
   <tr >
-    <td >**Performance Date**</td>
-    <td >**Student Performance(s)**</td>
-    <td >**Guest Troupe(s)**</td>
+    <td ><strong>Performance Date</strong></td>
+    <td ><strong>Student Performance(s)</strong></td>
+    <td ><strong>Guest Troupe(s)</strong></td>
   </tr>
   <tr >
     <td >December 13, 2020</td>

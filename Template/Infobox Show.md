@@ -37,67 +37,67 @@ This template lists standard, useful information about an improv show.
     <th style="background:gray; text-align:left;">Explanation</th>
   </tr>
   <tr >
-    <td > *Name*       </td>
+    <td > <em>Name</em>       </td>
     <td > The name of the show.</td>
   </tr>
   <tr >
-    <td > *Picture*           </td>
+    <td > <em>Picture</em>           </td>
     <td > A picture associated with the show; typically the publicity poster.</td>
   </tr>
   <tr >
-    <td > *Theater*           </td>
+    <td > <em>Theater</em>           </td>
     <td > The theater where the show happened.  In some cases, this could be more than one theater.</td>
   </tr>
   <tr >
-    <td > *Director*           </td>
+    <td > <em>Director</em>           </td>
     <td > The person or persons who directed the show.</td>
   </tr>
   <tr >
-    <td > *Assistant Director* </td>
+    <td > <em>Assistant Director</em> </td>
     <td > List any assistant director here.</td>
   </tr>
   <tr >
-    <td > *Tech Director* </td>
+    <td > <em>Tech Director</em> </td>
     <td > List any tech director here.</td>
   </tr>
   <tr >
-    <td > *Dramaturg* </td>
+    <td > <em>Dramaturg</em> </td>
     <td > List any dramaturgs here.</td>
   </tr>
   <tr >
-    <td > *Stage Manager* </td>
+    <td > <em>Stage Manager</em> </td>
     <td > List any stage managers here.</td>
   </tr>
   <tr >
-    <td > *Music Director* </td>
+    <td > <em>Music Director</em> </td>
     <td > List any music director here.</td>
   </tr>
   <tr >
-    <td > *Producer*           </td>
+    <td > <em>Producer</em>           </td>
     <td > The entity (such as <a class="internal-link" href="Gnap!">Gnap!</a>) that produced the show, if that's different from the theater.</td>
   </tr>
   <tr >
-    <td > *Cast*           </td>
+    <td > <em>Cast</em>           </td>
     <td > Who was in the show.  Use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to make a list of performers.</td>
   </tr>
   <tr >
-    <td > *Past Members*           </td>
+    <td > <em>Past Members</em>           </td>
     <td > The past stage, technical, and backstage members of the troupe. To include a list of people, use <a class="internal-link" href="Template/Unbulleted list">Template:Unbulleted list</a>.</td>
   </tr>
   <tr >
-    <td > *Tech*           </td>
+    <td > <em>Tech</em>           </td>
     <td > Who teched the show.  Use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to make a list of technical improvisors, if necessary.</td>
   </tr>
   <tr >
-    <td > *Music*           </td>
+    <td > <em>Music</em>           </td>
     <td > If there was live music for the show, list the musician or musicians here.</td>
   </tr>
   <tr >
-    <td > *Run*     </td>
+    <td > <em>Run</em>     </td>
     <td > The time frame of its initial run -- e.g., "Jan/Feb 2010".</td>
   </tr>
   <tr >
-    <td > *Subsequent Runs*     </td>
+    <td > <em>Subsequent Runs</em>     </td>
     <td > The time frame(s) of its subsequent run(s) -- e.g., "Jan/Feb 2010".  If there are multiple subsequent runs, use the <a class="internal-link" href="Template/Unbulleted list">unbulleted list template</a> to create a list.</td>
   </tr>
 </table>
