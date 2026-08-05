@@ -14,7 +14,7 @@ image: "File/13483369%2010206502157095436%202326651694853821892%20o.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

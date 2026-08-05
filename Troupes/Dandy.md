@@ -19,8 +19,8 @@ image: "File/Dandy.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@ image: "File/Dandy.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Tech</th>
-			<td class="category"><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></td>
 		</tr>
 	</table>
 </div>

@@ -20,12 +20,12 @@ image: "File/Big%20Beautiful%20Warlock.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy Carpenter</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style="">Delaney Hernandez</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
   --><!--
   --><!--
   --><!--

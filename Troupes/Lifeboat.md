@@ -19,12 +19,12 @@ image: "File/Lifeboat.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
   --><li style="">Beth Lebwohl</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style="">Delaney Liming</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style="">Jenny Carlson</li><!--
   --><!--
   --><!--

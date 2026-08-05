@@ -14,13 +14,13 @@ image: "File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -76,7 +76,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Diana Caldwell</li><!--
   --><li style="">Jesse Prebix</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -129,17 +129,17 @@ image: "File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Adam Mengesha">Adam Mengesha</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Adriane Shown</a></li><!--
   --><li style="">Andy Hush</li><!--
   --><li style="">Ben Howell</li><!--
   --><li style="">Benjamin Scott</li><!--
   --><li style="">Carrie H. Stephens</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Villafano">Chris Villafano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kevin Machate">Kevin Machate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Machate">Kevin Machate</a></li><!--
   --><li style="">Laura Komkov</li><!--
   --><li style="">Richard Dodwell</li><!--
   --><li style="">Tatiana Artis</li><!--
@@ -185,8 +185,8 @@ image: "File/Live%20TV%20Tuesdays%20-%20Scrubs.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">BK McKee</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

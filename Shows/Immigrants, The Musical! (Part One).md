@@ -19,8 +19,8 @@ image: "File/Immigrants.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -142,9 +142,9 @@ image: "File/Immigrants.jpg"
   --><li style="">Dori Alvarado</li><!--
   --><li style="">Frank Sánchez</li><!--
   --><li style="">Heidi Rogers</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a></li><!--
   --><li style="">Kim Tran</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style="" >Mars Wright</li><!--
   --><li style="">Shannon Dale Stott</li><!--
   --><li style="">Sushant Sethi</li><!--

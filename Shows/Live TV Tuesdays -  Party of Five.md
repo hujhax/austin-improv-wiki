@@ -14,24 +14,24 @@ image: "File/Live%20TV%20Tuesdays%20-%20Party%20of%20Five.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Heidi Caldwell">Heidi Caldwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
   --><li style="">Blaine Paradise</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
   --><li style="">Christian Huey</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
   --><li style="">Fred Winkler</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
   --><li style="">Roanna Flowers</li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><li style="">Tyler Reece Booker</li><!--
   --><!--
   --><!--

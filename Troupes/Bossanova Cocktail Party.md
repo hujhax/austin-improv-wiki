@@ -17,13 +17,13 @@ description: "Improv/sketch duo from The New Movement Theater."
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Chris Trew">Chris Trew</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Delaney Liming</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
   --><!--
   --><!--
   --><!--

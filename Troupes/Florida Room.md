@@ -19,9 +19,9 @@ image: "File/Florida%20Room.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
   --><li style="">Leah Moss</li><!--
   --><!--
   --><!--

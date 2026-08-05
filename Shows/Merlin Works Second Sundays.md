@@ -18,11 +18,11 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Troupes-The Known Wizards">The Known Wizards</a>, guests</td>
+			<td class="category"><a class="internal-link" href="Troupes/The Known Wizards">The Known Wizards</a>, guests</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>
@@ -747,7 +747,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >June 10, 2018</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Soy Taco">Soy Taco</a></td>
+    <td ><a class="internal-link" href="Troupes/Soy Taco">Soy Taco</a></td>
   </tr>
   <tr >
     <td >May 13, 2018</td>
@@ -807,7 +807,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >April 8, 2018</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Get Up">Get Up</a></td>
+    <td ><a class="internal-link" href="Troupes/Get Up">Get Up</a></td>
   </tr>
   <tr >
     <td >March 4, 2018</td>
@@ -867,14 +867,14 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >February 11, 2018</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Girls Girls Girls">Girls Girls Girls</a></td>
+    <td ><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
   </tr>
   <tr >
     <td >January 7, 2018</td>
     <td >N/A</td>
     <td ><div class="plainlist"><ul style=""><!--
   --><li style="">Dial 'I' for Improv</li><!--
-  --><li style=""><a class="internal-link" href="Troupes-Golden">Golden</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Golden">Golden</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -1008,7 +1008,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >June 11, 2017</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Things We Don't Speak Of">Things We Don't Speak Of</a></td>
+    <td ><a class="internal-link" href="Troupes/Things We Don't Speak Of">Things We Don't Speak Of</a></td>
   </tr>
   <tr >
     <td >May 14, 2017</td>
@@ -1133,7 +1133,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >January 8, 2017</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Channel 2">Channel 2</a></td>
+    <td ><a class="internal-link" href="Troupes/Channel 2">Channel 2</a></td>
   </tr>
   <tr >
     <td >December 11, 2016</td>
@@ -1143,27 +1143,27 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >November 13, 2016</td>
     <td >Improv 301</td>
-    <td ><a class="internal-link" href="Troupes-JK">JK</a></td>
+    <td ><a class="internal-link" href="Troupes/JK">JK</a></td>
   </tr>
   <tr >
     <td >October 16, 2016</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Minority Report">Minority Report</a></td>
+    <td ><a class="internal-link" href="Troupes/Minority Report">Minority Report</a></td>
   </tr>
   <tr >
     <td >September 11, 2016</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Empty Promises">Empty Promises</a></td>
+    <td ><a class="internal-link" href="Troupes/Empty Promises">Empty Promises</a></td>
   </tr>
   <tr >
     <td >August 14, 2016</td>
     <td >Improv 301</td>
-    <td ><a class="internal-link" href="Troupes-Opposites">Opposites</a></td>
+    <td ><a class="internal-link" href="Troupes/Opposites">Opposites</a></td>
   </tr>
   <tr >
     <td >July 10, 2016</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Loverboy">Loverboy</a></td>
+    <td ><a class="internal-link" href="Troupes/Loverboy">Loverboy</a></td>
   </tr>
   <tr >
     <td >June 12, 2016</td>
@@ -1228,7 +1228,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >April 10, 2016</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Physics Curse">Physics Curse</a></td>
+    <td ><a class="internal-link" href="Troupes/Physics Curse">Physics Curse</a></td>
   </tr>
   <tr >
     <td >March 6, 2016</td>
@@ -1293,27 +1293,27 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >November 22, 2015</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Golden">Golden</a></td>
+    <td ><a class="internal-link" href="Troupes/Golden">Golden</a></td>
   </tr>
   <tr >
     <td >November 8, 2015</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Houses in Motion">Houses in Motion</a></td>
+    <td ><a class="internal-link" href="Troupes/Houses in Motion">Houses in Motion</a></td>
   </tr>
   <tr >
     <td >October 11, 2015</td>
     <td >601 presents "The Big Event"</td>
-    <td ><a class="internal-link" href="Troupes-MC Harold">MC Harold</a></td>
+    <td ><a class="internal-link" href="Troupes/MC Harold">MC Harold</a></td>
   </tr>
   <tr >
     <td >September 13, 2015</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-In Our Prime">In Our Prime</a></td>
+    <td ><a class="internal-link" href="Troupes/In Our Prime">In Our Prime</a></td>
   </tr>
   <tr >
     <td >August 9, 2015</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Shows-History Under the Influence">History Under the Influence</a></td>
+    <td ><a class="internal-link" href="Shows/History Under the Influence">History Under the Influence</a></td>
   </tr>
   <tr >
     <td >July 12, 2015</td>
@@ -1373,7 +1373,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >June 14, 2015</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-The Escorts">The Escorts</a></td>
+    <td ><a class="internal-link" href="Troupes/The Escorts">The Escorts</a></td>
   </tr>
   <tr >
     <td >May 10, 2015</td>
@@ -1433,7 +1433,7 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >April 12, 2015</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Brain Trust">Brain Trust</a></td>
+    <td ><a class="internal-link" href="Troupes/Brain Trust">Brain Trust</a></td>
   </tr>
   <tr >
     <td >March 8, 2015</td>
@@ -1493,14 +1493,14 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >February 8, 2015</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Miller & Purselley">Miller & Purselley</a></td>
+    <td ><a class="internal-link" href="Troupes/Miller & Purselley">Miller & Purselley</a></td>
   </tr>
   <tr >
     <td >January 11, 2015</td>
     <td >Student showcase</td>
     <td ><div class="plainlist"><ul style=""><!--
   --><li style="">The New Kids</li><!--
-  --><li style=""><a class="internal-link" href="Troupes-Girls Girls Girls">Girls Girls Girls</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -1554,12 +1554,12 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >November 23, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-That Racket!">That Racket!</a></td>
+    <td ><a class="internal-link" href="Troupes/That Racket!">That Racket!</a></td>
   </tr>
   <tr >
     <td >November 9, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Get Up">Get Up</a></td>
+    <td ><a class="internal-link" href="Troupes/Get Up">Get Up</a></td>
   </tr>
   <tr >
     <td >October 12, 2014</td>
@@ -1619,12 +1619,12 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >September 14, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Shows-Hurly Burly">Hurly Burly</a></td>
+    <td ><a class="internal-link" href="Shows/Hurly Burly">Hurly Burly</a></td>
   </tr>
   <tr >
     <td >August 10, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Midnight Society">Midnight Society</a></td>
+    <td ><a class="internal-link" href="Troupes/Midnight Society">Midnight Society</a></td>
   </tr>
   <tr >
     <td >July 13, 2014</td>
@@ -1684,17 +1684,17 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >June 8, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Bad Font">Bad Font</a></td>
+    <td ><a class="internal-link" href="Troupes/Bad Font">Bad Font</a></td>
   </tr>
   <tr >
     <td >May 11, 2014</td>
     <td >Improv 301</td>
-    <td ><a class="internal-link" href="Troupes-My Best Fiend">My Best Fiend</a></td>
+    <td ><a class="internal-link" href="Troupes/My Best Fiend">My Best Fiend</a></td>
   </tr>
   <tr >
     <td >April 13, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Available Cupholders">Available Cupholders</a></td>
+    <td ><a class="internal-link" href="Troupes/Available Cupholders">Available Cupholders</a></td>
   </tr>
   <tr >
     <td >March 9, 2014</td>
@@ -1754,12 +1754,12 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >February 9, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Shades of Brown">Shades of Brown</a></td>
+    <td ><a class="internal-link" href="Troupes/Shades of Brown">Shades of Brown</a></td>
   </tr>
   <tr >
     <td >January 19, 2014</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Bad Boys">Bad Boys</a></td>
+    <td ><a class="internal-link" href="Troupes/Bad Boys">Bad Boys</a></td>
   </tr>
   <tr >
     <td >November 24, 2013</td>
@@ -1819,57 +1819,57 @@ image: "File/Merlin%20Works%20Second%20Sundays.jpg"
   <tr >
     <td >November 10, 2013</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-The Intentions">The Intentions</a></td>
+    <td ><a class="internal-link" href="Troupes/The Intentions">The Intentions</a></td>
   </tr>
   <tr >
     <td >October 13, 2013</td>
     <td >Singing 301</td>
-    <td ><a class="internal-link" href="Troupes-Junk">Junk</a></td>
+    <td ><a class="internal-link" href="Troupes/Junk">Junk</a></td>
   </tr>
   <tr >
     <td >September 8, 2013</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-¡ZARZAMORA!">¡ZARZAMORA!</a></td>
+    <td ><a class="internal-link" href="Troupes/¡ZARZAMORA!">¡ZARZAMORA!</a></td>
   </tr>
   <tr >
     <td >August 11, 2013</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Rhinodino">Rhinodino</a></td>
+    <td ><a class="internal-link" href="Troupes/Rhinodino">Rhinodino</a></td>
   </tr>
   <tr >
     <td >July 14, 2013</td>
     <td >Improv 301</td>
-    <td ><a class="internal-link" href="Troupes-The Frank Mills">The Frank Mills</a></td>
+    <td ><a class="internal-link" href="Troupes/The Frank Mills">The Frank Mills</a></td>
   </tr>
   <tr >
     <td >June 9, 2013</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-The Knuckleball Now">The Knuckleball Now</a></td>
+    <td ><a class="internal-link" href="Troupes/The Knuckleball Now">The Knuckleball Now</a></td>
   </tr>
   <tr >
     <td >May 12, 2013</td>
     <td >Improv 301</td>
-    <td ><a class="internal-link" href="Troupes-Miller & Purselley">Miller & Purselley</a></td>
+    <td ><a class="internal-link" href="Troupes/Miller & Purselley">Miller & Purselley</a></td>
   </tr>
   <tr >
     <td >April 14, 2013</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Confidence Men">Confidence Men</a></td>
+    <td ><a class="internal-link" href="Troupes/Confidence Men">Confidence Men</a></td>
   </tr>
   <tr >
     <td >March 10, 2013</td>
     <td >Improv 301</td>
-    <td ><a class="internal-link" href="Troupes-Get Up">Get Up</a></td>
+    <td ><a class="internal-link" href="Troupes/Get Up">Get Up</a></td>
   </tr>
   <tr >
     <td >February 10, 2013</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Parallelogramophonograph">Parallelogramophonograph</a></td>
+    <td ><a class="internal-link" href="Troupes/Parallelogramophonograph">Parallelogramophonograph</a></td>
   </tr>
   <tr >
     <td >January 13, 2013</td>
     <td >Student showcase</td>
-    <td ><a class="internal-link" href="Troupes-Girls Girls Girls">Girls Girls Girls</a></td>
+    <td ><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
   </tr>
 </table>
 

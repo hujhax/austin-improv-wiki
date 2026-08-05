@@ -19,9 +19,9 @@ image: "File/2shy2.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><li style="">Greg Mihalik</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a> (music)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a> (music)</li><!--
   --><!--
   --><!--
   --><!--

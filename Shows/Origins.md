@@ -14,13 +14,13 @@ image: "File/Origins%20Placeholder%20Image.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,16 +74,16 @@ image: "File/Origins%20Placeholder%20Image.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
   --><li style="">Benjamin Blattberg</li><!--
   --><li style="">Jenn Hamm</li><!--
   --><li style="">Judy Blackshear</li><!--
   --><li style="">Kathie Xiao</li><!--
   --><li style="">Paül Ramone Weiner</li><!--
   --><li style="">Phil Morin</li><!--
-  --><li style=""><a class="internal-link" href="Performers-R Lance Hunter">R Lance Hunter</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/R Lance Hunter">R Lance Hunter</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -130,7 +130,7 @@ image: "File/Origins%20Placeholder%20Image.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brianna Minks</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (tech director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (tech director)</li><!--
   --><li style="">Monica Wells</li><!--
   --><li style="">Nick Amsden</li><!--
   --><li style="">Sandra Ybarra (stage manager)</li><!--

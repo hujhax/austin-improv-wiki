@@ -19,10 +19,10 @@ description: "One-off Cagematch team."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ben Bazan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chrissy Shackelford">Chrissy Shackelford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chrissy Shackelford">Chrissy Shackelford</a></li><!--
   --><li style="">Joseph Dailey</li><!--
   --><li style="">Michael Williams</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style="">Pierce Purselley</li><!--
   --><!--
   --><!--

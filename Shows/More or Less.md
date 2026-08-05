@@ -14,7 +14,7 @@ image: "File/More%20or%20Less%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>

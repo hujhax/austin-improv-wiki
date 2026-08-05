@@ -18,8 +18,8 @@ description: "One-off Cagematch team."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="">Leah Moss</li><!--
   --><!--
   --><!--

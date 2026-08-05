@@ -14,16 +14,16 @@ image: "File/Crack%21.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></li><!--
   --><li style=""><a class="internal-link" href="The Puppet Improv Project">The Puppet Improv Project</a></li><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@ image: "File/Crack%21.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><li style="">Jason Laney</li><!--
   --><li style="">Pat Buchta</li><!--
   --><!--
@@ -133,18 +133,18 @@ image: "File/Crack%21.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
   --><li style="">Jesse Overright</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
-  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

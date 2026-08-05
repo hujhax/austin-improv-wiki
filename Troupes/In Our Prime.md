@@ -19,9 +19,9 @@ image: "File/In%20Our%20Prime%20Three.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@ image: "File/In%20Our%20Prime%20Three.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
-			<td class="category"><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a> (2012-2015)</td>
+			<td class="category"><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a> (2012-2015)</td>
 		</tr>
 	</table>
 </div>

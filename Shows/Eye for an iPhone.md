@@ -14,21 +14,21 @@ image: "File/Eye%20for%20an%20iPhone.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Alison Alvarez</li><!--
   --><li style="">Andy Petruzzo</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><li style="">Justin York</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><!--
   --><!--
   --><!--

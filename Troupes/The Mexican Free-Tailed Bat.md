@@ -21,10 +21,10 @@ description: "One-off Cagematch team."
   --><li style="">Andy O'Meara</li><!--
   --><li style="">Ann Potter</li><!--
   --><li style="">Ashley Franks</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style="">Joshua Philips</li><!--
   --><li style="">Lacy Cox</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><!--
   --><!--
   --><!--

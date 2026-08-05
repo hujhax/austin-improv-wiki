@@ -19,9 +19,9 @@ image: "File/Happiness%20is%20a%20Choice.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeff Britt">Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><li style="">Paul Wainright</li><!--
   --><!--
   --><!--

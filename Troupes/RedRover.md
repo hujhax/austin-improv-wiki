@@ -19,8 +19,8 @@ image: "File/RedRover.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><!--
   --><!--
   --><!--

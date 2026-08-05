@@ -18,18 +18,18 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amber Shae</li><!--
   --><li style="">Ashley Carlisle</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brandon Martin">Brandon Martin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ellen Pittsford">Ellen Pittsford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessie Pascarelli">Jessie Pascarelli</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brandon Martin">Brandon Martin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ellen Pittsford">Ellen Pittsford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
   --><li style="">Travis Devitt</li><!--
   --><!--
   --><!--

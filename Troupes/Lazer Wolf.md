@@ -20,11 +20,11 @@ image: "File/LazerWolf.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Eileen Alter</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rob Chenoweth">Rob Chenoweth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rob Chenoweth">Rob Chenoweth</a></li><!--
   --><li style="">Elaine Chung</li><!--
   --><li style="">Leyla Cohlmia</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><li style="">Lisa Hurst</li><!--
   --><li style="">Dimitri Khosrowpour</li><!--
   --><li style="" >Tania Quintanilla</li><!--

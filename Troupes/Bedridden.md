@@ -20,7 +20,7 @@ description: "An improv and sketch troupe."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrea Young</li><!--
   --><li style="">Andy Pereira</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
   --><li style="">Jill Morris</li><!--
   --><li style="">Rene Pinnell</li><!--
   --><!--

@@ -18,11 +18,11 @@ description: "An improv troupe."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
   --><li style="">Liz Dykes</li><!--
   --><li style="">Mike Faerber</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Livni">Nathan Livni</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Livni">Nathan Livni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><li style="">Rick Heineman</li><!--
   --><li style="">Tej Ludher</li><!--
   --><!--

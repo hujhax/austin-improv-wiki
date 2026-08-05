@@ -19,11 +19,11 @@ image: "File/No%20Chaser.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style="">David Harper</li><!--
   --><li style="">Maggie Maye</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
   --><!--
   --><!--
   --><!--

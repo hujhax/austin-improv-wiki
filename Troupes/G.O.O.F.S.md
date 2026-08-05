@@ -18,11 +18,11 @@ image: "File/G.O.O.F.S..png"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Doran">Katie Doran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style="">Michael Bowman</li><!--
   --><li style="">Mitchell Shotts</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
   --><li style="">Tim Stiefler</li><!--
   --><!--
   --><!--

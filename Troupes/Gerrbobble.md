@@ -19,10 +19,10 @@ image: "File/Gerrbobble.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style="">Brian Engrevalle</li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Matt Derman</li><!--
   --><li style="">Steve Donovan</li><!--
   --><!--

@@ -19,14 +19,14 @@ description: "An improv troupe that started as a segment in The..."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Dimitri Khosropour</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
   --><li style="">Amanda Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Robert Slack">Robert Slack</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Norman Tran">Norman Tran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style="">Alexander Addison</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Frank Willmore">Frank Willmore</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><!--
   --><!--
   --><!--

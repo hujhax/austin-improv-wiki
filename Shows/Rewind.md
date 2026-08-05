@@ -14,15 +14,15 @@ image: "File/rewind.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Monica Martinez Maher">Monica Martinez Maher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Monica Martinez Maher">Monica Martinez Maher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
@@ -38,7 +38,7 @@ image: "File/rewind.jpg"
   --><li style="">Angelina Martin</li><!--
   --><li style="">Jerrad Lindenmuth</li><!--
   --><li style="">Jessica Soos</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style="">Michelle Dahlenberg</li><!--
   --><li style="">Scott Rose</li><!--
   --><li style="">Shane Gannaway</li><!--

@@ -23,7 +23,7 @@ image: "File/twinehands.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Benjamin Blattberg</li><!--
   --><li style="">Amar Dev</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
   --><li style="">Graham Snow</li><!--
   --><li style="">Trent Symmonds</li><!--
   --><!--

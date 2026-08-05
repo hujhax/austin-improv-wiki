@@ -14,7 +14,7 @@ image: "File/Katie%20Doran%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-ColdTowne">ColdTowne</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/ColdTowne">ColdTowne</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

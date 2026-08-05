@@ -14,13 +14,13 @@ image: "File/Cover%20to%20Cover.gif"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,22 +73,22 @@ image: "File/Cover%20to%20Cover.gif"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
   --><li style="">Amy McKenna</li><!--
   --><li style="">Ashlee Medlin</li><!--
   --><li style="">Ashley Lowe</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Julie Gillis">Julie Gillis</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style="">Nick Jimenez</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><li style="">Odin Amador</li><!--
   --><!--
   --><!--

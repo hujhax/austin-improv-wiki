@@ -18,11 +18,11 @@ description: "An improv troupe."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Carlos Larotta">Carlos Larotta</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
   --><li style="">Jack Leahy</li><!--
   --><li style="">Lacy Cox</li><!--
   --><!--

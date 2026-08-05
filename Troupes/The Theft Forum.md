@@ -18,7 +18,7 @@ image: "File/The%20Theft%20Forum%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>

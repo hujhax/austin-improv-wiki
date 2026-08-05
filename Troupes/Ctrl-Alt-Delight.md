@@ -22,7 +22,7 @@ image: "File/Ctrl-Alt-Delight.jpg"
   --><li style="">Gary Richardson</li><!--
   --><li style="">Hugo Vargas-Zesati</li><!--
   --><li style="">Jonathan Euseppi</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
   --><!--
   --><!--
   --><!--

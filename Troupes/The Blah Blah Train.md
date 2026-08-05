@@ -24,9 +24,9 @@ image: "File/The%20Blah%20Blah%20Train.jpg"
   --><li style="">John Porter</li><!--
   --><li style="">Laura Walberg</li><!--
   --><li style="">Mariella Krause</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Owen Egerton">Owen Egerton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Owen Egerton">Owen Egerton</a></li><!--
   --><li style="">Tim Bauer</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tyler Bryce">Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--

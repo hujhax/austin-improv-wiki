@@ -14,8 +14,8 @@ image: "File/Lacy%20Shawn%20Profile.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a>
-	<a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a>
+	<a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a>
 	ZACH Theater</td>
 		</tr>
 		<tr class="">

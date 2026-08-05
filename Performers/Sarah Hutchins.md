@@ -14,7 +14,7 @@ image: "File/Sara%20Hutchins.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theater">The Hideout Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theater">The Hideout Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

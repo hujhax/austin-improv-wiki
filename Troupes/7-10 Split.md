@@ -20,7 +20,7 @@ image: "File/710%20Split.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jeffrey Amos</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--

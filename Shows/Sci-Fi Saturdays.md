@@ -14,11 +14,11 @@ image: "File/SciFiSaturdays-Duo-v2.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

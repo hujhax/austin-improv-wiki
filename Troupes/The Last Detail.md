@@ -19,7 +19,7 @@ description: "One-off Cagematch duo."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">David Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><!--
   --><!--
   --><!--

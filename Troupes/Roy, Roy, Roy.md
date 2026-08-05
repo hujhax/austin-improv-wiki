@@ -19,14 +19,14 @@ description: "An improv troupe."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrea Young</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Arthur Simone">Arthur Simone</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Trew">Chris Trew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style="">Jill Morris</li><!--
   --><li style="">Justin York</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Madorsky">Rachel Madorsky</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

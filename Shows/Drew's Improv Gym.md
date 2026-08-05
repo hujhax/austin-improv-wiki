@@ -16,7 +16,7 @@ image: "File/Drew%27s%20Improv%20Gym.jpg"
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Independent</li><!--
-  --><li style=""><a class="internal-link" href="Theatres-ColdTowne Conservatory">ColdTowne Conservatory</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/ColdTowne Conservatory">ColdTowne Conservatory</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -69,7 +69,7 @@ image: "File/Drew%27s%20Improv%20Gym.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

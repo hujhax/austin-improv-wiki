@@ -24,7 +24,7 @@ image: "File/Jukebox.jpg"
   --><li style="">Arby Gonzales</li><!--
   --><li style="">Chris Sebilia</li><!--
   --><li style="">Jen Bernard</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style="">Todd Geldon</li><!--
   --><li style="">Zack Phillips</li><!--
   --><!--

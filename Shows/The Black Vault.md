@@ -8,33 +8,33 @@ description: "An improvised longform show performed in the style of the..."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Black Vault.jpg ‎"><img src="File/The%20Black%20Vault.jpg%20‎" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/The Black Vault.jpg"><img src="File/The%20Black%20Vault.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Davis">Justin Davis</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,9 +77,9 @@ description: "An improvised longform show performed in the style of the..."
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (sound)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (scoring)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a> (lights)</li><!--
   --><!--
   --><!--
   --><!--

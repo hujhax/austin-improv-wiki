@@ -14,7 +14,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20Felicity.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -23,8 +23,8 @@ image: "File/Live%20TV%20Tuesdays%20-%20Felicity.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,9 +78,9 @@ image: "File/Live%20TV%20Tuesdays%20-%20Felicity.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Adriane Shown</a></li><!--
   --><li style="">Bill Price</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style="">Indigo Rael</li><!--
   --><li style="">Kacy Todd</li><!--
   --><li style="">Nathalie Holmes</li><!--
@@ -134,8 +134,8 @@ image: "File/Live%20TV%20Tuesdays%20-%20Felicity.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Carla Goodman</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -20,9 +20,9 @@ description: "One-off Cagematch team."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Trabka</li><!--
   --><li style="">Isaac Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><li style="">Michael Williams</li><!--
   --><li style="">Scott Raney</li><!--
   --><li style="">Stephanie Redding Hardie</li><!--

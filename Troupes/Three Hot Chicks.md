@@ -20,8 +20,8 @@ image: "File/TheeHotChicks.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Joel Ausanka Reese</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style="">Kacy Todd</li><!--
   --><li style="">Ruby Leigh Young</li><!--
   --><!--

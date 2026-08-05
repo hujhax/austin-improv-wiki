@@ -14,11 +14,11 @@ image: "File/Peter%20Pan%20and%20the%20Great%20Unknown%20Placeholder%20image.jpg
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

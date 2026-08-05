@@ -20,12 +20,12 @@ image: "File/Decoy.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ben Bazan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Bunn">Chelsea Bunn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style="">Dustin Finkelstein</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
   --><li style="">Naomi Perryman</li><!--
   --><li style="" >Robert  Moncrieff</li><!--
   --><li style="">Steve  Moore</li><!--

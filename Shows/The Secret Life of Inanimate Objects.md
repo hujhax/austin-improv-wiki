@@ -14,13 +14,13 @@ image: "File/The%20Secret%20Life%20of%20Inanimate%20Objects%20Image.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-J. R. Zambrano">J. R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@ image: "File/The%20Secret%20Life%20of%20Inanimate%20Objects%20Image.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Suzanne Link">Suzanne Link</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -81,11 +81,11 @@ image: "File/The%20Secret%20Life%20of%20Inanimate%20Objects%20Image.jpg"
   --><li style="">Aaron Rubin</li><!--
   --><li style="">Bonnie Dilber</li><!--
   --><li style="">Christina Keller</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joy Parks">Joy Parks</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kelly Campbell">Kelly Campbell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nichole Bennett">Nichole Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
   --><li style="" >Tyler Groce</li><!--
   --><!--
   --><!--
@@ -134,8 +134,8 @@ image: "File/The%20Secret%20Life%20of%20Inanimate%20Objects%20Image.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Benjamin Blattberg</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a> (tech director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a> (tech director)</li><!--
   --><li style="">Nick Amsden</li><!--
   --><!--
   --><!--

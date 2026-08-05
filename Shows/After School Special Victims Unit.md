@@ -14,11 +14,11 @@ image: "File/After%20School%20Special%20Victims%20Unit.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
@@ -32,10 +32,10 @@ image: "File/After%20School%20Special%20Victims%20Unit.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Trabka</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Meredith Mae Roberts</li><!--
   --><!--
   --><!--

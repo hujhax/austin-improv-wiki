@@ -19,9 +19,9 @@ image: "File/GetUp.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><!--
   --><!--
   --><!--

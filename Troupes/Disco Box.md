@@ -19,9 +19,9 @@ image: "File/Disco%20Box.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
   --><li style="">Ariel Greenspoon</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Christina Parrish">Christina Parrish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christina Parrish">Christina Parrish</a></li><!--
   --><li style="">G-su Paek</li><!--
   --><!--
   --><!--

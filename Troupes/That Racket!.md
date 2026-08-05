@@ -23,10 +23,10 @@ image: "File/That%20Racket%21.jpg"
   --><li style="">Ella Gale</li><!--
   --><li style="">Kevin Smith</li><!--
   --><li style="">Linzy Beltran</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mitch Mills">Mitch Mills</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mitch Mills">Mitch Mills</a></li><!--
   --><li style="">Stephanie Chiarello</li><!--
   --><li style="">Mike O'Connor</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
   --><!--
   --><!--
   --><!--

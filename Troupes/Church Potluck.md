@@ -20,10 +20,10 @@ image: "File/Church%20Potluck.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Christine Giordano</li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Buseman">John Buseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
   --><li style="">Ryan Thomas</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ted Meredith">Ted Meredith</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ted Meredith">Ted Meredith</a></li><!--
   --><!--
   --><!--
   --><!--

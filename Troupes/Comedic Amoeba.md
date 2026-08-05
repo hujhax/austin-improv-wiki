@@ -19,7 +19,7 @@ image: "File/Comedic%20Amoeba.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><!--
   --><!--
   --><!--

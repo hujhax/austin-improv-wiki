@@ -20,8 +20,8 @@ image: "File/Catalyst.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ashley Jayne Carlisle</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
   --><!--
   --><!--
   --><!--

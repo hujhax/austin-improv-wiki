@@ -20,10 +20,10 @@ image: "File/Backpack%20Picnic.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">David Bewley</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeremy Lamb">Jeremy Lamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Lamb">Jeremy Lamb</a></li><!--
   --><li style="">Mitch Baker</li><!--
   --><li style="">René Pinnell</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--

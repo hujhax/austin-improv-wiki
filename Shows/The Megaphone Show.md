@@ -14,7 +14,7 @@ image: "File/The%20Megaphone%20Show.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The New Movement Theater">The New Movement Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement Theater">The New Movement Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -23,7 +23,7 @@ image: "File/The%20Megaphone%20Show.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
   --><li style="">Gsu Paek</li><!--
   --><li style="">Karen Early</li><!--
   --><li style="">Megan Simon</li><!--

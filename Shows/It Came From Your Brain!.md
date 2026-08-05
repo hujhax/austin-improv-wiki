@@ -13,12 +13,12 @@ image: "File/Itcamefromyourbrain%21.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
   --><li style="">Nicholaus Weindel</li><!--
   --><!--
   --><!--
@@ -79,12 +79,12 @@ image: "File/Itcamefromyourbrain%21.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jennifer Dorsey</li><!--
   --><li style="">Marcone Cangussu</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style="">Alicia Earls</li><!--
   --><li style="">Ethan Stites</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heidi Penix">Heidi Penix</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Penix">Heidi Penix</a></li><!--
   --><li style="">Ben Howell</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heidi Lorenz">Heidi Lorenz</a> (Host)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Lorenz">Heidi Lorenz</a> (Host)</li><!--
   --><!--
   --><!--
   --><!--
@@ -134,7 +134,7 @@ image: "File/Itcamefromyourbrain%21.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Neil Dorsey</li><!--
   --><li style="">Juese Cutler</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

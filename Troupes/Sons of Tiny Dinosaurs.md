@@ -20,7 +20,7 @@ description: "One-off Cagematch team."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Trabka</li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style="">Joel Usher</li><!--
   --><li style="">Matt Derman</li><!--
   --><li style="">Sam Van Metre</li><!--

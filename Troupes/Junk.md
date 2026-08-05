@@ -19,10 +19,10 @@ image: "File/Junk.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sean Hill">Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ted Rutherford">Ted Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

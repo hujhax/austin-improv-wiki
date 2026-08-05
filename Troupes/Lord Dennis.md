@@ -19,7 +19,7 @@ image: "File/Lord%20Dennis.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style="">Lacy Cox</li><!--
   --><!--
   --><!--

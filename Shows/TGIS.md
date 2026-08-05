@@ -14,12 +14,12 @@ image: "File/TGIS.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a> ("Buddies")</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a> ("Buddies")</li><!--
   --><li style="">Courtney Sevener ("Boy Greets World")</li><!--
   --><!--
   --><!--
@@ -74,19 +74,19 @@ image: "File/TGIS.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Carlos Larotta">Carlos Larotta</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
   --><li style="">Gary Richardson</li><!--
   --><li style="">Jeff Whitaker</li><!--
   --><li style="">Jenna Marie Carey</li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Matt Needles">Matt Needles</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
   --><li style="">Meredith Mae Roberts</li><!--
   --><li style="">Naomi Perryman</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

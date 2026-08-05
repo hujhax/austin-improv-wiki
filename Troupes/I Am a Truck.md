@@ -18,11 +18,11 @@ description: "An improv troupe."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob McNichol">Bob McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
   --><li style="">Jen Cargill</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -20,9 +20,9 @@ image: "File/Soy%20Taco.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Angie Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cristy Salinas">Cristy Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cristy Salinas">Cristy Salinas</a></li><!--
   --><li style="">Monica Maher</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
   --><li style="">Robert Evans</li><!--
   --><li style="">Vijay Thakkar</li><!--
   --><!--

@@ -14,13 +14,13 @@ image: "File/Cochise%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a> (<a class="internal-link" href="Troupes-Improv For Evil">Improv For Evil</a> runs)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a> (all runs)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a> (<a class="internal-link" href="Troupes/Improv For Evil">Improv For Evil</a> runs)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (all runs)</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,23 +73,23 @@ image: "File/Cochise%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a> (student mainstage run)</td>
+			<td class="category"><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a> (student mainstage run)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Barrett Phelan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style="">Emma Czarnecki</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style="">Ericka Bundy</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style="">Haley Alea Erickson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style="" >Joshua Santo</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
   --><li style="">Matthew Davis</li><!--
   --><!--
   --><!--

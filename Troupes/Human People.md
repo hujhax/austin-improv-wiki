@@ -21,12 +21,12 @@ image: "File/Hp.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Greg Mihalik</li><!--
   --><li style="">Erik McVicker</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mary Henderson">Mary Henderson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kris Raab">Kris Raab</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Pius Wong">Pius Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kris Raab">Kris Raab</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Pius Wong">Pius Wong</a></li><!--
   --><li style="">Sheri Soltes</li><!--
   --><li style="">Amy McClellan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><li style="" >Kay Krasin</li><!--
   --><li style="">Sue Jordan</li><!--
   --><!--
@@ -77,7 +77,7 @@ image: "File/Hp.jpg"
   --><li style="">Bloom Davis</li><!--
   --><li style="">Carolyn Gjersten</li><!--
   --><li style="">Judy Blackshear</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
   --><!--
   --><!--
   --><!--

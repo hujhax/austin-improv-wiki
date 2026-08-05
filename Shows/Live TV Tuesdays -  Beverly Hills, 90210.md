@@ -14,23 +14,23 @@ image: "File/Live%20TV%20Tuesdays-%2090210.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ashley Lowe</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style="">Cassiday Proctor</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erica Lies">Erica Lies</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
   --><li style="">Martina Ohlhauser</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
   --><li style="" >Sara Osburn</li><!--
   --><li style="">Tyler Pratt</li><!--
   --><!--
@@ -78,8 +78,8 @@ image: "File/Live%20TV%20Tuesdays-%2090210.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madeline Jo Chauvin">Madeline Jo Chauvin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

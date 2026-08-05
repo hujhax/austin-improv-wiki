@@ -14,12 +14,12 @@ image: "File/Late%20Night%20Time%20Machine%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a> (season 1)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a> (season 1)</li><!--
   --><li style="">Mason Pitluk (season 2)</li><!--
   --><!--
   --><!--
@@ -74,11 +74,11 @@ image: "File/Late%20Night%20Time%20Machine%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-James C. Leary">James C. Leary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/James C. Leary">James C. Leary</a></li><!--
   --><li style="">Sydney Huddleston</li><!--
   --><li style="">Mike Carreon</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
   --><li style="">various guests</li><!--
   --><!--
   --><!--

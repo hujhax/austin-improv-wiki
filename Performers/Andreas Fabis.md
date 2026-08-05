@@ -14,7 +14,7 @@ image: "File/Andreas.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Gnap!">Gnap!</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap!">Gnap!</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

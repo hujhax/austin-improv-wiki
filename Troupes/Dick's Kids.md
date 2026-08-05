@@ -21,7 +21,7 @@ description: "One-off Cagematch team."
   --><li style="">Addison Billingsley</li><!--
   --><li style="">Danny Catlow</li><!--
   --><li style="">Jack Jeahy</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="">Max Lipchitz</li><!--
   --><!--
   --><!--

@@ -15,8 +15,8 @@ image: "File/Cat%20Drago%20Pic.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></li><!--
-  --><li style=""><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></li><!--
   --><!--
   --><!--
   --><!--

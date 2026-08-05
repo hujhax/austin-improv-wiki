@@ -21,9 +21,9 @@ image: "File/typewriter.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Laura Galan Wells</li><!--
   --><li style="">Denise Hudson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Casey">Chris Casey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style="">Jerrad Lindenmuth</li><!--
   --><li style="">Zachariah Rollins</li><!--
   --><li style="">Cindy Brio</li><!--

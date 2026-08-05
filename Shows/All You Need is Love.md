@@ -14,13 +14,13 @@ image: "File/all%20you%20need%20is%20love.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,7 +73,7 @@ image: "File/all%20you%20need%20is%20love.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -84,7 +84,7 @@ image: "File/all%20you%20need%20is%20love.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Aaron Rubin</li><!--
   --><li style="">Casey Marie</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><li style="">Cody Herring</li><!--
   --><li style="">Emily McDonald</li><!--
   --><li style="">Esperanza Rivadeneira</li><!--

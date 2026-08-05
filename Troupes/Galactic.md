@@ -19,8 +19,8 @@ image: "File/Galactic.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Josh Gill">Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--

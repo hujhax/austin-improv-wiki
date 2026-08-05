@@ -14,7 +14,7 @@ image: "File/http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JK
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

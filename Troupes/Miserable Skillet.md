@@ -19,7 +19,7 @@ image: "File/Miserable%20Skillet.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Jessica Marpe</li><!--
   --><li style="">Maria Pond</li><!--
   --><li style="">Molly Moore</li><!--

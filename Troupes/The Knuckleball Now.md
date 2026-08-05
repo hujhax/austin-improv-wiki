@@ -19,10 +19,10 @@ image: "File/The%20Knuckleball%20Now.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Craig Kotfas">Craig Kotfas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Deano Jones">Deano Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
   --><li style="">Lee Eddy</li><!--
   --><!--
   --><!--

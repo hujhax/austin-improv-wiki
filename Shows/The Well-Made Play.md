@@ -14,13 +14,13 @@ image: "File/wellmadeplay%20poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,7 +77,7 @@ image: "File/wellmadeplay%20poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

@@ -21,7 +21,7 @@ image: "File/Fat.%20Gay.%20Jewish.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Britain Spellings</li><!--
   --><li style="">George Benedele</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -13,17 +13,17 @@ image: "File/Hitchcocked%21%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Brockman">Michael Brockman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Brockman">Michael Brockman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,19 +77,19 @@ image: "File/Hitchcocked%21%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Allen">Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sean Hill">Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -134,11 +134,11 @@ image: "File/Hitchcocked%21%20Poster.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Anandhi Mani</li><!--
   --><li style="">Brianne Wilson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Zimmerman">David Zimmerman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></li><!--
   --><li style="">Josh Becker</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

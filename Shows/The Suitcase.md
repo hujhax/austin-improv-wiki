@@ -14,30 +14,30 @@ image: "File/The%20Suitcase.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
   --><li style="">Andrew Robinson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeanette Jones">Jeanette Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jen Kaplan">Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Nicole Beckley">Nicole Beckley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Samantha schak">Samantha schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Wyatt Tall">Wyatt Tall</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeanette Jones">Jeanette Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Samantha schak">Samantha schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,8 +82,8 @@ image: "File/The%20Suitcase.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Adriane Shown">Adriane Shown</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--

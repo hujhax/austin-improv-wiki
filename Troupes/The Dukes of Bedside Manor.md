@@ -19,10 +19,10 @@ image: "File/Dukes-bedside-manor.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Sullivan">Mike Sullivan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
   --><li style="">Hugo Vargas-Zesati</li><!--
   --><!--
   --><!--

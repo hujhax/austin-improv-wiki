@@ -14,13 +14,13 @@ image: "File/Close%20Up.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,13 +75,13 @@ image: "File/Close%20Up.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Angie Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
   --><li style="">Jenna Howard</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kenny Madison">Kenny Madison</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kelly Campbell">Kelly Campbell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Suzanne Link">Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -18,7 +18,7 @@ image: "File/Four%20Stories%20Tall%20.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>

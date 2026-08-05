@@ -24,12 +24,12 @@ image: "File/Kakkerlakken.png"
   --><li style="">David Nayer</li><!--
   --><li style="">Elly Van Laar</li><!--
   --><li style="">Jason Heffron</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Keegan Hines">Keegan Hines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Menelaos Prokos">Menelaos Prokos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
   --><li style="" >Tim</li><!--
   --><li style="">Todd Geldon</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><li style="">Tyler Pratt</li><!--
   --><!--
   --><!--

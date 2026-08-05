@@ -16,7 +16,7 @@ image: "File/The%20Monday%20Night%20Mash.jpg"
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Kick Butt Coffee (2008-2009)</li><!--
-  --><li style=""><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,8 +70,8 @@ image: "File/The%20Monday%20Night%20Mash.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes-Snackers">Snackers</a> (2008-2009)</li><!--
-  --><li style=""><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Snackers">Snackers</a> (2008-2009)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2009-Present)</li><!--
   --><!--
   --><!--
   --><!--

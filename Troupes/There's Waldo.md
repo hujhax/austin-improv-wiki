@@ -21,10 +21,10 @@ image: "File/There%27s%20Waldo.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy Dietze</li><!--
   --><li style="">Christine Giordano</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erica Lies">Erica Lies</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erica Lies">Erica Lies</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
   --><li style="">Sara Osburn</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><li style="">Tyler Reece Booker</li><!--
   --><!--
   --><!--

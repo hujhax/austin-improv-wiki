@@ -18,7 +18,7 @@ description: "Cagematch team."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Eli Eidson">Eli Eidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eli Eidson">Eli Eidson</a></li><!--
   --><li style="">Jack Leahy</li><!--
   --><li style="">Tevix Paxton</li><!--
   --><!--

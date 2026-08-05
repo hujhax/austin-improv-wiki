@@ -21,10 +21,10 @@ image: "File/Foolish%20Mortals.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrea Young</li><!--
   --><li style="">Andy Perreira</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christopher 'Ceej' Allen">Christopher 'Ceej' Allen</a></li><!--
   --><li style="">Jill Morris</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ted Rutherford">Ted Rutherford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

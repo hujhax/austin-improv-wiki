@@ -20,10 +20,10 @@ description: "One-off Cagematch team."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andy O'Meara</li><!--
   --><li style="">Ben McVey</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style="">John Chakales</li><!--
   --><li style="">Joshua Philips</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><!--
   --><!--
   --><!--

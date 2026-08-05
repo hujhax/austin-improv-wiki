@@ -18,19 +18,19 @@ image: "File/Achatina%20Achatina.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style="">Brian Howard</li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style="">Ed Reed IV</li><!--
   --><li style="">Grant Specht</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
   --><li style="" >Liz Butler</li><!--
   --><li style="">Matt Derman</li><!--
   --><li style="">Steve Donovan</li><!--

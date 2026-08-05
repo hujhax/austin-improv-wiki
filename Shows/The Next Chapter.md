@@ -14,29 +14,29 @@ image: "File/NextChapter-poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Jessie Pascarelli">Jessie Pascarelli</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessie Pascarelli">Jessie Pascarelli</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ben Masten">Ben Masten</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ben Masten">Ben Masten</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style="">Jessie Pitluk</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Megan Venable">Megan Venable</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Megan Venable">Megan Venable</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ image: "File/NextChapter-poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category"><a class="internal-link" href="Performers-Jeanette Jones">Jeanette Jones</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jeanette Jones">Jeanette Jones</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

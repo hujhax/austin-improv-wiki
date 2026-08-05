@@ -19,7 +19,7 @@ image: "File/Lucky%20Billy.jpeg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style="">Ali Shepher</li><!--
   --><li style="">Brandi Gist</li><!--
   --><li style="">Dani Hendricks</li><!--

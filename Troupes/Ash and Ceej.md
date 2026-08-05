@@ -19,7 +19,7 @@ description: "An improv duo."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ashley Lowe</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Christopher Allen">Christopher Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Christopher Allen">Christopher Allen</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -19,7 +19,7 @@ image: "File/Got%20Your%20Back%20Pic.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style="">K.C. Harvey-Taylor</li><!--
   --><!--
   --><!--

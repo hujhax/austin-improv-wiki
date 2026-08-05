@@ -19,8 +19,8 @@ image: "File/457986%2010151011200081351%202110136360%20o.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -76,10 +76,10 @@ image: "File/457986%2010151011200081351%202110136360%20o.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">April Sanchez</li><!--
   --><li style="">Bryson Rushing</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Colin Bates">Colin Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
   --><li style="">Linzy Beltran</li><!--
   --><!--
   --><!--

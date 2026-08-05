@@ -14,40 +14,40 @@ image: "File/Spirited.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers-David Zimmerman">David Zimmerman</a></td>
+			<td class="category"><a class="internal-link" href="Performers/David Zimmerman">David Zimmerman</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Pish">Andrew Pish</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Menelaos Prokos">Menelaos Prokos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-John Buseman">John Buseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Davis">Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Leng Wong">Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Pish">Andrew Pish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -85,7 +85,7 @@ image: "File/Spirited.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category"><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

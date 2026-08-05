@@ -23,12 +23,12 @@ image: "File/Improvised%20Robocop.jpg"
   --><li style="">Andy Petruzzo</li><!--
   --><li style="">Collin Cannaday</li><!--
   --><li style="">Delaney Liming</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><li style="">Jenny Carlson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jericho Thorpe">Jericho Thorpe</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorpe">Jericho Thorpe</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style="">Stephanie Redding</li><!--
   --><!--
   --><!--

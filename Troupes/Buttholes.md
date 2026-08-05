@@ -19,7 +19,7 @@ image: "File/Mandinka.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
   --><li style="">John Carroll</li><!--
   --><li style="">Hannah Monson</li><!--
   --><li style="">Elena Martinez</li><!--

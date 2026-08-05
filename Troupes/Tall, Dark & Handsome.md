@@ -19,8 +19,8 @@ description: "One-off Cagematch team."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style="">(<a class="internal-link" href="Performers-Clint Harris">Clint Harris</a>)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style="">(<a class="internal-link" href="Performers/Clint Harris">Clint Harris</a>)</li><!--
   --><li style="">Will Casto</li><!--
   --><!--
   --><!--

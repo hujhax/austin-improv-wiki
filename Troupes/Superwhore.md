@@ -20,10 +20,10 @@ image: "File/Superwhore.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amber Quick</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brently Heilbron">Brently Heilbron</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
   --><li style="">Meredith Roberts</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
   --><li style="">Will Cleveland</li><!--
   --><!--
   --><!--

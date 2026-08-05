@@ -14,7 +14,7 @@ image: "File/TheDerby.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a>/<a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a>/<a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>

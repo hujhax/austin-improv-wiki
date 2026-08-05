@@ -14,11 +14,11 @@ image: "File/Breaking%20Beckett%20Poster%20Ryan.png"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Bobby Ford">Bobby Ford</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Bobby Ford">Bobby Ford</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
@@ -27,9 +27,9 @@ image: "File/Breaking%20Beckett%20Poster%20Ryan.png"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsey">Jayme Ramsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsey">Jayme Ramsey</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,7 +81,7 @@ image: "File/Breaking%20Beckett%20Poster%20Ryan.png"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category"><a class="internal-link" href="Performers-Mark Shoemaker">Mark Shoemaker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Mark Shoemaker">Mark Shoemaker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

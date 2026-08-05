@@ -14,7 +14,7 @@ image: "File/Darrell%20Barber%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Troupes-ComedySportz">ComedySportz</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/ComedySportz">ComedySportz</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

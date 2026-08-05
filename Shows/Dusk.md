@@ -14,38 +14,38 @@ image: "File/Dusk%20Image.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Avimaan Syam">Avimaan Syam</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Colin Thomas Bates">Colin Thomas Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Avimaan Syam">Avimaan Syam</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Colin Thomas Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style="">Hugo Zesati</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Julie Gillis">Julie Gillis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lauren Buck">Lauren Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lauren Zinn">Lauren Zinn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Madi Goff">Madi Goff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Thomas">Michael Thomas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lauren Zinn">Lauren Zinn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--

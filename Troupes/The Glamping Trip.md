@@ -20,7 +20,7 @@ image: "File/The%20Glamping%20Trip.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">David Lee Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><!--
   --><!--
   --><!--

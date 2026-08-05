@@ -27,7 +27,7 @@ image: "File/Bear%20Derby.jpg"
   --><li style="">Dustin Finkelstein</li><!--
   --><li style="">Juliet Prather</li><!--
   --><li style="">Matthew Stoner</li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style="">Sarah Coker</li><!--
   --><li style="">XJ Coleman</li><!--
   --><!--

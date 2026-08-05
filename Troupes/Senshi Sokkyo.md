@@ -19,12 +19,12 @@ image: "File/Senshi%20Sokyo.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Colin Thomas Bates">Colin Thomas Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Leng Wong">Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Colin Thomas Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -14,21 +14,21 @@ image: "File/You%20Think%20You%27re%20So%20Smart%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Justin Davis">Justin Davis</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aaron Saenz">Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Davis">Justin Davis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

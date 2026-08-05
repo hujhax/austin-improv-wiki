@@ -16,32 +16,32 @@ image: "File/One%20More%20Night.gif"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style="">Avimaan Vivek Syam</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Julie Gillis">Julie Gillis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Madi Goff">Madi Goff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Meghan Wolff">Meghan Wolff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Sullivan">Mike Sullivan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Julie Gillis">Julie Gillis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -14,28 +14,28 @@ image: "File/Lord%20Wensleydale%27s%20Last%20High%20Tea.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes-Parallelogramophonograph">Parallelogramophonograph</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Parallelogramophonograph">Parallelogramophonograph</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Baia">Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bridget Brewer">Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Irene White">Irene White</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Irene White">Irene White</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

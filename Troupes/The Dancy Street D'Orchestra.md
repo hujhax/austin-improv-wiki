@@ -19,17 +19,17 @@ image: "File/DancyStreet.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Amy Averett">Amy Averett</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Rosenbaum">David Rosenbaum</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Madi Goff">Madi Goff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mo Daviau">Mo Daviau</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Susannah Raulino">Susannah Raulino</a></li><!--
-  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Madi Goff">Madi Goff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mo Daviau">Mo Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

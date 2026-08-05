@@ -22,8 +22,8 @@ description: "An improv troupe."
   --><li style="">Brady James</li><!--
   --><li style="">Jenna Carey</li><!--
   --><li style="">Jessica Hamilton</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--
   --><!--

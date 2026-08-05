@@ -18,7 +18,7 @@ image: "File/The%20Couchsurfers.png"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>

@@ -21,7 +21,7 @@ image: "File/Waterpark%20Publicity.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Niederpruem</li><!--
   --><li style="">Amy Pacheco Jordan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Davidson">Justin Davidson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davidson">Justin Davidson</a></li><!--
   --><li style="">Justin Strackany</li><!--
   --><li style="">Megan Poncho Simon</li><!--
   --><!--

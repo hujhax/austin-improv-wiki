@@ -14,33 +14,33 @@ image: "File/You%20Can%27t%20Stay%20Here%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Ayala">Alex Ayala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clint Harris">Clint Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style="">Donnie Garcia</li><!--
   --><li style="">Jessy Schwartz</li><!--
   --><li style="" >Letty Tomlinson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -86,7 +86,7 @@ image: "File/You%20Can%27t%20Stay%20Here%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><!--
   --><!--
   --><!--

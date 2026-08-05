@@ -19,7 +19,7 @@ image: "File/Andrew%20%26%20Jeremy%20Hypnotize%20Each%20Other%21.png"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrew Schwartz</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeremy Moran">Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
   --><!--
   --><!--
   --><!--

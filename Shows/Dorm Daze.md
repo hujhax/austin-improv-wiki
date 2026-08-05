@@ -15,8 +15,8 @@ image: "File/Dorm%20Daze.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a> (2014)</li><!--
-  --><li style=""><a class="internal-link" href="Theatres-Institution Theater">Institution Theater</a> (2015)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2014)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Institution Theater">Institution Theater</a> (2015)</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,13 +73,13 @@ image: "File/Dorm%20Daze.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Troupes-Bad Font">Bad Font</a></li><!--
-  --><li style=""><a class="internal-link" href="Troupes-Empty Promises">Empty Promises</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Bad Font">Bad Font</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Empty Promises">Empty Promises</a></li><!--
   --><!--
   --><!--
   --><!--

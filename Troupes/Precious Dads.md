@@ -21,7 +21,7 @@ image: "File/Precious%20Dads.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Addison Billingsley</li><!--
   --><li style="">Byron Brown</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style="">Jeff Whitaker</li><!--
   --><li style="">Kirk Johnson</li><!--
   --><li style="">Max Lipchitz</li><!--

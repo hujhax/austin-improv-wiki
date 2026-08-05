@@ -15,7 +15,7 @@ image: "File/Neal%20Tibrewala%20Pic.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres-Hideout">Hideout</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Hideout">Hideout</a></li><!--
   --><!--
   --><!--
   --><!--

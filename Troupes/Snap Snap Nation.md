@@ -20,7 +20,7 @@ image: "File/Snap%20Snap%20Nation.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Benden (guitarist)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
   --><li style="">Vanessa Shields</li><!--
   --><!--
   --><!--

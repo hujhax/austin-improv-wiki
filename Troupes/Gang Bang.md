@@ -19,12 +19,12 @@ description: "\"fast-paced, drunken-frenzy improv troupe.\"."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brian Engravalle</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jericho Thorp">Jericho Thorp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Josh Gill">Josh Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joshua Gill">Joshua Gill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Gill">Joshua Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style="">Nick Ramirez</li><!--
   --><li style="" >Sandra Markarian</li><!--
   --><li style="">Todd Schanbacher</li><!--

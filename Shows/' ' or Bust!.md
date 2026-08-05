@@ -14,24 +14,24 @@ image: "File/Blank%20or%20Bust.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Bob Khosravi</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Britney Salyer">Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
   --><li style="">Jerry Akellian</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><li style="">Reid Jacobson</li><!--
   --><li style="">Robin Anderson</li><!--
   --><li style="">Valerie Nies</li><!--

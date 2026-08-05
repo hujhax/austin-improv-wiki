@@ -21,9 +21,9 @@ image: "File/Super%20Sweet.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Craig Mcgreggor</li><!--
   --><li style="">Lori Hobbie</li><!--
-  --><li style=""><a class="internal-link" href="Performers-R. Lance Hunter">R. Lance Hunter</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shannon Dale Stott">Shannon Dale Stott</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/R. Lance Hunter">R. Lance Hunter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon Dale Stott">Shannon Dale Stott</a></li><!--
   --><!--
   --><!--
   --><!--

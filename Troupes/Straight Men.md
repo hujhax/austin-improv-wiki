@@ -18,14 +18,14 @@ description: "One-off Cagematch team."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob McNichol">Bob McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style="">Katie Sicking</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="">Nick Ramirez</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

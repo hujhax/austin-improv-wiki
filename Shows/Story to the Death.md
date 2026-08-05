@@ -14,15 +14,15 @@ image: "File/Story%20to%20the%20Death%20Promo.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Stage Manager(s)</th>
@@ -85,21 +85,21 @@ image: "File/Story%20to%20the%20Death%20Promo.jpg"
   --><li style="">Aaron Seriff-Cullick</li><!--
   --><li style="">Alex Bennett</li><!--
   --><li style="">Angelina Martin</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
   --><li style="">Annie Shortt</li><!--
   --><li style="">Ashley Blom</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
   --><li style="">Emily McDonald</li><!--
   --><li style="" >Espi Rivandeneira</li><!--
   --><li style="">Graham Snow</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><li style="">Jessica Soos</li><!--
   --><li style="">Kay Krasin</li><!--
   --><li style="">Ladislao Loera</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Jalandoon">Marc Jalandoon</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><li style="">Tess Forneris</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><li style="">Trent Symmonds</li><!--
   --><li style="">Trent Thomson</li><!--
   --><!--
@@ -139,7 +139,7 @@ image: "File/Story%20to%20the%20Death%20Promo.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Heather Coffee</li><!--
   --><li style="">Laura Galan Wells</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nichole Bennett">Nichole Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
   --><li style="">Peter Wilde</li><!--
   --><li style="">Tori Haddox</li><!--
   --><!--

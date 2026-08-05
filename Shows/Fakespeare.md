@@ -14,13 +14,13 @@ image: "File/Fakespeare%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,21 +74,21 @@ image: "File/Fakespeare%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Austin Terrell">Austin Terrell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Van Winkle">Katie Van Winkle</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Ferstenfeld">Mike Ferstenfeld</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Taylor Flanagan">Taylor Flanagan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Austin Terrell">Austin Terrell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caitlin Sweetlamb">Caitlin Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Van Winkle">Katie Van Winkle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Ferstenfeld">Mike Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Flanagan">Taylor Flanagan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -130,10 +130,10 @@ image: "File/Fakespeare%20Poster.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Catherine Arjet</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Warren Henderson">Warren Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Warren Henderson">Warren Henderson</a></li><!--
   --><!--
   --><!--
   --><!--

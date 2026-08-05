@@ -22,7 +22,7 @@ description: "Cagematch team."
   --><li style="">K.C. Harvey Taylor</li><!--
   --><li style="">Katie Moore</li><!--
   --><li style="">Naomi Perryman</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

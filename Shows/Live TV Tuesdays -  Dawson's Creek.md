@@ -14,21 +14,21 @@ image: "File/Live%20TV%20Tuesdays%20-%20Dawson%27s%20Creek.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Ted Meredith">Ted Meredith</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ted Meredith">Ted Meredith</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style="">Bill Price</li><!--
   --><li style="">Carla Goodman</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
   --><li style="">Jiovani Galo</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Clinkenbeard">Jon Clinkenbeard</a></li><!--
   --><li style="">Kacy Todd</li><!--
   --><li style="">Kelli Bland</li><!--
   --><!--
@@ -77,7 +77,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20Dawson%27s%20Creek.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category"><a class="internal-link" href="Performers-Britney Salyer">Britney Salyer</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

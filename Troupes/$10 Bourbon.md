@@ -21,8 +21,8 @@ image: "File/%2410%20Bourbon.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Alex Nixon</li><!--
   --><li style="">Andy Pereira</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erin Molson">Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erin Plischke">Erin Plischke</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Plischke">Erin Plischke</a></li><!--
   --><li style="">Terrill Fischer</li><!--
   --><!--
   --><!--

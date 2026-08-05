@@ -19,10 +19,10 @@ image: "File/The%20JBs.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
   --><li style="">Jen Blair</li><!--
   --><li style="">Jill Bernard</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><!--
   --><!--
   --><!--

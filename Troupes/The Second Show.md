@@ -20,11 +20,11 @@ description: "An improv troupe."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Audrey Alberthal</li><!--
   --><li style="">Charlie Hoehn</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heather Hasselle">Heather Hasselle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heather Hasselle">Heather Hasselle</a></li><!--
   --><li style="">John McConnel</li><!--
   --><li style="">Lauren Chavarria</li><!--
   --><li style="">Shamik Basu</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sunaina Suhag">Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
   --><li style="">Tania Quintanilla</li><!--
   --><!--
   --><!--

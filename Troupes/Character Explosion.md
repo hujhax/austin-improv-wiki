@@ -19,12 +19,12 @@ image: "File/Character%20Explosion.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carolyn Gjertsen">Carolyn Gjertsen</a></li><!--
   --><li style="">Jenn Hamm</li><!--
   --><li style="">Kathleen McFerren</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nichole Bennett">Nichole Bennett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a></li><!--
   --><li style="">Nick Amsden</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Timothy Coyle">Timothy Coyle</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Timothy Coyle">Timothy Coyle</a></li><!--
   --><li style="">Zach Leos</li><!--
   --><!--
   --><!--
@@ -135,12 +135,12 @@ The five students / recent graduates of the Hideout Theatre who played in the fr
 Alumni
 <div class="plainlist"><ul style=""><!--
   --><li style="">Bonnie Dilber</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Villafano">Chris Villafano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joy Parks">Joy Parks</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Robert Slack">Robert Slack</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Villafano">Chris Villafano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--

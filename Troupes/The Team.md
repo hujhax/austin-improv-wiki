@@ -21,8 +21,8 @@ image: "File/The%20Team.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Danny Catlow</li><!--
   --><li style="">David Lee Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
   --><!--
   --><!--

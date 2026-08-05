@@ -20,11 +20,11 @@ description: "One-off Cagematch team."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Anthony Norton</li><!--
   --><li style="">Brent Foshee</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
   --><li style="">Jennifer Micallef</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Josh Krilov">Josh Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Krilov">Josh Krilov</a></li><!--
   --><li style="">Kerri Atwood</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
   --><!--
   --><!--
   --><!--

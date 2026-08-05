@@ -19,10 +19,10 @@ image: "File/Kopp%20%26%20Buddy%20-%20%20Buddy%20Cops.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
   --><li style="">Eli Edison</li><!--
   --><li style="">Matthew Stoner</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

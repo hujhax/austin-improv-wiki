@@ -14,13 +14,13 @@ image: "File/kindness%20of%20strangers.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Rob Yoho">Rob Yoho</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,20 +74,20 @@ image: "File/kindness%20of%20strangers.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style="">Marcone Cangussu</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style="">Margaret Hunsicker</li><!--
   --><li style="">Tatiana Jitkoff</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style="" >Adrian Prado</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Aaron Saenz">Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style="">Alex Walker</li><!--
-  --><li style=""><a class="internal-link" href="Performers-J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--

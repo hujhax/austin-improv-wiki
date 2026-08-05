@@ -21,13 +21,13 @@ image: "File/Happy%20Butter.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy O'Connor</li><!--
   --><li style="">David Nayer</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Menelaos Prokos">Menelaos Prokos</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Nystul">Mike Nystul</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Beckley">Nicole Beckley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Zac Grantham">Zac Grantham</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Zac Grantham">Zac Grantham</a></li><!--
   --><!--
   --><!--
   --><!--

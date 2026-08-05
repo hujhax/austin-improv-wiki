@@ -22,7 +22,7 @@ image: "File/A%20Bunch%20of%20Liars.jpg"
   --><li style="">Chris Kelley</li><!--
   --><li style="">Daniel Rigney</li><!--
   --><li style="">Kelli Bland</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><li style="">Paul Wainright</li><!--
   --><li style="">Todd Mein</li><!--
   --><!--

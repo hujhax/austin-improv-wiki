@@ -14,26 +14,26 @@ image: "File/183%20Dewberry%20Lane%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-J. R. Zambrano">J. R. Zambrano</a></td>
+			<td class="category"><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
   --><li style="">Carolina A. Andrade</li><!--
   --><li style="">Eric Peterson</li><!--
   --><li style="">Graham Snow</li><!--
   --><li style="">Greg Mihalik</li><!--
   --><li style="">Kay Krasin</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style="">Sue Woodka Jordan</li><!--
   --><li style="" >Tamara Warton</li><!--
   --><li style="">Zachariah Rollins</li><!--

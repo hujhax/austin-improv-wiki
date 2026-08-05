@@ -19,10 +19,10 @@ image: "File/Things%20We%20Don%27t%20Speak%20Of.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeremy Moran">Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
   --><li style="">Frank Sanchez</li><!--
   --><li style="">Jenn Hamm</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mitchell Deane">Mitchell Deane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mitchell Deane">Mitchell Deane</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,8 +74,8 @@ image: "File/Things%20We%20Don%27t%20Speak%20Of.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
   --><!--
   --><!--
   --><!--

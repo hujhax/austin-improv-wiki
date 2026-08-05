@@ -19,7 +19,7 @@ image: "File/Wooden%20Nickel.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Erin Plischke">Erin Plischke</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Plischke">Erin Plischke</a></li><!--
   --><li style="">Jen Cargill</li><!--
   --><!--
   --><!--
@@ -76,13 +76,13 @@ image: "File/Wooden%20Nickel.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Alex Nixon</li><!--
   --><li style="">Andy Pereira</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
   --><li style="">Cynthia Oelkers</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erin Plischke">Erin Plischke</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Plischke">Erin Plischke</a></li><!--
   --><li style="">Kelly Hudson</li><!--
   --><li style="">Kevin Humphries</li><!--
   --><li style="">Nat Miller</li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></li><!--
   --><li style="">Terrill Fisher</li><!--
   --><!--
   --><!--

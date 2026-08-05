@@ -14,17 +14,17 @@ image: "File/Live%20TV%20Tuesdays-%20Buffy.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,20 +79,20 @@ image: "File/Live%20TV%20Tuesdays-%20Buffy.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amanda Garfield</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Pish">Andrew Pish</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Pish">Andrew Pish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style="">Derek Diaz</li><!--
   --><li style="">Guy Vizard</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style="" >Jennifer Blair</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -134,9 +134,9 @@ image: "File/Live%20TV%20Tuesdays-%20Buffy.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Carlos San Miguel</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><li style="">James Downing</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Leann Fryer</li><!--
   --><li style="">Lisa Marie Kull</li><!--
   --><!--

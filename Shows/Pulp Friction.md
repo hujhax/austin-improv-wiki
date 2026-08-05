@@ -14,26 +14,26 @@ image: "File/Pulp%20Friction%20poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Allen">Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
   --><li style="">Joe Ricks</li><!--
   --><li style="">Laura Komkov</li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Taylor Overstreet">Taylor Overstreet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Taylor Overstreet">Taylor Overstreet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -79,8 +79,8 @@ image: "File/Pulp%20Friction%20poster.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Carl Ziegler</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Wyatt Tall">Wyatt Tall</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Wyatt Tall">Wyatt Tall</a></li><!--
   --><!--
   --><!--
   --><!--

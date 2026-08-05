@@ -14,13 +14,13 @@ image: "File/The%20Source%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -75,10 +75,10 @@ image: "File/The%20Source%20Poster.jpg"
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Hanna AbuZayed (saxophone)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a> (drums)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-KC Harvey-Taylor">KC Harvey-Taylor</a> (bass)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a> (theremin)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a> (guitar)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a> (drums)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/KC Harvey-Taylor">KC Harvey-Taylor</a> (bass)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a> (theremin)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a> (guitar)</li><!--
   --><!--
   --><!--
   --><!--
@@ -130,16 +130,16 @@ image: "File/The%20Source%20Poster.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Celena A Diamond</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style="">Hanna AbuZayed</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style="">Joseph Tran</li><!--
-  --><li style=""><a class="internal-link" href="Performers-KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lahari Samineni">Lahari Samineni</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lena Long">Lena Long</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/KC Harvey-Taylor">KC Harvey-Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lena Long">Lena Long</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><li style="">Sammy Boss</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></li><!--
   --><!--
   --><!--
   --><!--

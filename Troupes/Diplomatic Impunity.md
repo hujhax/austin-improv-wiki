@@ -18,17 +18,17 @@ image: "File/Diplomatic%20Impunity.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Leng Wong">Leng Wong</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amber Shae</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><li style="">Dee Ann Asbury</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style="">Reid O'Conor</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
   --><!--
   --><!--
   --><!--

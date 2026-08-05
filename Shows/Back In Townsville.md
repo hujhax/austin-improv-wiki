@@ -13,15 +13,15 @@ description: "Scripted comedic play written by members of Nice Astronaut, writte
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Chris McKeever">Chris McKeever</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Chris McKeever">Chris McKeever</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Scott Hearne">Scott Hearne</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Scott Hearne">Scott Hearne</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -30,13 +30,13 @@ description: "Scripted comedic play written by members of Nice Astronaut, writte
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style="">Chaz Formichella</li><!--
   --><li style="">Joseph Dailey</li><!--
   --><li style="">Katie Thorton</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><li style="">Arian Brumby</li><!--
   --><li style="" >Katie Thorton</li><!--
   --><li style="">Jillian Besemer</li><!--

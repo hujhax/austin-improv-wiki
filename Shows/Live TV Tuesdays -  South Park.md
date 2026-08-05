@@ -14,17 +14,17 @@ image: "File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amber Shae</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Carissa McAtee">Carissa McAtee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carissa McAtee">Carissa McAtee</a></li><!--
   --><li style="">Christine Gwillam</li><!--
   --><li style="">Clinton Harris</li><!--
   --><li style="">Danine Lareu</li><!--
@@ -34,8 +34,8 @@ image: "File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg"
   --><li style="" >Jeremy Logan</li><!--
   --><li style="">Joel Ausanka Reese</li><!--
   --><li style="">Michael Pedicano</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Nystul">Mike Nystul</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -14,7 +14,7 @@ image: "File/The%20Hustle%20Show.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -75,9 +75,9 @@ image: "File/The%20Hustle%20Show.jpg"
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Courtney Sevener</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
   --><li style="">Jeff Whitaker</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style="">Scott Raney</li><!--
   --><li style="">Tre Fuentes</li><!--
   --><li style="">Ximena Estrada</li><!--

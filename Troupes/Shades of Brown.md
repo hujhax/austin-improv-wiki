@@ -18,15 +18,15 @@ image: "File/Shades%20of%20Brown.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Chuy Zarate">Chuy Zarate</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adan Gutierrez</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
   --><li style="">Erica Sanchez</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
   --><li style="">Jiovani Galo</li><!--
   --><li style="">Luis Zertuche</li><!--
   --><li style="">Mateo Giles</li><!--

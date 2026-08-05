@@ -20,7 +20,7 @@ description: "One-off Cagematch team."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Addison Billingsley</li><!--
   --><li style="">Danny Catlow</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style="">Eric Rutherford</li><!--
   --><li style="">Jack Leahy</li><!--
   --><li style="">Max Lipschitz</li><!--

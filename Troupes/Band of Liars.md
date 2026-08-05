@@ -21,7 +21,7 @@ image: "File/Band%20of%20Liars.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Daniel Rigney</li><!--
   --><li style="">Jackie Myers</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
   --><li style="">Paul Wainwright</li><!--
   --><li style="">Petra Kelsey</li><!--
   --><li style="">Todd Mein</li><!--

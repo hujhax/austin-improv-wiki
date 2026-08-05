@@ -19,7 +19,7 @@ description: "An improv duo."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Madeline M.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><!--
   --><!--
   --><!--

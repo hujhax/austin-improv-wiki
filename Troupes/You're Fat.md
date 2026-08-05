@@ -20,7 +20,7 @@ image: "File/You%27re%20Fat.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jill Morris</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Madorsky">Rachel Madorsky</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Madorsky">Rachel Madorsky</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -19,16 +19,16 @@ description: "An improv troupe."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brent Foshe</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesley">Drew Wesley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joshua Gill">Joshua Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesley">Drew Wesley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Gill">Joshua Gill</a></li><!--
   --><li style="">Julia Kirchen</li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Kate Bojanek">Kate Bojanek</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Sweeney">Kyle Sweeney</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Kate Bojanek">Kate Bojanek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Sweeney">Kyle Sweeney</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><li style="">Michael Williams</li><!--
   --><!--
   --><!--

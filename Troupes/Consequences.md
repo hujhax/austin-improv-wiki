@@ -22,7 +22,7 @@ description: "ColdTowne Student Troupe."
   --><li style="">Addison Billingsley</li><!--
   --><li style="">Ann Potter</li><!--
   --><li style="">Ashley Franks</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ed Reed">Ed Reed</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ed Reed">Ed Reed</a></li><!--
   --><li style="">Lacy Cox</li><!--
   --><li style="">Lizzi Leslie</li><!--
   --><li style="">Stephanie Hardie</li><!--

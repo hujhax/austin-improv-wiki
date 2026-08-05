@@ -19,9 +19,9 @@ description: "One-off Cagematch team that did an \"improvised intervention\"."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adam Sullivan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style="">Arian Brumby</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style="">Katherine Johnson</li><!--
   --><li style="">Sam Bremen</li><!--
   --><li style="">Tre Fuentes</li><!--

@@ -14,35 +14,35 @@ image: "File/Fiasco%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chuy Zarate">Chuy Zarate</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erin Molson">Erin Molson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-J. R. Zambrano">J. R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeff Britt">Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Dahm">Katie Dahm</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Monica Martinez Maher">Monica Martinez Maher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Monica Martinez Maher">Monica Martinez Maher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -86,13 +86,13 @@ image: "File/Fiasco%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (Scoring Lead/Sound Swing)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Mahavier">Jay Mahavier</a> (Sound Effects Lead)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joy Parks">Joy Parks</a> (Stage Manager)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kelly Campbell">Kelly Campbell</a> (Scoring Tech)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a> (Light & Multimedia Lead)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nichole Bennett">Nichole Bennett</a> (Lighting Tech)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a> (Multimedia Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (Scoring Lead/Sound Swing)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a> (Sound Effects Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a> (Stage Manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kelly Campbell">Kelly Campbell</a> (Scoring Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (Light & Multimedia Lead)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nichole Bennett">Nichole Bennett</a> (Lighting Tech)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a> (Multimedia Tech)</li><!--
   --><!--
   --><!--
   --><!--

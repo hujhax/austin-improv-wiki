@@ -24,7 +24,7 @@ image: "File/B-Team.jpg"
   --><li style="">LeAnn Levering-Plant</li><!--
   --><li style="">Melissa Siele</li><!--
   --><li style="">Molly Harris</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Pius Wong">Pius Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Pius Wong">Pius Wong</a></li><!--
   --><!--
   --><!--
   --><!--

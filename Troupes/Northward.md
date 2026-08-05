@@ -18,8 +18,8 @@ description: "An improv duo that focuses on big, distinct characters and..."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Norman Tran">Norman Tran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

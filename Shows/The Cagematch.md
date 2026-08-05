@@ -15,8 +15,8 @@ image: "File/The%20Cagematch.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a> (2005-2007)</li><!--
-  --><li style=""><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a> (2007-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a> (2005-2007)</li><!--
+  --><li style=""><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a> (2007-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -70,10 +70,10 @@ image: "File/The%20Cagematch.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Trew">Chris Trew</a> (2007-2008)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a> (2007-2008)</li><!--
   --><li style="">Michael Williams (2008-2012)</li><!--
   --><li style="">Adam Trabka (2012-2014)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a> (2014-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a> (2014-Present)</li><!--
   --><!--
   --><!--
   --><!--

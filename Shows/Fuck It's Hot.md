@@ -14,26 +14,26 @@ image: "File/Fuck%20Its%20Hot%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ash Nunley">Ash Nunley</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Curry">Bryan Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ash Nunley">Ash Nunley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
   --><li style="">Duncan Coe</li><!--
   --><li style="">Elena Weinberg</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Sarah Swofford">Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tyler Bryce">Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,8 +78,8 @@ image: "File/Fuck%20Its%20Hot%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Curry">Bryan Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Curry">Bryan Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
   --><!--
   --><!--
   --><!--

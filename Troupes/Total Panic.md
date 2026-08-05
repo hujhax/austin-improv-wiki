@@ -23,10 +23,10 @@ image: "File/Total%20Panic.jpg"
   --><li style="">Brandt Pileggi</li><!--
   --><li style="">Brian Engravalle</li><!--
   --><li style="">Brian Howard</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
   --><li style="">Jenny Calrson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
   --><li style="" >Shyla Ray</li><!--
   --><!--
   --><!--

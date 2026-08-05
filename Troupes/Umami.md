@@ -21,9 +21,9 @@ image: "File/Umami.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Dave Rosenbaum</li><!--
   --><li style="">Matt Craighead</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nancy Lyon">Nancy Lyon</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nancy Lyon">Nancy Lyon</a></li><!--
   --><li style="">Regina Soto</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

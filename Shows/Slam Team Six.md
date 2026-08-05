@@ -14,31 +14,31 @@ image: "File/Slam%20Team%20Six.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Baia">Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style="">Benjamin Bazan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heidi Rogers">Heidi Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Rogers">Heidi Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style="">Joseph Dailey</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="" >Meredith Mae Roberts</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
   --><li style="">Michael Williams</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style="">Will Casto</li><!--
   --><!--
   --><!--

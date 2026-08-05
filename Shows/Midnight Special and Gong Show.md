@@ -14,11 +14,11 @@ image: "File/Midnight%20Special%20and%20Gong%20Show.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes-Midnight Society">Midnight Society</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Midnight Society">Midnight Society</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

@@ -14,30 +14,30 @@ image: "File/tno-poster-small.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alexandria Ayala">Alexandria Ayala</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexandria Ayala">Alexandria Ayala</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
   --><li style="">Andy Hush</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clint Harris">Clint Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jen Kaplan">Jen Kaplan</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
   --><li style="">Maitland Lederer</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><li style="">Tess Hermes</li><!--
   --><!--
   --><!--
@@ -82,7 +82,7 @@ image: "File/tno-poster-small.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a></li><!--
   --><!--
   --><!--

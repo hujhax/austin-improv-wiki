@@ -19,8 +19,8 @@ image: "File/The%20Professor.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a> (2011-2012)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a> (2013-Present)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a> (2011-2012)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a> (2013-Present)</li><!--
   --><!--
   --><!--
   --><!--
@@ -74,25 +74,25 @@ image: "File/The%20Professor.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Pish">Andrew Pish</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bridget Brewer">Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clay Towery">Clay Towery</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Colin Bates">Colin Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeff Britt">Jeff Britt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Bozied">Justin Bozied</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Nystul">Mike Nystul</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Steve Harwood">Steve Harwood</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Pish">Andrew Pish</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clay Towery">Clay Towery</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeff Britt">Jeff Britt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Bozied">Justin Bozied</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Nystul">Mike Nystul</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Steve Harwood">Steve Harwood</a></li><!--
   --><!--
   --><!--
   --><!--

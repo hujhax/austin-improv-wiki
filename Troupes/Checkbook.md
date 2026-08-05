@@ -24,7 +24,7 @@ image: "File/Checkbook.jpg"
   --><li style="">Jenna Marie Carey</li><!--
   --><li style="">Megan Simon</li><!--
   --><li style="">Reagan Ward</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Yamina Khouane">Yamina Khouane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--
   --><!--

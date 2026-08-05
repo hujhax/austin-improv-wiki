@@ -14,29 +14,29 @@ image: "File/Blood%2C%20Sweat%2C%20and%20Cheers%20pic.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Dobrenko">Alex Dobrenko</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Dobrenko">Alex Dobrenko</a></li><!--
   --><li style="">Amy Gentry</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Kayla Lane Freeman">Kayla Lane Freeman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><!--
   --><!--
   --><!--

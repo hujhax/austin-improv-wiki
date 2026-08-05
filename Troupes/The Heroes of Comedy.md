@@ -18,52 +18,52 @@ image: "File/The%20Heroes%20of%20Comedy.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Sean Hill">Sean Hill</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy McCurdy</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
   --><li style="">Ben Reddell</li><!--
   --><li style="">Ben Sterling</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
   --><li style="">Brett Webster</li><!--
   --><li style="">Brian Yannish</li><!--
   --><li style="">Bryan Kent</li><!--
   --><li style="" >Carrie Esquenazi</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Adland">Chelsea Adland</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Adland">Chelsea Adland</a></li><!--
   --><li style="">Chris R. B. Fay</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Craig Kotfas">Craig Kotfas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style="">David Lowey</li><!--
   --><li style="">Edi Patterson</li><!--
   --><li style="">Eric Perry</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
   --><li style="">Jimmy Maas</li><!--
   --><li style="">Jon Benner</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Kari Malek</li><!--
   --><li style="">Katy Shea</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
   --><li style="">Korey Simeone</li><!--
   --><li style="">Lameece Issaq</li><!--
   --><li style="">Laura Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lauren Buck">Lauren Buck</a></li><!--
   --><li style="">Louis Wells</li><!--
   --><li style="">Maggie Bell</li><!--
   --><li style="">Mariella Krouse</li><!--
   --><li style="">Matt Reilly</li><!--
   --><li style="">Mike DAlonzo</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style="">Ragan Fox</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sean Hill">Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
   --><li style="">Shelly Miller Bosse</li><!--
   --><li style="">Stewart McGregor</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Ted Rutherford</a></li><!--
   --><li style="">Tim Bauer</li><!--
   --><li style="">Timothy Ackerman</li><!--
   --><li style="">Todd Womack</li><!--

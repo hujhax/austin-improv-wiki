@@ -14,17 +14,17 @@ image: "File/FireflyPoster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Allison Asher</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -78,7 +78,7 @@ image: "File/FireflyPoster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
   --><li style="">Jeremy Logan</li><!--
   --><li style="">Thelma Faglie</li><!--
   --><!--
@@ -133,18 +133,18 @@ image: "File/FireflyPoster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Adam Mengesha">Adam Mengesha</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Alexa Ramirez">Alexa Ramirez</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ammie Nicole Leonards">Ammie Nicole Leonards</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Young">David Young</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heath Allyn">Heath Allyn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Thomas">Michael Thomas</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sabrina Jones">Sabrina Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Swofford">Sarah Swofford</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Stephen Robinson">Stephen Robinson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adam Mengesha">Adam Mengesha</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexa Ramirez">Alexa Ramirez</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ammie Nicole Leonards">Ammie Nicole Leonards</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Young">David Young</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heath Allyn">Heath Allyn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sabrina Jones">Sabrina Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stephen Robinson">Stephen Robinson</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -188,9 +188,9 @@ image: "File/FireflyPoster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelley Pyatt">Chelley Pyatt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelley Pyatt">Chelley Pyatt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
   --><!--
   --><!--
   --><!--

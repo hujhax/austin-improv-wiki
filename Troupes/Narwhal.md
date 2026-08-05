@@ -21,7 +21,7 @@ image: "File/Narwhal.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Christie Grace</li><!--
   --><li style="">Dan Grimm</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
   --><li style="">Sarah Price</li><!--
   --><!--
   --><!--

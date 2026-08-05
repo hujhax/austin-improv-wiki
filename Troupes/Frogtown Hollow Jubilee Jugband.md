@@ -19,11 +19,11 @@ image: "File/Frogtown%20Hollow%20Jubilee%20Jugband.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Trew">Chris Trew</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Trew">Chris Trew</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
   --><li style="">Wesley Bain</li><!--
   --><!--
   --><!--

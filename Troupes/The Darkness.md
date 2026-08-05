@@ -22,8 +22,8 @@ description: "An improv troupe that performed the Bat."
   --><li style="">Content Knowles</li><!--
   --><li style="">Ed Collins</li><!--
   --><li style="">Justin Strackany</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ron Morelli">Ron Morelli</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Stuart Feild">Stuart Feild</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ron Morelli">Ron Morelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stuart Feild">Stuart Feild</a></li><!--
   --><!--
   --><!--
   --><!--

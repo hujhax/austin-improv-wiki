@@ -20,7 +20,7 @@ image: "File/20%20Years%20and%20Counting.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Cathy Zarate</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chuy Zarate">Chuy Zarate</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chuy Zarate">Chuy Zarate</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -14,11 +14,11 @@ image: "File/Scene%20of%20the%20Crime%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
@@ -31,19 +31,19 @@ image: "File/Scene%20of%20the%20Crime%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Buck">Andrew Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
   --><li style="">Cynthia Cobb Oelkers</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Schwartz">David Schwartz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kenny Madison">Kenny Madison</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sean Hill">Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Troy A. Miller">Troy A. Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy A. Miller">Troy A. Miller</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -87,8 +87,8 @@ image: "File/Scene%20of%20the%20Crime%20Poster.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrew Schwartz (lights and sound)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a> (stage manager, lights and sound)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Neal Tibrewala">Neal Tibrewala</a> (technical director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a> (stage manager, lights and sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Neal Tibrewala">Neal Tibrewala</a> (technical director)</li><!--
   --><li style="">Paul Ramone Weiner (lights and sound)</li><!--
   --><!--
   --><!--

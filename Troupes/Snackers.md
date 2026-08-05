@@ -20,11 +20,11 @@ image: "File/Snackers.png"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Albert Im (2007-2008)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style="">James Roberts</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -23,7 +23,7 @@ description: "The troupe was part of ColdTowne's sixth graduating class ."
   --><li style="">Jenny Carlson</li><!--
   --><li style="">Katie Sicking</li><!--
   --><li style="">Michael Bird</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
   --><!--
   --><!--
   --><!--

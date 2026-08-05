@@ -14,7 +14,7 @@ image: "File/Kevin%20Miller.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a>, <a class="internal-link" href="Theatres-Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a>, <a class="internal-link" href="Theatres/Merlin Works Institute for Improvisation">Merlin Works Institute for Improvisation</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

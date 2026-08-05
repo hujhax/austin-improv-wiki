@@ -8,37 +8,37 @@ description: "An improvised longform show based on wholesome 1950s television si
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Andersons.jpg ‎"><img src="File/The%20Andersons.jpg%20‎" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/The Andersons.jpg"><img src="File/The%20Andersons.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Curtis Luciani">Curtis Luciani</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dav Wallace">Dav Wallace</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Curtis Luciani">Curtis Luciani</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dav Wallace">Dav Wallace</a></li><!--
   --><li style="">Deana Ricks</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
   --><li style="">Indigo Rael</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style="">Justin York</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

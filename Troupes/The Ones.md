@@ -19,12 +19,12 @@ description: "An improv troupe."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adrienne Brown</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Albano">Chris Albano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
   --><li style="">Emma Czarnecki</li><!--
   --><li style="">Judith Schomp</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
   --><li style="">Michael Bowman</li><!--
   --><!--
   --><!--

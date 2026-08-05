@@ -14,15 +14,15 @@ image: "File/TheatreSports.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Dav Wallace">Dav Wallace</a> and <a class="internal-link" href="Performers-Sean Hill">Sean Hill</a> (2007)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a> and <a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a> (2010)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a> (2013)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a> and <a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a> (2014)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dav Wallace">Dav Wallace</a> and <a class="internal-link" href="Performers/Sean Hill">Sean Hill</a> (2007)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a> and <a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a> (2010)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a> (2013)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a> and <a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a> (2014)</li><!--
   --><!--
   --><!--
   --><!--
@@ -73,56 +73,56 @@ image: "File/TheatreSports.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Ryan Austin">Ryan Austin</a> (2013)</td>
+			<td class="category"><a class="internal-link" href="Performers/Ryan Austin">Ryan Austin</a> (2013)</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Aden Kirschner">Aden Kirschner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aden Kirschner">Aden Kirschner</a></li><!--
   --><li style="">Amira Wizig</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Buck">Andrew Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Buck">Andrew Buck</a></li><!--
   --><li style="">Andrew Robinson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andy Crouch">Andy Crouch</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Asaf Ronen">Asaf Ronen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Temple">Brad Temple</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Bridget Brewer">Bridget Brewer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ceej Allen">Ceej Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emily Breedlove">Emily Breedlove</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Michael">Jay Michael</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andy Crouch">Andy Crouch</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Asaf Ronen">Asaf Ronen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Bridget Brewer">Bridget Brewer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ceej Allen">Ceej Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emily Breedlove">Emily Breedlove</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Michael">Jay Michael</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><li style="">Joe Fraser</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Dahm">Katie Dahm</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Keegan Hines">Keegan Hines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lauren Buck">Lauren Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Matt Pollock">Matt Pollock</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Monique Daviau">Monique Daviau</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Daniel">Patrick Daniel</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sean Hill">Sean Hill</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ted Rutherford">Ted Rutherford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Dahm">Katie Dahm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Pollock">Matt Pollock</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Monique Daviau">Monique Daviau</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Daniel">Patrick Daniel</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sean Hill">Sean Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stacy Kaplowitz">Stacy Kaplowitz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ted Rutherford">Ted Rutherford</a></li><!--
   --><li style="">Teresa Troxel</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></li><!--
   --><!--
   --><!--
   --><!--

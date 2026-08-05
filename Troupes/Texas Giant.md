@@ -18,15 +18,15 @@ description: "An improv troupe."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Arthur Simone">Arthur Simone</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob McNichol">Bob McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dave Buckman">Dave Buckman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erika May">Erika May</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dave Buckman">Dave Buckman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika May">Erika May</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
   --><li style="">Justin York</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Jastroch">Michael Jastroch</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Jastroch">Michael Jastroch</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
   --><!--
   --><!--
   --><!--

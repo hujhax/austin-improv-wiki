@@ -17,7 +17,7 @@ description: "An one-off Cagematch team."
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Tami Nelson">Tami Nelson</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -25,8 +25,8 @@ description: "An one-off Cagematch team."
   --><li style="">Brian Boyko</li><!--
   --><li style="">Jay Bernardo</li><!--
   --><li style="">Nadine Latief</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tami Nelson">Tami Nelson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

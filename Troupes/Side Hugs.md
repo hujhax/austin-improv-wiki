@@ -19,9 +19,9 @@ image: "File/SideHugs.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Bunn">Chelsea Bunn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Bunn">Chelsea Bunn</a></li><!--
   --><li style="">Kim Lowery</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Oliver">Jason Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Oliver">Jason Oliver</a></li><!--
   --><li style="">Maria Pond</li><!--
   --><li style="">Matt Shirley</li><!--
   --><li style="">Nick Wuthrich</li><!--

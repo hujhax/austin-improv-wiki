@@ -24,7 +24,7 @@ image: "File/Delta%20Burka.jpg"
   --><li style="">Michael Domangue</li><!--
   --><li style="">Mike Breese</li><!--
   --><li style="">Vanessa Gonzalez</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Yamina Khouane">Yamina Khouane</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Yamina Khouane">Yamina Khouane</a></li><!--
   --><!--
   --><!--
   --><!--

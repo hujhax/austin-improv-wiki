@@ -22,7 +22,7 @@ image: "File/Wink%20Planet.jpg"
   --><li style="">Ashley Siebels</li><!--
   --><li style="">Jared Robertson</li><!--
   --><li style="">Matt Vaught</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><li style="">Taylor Stewart</li><!--
   --><li style="">Steve Moore</li><!--
   --><!--

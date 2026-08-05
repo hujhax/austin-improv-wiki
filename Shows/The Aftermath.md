@@ -14,15 +14,15 @@ image: "File/The%20Aftermath.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -30,11 +30,11 @@ image: "File/The%20Aftermath.jpg"
   --><li style="">Barrett Phelan</li><!--
   --><li style="">Cassidy Santaguida</li><!--
   --><li style="">Haley Alea Erickson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Josh Santo">Josh Santo</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-JR Zambrano">JR Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Santo">Josh Santo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/JR Zambrano">JR Zambrano</a></li><!--
   --><li style="">Lori Hobbie</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sunaina Suhag">Sunaina Suhag</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sunaina Suhag">Sunaina Suhag</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -84,7 +84,7 @@ image: "File/The%20Aftermath.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Allison Huston (lights)</li><!--
   --><li style="">Robert Heil (sound effects)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Hutchins">Sarah Hutchins</a> (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Hutchins">Sarah Hutchins</a> (scoring)</li><!--
   --><!--
   --><!--
   --><!--

@@ -14,13 +14,13 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,23 +73,23 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amanda Hinsman</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cagney Ortiz">Cagney Ortiz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Claudio Fox">Claudio Fox</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Dana Yanoshak">Dana Yanoshak</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ellen Pizarek">Ellen Pizarek</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Mary Henderson">Mary Henderson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cagney Ortiz">Cagney Ortiz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Claudio Fox">Claudio Fox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dana Yanoshak">Dana Yanoshak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
   --><li style="">Megan Moten</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -133,7 +133,7 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Mark Shoemaker">Mark Shoemaker</a> (lights, sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mark Shoemaker">Mark Shoemaker</a> (lights, sound)</li><!--
   --><li style="">Zoe Jaye (stage manager)</li><!--
   --><li style="">Victoria Hawthorne (costumes)</li><!--
   --><!--

@@ -22,11 +22,11 @@ image: "File/WTSS.jpg"
   --><li style="">Amy Carpenter</li><!--
   --><li style="">Arian Brumby</li><!--
   --><li style="">Caitlin Baumgartner</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Baldenhofer">Chris Baldenhofer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Henn">Kristin Henn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Baldenhofer">Chris Baldenhofer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><!--
   --><!--
   --><!--

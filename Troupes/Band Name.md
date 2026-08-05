@@ -22,7 +22,7 @@ image: "File/Band%20Name.jpg"
   --><li style="">Caerial Crestin</li><!--
   --><li style="">Joe Ricks</li><!--
   --><li style="">Marcus Hysmith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Todd Hart">Todd Hart</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Todd Hart">Todd Hart</a></li><!--
   --><!--
   --><!--
   --><!--

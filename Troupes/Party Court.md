@@ -19,7 +19,7 @@ image: "File/Party%20Court.png"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aaron Walther">Aaron Walther</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Walther">Aaron Walther</a></li><!--
   --><li style="">Henry Linser</li><!--
   --><li style="">John Gross</li><!--
   --><!--

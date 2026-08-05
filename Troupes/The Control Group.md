@@ -21,7 +21,7 @@ image: "File/The%20Control%20Group.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Alex Berry</li><!--
   --><li style="">Mandy Spivey</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Margaux Binder">Margaux Binder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaux Binder">Margaux Binder</a></li><!--
   --><li style="">Micheal Foulk</li><!--
   --><li style="">Tom Niland</li><!--
   --><!--

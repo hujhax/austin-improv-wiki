@@ -14,29 +14,29 @@ image: "File/Lola%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Craig Kotfas">Craig Kotfas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Eric Heiberg">Eric Heiberg</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
-  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Craig Kotfas">Craig Kotfas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -83,12 +83,12 @@ image: "File/Lola%20Poster.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brandon Salinas</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jen Kaplan">Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style="">Kerri Lendo</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a> (sound design)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Susannah Raulino">Susannah Raulino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a> (sound design)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><!--
   --><!--
   --><!--
   --><!--

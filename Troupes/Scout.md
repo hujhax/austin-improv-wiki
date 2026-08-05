@@ -21,12 +21,12 @@ image: "File/Scout.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ann Potter</li><!--
   --><li style="">Ashley Franks</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style="">Danny Catlow</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jericho Thorp">Jericho Thorp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jericho Thorp">Jericho Thorp</a></li><!--
   --><li style="">John Brewster</li><!--
   --><li style="">Joshua Philips</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style="" >Sam Malcom</li><!--
   --><!--
   --><!--

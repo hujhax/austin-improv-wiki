@@ -23,7 +23,7 @@ image: "File/Stag%20Comedy.jpg"
   --><li style="">Dave Youmans</li><!--
   --><li style="">David Jara</li><!--
   --><li style="">Joe Parsons</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><li style="">Mac Blake</li><!--
   --><li style="">Ximena Estrada</li><!--
   --><!--

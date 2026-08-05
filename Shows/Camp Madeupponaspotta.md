@@ -14,29 +14,29 @@ image: "File/Camp%20Madeupponaspotta.png"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Catherine Grady</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
   --><li style="">Heather McConochie</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jillian Summar">Jillian Summar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Doran">Katie Doran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mitch Mills">Mitch Mills</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Norman Tran">Norman Tran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jillian Summar">Jillian Summar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Doran">Katie Doran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mitch Mills">Mitch Mills</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Norman Tran">Norman Tran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--

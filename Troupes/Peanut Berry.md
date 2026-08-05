@@ -20,9 +20,9 @@ description: "An improv troupe."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amanda Hinsman</li><!--
   --><li style="">Blake Reinhart</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style="">Jennifer Brinlee</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
   --><li style="">Tim Stiefler</li><!--
   --><!--
   --><!--

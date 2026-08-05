@@ -20,10 +20,10 @@ image: "File/Strategery.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy Carpenter</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><li style="">Brent Foshee</li><!--
   --><li style="">Dan Grimm</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lisa Jackson">Lisa Jackson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lisa Jackson">Lisa Jackson</a></li><!--
   --><!--
   --><!--
   --><!--

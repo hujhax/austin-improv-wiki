@@ -14,13 +14,13 @@ image: "File/Hurly%20Burly%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,23 +73,23 @@ image: "File/Hurly%20Burly%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
-			<td class="category"><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Adriane Shown">Adriane Shown</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Adriane Shown">Adriane Shown</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Brooke Beltane</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Eureka Smoke</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Foxy Cakes</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jen Kaplan">Jen Kaplan</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessie Pascarelli">Jessie Pascarelli</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessie Pascarelli">Jessie Pascarelli</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Lulu La Mer</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Paul Normandin">Paul Normandin</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Paul Normandin">Paul Normandin</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Rosie Dear</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></li><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Wilhelmina Wyldehart</a></li><!--
   --><!--
   --><!--
@@ -133,8 +133,8 @@ image: "File/Hurly%20Burly%20Poster.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></li><!--
   --><!--
   --><!--
   --><!--

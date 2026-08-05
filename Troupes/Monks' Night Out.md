@@ -26,9 +26,9 @@ image: "File/Monks%27%20Night%20Out.jpg"
   --><li style="">Andy Cobb</li><!--
   --><li style="">Becca Sadler</li><!--
   --><li style="">Ben Prince</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
   --><li style="">Christie Ingram</li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Lampe">David Lampe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style="">Eric Perry</li><!--
   --><li style="">G Cole Spainhour</li><!--
   --><li style="" >Gabriel Folse</li><!--
@@ -36,12 +36,12 @@ image: "File/Monks%27%20Night%20Out.jpg"
   --><li style="">Holly Simpson</li><!--
   --><li style="">Jon Wiley</li><!--
   --><li style="">Joseph Anthony Fotinos</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katey Mushlin">Katey Mushlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katey Mushlin">Katey Mushlin</a></li><!--
   --><li style="">Laura Estep</li><!--
   --><li style="">Marc Pruter</li><!--
   --><li style="">Matt Bearden</li><!--
   --><li style="">Mervyn Burnett</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></li><!--
   --><li style="">Pamela Ribon</li><!--
   --><li style="">Paul Finley</li><!--
   --><li style="">Regina Reale</li><!--
@@ -49,7 +49,7 @@ image: "File/Monks%27%20Night%20Out.jpg"
   --><li style="">Scott Perry</li><!--
   --><li style="">Tim Bauer</li><!--
   --><li style="">Tim Girardot</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tyler Bryce">Tyler Bryce</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Bryce">Tyler Bryce</a></li><!--
   --><!--
   --><!--
   --><!--

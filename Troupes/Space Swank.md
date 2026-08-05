@@ -24,7 +24,7 @@ image: "File/space%20swank.jpg"
   --><li style="">Paul Mahaffey</li><!--
   --><li style="">Ross Puryear</li><!--
   --><li style="">Katie Mathews</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Casey">Chris Casey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Casey">Chris Casey</a></li><!--
   --><!--
   --><!--
   --><!--

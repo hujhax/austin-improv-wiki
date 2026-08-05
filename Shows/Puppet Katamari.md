@@ -18,7 +18,7 @@ image: "File/Puppet%20Katamari.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Sara Farr">Sara Farr</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Sara Farr">Sara Farr</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
@@ -29,13 +29,13 @@ image: "File/Puppet%20Katamari.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy McSmith</li><!--
   --><li style="">Chadwick Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Howard Katz">Howard Katz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Byrd">Jay Byrd</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Howard Katz">Howard Katz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Byrd">Jay Byrd</a></li><!--
   --><li style="">John Brewster</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Leng Wong">Leng Wong</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Knisely">Patrick Knisely</a></li><!--
-  --><li style="" ><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Leng Wong">Leng Wong</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Knisely">Patrick Knisely</a></li><!--
+  --><li style="" ><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

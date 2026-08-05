@@ -19,8 +19,8 @@ description: "An improv troupe."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Collin Cannaday</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Frank Willmore">Frank Willmore</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style="">Jenny Carlson</li><!--
   --><li style="">Kim Gottschalk</li><!--
   --><li style="">Lizzie Leslie</li><!--

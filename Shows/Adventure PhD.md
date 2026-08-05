@@ -14,13 +14,13 @@ image: "File/Adventure%20phd%20cast.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,16 +74,16 @@ image: "File/Adventure%20phd%20cast.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Beth">Chelsea Beth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Curl">Chris Curl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Danielle Saar">Danielle Saar</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ellen Pizarek">Ellen Pizarek</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Curl">Chris Curl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ellen Pizarek">Ellen Pizarek</a></li><!--
   --><li style="">Erasmo Romero</li><!--
   --><li style="">Josh Farmer</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joy Parks">Joy Parks</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mary Henderson">Mary Henderson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Nicholas Marino">Nicholas Marino</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Thedward Blevins">Thedward Blevins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Nicholas Marino">Nicholas Marino</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -130,8 +130,8 @@ image: "File/Adventure%20phd%20cast.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jason Hoppenworth<br>(lights)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Mahavier">Jay Mahavier</a><br>(technical director)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Jalandoon">Marc Jalandoon</a><br>(stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a><br>(technical director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Jalandoon">Marc Jalandoon</a><br>(stage manager)</li><!--
   --><li style="">Tyleah McGuire<br>(sound)</li><!--
   --><!--
   --><!--

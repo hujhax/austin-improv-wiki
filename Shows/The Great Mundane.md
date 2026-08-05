@@ -14,7 +14,7 @@ image: "File/The%20Great%20Mundane.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
@@ -24,7 +24,7 @@ image: "File/The%20Great%20Mundane.jpg"
 			<th scope="row" class="category-header">Assistant Director(s)</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jon Hunt</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -81,8 +81,8 @@ image: "File/The%20Great%20Mundane.jpg"
   --><li style="">Christina Bain</li><!--
   --><li style="">Jay Bernardo</li><!--
   --><li style="">Jeffrey Amos</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><!--
   --><!--
   --><!--

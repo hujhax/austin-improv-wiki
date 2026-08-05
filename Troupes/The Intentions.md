@@ -20,11 +20,11 @@ image: "File/The%20Intentions.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Bob Khosravi</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Gilman">Chelsea Gilman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Deano Jones">Deano Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Finkelman">Jason Finkelman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Deano Jones">Deano Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Finkelman">Jason Finkelman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Kimberly Cox</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -21,7 +21,7 @@ image: "File/MMSquare.png"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">David Moses Fruchter</li><!--
   --><li style="">Juese Cutler</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kenny Madison">Kenny Madison</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kenny Madison">Kenny Madison</a></li><!--
   --><li style="">Amanda Smith</li><!--
   --><!--
   --><!--

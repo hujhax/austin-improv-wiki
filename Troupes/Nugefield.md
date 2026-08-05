@@ -5,7 +5,7 @@ image: "File/nugefield.jpg"
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
-			<th class="infobox-header" colspan="2"><a class="internal-link" href="Troupes-Nugefield">Nugefield</a></th>
+			<th class="infobox-header" colspan="2"><a class="internal-link" href="Troupes/Nugefield">Nugefield</a></th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
@@ -19,8 +19,8 @@ image: "File/nugefield.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Clifton Highfield">Clifton Highfield</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ashley Nugent">Ashley Nugent</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clifton Highfield">Clifton Highfield</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ashley Nugent">Ashley Nugent</a></li><!--
   --><!--
   --><!--
   --><!--

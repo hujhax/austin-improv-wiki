@@ -18,11 +18,11 @@ description: "An improv troupe."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
   --><li style="">Drew Lee</li><!--
   --><li style="">Michael James Williams</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tami Nelson">Tami Nelson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tami Nelson">Tami Nelson</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -18,7 +18,7 @@ image: "File/Continental%20Breakfast.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Michael Joplin">Michael Joplin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Michael Joplin">Michael Joplin</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
@@ -27,10 +27,10 @@ image: "File/Continental%20Breakfast.jpg"
   --><li style="">Gary Richardson</li><!--
   --><li style="">Hugo Vargas-Zesati</li><!--
   --><li style="">Jonathan Euseppi</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Meghan Wolff">Meghan Wolff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Sullivan">Mike Sullivan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Meghan Wolff">Meghan Wolff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Sullivan">Mike Sullivan</a></li><!--
   --><li style="">Tiffany Grady</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style="" >Will Slayton</li><!--
   --><!--
   --><!--

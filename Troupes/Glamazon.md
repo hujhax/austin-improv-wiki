@@ -22,7 +22,7 @@ image: "File/Glamazon.jpg"
   --><li style="">Amy Carpenter</li><!--
   --><li style="">XJ Coleman</li><!--
   --><li style="">Katie Moore</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></li><!--
   --><!--
   --><!--
   --><!--

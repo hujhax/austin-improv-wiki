@@ -13,12 +13,12 @@ description: "An upcoming mainstage improv show."
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Sushant Sethi">Sushant Sethi</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sushant Sethi">Sushant Sethi</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -16,7 +16,7 @@ image: "File/Ted%20Meredith%20Pic.jpg"
 			<th scope="row" class="category-header">Primary Theater</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Esther's Follies</li><!--
-  --><li style=""><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></li><!--
+  --><li style=""><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></li><!--
   --><!--
   --><!--
   --><!--

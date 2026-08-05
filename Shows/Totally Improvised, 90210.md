@@ -14,19 +14,19 @@ image: "File/90210.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Salvage Vanguard Theater">Salvage Vanguard Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Lauren Buck">Lauren Buck</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lauren Buck">Lauren Buck</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Produced by</th>
-			<td class="category"><a class="internal-link" href="Theatres-Gnap! Theater Projects">Gnap! Theater Projects</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Gnap! Theater Projects">Gnap! Theater Projects</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
@@ -35,19 +35,19 @@ image: "File/90210.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Amy Averett">Amy Averett</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Cruz">Bryan Cruz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Colin Thomas Bates">Colin Thomas Bates</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Amy Averett">Amy Averett</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Cruz">Bryan Cruz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Thomas Bates">Colin Thomas Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
   --><li style="">Jesse Overright</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Katie Thornton">Katie Thornton</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kimberly Cox">Kimberly Cox</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Lauren Buck">Lauren Buck</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mark Carpenter">Mark Carpenter</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Michael Thomas">Michael Thomas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shana Merlin">Shana Merlin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Katie Thornton">Katie Thornton</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kimberly Cox">Kimberly Cox</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Lauren Buck">Lauren Buck</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Michael Thomas">Michael Thomas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shana Merlin">Shana Merlin</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -91,7 +91,7 @@ image: "File/90210.jpg"
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Anne Wolfe Andersen</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
   --><!--
   --><!--
   --><!--

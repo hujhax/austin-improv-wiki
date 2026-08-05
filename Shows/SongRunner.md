@@ -14,13 +14,13 @@ image: "File/SongRunner.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ammon Taylor">Ammon Taylor</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -73,11 +73,11 @@ image: "File/SongRunner.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
@@ -89,11 +89,11 @@ image: "File/SongRunner.jpg"
   --><li style="">Creighton Moench</li><!--
   --><li style="">Emma Czarnecki</li><!--
   --><li style="">Haley Alea Erickson</li><!--
-  --><li style=""><a class="internal-link" href="Performers-J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
   --><li style="">John Mendell</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joy Parks">Joy Parks</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Creason">Rachel Creason</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joy Parks">Joy Parks</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Creason">Rachel Creason</a></li><!--
   --><li style="" >Steve Jaffe</li><!--
   --><!--
   --><!--
@@ -141,7 +141,7 @@ image: "File/SongRunner.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Greg Blank">Greg Blank</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Greg Blank">Greg Blank</a></li><!--
   --><li style="">Kyle Grier</li><!--
   --><!--
   --><!--

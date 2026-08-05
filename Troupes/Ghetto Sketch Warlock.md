@@ -18,7 +18,7 @@ image: "File/Ghetto%20Sketch%20Warlock.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers-Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Bryan 'LuBu' Roberts">Bryan 'LuBu' Roberts</a></td>
 		</tr>
 	</table>
 </div>

@@ -19,10 +19,10 @@ image: "File/GoatLogo.gif"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Hawkins">Brad Hawkins</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Heidi Caldwell">Heidi Caldwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Alexander Hilary">Alexander Hilary</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Schak">Sam Schak</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Heidi Caldwell">Heidi Caldwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alexander Hilary">Alexander Hilary</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Schak">Sam Schak</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -19,7 +19,7 @@ image: "File/Mother%20Punch.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Chelsea Beth">Chelsea Beth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chelsea Beth">Chelsea Beth</a></li><!--
   --><li style="">David Chambers</li><!--
   --><li style="">Donnie Garcia</li><!--
   --><li style="">Jenn Hamm</li><!--

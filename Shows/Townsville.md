@@ -14,13 +14,13 @@ image: "File/Townsville-duoposter1.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Tim</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><!--
   --><!--
   --><!--

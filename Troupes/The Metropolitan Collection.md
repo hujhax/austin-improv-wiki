@@ -19,10 +19,10 @@ description: "Sketch troupe."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Amy McKenna</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gene Joe">Gene Joe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gene Joe">Gene Joe</a></li><!--
   --><li style="">James Roberts</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mark Carpenter">Mark Carpenter</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mark Carpenter">Mark Carpenter</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><li style="">Scott Moss</li><!--
   --><!--
   --><!--

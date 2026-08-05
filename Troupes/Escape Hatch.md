@@ -19,10 +19,10 @@ description: "An improv troupe."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Collin Cannaday</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">David Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Emma Holder">Emma Holder</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jared Stepp">Jared Stepp</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Emma Holder">Emma Holder</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jared Stepp">Jared Stepp</a></li><!--
   --><!--
   --><!--
   --><!--

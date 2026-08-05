@@ -14,11 +14,11 @@ image: "File/The%20Speakeasy.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-Coldtowne Theater">Coldtowne Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/Coldtowne Theater">Coldtowne Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes-Turn of the Century Paris">Turn of the Century Paris</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Turn of the Century Paris">Turn of the Century Paris</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

@@ -21,14 +21,14 @@ description: "An improv troupe that did persona-prov as a pastor and..."
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
   --><li style="">Becca Westerkom</li><!--
   --><li style="">Caitlin Bumgartner</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Frank Netscher">Frank Netscher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Frank Netscher">Frank Netscher</a></li><!--
   --><li style="">Jeremy Logan</li><!--
   --><li style="">John Brewster</li><!--
   --><li style="" >Kayla Freeman</li><!--
   --><li style="">Milo Smith</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><!--
   --><!--
   --><!--

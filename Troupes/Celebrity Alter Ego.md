@@ -19,13 +19,13 @@ image: "File/Celebrity%20Alter%20Ego.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Allen">Chris Allen</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kevin Miller">Kevin Miller</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey Reeves">Lindsey Reeves</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Allen">Chris Allen</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kevin Miller">Kevin Miller</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey Reeves">Lindsey Reeves</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
   --><li style="">Robin Anderson</li><!--
-  --><li style=""><a class="internal-link" href="Troupes-Topping Haggerty">Topping Haggerty</a></li><!--
+  --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -18,11 +18,11 @@ image: "File/Boys%20of%20Summer%202012%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Troupes-Girls Girls Girls">Girls Girls Girls</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Troupes-Girls Girls Girls">Girls Girls Girls</a></td>
+			<td class="category"><a class="internal-link" href="Troupes/Girls Girls Girls">Girls Girls Girls</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Initial Run</th>

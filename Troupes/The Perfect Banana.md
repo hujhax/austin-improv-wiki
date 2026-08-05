@@ -19,11 +19,11 @@ description: "2008 cagematch team consisting of:."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category">{{bulleted list | 
 * Phil Wilhelm
-* <a class="internal-link" href="Performers-Gene Zhou">Gene Zhou</a>
+* <a class="internal-link" href="Performers/Gene Zhou">Gene Zhou</a>
 * Zach Palmer
 * Michael Williams
-* <a class="internal-link" href="Performers-Michael Ferstenfeld">Michael Ferstenfeld</a>
-* <a class="internal-link" href="Performers-Frank Willmore">Frank Willmore</a>
+* <a class="internal-link" href="Performers/Michael Ferstenfeld">Michael Ferstenfeld</a>
+* <a class="internal-link" href="Performers/Frank Willmore">Frank Willmore</a>
 ] }}</td>
 		</tr>
 	</table>

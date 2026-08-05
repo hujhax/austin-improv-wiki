@@ -21,10 +21,10 @@ image: "File/Rush.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Ashley Seibels</li><!--
   --><li style="">Emily McDonald</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jon Bolden">Jon Bolden</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jon Bolden">Jon Bolden</a></li><!--
   --><li style="">Juliet Prather</li><!--
   --><li style="">Kim Dilling</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luke Wallens">Luke Wallens</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></li><!--
   --><li style="">Matt Stoner</li><!--
   --><li style="">Matt Vaughn</li><!--
   --><li style="" >Ricky Oliphant</li><!--

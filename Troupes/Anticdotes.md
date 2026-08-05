@@ -19,11 +19,11 @@ image: "File/Anticdotes.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Britney Salyer">Britney Salyer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Britney Salyer">Britney Salyer</a></li><!--
   --><li style="">Evan T. Atherton</li><!--
   --><li style="">Gary Richardson</li><!--
   --><li style="">Linsdey Reeves</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--

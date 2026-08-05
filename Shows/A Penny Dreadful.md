@@ -14,15 +14,15 @@ image: "File/A%20Penny%20Dreadful.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Troy Miller">Troy Miller</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Troy Miller">Troy Miller</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-David Schwartz">David Schwartz</a></td>
+			<td class="category"><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -30,13 +30,13 @@ image: "File/A%20Penny%20Dreadful.jpg"
   --><li style="">Ali Meier</li><!--
   --><li style="">Andrew Schwartz</li><!--
   --><li style="">Charlie Hoehn</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeremy Moran">Jeremy Moran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Moran">Jeremy Moran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style="">Linzy Beltran</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Seth Johnson">Seth Johnson</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Theo Daley">Theo Daley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Seth Johnson">Seth Johnson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Theo Daley">Theo Daley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,9 +82,9 @@ image: "File/A%20Penny%20Dreadful.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Tyler Lane">Tyler Lane</a> (lighting)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tyler Lane">Tyler Lane</a> (lighting)</li><!--
   --><li style="">Paul Weiner (sound)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike Reed">Mike Reed</a> (music)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike Reed">Mike Reed</a> (music)</li><!--
   --><!--
   --><!--
   --><!--

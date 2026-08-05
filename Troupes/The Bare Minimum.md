@@ -20,7 +20,7 @@ image: "File/The%20Bare%20Minimum.jpg"
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Harrison Hammonds</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jeremy Sweetlamb">Jeremy Sweetlamb</a></li><!--
   --><!--
   --><!--
   --><!--

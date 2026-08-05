@@ -18,9 +18,9 @@ description: "An improv troupe that specialized in short-form games."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Dav Wallace">Dav Wallace</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Janik">Roy Janik</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Dav Wallace">Dav Wallace</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Janik">Roy Janik</a></li><!--
   --><li style="">Wesley Bain</li><!--
   --><!--
   --><!--

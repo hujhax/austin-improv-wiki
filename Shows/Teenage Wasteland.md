@@ -14,11 +14,11 @@ image: "File/Teenage%20Wasteland.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
@@ -28,9 +28,9 @@ image: "File/Teenage%20Wasteland.jpg"
   --><li style="">Jason Burnett</li><!--
   --><li style="">Rachel Denton</li><!--
   --><li style="">Kyle Grier</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Margaret Rose Hunsicker">Margaret Rose Hunsicker</a></li><!--
   --><li style="">Chase Pritchett</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Danielle Saar">Danielle Saar</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Danielle Saar">Danielle Saar</a></li><!--
   --><li style="" >Jessica Soos</li><!--
   --><!--
   --><!--
@@ -80,7 +80,7 @@ image: "File/Teenage%20Wasteland.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Jackie Skinner (sound effects)</li><!--
   --><li style="">Joe Anetnucci (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lahari Samineni">Lahari Samineni</a> (scoring)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lahari Samineni">Lahari Samineni</a> (scoring)</li><!--
   --><!--
   --><!--
   --><!--

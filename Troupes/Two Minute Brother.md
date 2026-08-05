@@ -18,11 +18,11 @@ description: "An improv troupe associated with ColdTowne Theater."
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style="">David Hess</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erika McNichol">Erika McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joshua Krilov">Joshua Krilov</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lance Gilstrap">Lance Gilstrap</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika McNichol">Erika McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lance Gilstrap">Lance Gilstrap</a></li><!--
   --><!--
   --><!--
   --><!--

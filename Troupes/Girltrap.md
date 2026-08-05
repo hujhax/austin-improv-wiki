@@ -20,7 +20,7 @@ image: "File/Girltrap.png"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brent Foshee</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Joshua Krilov">Joshua Krilov</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Joshua Krilov">Joshua Krilov</a></li><!--
   --><!--
   --><!--
   --><!--

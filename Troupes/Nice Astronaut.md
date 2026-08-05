@@ -22,11 +22,11 @@ image: "File/Niceastro-2013-04-10.jpg"
   --><li style="">Abby Lincoln</li><!--
   --><li style="">AJ McKeon</li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Drew Wesely">Drew Wesely</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Drew Wesely">Drew Wesely</a></li><!--
   --><li style="">Joseph Dailey</li><!--
   --><li style="">Katie Byrnes</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sanjay Rao">Sanjay Rao</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sanjay Rao">Sanjay Rao</a></li><!--
   --><!--
   --><!--
   --><!--

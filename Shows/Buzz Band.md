@@ -14,13 +14,13 @@ image: "File/Buzz%20Band.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Beckley">Nicole Beckley</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Karen Jane Dewitt">Karen Jane Dewitt</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Beckley">Nicole Beckley</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,17 +74,17 @@ image: "File/Buzz%20Band.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Johnston">Andrew Johnston</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chad Wellington">Chad Wellington</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Ronn">David Ronn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-J.R. Zambrano">J.R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan Maxwell">Jordan Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Luis Salinas">Luis Salinas</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mary Henderson">Mary Henderson</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Megan Sherrod">Megan Sherrod</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Johnston">Andrew Johnston</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Ronn">David Ronn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan Maxwell">Jordan Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Luis Salinas">Luis Salinas</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mary Henderson">Mary Henderson</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Megan Sherrod">Megan Sherrod</a></li><!--
   --><li style="">Megan Simon</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Swofford">Sarah Swofford</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Swofford">Sarah Swofford</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -128,7 +128,7 @@ image: "File/Buzz%20Band.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
-			<td class="category"><a class="internal-link" href="Performers-Cortney DeAngelo">Cortney DeAngelo</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Cortney DeAngelo">Cortney DeAngelo</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Run</th>

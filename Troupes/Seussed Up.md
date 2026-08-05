@@ -21,7 +21,7 @@ description: "One-off Cagematch team."
   --><li style="">Alessandra Manon</li><!--
   --><li style="">Bloom Davis</li><!--
   --><li style="">Cassadie Petersen</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
   --><li style="">Matt Fitzgerald</li><!--
   --><li style="">Sarah Vasilas</li><!--
   --><!--

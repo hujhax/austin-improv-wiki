@@ -22,7 +22,7 @@ image: "File/Only%2090%25%20Effective.jpg"
   --><li style="">Aaron Krebs</li><!--
   --><li style="">Amy Blackard</li><!--
   --><li style="">Andy Fisher</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brently Heilbron">Brently Heilbron</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brently Heilbron">Brently Heilbron</a></li><!--
   --><li style="">Eric Biffle</li><!--
   --><li style="">Jessy Schwartz</li><!--
   --><li style="">Jon Wiley</li><!--

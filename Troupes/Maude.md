@@ -17,16 +17,16 @@ description: "One-off Cagematch team."
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Delanie Liming</li><!--
   --><li style="">Jenny Carlson</li><!--
   --><li style="">Katie Sicking</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Liz Brammer">Liz Brammer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Liz Brammer">Liz Brammer</a></li><!--
   --><li style="">Stephanie Russo</li><!--
   --><li style="">Teresa Kubos</li><!--
   --><!--

@@ -14,32 +14,32 @@ image: "File/Savage%20Swords.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Ryan Hill">Ryan Hill</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ryan Hill">Ryan Hill</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Ace Manning">Ace Manning</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ace Manning">Ace Manning</a></li><!--
   --><li style="">Angie Yaeyama</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsay">Jayme Ramsay</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Audrey Rachel Sansom">Audrey Rachel Sansom</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsay">Jayme Ramsay</a></li><!--
   --><li style="">JM Specht</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-J.R. Zambrano">J.R. Zambrano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Peter Rogers">Peter Rogers</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Roy Danger">Roy Danger</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Shannon McCormick">Shannon McCormick</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Suzanne Link">Suzanne Link</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J.R. Zambrano">J.R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Peter Rogers">Peter Rogers</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Roy Danger">Roy Danger</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Shannon McCormick">Shannon McCormick</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Suzanne Link">Suzanne Link</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,11 +82,11 @@ image: "File/Savage%20Swords.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a> (technical director/lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a> (technical director/lights)</li><!--
   --><li style=""><a class="internal-link" href="Michael Yew">Michael Yew</a> (scoring)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (sound effects, costume director)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jay Mahavier">Jay Mahavier</a> (swing tech)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rob Yoho">Rob Yoho</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (sound effects, costume director)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jay Mahavier">Jay Mahavier</a> (swing tech)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rob Yoho">Rob Yoho</a> (stage manager)</li><!--
   --><!--
   --><!--
   --><!--

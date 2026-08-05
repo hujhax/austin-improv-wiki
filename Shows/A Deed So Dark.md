@@ -14,21 +14,21 @@ image: "File/A%20Deed%20So%20Dark.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Ammon Taylor">Ammon Taylor</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ammon Taylor">Ammon Taylor</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Music By</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Lindsey Verrill</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Tosin awofeso">Tosin awofeso</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Tosin awofeso">Tosin awofeso</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -82,14 +82,14 @@ image: "File/A%20Deed%20So%20Dark.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erin Molson">Erin Molson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erin Molson">Erin Molson</a></li><!--
   --><li style="">Sarah Doering</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sarah Marie Curry">Sarah Marie Curry</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kareem Badr">Kareem Badr</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-J. R. Zambrano">J. R. Zambrano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sarah Marie Curry">Sarah Marie Curry</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kareem Badr">Kareem Badr</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/J. R. Zambrano">J. R. Zambrano</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -137,9 +137,9 @@ image: "File/A%20Deed%20So%20Dark.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Robert Slack">Robert Slack</a> (stage manager)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cindy Page">Cindy Page</a> (lights)</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a> (sound)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Robert Slack">Robert Slack</a> (stage manager)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cindy Page">Cindy Page</a> (lights)</li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a> (sound)</li><!--
   --><!--
   --><!--
   --><!--

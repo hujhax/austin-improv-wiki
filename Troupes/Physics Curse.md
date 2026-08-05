@@ -19,10 +19,10 @@ image: "File/PhysicsCurseMooseBooth2014.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Rosemarie Frezza">Rosemarie Frezza</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ann Symmonds">Ann Symmonds</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Aspen Webster">Aspen Webster</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Rachel Posey Austin">Rachel Posey Austin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rosemarie Frezza">Rosemarie Frezza</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ann Symmonds">Ann Symmonds</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aspen Webster">Aspen Webster</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Rachel Posey Austin">Rachel Posey Austin</a></li><!--
   --><!--
   --><!--
   --><!--

@@ -21,8 +21,8 @@ image: "File/Tarantina%20Turner.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brent Foshee</li><!--
   --><li style="">Brian Engravalle</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Josh Gill">Josh Gill</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Josh Gill">Josh Gill</a></li><!--
   --><li style="">Sandra Markarian</li><!--
   --><li style="">Teresa Kubos</li><!--
   --><!--

@@ -19,8 +19,8 @@ description: "ColdTowne Student Troupe."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Brad Knox</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Calan lambert">Calan lambert</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Carlos Larotta">Carlos Larotta</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Carlos Larotta">Carlos Larotta</a></li><!--
   --><li style="">Elizabeth Osterwich</li><!--
   --><li style="">J. M. Specht</li><!--
   --><li style="">Janelle Revord</li><!--

@@ -20,7 +20,7 @@ description: "An improv troupe."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Matthew Derman</li><!--
   --><li style="">Patricia Tate</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Sam Malcolm">Sam Malcolm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Sam Malcolm">Sam Malcolm</a></li><!--
   --><li style="">Sam Van Metre</li><!--
   --><!--
   --><!--

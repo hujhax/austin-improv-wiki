@@ -19,11 +19,11 @@ image: "File/FB.ImAGE.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Courtney Hopkin">Courtney Hopkin</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kyle Traughber">Kyle Traughber</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lacy Shawn">Lacy Shawn</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Patrick Creamer">Patrick Creamer</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Quinn Buckner">Quinn Buckner</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Courtney Hopkin">Courtney Hopkin</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kyle Traughber">Kyle Traughber</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lacy Shawn">Lacy Shawn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Patrick Creamer">Patrick Creamer</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Quinn Buckner">Quinn Buckner</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -74,7 +74,7 @@ image: "File/FB.ImAGE.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Past Members</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Colin Bates">Colin Bates</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Colin Bates">Colin Bates</a></li><!--
   --><!--
   --><!--
   --><!--

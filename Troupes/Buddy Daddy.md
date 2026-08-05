@@ -18,12 +18,12 @@ image: "File/Buddy%20Daddy.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Arthur Simone">Arthur Simone</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></td>
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Arthur Simone">Arthur Simone</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Arthur Simone">Arthur Simone</a></li><!--
   --><li style="">Robin Goodfellow</li><!--
   --><!--
   --><!--

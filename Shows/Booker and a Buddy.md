@@ -14,15 +14,15 @@ image: "File/Booker%20and%20a%20Buddy.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a> and one guest</td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a> and one guest</td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>

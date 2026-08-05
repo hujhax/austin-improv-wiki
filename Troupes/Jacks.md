@@ -19,9 +19,9 @@ description: "Cagematch team."
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Arian Brumby</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Calan lambert">Calan lambert</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Ratliff">John Ratliff</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Henn">Kristin Henn</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Calan lambert">Calan lambert</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Ratliff">John Ratliff</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Henn">Kristin Henn</a></li><!--
   --><li style="">Sarah Coker</li><!--
   --><!--
   --><!--

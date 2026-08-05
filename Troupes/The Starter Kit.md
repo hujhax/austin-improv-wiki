@@ -20,9 +20,9 @@ image: "File/The%20Starter%20Kit%20logo.jpeg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Erik Adams</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Justin Davis">Justin Davis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Justin Davis">Justin Davis</a></li><!--
   --><li style="">Zach Palmer</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brad Temple">Brad Temple</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brad Temple">Brad Temple</a></li><!--
   --><!--
   --><!--
   --><!--

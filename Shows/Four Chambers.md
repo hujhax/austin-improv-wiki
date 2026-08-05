@@ -14,15 +14,15 @@ image: "File/The%20tribunal.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Tech Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Lindsey McGowen">Lindsey McGowen</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Lindsey McGowen">Lindsey McGowen</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>

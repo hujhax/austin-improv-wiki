@@ -21,7 +21,7 @@ image: "File/Bless%20This%20Mess.jpg"
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Alida Villatoro</li><!--
   --><li style="">Chaz Formichella</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jen Kaplan">Jen Kaplan</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jen Kaplan">Jen Kaplan</a></li><!--
   --><li style="">Jon Simmons</li><!--
   --><li style="">Liz Butler</li><!--
   --><li style="">Matt Derman</li><!--
@@ -29,7 +29,7 @@ image: "File/Bless%20This%20Mess.jpg"
   --><li style="">Patricia Tate</li><!--
   --><li style="" >Sam VanMetre</li><!--
   --><li style="">Steve Donovan</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Brett Tribe">Brett Tribe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Brett Tribe">Brett Tribe</a></li><!--
   --><!--
   --><!--
   --><!--

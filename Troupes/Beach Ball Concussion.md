@@ -22,7 +22,7 @@ image: "File/Beach%20Ball%20Concussion.jpg"
   --><li style="">Anna Giacomo</li><!--
   --><li style="">Brad Smith</li><!--
   --><li style="">Brett Weaver</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Von Schramm">Jessica Von Schramm</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a></li><!--
   --><li style="">Noah Wright</li><!--
   --><li style="">Patrick Yonkin</li><!--
   --><li style="">Rhett O'Hara</li><!--

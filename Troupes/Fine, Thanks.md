@@ -22,10 +22,10 @@ image: "File/Fine%2C%20Thanks.jpg"
   --><li style="">Alex Gray</li><!--
   --><li style="">Amy O'Connor</li><!--
   --><li style="">Bradley Harrington</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jessica Arjet">Jessica Arjet</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Keegan Hines">Keegan Hines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kristin Firth">Kristin Firth</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Menelaos Prokos">Menelaos Prokos</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jessica Arjet">Jessica Arjet</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Keegan Hines">Keegan Hines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kristin Firth">Kristin Firth</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Menelaos Prokos">Menelaos Prokos</a></li><!--
   --><!--
   --><!--
   --><!--

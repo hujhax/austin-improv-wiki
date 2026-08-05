@@ -14,7 +14,7 @@ image: "File/Margaux%20Binder.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Primary Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The New Movement">The New Movement</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The New Movement">The New Movement</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Years Active</th>

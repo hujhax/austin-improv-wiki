@@ -19,8 +19,8 @@ image: "File/McNichol%20%26%20May%20Pic.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob McNichol">Bob McNichol</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Erika May McNichol">Erika May McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob McNichol">Bob McNichol</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Erika May McNichol">Erika May McNichol</a></li><!--
   --><!--
   --><!--
   --><!--

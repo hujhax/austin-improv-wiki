@@ -14,20 +14,20 @@ image: "File/Live%20TV%20Tuesdays%20-%20John%20Hughes%20Summer%20School.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Institution Theater">The Institution Theater</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Tom Booker">Tom Booker</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Melcher">Cody Melcher</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Melcher">Cody Melcher</a></li><!--
   --><li style="">Indigo Rael</li><!--
-  --><li style=""><a class="internal-link" href="Performers-John Buseman">John Buseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li><!--
   --><li style="">Nat Miller</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole McCracken">Nicole McCracken</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole McCracken">Nicole McCracken</a></li><!--
   --><li style="">Wayne Alan Brenner</li><!--
   --><!--
   --><!--

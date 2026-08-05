@@ -20,7 +20,7 @@ image: "File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Be
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Andrea Young</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><!--
   --><!--
   --><!--

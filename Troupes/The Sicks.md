@@ -19,8 +19,8 @@ image: "File/The%20Sicks.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Directed by</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bob Apthorpe">Bob Apthorpe</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Mike D'Alonzo">Mike D'Alonzo</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bob Apthorpe">Bob Apthorpe</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Mike D'Alonzo">Mike D'Alonzo</a></li><!--
   --><!--
   --><!--
   --><!--
@@ -77,8 +77,8 @@ image: "File/The%20Sicks.jpg"
   --><li style="">Ben Sterling</li><!--
   --><li style="">Jeffrey Amos</li><!--
   --><li style="">Jonathan Hunt</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kacey Samiee">Kacey Samiee</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jordan T. Maxwell">Jordan T. Maxwell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kacey Samiee">Kacey Samiee</a></li><!--
   --><li style="">Kate Caldwell</li><!--
   --><li style="">Lauren Hunt</li><!--
   --><li style="">Sarah Smiley</li><!--

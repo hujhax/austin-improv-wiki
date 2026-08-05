@@ -14,27 +14,27 @@ image: "File/What%20the%20F%40%24.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Assistant Director(s)</th>
-			<td class="category"><a class="internal-link" href="Performers-Caeriel Crestin">Caeriel Crestin</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Caeriel Crestin">Caeriel Crestin</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Adrienne Brown</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Chris Albano">Chris Albano</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-David Schwartz">David Schwartz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Chris Albano">Chris Albano</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/David Schwartz">David Schwartz</a></li><!--
   --><li style="">Emma Czarnecki</li><!--
   --><li style="">Judith Schomp</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Lindsay Hejl">Lindsay Hejl</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Manuel Duran">Manuel Duran</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Melissa Patterson">Melissa Patterson</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Lindsay Hejl">Lindsay Hejl</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Manuel Duran">Manuel Duran</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Melissa Patterson">Melissa Patterson</a></li><!--
   --><li style="" >Michael Guy Bowman</li><!--
   --><!--
   --><!--

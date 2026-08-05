@@ -21,7 +21,7 @@ description: "One-off Cagematch team."
   --><li style="">Adam Trabka</li><!--
   --><li style="">Amy Wright</li><!--
   --><li style="">Emily McDonald</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ian Townsend">Ian Townsend</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ian Townsend">Ian Townsend</a></li><!--
   --><li style="">Jake Millward</li><!--
   --><li style="">Jared Robertson</li><!--
   --><li style="">Javier Ungo</li><!--

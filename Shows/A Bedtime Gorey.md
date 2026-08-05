@@ -14,26 +14,26 @@ image: "File/A%20Bedtime%20Gorey.jpg"
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Theater</th>
-			<td class="category"><a class="internal-link" href="Theatres-The Hideout Theatre">The Hideout Theatre</a></td>
+			<td class="category"><a class="internal-link" href="Theatres/The Hideout Theatre">The Hideout Theatre</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Directed by</th>
-			<td class="category"><a class="internal-link" href="Performers-Valerie Ward">Valerie Ward</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Valerie Ward">Valerie Ward</a></td>
 		</tr>
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Aaron Saenz">Aaron Saenz</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Alex Baia">Alex Baia</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andreas Fabis">Andreas Fabis</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cat Drago">Cat Drago</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jason Vines">Jason Vines</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Jayme Ramsey">Jayme Ramsey</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Kaci Beeler">Kaci Beeler</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Marc Majcher">Marc Majcher</a></li><!--
-  --><li style="" ><a class="internal-link" href="Performers-Mia Iseman">Mia Iseman</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nicole Oliver">Nicole Oliver</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Ruby Willmann">Ruby Willmann</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Aaron Saenz">Aaron Saenz</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Alex Baia">Alex Baia</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andreas Fabis">Andreas Fabis</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cat Drago">Cat Drago</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jason Vines">Jason Vines</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Jayme Ramsey">Jayme Ramsey</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Kaci Beeler">Kaci Beeler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Marc Majcher">Marc Majcher</a></li><!--
+  --><li style="" ><a class="internal-link" href="Performers/Mia Iseman">Mia Iseman</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nicole Oliver">Nicole Oliver</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
   --><!--
   --><!--
   --><!--

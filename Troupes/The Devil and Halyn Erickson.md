@@ -18,7 +18,7 @@ image: "File/The%20Devil%20and%20Halyn%20Erickson.jpg"
 		</tr>
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
-			<td class="category"><a class="internal-link" href="Performers-Halyn Lee Erickson">Halyn Lee Erickson</a></td>
+			<td class="category"><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></td>
 		</tr>
 	</table>
 </div>

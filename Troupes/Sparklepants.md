@@ -24,7 +24,7 @@ description: "One-off Cagematch team."
   --><li style="">Bradford Hardie</li><!--
   --><li style="">Jennifer Karydas</li><!--
   --><li style="">Liz Butler</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Stephanie Hagemeister">Stephanie Hagemeister</a></li><!--
   --><li style="">Stephanie Redding Hardie</li><!--
   --><!--
   --><!--

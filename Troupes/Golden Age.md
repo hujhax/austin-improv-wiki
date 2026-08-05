@@ -20,13 +20,13 @@ image: "File/Golden%20Age.jpg"
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style=""><a class="internal-link" href="Pseudonyms">Alessandra T.</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Andrew Basile">Andrew Basile</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Andrew Basile">Andrew Basile</a></li><!--
   --><li style="">Cody Greenlee</li><!--
   --><li style="">Dave Michaels</li><!--
   --><li style="">Jake Milward</li><!--
   --><li style="">Joseph Dailey</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Matt Needles">Matt Needles</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Nathan Sowell">Nathan Sowell</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Matt Needles">Matt Needles</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Nathan Sowell">Nathan Sowell</a></li><!--
   --><li style="" >Will Casto</li><!--
   --><!--
   --><!--

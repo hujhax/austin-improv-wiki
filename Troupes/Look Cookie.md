@@ -19,8 +19,8 @@ image: "File/Look%20Cookie.jpg"
 		<tr class="">
 			<th class="category-header" scope="row">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style=""><a class="internal-link" href="Performers-Bryan Roberts">Bryan Roberts</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cody Dearing">Cody Dearing</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Bryan Roberts">Bryan Roberts</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cody Dearing">Cody Dearing</a></li><!--
   --><li style="">Eric Seufert</li><!--
   --><li style="">Jerry Bilbo</li><!--
   --><li style="">Kerri Lendo</li><!--

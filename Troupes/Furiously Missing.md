@@ -22,7 +22,7 @@ image: "File/Furiously%20Missing.jpg"
   --><li style="">Amy O'Connor</li><!--
   --><li style="">Cassidy Santaguida</li><!--
   --><li style="">Chris Sutphen</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Gloria Rabil Bankler">Gloria Rabil Bankler</a></li><!--
   --><!--
   --><!--
   --><!--

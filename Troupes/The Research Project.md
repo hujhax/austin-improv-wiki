@@ -20,8 +20,8 @@ description: "One-off Cagematch team."
 			<td class="category"><div class="plainlist"><ul style=""><!--
   --><li style="">Addison Billingsly</li><!--
   --><li style="">AJ Holler</li><!--
-  --><li style=""><a class="internal-link" href="Performers-Clint Harris">Clint Harris</a></li><!--
-  --><li style=""><a class="internal-link" href="Performers-Cortnie Jones">Cortnie Jones</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Clint Harris">Clint Harris</a></li><!--
+  --><li style=""><a class="internal-link" href="Performers/Cortnie Jones">Cortnie Jones</a></li><!--
   --><li style="">Matthew Wells</li><!--
   --><!--
   --><!--
