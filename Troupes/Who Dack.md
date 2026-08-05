@@ -8,7 +8,6 @@ description: "An improv troupe composed of members from several theaters and..."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Troupe%20default%20image.png)
 			</td>
 		</tr>
 		<tr class="">

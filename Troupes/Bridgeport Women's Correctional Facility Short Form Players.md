@@ -9,7 +9,6 @@ image: "File/Bridgeport%20Women%27s%20Correctional%20Facility%20Short%20Form%20P
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Bridgeport%20Women's%20Correctional%20Facility%20Short%20Form%20Players.jpg)
 			</td>
 		</tr>
 		<tr class="">

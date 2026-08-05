@@ -8,7 +8,6 @@ image: "File/Andrew%20%26%20Jeremy%20Hypnotize%20Each%20Other%21.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Andrew%20&%20Jeremy%20Hypnotize%20Each%20Other!.png)
 			</td>
 		</tr>
 		<tr class="">

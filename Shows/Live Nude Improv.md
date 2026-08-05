@@ -1,5 +1,5 @@
 ---
-description: "__NOINDEX__."
+description: "Mainstage show at the Hideout Theatre."
 image: "File/Live%20Nude%20Improv%20Performance.jpg"
 ---
 __NOINDEX__
@@ -11,7 +11,6 @@ __NOINDEX__
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Live%20Nude%20Improv%20Performance.jpg)
 			</td>
 		</tr>
 		<tr class="">

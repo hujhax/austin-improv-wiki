@@ -8,7 +8,6 @@ image: "File/Hitchcocked%21%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Hitchcocked!%20Poster.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -191,7 +190,7 @@ image: "File/Hitchcocked%21%20Poster.jpg"
 	</table>
 </div>
 
-![A performance of *Hitchcocked!*.](/File/Hitchcocked!%20Performance.jpg)
+![[File/Hitchcocked! Performance.jpg|A performance of *Hitchcocked!*.]]
 
 ***Hitchcocked!*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] inspired by the works of Alfred Hitchcock.
 

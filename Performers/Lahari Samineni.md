@@ -9,7 +9,6 @@ image: "File/13483369%2010206502157095436%202326651694853821892%20o.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/File/13483369%2010206502157095436%202326651694853821892%20o.jpg)
 			</td>
 		</tr>
 		<tr class="">

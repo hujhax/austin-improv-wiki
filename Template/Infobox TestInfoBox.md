@@ -13,7 +13,6 @@ This template lists standard, useful information about an improv performer.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" >
-				![](/)
 			</td>
 		</tr>
 		<tr class="">
@@ -63,7 +62,6 @@ This template lists standard, useful information about an improv performer.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" >
-				![](/File/Performer%20Default%20Image.png)
 			</td>
 		</tr>
 		<tr class="">

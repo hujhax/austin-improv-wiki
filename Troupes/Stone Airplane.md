@@ -9,7 +9,6 @@ image: "File/457986%2010151011200081351%202110136360%20o.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/457986%2010151011200081351%202110136360%20o.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -129,7 +128,7 @@ image: "File/457986%2010151011200081351%202110136360%20o.jpg"
 	</table>
 </div>
 
-![Publicity photo of Stone Airplane.](/File/Stone%20Airplane.jpg)
+![[File/Stone Airplane.jpg|Publicity photo of Stone Airplane.]]
 
 **Stone Airplane** was an improv troupe.
 

@@ -2,7 +2,7 @@
 description: "An improvised theater group in Austin, TX, that specializes in..."
 image: "File/twinehands.jpg"
 ---
-![](/File/Twinecover2.jpg)
+
 
 <div>
 	<table class="infobox infobox-troupe">
@@ -11,7 +11,6 @@ image: "File/twinehands.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Twinehands.jpg)
 			</td>
 		</tr>
 		<tr class="">

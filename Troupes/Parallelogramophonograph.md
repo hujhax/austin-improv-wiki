@@ -9,7 +9,6 @@ image: "File/Pgraph%20goodman.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Pgraph%20goodman.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -83,7 +82,7 @@ Here is Robert Faires's explanation of the name's origin:
 
 ## Show Formats
 ### The Nutty Funsters
-![Parallelogramophonograph in character as 'The Nutty Funsters'](/File/The%20Nutty%20Funsters.jpg)
+![[File/The Nutty Funsters.jpg|Parallelogramophonograph in character as 'The Nutty Funsters']]
 In 2007, the troupe developed an alter ego of "The Nutty Funsters", a zany, Christian, short-form troupe from "West Carolina".
 
 ### New Works

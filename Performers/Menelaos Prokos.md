@@ -8,7 +8,6 @@ description: "An improviser who, during his tenure in Austin, was associated..."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/File/Performer%20Default%20Image.png)
 			</td>
 		</tr>
 		<tr class="">

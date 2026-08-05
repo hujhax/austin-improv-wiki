@@ -2,7 +2,7 @@
 description: "Second annual WaffleFest."
 image: "File/WaffleFest%202003%20Poster.jpg"
 ---
-![Poster for WaffleFest 2003.](/File/WaffleFest%202003%20Poster.jpg)
+![[File/WaffleFest 2003 Poster.jpg|Poster for WaffleFest 2003.]]
 
 **WaffleFest 2003** was the second annual [[Festivals/Wafflefest|Wafflefest]].
 

@@ -195,3 +195,8 @@ width: 300px;
 	line-height: 1.2em;
 }
 
+/* Prevent clicked/visited external links from turning gray in the Obsidian App */
+a.external:visited {
+	color: var(--link-external-color) !important;
+}
+

@@ -13,7 +13,6 @@ This template lists standard, useful information about an improv show.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/)
 			</td>
 		</tr>
 		<tr class="">
@@ -115,7 +114,6 @@ This template lists standard, useful information about an improv show.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Show%20Default%20Image.jpg)
 			</td>
 		</tr>
 		<tr class="">

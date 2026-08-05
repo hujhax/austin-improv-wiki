@@ -2,7 +2,7 @@
 description: "An interactive-fiction game that takes place in and around the..."
 image: "File/Hideout%20Text%20Adventure%20Gamplay.jpg"
 ---
-![Sample gameplay from The Hideout Text Adventure.](/File/Hideout%20Text%20Adventure%20Gamplay.jpg)
+![[File/Hideout Text Adventure Gamplay.jpg|Sample gameplay from The Hideout Text Adventure.]]
 
 **The Hideout Text Adventure** (actual title: ***The Hideout Theatre Adventures: Quest for the Secret Skull***) is an interactive-fiction game that takes place in and around [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 

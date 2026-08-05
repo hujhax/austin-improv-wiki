@@ -1,5 +1,5 @@
 ---
-description: "__NOINDEX__."
+description: "An Austin improvisor."
 image: "File/JF%20pic.jpg"
 ---
 <div>
@@ -9,7 +9,6 @@ image: "File/JF%20pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/File/JF%20pic.jpg)
 			</td>
 		</tr>
 		<tr class="">

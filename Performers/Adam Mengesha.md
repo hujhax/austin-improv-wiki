@@ -9,7 +9,6 @@ image: "File/Adam%20Mengesha%20Headshot.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/File/Adam%20Mengesha%20Headshot.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -31,7 +30,7 @@ Adam is originally from Dallas, Texas.  He saw his first improv show at [[Theatr
 He took his first improv class at [[Theatres/The Institution Theater|The Institution Theater]] with the intention of just taking the one class, but ended up getting drawn into the improv scene from there.
 
 ## Shows
-![Adam is a frequent cast member of *The Fancy-Pants Mashup*.](/File/Adam%20-%20Fancy%20Pants.jpg)
+![[File/Adam - Fancy Pants.jpg|Adam is a frequent cast member of *The Fancy-Pants Mashup*.]]
 
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*

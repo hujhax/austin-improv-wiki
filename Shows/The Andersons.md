@@ -8,7 +8,6 @@ description: "An improvised longform show based on wholesome 1950s television si
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/The%20Andersons.jpg%20‎)
 			</td>
 		</tr>
 		<tr class="">

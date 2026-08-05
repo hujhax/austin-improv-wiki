@@ -9,7 +9,6 @@ image: "File/http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JK
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/File/Http%20-%20--www.coldtownetheater.com-wp-content-uploads-2014-03-JKSweeney-Headshot-600x900.jpg)
 			</td>
 		</tr>
 		<tr class="">

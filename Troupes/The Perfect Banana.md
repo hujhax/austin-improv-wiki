@@ -8,7 +8,6 @@ description: "2008 cagematch team consisting of:."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/)
 			</td>
 		</tr>
 		<tr class="">

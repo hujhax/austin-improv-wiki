@@ -9,7 +9,6 @@ image: "File/TheCherryBowl.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/TheCherryBowl.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -86,7 +85,7 @@ image: "File/TheCherryBowl.jpg"
 	</table>
 </div>
 
-![From the 2/25/12 performance of *The Cherry Bowl*.](/File/Cherry%20Bowl%20-%20Performance.jpg)
+![[File/Cherry Bowl - Performance.jpg|From the 2/25/12 performance of *The Cherry Bowl*.]]
 
 ***The Cherry Bowl*** was a show produced by [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] in 2012 and 2013. While not an improvised show, improv was used to create bits of clowning to construct a dialogue-free, *commedia dell'arte*-inspired adaptation of Anton Chekhov's *[The Cherry Orchard](http://en.wikipedia.org/wiki/The_Cherry_Orchard)*. Gnap! member Ben Schave directed the production.
 

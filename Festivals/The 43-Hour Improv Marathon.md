@@ -4,7 +4,7 @@ image: "File/HardCore4.jpg"
 ---
 **The 43-Hour Improv Marathon** was the fourth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]]. It was performed from 5pm on June 1st to 12pm June 3rd 2012.
 
-![The "Hardcore Four", who stayed for the whole marathon.](/File/HardCore4.jpg)
+![[File/HardCore4.jpg|The "Hardcore Four", who stayed for the whole marathon.]]
 
 ## Core Players
 * [[Performers/Emma Holder|Emma Holder]]

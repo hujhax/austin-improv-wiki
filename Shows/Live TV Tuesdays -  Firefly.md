@@ -9,7 +9,6 @@ image: "File/FireflyPoster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/FireflyPoster.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -247,7 +246,7 @@ image: "File/FireflyPoster.jpg"
 	</table>
 </div>
 
-![The cast of *Firefly* takes a bow.](/File/Live%20TV%20Tuesdays%20-%20Firefly.jpg)
+![[File/Live TV Tuesdays - Firefly.jpg|The cast of *Firefly* takes a bow.]]
 
 ***Live TV Tuesdays: Firefly*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *Firefly* episode "Our Mrs. Reynolds"
 

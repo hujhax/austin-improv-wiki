@@ -1,5 +1,5 @@
 ---
-description: "__FORCETOC__."
+description: "An improvised longform narrative show inspired by The Arabian Nights."
 image: "File/One%20More%20Night.gif"
 ---
 
@@ -11,7 +11,6 @@ image: "File/One%20More%20Night.gif"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/One%20More%20Night.gif)
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +87,7 @@ image: "File/One%20More%20Night.gif"
 	</table>
 </div>
 
-![Scheherazade and Shahryar provided a framing device for each evening's tales.](/File/One%20More%20Night%20-%20Scheherazade%20and%20Shahryar.jpg)
+![[File/One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]
 
 
 ***One More Night*** was an improvised longform narrative show inspired by *The Arabian Nights*.

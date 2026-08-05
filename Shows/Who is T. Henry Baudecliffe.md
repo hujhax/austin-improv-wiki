@@ -9,7 +9,6 @@ image: "File/Who%20is%20T.%20Henry%20Baudecliffe.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Who%20is%20T.%20Henry%20Baudecliffe.jpg)
 			</td>
 		</tr>
 		<tr class="">

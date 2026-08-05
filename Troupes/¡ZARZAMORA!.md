@@ -8,7 +8,6 @@ image: "File/%C2%A1ZARZAMORA%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/¡ZARZAMORA!.jpg)
 			</td>
 		</tr>
 		<tr class="">

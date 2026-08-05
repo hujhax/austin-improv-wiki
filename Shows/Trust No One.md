@@ -9,7 +9,6 @@ image: "File/tno-poster-small.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Tno-poster-small.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -149,7 +148,7 @@ The show was a longform narrative, dealing with conspiracies and paranoia. An au
 ### The View-Master of Providence
 In materials promoting this show, the Institution Theater's View-Master logo was incorporated into the Eye of Providence, a common Masonic symbol and one often associated with the Illuminati. 
 
-![The View-Master of Providence, designed by [Brad Hawkins](Performers/Brad%20Hawkins)](/File/Eye-of-institution-1.gif)
+![[File/Eye-of-institution-1.gif|The View-Master of Providence, designed by [Brad Hawkins](Performers/Brad%20Hawkins)]]
 
 ## Media
 ### Videos

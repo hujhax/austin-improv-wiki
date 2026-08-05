@@ -9,7 +9,6 @@ image: "File/Peter%20Pan%20and%20the%20Great%20Unknown%20Placeholder%20image.jpg
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Peter%20Pan%20and%20the%20Great%20Unknown%20Placeholder%20image.jpg)
 			</td>
 		</tr>
 		<tr class="">

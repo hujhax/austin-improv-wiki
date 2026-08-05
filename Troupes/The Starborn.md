@@ -9,7 +9,6 @@ image: "File/TheStarborn.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/TheStarborn.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -129,9 +128,9 @@ image: "File/TheStarborn.jpg"
 	</table>
 </div>
 
-![Poster promoting their return and first show as a dedicated troupe.](/File/StarbornPoster.jpg)
+![[File/StarbornPoster.jpg|Poster promoting their return and first show as a dedicated troupe.]]
 
-![Poster promoting their February 2014 run of headlining shows in The Threefer.](/File/StarbornThreeferRun.jpg)
+![[File/StarbornThreeferRun.jpg|Poster promoting their February 2014 run of headlining shows in The Threefer.]]
 
 
 

@@ -9,7 +9,6 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Cops%20&%20Lawyers%20Pic.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -133,7 +132,7 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 	</table>
 </div>
 
-![Postcard for *Cops & Lawyers*](/File/Cops%20&%20Lawyers%20Postcard.jpg)
+![[File/Cops & Lawyers Postcard.jpg|Postcard for *Cops & Lawyers*]]
 ***Cops & Lawyers*** was an improvised longform narrative show inspired by *Law & Order*
 
 ## Summary

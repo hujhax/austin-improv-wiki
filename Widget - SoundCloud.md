@@ -1,5 +1,5 @@
 ---
-description: "__NOTOC__."
+description: "This widget allows you to embed SoundCloud on your wiki..."
 ---
 <noinclude>
 This widget allows you to embed **[SoundCloud](http://www.soundcloud.com/)** on your wiki page.

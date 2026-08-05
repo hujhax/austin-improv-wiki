@@ -6,7 +6,7 @@ image: "File/%7B%7B%7Bimage%7D%7D%7D"
 <div class="banner-box banner-box-">
 <div class="name"></div>
 <div class="type"></div>
-</div>![](/)</div><noinclude>
+</div></div><noinclude>
 
 {{Uses TemplateStyles|Template:Banner/styles.css}}
 <templatedata>

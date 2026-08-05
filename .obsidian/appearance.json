@@ -1,4 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "wiki-styles",
+    "broken-links"
+  ]
 }

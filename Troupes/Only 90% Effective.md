@@ -9,7 +9,6 @@ image: "File/Only%2090%25%20Effective.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Only%2090%%20Effective.jpg)
 			</td>
 		</tr>
 		<tr class="">

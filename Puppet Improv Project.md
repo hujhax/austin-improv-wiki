@@ -2,7 +2,7 @@
 description: "An organization that produces improv shows featuring puppets."
 image: "File/PIPLogo.jpg"
 ---
-![Puppet Improv Project's logo.](/File/PIPLogo.jpg)
+![[File/PIPLogo.jpg|Puppet Improv Project's logo.]]
 
 **Puppet Improv Project** is an organization that produces improv shows featuring puppets.  It was created by and is run by [[Performers/Sara Farr|Sara Farr]].
 

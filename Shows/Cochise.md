@@ -9,7 +9,6 @@ image: "File/Cochise%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Cochise%20Poster.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -216,7 +215,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [[Performers/Mike Kinald|Mike Kinald]]
 
 #### Student Mainstage Run
-![Poster for the student-mainstage run of *Cochise*.](/File/Cochise2014.jpg)
+![[File/Cochise2014.jpg|Poster for the student-mainstage run of *Cochise*.]]
 * Barrett Phelan
 * Emma Czarnecki
 * Ericka Bundy
@@ -233,7 +232,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * January 31st, 2009 at 10:15pm
 
 ## Media
-![A performance of *Cochise*.](/File/Cochise%20Performance.jpg)
+![[File/Cochise Performance.jpg|A performance of *Cochise*.]]
 ### Photos
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620623735851) by [[Michael Yew]] of their appearance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.746912335372285.1073742015.221927764537414&type=3) by [[Steve Rogers]] of the 6/7/14 show.

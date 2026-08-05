@@ -8,7 +8,6 @@ description: "Lance Hunter is an improviser and stand-up."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/File/Performer%20Default%20Image.png)
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,6 @@ image: "File/BadFont%20Hideout.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/BadFont%20Hideout.jpg)
 			</td>
 		</tr>
 		<tr class="">

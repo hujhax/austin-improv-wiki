@@ -8,7 +8,6 @@ description: "An improv performer."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/)
 			</td>
 		</tr>
 		<tr class="">

@@ -8,7 +8,6 @@ description: "An improvised longform show performed in the style of the..."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/The%20Black%20Vault.jpg%20‎)
 			</td>
 		</tr>
 		<tr class="">

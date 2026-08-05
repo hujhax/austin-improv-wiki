@@ -8,7 +8,6 @@ description: "Mainstage show at ColdTowne Theater, an audience-interactive, zomb
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Show%20Default%20Image.jpg)
 			</td>
 		</tr>
 		<tr class="">

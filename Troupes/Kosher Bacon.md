@@ -9,7 +9,6 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Kosher%20Bacon%20Pic.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -78,7 +77,7 @@ image: "File/Kosher%20Bacon%20Pic.jpg"
 	</table>
 </div>
 
-![The poster for *Under Waged*.](/File/Under%20Waged%20Poster.jpg)
+![[File/Under Waged Poster.jpg|The poster for *Under Waged*.]]
 
 **Kosher Bacon** was an improv troupe.
 

@@ -9,7 +9,6 @@ image: "File/Emily%20Breedlove%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				![](/File/Emily%20Breedlove%20Pic.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -74,7 +73,7 @@ image: "File/Emily%20Breedlove%20Pic.jpg"
 	</table>
 </div>
 
-![Emily Breedlove in *[The Tribunal](Shows/The%20Tribunal)*.](/File/Emily%20Breedlove%20-%20Tribunal.jpg)
+![[File/Emily Breedlove - Tribunal.jpg|Emily Breedlove in *[The Tribunal](Shows/The%20Tribunal)*.]]
 
 **Emily Breedlove** is an opera singer and an improv performer.
 

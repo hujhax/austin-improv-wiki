@@ -9,7 +9,6 @@ image: "File/Cover%20to%20Cover.gif"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Cover%20to%20Cover.gif)
 			</td>
 		</tr>
 		<tr class="">
@@ -137,8 +136,8 @@ image: "File/Cover%20to%20Cover.gif"
 	</table>
 </div>
 
-![A performance of *Cover to Cover*.](/File/Cover%20to%20Cover%20Performance.jpg)
-![The *Cover to Cover* blackboard, showing the book title and the chapter assignments.](/File/Cover%20to%20Cover%20Blackboard.jpg)
+![[File/Cover to Cover Performance.jpg|A performance of *Cover to Cover*.]]
+![[File/Cover to Cover Blackboard.jpg|The *Cover to Cover* blackboard, showing the book title and the chapter assignments.]]
 
 
 ***Cover to Cover*** was a longform show inspired by the Nancy Drew and Hardy Boys young-adult mystery novels.

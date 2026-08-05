@@ -9,7 +9,6 @@ image: "File/Live%20TV%20Tuesdays%20-%20Dr.%20Horrible%27s%20Sing-Along%20Blog.j
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Live%20TV%20Tuesdays%20-%20Dr.%20Horrible's%20Sing-Along%20Blog.jpg)
 			</td>
 		</tr>
 		<tr class="">

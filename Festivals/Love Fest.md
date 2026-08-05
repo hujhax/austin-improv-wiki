@@ -8,7 +8,6 @@ description: "An annual improvised longform show based on the theme of..."
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Love%20Fest.jpg%20‎)
 			</td>
 		</tr>
 		<tr class="">

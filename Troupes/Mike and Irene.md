@@ -9,7 +9,6 @@ image: "File/MikeIrenePoster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/MikeIrenePoster.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -74,7 +73,7 @@ image: "File/MikeIrenePoster.jpg"
 	</table>
 </div>
 
-![Mike and Irene performing at [The Hideout Theatre](Theatres/The%20Hideout%20Theatre).](/File/MikeIrene.jpg)
+![[File/MikeIrene.jpg|Mike and Irene performing at [The Hideout Theatre](Theatres/The%20Hideout%20Theatre).]]
 
 **Mike and Irene** is an improv duo.
 

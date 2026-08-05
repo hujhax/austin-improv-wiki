@@ -9,7 +9,6 @@ image: "File/Golden%20Age.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Golden%20Age.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -77,7 +76,7 @@ image: "File/Golden%20Age.jpg"
 **Golden Age** is an improv troupe.
 
 ## Summary
-![Golden Age celebrates their 10/24/12 *[Cagematch](Shows/Cagematch)* championship.](/File/Golden%20Age%20Cagematch.jpg)
+![[File/Golden Age Cagematch.jpg|Golden Age celebrates their 10/24/12 *[Cagematch](Shows/Cagematch)* championship.]]
 The troupe was formed by ColdTowne students and graduates to explore sci-fi-themed improv.
 
 At first, they performed a Bat -- that is, a Harold in the dark -- as their intro.

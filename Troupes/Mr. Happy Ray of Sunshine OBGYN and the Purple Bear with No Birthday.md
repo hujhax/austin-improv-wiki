@@ -9,7 +9,6 @@ image: "File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Be
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Bear%20with%20No%20Birthday.jpg)
 			</td>
 		</tr>
 		<tr class="">

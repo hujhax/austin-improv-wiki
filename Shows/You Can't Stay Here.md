@@ -9,7 +9,6 @@ image: "File/You%20Can%27t%20Stay%20Here%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/You%20Can't%20Stay%20Here%20Poster.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -160,7 +159,7 @@ From the initial show announcement:
 
 
 ### Tom's Place
-![Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)](/File/Toms-place.jpg)
+![[File/Toms-place.jpg|Tom's Place logo, designed by [Ryan Austin](Performers/Ryan%20Austin) and [Asaf Ronen](Performers/Asaf%20Ronen)]]
 *You Can't Stay Here* made use of the Institution's "Institution South" space, which was converted temporarily into a makeshift bar called Tom's Place. Beer and wine were served, and early-arriving customers were treated to a few rounds of pub trivia. [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Kenny Madison|Kenny Madison]], and Will Cleveland served as quizmasters.
 
 Following the quiz, the first scene of the show began in Tom's Place. The four central characters for the evening were introduced, and their relationships established. After one scene had concluded, director [[Performers/Brad Hawkins|Brad Hawkins]] announced the closing of Tom's Place and the audience was ushered into the theater space for the remainder of the show.

@@ -9,7 +9,6 @@ image: "File/The%20Sci-Fi%20Comedy%20Double%20Feature.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/The%20Sci-Fi%20Comedy%20Double%20Feature.jpg)
 			</td>
 		</tr>
 		<tr class="">

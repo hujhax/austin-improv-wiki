@@ -8,7 +8,7 @@ description: "The Austin Improv Wiki is a wiki devoted to the..."
 <div class="banner-box banner-box-right">
 <div class="name">**The Austin Improv Community**</div>
 <div class="type"></div>
-</div>![](/File/AIC%202012%20Potluck%20Group%20Photo.jpg)</div>
+</div></div>
 
 **The Austin Improv Wiki** is a wiki devoted to the Austin Improv community.  It's here to accumulate information associated with the Austin improv scene.
 

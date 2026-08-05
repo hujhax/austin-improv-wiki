@@ -9,7 +9,6 @@ image: "File/The%20Professor.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				![](/File/The%20Professor.jpg)
 			</td>
 		</tr>
 		<tr class="">
@@ -151,7 +150,7 @@ At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as d
 
 ## Casts
 ### "Season Zero"
-![[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor.](/File/The%20First%20Professor.jpg)
+![[File/The First Professor.jpg|[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor.]]
 The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] as the First Professor.
 
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
@@ -163,8 +162,8 @@ The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jo
 ([[Performers/Emily Breedlove|Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
 
 ### Season One
-![[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor.](/File/The%20Second%20Professor.jpg)
-![[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor.](/File/The%20Third%20Professor.jpg)
+![[File/The Second Professor.jpg|[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor.]]
+![[File/The Third Professor.jpg|[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor.]]
 The first run of shows, from October to November of 2011, featured [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] and [[Performers/Andrew Pish|Andrew Pish]] as the Second and Third Professors.
 
 * [[Performers/Clay Towery|Clay Towery]]
@@ -177,8 +176,8 @@ The first run of shows, from October to November of 2011, featured [[Performers/
 * [[Performers/Quinn Buckner|Quinn Buckner]]
 
 ### Season Two
-![[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor.](/File/The%20Fourth%20Professor.jpg)
-![[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor.](/File/The%20Fifth%20Professor.jpg)
+![[File/The Fourth Professor.jpg|[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor.]]
+![[File/The Fifth Professor.jpg|[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor.]]
 The second run of shows, from March to April of 2012, introduced [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] as the Fourth and Fifth Professors, with [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Performers/Clay Towery|Clay Towery]]
