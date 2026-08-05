@@ -36,7 +36,7 @@ jobs:
         working-directory: .quartz
         run: |
           npx quartz build
-          node fix_quartz_links.js
+          node fix_quartz_links.cjs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
