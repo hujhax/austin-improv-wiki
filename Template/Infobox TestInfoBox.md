@@ -63,7 +63,7 @@ This template lists standard, useful information about an improv performer.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" >
-				<a class="internal-link" href="File/Performer Default Image.png.md"><img src="File/Performer%20Default%20Image.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Performer Default Image.png.md"><img src="../File/Performer%20Default%20Image.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

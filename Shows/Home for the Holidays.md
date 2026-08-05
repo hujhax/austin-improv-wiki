@@ -9,7 +9,7 @@ image: "File/I%27ll%20Be%20Home%20for%20Christmas.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/I'll Be Home for Christmas.jpg.md"><img src="File/I'll%20Be%20Home%20for%20Christmas.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/I'll Be Home for Christmas.jpg.md"><img src="../File/I'll%20Be%20Home%20for%20Christmas.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

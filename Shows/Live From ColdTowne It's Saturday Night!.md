@@ -9,7 +9,7 @@ image: "File/Live%20From%20ColdTowne%20It%E2%80%99s%20Saturday%20Night%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Live From ColdTowne It’s Saturday Night!.jpg.md"><img src="File/Live%20From%20ColdTowne%20It’s%20Saturday%20Night!.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Live From ColdTowne It’s Saturday Night!.jpg.md"><img src="../File/Live%20From%20ColdTowne%20It’s%20Saturday%20Night!.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

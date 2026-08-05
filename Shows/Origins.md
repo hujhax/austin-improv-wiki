@@ -9,7 +9,7 @@ image: "File/Origins%20Placeholder%20Image.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Origins Placeholder Image.jpg.md"><img src="File/Origins%20Placeholder%20Image.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Origins Placeholder Image.jpg.md"><img src="../File/Origins%20Placeholder%20Image.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

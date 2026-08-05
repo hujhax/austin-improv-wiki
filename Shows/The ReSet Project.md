@@ -9,7 +9,7 @@ image: "File/The%20ReSet%20Project.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The ReSet Project.png.md"><img src="File/The%20ReSet%20Project.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/The ReSet Project.png.md"><img src="../File/The%20ReSet%20Project.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

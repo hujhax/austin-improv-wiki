@@ -9,7 +9,7 @@ image: "File/FB.ImAGE.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/FB.ImAGE.jpg.md"><img src="File/FB.ImAGE.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/FB.ImAGE.jpg.md"><img src="../File/FB.ImAGE.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

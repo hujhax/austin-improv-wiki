@@ -9,7 +9,7 @@ image: "File/Pasta%20with%20a%20Chat.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Pasta with a Chat.png.md"><img src="File/Pasta%20with%20a%20Chat.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Pasta with a Chat.png.md"><img src="../File/Pasta%20with%20a%20Chat.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

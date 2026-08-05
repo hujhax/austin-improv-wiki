@@ -2,7 +2,7 @@
 description: "Sixth annual Hideout Improv Marathon."
 image: "File/The%2045-Hour%20Cover%20Photo.jpg"
 ---
-<a class="internal-link" href="File/The 45-Hour Cover Photo.jpg.md"><img src="File/The%2045-Hour%20Cover%20Photo.jpg" alt="Publicity image for the 45-Hour Improv Marathon." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/The 45-Hour Cover Photo.jpg.md"><img src="../File/The%2045-Hour%20Cover%20Photo.jpg" alt="Publicity image for the 45-Hour Improv Marathon." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **The 45-Hour Improv Marathon** was the sixth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]]. It was performed in 2014, starting Friday, 6/20/14, and ending Sunday, 6/22/14.
 

@@ -2,7 +2,7 @@
 description: "Sixth annual Ladies Are Funny Festival."
 image: "File/LAFF%202012%20Logo.jpg"
 ---
-<a class="internal-link" href="File/LAFF 2012 Logo.jpg.md"><img src="File/LAFF%202012%20Logo.jpg" alt="The 2012 LAFF logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/LAFF 2012 Logo.jpg.md"><img src="../File/LAFF%202012%20Logo.jpg" alt="The 2012 LAFF logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **The 2012 Ladies Are Funny Festival** was the sixth annual [[Festivals/Ladies Are Funny Festival|Ladies Are Funny Festival]].
 

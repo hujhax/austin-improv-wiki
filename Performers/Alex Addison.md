@@ -9,7 +9,7 @@ image: "File/AlexAddison.jpeg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/<a class="internal-link" href="File - AlexAddison.jpeg">File - AlexAddison.jpeg</a>.md"><img src="File/<a class="internal-link" href="File%20-%20AlexAddison.jpeg">File%20-%20AlexAddison.jpeg</a>" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/<a class="internal-link" href="File - AlexAddison.jpeg">File - AlexAddison.jpeg</a>.md"><img src="../File/<a class="internal-link" href="File%20-%20AlexAddison.jpeg">File%20-%20AlexAddison.jpeg</a>" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

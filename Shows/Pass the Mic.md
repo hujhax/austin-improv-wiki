@@ -9,7 +9,7 @@ image: "File/Pass%20the%20Mic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Pass the Mic.jpg.md"><img src="File/Pass%20the%20Mic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Pass the Mic.jpg.md"><img src="../File/Pass%20the%20Mic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

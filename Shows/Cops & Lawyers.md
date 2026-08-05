@@ -9,7 +9,7 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Cops & Lawyers Pic.jpg.md"><img src="File/Cops%20&%20Lawyers%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Cops & Lawyers Pic.jpg.md"><img src="../File/Cops%20&%20Lawyers%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -133,7 +133,7 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 	</table>
 </div>
 
-<a class="internal-link" href="File/Cops & Lawyers Postcard.jpg.md"><img src="File/Cops%20&%20Lawyers%20Postcard.jpg" alt="Postcard for *Cops & Lawyers*" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Cops & Lawyers Postcard.jpg.md"><img src="../File/Cops%20&%20Lawyers%20Postcard.jpg" alt="Postcard for *Cops & Lawyers*" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 ***Cops & Lawyers*** was an improvised longform narrative show inspired by *Law & Order*
 
 ## Summary

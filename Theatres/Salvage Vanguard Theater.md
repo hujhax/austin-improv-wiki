@@ -9,7 +9,7 @@ image: "File/Salvage%20Vanguard%20Theater.gif"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Salvage Vanguard Theater.gif.md"><img src="File/Salvage%20Vanguard%20Theater.gif" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Salvage Vanguard Theater.gif.md"><img src="../File/Salvage%20Vanguard%20Theater.gif" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

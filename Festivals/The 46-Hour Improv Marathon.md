@@ -2,7 +2,7 @@
 description: "Seventh annual Hideout Improv Marathon."
 image: "File/46HourPromo.jpg"
 ---
-<a class="internal-link" href="File/46HourPromo.jpg.md"><img src="File/46HourPromo.jpg" alt="Promotional image for the 46-hour marathon." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/46HourPromo.jpg.md"><img src="../File/46HourPromo.jpg" alt="Promotional image for the 46-hour marathon." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 **The 46-Hour Improv Marathon** is the seventh annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]]. It took place from June 19-21, 2015.
 
 ## Core Players
