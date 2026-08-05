@@ -1,7 +1,7 @@
 ---
 description: "Photo Credit: Jon Bolden."
 ---
-<div style="text-align: center;"><img src="Jen Kaplan Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jen Kaplan Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo Credit: Jon Bolden

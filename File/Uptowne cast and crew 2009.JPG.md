@@ -1,7 +1,7 @@
 ---
 description: "Photo of Uptowne."
 ---
-<div style="text-align: center;"><img src="Uptowne cast and crew 2009.JPG" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Uptowne cast and crew 2009.JPG" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Troupes/UpTowne|UpTowne]].

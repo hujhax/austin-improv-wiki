@@ -1,7 +1,7 @@
 ---
 description: "Photobooth picture of the Flying Theater Machine."
 ---
-<div style="text-align: center;"><img src="Flying Theater Machine.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Flying Theater Machine.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photobooth picture of the [[Shows/Flying Theater Machine|Flying Theater Machine]].

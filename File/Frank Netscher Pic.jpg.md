@@ -1,7 +1,7 @@
 ---
 description: "Frank Netscher performing with Big Beautiful Warlock in a May..."
 ---
-<div style="text-align: center;"><img src="Frank Netscher Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Frank Netscher Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Frank Netscher|Frank Netscher]] performing with [[Troupes/Big Beautiful Warlock|Big Beautiful Warlock]] in a May 2013 performance of *[[Shows/Big Beautiful Warriors|Big Beautiful Warriors]]*.

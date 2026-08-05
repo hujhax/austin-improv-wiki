@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Mr."
 ---
-<div style="text-align: center;"><img src="Mr. and Mrs. Danger.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Mr. and Mrs. Danger.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Mr. and Mrs. Danger|Mr. and Mrs. Danger]] (as "Perfect Season").

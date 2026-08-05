@@ -1,7 +1,7 @@
 ---
 description: "Paul Normandin, performing in The Black Vault."
 ---
-<div style="text-align: center;"><img src="Paul Normandin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Paul Normandin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Paul Normandin|Paul Normandin]], performing in *[[Shows/The Black Vault|The Black Vault]]*.  Photo by [[Roy Moore]].

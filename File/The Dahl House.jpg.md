@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Dahl House."
 ---
-<div style="text-align: center;"><img src="The Dahl House.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Dahl House.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/The Dahl House|The Dahl House]]*.

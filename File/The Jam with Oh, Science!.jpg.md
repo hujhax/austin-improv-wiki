@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for The Jam with Oh, Science!."
 ---
-<div style="text-align: center;"><img src="The Jam with Oh, Science!.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Jam with Oh, Science!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for [[Shows/The Jam with Oh, Science!|The Jam with Oh, Science!]].

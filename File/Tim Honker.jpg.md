@@ -1,7 +1,7 @@
 ---
 description: "Tim Honker performing with Nice Astronaut in the 12/27/12 Threefer..."
 ---
-<div style="text-align: center;"><img src="Tim Honker.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Tim Honker.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Tim Honker|Tim Honker]] performing with [[Troupes/Nice Astronaut|Nice Astronaut]] in the 12/27/12 [[Shows/Threefer|Threefer]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

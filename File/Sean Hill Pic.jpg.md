@@ -1,7 +1,7 @@
 ---
 description: "Sean Hill, in the 3/27/10 performance of Hitchcocked."
 ---
-<div style="text-align: center;"><img src="Sean Hill Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Sean Hill Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Sean Hill|Sean Hill]], in the 3/27/10 performance of *[[Shows/Hitchcocked|Hitchcocked]]*.

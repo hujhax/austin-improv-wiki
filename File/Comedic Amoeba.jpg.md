@@ -1,7 +1,7 @@
 ---
 description: "Photo of Comedic Amoeba, provided by Kaci Beeler."
 ---
-<div style="text-align: center;"><img src="Comedic Amoeba.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Comedic Amoeba.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Troupes/Comedic Amoeba|Comedic Amoeba]], provided by [[Performers/Kaci Beeler|Kaci Beeler]].

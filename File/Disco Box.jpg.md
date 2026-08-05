@@ -1,7 +1,7 @@
 ---
 description: "Disco Box, during their 5/10/12 performance at The Threefer."
 ---
-<div style="text-align: center;"><img src="Disco Box.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Disco Box.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Disco Box|Disco Box]], during their 5/10/12 performance at *[[Shows/The Threefer|The Threefer]]*.

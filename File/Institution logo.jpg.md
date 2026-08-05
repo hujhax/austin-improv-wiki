@@ -1,7 +1,7 @@
 ---
 description: "Logo of the Institution Theater."
 ---
-<div style="text-align: center;"><img src="Institution logo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Institution logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo of the Institution Theater.  (Creator unknown.)

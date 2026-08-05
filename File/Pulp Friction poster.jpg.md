@@ -1,7 +1,7 @@
 ---
 description: "Poster for Pulp Friction."
 ---
-<div style="text-align: center;"><img src="Pulp Friction poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Pulp Friction poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/Pulp Friction|Pulp Friction]]*.

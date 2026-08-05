@@ -1,7 +1,7 @@
 ---
 description: "Leng Wong, performing in episode 5 of Steam on 1/20/12."
 ---
-<div style="text-align: center;"><img src="Leng Wong Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Leng Wong Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Leng Wong|Leng Wong]], performing in [[Shows/Steam Episodes/Steam – Fifth Night|episode 5]] of *[[Shows/Steam|Steam]]* on 1/20/12.

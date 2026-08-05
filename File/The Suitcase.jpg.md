@@ -1,7 +1,7 @@
 ---
 description: "Facebook cover-photo art for The Suitcase."
 ---
-<div style="text-align: center;"><img src="The Suitcase.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Suitcase.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Facebook cover-photo art for [[Shows/The Suitcase|The Suitcase]].

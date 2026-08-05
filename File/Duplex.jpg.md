@@ -1,7 +1,7 @@
 ---
 description: "Members of Duplex, in their 5/29/14 performance in The Threefer."
 ---
-<div style="text-align: center;"><img src="Duplex.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Duplex.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Members of [[Troupes/Duplex|Duplex]], in their 5/29/14 performance in *[[Shows/The Threefer|The Threefer]]*.

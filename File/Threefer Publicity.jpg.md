@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Thursday Threefer featuring The Starter Kit,..."
 ---
-<div style="text-align: center;"><img src="Threefer Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Threefer Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Shows/The Thursday Threefer|The Thursday Threefer]] featuring [[Troupes/The Starter Kit|The Starter Kit]], for a headlining run in January 2009.

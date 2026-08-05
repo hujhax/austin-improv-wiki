@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Best Friends Club of Austin."
 ---
-<div style="text-align: center;"><img src="Best Friends Club of Austin.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Best Friends Club of Austin.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Best Friends Club of Austin|Best Friends Club of Austin]].

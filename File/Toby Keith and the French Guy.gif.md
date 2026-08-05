@@ -1,7 +1,7 @@
 ---
 description: "Logo for Toby Keith and the French Guy."
 ---
-<div style="text-align: center;"><img src="Toby Keith and the French Guy.gif" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Toby Keith and the French Guy.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for [[Troupes/Toby Keith and the French Guy|Toby Keith and the French Guy]].

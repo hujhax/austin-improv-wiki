@@ -1,7 +1,7 @@
 ---
 description: "A wedding photo of Cathy and Chuy Zarate, who perform..."
 ---
-<div style="text-align: center;"><img src="20 Years and Counting.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/20 Years and Counting.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A wedding photo of Cathy and [[Performers/Chuy Zarate|Chuy Zarate]], who perform as [[Troupes/20 Years and Counting|20 Years and Counting]].

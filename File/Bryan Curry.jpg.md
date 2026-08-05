@@ -1,7 +1,7 @@
 ---
 description: "Bryan singing at Emo's."
 ---
-<div style="text-align: center;"><img src="Bryan Curry.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Bryan Curry.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Bryan singing at Emo's.

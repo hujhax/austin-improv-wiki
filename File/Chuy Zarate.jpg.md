@@ -1,7 +1,7 @@
 ---
 description: "Chuy Zarate performing in the season one finale of Thinning..."
 ---
-<div style="text-align: center;"><img src="Chuy Zarate.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Chuy Zarate.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Chuy Zarate|Chuy Zarate]] performing in the season one finale of *[[Shows/Thinning The Herd|Thinning The Herd]]*.

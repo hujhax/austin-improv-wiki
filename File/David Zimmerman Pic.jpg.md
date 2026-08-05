@@ -1,7 +1,7 @@
 ---
 description: "David Zimmerman on the red carpet at The 2013 Institution..."
 ---
-<div style="text-align: center;"><img src="David Zimmerman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/David Zimmerman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/David Zimmerman|David Zimmerman]] on the red carpet at [[The 2013 Institution Theater Awards]].

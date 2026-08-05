@@ -1,7 +1,7 @@
 ---
 description: "Caeriel Crestin, in the 5/26/12 performance of Rock."
 ---
-<div style="text-align: center;"><img src="Caeriel Crestin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Caeriel Crestin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Caeriel Crestin|Caeriel Crestin]], in the 5/26/12 performance of [[Shows/Rock|Rock]].

@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for The 45-Hour Improv Marathon."
 ---
-<div style="text-align: center;"><img src="The 45-Hour Cover Photo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The 45-Hour Cover Photo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].

@@ -1,7 +1,7 @@
 ---
 description: "Logo for the 2012 Improvised Play Festival."
 ---
-<div style="text-align: center;"><img src="Improvised Play Festival Logo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Improvised Play Festival Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for the 2012 [[Festivals/Improvised Play Festival|Improvised Play Festival]].

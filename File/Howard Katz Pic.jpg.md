@@ -1,7 +1,7 @@
 ---
 description: "Howard Katz, in the 1/21/12 performance of Steam."
 ---
-<div style="text-align: center;"><img src="Howard Katz Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Howard Katz Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Howard Katz|Howard Katz]], in the 1/21/12 performance of *[[Shows/Steam|Steam]]*.

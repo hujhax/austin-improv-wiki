@@ -1,7 +1,7 @@
 ---
 description: "Photographer unknown."
 ---
-<div style="text-align: center;"><img src="GetUp.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/GetUp.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photographer unknown. Taken from [[Troupes/Get Up|Get Up]]'s website.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Puppet Katamari."
 ---
-<div style="text-align: center;"><img src="Puppet Katamari.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Puppet Katamari.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Puppet Katamari|Puppet Katamari]]*.

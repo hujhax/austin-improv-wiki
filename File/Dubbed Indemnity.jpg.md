@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for Dubbed Indemnity."
 ---
-<div style="text-align: center;"><img src="Dubbed Indemnity.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dubbed Indemnity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for *[[Shows/Dubbed Indemnity|Dubbed Indemnity]]*.

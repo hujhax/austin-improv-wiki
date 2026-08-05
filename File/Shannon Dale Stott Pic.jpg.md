@@ -1,7 +1,7 @@
 ---
 description: "Shannon Dale Stott, after the 5/2/14 performance of Maestro."
 ---
-<div style="text-align: center;"><img src="Shannon Dale Stott Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Shannon Dale Stott Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Shannon Dale Stott|Shannon Dale Stott]], after the 5/2/14 performance of *[[Shows/Maestro|Maestro]]*.  (It was her first *Maestro*; she won.)

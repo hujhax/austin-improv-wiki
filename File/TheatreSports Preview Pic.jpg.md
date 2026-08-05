@@ -1,7 +1,7 @@
 ---
 description: "Preview image for TheatreSports."
 ---
-<div style="text-align: center;"><img src="TheatreSports Preview Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/TheatreSports Preview Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Preview image for *[[Shows/Theatresports (mainstage run)|TheatreSports]]*.

@@ -1,7 +1,7 @@
 ---
 description: "The Better Half arrives on the red carpet at The..."
 ---
-<div style="text-align: center;"><img src="The Better Half.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Better Half.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/The Better Half|The Better Half]] arrives on the red carpet at [[The 2013 Institution Theater Awards]].

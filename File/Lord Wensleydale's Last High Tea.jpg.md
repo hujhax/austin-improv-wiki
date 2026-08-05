@@ -1,7 +1,7 @@
 ---
 description: "The cast of Lord Wensleydale's Last High Tea."
 ---
-<div style="text-align: center;"><img src="Lord Wensleydale's Last High Tea.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Lord Wensleydale's Last High Tea.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The cast of *[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]*.

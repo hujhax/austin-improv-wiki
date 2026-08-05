@@ -1,7 +1,7 @@
 ---
 description: "Diplomatic Impunity, playing ColdTowne Theater on 4/9/11."
 ---
-<div style="text-align: center;"><img src="Diplomatic Impunity.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Diplomatic Impunity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Diplomatic Impunity|Diplomatic Impunity]], playing [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 4/9/11.

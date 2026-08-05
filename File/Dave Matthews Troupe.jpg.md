@@ -1,7 +1,7 @@
 ---
 description: "Dave Matthews Troupe performing in the 3/5/12 Monday Night Mash."
 ---
-<div style="text-align: center;"><img src="Dave Matthews Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dave Matthews Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Dave Matthews Troupe|Dave Matthews Troupe]] performing in the 3/5/12 *[[Shows/Monday Night Mash|Monday Night Mash]]*.

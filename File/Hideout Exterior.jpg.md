@@ -1,7 +1,7 @@
 ---
 description: "A view of the Hideout Theatre from Congress Avenue."
 ---
-<div style="text-align: center;"><img src="Hideout Exterior.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Hideout Exterior.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A view of [[Theatres/The Hideout Theatre|The Hideout Theatre]] from Congress Avenue.

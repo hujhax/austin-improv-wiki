@@ -1,7 +1,7 @@
 ---
 description: "A What's the Story, Steve?"
 ---
-<div style="text-align: center;"><img src="WTSS.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/WTSS.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A [[Troupes/What's the Story, Steve|What's the Story, Steve]] performance from April 2012.

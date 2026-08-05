@@ -12,7 +12,7 @@ Anybody! To edit a page on the wiki, click the "Edit" link in the top right corn
 
 Alternately, you can type the title of a page you want to create into the search box and click "Go" -- if that page doesn't exist, the wiki will give you a link for creating it.
 
-<a class="internal-link" href="../File/Edit Button.jpg.md"><img src="../File/Edit%20Button.jpg" alt="What an article's "Edit Button" looks like." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/Edit Button.jpg.md"><img src="File/Edit%20Button.jpg" alt="What an article's "Edit Button" looks like." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 **How do I edit a page?**<br/>
 Nearly every page has an 'Edit' button towards the top-right corner, next to the search bar.  Click that, and it will take you to an editing form.
 

@@ -1,7 +1,7 @@
 ---
 description: "Poster for Ed 32."
 ---
-<div style="text-align: center;"><img src="Ed32 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Ed32 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[Troupes/Ed 32|Ed 32]].

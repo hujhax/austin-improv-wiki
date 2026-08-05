@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Bear Derby."
 ---
-<div style="text-align: center;"><img src="Bear Derby.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Bear Derby.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for [[Troupes/Bear Derby|Bear Derby]].

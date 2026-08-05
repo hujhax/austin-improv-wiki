@@ -1,7 +1,7 @@
 ---
 description: "The Randy Meisner, just after their 7/15/12 performance at ColdTowne..."
 ---
-<div style="text-align: center;"><img src="The Randy Meisner.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Randy Meisner.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/The Randy Meisner|The Randy Meisner]], just after their 7/15/12 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

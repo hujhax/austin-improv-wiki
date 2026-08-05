@@ -1,7 +1,7 @@
 ---
 description: "\"Trading card\" picture of Brad Temple for Journey to the..."
 ---
-<div style="text-align: center;"><img src="Brad Temple Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Brad Temple Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 "Trading card" picture of [[Performers/Brad Temple|Brad Temple]] for [[Troupes/Journey To The Big Water|Journey To The Big Water]].

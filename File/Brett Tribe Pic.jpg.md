@@ -1,7 +1,7 @@
 ---
 description: "Brett Tribe, in the 9/7/12 performance of Pulp Friction."
 ---
-<div style="text-align: center;"><img src="Brett Tribe Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Brett Tribe Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Brett Tribe|Brett Tribe]], in the 9/7/12 performance of *[[Shows/Pulp Friction|Pulp Friction]]*.

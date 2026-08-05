@@ -1,7 +1,7 @@
 ---
 description: "Poster for Fighting Spirit."
 ---
-<div style="text-align: center;"><img src="Fighting Spirit.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Fighting Spirit.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/Fighting Spirit|Fighting Spirit]]*.

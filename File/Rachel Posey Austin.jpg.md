@@ -1,7 +1,7 @@
 ---
 description: "Rachel Posey Austin, performing with Camp Madeupponaspotta in Theatresports on..."
 ---
-<div style="text-align: center;"><img src="Rachel Posey Austin.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Rachel Posey Austin.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Rachel Posey Austin|Rachel Posey Austin]], performing with *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]* in *[[Shows/TheatreSports|TheatreSports]]* on 5/31/14.

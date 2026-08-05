@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Indy Movies."
 ---
-<div style="text-align: center;"><img src="Indy Movies.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Indy Movies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Indy Movies|Indy Movies]]*.

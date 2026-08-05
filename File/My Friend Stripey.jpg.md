@@ -1,7 +1,7 @@
 ---
 description: "My Friend Stripey, performing in The Threefer on 1/13/11."
 ---
-<div style="text-align: center;"><img src="My Friend Stripey.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/My Friend Stripey.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/My Friend Stripey|My Friend Stripey]], performing in *[[Shows/The Threefer|The Threefer]]* on 1/13/11.

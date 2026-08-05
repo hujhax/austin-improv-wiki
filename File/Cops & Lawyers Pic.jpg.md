@@ -1,7 +1,7 @@
 ---
 description: "Christina Bain delivers closing arguments in the 8/12/06 performance of..."
 ---
-<div style="text-align: center;"><img src="Cops & Lawyers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Cops & Lawyers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Christina Bain delivers closing arguments in the 8/12/06 performance of *[[Shows/Cops & Lawyers|Cops & Lawyers]]*.

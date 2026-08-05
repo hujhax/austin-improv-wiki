@@ -1,7 +1,7 @@
 ---
 description: "Post for The Next Chapter created by Asaf Ronen, with..."
 ---
-<div style="text-align: center;"><img src="NextChapter-poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/NextChapter-poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Post for The Next Chapter created by Asaf Ronen, with direction by Justin Davis

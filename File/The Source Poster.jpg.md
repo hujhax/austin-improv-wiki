@@ -1,7 +1,7 @@
 ---
 description: "Poster for The Source."
 ---
-<div style="text-align: center;"><img src="The Source Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Source Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/The Source|The Source]]*.

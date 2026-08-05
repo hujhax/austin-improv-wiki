@@ -1,7 +1,7 @@
 ---
 description: "Performance by Epic."
 ---
-<div style="text-align: center;"><img src="Epic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Epic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Performance by [[Troupes/Epic|Epic]].

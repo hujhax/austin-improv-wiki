@@ -1,7 +1,7 @@
 ---
 description: "Poster for Heist."
 ---
-<div style="text-align: center;"><img src="Heist.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Heist.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[Shows/Heist|Heist]].

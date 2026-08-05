@@ -1,7 +1,7 @@
 ---
 description: "Achatina Achatina celebrating their victory in the 2009 Cagematch."
 ---
-<div style="text-align: center;"><img src="Achatina Achatina.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Achatina Achatina.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Achatina Achatina|Achatina Achatina]] celebrating their victory in the 2009 [[Shows/Cagematch|Cagematch]].

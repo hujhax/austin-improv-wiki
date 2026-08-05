@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The 44-Hour Improv Marathon."
 ---
-<div style="text-align: center;"><img src="The 44-Hour Improv Marathon.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The 44-Hour Improv Marathon.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].

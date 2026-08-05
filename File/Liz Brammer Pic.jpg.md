@@ -1,7 +1,7 @@
 ---
 description: "Liz Brammer, in the 2/3/12 performance of Steam."
 ---
-<div style="text-align: center;"><img src="Liz Brammer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Liz Brammer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Liz Brammer|Liz Brammer]], in the 2/3/12 performance of *[[Shows/Steam|Steam]]*.

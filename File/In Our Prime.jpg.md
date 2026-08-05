@@ -1,7 +1,7 @@
 ---
 description: "In Our Prime poster designed by Ryan Hill."
 ---
-<div style="text-align: center;"><img src="In Our Prime.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/In Our Prime.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/In Our Prime|In Our Prime]] poster designed by [[Performers/Ryan Hill|Ryan Hill]]. Photo by [[Performers/Dave alley|Dave alley]].

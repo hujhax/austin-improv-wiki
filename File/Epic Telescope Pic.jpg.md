@@ -1,7 +1,7 @@
 ---
 description: "The conclusion of the 7-minute iteration of Epic Telescope, from..."
 ---
-<div style="text-align: center;"><img src="Epic Telescope Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Epic Telescope Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The conclusion of the 7-minute iteration of *[[Shows/Epic Telescope|Epic Telescope]]*, from its 4/26/12 premiere at *[[Shows/The Free Fringe|The Free Fringe]]*.

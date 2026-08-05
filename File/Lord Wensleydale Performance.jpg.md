@@ -1,7 +1,7 @@
 ---
 description: "A mishap with a cake at Lord Wensleydale's Last High..."
 ---
-<div style="text-align: center;"><img src="Lord Wensleydale Performance.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Lord Wensleydale Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A mishap with a cake at *[[Shows/Lord Wensleydale's Last High Tea|Lord Wensleydale's Last High Tea]]*.

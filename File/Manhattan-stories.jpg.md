@@ -1,7 +1,7 @@
 ---
 description: "Promotional photo collage for Manhattan Stories."
 ---
-<div style="text-align: center;"><img src="Manhattan-stories.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Manhattan-stories.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo collage for [[Shows/Manhattan Stories|Manhattan Stories]].

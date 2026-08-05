@@ -1,7 +1,7 @@
 ---
 description: "Zac Grantham, in a publicity photo for The Violet Underbelly."
 ---
-<div style="text-align: center;"><img src="Zac GranthamPic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Zac GranthamPic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Zac Grantham|Zac Grantham]], in a publicity photo for *[[Shows/The Violet Underbelly|The Violet Underbelly]]*.

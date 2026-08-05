@@ -1,7 +1,7 @@
 ---
 description: "Logo for The Sicks."
 ---
-<div style="text-align: center;"><img src="The Sicks.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Sicks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for [[Troupes/The Sicks|The Sicks]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Lola."
 ---
-<div style="text-align: center;"><img src="Lola Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Lola Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Lola|Lola]]*.

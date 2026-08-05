@@ -9,7 +9,7 @@ image: "File/Faster%2C%20Robot%21%20Kill%21%20Kill%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Faster, Robot! Kill! Kill Pic.jpg.md"><img src="../File/Faster,%20Robot!%20Kill!%20Kill%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Faster, Robot! Kill! Kill Pic.jpg.md"><img src="File/Faster,%20Robot!%20Kill!%20Kill%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

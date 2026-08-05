@@ -1,7 +1,7 @@
 ---
 description: "Jared Stepp, performing with Achatina Achatina!"
 ---
-<div style="text-align: center;"><img src="Jared Stepp Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jared Stepp Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jared Stepp|Jared Stepp]], performing with [[Troupes/Achatina Achatina!|Achatina Achatina!]] in the 3/10/11 performance of *[[Shows/The Threefer|The Threefer]]*.

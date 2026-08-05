@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for Vampire High School."
 ---
-<div style="text-align: center;"><img src="Vampire High School Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Vampire High School Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder image for *[[Shows/Vampire High School|Vampire High School]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Poster for the Girls Girls Girls run of \"The Secret..."
 ---
-<div style="text-align: center;"><img src="Secret Life of Soccer Moms Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Secret Life of Soccer Moms Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for the [[Troupes/Girls Girls Girls|Girls Girls Girls]] run of "The Secret Lives of Soccer Moms".

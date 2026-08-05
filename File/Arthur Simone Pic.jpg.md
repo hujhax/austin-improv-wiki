@@ -1,7 +1,7 @@
 ---
 description: "Headshot of Arthur Simone."
 ---
-<div style="text-align: center;"><img src="Arthur Simone Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Arthur Simone Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Headshot of [[Performers/Arthur Simone|Arthur Simone]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Showdown."
 ---
-<div style="text-align: center;"><img src="Showdown.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Showdown.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Shows/Showdown|Showdown]]*.

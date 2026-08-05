@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Nothing and Everything."
 ---
-<div style="text-align: center;"><img src="Nothing and Everything.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Nothing and Everything.jpg" style="max-width: 100%; height: auto;" /></div>
 
 Publicity photo for *[[Shows/Nothing And Everything|Nothing And Everything]]*.
 

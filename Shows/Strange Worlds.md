@@ -9,7 +9,7 @@ image: "File/Strange%20Worlds%20Image.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Strange Worlds Image.jpg.md"><img src="../File/Strange%20Worlds%20Image.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Strange Worlds Image.jpg.md"><img src="File/Strange%20Worlds%20Image.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -137,7 +137,7 @@ image: "File/Strange%20Worlds%20Image.jpg"
 	</table>
 </div>
 
-<a class="internal-link" href="../File/Strange Worlds Heroes Drawing.jpg.md"><img src="../File/Strange%20Worlds%20Heroes%20Drawing.jpg" alt="A drawing by [Ryan Austin](Performers/Ryan%20Austin) of the cast of heroes from *Strange Worlds*." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/Strange Worlds Heroes Drawing.jpg.md"><img src="File/Strange%20Worlds%20Heroes%20Drawing.jpg" alt="A drawing by [Ryan Austin](Performers/Ryan%20Austin) of the cast of heroes from *Strange Worlds*." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 
 ***Strange Worlds*** was a mainstage show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] based on 30s pulp adventure.

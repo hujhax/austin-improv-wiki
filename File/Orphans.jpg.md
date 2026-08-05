@@ -1,7 +1,7 @@
 ---
 description: "Online promo image for Orphans!."
 ---
-<div style="text-align: center;"><img src="Orphans.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Orphans.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Online promo image for *[[Shows/Orphans!|Orphans!]]*.

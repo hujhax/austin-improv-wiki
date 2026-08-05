@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of You, Me, and Greg."
 ---
-<div style="text-align: center;"><img src="You Me & Greg.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/You Me & Greg.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/You, Me, and Greg|You, Me, and Greg]].

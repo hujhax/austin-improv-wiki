@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Danger."
 ---
-<div style="text-align: center;"><img src="Danger.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Danger.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for *[[Shows/Danger|Danger]]*.

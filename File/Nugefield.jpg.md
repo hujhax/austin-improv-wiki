@@ -1,7 +1,7 @@
 ---
 description: "Nugefield performing in Love Fest at The Institution Theater on..."
 ---
-<div style="text-align: center;"><img src="Nugefield.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Nugefield.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Nugefield|Nugefield]] performing in [[Festivals/Love Fest|Love Fest]] at [[Theatres/The Institution Theater|The Institution Theater]] on 2/8/13.

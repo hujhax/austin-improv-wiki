@@ -1,7 +1,7 @@
 ---
 description: "Photo of Houses in Motion."
 ---
-<div style="text-align: center;"><img src="Houses in Motion.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Houses in Motion.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Troupes/Houses in Motion|Houses in Motion]].

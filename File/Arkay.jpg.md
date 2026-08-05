@@ -1,7 +1,7 @@
 ---
 description: "Photo of Arkay from their 5/2/13 premiere at ColdTowne Theater."
 ---
-<div style="text-align: center;"><img src="Arkay.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Arkay.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Troupes/Arkay|Arkay]] from their 5/2/13 premiere at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

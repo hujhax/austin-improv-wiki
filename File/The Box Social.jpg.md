@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Box Social."
 ---
-<div style="text-align: center;"><img src="The Box Social.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Box Social.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/The Box Social|The Box Social]].

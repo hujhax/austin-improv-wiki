@@ -1,7 +1,7 @@
 ---
 description: "Austin/Austin Promo shot in black and white."
 ---
-<div style="text-align: center;"><img src="AustinAustinPromoBW.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/AustinAustinPromoBW.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Austin-Austin|Austin-Austin]] Promo shot in black and white.

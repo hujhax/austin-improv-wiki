@@ -1,7 +1,7 @@
 ---
 description: "Logo for the troupe Precious Dads."
 ---
-<div style="text-align: center;"><img src="Precious Dads.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Precious Dads.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for the troupe [[Troupes/Precious Dads|Precious Dads]].

@@ -1,7 +1,7 @@
 ---
 description: "The Dark Bloodlords take a bow after their 9/29/06 performance..."
 ---
-<div style="text-align: center;"><img src="The Dark Bloodlords.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Dark Bloodlords.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/The Dark Bloodlords|The Dark Bloodlords]] take a bow after their 9/29/06 performance of *[[Shows/Pick Your Own Path|Pick Your Own Path]]*.

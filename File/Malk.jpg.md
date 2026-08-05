@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Malk."
 ---
-<div style="text-align: center;"><img src="Malk.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Malk.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Malk|Malk]].

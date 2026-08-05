@@ -1,7 +1,7 @@
 ---
 description: "Julie Gillis, performing in Bedpost Confessions on 2/21/13."
 ---
-<div style="text-align: center;"><img src="Julie Gillis Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Julie Gillis Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Julie Gillis|Julie Gillis]], performing in *Bedpost Confessions* on 2/21/13.

@@ -1,7 +1,7 @@
 ---
 description: "Picture of improv performer Luke Wallens, performing in Only Three..."
 ---
-<div style="text-align: center;"><img src="Luke Wallens.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Luke Wallens.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Picture of improv performer [[Performers/Luke Wallens|Luke Wallens]], performing in *[[Shows/Only Three Will Survive|Only Three Will Survive]]* on 2012-08-03.

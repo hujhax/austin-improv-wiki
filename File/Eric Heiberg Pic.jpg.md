@@ -1,7 +1,7 @@
 ---
 description: "Eric Heiberg, in the 1/19/13 performance of Fandom."
 ---
-<div style="text-align: center;"><img src="Eric Heiberg Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Eric Heiberg Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Eric Heiberg|Eric Heiberg]], in the 1/19/13 (*Batman*) performance of *[[Shows/Fandom|Fandom]]*.

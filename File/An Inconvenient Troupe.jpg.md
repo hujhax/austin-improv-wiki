@@ -1,7 +1,7 @@
 ---
 description: "Still from a Cagematch performance by An Inconvenient Troupe."
 ---
-<div style="text-align: center;"><img src="An Inconvenient Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/An Inconvenient Troupe.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Still from a *[[Shows/Cagematch|Cagematch]]* performance by [[Troupes/An Inconvenient Troupe|An Inconvenient Troupe]].

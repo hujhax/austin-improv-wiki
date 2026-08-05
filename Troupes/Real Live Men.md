@@ -9,7 +9,7 @@ image: "File/Real%20Live%20Men.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Real Live Men.jpg.md"><img src="../File/Real%20Live%20Men.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Real Live Men.jpg.md"><img src="File/Real%20Live%20Men.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

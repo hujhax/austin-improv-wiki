@@ -1,7 +1,7 @@
 ---
 description: "Andrew Buck performing in This American Live."
 ---
-<div style="text-align: center;"><img src="Andrew Buck Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Andrew Buck Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Andrew Buck|Andrew Buck]] performing in [[Shows/This American Live|This American Live]].

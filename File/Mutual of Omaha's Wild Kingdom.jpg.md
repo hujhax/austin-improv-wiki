@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Mutual of Omaha's Wild Kingdom."
 ---
-<div style="text-align: center;"><img src="Mutual of Omaha's Wild Kingdom.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Mutual of Omaha's Wild Kingdom.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for [[Troupes/Mutual of Omaha's Wild Kingdom|Mutual of Omaha's Wild Kingdom]].

@@ -1,7 +1,7 @@
 ---
 description: "Promotional poster for Death By Musical."
 ---
-<div style="text-align: center;"><img src="Death by musical.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Death by musical.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional poster for Death By Musical

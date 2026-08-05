@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Hell & Back Cabaret."
 ---
-<div style="text-align: center;"><img src="Hell & Back Cabaret.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Hell & Back Cabaret.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]*.

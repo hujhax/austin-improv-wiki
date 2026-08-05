@@ -1,7 +1,7 @@
 ---
 description: "Jessica T."
 ---
-<div style="text-align: center;"><img src="Jessica T. Von Schramm Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jessica T. Von Schramm Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jessica T. Von Schramm|Jessica T. Von Schramm]], in the 4/11/15 performance of *[[Shows/Golden (mainstage)|Golden]]*.

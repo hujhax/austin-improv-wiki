@@ -1,7 +1,7 @@
 ---
 description: "Peter Rogers acting as 'script supervisor' for a performance of..."
 ---
-<div style="text-align: center;"><img src="Peter Rogers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Peter Rogers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Peter Rogers|Peter Rogers]] acting as 'script supervisor' for a performance of [[Shows/Live Nude Improv|Live Nude Improv]].

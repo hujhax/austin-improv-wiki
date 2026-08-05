@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Beans Beans."
 ---
-<div style="text-align: center;"><img src="Beans Beans (the musical troupe).jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Beans Beans (the musical troupe).jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Beans Beans (the musical troupe)|Beans Beans (the musical troupe)]]

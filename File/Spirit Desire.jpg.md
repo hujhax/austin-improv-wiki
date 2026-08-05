@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Spirit Desire."
 ---
-<div style="text-align: center;"><img src="Spirit Desire.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Spirit Desire.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Spirit Desire|Spirit Desire]].

@@ -1,7 +1,7 @@
 ---
 description: "Dav Wallace, performing with Improv for Evil in their \"Office..."
 ---
-<div style="text-align: center;"><img src="Dav Wallace Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dav Wallace Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Dav Wallace|Dav Wallace]], performing with [[Troupes/Improv For Evil|Improv For Evil]] in their "Office Party" format on 12/18/09.

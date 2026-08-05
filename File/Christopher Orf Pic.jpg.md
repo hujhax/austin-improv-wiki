@@ -1,7 +1,7 @@
 ---
 description: "Christopher Orf, in the 7-29-06 performance of Cops & Lawyers."
 ---
-<div style="text-align: center;"><img src="Christopher Orf Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Christopher Orf Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Christopher Orf|Christopher Orf]], in the 7-29-06 performance of *[[Shows/Cops & Lawyers|Cops & Lawyers]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Kelly Campbell, in the 8/29/15 performance of Close Up."
 ---
-<div style="text-align: center;"><img src="Kelly Campbell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Kelly Campbell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Kelly Campbell|Kelly Campbell]], in the 8/29/15 performance of *[[Shows/Close Up|Close Up]]*.

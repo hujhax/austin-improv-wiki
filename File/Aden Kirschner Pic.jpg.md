@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Aden Kirschner for Rock."
 ---
-<div style="text-align: center;"><img src="Aden Kirschner Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Aden Kirschner Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Performers/Aden Kirschner|Aden Kirschner]] for *[[Shows/Rock|Rock]]*.

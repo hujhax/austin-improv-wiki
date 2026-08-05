@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Mustache, featuring Frank Netscher."
 ---
-<div style="text-align: center;"><img src="Mustache.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Mustache.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Mustache|Mustache]], featuring [[Performers/Frank Netscher|Frank Netscher]].

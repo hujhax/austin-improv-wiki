@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Who Is T."
 ---
-<div style="text-align: center;"><img src="Who is T. Henry Baudecliffe.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Who is T. Henry Baudecliffe.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]

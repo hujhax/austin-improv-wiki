@@ -1,7 +1,7 @@
 ---
 description: "Jillian Summar in the 4/5/14 performance of Camp Madeupponathaspotta."
 ---
-<div style="text-align: center;"><img src="Jillian Summar.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jillian Summar.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jillian Summar|Jillian Summar]] in the 4/5/14 performance of *[[Shows/Camp Madeupponathaspotta|Camp Madeupponathaspotta]]*.

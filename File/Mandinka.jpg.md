@@ -1,7 +1,7 @@
 ---
 description: "Promotional photo for Mandinka, featuring Mia Iseman and Andrew Buck."
 ---
-<div style="text-align: center;"><img src="Mandinka.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Mandinka.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo for [[Troupes/MANDINKA|MANDINKA]], featuring [[Performers/Mia Iseman|Mia Iseman]] and [[Performers/Andrew Buck|Andrew Buck]].

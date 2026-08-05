@@ -9,7 +9,7 @@ image: "File/The%20Sci-Fi%20Comedy%20Double%20Feature.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/The Sci-Fi Comedy Double Feature.jpg.md"><img src="../File/The%20Sci-Fi%20Comedy%20Double%20Feature.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/The Sci-Fi Comedy Double Feature.jpg.md"><img src="File/The%20Sci-Fi%20Comedy%20Double%20Feature.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

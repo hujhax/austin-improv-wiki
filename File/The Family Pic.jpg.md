@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for The Family, taken from the show's facebook-event..."
 ---
-<div style="text-align: center;"><img src="The Family Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Family Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for *[[Shows/The Family|The Family]]*, taken from [the show's facebook-event page](http://www.facebook.com/events/496285910062/).

@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Cereal for Adults."
 ---
-<div style="text-align: center;"><img src="Cereal for Adults.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Cereal for Adults.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Cereal for Adults|Cereal for Adults]]*.

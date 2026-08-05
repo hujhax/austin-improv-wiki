@@ -1,7 +1,7 @@
 ---
 description: "Firth & Arjet perform their \"Always a Bridesmaid\" format in..."
 ---
-<div style="text-align: center;"><img src="Firth & Arjet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Firth & Arjet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Firth & Arjet|Firth & Arjet]] perform their "Always a Bridesmaid" format in their final appearance at *[[Shows/The Free Fringe|The Free Fringe]]* on 8/9/12.

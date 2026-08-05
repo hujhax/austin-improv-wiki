@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Mother F***ing Action Heroes!."
 ---
-<div style="text-align: center;"><img src="Mother Fing Action Heroes!.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Mother Fing Action Heroes!.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Mother Fing Action Heroes!|Mother Fing Action Heroes!]].

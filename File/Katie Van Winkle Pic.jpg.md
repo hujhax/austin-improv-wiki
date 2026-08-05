@@ -1,7 +1,7 @@
 ---
 description: "Katie Van Winkle, in the 4/9/11 performance of Showdown."
 ---
-<div style="text-align: center;"><img src="Katie Van Winkle Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Katie Van Winkle Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Katie Van Winkle|Katie Van Winkle]], in the [[Shows/Showdown Episodes/Showdown – Sixth Episode -  'Death and Texas'|4/9/11 performance ("Death and Texas")]] of *[[Shows/Showdown|Showdown]]*.

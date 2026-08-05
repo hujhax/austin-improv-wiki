@@ -1,7 +1,7 @@
 ---
 description: "Darrell Barber, performing with ComedySportz, year unknown, photo by: unknown."
 ---
-<div style="text-align: center;"><img src="Darrell Barber Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Darrell Barber Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Darrell Barber|Darrell Barber]], performing with [[Troupes/ComedySportz|ComedySportz]], year unknown, photo by: unknown.

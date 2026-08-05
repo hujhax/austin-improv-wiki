@@ -1,7 +1,7 @@
 ---
 description: "Vinyl Destination, in their 9/3/07 show in The 2007 Out..."
 ---
-<div style="text-align: center;"><img src="Vinyl Destination.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Vinyl Destination.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 *[[Shows/Vinyl Destination|Vinyl Destination]]*, in their 9/3/07 show in [[Festivals/The 2007 Out of Bounds Comedy Festival|The 2007 Out of Bounds Comedy Festival]].

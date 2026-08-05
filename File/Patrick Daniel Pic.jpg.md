@@ -1,7 +1,7 @@
 ---
 description: "Patrick Daniel, performing in day 2 of Asafapalooza in 2010."
 ---
-<div style="text-align: center;"><img src="Patrick Daniel Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Patrick Daniel Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Patrick Daniel|Patrick Daniel]], performing in day 2 of Asafapalooza in 2010.

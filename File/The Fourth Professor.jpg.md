@@ -1,7 +1,7 @@
 ---
 description: "Peter Rogers plays the Fourth Professor in the 3/30/12 performance..."
 ---
-<div style="text-align: center;"><img src="The Fourth Professor.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Fourth Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Peter Rogers|Peter Rogers]] plays the Fourth Professor in the 3/30/12 performance of [[Troupes/The Professor|The Professor]].

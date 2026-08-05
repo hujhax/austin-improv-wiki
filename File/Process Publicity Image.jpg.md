@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Process, featuring Jeremy Sweetlamb ."
 ---
-<div style="text-align: center;"><img src="Process Publicity Image.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Process Publicity Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/Process|Process]]*, featuring [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] (snarling).

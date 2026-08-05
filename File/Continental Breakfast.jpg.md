@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Continental Breakfast, 2009."
 ---
-<div style="text-align: center;"><img src="Continental Breakfast.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Continental Breakfast.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Troupes/Continental Breakfast|Continental Breakfast]], 2009.

@@ -2,7 +2,7 @@
 description: "Fifth annual Hideout Improv Marathon."
 image: "File/The%2044-Hour%20Cover%20Photo.jpg"
 ---
-<a class="internal-link" href="../File/The 44-Hour Cover Photo.jpg.md"><img src="../File/The%2044-Hour%20Cover%20Photo.jpg" alt="Publicity image for the 44-Hour Improv Marathon." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/The 44-Hour Cover Photo.jpg.md"><img src="File/The%2044-Hour%20Cover%20Photo.jpg" alt="Publicity image for the 44-Hour Improv Marathon." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **The 44-Hour Improv Marathon** was the fifth annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].
 

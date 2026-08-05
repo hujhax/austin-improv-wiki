@@ -1,7 +1,7 @@
 ---
 description: "The default image for a performer."
 ---
-<div style="text-align: center;"><img src="Performer Default Image.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Performer Default Image.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The default image for a performer.

@@ -1,7 +1,7 @@
 ---
 description: "The five cheer leads of Blood, Sweat, and Cheers."
 ---
-<div style="text-align: center;"><img src="Blood, Sweat, and Cheers pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Blood, Sweat, and Cheers pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The five cheer leads of *[[Shows/Blood, Sweat, and Cheers|Blood, Sweat, and Cheers]]*.

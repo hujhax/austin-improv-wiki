@@ -1,7 +1,7 @@
 ---
 description: "Photo by Steve Rogers."
 ---
-<div style="text-align: center;"><img src="Andreas.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Andreas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo by [[Steve Rogers]].

@@ -1,7 +1,7 @@
 ---
 description: "Sarah Marie Curry performing with Girls Girls Girls at the..."
 ---
-<div style="text-align: center;"><img src="SarahMarie.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/SarahMarie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Sarah Marie Curry|Sarah Marie Curry]] performing with [[Troupes/Girls Girls Girls|Girls Girls Girls]] at the [[Theatres/Merlin Works|Merlin Works]] Grand Opening on 1/13/13.

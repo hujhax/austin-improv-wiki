@@ -1,7 +1,7 @@
 ---
 description: "The set for Fiasco."
 ---
-<div style="text-align: center;"><img src="Fiasco Set.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Fiasco Set.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The set for *[[Shows/Fiasco|Fiasco]]*.

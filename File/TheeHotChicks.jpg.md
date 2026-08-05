@@ -1,7 +1,7 @@
 ---
 description: "Promotional photo by Jon Bolden."
 ---
-<div style="text-align: center;"><img src="TheeHotChicks.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/TheeHotChicks.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo by [[Performers/Jon Bolden|Jon Bolden]].

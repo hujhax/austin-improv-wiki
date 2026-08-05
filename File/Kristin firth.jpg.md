@@ -1,7 +1,7 @@
 ---
 description: "Kristin Firth performing in Firth & Arjet at The Hideout..."
 ---
-<div style="text-align: center;"><img src="Kristin firth.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Kristin firth.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Kristin Firth|Kristin Firth]] performing in [[Troupes/Firth & Arjet|Firth & Arjet]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]], in their final performance at *[[Shows/The Free Fringe|The Free Fringe]]* on 8/9/12.

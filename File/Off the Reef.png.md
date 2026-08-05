@@ -1,7 +1,7 @@
 ---
 description: "Publicity banner art for Off the Reef."
 ---
-<div style="text-align: center;"><img src="Off the Reef.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Off the Reef.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity banner art for *[[Shows/Off the Reef|Off the Reef]]*.

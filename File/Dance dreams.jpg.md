@@ -1,7 +1,7 @@
 ---
 description: "Promo image for Dance Dreams."
 ---
-<div style="text-align: center;"><img src="Dance dreams.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dance dreams.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo image for *[[Shows/Dance Dreams|Dance Dreams]]*.

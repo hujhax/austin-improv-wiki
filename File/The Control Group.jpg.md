@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of The Control Group."
 ---
-<div style="text-align: center;"><img src="The Control Group.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Control Group.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[Troupes/The Control Group|The Control Group]].

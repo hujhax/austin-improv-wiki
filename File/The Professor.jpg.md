@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for the 2012 run of The Professor."
 ---
-<div style="text-align: center;"><img src="The Professor.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for the 2012 run of [[Troupes/The Professor|The Professor]].

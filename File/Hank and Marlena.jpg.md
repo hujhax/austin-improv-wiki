@@ -1,7 +1,7 @@
 ---
 description: "Photo of Tyler Reece Booker and Taylor Overstreet as Hank..."
 ---
-<div style="text-align: center;"><img src="Hank and Marlena.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Hank and Marlena.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of Tyler Reece Booker and [[Performers/Taylor Overstreet|Taylor Overstreet]] as [[Troupes/Hank and Marlena|Hank and Marlena]].

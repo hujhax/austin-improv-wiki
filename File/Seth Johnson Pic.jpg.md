@@ -1,7 +1,7 @@
 ---
 description: "Photo of Seth Johnson."
 ---
-<div style="text-align: center;"><img src="Seth Johnson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Seth Johnson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Performers/Seth Johnson|Seth Johnson]].

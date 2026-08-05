@@ -1,7 +1,7 @@
 ---
 description: "Photo of Philip Aulie taken by Kaci Beeler."
 ---
-<div style="text-align: center;"><img src="Philspin.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Philspin.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Performers/Philip Aulie|Philip Aulie]] taken by [[Performers/Kaci Beeler|Kaci Beeler]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Improv for Evil."
 ---
-<div style="text-align: center;"><img src="Improv for Evil.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Improv for Evil.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Troupes/Improv For Evil|Improv For Evil]].

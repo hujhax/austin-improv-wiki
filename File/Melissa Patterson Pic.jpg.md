@@ -1,7 +1,7 @@
 ---
 description: "Melissa Patterson, in the 2/8/14 performance of What the F@*$."
 ---
-<div style="text-align: center;"><img src="Melissa Patterson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Melissa Patterson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Melissa Patterson|Melissa Patterson]], in the 2/8/14 performance of *[[Shows/What the F@$|What the F@$]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of The Team."
 ---
-<div style="text-align: center;"><img src="The Team.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Team.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/The Team|The Team]].

@@ -1,7 +1,7 @@
 ---
 description: "Mike and Irene, performing at The Hideout Theatre."
 ---
-<div style="text-align: center;"><img src="MikeIrene.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/MikeIrene.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Mike and Irene|Mike and Irene]], performing at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

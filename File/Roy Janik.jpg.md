@@ -1,7 +1,7 @@
 ---
 description: "Roy Janik, performing in Austin Secrets at Wafflefest 2012."
 ---
-<div style="text-align: center;"><img src="Roy Janik.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Roy Janik.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Roy Janik|Roy Janik]], performing in [[Shows/Austin Secrets|Austin Secrets]] at [[Festivals/Wafflefest|Wafflefest]] 2012.

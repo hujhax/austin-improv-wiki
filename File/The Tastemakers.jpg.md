@@ -1,7 +1,7 @@
 ---
 description: "The Tastemakers, in their 1/31/14 performance at The Institution Theater."
 ---
-<div style="text-align: center;"><img src="The Tastemakers.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Tastemakers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/The Tastemakers|The Tastemakers]], in their 1/31/14 performance at [[Theatres/The Institution Theater|The Institution Theater]].

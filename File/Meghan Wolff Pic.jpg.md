@@ -1,7 +1,7 @@
 ---
 description: "Meghan Wolff, in the 4/17/10 performance of Apocalypse!"
 ---
-<div style="text-align: center;"><img src="Meghan Wolff Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Meghan Wolff Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Meghan Wolff|Meghan Wolff]], in the 4/17/10 performance of *[[Shows/Apocalypse! (Show)|Apocalypse!]]*

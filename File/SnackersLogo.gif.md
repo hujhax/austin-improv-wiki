@@ -1,7 +1,7 @@
 ---
 description: "The Snackers logo."
 ---
-<div style="text-align: center;"><img src="SnackersLogo.gif" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/SnackersLogo.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The [[Troupes/Snackers|Snackers]] logo.

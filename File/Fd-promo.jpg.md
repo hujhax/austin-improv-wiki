@@ -1,7 +1,7 @@
 ---
 description: "Franz & Dave perform at The Institution Theater."
 ---
-<div style="text-align: center;"><img src="Fd-promo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Fd-promo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Franz & Dave|Franz & Dave]] perform at [[Theatres/The Institution Theater|The Institution Theater]].

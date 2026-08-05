@@ -1,7 +1,7 @@
 ---
 description: "Brad Hawkins, in the 10.27.12 performance of The Black Vault."
 ---
-<div style="text-align: center;"><img src="Brad Hawkins.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Brad Hawkins.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Brad Hawkins|Brad Hawkins]], in the 10.27.12 performance of *[[Shows/The Black Vault|The Black Vault]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Gerrbobble."
 ---
-<div style="text-align: center;"><img src="Gerrbobble.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Gerrbobble.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Gerrbobble|Gerrbobble]].

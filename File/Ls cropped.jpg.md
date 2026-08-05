@@ -1,7 +1,7 @@
 ---
 description: "Photo of Luis Salinas."
 ---
-<div style="text-align: center;"><img src="Ls cropped.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Ls cropped.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Performers/Luis Salinas|Luis Salinas]].

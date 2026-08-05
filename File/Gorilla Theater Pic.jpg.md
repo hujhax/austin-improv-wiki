@@ -1,7 +1,7 @@
 ---
 description: "Lauren Buck and Dan O'Connor play in a talk-show game..."
 ---
-<div style="text-align: center;"><img src="Gorilla Theater Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Gorilla Theater Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Lauren Buck|Lauren Buck]] and Dan O'Connor play in a talk-show game as part of the 5/24/02 performance of *[[Shows/Gorilla Theater|Gorilla Theater]]*.

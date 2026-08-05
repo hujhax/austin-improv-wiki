@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for TheatreSports."
 ---
-<div style="text-align: center;"><img src="TheatreSports.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/TheatreSports.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 publicity image for [[Shows/Theatresports (mainstage run)|TheatreSports]].

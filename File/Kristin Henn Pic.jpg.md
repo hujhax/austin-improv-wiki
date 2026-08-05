@@ -1,7 +1,7 @@
 ---
 description: "Kristin Henn, performing with Oh, Science!"
 ---
-<div style="text-align: center;"><img src="Kristin Henn Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Kristin Henn Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Kristin Henn|Kristin Henn]], performing with [[Troupes/Oh, Science!|Oh, Science!]] at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]] on 8/28/12.

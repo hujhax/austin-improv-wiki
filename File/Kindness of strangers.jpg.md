@@ -1,7 +1,7 @@
 ---
 description: "Promotional poster for Kindness of Strangers."
 ---
-<div style="text-align: center;"><img src="Kindness of strangers.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Kindness of strangers.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 promotional poster for Kindness of Strangers

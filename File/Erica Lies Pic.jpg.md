@@ -1,7 +1,7 @@
 ---
 description: "Erica Lies accepts the \"Favorite Female Performer\" award at The..."
 ---
-<div style="text-align: center;"><img src="Erica Lies Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Erica Lies Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Erica Lies|Erica Lies]] accepts the "Favorite Female Performer" award at [[The 2014 Institution Theater Awards]].

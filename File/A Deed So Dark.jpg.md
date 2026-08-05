@@ -1,7 +1,7 @@
 ---
 description: "Poster for A Deed So Dark, featuring Kareem Badr."
 ---
-<div style="text-align: center;"><img src="A Deed So Dark.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/A Deed So Dark.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/A Deed So Dark|A Deed So Dark]]*, featuring [[Performers/Kareem Badr|Kareem Badr]].

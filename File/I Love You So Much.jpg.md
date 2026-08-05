@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for I Love You So Much."
 ---
-<div style="text-align: center;"><img src="I Love You So Much.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/I Love You So Much.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/I Love You So Much|I Love You So Much]]*.

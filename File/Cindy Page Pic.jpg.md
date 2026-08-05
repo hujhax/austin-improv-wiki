@@ -1,7 +1,7 @@
 ---
 description: "Cindy Page, in the booth for The Black Vault on..."
 ---
-<div style="text-align: center;"><img src="Cindy Page Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Cindy Page Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Cindy Page|Cindy Page]], in the booth for *[[Shows/The Black Vault|The Black Vault]]* on 9/8/12.

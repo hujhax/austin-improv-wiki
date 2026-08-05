@@ -1,7 +1,7 @@
 ---
 description: "Stephen Robinson as Wash in the 5/15/12 performance of Live..."
 ---
-<div style="text-align: center;"><img src="Stephen Robinson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Stephen Robinson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Stephen Robinson|Stephen Robinson]] as Wash in the 5/15/12 performance of *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*.

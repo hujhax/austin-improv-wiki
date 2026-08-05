@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Puppet Fever."
 ---
-<div style="text-align: center;"><img src="Puppet Fever.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Puppet Fever.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Puppet Fever|Puppet Fever]]*.

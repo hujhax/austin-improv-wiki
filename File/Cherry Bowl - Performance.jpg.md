@@ -1,7 +1,7 @@
 ---
 description: "Jayme Ramsay dances in the 2/25/12 performance of The Cherry..."
 ---
-<div style="text-align: center;"><img src="Cherry Bowl - Performance.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Cherry Bowl - Performance.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jayme Ramsay|Jayme Ramsay]] dances (while [[Performers/Emily Breedlove|Emily Breedlove]] holds [[Performers/Brad Hawkins|Brad Hawkins]] back) in the 2/25/12 performance of *[[Shows/The Cherry Bowl|The Cherry Bowl]]*.

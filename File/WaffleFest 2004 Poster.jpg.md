@@ -1,7 +1,7 @@
 ---
 description: "Poster for WaffleFest 2004."
 ---
-<div style="text-align: center;"><img src="WaffleFest 2004 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/WaffleFest 2004 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[Festivals/WaffleFest 2004|WaffleFest 2004]].

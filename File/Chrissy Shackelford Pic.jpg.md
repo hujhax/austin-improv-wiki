@@ -1,7 +1,7 @@
 ---
 description: "Casual photo of Chrissy Shackelford."
 ---
-<div style="text-align: center;"><img src="Chrissy Shackelford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Chrissy Shackelford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual photo of [[Performers/Chrissy Shackelford|Chrissy Shackelford]].

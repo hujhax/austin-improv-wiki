@@ -1,7 +1,7 @@
 ---
 description: "Grey Matters performing at Hyde Park Theater on 5.22.11."
 ---
-<div style="text-align: center;"><img src="Grey Matters.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Grey Matters.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Grey Matters|Grey Matters]] performing at Hyde Park Theater on 5.22.11.

@@ -1,7 +1,7 @@
 ---
 description: "Carissa McAtee, in the aftermath of the 2011 Bloody Balloon..."
 ---
-<div style="text-align: center;"><img src="Carissa McAtee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Carissa McAtee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Carissa McAtee|Carissa McAtee]], in the aftermath of the 2011 [[The Bloody Balloon Battle|Bloody Balloon Battle]].

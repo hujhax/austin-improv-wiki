@@ -1,7 +1,7 @@
 ---
 description: "Picture of improv performer Jayme Ramsay, performing in Austin Secrets..."
 ---
-<div style="text-align: center;"><img src="Jayme Ramsay.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jayme Ramsay.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Picture of improv performer [[Performers/Jayme Ramsay|Jayme Ramsay]], performing in *[[Shows/Austin Secrets|Austin Secrets]]* on 2012-12-15.

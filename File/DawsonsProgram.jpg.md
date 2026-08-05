@@ -1,7 +1,7 @@
 ---
 description: "Program for Live TV Tuesdays: Dawson's Creek."
 ---
-<div style="text-align: center;"><img src="DawsonsProgram.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/DawsonsProgram.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Program for *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]*.

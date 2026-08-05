@@ -1,7 +1,7 @@
 ---
 description: "Logo for the New Movement theater."
 ---
-<div style="text-align: center;"><img src="TNM logo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/TNM logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for the New Movement theater.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Pick Your Own Path; art by Kaci..."
 ---
-<div style="text-align: center;"><img src="Pick Your Own Path.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Pick Your Own Path.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Shows/Pick Your Own Path|Pick Your Own Path]]*; art by [[Performers/Kaci Beeler|Kaci Beeler]].

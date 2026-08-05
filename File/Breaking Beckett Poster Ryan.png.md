@@ -1,7 +1,7 @@
 ---
 description: "Promotional poster for Breaking Beckett."
 ---
-<div style="text-align: center;"><img src="Breaking Beckett Poster Ryan.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Breaking Beckett Poster Ryan.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional poster for *[[Shows/Breaking Beckett|Breaking Beckett]]*.

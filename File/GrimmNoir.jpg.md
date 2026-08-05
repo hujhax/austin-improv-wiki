@@ -1,7 +1,7 @@
 ---
 description: "GrimmNoir performing in The 2012 Improvised Play Festival."
 ---
-<div style="text-align: center;"><img src="GrimmNoir.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/GrimmNoir.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Shows/GrimmNoir|GrimmNoir]] performing in [[Festivals/The 2012 Improvised Play Festival|The 2012 Improvised Play Festival]].

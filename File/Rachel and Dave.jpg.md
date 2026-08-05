@@ -1,7 +1,7 @@
 ---
 description: "Rachel and Dave perform at The Hideout Theatre, 12/9/10."
 ---
-<div style="text-align: center;"><img src="Rachel and Dave.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Rachel and Dave.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Rachel and Dave|Rachel and Dave]] perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]], 12/9/10.

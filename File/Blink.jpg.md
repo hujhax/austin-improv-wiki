@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Blink, 2010."
 ---
-<div style="text-align: center;"><img src="Blink.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Blink.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Troupes/Blink|Blink]], 2010.

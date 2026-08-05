@@ -1,7 +1,7 @@
 ---
 description: "Heidi Caldwell accepts one of several awards at The 2013..."
 ---
-<div style="text-align: center;"><img src="Heidi Caldwell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Heidi Caldwell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Heidi Caldwell|Heidi Caldwell]] accepts one of several awards at [[The 2013 Institution Theater Awards]].

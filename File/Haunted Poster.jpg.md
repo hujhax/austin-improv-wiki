@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Haunted."
 ---
-<div style="text-align: center;"><img src="Haunted Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Haunted Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Haunted|Haunted]]*.

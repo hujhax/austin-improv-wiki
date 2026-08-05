@@ -1,7 +1,7 @@
 ---
 description: "Sarah Swofford, on the red carpet at The 2013 Institution..."
 ---
-<div style="text-align: center;"><img src="Sarah Swofford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Sarah Swofford Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Sarah Swofford|Sarah Swofford]], on the red carpet at [[The 2013 Institution Theater Awards]].

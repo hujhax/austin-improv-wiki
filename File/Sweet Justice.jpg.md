@@ -1,7 +1,7 @@
 ---
 description: "Backstage photo of Sweet Justice."
 ---
-<div style="text-align: center;"><img src="Sweet Justice.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Sweet Justice.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Backstage photo of [[Troupes/Sweet Justice|Sweet Justice]].

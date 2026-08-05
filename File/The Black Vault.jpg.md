@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Black Vault."
 ---
-<div style="text-align: center;"><img src="The Black Vault.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Black Vault.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/The Black Vault|The Black Vault]]*.

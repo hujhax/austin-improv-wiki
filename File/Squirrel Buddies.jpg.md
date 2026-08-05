@@ -1,7 +1,7 @@
 ---
 description: "Taken from the Squirrel Buddies facebook page."
 ---
-<div style="text-align: center;"><img src="Squirrel Buddies.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Squirrel Buddies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Taken from [the Squirrel Buddies facebook page](http://www.facebook.com/squirrelbuddies/photos_stream).

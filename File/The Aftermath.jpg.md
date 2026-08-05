@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for The Aftermath."
 ---
-<div style="text-align: center;"><img src="The Aftermath.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Aftermath.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/The Aftermath|The Aftermath]]*.

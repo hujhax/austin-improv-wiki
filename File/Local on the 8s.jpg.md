@@ -1,7 +1,7 @@
 ---
 description: "Promotional Poster for Local on the Eights."
 ---
-<div style="text-align: center;"><img src="Local on the 8s.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Local on the 8s.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional Poster for Local on the Eights

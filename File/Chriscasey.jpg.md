@@ -1,7 +1,7 @@
 ---
 description: "Chris and fellow Space Swank member Jessica Soos."
 ---
-<div style="text-align: center;"><img src="Chriscasey.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Chriscasey.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Chris and fellow Space Swank member Jessica Soos.

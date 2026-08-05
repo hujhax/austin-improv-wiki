@@ -2,7 +2,7 @@
 description: "Twelfth annual WaffleFest."
 image: "File/WaffleFest%202013%20Publicity%20Art.jpg"
 ---
-<a class="internal-link" href="../File/WaffleFest 2013 Publicity Art.jpg.md"><img src="../File/WaffleFest%202013%20Publicity%20Art.jpg" alt="Publicity art for WaffleFest 2013." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/WaffleFest 2013 Publicity Art.jpg.md"><img src="File/WaffleFest%202013%20Publicity%20Art.jpg" alt="Publicity art for WaffleFest 2013." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **WaffleFest 2013** was the twelfth annual [[Festivals/Wafflefest|Wafflefest]].
 

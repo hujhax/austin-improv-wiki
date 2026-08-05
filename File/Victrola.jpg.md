@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Victrola."
 ---
-<div style="text-align: center;"><img src="Victrola.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Victrola.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Shows/Victrola|Victrola]]*.

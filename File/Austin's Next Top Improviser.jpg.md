@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Austin's Next Top Improviser."
 ---
-<div style="text-align: center;"><img src="Austin's Next Top Improviser.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Austin's Next Top Improviser.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Austin's Next Top Improviser|Austin's Next Top Improviser]]*.

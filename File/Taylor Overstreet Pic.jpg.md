@@ -1,7 +1,7 @@
 ---
 description: "Self-portrait by Taylor Overstreet."
 ---
-<div style="text-align: center;"><img src="Taylor Overstreet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Taylor Overstreet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Self-portrait by [[Performers/Taylor Overstreet|Taylor Overstreet]].

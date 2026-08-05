@@ -1,7 +1,7 @@
 ---
 description: "Combatants in the 2012 Bloody Balloon Battle."
 ---
-<div style="text-align: center;"><img src="BalloonBattle.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/BalloonBattle.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Combatants in the 2012 [[Bloody Balloon Battle]].

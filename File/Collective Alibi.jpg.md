@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Collective Alibi."
 ---
-<div style="text-align: center;"><img src="Collective Alibi.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Collective Alibi.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Collective Alibi|Collective Alibi]].

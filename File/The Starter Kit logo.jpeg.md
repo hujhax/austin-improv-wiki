@@ -1,7 +1,7 @@
 ---
 description: "Logo for The Starter Kit."
 ---
-<div style="text-align: center;"><img src="The Starter Kit logo.jpeg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Starter Kit logo.jpeg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo for [[Troupes/The Starter Kit|The Starter Kit]]. 

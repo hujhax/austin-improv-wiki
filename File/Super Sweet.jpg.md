@@ -1,7 +1,7 @@
 ---
 description: "Backstage photo of Super Sweet."
 ---
-<div style="text-align: center;"><img src="Super Sweet.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Super Sweet.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Backstage photo of [[Troupes/Super Sweet|Super Sweet]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity graphic for Past Lives."
 ---
-<div style="text-align: center;"><img src="PastLivesIPF2013Poster.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/PastLivesIPF2013Poster.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity graphic for *[[Shows/Past Lives|Past Lives]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Mike Kinald, performing in the premiere of The Tribunal on..."
 ---
-<div style="text-align: center;"><img src="Mike Kinald Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Mike Kinald Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Mike Kinald|Mike Kinald]], performing in the premiere of *[[Shows/The Tribunal|The Tribunal]]* on 9/28/12.

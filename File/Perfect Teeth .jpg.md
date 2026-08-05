@@ -1,7 +1,7 @@
 ---
 description: "Perfect Teeth, performing in their 12/7/14 debut."
 ---
-<div style="text-align: center;"><img src="Perfect Teeth .jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Perfect Teeth .jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Perfect Teeth|Perfect Teeth]], performing in their 12/7/14 debut.

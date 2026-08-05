@@ -1,7 +1,7 @@
 ---
 description: "The debut performance of IHOP Lovecraft at the 4/11/11 Monday..."
 ---
-<div style="text-align: center;"><img src="IHOP Lovecraft.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/IHOP Lovecraft.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The debut performance of [[Troupes/IHOP Lovecraft|IHOP Lovecraft]] at the 4/11/11 *[[Shows/Monday Night Mash|Monday Night Mash]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Sample gameplay from The Hideout Text Adventure."
 ---
-<div style="text-align: center;"><img src="Hideout Text Adventure Gamplay.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Hideout Text Adventure Gamplay.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Sample gameplay from [[The Hideout Text Adventure]].

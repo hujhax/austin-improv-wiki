@@ -1,7 +1,7 @@
 ---
 description: "Sushant Sethi in the Aftermath section of the 10/18/14 \"Student..."
 ---
-<div style="text-align: center;"><img src="Sushant Sethi.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Sushant Sethi.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Sushant Sethi|Sushant Sethi]] in the *[[Shows/Aftermath|Aftermath]]* section of the 10/18/14 "[[Lists/List of Hideout Mainstage Shows in Chronological Order#Student_Mainstage_Shows|Student Mainstage]] Sampler" show.

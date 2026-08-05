@@ -1,7 +1,7 @@
 ---
 description: "Headshot of Timothy Coyle."
 ---
-<div style="text-align: center;"><img src="Timcoyle.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Timcoyle.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Headshot of Timothy Coyle.

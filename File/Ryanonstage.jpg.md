@@ -1,7 +1,7 @@
 ---
 description: "Ryan Hill performing at the Hideout Theatre in 2012."
 ---
-<div style="text-align: center;"><img src="Ryanonstage.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Ryanonstage.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Ryan Hill|Ryan Hill]] performing at [[Theatres/The Hideout Theatre|The Hideout Theatre]] in 2012.

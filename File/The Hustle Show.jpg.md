@@ -1,7 +1,7 @@
 ---
 description: "Banner art for The Hustle Show."
 ---
-<div style="text-align: center;"><img src="The Hustle Show.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Hustle Show.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Banner art for *[[Shows/The Hustle Show|The Hustle Show]]*.

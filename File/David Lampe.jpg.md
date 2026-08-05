@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of David Lampe for The Violet Underbelly."
 ---
-<div style="text-align: center;"><img src="David Lampe.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/David Lampe.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Performers/David Lampe|David Lampe]] for *[[Shows/The Violet Underbelly|The Violet Underbelly]]*.

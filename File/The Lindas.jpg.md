@@ -1,7 +1,7 @@
 ---
 description: "The Lindas, performing in The 2011 Ladies Are Funny Festival."
 ---
-<div style="text-align: center;"><img src="The Lindas.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Lindas.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/The Lindas|The Lindas]], performing in [[Festivals/The 2011 Ladies Are Funny Festival|The 2011 Ladies Are Funny Festival]].

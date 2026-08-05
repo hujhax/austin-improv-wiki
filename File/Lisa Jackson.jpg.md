@@ -1,7 +1,7 @@
 ---
 description: "Lisa Jackson performing with Galactic at The 2012 Out of..."
 ---
-<div style="text-align: center;"><img src="Lisa Jackson.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Lisa Jackson.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Lisa Jackson|Lisa Jackson]] performing with [[Troupes/Galactic|Galactic]] at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].

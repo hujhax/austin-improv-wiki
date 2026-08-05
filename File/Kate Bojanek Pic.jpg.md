@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Kate Bojanek for Elf Employment."
 ---
-<div style="text-align: center;"><img src="Kate Bojanek Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Kate Bojanek Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Performers/Kate Bojanek|Kate Bojanek]] for *[[Shows/Elf Employment|Elf Employment]]*.

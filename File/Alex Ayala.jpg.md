@@ -1,7 +1,7 @@
 ---
 description: "Alex Ayala performing in Trust No One at the Institution..."
 ---
-<div style="text-align: center;"><img src="Alex Ayala.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Alex Ayala.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Alex Ayala performing in Trust No One at the Institution Theater.

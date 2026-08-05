@@ -9,7 +9,7 @@ image: "File/Chris%20Kyle%20American%20Improvisers.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Chris Kyle American Improvisers.jpg.md"><img src="../File/Chris%20Kyle%20American%20Improvisers.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Chris Kyle American Improvisers.jpg.md"><img src="File/Chris%20Kyle%20American%20Improvisers.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

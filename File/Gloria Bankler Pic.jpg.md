@@ -1,7 +1,7 @@
 ---
 description: "Gloria Bankler performing."
 ---
-<div style="text-align: center;"><img src="Gloria Bankler Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Gloria Bankler Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Gloria Bankler|Gloria Bankler]] performing.

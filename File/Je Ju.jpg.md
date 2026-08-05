@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Je Ju."
 ---
-<div style="text-align: center;"><img src="Je Ju.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Je Ju.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Je Ju|Je Ju]].

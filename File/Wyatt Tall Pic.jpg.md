@@ -1,7 +1,7 @@
 ---
 description: "Wyatt Tall, performing in Only Three Will Survive on 8/17/12."
 ---
-<div style="text-align: center;"><img src="Wyatt Tall Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Wyatt Tall Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Wyatt Tall|Wyatt Tall]], performing in *[[Shows/Only Three Will Survive|Only Three Will Survive]]* on 8/17/12.

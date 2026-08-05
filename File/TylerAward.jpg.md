@@ -1,7 +1,7 @@
 ---
 description: "Tyler Reece Booker accepts a TITie at The 2013 Institution..."
 ---
-<div style="text-align: center;"><img src="TylerAward.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/TylerAward.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Tyler Reece Booker accepts a [[Institution Theater Awards|TITie]] at [[The 2013 Institution Theater Awards]].

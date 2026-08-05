@@ -1,7 +1,7 @@
 ---
 description: "Chris Albano in a 5/12/13 student show at The Institution..."
 ---
-<div style="text-align: center;"><img src="Chris Albano Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Chris Albano Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Chris Albano|Chris Albano]] in a 5/12/13 student show at [[Theatres/The Institution Theater|The Institution Theater]].

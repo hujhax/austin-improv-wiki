@@ -1,7 +1,7 @@
 ---
 description: "Rachel Madorsky performing with Rachel and Dave in their 8/31/11..."
 ---
-<div style="text-align: center;"><img src="Rachel Madorsky Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Rachel Madorsky Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Rachel Madorsky|Rachel Madorsky]] performing with [[Troupes/Rachel and Dave|Rachel and Dave]] in their 8/31/11 performance at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].

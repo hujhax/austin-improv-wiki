@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Cover to Cover, featuring director Audrey Rachel..."
 ---
-<div style="text-align: center;"><img src="Cover to Cover.gif" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Cover to Cover.gif" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Shows/Cover to Cover|Cover to Cover]]*, featuring director [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]].

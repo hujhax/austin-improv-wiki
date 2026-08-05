@@ -1,7 +1,7 @@
 ---
 description: "Flyer from the final, October 2003 show from Well Hung..."
 ---
-<div style="text-align: center;"><img src="WHJ Final Show Flyer.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/WHJ Final Show Flyer.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Flyer from the final, October 2003 show from [[Troupes/Well Hung Jury|Well Hung Jury]].

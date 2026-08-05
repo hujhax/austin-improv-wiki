@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Red Envelope."
 ---
-<div style="text-align: center;"><img src="Red Envelope.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Red Envelope.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Red Envelope|Red Envelope]]*.

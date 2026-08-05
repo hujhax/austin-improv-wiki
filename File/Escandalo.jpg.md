@@ -1,7 +1,7 @@
 ---
 description: "Promo image for ¡Escándalo!, featuring the cast."
 ---
-<div style="text-align: center;"><img src="Escandalo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Escandalo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promo image for [[Shows/¡Escándalo!|¡Escándalo!]], featuring the cast.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Pass the Mic."
 ---
-<div style="text-align: center;"><img src="Pass the Mic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Pass the Mic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Shows/Pass the Mic|Pass the Mic]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Tyler Lane performing."
 ---
-<div style="text-align: center;"><img src="Tyler Lane.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Tyler Lane.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Tyler Lane performing.

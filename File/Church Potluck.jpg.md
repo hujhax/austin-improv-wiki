@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Church Potluck."
 ---
-<div style="text-align: center;"><img src="Church Potluck.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Church Potluck.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Church Potluck|Church Potluck]].

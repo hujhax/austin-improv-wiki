@@ -1,7 +1,7 @@
 ---
 description: "Alex Dobrenko, performing in the \"auditions\" section of the 3/3/12..."
 ---
-<div style="text-align: center;"><img src="Alex Dobrenko Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Alex Dobrenko Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Alex Dobrenko|Alex Dobrenko]], performing in the "auditions" section of the 3/3/12 performance of *[[Shows/Process|Process]]*.

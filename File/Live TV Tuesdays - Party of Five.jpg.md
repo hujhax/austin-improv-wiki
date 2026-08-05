@@ -1,7 +1,7 @@
 ---
 description: "The 8/30/11 performance of Live TV Tuesdays: Party of Five."
 ---
-<div style="text-align: center;"><img src="Live TV Tuesdays - Party of Five.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Live TV Tuesdays - Party of Five.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The 8/30/11 performance of *[[Shows/Live TV Tuesdays -  Party of Five|Live TV Tuesdays -  Party of Five]]*.

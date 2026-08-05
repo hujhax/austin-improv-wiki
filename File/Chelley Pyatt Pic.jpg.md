@@ -1,7 +1,7 @@
 ---
 description: "Chelley Pyatt arrives at the first annual Institution Theater Awards..."
 ---
-<div style="text-align: center;"><img src="Chelley Pyatt Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Chelley Pyatt Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Chelley Pyatt|Chelley Pyatt]] arrives at the first annual [[Institution Theater Awards]] show.

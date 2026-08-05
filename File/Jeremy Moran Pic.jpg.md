@@ -1,7 +1,7 @@
 ---
 description: "Jeremy Moran in the 12/13/14 performance of A Penny Dreadful."
 ---
-<div style="text-align: center;"><img src="Jeremy Moran Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jeremy Moran Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jeremy Moran|Jeremy Moran]] in the 12/13/14 performance of *[[Shows/A Penny Dreadful|A Penny Dreadful]]*.

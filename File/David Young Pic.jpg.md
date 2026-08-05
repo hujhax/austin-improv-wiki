@@ -1,7 +1,7 @@
 ---
 description: "David Young, performing in Live TV Tuesdays: Firefly."
 ---
-<div style="text-align: center;"><img src="David Young Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/David Young Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/David Young|David Young]], performing in *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*.

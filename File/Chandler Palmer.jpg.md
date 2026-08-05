@@ -1,7 +1,7 @@
 ---
 description: "Photo of Chandler Palmer."
 ---
-<div style="text-align: center;"><img src="Chandler Palmer.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Chandler Palmer.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of Chandler Palmer

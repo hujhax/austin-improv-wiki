@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of The Nesting Dolls."
 ---
-<div style="text-align: center;"><img src="The Nesting Dolls.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Nesting Dolls.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[Troupes/The Nesting Dolls|The Nesting Dolls]].

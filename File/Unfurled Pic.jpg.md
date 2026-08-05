@@ -1,7 +1,7 @@
 ---
 description: "2009 photo of Unfurled."
 ---
-<div style="text-align: center;"><img src="Unfurled Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Unfurled Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 2009 photo of [[Troupes/Unfurled|Unfurled]].

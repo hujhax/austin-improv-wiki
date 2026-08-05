@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Dudith."
 ---
-<div style="text-align: center;"><img src="Dudith.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dudith.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Dudith|Dudith]].

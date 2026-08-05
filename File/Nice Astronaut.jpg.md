@@ -1,7 +1,7 @@
 ---
 description: "Nice Astronaut performing in the 12/27/12 Threefer at the Hideout..."
 ---
-<div style="text-align: center;"><img src="Nice Astronaut.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Nice Astronaut.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Nice Astronaut|Nice Astronaut]] performing in the 12/27/12 [[Shows/Threefer|Threefer]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

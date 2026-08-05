@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of JK."
 ---
-<div style="text-align: center;"><img src="JK.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/JK.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[Troupes/JK|JK]].

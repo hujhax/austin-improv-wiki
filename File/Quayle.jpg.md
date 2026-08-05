@@ -1,7 +1,7 @@
 ---
 description: "Quayle performing at Salvage Vanguard Theater."
 ---
-<div style="text-align: center;"><img src="Quayle.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Quayle.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Quayle|Quayle]] performing at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].

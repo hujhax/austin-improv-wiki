@@ -9,7 +9,7 @@ image: "File/Danger%21%20Warning%21%20Improv%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Danger! Warning! Improv!.jpg.md"><img src="../File/Danger!%20Warning!%20Improv!.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Danger! Warning! Improv!.jpg.md"><img src="File/Danger!%20Warning!%20Improv!.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

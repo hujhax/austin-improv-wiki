@@ -1,7 +1,7 @@
 ---
 description: "John Ratliff, Josh Gill, and Roy Janik in their costumes..."
 ---
-<div style="text-align: center;"><img src="Care Bears.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Care Bears.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/John Ratliff|John Ratliff]], [[Performers/Josh Gill|Josh Gill]], and [[Performers/Roy Janik|Roy Janik]] in their costumes for the first *[[Shows/Care Bear Stare|Care Bear Stare]]* show.

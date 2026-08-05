@@ -1,7 +1,7 @@
 ---
 description: "The logo for Puppet Improv Project."
 ---
-<div style="text-align: center;"><img src="PIPLogo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/PIPLogo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The logo for [[Puppet Improv Project]].

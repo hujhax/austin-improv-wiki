@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Safety Word."
 ---
-<div style="text-align: center;"><img src="Safety Word.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Safety Word.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Safety Word|Safety Word]].

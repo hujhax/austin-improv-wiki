@@ -9,7 +9,7 @@ image: "File/A%20Deed%20So%20Dark.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/A Deed So Dark.jpg.md"><img src="../File/A%20Deed%20So%20Dark.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/A Deed So Dark.jpg.md"><img src="File/A%20Deed%20So%20Dark.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -1,7 +1,7 @@
 ---
 description: "Poster for Reform School for Wayward Girls."
 ---
-<div style="text-align: center;"><img src="Reform School for Wayward Girls.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Reform School for Wayward Girls.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Girls]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Cody Dearing performing with Scout on 9/19/2011."
 ---
-<div style="text-align: center;"><img src="Cody Dearing Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Cody Dearing Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Cody Dearing|Cody Dearing]] performing with [[Troupes/Scout|Scout]] on 9/19/2011.

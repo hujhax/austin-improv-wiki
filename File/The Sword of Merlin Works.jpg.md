@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Sword of Merlin Works."
 ---
-<div style="text-align: center;"><img src="The Sword of Merlin Works.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Sword of Merlin Works.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Katie Doran posing with JK at The 2015 Out of..."
 ---
-<div style="text-align: center;"><img src="Katie Doran Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Katie Doran Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Katie Doran|Katie Doran]] (right) posing with [[Troupes/JK|JK]] at [[Festivals/The 2015 Out of Bounds Comedy Festival|The 2015 Out of Bounds Comedy Festival]]'s photobooth.

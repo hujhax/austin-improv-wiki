@@ -1,7 +1,7 @@
 ---
 description: "The 5/24/2011 performance of Live TV Tuesdays: Dawson's Creek."
 ---
-<div style="text-align: center;"><img src="Live TV Tuesdays - Dawson's Creek.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Live TV Tuesdays - Dawson's Creek.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The 5/24/2011 performance of *[[Shows/Live TV Tuesdays -  Dawson's Creek|Live TV Tuesdays -  Dawson's Creek]]*.

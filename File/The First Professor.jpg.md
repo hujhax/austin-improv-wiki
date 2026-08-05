@@ -1,7 +1,7 @@
 ---
 description: "Jordan T. Maxwell plays the First Professor in the 6/23/11..."
 ---
-<div style="text-align: center;"><img src="The First Professor.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The First Professor.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] plays the First Professor in the 6/23/11 performance of [[Troupes/The Professor|The Professor]] in *[[Shows/The Threefer|The Threefer]]*.

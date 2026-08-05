@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Pretty Jack Jaybird."
 ---
-<div style="text-align: center;"><img src="Pretty Jack Jaybird.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Pretty Jack Jaybird.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Pretty Jack Jaybird|Pretty Jack Jaybird]].

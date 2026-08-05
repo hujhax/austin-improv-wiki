@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for Peter Pan and the Great Unknown."
 ---
-<div style="text-align: center;"><img src="Peter Pan and the Great Unknown Placeholder image.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Peter Pan and the Great Unknown Placeholder image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder image for *[[Shows/Peter Pan and the Great Unknown|Peter Pan and the Great Unknown]]*.

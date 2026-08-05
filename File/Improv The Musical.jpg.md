@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for Improv: The Musical."
 ---
-<div style="text-align: center;"><img src="Improv The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Improv The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder image for *[[Shows/Improv -  The Musical|Improv -  The Musical]]*.

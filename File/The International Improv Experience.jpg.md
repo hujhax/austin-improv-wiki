@@ -1,7 +1,7 @@
 ---
 description: "Poster for The International Improv Experience."
 ---
-<div style="text-align: center;"><img src="The International Improv Experience.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The International Improv Experience.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/The International Improv Experience|The International Improv Experience]]*.

@@ -9,7 +9,7 @@ image: "File/Waterpark%20Publicity.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Waterpark Publicity.jpg.md"><img src="../File/Waterpark%20Publicity.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Waterpark Publicity.jpg.md"><img src="File/Waterpark%20Publicity.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -74,7 +74,7 @@ image: "File/Waterpark%20Publicity.jpg"
 	</table>
 </div>
 
-<a class="internal-link" href="../File/Waterpark Performance.jpg.md"><img src="../File/Waterpark%20Performance.jpg" alt="A Waterpark performance." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/Waterpark Performance.jpg.md"><img src="File/Waterpark%20Performance.jpg" alt="A Waterpark performance." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **Waterpark** is a musical improv troupe that is based out of [[Theatres/The New Movement Theater|The New Movement Theater]].
 

@@ -1,7 +1,7 @@
 ---
 description: "Banner image for Highly Suggestible."
 ---
-<div style="text-align: center;"><img src="Highly Suggestible.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Highly Suggestible.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Banner image for *[[Shows/Highly Suggestible|Highly Suggestible]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Jessie Pascarelli, volunteering at the 2012 Wafflefest."
 ---
-<div style="text-align: center;"><img src="Jessie Pascarelli Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jessie Pascarelli Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jessie Pascarelli|Jessie Pascarelli]], volunteering at the 2012 [[Festivals/Wafflefest|Wafflefest]].

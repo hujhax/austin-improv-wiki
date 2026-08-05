@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Galactic."
 ---
-<div style="text-align: center;"><img src="Galactic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Galactic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Troupes/Galactic|Galactic]].

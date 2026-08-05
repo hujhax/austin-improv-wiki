@@ -1,7 +1,7 @@
 ---
 description: "Megan and Quinn Website Landing Page Image."
 ---
-<div style="text-align: center;"><img src="MeganQuinn2.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/MeganQuinn2.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Megan and Quinn Website Landing Page Image

@@ -1,7 +1,7 @@
 ---
 description: "Robert Slack, in the 9/20/15 performance by Golden."
 ---
-<div style="text-align: center;"><img src="Robert Slack Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Robert Slack Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Robert Slack|Robert Slack]], in the 9/20/15 performance by [[Troupes/Golden|Golden]].

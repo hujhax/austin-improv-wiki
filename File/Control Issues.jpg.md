@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Control Issues."
 ---
-<div style="text-align: center;"><img src="Control Issues.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Control Issues.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/Control Issues|Control Issues]]*.

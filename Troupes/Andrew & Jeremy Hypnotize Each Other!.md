@@ -8,7 +8,7 @@ image: "File/Andrew%20%26%20Jeremy%20Hypnotize%20Each%20Other%21.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Andrew & Jeremy Hypnotize Each Other!.png.md"><img src="../File/Andrew%20&%20Jeremy%20Hypnotize%20Each%20Other!.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Andrew & Jeremy Hypnotize Each Other!.png.md"><img src="File/Andrew%20&%20Jeremy%20Hypnotize%20Each%20Other!.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

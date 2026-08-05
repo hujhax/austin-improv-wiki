@@ -1,7 +1,7 @@
 ---
 description: "Framed poster for Whirled News Tonight."
 ---
-<div style="text-align: center;"><img src="Whirled News Tonight.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Whirled News Tonight.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Framed poster for *[[Shows/Whirled News Tonight|Whirled News Tonight]]*.

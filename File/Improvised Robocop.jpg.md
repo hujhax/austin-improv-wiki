@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Improvised Robocop."
 ---
-<div style="text-align: center;"><img src="Improvised Robocop.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Improvised Robocop.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Improvised Robocop|Improvised Robocop]].

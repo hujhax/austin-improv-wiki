@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Meal of Sides."
 ---
-<div style="text-align: center;"><img src="Meal of Sides.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Meal of Sides.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Meal of Sides|Meal of Sides]].

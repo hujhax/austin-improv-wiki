@@ -1,7 +1,7 @@
 ---
 description: "Photo of Andrew & Jeremy Hypnotize Each Other!"
 ---
-<div style="text-align: center;"><img src="Andrew & Jeremy Hypnotize Each Other!.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Andrew & Jeremy Hypnotize Each Other!.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Troupes/Andrew & Jeremy Hypnotize Each Other!|Andrew & Jeremy Hypnotize Each Other!]]

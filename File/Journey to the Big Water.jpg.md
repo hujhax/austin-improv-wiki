@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Journey to the Big Water."
 ---
-<div style="text-align: center;"><img src="Journey to the Big Water.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Journey to the Big Water.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for [[Troupes/Journey To The Big Water|Journey To The Big Water]].

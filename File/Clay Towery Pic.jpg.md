@@ -1,7 +1,7 @@
 ---
 description: "Promotional photo of Clay Towery for Showdown."
 ---
-<div style="text-align: center;"><img src="Clay Towery Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Clay Towery Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo of [[Performers/Clay Towery|Clay Towery]] for *[[Shows/Showdown|Showdown]]*.

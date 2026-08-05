@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for The Glamping Trip."
 ---
-<div style="text-align: center;"><img src="The Glamping Trip.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Glamping Trip.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for [[Troupes/The Glamping Trip|The Glamping Trip]].

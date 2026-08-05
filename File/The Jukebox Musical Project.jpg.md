@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for \"In the Air Tonight\", a performance from..."
 ---
-<div style="text-align: center;"><img src="The Jukebox Musical Project.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Jukebox Musical Project.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for "In the Air Tonight", a performance from [[Shows/The Jukebox Musical Project|The Jukebox Musical Project]].

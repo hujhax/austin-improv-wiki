@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of ColorWheel."
 ---
-<div style="text-align: center;"><img src="ColorWheel.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/ColorWheel.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/ColorWheel|ColorWheel]].

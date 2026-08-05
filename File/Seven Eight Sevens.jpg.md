@@ -1,7 +1,7 @@
 ---
 description: "The Seven Eight Sevens performing at ColdTowne Theater on 4/1/2013."
 ---
-<div style="text-align: center;"><img src="Seven Eight Sevens.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Seven Eight Sevens.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The [[Troupes/Seven Eight Sevens|Seven Eight Sevens]] performing at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 4/1/2013.

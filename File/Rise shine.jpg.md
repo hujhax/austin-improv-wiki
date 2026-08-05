@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Rise & Shine."
 ---
-<div style="text-align: center;"><img src="Rise shine.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Rise shine.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Rise & Shine|Rise & Shine]].

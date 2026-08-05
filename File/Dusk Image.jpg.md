@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for Dusk."
 ---
-<div style="text-align: center;"><img src="Dusk Image.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dusk Image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for *[[Shows/Dusk|Dusk]]*.

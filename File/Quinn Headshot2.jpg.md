@@ -1,4 +1,4 @@
-<div style="text-align: center;"><img src="Quinn Headshot2.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Quinn Headshot2.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Licensing
 The owner of this image has granted free use of this file with no restrictions.

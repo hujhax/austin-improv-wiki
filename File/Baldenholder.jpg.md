@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Baldenholder."
 ---
-<div style="text-align: center;"><img src="Baldenholder.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Baldenholder.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Baldenholder|Baldenholder]].

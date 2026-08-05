@@ -1,7 +1,7 @@
 ---
 description: "Jeremy Sweetlamb in the 3/3/12 performance of Process."
 ---
-<div style="text-align: center;"><img src="Jeremy Sweetlamb Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jeremy Sweetlamb Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Jeremy Sweetlamb|Jeremy Sweetlamb]] in the 3/3/12 ("Hole to Nowhere") performance of *[[Shows/Process|Process]]*.

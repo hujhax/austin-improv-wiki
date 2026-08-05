@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Live TV Tuesdays: Saved by the Bell."
 ---
-<div style="text-align: center;"><img src="Live TV Tuesdays- Saved by the Bell.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Live TV Tuesdays- Saved by the Bell.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]].

@@ -1,7 +1,7 @@
 ---
 description: "There's Waldo presents an award at The 2013 Institution Theater..."
 ---
-<div style="text-align: center;"><img src="TITie2013.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/TITie2013.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/There's Waldo|There's Waldo]] presents an award at [[The 2013 Institution Theater Awards]].

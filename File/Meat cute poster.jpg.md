@@ -1,7 +1,7 @@
 ---
 description: "Poster for Meat Cute."
 ---
-<div style="text-align: center;"><img src="Meat cute poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Meat cute poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/Meat Cute|Meat Cute]]*.

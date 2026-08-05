@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Buckets of Buckets."
 ---
-<div style="text-align: center;"><img src="Buckets of Buckets.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Buckets of Buckets.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Buckets of Buckets|Buckets of Buckets]].

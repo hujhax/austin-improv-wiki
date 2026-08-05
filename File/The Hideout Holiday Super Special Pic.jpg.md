@@ -1,7 +1,7 @@
 ---
 description: "Kaci Beeler, as Rocket Anderson from The Andersons, in publicity..."
 ---
-<div style="text-align: center;"><img src="The Hideout Holiday Super Special Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Hideout Holiday Super Special Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Kaci Beeler|Kaci Beeler]], as Rocket Anderson from *[[Shows/The Andersons|The Andersons]]*, in publicity art for *[[Shows/The Hideout Holiday Super Special|The Hideout Holiday Super Special]]*.

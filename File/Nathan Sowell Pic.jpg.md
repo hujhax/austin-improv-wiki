@@ -1,7 +1,7 @@
 ---
 description: "Photo of Nathan Sowell."
 ---
-<div style="text-align: center;"><img src="Nathan Sowell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Nathan Sowell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Performers/Nathan Sowell|Nathan Sowell]].

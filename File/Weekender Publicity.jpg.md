@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for The Weekender."
 ---
-<div style="text-align: center;"><img src="Weekender Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Weekender Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Shows/The Weekender|The Weekender]]*.

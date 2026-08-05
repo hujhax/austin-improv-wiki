@@ -1,7 +1,7 @@
 ---
 description: "Photo from troupe shoot by Steve Rogers."
 ---
-<div style="text-align: center;"><img src="In Our Prime Three.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/In Our Prime Three.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo from troupe shoot by Steve Rogers.

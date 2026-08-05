@@ -1,7 +1,7 @@
 ---
 description: "Performance by Kazillionaire*."
 ---
-<div style="text-align: center;"><img src="Kazillionaire.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Kazillionaire.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Performance by [[Troupes/Kazillionaire|Kazillionaire]].

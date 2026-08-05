@@ -1,7 +1,7 @@
 ---
 description: "Graduation photo of Rush."
 ---
-<div style="text-align: center;"><img src="Rush.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Rush.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Graduation photo of [[Troupes/RUSH|RUSH]].

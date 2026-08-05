@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Tears But Joy."
 ---
-<div style="text-align: center;"><img src="Tears But Joy Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Tears But Joy Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Tears But Joy|Tears But Joy]].

@@ -1,7 +1,7 @@
 ---
 description: "Ka-Baam!! logo."
 ---
-<div style="text-align: center;"><img src="Ka-Baam!! Logo.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Ka-Baam!! Logo.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 *[[Shows/Ka-Baam!!|Ka-Baam!!]]* logo.

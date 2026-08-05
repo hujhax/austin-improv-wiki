@@ -1,7 +1,7 @@
 ---
 description: "Frogtown Hollow Jubilee Jugband celebrates a Cagematch victory."
 ---
-<div style="text-align: center;"><img src="Frogtown Hollow Jubilee Jugband.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Frogtown Hollow Jubilee Jugband.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Frogtown Hollow Jubilee Jugband|Frogtown Hollow Jubilee Jugband]] celebrates a *[[Shows/Cagematch|Cagematch]]* victory.

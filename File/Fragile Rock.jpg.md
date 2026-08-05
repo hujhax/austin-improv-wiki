@@ -1,7 +1,7 @@
 ---
 description: "Promotional photo of Fragile Rock."
 ---
-<div style="text-align: center;"><img src="Fragile Rock.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Fragile Rock.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional photo of [[Shows/Fragile Rock|Fragile Rock]].

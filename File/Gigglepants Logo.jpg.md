@@ -1,7 +1,7 @@
 ---
 description: "2012-2013 Logo for the University of Texas troupe Gigglepants."
 ---
-<div style="text-align: center;"><img src="Gigglepants Logo.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Gigglepants Logo.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 2012-2013 Logo for the University of Texas troupe [[Troupes/GigglePants|GigglePants]].

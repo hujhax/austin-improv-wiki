@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for I'll Take the Physical Challenge!"
 ---
-<div style="text-align: center;"><img src="I'll Take the Physical Challenge! placeholder image.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/I'll Take the Physical Challenge! placeholder image.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Placeholder image for *[[Shows/I'll Take the Physical Challenge!|I'll Take the Physical Challenge!]]*

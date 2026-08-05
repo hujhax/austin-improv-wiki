@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Movie vs Movie by Carlos LaRotta."
 ---
-<div style="text-align: center;"><img src="Movie vs Movie.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Movie vs Movie.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity art for *[[Shows/Movie vs Movie|Movie vs Movie]]* by [[Performers/Carlos Larotta|Carlos Larotta]].

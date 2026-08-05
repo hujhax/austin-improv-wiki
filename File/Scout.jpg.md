@@ -1,7 +1,7 @@
 ---
 description: "Scout, in their 8/29/12 performance at The 2012 Out of..."
 ---
-<div style="text-align: center;"><img src="Scout.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Scout.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Scout|Scout]], in their 8/29/12 performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].

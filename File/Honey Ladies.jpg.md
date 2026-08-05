@@ -1,7 +1,7 @@
 ---
 description: "Casual photo of Honey Ladies at The Hideout Theatre."
 ---
-<div style="text-align: center;"><img src="Honey Ladies.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Honey Ladies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual photo of [[Troupes/Honey Ladies|Honey Ladies]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for A Really Aggressive Dream."
 ---
-<div style="text-align: center;"><img src="A Really Aggressive Dream.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/A Really Aggressive Dream.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Troupes/A Really Aggressive Dream|A Really Aggressive Dream]].

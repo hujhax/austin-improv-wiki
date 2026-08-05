@@ -1,7 +1,7 @@
 ---
 description: "Cast photo of Wooden Nickel."
 ---
-<div style="text-align: center;"><img src="Wooden Nickel.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Wooden Nickel.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Cast photo of [[Troupes/Wooden Nickel|Wooden Nickel]].

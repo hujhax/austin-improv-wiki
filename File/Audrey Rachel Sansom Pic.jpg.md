@@ -1,7 +1,7 @@
 ---
 description: "Audrey Rachel Sansom, performing in Gnap!"
 ---
-<div style="text-align: center;"><img src="Audrey Rachel Sansom Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Audrey Rachel Sansom Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]], performing in [[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]]' third annual Gnap! Homecoming Party on 2/18/11.

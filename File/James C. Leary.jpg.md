@@ -1,7 +1,7 @@
 ---
 description: "James C. Leary performing a monologue for Risen at the..."
 ---
-<div style="text-align: center;"><img src="James C. Leary.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/James C. Leary.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 James C. Leary performing a monologue for Risen at the Institution Theater.

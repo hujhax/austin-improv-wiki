@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Stag Comedy."
 ---
-<div style="text-align: center;"><img src="Stag Comedy.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Stag Comedy.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Stag Comedy|Stag Comedy]].

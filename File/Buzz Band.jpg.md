@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Buzz Band, featuring Megan Simon."
 ---
-<div style="text-align: center;"><img src="Buzz Band.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Buzz Band.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/Buzz Band|Buzz Band]]*, featuring Megan Simon.

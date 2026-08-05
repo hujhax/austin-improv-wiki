@@ -9,7 +9,7 @@ image: "File/Band%20of%20Liars.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Band of Liars.jpg.md"><img src="../File/Band%20of%20Liars.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Band of Liars.jpg.md"><img src="File/Band%20of%20Liars.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

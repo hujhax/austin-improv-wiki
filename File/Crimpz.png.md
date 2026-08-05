@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Crimpz."
 ---
-<div style="text-align: center;"><img src="Crimpz.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Crimpz.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Troupes/Crimpz|Crimpz]].

@@ -1,7 +1,7 @@
 ---
 description: "Logo of the Hideout Theatre."
 ---
-<div style="text-align: center;"><img src="Hideout logo.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Hideout logo.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Logo of [[Theatres/The Hideout Theatre|The Hideout Theatre]].  (History of the logo [here](http://www.hideouttheatre.com/the-making-of-the-hideout-logo).)

@@ -1,7 +1,7 @@
 ---
 description: "Poster for Lonely Star."
 ---
-<div style="text-align: center;"><img src="Lonely Star Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Lonely Star Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/Lonely Star|Lonely Star]]*.

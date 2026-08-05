@@ -9,7 +9,7 @@ image: "File/Wait%20OK%20Now.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Wait OK Now.jpg.md"><img src="../File/Wait%20OK%20Now.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Wait OK Now.jpg.md"><img src="File/Wait%20OK%20Now.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

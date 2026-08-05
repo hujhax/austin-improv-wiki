@@ -1,7 +1,7 @@
 ---
 description: "Golden silently asks for a suggestion in The Knockout semifinals..."
 ---
-<div style="text-align: center;"><img src="Golden (troupe).jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Golden (troupe).jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Golden|Golden]] silently asks for a suggestion in *The Knockout* semifinals on 9/14/15.

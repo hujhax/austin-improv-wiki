@@ -1,7 +1,7 @@
 ---
 description: "Tosin Awofeso accompanies the 5/24/14 performance of Theatresports."
 ---
-<div style="text-align: center;"><img src="Tosin Awofeso Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Tosin Awofeso Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Tosin awofeso|Tosin awofeso]] accompanies the 5/24/14 performance of *[[Shows/TheatreSports|TheatreSports]]*.

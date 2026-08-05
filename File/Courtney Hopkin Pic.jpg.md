@@ -1,7 +1,7 @@
 ---
 description: "Courtney Hopkin performing with Your Terrific Neighbors in their 7/13/12..."
 ---
-<div style="text-align: center;"><img src="Courtney Hopkin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Courtney Hopkin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Courtney Hopkin|Courtney Hopkin]] performing with [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]] in their 7/13/12 performance.

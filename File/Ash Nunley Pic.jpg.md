@@ -1,7 +1,7 @@
 ---
 description: "Ash Nunley, in the 5/31/14 performance of Fuck It's Hot:..."
 ---
-<div style="text-align: center;"><img src="Ash Nunley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Ash Nunley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Ash Nunley|Ash Nunley]], in the 5/31/14 performance of *[[Shows/Fuck It's Hot|Fuck It's Hot]]: Sex and Queso*.

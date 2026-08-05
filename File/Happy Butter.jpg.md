@@ -1,7 +1,7 @@
 ---
 description: "Photo from The Hideout Theatre's first Level 6 Graduation Show."
 ---
-<div style="text-align: center;"><img src="Happy Butter.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Happy Butter.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo from [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s first Level 6 Graduation Show.

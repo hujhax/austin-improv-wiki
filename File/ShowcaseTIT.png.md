@@ -1,7 +1,7 @@
 ---
 description: "The Institution Theater Graduation Showcase - Sarah Marie hosting for..."
 ---
-<div style="text-align: center;"><img src="ShowcaseTIT.png" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/ShowcaseTIT.png" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 The Institution Theater Graduation Showcase - Sarah Marie hosting for her graduating 201 class.

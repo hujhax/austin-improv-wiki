@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Reality Improv."
 ---
-<div style="text-align: center;"><img src="Reality Improv.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Reality Improv.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Reality Improv|Reality Improv]]*.

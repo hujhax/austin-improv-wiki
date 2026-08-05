@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Dick Rambuck."
 ---
-<div style="text-align: center;"><img src="Dick Rambuck.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dick Rambuck.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Dick Rambuck|Dick Rambuck]].

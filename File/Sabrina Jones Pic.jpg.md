@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Sabrina Jones for Live TV Tuesdays: Firefly,..."
 ---
-<div style="text-align: center;"><img src="Sabrina Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Sabrina Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Performers/Sabrina Jones|Sabrina Jones]] for *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*, from [this photoset](http://www.facebook.com/media/set/?set=a.10150841593631047.465053.519656046&type=3).

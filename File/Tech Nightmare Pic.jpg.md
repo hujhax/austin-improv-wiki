@@ -1,7 +1,7 @@
 ---
 description: "Tech Nightmare crew: Cortney DeAngelo, Cindy Page, and Lindsey McGowen..."
 ---
-<div style="text-align: center;"><img src="Tech Nightmare Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Tech Nightmare Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Shows/Tech Nightmare|Tech Nightmare]] crew: [[Performers/Cortney DeAngelo|Cortney DeAngelo]], [[Performers/Cindy Page|Cindy Page]], and [[Performers/Lindsey McGowen|Lindsey McGowen]] in the "Best of the [[Shows/Free Fringe|Free Fringe]]" edition of the [[Shows/Tech Nightmare|Tech Nightmare]] on 10/16/14.

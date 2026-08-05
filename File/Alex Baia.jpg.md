@@ -1,7 +1,7 @@
 ---
 description: "Picture of Alex Baia from the April 11, 2013 performance..."
 ---
-<div style="text-align: center;"><img src="Alex Baia.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Alex Baia.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Picture of [[Performers/Alex Baia|Alex Baia]] from the April 11, 2013 performance of [[Shows/TheatreSports|TheatreSports]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

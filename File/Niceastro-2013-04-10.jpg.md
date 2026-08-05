@@ -1,7 +1,7 @@
 ---
 description: "Nice Astronaut photo from DCM 2013."
 ---
-<div style="text-align: center;"><img src="Niceastro-2013-04-10.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Niceastro-2013-04-10.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Nice Astronaut|Nice Astronaut]] photo from DCM 2013.

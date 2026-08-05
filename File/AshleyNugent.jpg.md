@@ -1,7 +1,7 @@
 ---
 description: "Head shot of Ashley Nugent."
 ---
-<div style="text-align: center;"><img src="AshleyNugent.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/AshleyNugent.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Head shot of [[Performers/Ashley Nugent|Ashley Nugent]].

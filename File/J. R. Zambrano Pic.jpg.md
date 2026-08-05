@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of J."
 ---
-<div style="text-align: center;"><img src="J. R. Zambrano Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/J. R. Zambrano Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Performers/J. R. Zambrano|J. R. Zambrano]] for *[[Shows/A Deed So Dark|A Deed So Dark]]*.

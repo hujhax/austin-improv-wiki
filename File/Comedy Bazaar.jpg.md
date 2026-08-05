@@ -1,7 +1,7 @@
 ---
 description: "Publicity banner for Comedy Bazaar."
 ---
-<div style="text-align: center;"><img src="Comedy Bazaar.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Comedy Bazaar.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity banner for *[[Shows/Comedy Bazaar|Comedy Bazaar]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Indigo Shift."
 ---
-<div style="text-align: center;"><img src="Indigo Shift.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Indigo Shift.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo for [[Troupes/Indigo Shift|Indigo Shift]].

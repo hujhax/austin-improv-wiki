@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Kaleidoscope."
 ---
-<div style="text-align: center;"><img src="Kaleidoscope.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Kaleidoscope.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/Kaleidoscope|Kaleidoscope]]*.

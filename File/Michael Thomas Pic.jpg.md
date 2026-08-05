@@ -1,7 +1,7 @@
 ---
 description: "Michael Thomas, in the 5/15/12 performance of Live TV Tuesdays:..."
 ---
-<div style="text-align: center;"><img src="Michael Thomas Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Michael Thomas Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Michael Thomas|Michael Thomas]], in the 5/15/12 performance of *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]*.

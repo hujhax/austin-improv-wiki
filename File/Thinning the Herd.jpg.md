@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for the third season of Thinning the Herd."
 ---
-<div style="text-align: center;"><img src="Thinning the Herd.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Thinning the Herd.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Promotional image for the third season of *[[Shows/Thinning The Herd|Thinning The Herd]]*.  The photo features [[Performers/David Lampe|David Lampe]], [[Performers/Chelley Pyatt|Chelley Pyatt]], [[Performers/Paul Normandin|Paul Normandin]], and Jen Dorsey.

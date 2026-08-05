@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Florida Room, in costume."
 ---
-<div style="text-align: center;"><img src="Florida Room.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Florida Room.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Florida Room|Florida Room]], in costume.

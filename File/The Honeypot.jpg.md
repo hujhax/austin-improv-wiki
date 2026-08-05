@@ -1,7 +1,7 @@
 ---
 description: "The Honeypot performing in the 3/5/12 Monday Night Mash."
 ---
-<div style="text-align: center;"><img src="The Honeypot.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Honeypot.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/The Honeypot|The Honeypot]] performing in the 3/5/12 *[[Shows/Monday Night Mash|Monday Night Mash]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for PIP on TV."
 ---
-<div style="text-align: center;"><img src="PIP on TV.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/PIP on TV.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for *[[Shows/PIP on TV|PIP on TV]]*.

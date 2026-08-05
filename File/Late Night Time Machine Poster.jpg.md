@@ -1,7 +1,7 @@
 ---
 description: "Poster for 'season 2' of Late Night Time Machine."
 ---
-<div style="text-align: center;"><img src="Late Night Time Machine Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Late Night Time Machine Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for 'season 2' of *[[Shows/Late Night Time Machine|Late Night Time Machine]]*.

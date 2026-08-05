@@ -1,7 +1,7 @@
 ---
 description: "Banner image for Things You Love."
 ---
-<div style="text-align: center;"><img src="Things You Love.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Things You Love.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Banner image for *[[Shows/Things You Love|Things You Love]]*.

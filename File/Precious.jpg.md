@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Precious."
 ---
-<div style="text-align: center;"><img src="Precious.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Precious.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Precious|Precious]].

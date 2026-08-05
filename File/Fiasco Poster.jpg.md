@@ -1,7 +1,7 @@
 ---
 description: "Poster for Fiasco, featuring Katie Dahm, Marc Majcher, and Brett..."
 ---
-<div style="text-align: center;"><img src="Fiasco Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Fiasco Poster.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for *[[Shows/Fiasco|Fiasco]]*, featuring (from left to right) [[Performers/Katie Dahm|Katie Dahm]], [[Performers/Marc Majcher|Marc Majcher]], and [[Performers/Brett Tribe|Brett Tribe]].

@@ -1,7 +1,7 @@
 ---
 description: "Parallelogramophonograph in character as \"The Nutty Funsters\", opening for After..."
 ---
-<div style="text-align: center;"><img src="The Nutty Funsters.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Nutty Funsters.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] in character as [[Troupes/Parallelogramophonograph#The_Nutty_Funsters|"The Nutty Funsters"]], opening for *[[Shows/After School Improv|After School Improv]]* at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 12/28/06.

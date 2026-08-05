@@ -1,7 +1,7 @@
 ---
 description: "Brandon Martin, in a publicity photo for Under Waged."
 ---
-<div style="text-align: center;"><img src="Brandon Martin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Brandon Martin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Brandon Martin|Brandon Martin]], in a publicity photo for *[[Troupes/Under Waged|Under Waged]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of The Leading Brands."
 ---
-<div style="text-align: center;"><img src="The Leading Brands.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Leading Brands.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image of [[Troupes/The Leading Brands|The Leading Brands]].

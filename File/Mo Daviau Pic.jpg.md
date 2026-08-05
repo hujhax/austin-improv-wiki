@@ -1,7 +1,7 @@
 ---
 description: "Mo Daviau, reading her work at the 5/17/12 performance of..."
 ---
-<div style="text-align: center;"><img src="Mo Daviau Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Mo Daviau Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Mo Daviau|Mo Daviau]], reading her work at the 5/17/12 performance of *Bedpost Confessions*.

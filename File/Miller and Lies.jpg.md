@@ -1,7 +1,7 @@
 ---
 description: "Miller and Lies performing at The Institution Theater."
 ---
-<div style="text-align: center;"><img src="Miller and Lies.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Miller and Lies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Troupes/Miller and Lies|Miller and Lies]] performing at [[Theatres/The Institution Theater|The Institution Theater]].

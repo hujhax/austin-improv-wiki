@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Only Three Will Survive, featuring Heidi Rogers,..."
 ---
-<div style="text-align: center;"><img src="Only Three Will Survive.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Only Three Will Survive.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for *[[Shows/Only Three Will Survive|Only Three Will Survive]]*, featuring [[Performers/Heidi Rogers|Heidi Rogers]], [[Performers/Lacy Shawn|Lacy Shawn]], and [[Performers/Wyatt Tall|Wyatt Tall]].

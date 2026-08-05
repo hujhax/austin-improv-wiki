@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Austin Playback Theatre."
 ---
-<div style="text-align: center;"><img src="Austin Playback Theatre.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Austin Playback Theatre.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Austin Playback Theatre|Austin Playback Theatre]].

@@ -9,7 +9,7 @@ image: "File/The%20Joss%20Whedon%20Pajama%20Party.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/The Joss Whedon Pajama Party.jpg.md"><img src="../File/The%20Joss%20Whedon%20Pajama%20Party.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/The Joss Whedon Pajama Party.jpg.md"><img src="File/The%20Joss%20Whedon%20Pajama%20Party.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

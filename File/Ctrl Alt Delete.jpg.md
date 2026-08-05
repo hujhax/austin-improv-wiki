@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Ctrl Alt Delete."
 ---
-<div style="text-align: center;"><img src="Ctrl Alt Delete.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Ctrl Alt Delete.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity image for [[Troupes/Ctrl Alt Delete|Ctrl Alt Delete]].

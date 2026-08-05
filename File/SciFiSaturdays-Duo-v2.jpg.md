@@ -1,7 +1,7 @@
 ---
 description: "Poster for Sci-Fi Saturdays at ColdTowne Theater."
 ---
-<div style="text-align: center;"><img src="SciFiSaturdays-Duo-v2.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/SciFiSaturdays-Duo-v2.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Poster for [[Shows/Sci-Fi Saturdays|Sci-Fi Saturdays]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

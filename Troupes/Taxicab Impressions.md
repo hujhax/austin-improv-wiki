@@ -9,7 +9,7 @@ image: "File/Taxi%20Cab%20Impressions.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Taxi Cab Impressions.jpg.md"><img src="../File/Taxi%20Cab%20Impressions.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/Taxi Cab Impressions.jpg.md"><img src="File/Taxi%20Cab%20Impressions.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

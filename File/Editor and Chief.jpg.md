@@ -1,7 +1,7 @@
 ---
 description: "A performance of Editor and Chief."
 ---
-<div style="text-align: center;"><img src="Editor and Chief.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Editor and Chief.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 A performance of [[Troupes/Editor and Chief|Editor and Chief]].

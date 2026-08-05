@@ -1,7 +1,7 @@
 ---
 description: "Casual cast photo of Jukebox, posted 12/18/11."
 ---
-<div style="text-align: center;"><img src="Jukebox.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Jukebox.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Casual cast photo of [[Troupes/Jukebox|Jukebox]], posted 12/18/11.

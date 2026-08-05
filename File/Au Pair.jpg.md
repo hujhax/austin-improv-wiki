@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Au Pair."
 ---
-<div style="text-align: center;"><img src="Au Pair.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Au Pair.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Au Pair|Au Pair]].

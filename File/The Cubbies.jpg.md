@@ -1,7 +1,7 @@
 ---
 description: "Photo of The Cubbies."
 ---
-<div style="text-align: center;"><img src="The Cubbies.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/The Cubbies.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Photo of [[Troupes/The Cubbies|The Cubbies]].

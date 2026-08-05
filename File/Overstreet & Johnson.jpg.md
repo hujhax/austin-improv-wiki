@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Overstreet & Johnson."
 ---
-<div style="text-align: center;"><img src="Overstreet & Johnson.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Overstreet & Johnson.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity photo of [[Troupes/Overstreet & Johnson|Overstreet & Johnson]].

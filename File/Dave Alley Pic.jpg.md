@@ -1,7 +1,7 @@
 ---
 description: "Dave Alley performs in the 4/21/12 Maestro."
 ---
-<div style="text-align: center;"><img src="Dave Alley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Dave Alley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Dave alley|Dave alley]] performs in the 4/21/12 [[Shows/Maestro|Maestro]].

@@ -1,7 +1,7 @@
 ---
 description: "Lena Long, in the 8/7/15 performance of The Source."
 ---
-<div style="text-align: center;"><img src="Lena Long Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Lena Long Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 [[Performers/Lena Long|Lena Long]], in the 8/7/15 performance of *[[Shows/The Source|The Source]]*.

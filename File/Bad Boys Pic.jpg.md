@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Bad Boys."
 ---
-<div style="text-align: center;"><img src="Bad Boys Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Bad Boys Pic.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Publicity poster for [[Troupes/Bad Boys|Bad Boys]].

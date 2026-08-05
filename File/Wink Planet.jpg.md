@@ -1,7 +1,7 @@
 ---
 description: "Group photo of Wink Planet."
 ---
-<div style="text-align: center;"><img src="Wink Planet.jpg" style="max-width: 100%; height: auto;" /></div>
+<div style="text-align: center;"><img src="File/Wink Planet.jpg" style="max-width: 100%; height: auto;" /></div>
 
 ## Summary
 Group photo of [[Troupes/Wink Planet|Wink Planet]].
