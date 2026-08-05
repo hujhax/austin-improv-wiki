@@ -27,28 +27,25 @@ function main() {
     let content = fs.readFileSync(filePath, 'utf8');
     
     // Pattern 1: href=".../file/name.ext" (where ext is jpg, png, gif, jpeg, svg)
-    const hrefRegex = /href="([^"]*?\/file\/[^"]+?\.(?:jpg|png|gif|jpeg|svg))(?!\.html)"/gi;
+    // Pattern 1: href=".../file/name.ext" on <a> tags
+    const hrefRegex = /(<a\s+[^>]*?href=")([^"]*?\/file\/[^"]+?\.(?:jpg|png|gif|jpeg|svg))(?!\.html)("[^>]*?>)/gi;
     
     // Pattern 2: data-slug="file/name.ext" (Quartz SPA routing)
-    const slugRegex = /data-slug="([^"]*?file\/[^"]+?\.(?:jpg|png|gif|jpeg|svg))(?!\.html)"/gi;
+    const slugRegex = /data-slug="([^"]*?file\/[^`"]+?\.(?:jpg|png|gif|jpeg|svg))(?!\.html)"/gi;
     
     let modified = false;
     
-    if (hrefRegex.test(content)) {
-      content = content.replace(hrefRegex, (match, p1) => {
-        linksRewritten++;
-        modified = true;
-        return `href="${p1}.html"`;
-      });
-    }
+    content = content.replace(hrefRegex, (match, p1, p2, p3) => {
+      linksRewritten++;
+      modified = true;
+      return `${p1}${p2}.html${p3}`;
+    });
     
-    if (slugRegex.test(content)) {
-      content = content.replace(slugRegex, (match, p1) => {
-        linksRewritten++;
-        modified = true;
-        return `data-slug="${p1}.html"`;
-      });
-    }
+    content = content.replace(slugRegex, (match, p1) => {
+      linksRewritten++;
+      modified = true;
+      return `data-slug="${p1}.html"`;
+    });
     
     if (modified) {
       fs.writeFileSync(filePath, content, 'utf8');
