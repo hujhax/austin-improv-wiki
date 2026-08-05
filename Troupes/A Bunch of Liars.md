@@ -9,7 +9,7 @@ image: "File/A%20Bunch%20of%20Liars.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/A Bunch of Liars.jpg"><img src="File/A%20Bunch%20of%20Liars.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/A Bunch of Liars.jpg.md"><img src="File/A%20Bunch%20of%20Liars.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

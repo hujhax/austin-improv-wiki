@@ -9,7 +9,7 @@ image: "File/Beach%20Ball%20Concussion.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Beach Ball Concussion.jpg"><img src="File/Beach%20Ball%20Concussion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Beach Ball Concussion.jpg.md"><img src="File/Beach%20Ball%20Concussion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

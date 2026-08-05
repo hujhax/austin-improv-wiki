@@ -9,7 +9,7 @@ image: "File/Foreign%20legion.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Foreign legion.jpg"><img src="File/Foreign%20legion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Foreign legion.jpg.md"><img src="File/Foreign%20legion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

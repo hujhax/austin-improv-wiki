@@ -9,7 +9,7 @@ image: "File/Cops%20%26%20Lawyers%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Cops & Lawyers Pic.jpg"><img src="File/Cops%20&%20Lawyers%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Cops & Lawyers Pic.jpg.md"><img src="File/Cops%20&%20Lawyers%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

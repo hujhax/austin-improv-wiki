@@ -9,7 +9,7 @@ image: "File/123%201006661697184%207424%20n.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/123 1006661697184 7424 n.jpg"><img src="File/123%201006661697184%207424%20n.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/123 1006661697184 7424 n.jpg.md"><img src="File/123%201006661697184%207424%20n.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

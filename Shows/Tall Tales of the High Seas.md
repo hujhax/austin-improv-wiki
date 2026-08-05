@@ -9,7 +9,7 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Tall Tales of the High Seas.jpg"><img src="File/Tall%20Tales%20of%20the%20High%20Seas.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Tall Tales of the High Seas.jpg.md"><img src="File/Tall%20Tales%20of%20the%20High%20Seas.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

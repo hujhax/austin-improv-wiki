@@ -10,7 +10,7 @@ image: "File/Monica%20Alquetz.jpeg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Monica Alquetz.jpeg"><img src="File/Monica%20Alquetz.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Monica Alquetz.jpeg.md"><img src="File/Monica%20Alquetz.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

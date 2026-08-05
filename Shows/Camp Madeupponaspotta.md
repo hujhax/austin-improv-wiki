@@ -9,7 +9,7 @@ image: "File/Camp%20Madeupponaspotta.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Camp Madeupponaspotta.png"><img src="File/Camp%20Madeupponaspotta.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Camp Madeupponaspotta.png.md"><img src="File/Camp%20Madeupponaspotta.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/Dubbed%20Indemnity.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Dubbed Indemnity.jpg"><img src="File/Dubbed%20Indemnity.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/Dubbed Indemnity.jpg.md"><img src="File/Dubbed%20Indemnity.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

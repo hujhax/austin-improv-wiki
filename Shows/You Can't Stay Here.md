@@ -9,7 +9,7 @@ image: "File/You%20Can%27t%20Stay%20Here%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/You Can't Stay Here Poster.jpg"><img src="File/You%20Can't%20Stay%20Here%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/You Can't Stay Here Poster.jpg.md"><img src="File/You%20Can't%20Stay%20Here%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/457986%2010151011200081351%202110136360%20o.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/457986 10151011200081351 2110136360 o.jpg"><img src="File/457986%2010151011200081351%202110136360%20o.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/457986 10151011200081351 2110136360 o.jpg.md"><img src="File/457986%2010151011200081351%202110136360%20o.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

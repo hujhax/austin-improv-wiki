@@ -9,7 +9,7 @@ image: "File/The%20Sword%20of%20Merlin%20Works.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Sword of Merlin Works.jpg"><img src="File/The%20Sword%20of%20Merlin%20Works.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a class="internal-link" href="File/The Sword of Merlin Works.jpg.md"><img src="File/The%20Sword%20of%20Merlin%20Works.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
