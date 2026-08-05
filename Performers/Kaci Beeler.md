@@ -9,7 +9,7 @@ image: "File/Kaci%20Beeler.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Kaci Beeler.jpg.md"><img src="File/Kaci%20Beeler.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Kaci Beeler.jpg.md"><a class="internal-link" href="File/Kaci Beeler.jpg.md"><img src="File/Kaci%20Beeler.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

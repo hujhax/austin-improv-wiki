@@ -9,7 +9,7 @@ image: "File/Moonsault.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Moonsault.jpg.md"><img src="File/Moonsault.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Moonsault.jpg.md"><a class="internal-link" href="File/Moonsault.jpg.md"><img src="File/Moonsault.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

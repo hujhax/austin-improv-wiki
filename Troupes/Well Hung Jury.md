@@ -9,7 +9,7 @@ image: "File/Well%20Hung%20Jury.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Well Hung Jury.jpg.md"><img src="File/Well%20Hung%20Jury.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Well Hung Jury.jpg.md"><a class="internal-link" href="File/Well Hung Jury.jpg.md"><img src="File/Well%20Hung%20Jury.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -77,7 +77,7 @@ image: "File/Well%20Hung%20Jury.jpg"
 **Well Hung Jury** was an improv troupe.
 
 ## History
-![[File/WHJ Final Show Flyer.jpg|Flyer from the Jury's final show in October 2003.]]
+[![[File/WHJ Final Show Flyer.jpg|Flyer from the Jury's final show in October 2003.]]](File/WHJ Final Show Flyer.jpg.md)
 
 {{#widget:{{PAGENAME}}
 |id=159993611

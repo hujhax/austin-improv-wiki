@@ -8,7 +8,7 @@ image: "File/G.O.O.F.S..png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/G.O.O.F.S..png.md"><img src="File/G.O.O.F.S..png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/G.O.O.F.S..png.md"><a class="internal-link" href="File/G.O.O.F.S..png.md"><img src="File/G.O.O.F.S..png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

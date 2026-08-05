@@ -9,7 +9,7 @@ image: "File/Midnight%20Special%20and%20Gong%20Show.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Midnight Special and Gong Show.jpg.md"><img src="File/Midnight%20Special%20and%20Gong%20Show.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Midnight Special and Gong Show.jpg.md"><a class="internal-link" href="File/Midnight Special and Gong Show.jpg.md"><img src="File/Midnight%20Special%20and%20Gong%20Show.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

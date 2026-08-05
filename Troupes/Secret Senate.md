@@ -9,7 +9,7 @@ image: "File/Secret%20Senate.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Secret Senate.jpg.md"><img src="File/Secret%20Senate.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Secret Senate.jpg.md"><a class="internal-link" href="File/Secret Senate.jpg.md"><img src="File/Secret%20Senate.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

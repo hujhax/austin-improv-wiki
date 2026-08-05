@@ -2,7 +2,7 @@
 description: "An improv performer, director, and teacher."
 image: "File/Monica%20Alquetz.jpeg"
 ---
-![[File/Performance picture 2.jpg]]
+[![[File/Performance picture 2.jpg]]](File/Performance picture 2.jpg.md)
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -10,7 +10,7 @@ image: "File/Monica%20Alquetz.jpeg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Monica Alquetz.jpeg.md"><img src="File/Monica%20Alquetz.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Monica Alquetz.jpeg.md"><a class="internal-link" href="File/Monica Alquetz.jpeg.md"><img src="File/Monica%20Alquetz.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -28,7 +28,7 @@ image: "File/Monica%20Alquetz.jpeg"
 
 Monica loves teaching improv because of how it reshapes people’s thinking when it comes to failure, risk-taking, and what truly makes people laugh. She believes that everyone has the capacity for comedy and the ability to succeed on stage, and this core belief is apparent in her teaching style. Her goal is to help others have fun, and she has a lot of fun doing it!
 
-![[File/Performance Photo.jpg]]
+[![[File/Performance Photo.jpg]]](File/Performance Photo.jpg.md)
 
 ## Troupes
 * [[Troupes/Mother Punch|Mother Punch]]
@@ -36,7 +36,7 @@ Monica loves teaching improv because of how it reshapes people’s thinking when
 * Gal Pals
 * The Association
 
-![[File/Performance Pic 3.jpg]]
+[![[File/Performance Pic 3.jpg]]](File/Performance Pic 3.jpg.md)
 
 ## Shows
 * *[[Shows/Fiasco|Fiasco]]*

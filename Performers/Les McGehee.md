@@ -9,7 +9,7 @@ image: "File/Les%20McGehee%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Les McGehee Pic.jpg.md"><img src="File/Les%20McGehee%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Les McGehee Pic.jpg.md"><a class="internal-link" href="File/Les McGehee Pic.jpg.md"><img src="File/Les%20McGehee%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

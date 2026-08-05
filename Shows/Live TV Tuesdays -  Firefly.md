@@ -9,7 +9,7 @@ image: "File/FireflyPoster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/FireflyPoster.jpg.md"><img src="File/FireflyPoster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/FireflyPoster.jpg.md"><a class="internal-link" href="File/FireflyPoster.jpg.md"><img src="File/FireflyPoster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -247,7 +247,7 @@ image: "File/FireflyPoster.jpg"
 	</table>
 </div>
 
-![[File/Live TV Tuesdays - Firefly.jpg|The cast of *Firefly* takes a bow.]]
+[![[File/Live TV Tuesdays - Firefly.jpg|The cast of *Firefly* takes a bow.]]](File/Live TV Tuesdays - Firefly.jpg.md)
 
 ***Live TV Tuesdays: Firefly*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *Firefly* episode "Our Mrs. Reynolds"
 

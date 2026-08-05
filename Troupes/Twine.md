@@ -2,7 +2,7 @@
 description: "An improvised theater group in Austin, TX, that specializes in..."
 image: "File/twinehands.jpg"
 ---
-![[File/Twinecover2.jpg]]
+[![[File/Twinecover2.jpg]]](File/Twinecover2.jpg.md)
 
 <div>
 	<table class="infobox infobox-troupe">
@@ -11,7 +11,7 @@ image: "File/twinehands.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Twinehands.jpg.md"><img src="File/Twinehands.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Twinehands.jpg.md"><a class="internal-link" href="File/Twinehands.jpg.md"><img src="File/Twinehands.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/sexyfuturespacelady.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Sexyfuturespacelady.jpg.md"><img src="File/Sexyfuturespacelady.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Sexyfuturespacelady.jpg.md"><a class="internal-link" href="File/Sexyfuturespacelady.jpg.md"><img src="File/Sexyfuturespacelady.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

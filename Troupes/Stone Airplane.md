@@ -9,7 +9,7 @@ image: "File/457986%2010151011200081351%202110136360%20o.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/457986 10151011200081351 2110136360 o.jpg.md"><img src="File/457986%2010151011200081351%202110136360%20o.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/457986 10151011200081351 2110136360 o.jpg.md"><a class="internal-link" href="File/457986 10151011200081351 2110136360 o.jpg.md"><img src="File/457986%2010151011200081351%202110136360%20o.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -129,7 +129,7 @@ image: "File/457986%2010151011200081351%202110136360%20o.jpg"
 	</table>
 </div>
 
-![[File/Stone Airplane.jpg|Publicity photo of Stone Airplane.]]
+[![[File/Stone Airplane.jpg|Publicity photo of Stone Airplane.]]](File/Stone Airplane.jpg.md)
 
 **Stone Airplane** was an improv troupe.
 

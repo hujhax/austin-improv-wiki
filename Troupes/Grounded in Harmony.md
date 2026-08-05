@@ -9,7 +9,7 @@ image: "File/Grounded%20in%20Harmony.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Grounded in Harmony.jpg.md"><img src="File/Grounded%20in%20Harmony.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Grounded in Harmony.jpg.md"><a class="internal-link" href="File/Grounded in Harmony.jpg.md"><img src="File/Grounded%20in%20Harmony.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

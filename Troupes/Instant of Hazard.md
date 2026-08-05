@@ -9,7 +9,7 @@ image: "File/Instant%20of%20Hazard.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Instant of Hazard.jpg.md"><img src="File/Instant%20of%20Hazard.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Instant of Hazard.jpg.md"><a class="internal-link" href="File/Instant of Hazard.jpg.md"><img src="File/Instant%20of%20Hazard.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

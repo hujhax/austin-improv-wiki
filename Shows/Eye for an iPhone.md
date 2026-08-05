@@ -9,7 +9,7 @@ image: "File/Eye%20for%20an%20iPhone.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Eye for an iPhone.jpg.md"><img src="File/Eye%20for%20an%20iPhone.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Eye for an iPhone.jpg.md"><a class="internal-link" href="File/Eye for an iPhone.jpg.md"><img src="File/Eye%20for%20an%20iPhone.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

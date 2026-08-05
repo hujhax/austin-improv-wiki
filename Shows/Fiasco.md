@@ -9,7 +9,7 @@ image: "File/Fiasco%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Fiasco Poster.jpg.md"><img src="File/Fiasco%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Fiasco Poster.jpg.md"><a class="internal-link" href="File/Fiasco Poster.jpg.md"><img src="File/Fiasco%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -145,7 +145,7 @@ image: "File/Fiasco%20Poster.jpg"
 	</table>
 </div>
 
-![[File/Fiasco Set.jpg|Fiasco set, by [Kaci Beeler](Performers/Kaci%20Beeler).]]
+[![[File/Fiasco Set.jpg|Fiasco set, by [Kaci Beeler](Performers/Kaci%20Beeler).]]](File/Fiasco Set.jpg.md)
 
 ***Fiasco*** is the May/June 2016 [[Lists/List of Hideout Mainstage Shows in Chronological Order|mainstage production]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  
 

@@ -9,7 +9,7 @@ image: "File/Manson%20-%20The%20Musical.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Manson - The Musical.jpg.md"><img src="File/Manson%20-%20The%20Musical.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Manson - The Musical.jpg.md"><a class="internal-link" href="File/Manson - The Musical.jpg.md"><img src="File/Manson%20-%20The%20Musical.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/Townsville-duoposter1.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Townsville-duoposter1.jpg.md"><img src="File/Townsville-duoposter1.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Townsville-duoposter1.jpg.md"><a class="internal-link" href="File/Townsville-duoposter1.jpg.md"><img src="File/Townsville-duoposter1.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -151,11 +151,11 @@ The name is intended to invoke a generic town that could be anywhere.  **Townsvi
 
 ## Shows/Episodes
 ### MacDaddy's Bar & Grill
-![[File/Townsville-macdaddys.jpg|The cast of MacDaddy's Bar & Grill - March 2012 Run at ColdTowne (incomplete)]]
+[![[File/Townsville-macdaddys.jpg|The cast of MacDaddy's Bar & Grill - March 2012 Run at ColdTowne (incomplete)]]](File/Townsville-macdaddys.jpg.md)
 
 Townsville's first script took place at a fictional sleazy small-town bar named "MacDaddy's" and was composed of 5 core sketches with 3 beats each and 3 transition sketches with 3 beats each (similar to what would be an 8x3 Harold). 
 
-![[File/Macdaddy-Redux-11x17 smaller.png|The poster for the March 2012 run of MacDaddy's at ColdTowne Theater]]
+[![[File/Macdaddy-Redux-11x17 smaller.png|The poster for the March 2012 run of MacDaddy's at ColdTowne Theater]]](File/Macdaddy-Redux-11x17 smaller.png.md)
 
 The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole paid to rent out ColdTowne Theater for 2 nights while the theater was dark for the holidays.  "MacDaddy's" was then performed at the Frontera Short Fringe Festival in February 2012.  Tim & Nicole had directed the show up to this point, but once they were given a March 2012 run at ColdTowne Theater on Saturday nights, they got [[Performers/Clifton Highfield|Clifton Highfield]] to direct the show.  The MacDaddy's script was performed a total of 7 times.
 
@@ -177,7 +177,7 @@ The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole pa
 * Michael Pedacano - actor
 
 ### Community Center
-![[File/Townsville-communitycenter-planning.jpg|Townsville second script in planning. Writing and organizing 8 sketches with 3 beats each and a total of 10 reoccurring characters is a complex process]]
+[![[File/Townsville-communitycenter-planning.jpg|Townsville second script in planning. Writing and organizing 8 sketches with 3 beats each and a total of 10 reoccurring characters is a complex process]]](File/Townsville-communitycenter-planning.jpg.md)
 
 Community Center will be the second installment of Townsville.
 

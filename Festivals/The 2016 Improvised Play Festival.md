@@ -2,7 +2,7 @@
 description: "Will be the sixth annual Improvised Play Festival."
 image: "File/IPF%202016.jpg"
 ---
-![[File/IPF 2016.jpg|Publicity image for the festival.]]
+[![[File/IPF 2016.jpg|Publicity image for the festival.]]](File/IPF 2016.jpg.md)
 **The 2016 Improvised Play Festival** will be the sixth annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 
 It will run from 4/14/15 through 4/16/15.

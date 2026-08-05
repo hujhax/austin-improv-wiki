@@ -9,7 +9,7 @@ image: "File/An%20Inconvenient%20Troupe.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/An Inconvenient Troupe.jpg.md"><img src="File/An%20Inconvenient%20Troupe.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/An Inconvenient Troupe.jpg.md"><a class="internal-link" href="File/An Inconvenient Troupe.jpg.md"><img src="File/An%20Inconvenient%20Troupe.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

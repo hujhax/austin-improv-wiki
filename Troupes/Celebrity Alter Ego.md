@@ -9,7 +9,7 @@ image: "File/Celebrity%20Alter%20Ego.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Celebrity Alter Ego.jpg.md"><img src="File/Celebrity%20Alter%20Ego.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Celebrity Alter Ego.jpg.md"><a class="internal-link" href="File/Celebrity Alter Ego.jpg.md"><img src="File/Celebrity%20Alter%20Ego.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

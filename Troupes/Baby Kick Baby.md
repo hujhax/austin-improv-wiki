@@ -9,7 +9,7 @@ image: "File/Baby%20Kick%20Baby.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Baby Kick Baby.jpg.md"><img src="File/Baby%20Kick%20Baby.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Baby Kick Baby.jpg.md"><a class="internal-link" href="File/Baby Kick Baby.jpg.md"><img src="File/Baby%20Kick%20Baby.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

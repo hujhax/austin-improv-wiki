@@ -9,7 +9,7 @@ image: "File/Austin%20monologue%20jam.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Austin monologue jam.jpg.md"><img src="File/Austin%20monologue%20jam.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Austin monologue jam.jpg.md"><a class="internal-link" href="File/Austin monologue jam.jpg.md"><img src="File/Austin%20monologue%20jam.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

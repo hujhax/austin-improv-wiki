@@ -9,7 +9,7 @@ image: "File/The%20Glamping%20Trip.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Glamping Trip.jpg.md"><img src="File/The%20Glamping%20Trip.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/The Glamping Trip.jpg.md"><a class="internal-link" href="File/The Glamping Trip.jpg.md"><img src="File/The%20Glamping%20Trip.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

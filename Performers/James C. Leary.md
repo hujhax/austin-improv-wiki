@@ -9,7 +9,7 @@ image: "File/James%20C.%20Leary.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/James C. Leary.jpg.md"><img src="File/James%20C.%20Leary.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/James C. Leary.jpg.md"><a class="internal-link" href="File/James C. Leary.jpg.md"><img src="File/James%20C.%20Leary.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

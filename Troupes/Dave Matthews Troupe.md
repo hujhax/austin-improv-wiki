@@ -9,7 +9,7 @@ image: "File/Dave%20Matthews%20Troupe.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Dave Matthews Troupe.jpg.md"><img src="File/Dave%20Matthews%20Troupe.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Dave Matthews Troupe.jpg.md"><a class="internal-link" href="File/Dave Matthews Troupe.jpg.md"><img src="File/Dave%20Matthews%20Troupe.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

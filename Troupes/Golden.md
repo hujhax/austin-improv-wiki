@@ -9,7 +9,7 @@ image: "File/Golden%20%28troupe%29.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Golden (troupe).jpg.md"><img src="File/Golden%20(troupe).jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Golden (troupe"><a class="internal-link" href="File/Golden (troupe).jpg.md"><img src="File/Golden%20(troupe).jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>.jpg.md)
 			</td>
 		</tr>
 		<tr class="">

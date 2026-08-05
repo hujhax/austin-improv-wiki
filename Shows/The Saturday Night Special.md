@@ -9,7 +9,7 @@ image: "File/The%20Saturday%20Night%20Special%20Publicity.gif"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Saturday Night Special Publicity.gif.md"><img src="File/The%20Saturday%20Night%20Special%20Publicity.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/The Saturday Night Special Publicity.gif.md"><a class="internal-link" href="File/The Saturday Night Special Publicity.gif.md"><img src="File/The%20Saturday%20Night%20Special%20Publicity.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

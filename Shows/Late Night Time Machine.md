@@ -9,7 +9,7 @@ image: "File/Late%20Night%20Time%20Machine%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Late Night Time Machine Poster.jpg.md"><img src="File/Late%20Night%20Time%20Machine%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Late Night Time Machine Poster.jpg.md"><a class="internal-link" href="File/Late Night Time Machine Poster.jpg.md"><img src="File/Late%20Night%20Time%20Machine%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -140,7 +140,7 @@ image: "File/Late%20Night%20Time%20Machine%20Poster.jpg"
 ***Late Night Time Machine*** is an improvised historical talk show originating from [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
-![[File/Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]
+[![[File/Late Night Time Machine.jpg|Teddy Hancox and Tildy Weatherspoon]]](File/Late Night Time Machine.jpg.md)
 Late Night Time Machine with Teddy Hancox is a live comedy show created by Tess Hermes, James C. Leary, and Mason Pitluk. A late night show from 1968 hosted by Teddy Hancox ([[Performers/James C. Leary|James C. Leary]]), LNTM features celebrity guests flown in from all across time. Each live show features new guest improvisors in character as historical figures or celebrities from past, present, and future. Sydney Huddleston co-stars as Matilda "Tildy" Weatherspoon, the show's intern/PA turned executive producer, and Mike Carreon as Teddy's sidekick, Bud Grouper.
 
 Shows have featured a mixture of improvised on-air interviews and off-air interactions (both on-set and behind the scenes), as well as stand up performances, the occasional musical performance, and written sketch commercials satirizing the culture of the late 60's.

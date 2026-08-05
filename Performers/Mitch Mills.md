@@ -9,7 +9,7 @@ image: "File/Mitch%20Mills.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Mitch Mills.jpg.md"><img src="File/Mitch%20Mills.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Mitch Mills.jpg.md"><a class="internal-link" href="File/Mitch Mills.jpg.md"><img src="File/Mitch%20Mills.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

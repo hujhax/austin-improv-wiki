@@ -4,7 +4,7 @@ image: "File/TITie2013.jpg"
 ---
 **The 2013 Institution Theater Awards** were the first annual [[Institution Theater Awards]].
 
-![[File/TITie2013.jpg|[There's Waldo](Troupes/There's%20Waldo) presents an award at The 2013 Institution Theater Awards.]]
+[![[File/TITie2013.jpg|[There's Waldo](Troupes/There's%20Waldo) presents an award at The 2013 Institution Theater Awards.]]](File/TITie2013.jpg.md)
 
 ## Summary
 The awards ceremony was held on 1/27/13.

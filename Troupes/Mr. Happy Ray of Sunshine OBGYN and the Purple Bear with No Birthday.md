@@ -9,7 +9,7 @@ image: "File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Be
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg.md"><img src="File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Bear%20with%20No%20Birthday.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg.md"><a class="internal-link" href="File/Mr. Happy Ray of Sunshine OBGYN and the Purple Bear with No Birthday.jpg.md"><img src="File/Mr.%20Happy%20Ray%20of%20Sunshine%20OBGYN%20and%20the%20Purple%20Bear%20with%20No%20Birthday.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

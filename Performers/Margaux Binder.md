@@ -9,7 +9,7 @@ image: "File/Margaux%20Binder.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Margaux Binder.jpg.md"><img src="File/Margaux%20Binder.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Margaux Binder.jpg.md"><a class="internal-link" href="File/Margaux Binder.jpg.md"><img src="File/Margaux%20Binder.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

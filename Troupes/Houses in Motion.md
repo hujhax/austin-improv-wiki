@@ -9,7 +9,7 @@ image: "File/Houses%20in%20Motion.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Houses in Motion.jpg.md"><img src="File/Houses%20in%20Motion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Houses in Motion.jpg.md"><a class="internal-link" href="File/Houses in Motion.jpg.md"><img src="File/Houses%20in%20Motion.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/183%20Dewberry%20Lane%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/183 Dewberry Lane Poster.jpg.md"><img src="File/183%20Dewberry%20Lane%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/183 Dewberry Lane Poster.jpg.md"><a class="internal-link" href="File/183 Dewberry Lane Poster.jpg.md"><img src="File/183%20Dewberry%20Lane%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

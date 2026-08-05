@@ -9,7 +9,7 @@ image: "File/Lord%20Wensleydale%27s%20Last%20High%20Tea.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Lord Wensleydale's Last High Tea.jpg.md"><img src="File/Lord%20Wensleydale's%20Last%20High%20Tea.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Lord Wensleydale's Last High Tea.jpg.md"><a class="internal-link" href="File/Lord Wensleydale's Last High Tea.jpg.md"><img src="File/Lord%20Wensleydale's%20Last%20High%20Tea.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ All cast members wore period costumes and white makeup.  Some were "guests", and
 Several events punctuated the high tea.  Shortly after the first course, the von Geltsacks, rich visitors from Germany and the high tea's honored guests, arrived at the venue.  Towards the end of the event, Lord Wensleydale announced that he was marrying his daughter Petunia off to the Dietrich von Geltsack.  Baron von Geltsack was shocked, as he had assumed *he* would marry the young Miss Petunia.  Finally, Petunia rejected both offers, and ran off with the head servant, Mr. Tiddles.
 
 ## Cast
-![[File/Lord Wensleydale Performance.jpg|A mishap with a cake at *Lord Wensleydale's Last High Tea*.]]
+[![[File/Lord Wensleydale Performance.jpg|A mishap with a cake at *Lord Wensleydale's Last High Tea*.]]](File/Lord Wensleydale Performance.jpg.md)
 
 ### Main Characters
 * Lord Wenseleydale (the host) -- [[Performers/Kareem Badr|Kareem Badr]]

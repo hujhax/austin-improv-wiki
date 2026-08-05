@@ -9,7 +9,7 @@ image: "File/Snap%20Snap%20Nation.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Snap Snap Nation.jpg.md"><img src="File/Snap%20Snap%20Nation.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Snap Snap Nation.jpg.md"><a class="internal-link" href="File/Snap Snap Nation.jpg.md"><img src="File/Snap%20Snap%20Nation.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -8,7 +8,7 @@ image: "File/Do%20You%20Still%20Want%20To%20Do%20This.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Do You Still Want To Do This.jpg.md"><img src="File/Do%20You%20Still%20Want%20To%20Do%20This.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Do You Still Want To Do This.jpg.md"><a class="internal-link" href="File/Do You Still Want To Do This.jpg.md"><img src="File/Do%20You%20Still%20Want%20To%20Do%20This.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

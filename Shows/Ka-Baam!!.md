@@ -9,7 +9,7 @@ image: "File/Ka-Baam%21%21%20Logo.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Ka-Baam!! Logo.png.md"><img src="File/Ka-Baam!!%20Logo.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Ka-Baam!! Logo.png.md"><a class="internal-link" href="File/Ka-Baam!! Logo.png.md"><img src="File/Ka-Baam!!%20Logo.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -92,7 +92,7 @@ It was based on the Golden Age of superhero comics.
 
 ## Summary
 ### Show Structure
-![[File/Ka-Baam!! Audience Winner.jpg|After every performance, one lucky audience member would win the show's cover art.]]
+[![[File/Ka-Baam!! Audience Winner.jpg|After every performance, one lucky audience member would win the show's cover art.]]](File/Ka-Baam!! Audience Winner.jpg.md)
 The show would begin with origin stories for three different heroes, which were based on audience suggestions.  Meanwhile, a comics artist (often Kristin Hogan) would draw the cover art for an adventure for those heroes.  They would improvise a half-hour narrative superhero story based on that cover art, and one lucky audience member would receive the cover art as a prize.
 
 Throughout the show, director [[Performers/Asaf Ronen|Asaf Ronen]] served as the narrator, occasionally providing interstitials which introduced advertisements or responded to viewer mail.
@@ -122,7 +122,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Performers/Roy Janik|Roy Janik]]
 
 ### 2009 Cast
-![[File/Ka-Baam!! Promo.jpg|A promotional photo of *Ka-Baam!!*, with ninjas.]]
+[![[File/Ka-Baam!! Promo.jpg|A promotional photo of *Ka-Baam!!*, with ninjas.]]](File/Ka-Baam!! Promo.jpg.md)
 * [[Performers/Aden Kirschner|Aden Kirschner]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
@@ -187,7 +187,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
   * [[Performers/Jason Vines|Jason Vines]] as Captain Jelly Belly
 
 ### Guest Artists
-![[File/Ka-Baam!! Cover Art.jpg|Cover art from *Ka-Baam!!* by Andrew Augustine.]]
+[![[File/Ka-Baam!! Cover Art.jpg|Cover art from *Ka-Baam!!* by Andrew Augustine.]]](File/Ka-Baam!! Cover Art.jpg.md)
 #### 2008 Run
 * 5/3/08:  Thomas Reidy
 * 5/10/08:  Rob Osborne

@@ -9,7 +9,7 @@ image: "File/Magician%20Versus%20Clown.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Magician Versus Clown.jpg.md"><img src="File/Magician%20Versus%20Clown.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Magician Versus Clown.jpg.md"><a class="internal-link" href="File/Magician Versus Clown.jpg.md"><img src="File/Magician%20Versus%20Clown.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

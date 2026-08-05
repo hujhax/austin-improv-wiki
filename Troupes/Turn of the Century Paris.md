@@ -9,7 +9,7 @@ image: "File/Turn%20of%20the%20Century%20Paris.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Turn of the Century Paris.jpg.md"><img src="File/Turn%20of%20the%20Century%20Paris.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Turn of the Century Paris.jpg.md"><a class="internal-link" href="File/Turn of the Century Paris.jpg.md"><img src="File/Turn%20of%20the%20Century%20Paris.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -9,7 +9,7 @@ image: "File/The%20Knuckleball%20Now.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Knuckleball Now.jpg.md"><img src="File/The%20Knuckleball%20Now.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/The Knuckleball Now.jpg.md"><a class="internal-link" href="File/The Knuckleball Now.jpg.md"><img src="File/The%20Knuckleball%20Now.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

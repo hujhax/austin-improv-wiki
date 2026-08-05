@@ -9,7 +9,7 @@ image: "File/Bob%20Olmstead%20Reset%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Bob Olmstead Reset Pic.jpg.md"><img src="File/Bob%20Olmstead%20Reset%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Bob Olmstead Reset Pic.jpg.md"><a class="internal-link" href="File/Bob Olmstead Reset Pic.jpg.md"><img src="File/Bob%20Olmstead%20Reset%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

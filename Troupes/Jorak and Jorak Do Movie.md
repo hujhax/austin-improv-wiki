@@ -9,7 +9,7 @@ image: "File/Jorak%20and%20Jorak%20Do%20Movie.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Jorak and Jorak Do Movie.jpg.md"><img src="File/Jorak%20and%20Jorak%20Do%20Movie.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Jorak and Jorak Do Movie.jpg.md"><a class="internal-link" href="File/Jorak and Jorak Do Movie.jpg.md"><img src="File/Jorak%20and%20Jorak%20Do%20Movie.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

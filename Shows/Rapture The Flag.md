@@ -9,7 +9,7 @@ image: "File/Rapture%20the%20Flag.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Rapture the Flag.jpg.md"><img src="File/Rapture%20the%20Flag.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Rapture the Flag.jpg.md"><a class="internal-link" href="File/Rapture the Flag.jpg.md"><img src="File/Rapture%20the%20Flag.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

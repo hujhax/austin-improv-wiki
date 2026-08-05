@@ -9,7 +9,7 @@ image: "File/Three%20Blondes.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Three Blondes.jpg.md"><img src="File/Three%20Blondes.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Three Blondes.jpg.md"><a class="internal-link" href="File/Three Blondes.jpg.md"><img src="File/Three%20Blondes.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

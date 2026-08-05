@@ -9,7 +9,7 @@ image: "File/Doctors%20Without%20Boundaries.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Doctors Without Boundaries.jpg.md"><img src="File/Doctors%20Without%20Boundaries.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Doctors Without Boundaries.jpg.md"><a class="internal-link" href="File/Doctors Without Boundaries.jpg.md"><img src="File/Doctors%20Without%20Boundaries.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

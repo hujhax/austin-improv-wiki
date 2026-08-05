@@ -9,7 +9,7 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Tall Tales of the High Seas.jpg.md"><img src="File/Tall%20Tales%20of%20the%20High%20Seas.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Tall Tales of the High Seas.jpg.md"><a class="internal-link" href="File/Tall Tales of the High Seas.jpg.md"><img src="File/Tall%20Tales%20of%20the%20High%20Seas.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -195,7 +195,7 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 ***Tall Tales of the High Seas*** is a pirate-themed mainstage improv show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
-![[File/TallTalesoftheHighSeasPoster1.png]]![[File/TallTalesoftheHighSeasPoster2.png]]Pirates: loveable rogues, intrepid adventurers, notorious criminals. For young and old alike pirate stories evoke the spirit of danger, freedom and flamboyant eccentricities like no other genre. Follow our bigger than life characters into the golden age of swashbuckling where masts will split, cutlasses will shatter… but the truth will just be slightly bent.
+[![[File/TallTalesoftheHighSeasPoster1.png]]](File/TallTalesoftheHighSeasPoster1.png.md)[![[File/TallTalesoftheHighSeasPoster2.png]]](File/TallTalesoftheHighSeasPoster2.png.md)Pirates: loveable rogues, intrepid adventurers, notorious criminals. For young and old alike pirate stories evoke the spirit of danger, freedom and flamboyant eccentricities like no other genre. Follow our bigger than life characters into the golden age of swashbuckling where masts will split, cutlasses will shatter… but the truth will just be slightly bent.
 
 Inspired by works like Treasure Island, Baron von Münchausen, Stardust and the Crimson Pirate we will spin totally, absolutely true yarns of bodice-ripping romance, unspeakable danger, sword-fights and exotic locations.
 

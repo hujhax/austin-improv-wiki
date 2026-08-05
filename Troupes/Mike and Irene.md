@@ -9,7 +9,7 @@ image: "File/MikeIrenePoster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/MikeIrenePoster.jpg.md"><img src="File/MikeIrenePoster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/MikeIrenePoster.jpg.md"><a class="internal-link" href="File/MikeIrenePoster.jpg.md"><img src="File/MikeIrenePoster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -74,7 +74,7 @@ image: "File/MikeIrenePoster.jpg"
 	</table>
 </div>
 
-![[File/MikeIrene.jpg|Mike and Irene performing at [The Hideout Theatre](Theatres/The%20Hideout%20Theatre).]]
+[![[File/MikeIrene.jpg|Mike and Irene performing at [The Hideout Theatre](Theatres/The%20Hideout%20Theatre).]]](File/MikeIrene.jpg.md)
 
 **Mike and Irene** is an improv duo.
 

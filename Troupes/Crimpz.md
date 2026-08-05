@@ -9,7 +9,7 @@ image: "File/Crimpz.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Crimpz.png.md"><img src="File/Crimpz.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Crimpz.png.md"><a class="internal-link" href="File/Crimpz.png.md"><img src="File/Crimpz.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

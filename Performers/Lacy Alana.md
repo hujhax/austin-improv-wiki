@@ -9,7 +9,7 @@ image: "File/Lacy%20Shawn%20Profile.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Lacy Shawn Profile.jpg.md"><img src="File/Lacy%20Shawn%20Profile.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Lacy Shawn Profile.jpg.md"><a class="internal-link" href="File/Lacy Shawn Profile.jpg.md"><img src="File/Lacy%20Shawn%20Profile.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

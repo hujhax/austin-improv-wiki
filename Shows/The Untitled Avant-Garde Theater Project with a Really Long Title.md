@@ -9,7 +9,7 @@ image: "File/The%20Untitled%20Avant-Garde%20Theater%20Project%20with%20a%20Reall
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg.md"><img src="File/The%20Untitled%20Avant-Garde%20Theater%20Project%20with%20a%20Really%20Long%20Title%20Placeholder%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg.md"><a class="internal-link" href="File/The Untitled Avant-Garde Theater Project with a Really Long Title Placeholder Image.jpg.md"><img src="File/The%20Untitled%20Avant-Garde%20Theater%20Project%20with%20a%20Really%20Long%20Title%20Placeholder%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

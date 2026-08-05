@@ -9,7 +9,7 @@ image: "File/Mister%20Morbid.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mister Morbid.jpg.md"><img src="File/Mister%20Morbid.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Mister Morbid.jpg.md"><a class="internal-link" href="File/Mister Morbid.jpg.md"><img src="File/Mister%20Morbid.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -137,7 +137,7 @@ image: "File/Mister%20Morbid.jpg"
 	</table>
 </div>
 
-![[File/Booker as Morbid.jpg|[Tom Booker](Performers/Tom%20Booker), in character as Mister Morbid.]]
+[![[File/Booker as Morbid.jpg|[Tom Booker](Performers/Tom%20Booker), in character as Mister Morbid.]]](File/Booker as Morbid.jpg.md)
 ***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** was an improv show.
 
 ## Summary

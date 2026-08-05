@@ -9,7 +9,7 @@ image: "File/Default%20Maestro%20Image.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Default Maestro Image.jpg.md"><img src="File/Default%20Maestro%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Default Maestro Image.jpg.md"><a class="internal-link" href="File/Default Maestro Image.jpg.md"><img src="File/Default%20Maestro%20Image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

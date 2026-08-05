@@ -9,7 +9,7 @@ image: "File/DJ%20Danger%20Dad.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/DJ Danger Dad.jpg.md"><img src="File/DJ%20Danger%20Dad.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/DJ Danger Dad.jpg.md"><a class="internal-link" href="File/DJ Danger Dad.jpg.md"><img src="File/DJ%20Danger%20Dad.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -8,7 +8,7 @@ image: "File/Mother%20Fing%20Action%20Heroes%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Mother Fing Action Heroes!.jpg.md"><img src="File/Mother%20Fing%20Action%20Heroes!.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
+				<a href="File/Mother Fing Action Heroes!.jpg.md"><a class="internal-link" href="File/Mother Fing Action Heroes!.jpg.md"><img src="File/Mother%20Fing%20Action%20Heroes!.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
 			</td>
 		</tr>
 		<tr class="">
