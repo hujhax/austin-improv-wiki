@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Catalyst."
 ---
-<div style="text-align: center;"><img src="File/Catalyst.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Catalyst.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Catalyst|Catalyst]].

@@ -1,7 +1,7 @@
 ---
 description: "Megan Venable performing in The Next Chapter on 6/21/13."
 ---
-<div style="text-align: center;"><img src="File/Megan Venable Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Megan Venable Pic.jpg]]
 
 ## Summary
 [[Performers/Megan Venable|Megan Venable]] performing in *[[Shows/The Next Chapter|The Next Chapter]]* on 6/21/13.

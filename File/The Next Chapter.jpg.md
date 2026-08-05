@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Next Chapter."
 ---
-<div style="text-align: center;"><img src="File/The Next Chapter.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Next Chapter.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/The Next Chapter|The Next Chapter]]*.

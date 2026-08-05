@@ -1,7 +1,7 @@
 ---
 description: "Tyler Bryce, in the season-one finale of Thinning the Herd,..."
 ---
-<div style="text-align: center;"><img src="File/Tyler Bryce Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Tyler Bryce Pic.jpg]]
 
 ## Summary
 [[Performers/Tyler Bryce|Tyler Bryce]], in the season-one finale of *[[Shows/Thinning The Herd|Thinning The Herd]]*, on 1/3/13.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Cheap Date."
 ---
-<div style="text-align: center;"><img src="File/Cheap Date.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cheap Date.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Cheap Date|Cheap Date]].

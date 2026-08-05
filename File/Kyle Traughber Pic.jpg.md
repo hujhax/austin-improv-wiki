@@ -1,7 +1,7 @@
 ---
 description: "Kyle Traughber, performing in Gnap!"
 ---
-<div style="text-align: center;"><img src="File/Kyle Traughber Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kyle Traughber Pic.jpg]]
 
 ## Summary
 ## Summary

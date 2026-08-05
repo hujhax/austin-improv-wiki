@@ -1,7 +1,7 @@
 ---
 description: "Banner image for The Monologue Jam."
 ---
-<div style="text-align: center;"><img src="File/The Monologue Jam.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Monologue Jam.jpg]]
 
 ## Summary
 Banner image for *[[Shows/The Monologue Jam|The Monologue Jam]]*.

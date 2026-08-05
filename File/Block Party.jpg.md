@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Block Party."
 ---
-<div style="text-align: center;"><img src="File/Block Party.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Block Party.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Block Party|Block Party]]*.

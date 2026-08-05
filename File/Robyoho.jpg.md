@@ -1,6 +1,6 @@
 ---
 description: "Rob Yoho, in Hardish Bodies."
 ---
-<div style="text-align: center;"><img src="File/Robyoho.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Robyoho.jpg]]
 
 Rob Yoho, in Hardish Bodies.

@@ -1,7 +1,7 @@
 ---
 description: "Poster for the Hideout mainstage show Rock: The Improvised Rock..."
 ---
-<div style="text-align: center;"><img src="File/Rock poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Rock poster.jpg]]
 
 ## Summary
 Poster for the Hideout mainstage show *Rock: The Improvised Rock Opera*.

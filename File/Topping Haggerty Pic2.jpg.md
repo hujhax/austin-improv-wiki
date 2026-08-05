@@ -1,6 +1,6 @@
 ---
 description: "Photo by Erik Young."
 ---
-<div style="text-align: center;"><img src="File/Topping Haggerty Pic2.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Topping Haggerty Pic2.jpg]]
 
 Photo by Erik Young

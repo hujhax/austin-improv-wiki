@@ -1,7 +1,7 @@
 ---
 description: "Photo of Shamrock."
 ---
-<div style="text-align: center;"><img src="File/Shamrock.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Shamrock.jpg]]
 
 ## Summary
 Photo of [[Troupes/Shamrock|Shamrock]].

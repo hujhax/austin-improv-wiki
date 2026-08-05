@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for Adventure PhD."
 ---
-<div style="text-align: center;"><img src="File/Adventure PhD Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Adventure PhD Placeholder Image.jpg]]
 
 ## Summary
 Placeholder image for *[[Shows/Adventure PhD|Adventure PhD]]*.

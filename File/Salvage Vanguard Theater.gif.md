@@ -1,7 +1,7 @@
 ---
 description: "Logo for Salvage Vanguard Theater."
 ---
-<div style="text-align: center;"><img src="File/Salvage Vanguard Theater.gif" style="max-width: 100%; height: auto;" /></div>
+![[File/Salvage Vanguard Theater.gif]]
 
 ## Summary
 Logo for [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].

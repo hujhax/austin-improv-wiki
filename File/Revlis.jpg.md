@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Revlis."
 ---
-<div style="text-align: center;"><img src="File/Revlis.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Revlis.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Revlis|Revlis]].

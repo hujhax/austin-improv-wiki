@@ -1,7 +1,7 @@
 ---
 description: "Drew Wesely who likes cats."
 ---
-<div style="text-align: center;"><img src="File/Drew Wesely Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Drew Wesely Pic.jpg]]
 
 ## Summary
 [[Performers/Drew Wesely|Drew Wesely]] who likes cats.

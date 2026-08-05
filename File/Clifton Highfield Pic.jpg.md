@@ -1,7 +1,7 @@
 ---
 description: "Clifton Highfield, in the 10/26/12 performance of Pulp Friction."
 ---
-<div style="text-align: center;"><img src="File/Clifton Highfield Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Clifton Highfield Pic.jpg]]
 
 ## Summary
 [[Performers/Clifton Highfield|Clifton Highfield]], in the 10/26/12 performance of *[[Shows/Pulp Friction|Pulp Friction]]*.

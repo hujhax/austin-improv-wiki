@@ -1,7 +1,7 @@
 ---
 description: "Kosher Bacon points at the audience after their 9/8/12 performance..."
 ---
-<div style="text-align: center;"><img src="File/Kosher Bacon Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kosher Bacon Pic.jpg]]
 
 ## Summary
 [[Troupes/Kosher Bacon|Kosher Bacon]] points at the audience after their 9/8/12 performance of *Under Waged* at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.

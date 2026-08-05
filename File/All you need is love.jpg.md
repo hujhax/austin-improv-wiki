@@ -1,7 +1,7 @@
 ---
 description: "Promotional banner image for All You Need Is Love."
 ---
-<div style="text-align: center;"><img src="File/All you need is love.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/All you need is love.jpg]]
 
 ## Summary
 promotional banner image for All You Need Is Love

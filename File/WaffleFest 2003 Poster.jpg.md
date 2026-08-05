@@ -1,7 +1,7 @@
 ---
 description: "Poster for WaffleFest 2003."
 ---
-<div style="text-align: center;"><img src="File/WaffleFest 2003 Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/WaffleFest 2003 Poster.jpg]]
 
 ## Summary
 Poster for [[Festivals/WaffleFest 2003|WaffleFest 2003]].

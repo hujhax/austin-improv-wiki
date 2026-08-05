@@ -1,7 +1,7 @@
 ---
 description: "Michael Joplin, performing with the Available Cupholders at the 2013..."
 ---
-<div style="text-align: center;"><img src="File/Michael Joplin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Michael Joplin Pic.jpg]]
 
 ## Summary
 [[Performers/Michael Joplin|Michael Joplin]], performing with the [[Troupes/Available Cupholders|Available Cupholders]] at the 2013 [[Festivals/Improvised Play Festival|Improvised Play Festival]].

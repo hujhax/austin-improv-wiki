@@ -1,7 +1,7 @@
 ---
 description: "Photo of Nicole Oliver."
 ---
-<div style="text-align: center;"><img src="File/Nicole Oliver Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Nicole Oliver Pic.jpg]]
 
 ## Summary
 Photo of [[Performers/Nicole Oliver|Nicole Oliver]].

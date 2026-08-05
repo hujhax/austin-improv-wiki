@@ -1,7 +1,7 @@
 ---
 description: "Poster for Cascade by Ryan Austin."
 ---
-<div style="text-align: center;"><img src="File/Cascade.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cascade.jpg]]
 
 ## Summary
 Poster for Cascade by [[Performers/Ryan Austin|Ryan Austin]]

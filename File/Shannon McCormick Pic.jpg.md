@@ -1,7 +1,7 @@
 ---
 description: "Shannon McCormick, performing with Get Up at the 2012 WaffleFest."
 ---
-<div style="text-align: center;"><img src="File/Shannon McCormick Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Shannon McCormick Pic.jpg]]
 
 ## Summary
 [[Performers/Shannon McCormick|Shannon McCormick]], performing with [[Troupes/Get Up|Get Up]] at the 2012 [[Festivals/Wafflefest|Wafflefest]].

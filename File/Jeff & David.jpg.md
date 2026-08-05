@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Jeff & David."
 ---
-<div style="text-align: center;"><img src="File/Jeff & David.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jeff & David.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Jeff & David|Jeff & David]].

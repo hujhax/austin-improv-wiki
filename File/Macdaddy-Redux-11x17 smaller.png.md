@@ -1,7 +1,7 @@
 ---
 description: "Poster for Townsville's \"MacDaddy's\" show."
 ---
-<div style="text-align: center;"><img src="File/Macdaddy-Redux-11x17 smaller.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Macdaddy-Redux-11x17 smaller.png]]
 
 ## Summary
 Poster for [[Shows/Townsville|Townsville]]'s "MacDaddy's" show.

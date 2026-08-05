@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Nicole Beckley for The Suitcase."
 ---
-<div style="text-align: center;"><img src="File/Nicole Beckley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Nicole Beckley Pic.jpg]]
 
 ## Summary
 Publicity photo of [[Performers/Nicole Beckley|Nicole Beckley]] for *[[Shows/The Suitcase|The Suitcase]]*.

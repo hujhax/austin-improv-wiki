@@ -1,7 +1,7 @@
 ---
 description: "Kevin Machate, appearing as Dr."
 ---
-<div style="text-align: center;"><img src="File/Kevin Machate Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kevin Machate Pic.jpg]]
 
 ## Summary
 [[Performers/Kevin Machate|Kevin Machate]], appearing as Dr. Cox in *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*.

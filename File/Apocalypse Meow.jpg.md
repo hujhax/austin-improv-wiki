@@ -1,7 +1,7 @@
 ---
 description: "Logo for Apocalypse Meow."
 ---
-<div style="text-align: center;"><img src="File/Apocalypse Meow.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Apocalypse Meow.jpg]]
 
 ## Summary
 Logo for [[Troupes/Apocalypse Meow|Apocalypse Meow]].

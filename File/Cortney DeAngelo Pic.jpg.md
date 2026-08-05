@@ -1,7 +1,7 @@
 ---
 description: "Cortney DeAngelo, in the 10/28/11 performance of Epic!."
 ---
-<div style="text-align: center;"><img src="File/Cortney DeAngelo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cortney DeAngelo Pic.jpg]]
 
 ## Summary
 [[Performers/Cortney DeAngelo|Cortney DeAngelo]], in the 10/28/11 performance of *[[Troupes/EPIC!|EPIC!]]*.

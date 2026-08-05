@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for What_the_F@*$."
 ---
-<div style="text-align: center;"><img src="File/What the F@$.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/What the F@$.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/What the F@$|What the F@$]]*.

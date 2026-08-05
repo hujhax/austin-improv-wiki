@@ -1,7 +1,7 @@
 ---
 description: "Total Panic performing at ColdTowne Theater."
 ---
-<div style="text-align: center;"><img src="File/Total Panic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Total Panic.jpg]]
 
 ## Summary
 [[Troupes/Total Panic|Total Panic]] performing at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

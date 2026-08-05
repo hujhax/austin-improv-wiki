@@ -1,7 +1,7 @@
 ---
 description: "Bric-a-Brac pre show promo."
 ---
-<div style="text-align: center;"><img src="File/BricABracPromo2.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/BricABracPromo2.jpg]]
 
 ## Summary
 Bric-a-Brac pre show promo

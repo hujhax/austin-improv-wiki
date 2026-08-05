@@ -1,7 +1,7 @@
 ---
 description: "Asaf Ronen and Kristin Firth in a performance by The..."
 ---
-<div style="text-align: center;"><img src="File/The Plagiarists.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Plagiarists.jpg]]
 
 ## Summary
 [[Performers/Asaf Ronen|Asaf Ronen]] (channeling Samuel Beckett) and [[Performers/Kristin Firth|Kristin Firth]] (channeling John Guare) in a performance by [[Troupes/The Plagiarists|The Plagiarists]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 5/28/10.

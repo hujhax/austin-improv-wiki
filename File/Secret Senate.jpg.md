@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Secret Senate."
 ---
-<div style="text-align: center;"><img src="File/Secret Senate.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Secret Senate.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Secret Senate|Secret Senate]].

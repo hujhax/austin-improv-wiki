@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for \"_____\" or Bust!"
 ---
-<div style="text-align: center;"><img src="File/Blank or Bust.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Blank or Bust.jpg]]
 
 ## Summary
 Publicity image for [[Shows/' ' or Bust!|' ' or Bust!]]

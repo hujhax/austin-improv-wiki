@@ -1,7 +1,7 @@
 ---
 description: "Ruby Willmann performing with The Escorts on 8/24/12."
 ---
-<div style="text-align: center;"><img src="File/Ruby Willmann.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ruby Willmann.jpg]]
 
 ## Summary
 [[Performers/Ruby Willmann|Ruby Willmann]] performing with [[Troupes/The Escorts|The Escorts]] on 8/24/12.

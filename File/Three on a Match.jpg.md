@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Three on a Match."
 ---
-<div style="text-align: center;"><img src="File/Three on a Match.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Three on a Match.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Three on a Match|Three on a Match]].

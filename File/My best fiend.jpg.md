@@ -1,7 +1,7 @@
 ---
 description: "Andreas Fabis & Chris Allen - photo by Andreas Fabis..."
 ---
-<div style="text-align: center;"><img src="File/My best fiend.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/My best fiend.jpg]]
 
 ## Summary
 Andreas Fabis & Chris Allen - photo by Andreas Fabis 2012

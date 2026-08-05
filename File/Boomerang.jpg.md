@@ -1,7 +1,7 @@
 ---
 description: "Boomerang, at the 11/13/15 photobooth for Parallelogramophonograph's 10th-anniversary bash."
 ---
-<div style="text-align: center;"><img src="File/Boomerang.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Boomerang.jpg]]
 
 ## Summary
 [[Troupes/Boomerang|Boomerang]], at the 11/13/15 photobooth for [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]'s 10th-anniversary bash.

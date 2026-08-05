@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Lunch Pail."
 ---
-<div style="text-align: center;"><img src="File/Lunch Pail.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lunch Pail.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Lunch Pail|Lunch Pail]].

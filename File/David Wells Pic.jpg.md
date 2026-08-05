@@ -1,7 +1,7 @@
 ---
 description: "David Wells in Lucky Chaos Production's \"The Depression Chronicles.\" Photo..."
 ---
-<div style="text-align: center;"><img src="File/David Wells Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/David Wells Pic.jpg]]
 
 ## Summary
 David Wells in Lucky Chaos Production's "The Depression Chronicles." Photo by Steve Rogers

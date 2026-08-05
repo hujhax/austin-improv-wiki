@@ -1,7 +1,7 @@
 ---
 description: "I Snood Bear, performing in the 2007 Cagematch."
 ---
-<div style="text-align: center;"><img src="File/I Snood Bear.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/I Snood Bear.jpg]]
 
 ## Summary
 [[Troupes/I Snood Bear|I Snood Bear]], performing in the 2007 *[[Shows/Cagematch|Cagematch]]*.

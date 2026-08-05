@@ -1,7 +1,7 @@
 ---
 description: "Promotional art for the third run of Austin Secrets, taken..."
 ---
-<div style="text-align: center;"><img src="File/Austin Secrets.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Austin Secrets.jpg]]
 
 ## Summary
 Promotional art for the third run of [[Shows/Austin Secrets|Austin Secrets]], taken from [the show site](http://www.hideouttheatre.com/shows/austinsecrets).

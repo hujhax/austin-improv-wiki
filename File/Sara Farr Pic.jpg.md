@@ -1,7 +1,7 @@
 ---
 description: "Sara Farr, performing in Crack on 8/20/10."
 ---
-<div style="text-align: center;"><img src="File/Sara Farr Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Sara Farr Pic.jpg]]
 
 ## Summary
 [[Performers/Sara Farr|Sara Farr]], performing in *[[Shows/Crack|Crack]]* on 8/20/10.

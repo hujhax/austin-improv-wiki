@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Four Stories Tall."
 ---
-<div style="text-align: center;"><img src="File/Four Stories Tall .jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Four Stories Tall .jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Four Stories Tall|Four Stories Tall]].

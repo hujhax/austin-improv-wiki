@@ -1,7 +1,7 @@
 ---
 description: "Lane & Jane, performing in the 5/17/13 2x4."
 ---
-<div style="text-align: center;"><img src="File/Lane and Jane.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lane and Jane.jpg]]
 
 ## Summary
 [[Troupes/Lane & Jane|Lane & Jane]], performing in the 5/17/13 *[[Shows/2x4|2x4]]*.

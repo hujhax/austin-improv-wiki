@@ -1,7 +1,7 @@
 ---
 description: "Photo of Nice Astronaut."
 ---
-<div style="text-align: center;"><img src="File/Niceasstronautchamp1.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Niceasstronautchamp1.jpg]]
 
 ## Summary
 Photo of [[Troupes/Nice Astronaut|Nice Astronaut]].

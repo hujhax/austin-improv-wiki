@@ -1,7 +1,7 @@
 ---
 description: "Happiness is a Choice, performing at ColdTowne Theater on 3/15/10."
 ---
-<div style="text-align: center;"><img src="File/Happiness is a Choice.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Happiness is a Choice.jpg]]
 
 ## Summary
 [[Troupes/Happiness is a Choice|Happiness is a Choice]], performing at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 3/15/10.

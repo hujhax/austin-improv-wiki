@@ -1,7 +1,7 @@
 ---
 description: "Jericho Thorp, performing with Midnight Society in WaffleFest 2003."
 ---
-<div style="text-align: center;"><img src="File/Jericho Thorp Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jericho Thorp Pic.jpg]]
 
 ## Summary
 [[Performers/Jericho Thorp|Jericho Thorp]], performing with [[Troupes/Midnight Society|Midnight Society]] in [[Festivals/WaffleFest 2003|WaffleFest 2003]].

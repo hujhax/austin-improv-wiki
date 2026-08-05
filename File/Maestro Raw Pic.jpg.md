@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for Maestro Raw."
 ---
-<div style="text-align: center;"><img src="File/Maestro Raw Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Maestro Raw Pic.jpg]]
 
 ## Summary
 Promotional image for *[[Shows/Maestro Raw|Maestro Raw]]*.

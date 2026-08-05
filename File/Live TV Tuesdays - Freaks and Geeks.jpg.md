@@ -1,7 +1,7 @@
 ---
 description: "The \"Jesus Is Just Alright\" song from \"Beers and Weirs\"..."
 ---
-<div style="text-align: center;"><img src="File/Live TV Tuesdays - Freaks and Geeks.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Live TV Tuesdays - Freaks and Geeks.jpg]]
 
 ## Summary
 The "Jesus Is Just Alright" song from "Beers and Weirs" becomes a gigantic musical number in the [[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays presentation of *Freaks and Geeks*]].

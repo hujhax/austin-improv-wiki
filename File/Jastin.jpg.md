@@ -1,7 +1,7 @@
 ---
 description: "Jastin performing in the 1/17/14 2x4."
 ---
-<div style="text-align: center;"><img src="File/Jastin.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jastin.jpg]]
 
 ## Summary
 [[Troupes/Jastin|Jastin]] performing in the 1/17/14 *[[Shows/2x4|2x4]]*.

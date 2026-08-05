@@ -1,7 +1,7 @@
 ---
 description: "Casual photo of Kinkade."
 ---
-<div style="text-align: center;"><img src="File/Kinkade.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kinkade.jpg]]
 
 ## Summary
 Casual photo of [[Troupes/Kinkade|Kinkade]].

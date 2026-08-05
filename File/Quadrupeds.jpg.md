@@ -1,7 +1,7 @@
 ---
 description: "Quadrupeds performing in the Free Fringe on 4/30/15."
 ---
-<div style="text-align: center;"><img src="File/Quadrupeds.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Quadrupeds.jpg]]
 
 ## Summary
 [[Troupes/Quadrupeds|Quadrupeds]] performing in the *[[Shows/Free Fringe|Free Fringe]]* on 4/30/15.

@@ -1,7 +1,7 @@
 ---
 description: "The cast of Holy 1960s Batman, Batman!"
 ---
-<div style="text-align: center;"><img src="File/Batman.cast.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Batman.cast.jpg]]
 
 ## Summary
 The cast of *[[Shows/Holy 1960s Batman, Batman!|Holy 1960s Batman, Batman!]]*

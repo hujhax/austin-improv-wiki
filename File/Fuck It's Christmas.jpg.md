@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Fuck It's Christmas."
 ---
-<div style="text-align: center;"><img src="File/Fuck It's Christmas.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fuck It's Christmas.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Fuck It's Christmas|Fuck It's Christmas]]*.

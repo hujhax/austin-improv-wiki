@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Anticdotes."
 ---
-<div style="text-align: center;"><img src="File/Anticdotes.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Anticdotes.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Anticdotes|Anticdotes]].

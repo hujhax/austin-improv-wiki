@@ -1,7 +1,7 @@
 ---
 description: "Default image for Maestro."
 ---
-<div style="text-align: center;"><img src="File/Default Maestro Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Default Maestro Image.jpg]]
 
 ## Summary
 Default image for Maestro.

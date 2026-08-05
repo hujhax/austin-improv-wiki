@@ -1,7 +1,7 @@
 ---
 description: "Cheap Date livin Cheap."
 ---
-<div style="text-align: center;"><img src="File/Cheapdate.gif" style="max-width: 100%; height: auto;" /></div>
+![[File/Cheapdate.gif]]
 
 ## Summary
 Cheap Date livin Cheap

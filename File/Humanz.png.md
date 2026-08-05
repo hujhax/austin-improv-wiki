@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Humanz."
 ---
-<div style="text-align: center;"><img src="File/Humanz.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Humanz.png]]
 
 ## Summary
 Publicity image for [[Troupes/Humanz|Humanz]].

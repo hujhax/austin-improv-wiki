@@ -1,7 +1,7 @@
 ---
 description: "Poster for Soundstage 23, featuring the cast."
 ---
-<div style="text-align: center;"><img src="File/Soundstage23.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Soundstage23.jpg]]
 
 ## Summary
 Poster for *[[Shows/Soundstage 23|Soundstage 23]]*, featuring the cast.

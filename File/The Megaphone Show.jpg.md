@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Megaphone Show."
 ---
-<div style="text-align: center;"><img src="File/The Megaphone Show.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Megaphone Show.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/The Megaphone Show|The Megaphone Show]]*.

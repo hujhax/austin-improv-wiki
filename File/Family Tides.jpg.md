@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Family Tides."
 ---
-<div style="text-align: center;"><img src="File/Family Tides.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Family Tides.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/Family Tides|Family Tides]]*.

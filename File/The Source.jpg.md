@@ -1,7 +1,7 @@
 ---
 description: "Audition-announcement image for The Source."
 ---
-<div style="text-align: center;"><img src="File/The Source.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Source.jpg]]
 
 ## Summary
 Audition-announcement image for *[[Shows/The Source|The Source]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of PJ Party."
 ---
-<div style="text-align: center;"><img src="File/PJ Party.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/PJ Party.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/PJ Party|PJ Party]].

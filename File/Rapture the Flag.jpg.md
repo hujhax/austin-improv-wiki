@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Rapture the Flag."
 ---
-<div style="text-align: center;"><img src="File/Rapture the Flag.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Rapture the Flag.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/Rapture The Flag|Rapture The Flag]]*.

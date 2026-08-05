@@ -1,7 +1,7 @@
 ---
 description: "Headshot of Rosemarie Frezza."
 ---
-<div style="text-align: center;"><img src="File/Rosemarie Frezza Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Rosemarie Frezza Pic.jpg]]
 
 ## Summary
 Headshot of [[Performers/Rosemarie Frezza|Rosemarie Frezza]].

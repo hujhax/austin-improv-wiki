@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Taxi Cab Impressions."
 ---
-<div style="text-align: center;"><img src="File/Taxi Cab Impressions.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Taxi Cab Impressions.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Taxi Cab Impressions|Taxi Cab Impressions]].

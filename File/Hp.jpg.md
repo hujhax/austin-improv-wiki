@@ -1,7 +1,7 @@
 ---
 description: "Human People."
 ---
-<div style="text-align: center;"><img src="File/Hp.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Hp.jpg]]
 
 ## Summary
 Human People

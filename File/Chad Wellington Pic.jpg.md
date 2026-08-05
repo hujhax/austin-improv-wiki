@@ -1,7 +1,7 @@
 ---
 description: "Chad Wellington, performing in the 12/7/12 Fancy-Pants Mashup."
 ---
-<div style="text-align: center;"><img src="File/Chad Wellington Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Chad Wellington Pic.jpg]]
 
 ## Summary
 [[Performers/Chad Wellington|Chad Wellington]], performing in the 12/7/12 *[[Shows/The Fancy-Pants Mashup|Fancy-Pants Mashup]]*.

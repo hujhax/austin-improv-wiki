@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Lord Dennis."
 ---
-<div style="text-align: center;"><img src="File/Lord Dennis.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lord Dennis.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Lord Dennis|Lord Dennis]].

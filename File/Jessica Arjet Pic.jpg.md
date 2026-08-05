@@ -1,7 +1,7 @@
 ---
 description: "Jessica Arjet performing with In Our Prime at the Oklahoma..."
 ---
-<div style="text-align: center;"><img src="File/Jessica Arjet Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jessica Arjet Pic.jpg]]
 
 ## Summary
 Jessica Arjet performing with In Our Prime at the Oklahoma Improv Festival, 2012.

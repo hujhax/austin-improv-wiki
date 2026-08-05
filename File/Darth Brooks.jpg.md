@@ -1,7 +1,7 @@
 ---
 description: "Photo of Darth Brooks."
 ---
-<div style="text-align: center;"><img src="File/Darth Brooks.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Darth Brooks.jpg]]
 
 ## Summary
 Photo of [[Troupes/Darth Brooks|Darth Brooks]].

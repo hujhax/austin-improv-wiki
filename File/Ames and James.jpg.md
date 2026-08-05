@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of Ames and James."
 ---
-<div style="text-align: center;"><img src="File/Ames and James.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ames and James.jpg]]
 
 ## Summary
 Publicity image of [[Troupes/Ames and James|Ames and James]].

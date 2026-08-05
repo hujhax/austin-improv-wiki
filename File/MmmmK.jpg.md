@@ -1,7 +1,7 @@
 ---
 description: "MmmmK, playing in Honolulu's 2011 Improvaganza festival."
 ---
-<div style="text-align: center;"><img src="File/MmmmK.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/MmmmK.jpg]]
 
 ## Summary
 [[Troupes/MmmmK|MmmmK]], playing in Honolulu's 2011 Improvaganza festival.

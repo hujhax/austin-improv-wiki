@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of J/K."
 ---
-<div style="text-align: center;"><img src="File/J-K.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/J-K.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/J-K|J-K]].

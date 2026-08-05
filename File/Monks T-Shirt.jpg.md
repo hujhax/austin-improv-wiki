@@ -1,7 +1,7 @@
 ---
 description: "A Monks' Night Out t-shirt."
 ---
-<div style="text-align: center;"><img src="File/Monks T-Shirt.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Monks T-Shirt.jpg]]
 
 ## Summary
 A [[Troupes/Monks' Night Out|Monks' Night Out]] t-shirt.

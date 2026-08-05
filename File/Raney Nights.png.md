@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Raney Nights."
 ---
-<div style="text-align: center;"><img src="File/Raney Nights.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Raney Nights.png]]
 
 ## Summary
 Publicity image for *[[Shows/Raney Nights|Raney Nights]]*.

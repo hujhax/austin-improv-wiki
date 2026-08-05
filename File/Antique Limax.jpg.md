@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Antique Limax."
 ---
-<div style="text-align: center;"><img src="File/Antique Limax.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Antique Limax.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Antique Limax|Antique Limax]].

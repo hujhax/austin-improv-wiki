@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Apocalypse!, featuring Madi Goff."
 ---
-<div style="text-align: center;"><img src="File/Apocalypse (Show).jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Apocalypse (Show).jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Apocalypse! (Show)|Apocalypse!]]*, featuring [[Performers/Madi Goff|Madi Goff]].

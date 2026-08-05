@@ -1,7 +1,7 @@
 ---
 description: "Kacey Samiee and Justin Davis performing with The Library on..."
 ---
-<div style="text-align: center;"><img src="File/The Library.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Library.jpg]]
 
 ## Summary
 [[Performers/Kacey Samiee|Kacey Samiee]] and [[Performers/Justin Davis|Justin Davis]] performing with [[Troupes/The Library|The Library]] on 5/16/13.

@@ -1,7 +1,7 @@
 ---
 description: "Poster for The Joss Whedon Pajama Party, featuring Chelley Pyatt."
 ---
-<div style="text-align: center;"><img src="File/The Joss Whedon Pajama Party.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Joss Whedon Pajama Party.jpg]]
 
 ## Summary
 Poster for *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*, featuring [[Performers/Chelley Pyatt|Chelley Pyatt]].

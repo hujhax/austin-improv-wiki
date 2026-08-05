@@ -2,7 +2,7 @@
 description: "REDIRECT."
 image: "File/SongRunner.jpg"
 ---
-<div style="text-align: center;"><img src="File/Cyber House Rules.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cyber House Rules.jpg]]
 
 ---
 redirect: "File/SongRunner.jpg"

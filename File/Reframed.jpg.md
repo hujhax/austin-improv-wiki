@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Reframed."
 ---
-<div style="text-align: center;"><img src="File/Reframed.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Reframed.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Reframed|Reframed]]*.

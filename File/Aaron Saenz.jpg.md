@@ -1,7 +1,7 @@
 ---
 description: "Picture of Aaron Saenz."
 ---
-<div style="text-align: center;"><img src="File/Aaron Saenz.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Aaron Saenz.jpg]]
 
 ## Summary
 Picture of [[Performers/Aaron Saenz|Aaron Saenz]].

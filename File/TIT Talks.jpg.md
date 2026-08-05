@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for TIT Talks."
 ---
-<div style="text-align: center;"><img src="File/TIT Talks.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/TIT Talks.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/TIT Talks|TIT Talks]]*.

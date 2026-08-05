@@ -1,4 +1,4 @@
-<div style="text-align: center;"><img src="File/Scott Hearne.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Scott Hearne.jpg]]
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

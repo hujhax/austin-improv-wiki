@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Racket."
 ---
-<div style="text-align: center;"><img src="File/Racket.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Racket.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Racket|Racket]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Inner Picnic Profile Pic."
 ---
-<div style="text-align: center;"><img src="File/Innerpicnic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Innerpicnic.jpg]]
 
 ## Summary
 Inner Picnic Profile Pic

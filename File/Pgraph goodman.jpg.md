@@ -1,7 +1,7 @@
 ---
 description: "Promo photo for Parallelogramophonograph from their Reverend Goodman show."
 ---
-<div style="text-align: center;"><img src="File/Pgraph goodman.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Pgraph goodman.jpg]]
 
 ## Summary
 Promo photo for [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] from their [[Troupes/Reverend Goodman|Reverend Goodman]] show.

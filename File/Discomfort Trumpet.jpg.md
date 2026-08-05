@@ -1,7 +1,7 @@
 ---
 description: "Discomfort Trumpet, in their 8/31/10 performance at The Cagematch."
 ---
-<div style="text-align: center;"><img src="File/Discomfort Trumpet.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Discomfort Trumpet.jpg]]
 
 ## Summary
 [[Troupes/Discomfort Trumpet|Discomfort Trumpet]], in their 8/31/10 performance at *[[Shows/The Cagematch|The Cagematch]]*.

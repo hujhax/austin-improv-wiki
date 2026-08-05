@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Big Beautiful Warriors."
 ---
-<div style="text-align: center;"><img src="File/Big Beautiful Warriors.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Big Beautiful Warriors.jpg]]
 
 ## Summary
 Publicity image for [[Shows/Big Beautiful Warriors|Big Beautiful Warriors]].

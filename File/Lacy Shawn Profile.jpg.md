@@ -1,7 +1,7 @@
 ---
 description: "Lacy Shawn standing on a rainy street in San Francisco."
 ---
-<div style="text-align: center;"><img src="File/Lacy Shawn Profile.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lacy Shawn Profile.jpg]]
 
 ## Summary
 [[Performers/Lacy Shawn|Lacy Shawn]] standing on a rainy street in San Francisco. 

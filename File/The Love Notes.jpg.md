@@ -1,7 +1,7 @@
 ---
 description: "The Love Notes take their final bow with troupe member..."
 ---
-<div style="text-align: center;"><img src="File/The Love Notes.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Love Notes.jpg]]
 
 ## Summary
 [[Troupes/The Love Notes|The Love Notes]] take their final bow with troupe member [[Performers/Meghan Wolff|Meghan Wolff]] (before her departure to Minneapolis), from their 5/29/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.

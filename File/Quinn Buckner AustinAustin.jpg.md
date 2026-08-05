@@ -1,7 +1,7 @@
 ---
 description: "Promo picture of Quinn Buckner for Austin/Austin."
 ---
-<div style="text-align: center;"><img src="File/Quinn Buckner AustinAustin.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Quinn Buckner AustinAustin.jpg]]
 
 ## Summary
 Promo picture of [[Performers/Quinn Buckner|Quinn Buckner]] for [[Troupes/Austin-Austin|Austin-Austin]]

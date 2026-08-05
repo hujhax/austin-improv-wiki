@@ -1,7 +1,7 @@
 ---
 description: "Bric-a-Brac at Bexar Stage."
 ---
-<div style="text-align: center;"><img src="File/BricABracPromo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/BricABracPromo.jpg]]
 
 ## Summary
 Bric-a-Brac at Bexar Stage

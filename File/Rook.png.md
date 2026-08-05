@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for Rook."
 ---
-<div style="text-align: center;"><img src="File/Rook.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Rook.png]]
 
 ## Summary
 Promotional image for [[Troupes/Rook|Rook]].

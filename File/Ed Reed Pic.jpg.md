@@ -1,7 +1,7 @@
 ---
 description: "Ed Reed, performing with Bad Boys at ColdTowne Theater on..."
 ---
-<div style="text-align: center;"><img src="File/Ed Reed Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ed Reed Pic.jpg]]
 
 ## Summary
 [[Performers/Ed Reed|Ed Reed]], performing with [[Troupes/Bad Boys|Bad Boys]] at [[Theatres/Coldtowne Theater|Coldtowne Theater]] on 8/16/13.

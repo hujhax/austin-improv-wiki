@@ -1,7 +1,7 @@
 ---
 description: "Lindsey Reeves, performing with The Escorts on 8/24/12."
 ---
-<div style="text-align: center;"><img src="File/Lindsey Reeves Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lindsey Reeves Pic.jpg]]
 
 ## Summary
 [[Performers/Lindsey Reeves|Lindsey Reeves]], performing with [[Troupes/The Escorts|The Escorts]] on 8/24/12.

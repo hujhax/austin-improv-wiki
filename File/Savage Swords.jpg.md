@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Savage Swords, featuring J."
 ---
-<div style="text-align: center;"><img src="File/Savage Swords.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Savage Swords.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/Savage Swords|Savage Swords]]*, featuring [[Performers/J. R. Zambrano|J. R. Zambrano]], [[Performers/Peter Rogers|Peter Rogers]], and [[Performers/Suzanne Link|Suzanne Link]].

@@ -1,7 +1,7 @@
 ---
 description: "Preview image for Fakespeare, featuring director Andy Crouch."
 ---
-<div style="text-align: center;"><img src="File/Fakespeare Preview Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fakespeare Preview Image.jpg]]
 
 ## Summary
 Preview image for *[[Shows/Fakespeare|Fakespeare]]*, featuring director [[Performers/Andy Crouch|Andy Crouch]].

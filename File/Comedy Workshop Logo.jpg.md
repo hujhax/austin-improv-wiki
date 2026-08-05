@@ -1,7 +1,7 @@
 ---
 description: "Logo for The Comedy Workshop."
 ---
-<div style="text-align: center;"><img src="File/Comedy Workshop Logo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Comedy Workshop Logo.jpg]]
 
 ## Summary
 Logo for [[Theatres/The Comedy Workshop|The Comedy Workshop]].

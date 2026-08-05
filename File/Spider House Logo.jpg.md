@@ -1,7 +1,7 @@
 ---
 description: "Outdoor banner for The Spider House."
 ---
-<div style="text-align: center;"><img src="File/Spider House Logo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Spider House Logo.jpg]]
 
 ## Summary
 Outdoor banner for [[Theatres/The Spider House|The Spider House]].

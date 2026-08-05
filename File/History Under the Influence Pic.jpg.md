@@ -1,7 +1,7 @@
 ---
 description: "Poster for the May 2014 Threefer run of History Under..."
 ---
-<div style="text-align: center;"><img src="File/History Under the Influence Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/History Under the Influence Pic.jpg]]
 
 ## Summary
 Poster for the May 2014 *[[Shows/Threefer|Threefer]]* run of *[[Shows/History Under the Influence|History Under the Influence]]* starring [[Performers/Kevin Miller|Kevin Miller]].

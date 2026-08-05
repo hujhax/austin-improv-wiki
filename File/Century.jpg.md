@@ -1,7 +1,7 @@
 ---
 description: "Century playing their second show at Coldtowne theater."
 ---
-<div style="text-align: center;"><img src="File/Century.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Century.jpg]]
 
 ## Summary
 Century playing their second show at Coldtowne theater. Photo by Heidi Rogers.

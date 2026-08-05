@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Shawn Utterback for Elf Employment."
 ---
-<div style="text-align: center;"><img src="File/Shawn Utterback Pic.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Shawn Utterback Pic.png]]
 
 ## Summary
 Publicity photo of [[Performers/Shawn Utterback|Shawn Utterback]] for *[[Shows/Elf Employment|Elf Employment]]*.

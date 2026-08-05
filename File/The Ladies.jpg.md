@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Ladies."
 ---
-<div style="text-align: center;"><img src="File/The Ladies.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Ladies.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/The Ladies|The Ladies]].

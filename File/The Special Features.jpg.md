@@ -1,7 +1,7 @@
 ---
 description: "Photo by Topping Haggerty."
 ---
-<div style="text-align: center;"><img src="File/The Special Features.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Special Features.jpg]]
 
 ## Summary
 Photo by [[Troupes/Topping Haggerty|Topping Haggerty]]

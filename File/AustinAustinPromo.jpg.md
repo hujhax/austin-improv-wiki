@@ -1,7 +1,7 @@
 ---
 description: "Austin/Austin Performing in Out of Bounds."
 ---
-<div style="text-align: center;"><img src="File/AustinAustinPromo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/AustinAustinPromo.jpg]]
 
 ## Summary
 [[Troupes/Austin-Austin|Austin-Austin]] Performing in *[[Festivals/Out of Bounds|Out of Bounds]]*

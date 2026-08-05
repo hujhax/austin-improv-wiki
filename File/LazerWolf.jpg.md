@@ -1,7 +1,7 @@
 ---
 description: "Lazer Wolf at the end of their Improvised Singing 301..."
 ---
-<div style="text-align: center;"><img src="File/LazerWolf.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/LazerWolf.jpg]]
 
 ## Summary
 Lazer Wolf at the end of their Improvised Singing 301 graduation show.

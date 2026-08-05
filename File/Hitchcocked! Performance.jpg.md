@@ -1,7 +1,7 @@
 ---
 description: "Sean Hill and Christopher \"Ceej\" Allen, in the 3/27/10 performance..."
 ---
-<div style="text-align: center;"><img src="File/Hitchcocked! Performance.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Hitchcocked! Performance.jpg]]
 
 ## Summary
 [[Performers/Sean Hill|Sean Hill]] and [[Performers/Christopher 'Ceej' Allen|Christopher 'Ceej' Allen]], in the 3/27/10 performance of *[[Shows/Hitchcocked!|Hitchcocked!]]*

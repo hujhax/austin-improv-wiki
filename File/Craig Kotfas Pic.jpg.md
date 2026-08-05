@@ -1,7 +1,7 @@
 ---
 description: "Craig Kotfas, getting spattered with fake blood at the second..."
 ---
-<div style="text-align: center;"><img src="File/Craig Kotfas Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Craig Kotfas Pic.jpg]]
 
 ## Summary
 [[Performers/Craig Kotfas|Craig Kotfas]], getting spattered with fake blood at the second annual [[Bloody Balloon Battle]].

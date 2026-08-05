@@ -1,7 +1,7 @@
 ---
 description: "Heidi Rogers performing in Strange Worlds."
 ---
-<div style="text-align: center;"><img src="File/Heidi Rogers Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Heidi Rogers Pic.jpg]]
 
 ## Summary
 [[Performers/Heidi Rogers|Heidi Rogers]] performing in *[[Shows/Strange Worlds|Strange Worlds]]*.

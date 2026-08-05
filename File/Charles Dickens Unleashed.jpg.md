@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for Charles Dickens Unleashed."
 ---
-<div style="text-align: center;"><img src="File/Charles Dickens Unleashed.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Charles Dickens Unleashed.jpg]]
 
 ## Summary
 Promotional image for *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*.

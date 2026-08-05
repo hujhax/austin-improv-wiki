@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Delta Burka."
 ---
-<div style="text-align: center;"><img src="File/Delta Burka.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Delta Burka.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Delta Burka|Delta Burka]].

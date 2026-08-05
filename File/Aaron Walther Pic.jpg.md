@@ -1,7 +1,7 @@
 ---
 description: "Aaron Walther, in the curtain call of the 1/28/12 performance..."
 ---
-<div style="text-align: center;"><img src="File/Aaron Walther Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Aaron Walther Pic.jpg]]
 
 ## Summary
 [[Performers/Aaron Walther|Aaron Walther]], in the curtain call of the 1/28/12 performance of *[[Shows/Steam|Steam]]*.

@@ -1,7 +1,7 @@
 ---
 description: "One Small Step poster."
 ---
-<div style="text-align: center;"><img src="File/One-Small-Step-Poster-2015-web-small.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/One-Small-Step-Poster-2015-web-small.jpg]]
 
 ## Summary
 One Small Step poster (Design by Kaci Beeler, photo by Steve Rogers)

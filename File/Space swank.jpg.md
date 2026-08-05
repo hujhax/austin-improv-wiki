@@ -1,7 +1,7 @@
 ---
 description: "Space Swank hanging out together before their first troupe show..."
 ---
-<div style="text-align: center;"><img src="File/Space swank.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Space swank.jpg]]
 
 ## Summary
 [[Troupes/Space Swank|Space Swank]] hanging out together before their first troupe show in *[[Shows/The Weekender|The Weekender]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Phil."
 ---
-<div style="text-align: center;"><img src="File/Phil.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Phil.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Phil|Phil]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Red Giant."
 ---
-<div style="text-align: center;"><img src="File/Red Giant.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Red Giant.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Red Giant|Red Giant]].

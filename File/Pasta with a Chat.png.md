@@ -1,7 +1,7 @@
 ---
 description: "Pasta with a Chat, performing at the 2011 ColdTowne Lock-In."
 ---
-<div style="text-align: center;"><img src="File/Pasta with a Chat.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Pasta with a Chat.png]]
 
 ## Summary
 [[Troupes/Pasta with a Chat|Pasta with a Chat]], performing at the 2011 [[Theatres/ColdTowne|ColdTowne]] Lock-In.

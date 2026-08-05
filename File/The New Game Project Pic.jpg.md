@@ -1,7 +1,7 @@
 ---
 description: "Lauren Buck's game suggestion gets chosen in the premiere of..."
 ---
-<div style="text-align: center;"><img src="File/The New Game Project Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The New Game Project Pic.jpg]]
 
 ## Summary
 [[Performers/Lauren Buck|Lauren Buck]]'s game suggestion gets chosen in the premiere of *[[Shows/The New Game Project|The New Game Project]]*, from the 1/5/12 *[[Shows/Free Fringe|Free Fringe]]*.

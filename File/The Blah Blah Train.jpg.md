@@ -1,7 +1,7 @@
 ---
 description: "Casual photo of The Blah Blah Train."
 ---
-<div style="text-align: center;"><img src="File/The Blah Blah Train.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Blah Blah Train.jpg]]
 
 ## Summary
 Casual photo of [[Troupes/The Blah Blah Train|The Blah Blah Train]].

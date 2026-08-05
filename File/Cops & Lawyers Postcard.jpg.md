@@ -1,7 +1,7 @@
 ---
 description: "Postcard for Cops & Lawyers."
 ---
-<div style="text-align: center;"><img src="File/Cops & Lawyers Postcard.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cops & Lawyers Postcard.jpg]]
 
 ## Summary
 Postcard for *[[Shows/Cops & Lawyers|Cops & Lawyers]]*.

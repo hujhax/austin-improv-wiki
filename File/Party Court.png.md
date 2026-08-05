@@ -1,7 +1,7 @@
 ---
 description: "From the 3/11/11 performance by Party Court."
 ---
-<div style="text-align: center;"><img src="File/Party Court.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Party Court.png]]
 
 ## Summary
 From the 3/11/11 performance by [[Troupes/Party Court|Party Court]].

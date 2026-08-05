@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for Story to the Death."
 ---
-<div style="text-align: center;"><img src="File/Story to the Death Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Story to the Death Placeholder Image.jpg]]
 
 ## Summary
 Placeholder image for *[[Shows/Story to the Death|Story to the Death]]*.

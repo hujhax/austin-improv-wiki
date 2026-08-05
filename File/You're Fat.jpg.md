@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for You're Fat."
 ---
-<div style="text-align: center;"><img src="File/You're Fat.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/You're Fat.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/You're Fat|You're Fat]].

@@ -1,7 +1,7 @@
 ---
 description: "There's Waldo arrives in style at The 2013 Institution Theater..."
 ---
-<div style="text-align: center;"><img src="File/There's Waldo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/There's Waldo.jpg]]
 
 ## Summary
 [[Troupes/There's Waldo|There's Waldo]] arrives in style at [[The 2013 Institution Theater Awards]].

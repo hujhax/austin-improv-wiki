@@ -1,7 +1,7 @@
 ---
 description: "Banner art for Southpaw Jones Does What He Wants."
 ---
-<div style="text-align: center;"><img src="File/Southpaw Jones Does What He Wants.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Southpaw Jones Does What He Wants.jpg]]
 
 ## Summary
 Banner art for *[[Shows/Southpaw Jones Does What He Wants|Southpaw Jones Does What He Wants]]*.

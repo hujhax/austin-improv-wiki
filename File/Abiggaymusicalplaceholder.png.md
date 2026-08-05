@@ -1,7 +1,7 @@
 ---
 description: "(placeholder graphic for A Big Gay Musical."
 ---
-<div style="text-align: center;"><img src="File/Abiggaymusicalplaceholder.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Abiggaymusicalplaceholder.png]]
 
 ## Summary
 (placeholder graphic for *[[Shows/A Big Gay Musical|A Big Gay Musical]]*

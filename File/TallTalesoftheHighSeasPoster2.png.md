@@ -1,7 +1,7 @@
 ---
 description: "Photo: Steve Rogers."
 ---
-<div style="text-align: center;"><img src="File/TallTalesoftheHighSeasPoster2.png" style="max-width: 100%; height: auto;" /></div>
+![[File/TallTalesoftheHighSeasPoster2.png]]
 
 Photo: Steve Rogers
 Design: Asaf Ronen

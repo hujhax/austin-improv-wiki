@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Look Cookie."
 ---
-<div style="text-align: center;"><img src="File/Look Cookie.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Look Cookie.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Look Cookie|Look Cookie]].

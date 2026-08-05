@@ -1,7 +1,7 @@
 ---
 description: "Publicity banner art for Trash."
 ---
-<div style="text-align: center;"><img src="File/Trash.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Trash.jpg]]
 
 ## Summary
 Publicity banner art for *[[Shows/Trash|Trash]]*.

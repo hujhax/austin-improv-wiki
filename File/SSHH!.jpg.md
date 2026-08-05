@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of SSHH."
 ---
-<div style="text-align: center;"><img src="File/SSHH!.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/SSHH!.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/SSHH|SSHH]].

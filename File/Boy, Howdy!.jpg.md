@@ -1,7 +1,7 @@
 ---
 description: "Poster for Boy, Howdy!."
 ---
-<div style="text-align: center;"><img src="File/Boy, Howdy!.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Boy, Howdy!.jpg]]
 
 ## Summary
 Poster for *[[Shows/Boy, Howdy!|Boy, Howdy!]]*.

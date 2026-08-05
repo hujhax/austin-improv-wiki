@@ -1,7 +1,7 @@
 ---
 description: "Miller and Purselley, performing at the Merlin Works Second Sunday..."
 ---
-<div style="text-align: center;"><img src="File/Miller and Purselley.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Miller and Purselley.jpg]]
 
 ## Summary
 [[Troupes/Miller and Purselley|Miller and Purselley]], performing at the [[Theatres/Merlin Works|Merlin Works]] Second Sunday show at ZACH Theater on 5/12/13.

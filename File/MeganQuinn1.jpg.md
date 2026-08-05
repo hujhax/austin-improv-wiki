@@ -1,7 +1,7 @@
 ---
 description: "Temporary promo shot."
 ---
-<div style="text-align: center;"><img src="File/MeganQuinn1.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/MeganQuinn1.jpg]]
 
 ## Summary
 Temporary promo shot

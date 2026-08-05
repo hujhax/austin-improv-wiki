@@ -1,7 +1,7 @@
 ---
 description: "Jeff Britt performing in Confidence Men."
 ---
-<div style="text-align: center;"><img src="File/Jeff Britt Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jeff Britt Pic.jpg]]
 
 ## Summary
 [[Performers/Jeff Britt|Jeff Britt]] performing in *[[Troupes/Confidence Men|Confidence Men]]*.

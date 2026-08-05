@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Triple Scoop, featuring iScream Sandwich."
 ---
-<div style="text-align: center;"><img src="File/The Triple Scoop.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Triple Scoop.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/The Triple Scoop|The Triple Scoop]]*, featuring [[Troupes/IScream Sandwich|IScream Sandwich]].

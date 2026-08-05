@@ -1,7 +1,7 @@
 ---
 description: "Taylor Flanagan, performing with Fakespeare in The 45-Hour Improv Marathon."
 ---
-<div style="text-align: center;"><img src="File/Taylor Flanagan Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Taylor Flanagan Pic.jpg]]
 
 ## Summary
 [[Performers/Taylor Flanagan|Taylor Flanagan]], performing with *[[Shows/Fakespeare|Fakespeare]]* in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].

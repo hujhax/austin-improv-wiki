@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Butter."
 ---
-<div style="text-align: center;"><img src="File/Butter.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Butter.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Butter|Butter]].

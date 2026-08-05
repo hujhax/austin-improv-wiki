@@ -1,7 +1,7 @@
 ---
 description: "Stacy Kaplowitz and Deano Jones, playing Madge and Kip Miller..."
 ---
-<div style="text-align: center;"><img src="File/The Andersons.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Andersons.jpg]]
 
 ## Summary
 [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]] and [[Performers/Deano Jones|Deano Jones]], playing Madge and Kip Miller in a performance of *[[Shows/The Andersons|The Andersons]]* on 8/29/10.

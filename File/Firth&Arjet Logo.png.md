@@ -1,7 +1,7 @@
 ---
 description: "The Firth & Arjet logo."
 ---
-<div style="text-align: center;"><img src="File/Firth&Arjet Logo.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Firth&Arjet Logo.png]]
 
 ## Summary
 The [[Troupes/Firth & Arjet|Firth & Arjet]] logo.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Emma Holder for Cover to Cover."
 ---
-<div style="text-align: center;"><img src="File/Emma Holder Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Emma Holder Pic.jpg]]
 
 ## Summary
 Publicity photo of [[Performers/Emma Holder|Emma Holder]] for *[[Shows/Cover to Cover|Cover to Cover]]*.

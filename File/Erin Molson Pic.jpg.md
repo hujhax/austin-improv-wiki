@@ -1,7 +1,7 @@
 ---
 description: "Erin Molson, guesting with Improv for Evil in The Threefer..."
 ---
-<div style="text-align: center;"><img src="File/Erin Molson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Erin Molson Pic.jpg]]
 
 ## Summary
 [[Performers/Erin Molson|Erin Molson]], guesting with [[Troupes/Improv For Evil|Improv For Evil]] in *[[Shows/The Threefer|The Threefer]]* on 4/16/09.

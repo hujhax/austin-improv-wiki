@@ -1,7 +1,7 @@
 ---
 description: "Viacom's cease-and-desist letter demanding an end to South Park Live."
 ---
-<div style="text-align: center;"><img src="File/SouthParkCeaseAndDesist.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/SouthParkCeaseAndDesist.jpg]]
 
 ## Summary
 Viacom's cease-and-desist letter demanding an end to *[[Shows/Live TV Tuesdays -  South Park|South Park Live]]*.

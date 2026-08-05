@@ -1,7 +1,7 @@
 ---
 description: "Erika May McNichol, in a publicity shot for Sarah 7."
 ---
-<div style="text-align: center;"><img src="File/Erika May McNichol Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Erika May McNichol Pic.jpg]]
 
 ## Summary
 [[Performers/Erika May McNichol|Erika May McNichol]], in a publicity shot for [[Troupes/Sarah 7|Sarah 7]].

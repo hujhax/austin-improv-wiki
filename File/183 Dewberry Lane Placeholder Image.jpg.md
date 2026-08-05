@@ -1,6 +1,6 @@
 ---
 description: "Placeholder image for 183 Dewberry Lane."
 ---
-<div style="text-align: center;"><img src="File/183 Dewberry Lane Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/183 Dewberry Lane Placeholder Image.jpg]]
 
 Placeholder image for *[[Shows/183 Dewberry Lane|183 Dewberry Lane]]*.

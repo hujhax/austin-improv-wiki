@@ -1,7 +1,7 @@
 ---
 description: "The Super Troupers, in their 7/22/12 student show at ColdTowne..."
 ---
-<div style="text-align: center;"><img src="File/The Super Troopers.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Super Troopers.jpg]]
 
 ## Summary
 [[Troupes/The Super Troupers|The Super Troupers]], in their 7/22/12 student show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Venn Diaphragm."
 ---
-<div style="text-align: center;"><img src="File/Venn Diaphragm.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Venn Diaphragm.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Venn Diaphragm|Venn Diaphragm]].

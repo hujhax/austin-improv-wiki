@@ -1,7 +1,7 @@
 ---
 description: "The Frank Mills performing at The 2012 Out of Bounds..."
 ---
-<div style="text-align: center;"><img src="File/The Frank Mills.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Frank Mills.jpg]]
 
 ## Summary
 [[Troupes/The Frank Mills|The Frank Mills]] performing at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].

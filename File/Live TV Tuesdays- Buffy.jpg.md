@@ -1,7 +1,7 @@
 ---
 description: "Buffy and Angel dance at the end of the Live..."
 ---
-<div style="text-align: center;"><img src="File/Live TV Tuesdays- Buffy.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Live TV Tuesdays- Buffy.jpg]]
 
 ## Summary
 Buffy ([[Performers/Stephanie Hagemeister|Stephanie Hagemeister]]) and Angel ([[Performers/Andrew Pish|Andrew Pish]]) dance at the end of [[Shows/Live TV Tuesdays -  Buffy|the Live TV Tuesdays production of the *Buffy the Vampire Slayer* episode "The Prom"]].

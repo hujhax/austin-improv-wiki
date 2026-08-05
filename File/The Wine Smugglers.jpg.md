@@ -1,7 +1,7 @@
 ---
 description: "Topping Haggerty Susannah Raulino Nancy Lyon."
 ---
-<div style="text-align: center;"><img src="File/The Wine Smugglers.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Wine Smugglers.jpg]]
 
 ## Summary
 [[Troupes/Topping Haggerty|Topping Haggerty]] [[Performers/Susannah Raulino|Susannah Raulino]] [[Performers/Nancy Lyon|Nancy Lyon]]

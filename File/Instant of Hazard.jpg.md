@@ -1,7 +1,7 @@
 ---
 description: "Instant of Hazard performing at The Hideout Theatre on 10/4/12."
 ---
-<div style="text-align: center;"><img src="File/Instant of Hazard.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Instant of Hazard.jpg]]
 
 ## Summary
 [[Troupes/Instant of Hazard|Instant of Hazard]] performing at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 10/4/12.

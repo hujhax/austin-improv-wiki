@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of The Hilarions from 1984."
 ---
-<div style="text-align: center;"><img src="File/The Hilarions.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Hilarions.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/The Hilarions|The Hilarions]] from 1984.

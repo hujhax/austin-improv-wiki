@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of DA Foundry."
 ---
-<div style="text-align: center;"><img src="File/DA Foundry.png" style="max-width: 100%; height: auto;" /></div>
+![[File/DA Foundry.png]]
 
 ## Summary
 Publicity photo of [[Troupes/DA Foundry|DA Foundry]].

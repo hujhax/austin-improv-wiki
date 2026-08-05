@@ -1,7 +1,7 @@
 ---
 description: "Photo by Topping Haggerty."
 ---
-<div style="text-align: center;"><img src="File/Nancy Lyon 1.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Nancy Lyon 1.jpg]]
 
 ## Summary
 Photo by [[Troupes/Topping Haggerty|Topping Haggerty]]

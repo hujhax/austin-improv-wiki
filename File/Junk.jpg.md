@@ -1,7 +1,7 @@
 ---
 description: "Junk, performing in The 2012 Out of Bounds Comedy Festival."
 ---
-<div style="text-align: center;"><img src="File/Junk.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Junk.jpg]]
 
 ## Summary
 [[Troupes/Junk|Junk]], performing in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].

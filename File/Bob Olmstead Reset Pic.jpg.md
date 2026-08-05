@@ -1,7 +1,7 @@
 ---
 description: "Bob Olmstead, performing in The Reset Project."
 ---
-<div style="text-align: center;"><img src="File/Bob Olmstead Reset Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Bob Olmstead Reset Pic.jpg]]
 
 ## Summary
 [[Performers/Bob Olmstead|Bob Olmstead]], performing in *[[Shows/The ReSet Project|The ReSet Project]]*.

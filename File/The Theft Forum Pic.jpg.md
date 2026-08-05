@@ -1,7 +1,7 @@
 ---
 description: "The Theft Forum Logo."
 ---
-<div style="text-align: center;"><img src="File/The Theft Forum Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Theft Forum Pic.jpg]]
 
 ## Summary
 The Theft Forum Logo

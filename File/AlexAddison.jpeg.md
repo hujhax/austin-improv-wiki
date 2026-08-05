@@ -1,7 +1,7 @@
 ---
 description: "Photo curtesy of Michael Yew."
 ---
-<div style="text-align: center;"><img src="File/AlexAddison.jpeg" style="max-width: 100%; height: auto;" /></div>
+![[File/AlexAddison.jpeg]]
 
 ## Summary
 Photo curtesy of Michael Yew.

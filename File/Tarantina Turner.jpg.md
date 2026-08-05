@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Tarantina Turner."
 ---
-<div style="text-align: center;"><img src="File/Tarantina Turner.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Tarantina Turner.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Tarantina Turner|Tarantina Turner]].

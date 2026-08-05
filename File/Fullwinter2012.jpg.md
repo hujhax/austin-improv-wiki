@@ -2,7 +2,7 @@
 description: "REDIRECT."
 image: "File/Caeriel%20Crestin%20Pic.jpg"
 ---
-<div style="text-align: center;"><img src="File/Fullwinter2012.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fullwinter2012.jpg]]
 
 ---
 redirect: "File/Caeriel Crestin Pic.jpg"

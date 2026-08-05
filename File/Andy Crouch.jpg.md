@@ -1,7 +1,7 @@
 ---
 description: "Andy Crouch performing as Sherlock Holmes in Danger!"
 ---
-<div style="text-align: center;"><img src="File/Andy Crouch.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Andy Crouch.jpg]]
 
 ## Summary
 [[Performers/Andy Crouch|Andy Crouch]] performing as Sherlock Holmes in [[Troupes/Danger! Warning! Improv!|Danger! Warning! Improv!]] show.

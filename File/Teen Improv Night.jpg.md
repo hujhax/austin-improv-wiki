@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for ColdTowne Theater's All Ages Improv Night."
 ---
-<div style="text-align: center;"><img src="File/Teen Improv Night.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Teen Improv Night.jpg]]
 
 ## Summary
 Publicity photo for [[Theatres/Coldtowne Theater|Coldtowne Theater]]'s *[[Troupes/All Ages Improv Night|All Ages Improv Night]]*.

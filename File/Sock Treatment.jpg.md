@@ -1,7 +1,7 @@
 ---
 description: "Poster for Sock Treatment."
 ---
-<div style="text-align: center;"><img src="File/Sock Treatment.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Sock Treatment.jpg]]
 
 ## Summary
 Poster for *[[Shows/Sock Treatment|Sock Treatment]]*.

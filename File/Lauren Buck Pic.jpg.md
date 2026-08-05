@@ -1,7 +1,7 @@
 ---
 description: "Lauren Buck, hosting at The 2011 Out of Bounds Comedy..."
 ---
-<div style="text-align: center;"><img src="File/Lauren Buck Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lauren Buck Pic.jpg]]
 
 ## Summary
 [[Performers/Lauren Buck|Lauren Buck]], hosting at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]], on 9/1/2011.

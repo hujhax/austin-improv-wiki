@@ -1,7 +1,7 @@
 ---
 description: "Mark performing in Thinning the Herd at the Institution Theater."
 ---
-<div style="text-align: center;"><img src="File/Mark Shoemaker.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Mark Shoemaker.jpg]]
 
 ## Summary
 Mark performing in Thinning the Herd at the Institution Theater.

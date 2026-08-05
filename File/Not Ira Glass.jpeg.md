@@ -1,7 +1,7 @@
 ---
 description: "Michael Ferstenfeld, portraying Not Ira Glass at This American LIVE."
 ---
-<div style="text-align: center;"><img src="File/Not Ira Glass.jpeg" style="max-width: 100%; height: auto;" /></div>
+![[File/Not Ira Glass.jpeg]]
 
 ## Summary
 [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]], portraying Not Ira Glass at [[Shows/This American Live|This American Live]].

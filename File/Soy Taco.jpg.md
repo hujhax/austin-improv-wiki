@@ -1,7 +1,7 @@
 ---
 description: "Casual photo of Soy Taco."
 ---
-<div style="text-align: center;"><img src="File/Soy Taco.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Soy Taco.jpg]]
 
 ## Summary
 Casual photo of [[Troupes/Soy Taco|Soy Taco]].

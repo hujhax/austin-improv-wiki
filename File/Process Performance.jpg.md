@@ -1,7 +1,7 @@
 ---
 description: "The king dies in the third act of the 4/15/12..."
 ---
-<div style="text-align: center;"><img src="File/Process Performance.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Process Performance.jpg]]
 
 ## Summary
 The king dies in the third act of the 4/15/12 performance of *[[Shows/Process|Process]]*, which featured a (fictional) Shakespearean play titled *My Heart Doth Bleed Gold*.

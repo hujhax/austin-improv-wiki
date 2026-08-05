@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Slaughter Your Shorts."
 ---
-<div style="text-align: center;"><img src="File/Slaughter Your Shorts.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Slaughter Your Shorts.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/Slaughter Your Shorts|Slaughter Your Shorts]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of The Asides."
 ---
-<div style="text-align: center;"><img src="File/The Asides.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Asides.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/The Asides|The Asides]].

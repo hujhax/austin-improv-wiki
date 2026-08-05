@@ -1,7 +1,7 @@
 ---
 description: "Mike Nystul, performing with Happy Butter in The 42-Hour Improv..."
 ---
-<div style="text-align: center;"><img src="File/Mike Nystul Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Mike Nystul Pic.jpg]]
 
 ## Summary
 [[Performers/Mike Nystul|Mike Nystul]], performing with [[Troupes/Happy Butter|Happy Butter]] in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].

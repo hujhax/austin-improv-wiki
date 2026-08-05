@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Infotainment."
 ---
-<div style="text-align: center;"><img src="File/Infotainment.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Infotainment.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Infotainment|Infotainment]].

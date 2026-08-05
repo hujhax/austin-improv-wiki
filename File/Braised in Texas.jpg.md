@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Braised in Texas."
 ---
-<div style="text-align: center;"><img src="File/Braised in Texas.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Braised in Texas.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Braised in Texas|Braised in Texas]]*.

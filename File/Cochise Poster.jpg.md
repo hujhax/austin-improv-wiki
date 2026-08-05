@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Cochise, featuring members of Improv for Evil."
 ---
-<div style="text-align: center;"><img src="File/Cochise Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cochise Poster.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Cochise|Cochise]]*, featuring members of [[Troupes/Improv For Evil|Improv For Evil]].

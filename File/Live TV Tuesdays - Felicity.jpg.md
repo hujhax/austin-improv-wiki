@@ -1,7 +1,7 @@
 ---
 description: "Kacy Todd and Indigo Rael performing in the Live TV..."
 ---
-<div style="text-align: center;"><img src="File/Live TV Tuesdays - Felicity.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Live TV Tuesdays - Felicity.jpg]]
 
 ## Summary
 Kacy Todd and Indigo Rael performing in [[Shows/Live TV Tuesdays -  Felicity|the *Live TV Tuesdays* production of *Felicity*]].

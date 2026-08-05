@@ -1,7 +1,7 @@
 ---
 description: "Emily Breedlove, performing in the sixth night of Steam, on..."
 ---
-<div style="text-align: center;"><img src="File/Emily Breedlove Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Emily Breedlove Pic.jpg]]
 
 ## Summary
 [[Performers/Emily Breedlove|Emily Breedlove]], performing in the [[Shows/Steam Episodes/Steam – Sixth Night|sixth night]] of *[[Shows/Steam|Steam]]*, on 1/21/12.

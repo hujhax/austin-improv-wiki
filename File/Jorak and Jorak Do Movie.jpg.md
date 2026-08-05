@@ -1,7 +1,7 @@
 ---
 description: "Jorak and Jorak Do Movie, performing at ColdTowne Theater..............................................................................................................................................."
 ---
-<div style="text-align: center;"><img src="File/Jorak and Jorak Do Movie.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jorak and Jorak Do Movie.jpg]]
 
 ## Summary
 [[Troupes/Jorak and Jorak Do Movie|Jorak and Jorak Do Movie]], performing at [[Theatres/Coldtowne Theater|Coldtowne Theater]]...............................................................................................................................................

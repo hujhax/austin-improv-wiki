@@ -1,7 +1,7 @@
 ---
 description: "Casual photo of Teen Energy."
 ---
-<div style="text-align: center;"><img src="File/Teen Energy.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Teen Energy.jpg]]
 
 ## Summary
 Casual photo of [[Troupes/Teen Energy|Teen Energy]].

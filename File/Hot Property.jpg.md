@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Hot Property."
 ---
-<div style="text-align: center;"><img src="File/Hot Property.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Hot Property.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Hot Property|Hot Property]].

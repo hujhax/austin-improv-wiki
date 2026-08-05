@@ -1,7 +1,7 @@
 ---
 description: "Promotional art for Oh, Science!."
 ---
-<div style="text-align: center;"><img src="File/Oh, Science!.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Oh, Science!.jpg]]
 
 ## Summary
 Promotional art for [[Troupes/Oh, Science!|Oh, Science!]].

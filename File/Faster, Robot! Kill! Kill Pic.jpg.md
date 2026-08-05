@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Faster, Robot!"
 ---
-<div style="text-align: center;"><img src="File/Faster, Robot! Kill! Kill Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Faster, Robot! Kill! Kill Pic.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Faster, Robot! Kill! Kill!|Faster, Robot! Kill! Kill!]].

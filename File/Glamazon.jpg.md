@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Glamazon."
 ---
-<div style="text-align: center;"><img src="File/Glamazon.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Glamazon.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Glamazon|Glamazon]].

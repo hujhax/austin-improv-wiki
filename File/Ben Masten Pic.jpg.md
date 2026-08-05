@@ -1,7 +1,7 @@
 ---
 description: "Ben Masten performing in Maestro during The 43-Hour Improv Marathon..."
 ---
-<div style="text-align: center;"><img src="File/Ben Masten Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ben Masten Pic.jpg]]
 
 ## Summary
 [[Performers/Ben Masten|Ben Masten]] performing in *[[Shows/Maestro|Maestro]]* during [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]] in 2012.

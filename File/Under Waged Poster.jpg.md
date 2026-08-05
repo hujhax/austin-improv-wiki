@@ -1,7 +1,7 @@
 ---
 description: "Poster for the Kosher Bacon show Under Waged."
 ---
-<div style="text-align: center;"><img src="File/Under Waged Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Under Waged Poster.jpg]]
 
 ## Summary
 Poster for the [[Troupes/Kosher Bacon|Kosher Bacon]] show *Under Waged*.

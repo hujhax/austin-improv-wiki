@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for the January 2013 performance of The Speakeasy."
 ---
-<div style="text-align: center;"><img src="File/The Speakeasy.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Speakeasy.jpg]]
 
 ## Summary
 Publicity image for the January 2013 performance of *[[Shows/The Speakeasy|The Speakeasy]]*.

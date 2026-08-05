@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Fatbuckle."
 ---
-<div style="text-align: center;"><img src="File/Fatbuckle.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fatbuckle.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Fatbuckle|Fatbuckle]].

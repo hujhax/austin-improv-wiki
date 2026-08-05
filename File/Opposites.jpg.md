@@ -1,7 +1,7 @@
 ---
 description: "Opposites logo."
 ---
-<div style="text-align: center;"><img src="File/Opposites.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Opposites.jpg]]
 
 ## Summary
 [[Troupes/Opposites|Opposites]] logo.

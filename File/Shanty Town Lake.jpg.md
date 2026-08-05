@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Shanty Town Lake."
 ---
-<div style="text-align: center;"><img src="File/Shanty Town Lake.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Shanty Town Lake.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/Shanty Town Lake|Shanty Town Lake]]*.

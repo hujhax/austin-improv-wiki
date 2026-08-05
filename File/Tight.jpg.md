@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of Tight."
 ---
-<div style="text-align: center;"><img src="File/Tight.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Tight.jpg]]
 
 ## Summary
 Publicity image of [[Troupes/Tight|Tight]].

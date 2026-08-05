@@ -1,2 +1,2 @@
-<div style="text-align: center;"><img src="File/MMSquare.png" style="max-width: 100%; height: auto;" /></div>
+![[File/MMSquare.png]]
 

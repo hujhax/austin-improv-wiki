@@ -1,7 +1,7 @@
 ---
 description: "The final performance from $10 Bourbon, at The 2008 Out..."
 ---
-<div style="text-align: center;"><img src="File/$10 Bourbon.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/$10 Bourbon.jpg]]
 
 ## Summary
 The final performance from [[Troupes/$10 Bourbon|$10 Bourbon]], at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].

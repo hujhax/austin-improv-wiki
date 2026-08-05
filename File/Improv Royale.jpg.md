@@ -1,7 +1,7 @@
 ---
 description: "Improv Royale in their 9/1/11 show at The 2011 Out..."
 ---
-<div style="text-align: center;"><img src="File/Improv Royale.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Improv Royale.jpg]]
 
 ## Summary
 [[Troupes/Improv Royale|Improv Royale]] in their 9/1/11 show at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Pariah."
 ---
-<div style="text-align: center;"><img src="File/Pariah.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Pariah.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Pariah|Pariah]].

@@ -1,7 +1,7 @@
 ---
 description: "Promotional art for Steam."
 ---
-<div style="text-align: center;"><img src="File/Steam.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Steam.jpg]]
 
 ## Summary
 Promotional art for *[[Shows/Steam|Steam]]*.

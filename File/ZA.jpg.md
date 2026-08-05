@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for ZA."
 ---
-<div style="text-align: center;"><img src="File/ZA.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/ZA.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/ZA|ZA]].

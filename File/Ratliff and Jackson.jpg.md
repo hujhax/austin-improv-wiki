@@ -1,7 +1,7 @@
 ---
 description: "Ratliff and Jackson, headlining The Threefer on 9/20/12."
 ---
-<div style="text-align: center;"><img src="File/Ratliff and Jackson.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ratliff and Jackson.jpg]]
 
 ## Summary
 [[Troupes/Ratliff and Jackson|Ratliff and Jackson]], headlining *[[Shows/The Threefer|The Threefer]]* on 9/20/12.

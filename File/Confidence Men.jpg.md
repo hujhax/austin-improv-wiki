@@ -1,7 +1,7 @@
 ---
 description: "From left: Michael Ferstenfeld, Ceej Allen, Tom Booker, and Troy..."
 ---
-<div style="text-align: center;"><img src="File/Confidence Men.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Confidence Men.jpg]]
 
 ## Summary
 From left: [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]], [[Performers/Ceej Allen|Ceej Allen]], [[Performers/Tom Booker|Tom Booker]], and [[Performers/Troy Miller|Troy Miller]] 

@@ -1,7 +1,7 @@
 ---
 description: "Icon for Love Fest."
 ---
-<div style="text-align: center;"><img src="File/Love Fest.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Love Fest.jpg]]
 
 ## Summary
 Icon for [[Festivals/Love Fest|Love Fest]].

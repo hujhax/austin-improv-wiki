@@ -1,7 +1,7 @@
 ---
 description: "Nathan Livni, performing with Magician vs."
 ---
-<div style="text-align: center;"><img src="File/Nathan Livni.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Nathan Livni.jpg]]
 
 ## Summary
 [[Performers/Nathan Livni|Nathan Livni]], performing with [[Troupes/Magician vs. Clown|Magician vs. Clown]] at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]] on 8/30/12.

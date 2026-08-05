@@ -1,7 +1,7 @@
 ---
 description: "Photo by Topping Haggerty."
 ---
-<div style="text-align: center;"><img src="File/Beth Doughtyc.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Beth Doughtyc.jpg]]
 
 ## Summary
 Photo by [[Troupes/Topping Haggerty|Topping Haggerty]]

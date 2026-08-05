@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Lab."
 ---
-<div style="text-align: center;"><img src="File/The Lab.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Lab.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/The Lab|The Lab]]*.

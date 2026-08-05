@@ -1,7 +1,7 @@
 ---
 description: "First Round Draft logo, taken from the troupe web site."
 ---
-<div style="text-align: center;"><img src="File/First Round Draft.png" style="max-width: 100%; height: auto;" /></div>
+![[File/First Round Draft.png]]
 
 ## Summary
 [[Troupes/First Round Draft|First Round Draft]] logo, taken from [the troupe web site](http://firstrounddraft.austinimprov.com/).

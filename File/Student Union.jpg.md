@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Student Union."
 ---
-<div style="text-align: center;"><img src="File/Student Union.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Student Union.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Student Union|Student Union]]*.

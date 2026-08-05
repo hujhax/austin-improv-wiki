@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Senshi Sokyo."
 ---
-<div style="text-align: center;"><img src="File/Senshi Sokyo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Senshi Sokyo.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Senshi Sokyo|Senshi Sokyo]].

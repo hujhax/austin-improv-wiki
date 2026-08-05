@@ -1,7 +1,7 @@
 ---
 description: "Kimberly Cox, performing with The Intentions in The Weekender on..."
 ---
-<div style="text-align: center;"><img src="File/Kimberly Cox Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kimberly Cox Pic.jpg]]
 
 ## Summary
 [[Performers/Kimberly Cox|Kimberly Cox]], performing with [[Troupes/The Intentions|The Intentions]] in *[[Shows/The Weekender|The Weekender]]* on 5/15/11.

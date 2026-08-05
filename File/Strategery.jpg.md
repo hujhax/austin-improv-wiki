@@ -1,7 +1,7 @@
 ---
 description: "The 3/31/11 performance by Strategery at The Threefer."
 ---
-<div style="text-align: center;"><img src="File/Strategery.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Strategery.jpg]]
 
 ## Summary
 The 3/31/11 performance by [[Troupes/Strategery|Strategery]] at *[[Shows/The Threefer|The Threefer]]*.

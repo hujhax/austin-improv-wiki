@@ -1,7 +1,7 @@
 ---
 description: "Logo for Manson: The Musical."
 ---
-<div style="text-align: center;"><img src="File/Manson - The Musical.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Manson - The Musical.jpg]]
 
 ## Summary
 Logo for *[[Shows/Manson -  The Musical|Manson -  The Musical]]*.

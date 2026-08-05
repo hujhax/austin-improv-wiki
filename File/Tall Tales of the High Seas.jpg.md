@@ -1,7 +1,7 @@
 ---
 description: "Cast photo of Tall Tales of the High Seas."
 ---
-<div style="text-align: center;"><img src="File/Tall Tales of the High Seas.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Tall Tales of the High Seas.jpg]]
 
 ## Summary
 Cast photo of *[[Shows/Tall Tales of the High Seas|Tall Tales of the High Seas]]*.

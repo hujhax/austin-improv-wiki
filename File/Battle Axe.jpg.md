@@ -1,7 +1,7 @@
 ---
 description: "Mo Daviau and Aden Kirschner perform as Battle Axe in..."
 ---
-<div style="text-align: center;"><img src="File/Battle Axe.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Battle Axe.jpg]]
 
 ## Summary
 [[Performers/Mo Daviau|Mo Daviau]] and [[Performers/Aden Kirschner|Aden Kirschner]] perform as [[Troupes/Battle Axe|Battle Axe]] in [[Festivals/The 2011 Ladies Are Funny Festival|The 2011 Ladies Are Funny Festival]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of Your Terrific Neighbors."
 ---
-<div style="text-align: center;"><img src="File/Your Terrific Neighbors.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Your Terrific Neighbors.jpg]]
 
 ## Summary
 Publicity image of [[Troupes/Your Terrific Neighbors|Your Terrific Neighbors]].

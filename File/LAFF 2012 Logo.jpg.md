@@ -1,7 +1,7 @@
 ---
 description: "The logo for The 2012 Ladies Are Funny Festival."
 ---
-<div style="text-align: center;"><img src="File/LAFF 2012 Logo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/LAFF 2012 Logo.jpg]]
 
 ## Summary
 The logo for [[Festivals/The 2012 Ladies Are Funny Festival|The 2012 Ladies Are Funny Festival]].

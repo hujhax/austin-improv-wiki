@@ -1,7 +1,7 @@
 ---
 description: "Bill Stern, performing in hour 30 of The 41-Hour Improv..."
 ---
-<div style="text-align: center;"><img src="File/Bill Stern Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Bill Stern Pic.jpg]]
 
 ## Summary
 [[Performers/Bill Stern|Bill Stern]], performing in hour 30 ("1001 Monologues for Teens") of [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].

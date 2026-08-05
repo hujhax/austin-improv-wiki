@@ -1,7 +1,7 @@
 ---
 description: "Poster for The Well-Made Play, featuring Christian Lewis, Gabriela Vargas,..."
 ---
-<div style="text-align: center;"><img src="File/Wellmadeplay poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Wellmadeplay poster.jpg]]
 
 ## Summary
 Poster for *[[Shows/The Well-Made Play|The Well-Made Play]]*, featuring Christian Lewis, Gabriela Vargas, [[Performers/Cristy Salinas|Cristy Salinas]], and Jeffrey Chatman.

@@ -1,7 +1,7 @@
 ---
 description: "Poster for Fakespeare."
 ---
-<div style="text-align: center;"><img src="File/Fakespeare Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fakespeare Poster.jpg]]
 
 ## Summary
 Poster for *[[Shows/Fakespeare|Fakespeare]]*.

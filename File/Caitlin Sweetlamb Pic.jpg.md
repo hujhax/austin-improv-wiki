@@ -1,7 +1,7 @@
 ---
 description: "Caitlin Sweetlamb, appearing in the 12/7/12 performance of This American..."
 ---
-<div style="text-align: center;"><img src="File/Caitlin Sweetlamb Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Caitlin Sweetlamb Pic.jpg]]
 
 ## Summary
 [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]], appearing in the 12/7/12 performance of [[Shows/This American Live|This American Live]] ("Life of Privilege").

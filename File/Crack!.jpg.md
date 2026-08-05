@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Crack!"
 ---
-<div style="text-align: center;"><img src="File/Crack!.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Crack!.jpg]]
 
 ## Summary
 Publicity image for [[Shows/Crack!|Crack!]]

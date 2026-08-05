@@ -1,7 +1,7 @@
 ---
 description: "Publicity photos of No Chaser, from their web site."
 ---
-<div style="text-align: center;"><img src="File/No Chaser.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/No Chaser.jpg]]
 
 ## Summary
 Publicity photos of [[Troupes/No Chaser|No Chaser]], from their web site.

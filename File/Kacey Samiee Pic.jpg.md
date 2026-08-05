@@ -1,7 +1,7 @@
 ---
 description: "Headshot of Kacey Samiee from 2012, by Stephen Pruitt."
 ---
-<div style="text-align: center;"><img src="File/Kacey Samiee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kacey Samiee Pic.jpg]]
 
 ## Summary
 Headshot of [[Performers/Kacey Samiee|Kacey Samiee]] from 2012, by Stephen Pruitt.

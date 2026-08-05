@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Dervish."
 ---
-<div style="text-align: center;"><img src="File/Dervish.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Dervish.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Dervish|Dervish]].

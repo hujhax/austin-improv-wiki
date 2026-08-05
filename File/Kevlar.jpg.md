@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Kevlar."
 ---
-<div style="text-align: center;"><img src="File/Kevlar.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kevlar.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Kevlar|Kevlar]].

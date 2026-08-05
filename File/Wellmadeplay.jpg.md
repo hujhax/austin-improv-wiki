@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for The Well-Made Play, featuring the set of..."
 ---
-<div style="text-align: center;"><img src="File/Wellmadeplay.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Wellmadeplay.jpg]]
 
 ## Summary
 Placeholder image for *[[Shows/The Well-Made Play|The Well-Made Play]]*, featuring the set of *[[Shows/Nothing And Everything|Nothing And Everything]]*.

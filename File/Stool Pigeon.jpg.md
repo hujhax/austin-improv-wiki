@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Stool Pigeon."
 ---
-<div style="text-align: center;"><img src="File/Stool Pigeon.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Stool Pigeon.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Stool Pigeon|Stool Pigeon]]*.

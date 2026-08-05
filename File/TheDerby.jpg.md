@@ -1,7 +1,7 @@
 ---
 description: "Logo for The Derby."
 ---
-<div style="text-align: center;"><img src="File/TheDerby.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/TheDerby.jpg]]
 
 ## Summary
 Logo for [[Shows/The Derby|The Derby]].

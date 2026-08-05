@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Spirited, depicting \"Alices\" Halyn Lee Erickson and..."
 ---
-<div style="text-align: center;"><img src="File/Spirited.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Spirited.jpg]]
 
 ## Summary
 Publicity art for [[Shows/Spirited|Spirited]], depicting "Alices" [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]] and [[Performers/Sarah Marie Curry|Sarah Marie Curry]].

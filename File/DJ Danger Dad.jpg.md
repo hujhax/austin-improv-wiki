@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for DJ Danger Dad."
 ---
-<div style="text-align: center;"><img src="File/DJ Danger Dad.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/DJ Danger Dad.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/DJ Danger Dad|DJ Danger Dad]].

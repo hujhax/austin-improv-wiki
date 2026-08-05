@@ -1,7 +1,7 @@
 ---
 description: "Suzanne Link, in the 5/2/15 performance of Golden."
 ---
-<div style="text-align: center;"><img src="File/Suzanne Link Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Suzanne Link Pic.jpg]]
 
 ## Summary
 [[Performers/Suzanne Link|Suzanne Link]], in the 5/2/15 performance of *[[Shows/Golden (mainstage)|Golden]]*.

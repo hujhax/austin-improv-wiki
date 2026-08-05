@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Furiously Missing."
 ---
-<div style="text-align: center;"><img src="File/Furiously Missing.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Furiously Missing.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Furiously Missing|Furiously Missing]].

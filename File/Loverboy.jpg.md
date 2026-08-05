@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Loverboy."
 ---
-<div style="text-align: center;"><img src="File/Loverboy.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Loverboy.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Loverboy|Loverboy]].

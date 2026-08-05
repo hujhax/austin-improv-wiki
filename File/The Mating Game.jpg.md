@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for The Mating Game."
 ---
-<div style="text-align: center;"><img src="File/The Mating Game.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Mating Game.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/The Mating Game|The Mating Game]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Beach Ball Concussion."
 ---
-<div style="text-align: center;"><img src="File/Beach Ball Concussion.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Beach Ball Concussion.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Beach Ball Concussion|Beach Ball Concussion]].

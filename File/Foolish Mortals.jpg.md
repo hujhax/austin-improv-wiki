@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Foolish Mortals, taken from the troupe's web..."
 ---
-<div style="text-align: center;"><img src="File/Foolish Mortals.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Foolish Mortals.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Foolish Mortals|Foolish Mortals]], taken from [the troupe's web site](http://foolishmortals.austinimprov.com/).

@@ -1,7 +1,7 @@
 ---
 description: "Photo by Jon Bolden."
 ---
-<div style="text-align: center;"><img src="File/Dukes-bedside-manor.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Dukes-bedside-manor.jpg]]
 
 ## Summary
 Photo by [[Performers/Jon Bolden|Jon Bolden]]

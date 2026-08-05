@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Kingz."
 ---
-<div style="text-align: center;"><img src="File/Kingz.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kingz.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Kingz|Kingz]].

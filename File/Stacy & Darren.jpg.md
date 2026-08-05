@@ -1,7 +1,7 @@
 ---
 description: "Stacy & Darren, in their 12/2/10 performance in The Threefer."
 ---
-<div style="text-align: center;"><img src="File/Stacy & Darren.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Stacy & Darren.jpg]]
 
 ## Summary
 [[Troupes/Stacy & Darren|Stacy & Darren]], in their 12/2/10 performance in *[[Shows/The Threefer|The Threefer]]*.

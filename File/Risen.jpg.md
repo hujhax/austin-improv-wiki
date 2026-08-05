@@ -1,7 +1,7 @@
 ---
 description: "Poster for Risen."
 ---
-<div style="text-align: center;"><img src="File/Risen.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Risen.jpg]]
 
 ## Summary
 Poster for *[[Shows/RISEN|RISEN]]*.

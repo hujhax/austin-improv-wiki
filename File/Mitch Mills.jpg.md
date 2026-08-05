@@ -1,7 +1,7 @@
 ---
 description: "From a That Racket!"
 ---
-<div style="text-align: center;"><img src="File/Mitch Mills.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Mitch Mills.jpg]]
 
 ## Summary
 From a [[Troupes/That Racket!|That Racket!]] photoshoot. 

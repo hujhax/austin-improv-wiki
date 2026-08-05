@@ -1,7 +1,7 @@
 ---
 description: "Sunaina Suhag at the Steve Rogers photobooth from the 11/13/15..."
 ---
-<div style="text-align: center;"><img src="File/Sunaina Suhag Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Sunaina Suhag Pic.jpg]]
 
 ## Summary
 [[Performers/Sunaina Suhag|Sunaina Suhag]] at the [[Steve Rogers]] photobooth from the 11/13/15 [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] 10th-anniversary show.

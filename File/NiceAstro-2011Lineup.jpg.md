@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Nice Astronaut's 2011 lineup."
 ---
-<div style="text-align: center;"><img src="File/NiceAstro-2011Lineup.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/NiceAstro-2011Lineup.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Nice Astronaut|Nice Astronaut]]'s 2011 lineup.

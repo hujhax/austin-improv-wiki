@@ -1,7 +1,7 @@
 ---
 description: "IScream Sandwich performing at The Triple Scoop on 3/2/13."
 ---
-<div style="text-align: center;"><img src="File/IScream Sandwich.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/IScream Sandwich.jpg]]
 
 ## Summary
 [[Troupes/IScream Sandwich|IScream Sandwich]] performing at *[[Shows/The Triple Scoop|The Triple Scoop]]* on 3/2/13.

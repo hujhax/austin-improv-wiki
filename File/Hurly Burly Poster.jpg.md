@@ -1,7 +1,7 @@
 ---
 description: "Poster for Hurly Burly."
 ---
-<div style="text-align: center;"><img src="File/Hurly Burly Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Hurly Burly Poster.jpg]]
 
 ## Summary
 Poster for *[[Shows/Hurly Burly|Hurly Burly]]*.

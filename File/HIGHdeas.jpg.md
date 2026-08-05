@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for HIGHdeas."
 ---
-<div style="text-align: center;"><img src="File/HIGHdeas.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/HIGHdeas.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/HIGHdeas|HIGHdeas]].

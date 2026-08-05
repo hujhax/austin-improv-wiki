@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for A Bedtime Gorey, featuring Kaci Beeler."
 ---
-<div style="text-align: center;"><img src="File/A Bedtime Gorey.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/A Bedtime Gorey.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*, featuring [[Performers/Kaci Beeler|Kaci Beeler]].

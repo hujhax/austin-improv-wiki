@@ -1,7 +1,7 @@
 ---
 description: "Still from a video of the 1/2/14 performance by G.O.O.F.S."
 ---
-<div style="text-align: center;"><img src="File/G.O.O.F.S..png" style="max-width: 100%; height: auto;" /></div>
+![[File/G.O.O.F.S..png]]
 
 ## Summary
 Still from a video of the 1/2/14 performance by [[Troupes/G.O.O.F.S|G.O.O.F.S]]

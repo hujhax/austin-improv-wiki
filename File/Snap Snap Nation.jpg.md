@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Snap Snap Nation."
 ---
-<div style="text-align: center;"><img src="File/Snap Snap Nation.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Snap Snap Nation.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Snap Snap Nation|Snap Snap Nation]].

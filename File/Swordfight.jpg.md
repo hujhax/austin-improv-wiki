@@ -1,7 +1,7 @@
 ---
 description: "Performance by Swordfight."
 ---
-<div style="text-align: center;"><img src="File/Swordfight.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Swordfight.jpg]]
 
 ## Summary
 Performance by [[Troupes/Swordfight|Swordfight]].

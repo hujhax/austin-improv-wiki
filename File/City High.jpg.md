@@ -1,7 +1,7 @@
 ---
 description: "Logo for City High."
 ---
-<div style="text-align: center;"><img src="File/City High.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/City High.jpg]]
 
 ## Summary
 Logo for [[Troupes/City High|City High]].

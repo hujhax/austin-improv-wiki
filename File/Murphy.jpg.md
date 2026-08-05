@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Murphy."
 ---
-<div style="text-align: center;"><img src="File/Murphy.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Murphy.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Murphy|Murphy]].

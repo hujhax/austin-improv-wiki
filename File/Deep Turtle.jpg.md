@@ -1,7 +1,7 @@
 ---
 description: "Performance photo from the 1/8/15 debut of Deep Turtle at..."
 ---
-<div style="text-align: center;"><img src="File/Deep Turtle.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Deep Turtle.jpg]]
 
 ## Summary
 Performance photo from the 1/8/15 debut of [[Troupes/Deep Turtle|Deep Turtle]] at *[[Shows/The Threefer|The Threefer]]*.

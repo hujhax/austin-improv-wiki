@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Somewhat Brittish."
 ---
-<div style="text-align: center;"><img src="File/Somewhat Brittish.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Somewhat Brittish.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Somewhat Brittish|Somewhat Brittish]].

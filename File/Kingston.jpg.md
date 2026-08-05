@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Kingston."
 ---
-<div style="text-align: center;"><img src="File/Kingston.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kingston.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Kingston|Kingston]].

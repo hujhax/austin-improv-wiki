@@ -1,7 +1,7 @@
 ---
 description: "The program for Live TV Tuesdays: Scrubs."
 ---
-<div style="text-align: center;"><img src="File/ScrubsProgram.jpeg" style="max-width: 100%; height: auto;" /></div>
+![[File/ScrubsProgram.jpeg]]
 
 ## Summary
 The program for *[[Shows/Live TV Tuesdays -  Scrubs|Live TV Tuesdays -  Scrubs]]*.

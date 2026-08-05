@@ -1,7 +1,7 @@
 ---
 description: "The default image for a show or theater."
 ---
-<div style="text-align: center;"><img src="File/Show Default Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Show Default Image.jpg]]
 
 ## Summary
 The default image for a show or theater.

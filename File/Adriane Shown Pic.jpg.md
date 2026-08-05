@@ -1,7 +1,7 @@
 ---
 description: "Adriane Shown, in the 9/27/13 performance of the Hell &..."
 ---
-<div style="text-align: center;"><img src="File/Adriane Shown Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Adriane Shown Pic.jpg]]
 
 ## Summary
 [[Performers/Adriane Shown|Adriane Shown]], in the 9/27/13 performance of the *[[Shows/Hell & Back Cabaret|Hell & Back Cabaret]]*.

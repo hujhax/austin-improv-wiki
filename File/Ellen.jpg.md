@@ -1,7 +1,7 @@
 ---
 description: "Ellen Pizarek performing in the Saturday Night Special with troupe..."
 ---
-<div style="text-align: center;"><img src="File/Ellen.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ellen.jpg]]
 
 ## Summary
 [[Performers/Ellen Pizarek|Ellen Pizarek]] performing in the Saturday Night Special with troupe [[Troupes/Kosher Bacon|Kosher Bacon]] in 2012.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for The $3 Bills for The 2010 Out..."
 ---
-<div style="text-align: center;"><img src="File/The $3 Bills.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The $3 Bills.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/The $3 Bills|The $3 Bills]] for [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].

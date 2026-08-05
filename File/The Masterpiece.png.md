@@ -1,7 +1,7 @@
 ---
 description: "The Masterpiece, performing in The Threefer on 4/26/12."
 ---
-<div style="text-align: center;"><img src="File/The Masterpiece.png" style="max-width: 100%; height: auto;" /></div>
+![[File/The Masterpiece.png]]
 
 ## Summary
 [[Troupes/The Masterpiece|The Masterpiece]], performing in *[[Shows/The Threefer|The Threefer]]* on 4/26/12.

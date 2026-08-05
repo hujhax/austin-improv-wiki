@@ -1,7 +1,7 @@
 ---
 description: "Les McGehee, from the 8/13/10 performance of Crack!"
 ---
-<div style="text-align: center;"><img src="File/Les McGehee Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Les McGehee Pic.jpg]]
 
 ## Summary
 [[Performers/Les McGehee|Les McGehee]], from the 8/13/10 performance of *[[Shows/Crack!|Crack!]]*

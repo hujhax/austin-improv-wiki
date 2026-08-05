@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for The 46-Hour Improv Marathon."
 ---
-<div style="text-align: center;"><img src="File/46HourPromo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/46HourPromo.jpg]]
 
 ## Summary
 Promotional image for [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]].

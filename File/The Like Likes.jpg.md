@@ -1,7 +1,7 @@
 ---
 description: "Group photo of The Like Likes."
 ---
-<div style="text-align: center;"><img src="File/The Like Likes.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Like Likes.jpg]]
 
 ## Summary
 Group photo of [[Troupes/The Like Likes|The Like Likes]].

@@ -1,7 +1,7 @@
 ---
 description: "Sara Hutchins at the Hideout Theater's 45 Hour Improv Marathon."
 ---
-<div style="text-align: center;"><img src="File/Sara Hutchins.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Sara Hutchins.jpg]]
 
 ## Summary
 Sara Hutchins at the Hideout Theater's 45 Hour Improv Marathon.

@@ -1,7 +1,7 @@
 ---
 description: "Kakkerlakken, performing in The Weekender on 3/6/11."
 ---
-<div style="text-align: center;"><img src="File/Kakkerlakken.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Kakkerlakken.png]]
 
 ## Summary
 [[Troupes/Kakkerlakken|Kakkerlakken]], performing in *[[Shows/The Weekender|The Weekender]]* on 3/6/11.

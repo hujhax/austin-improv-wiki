@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for the troupe Apocalypse."
 ---
-<div style="text-align: center;"><img src="File/Apocalypse (troupe).jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Apocalypse (troupe).jpg]]
 
 ## Summary
 Publicity photo for the troupe [[Troupes/Apocalypse (troupe)|Apocalypse]].

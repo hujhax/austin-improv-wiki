@@ -1,7 +1,7 @@
 ---
 description: "Logo for Tender Nightmare."
 ---
-<div style="text-align: center;"><img src="File/Tender Nightmare.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Tender Nightmare.jpg]]
 
 ## Summary
 Logo for [[Troupes/Tender Nightmare|Tender Nightmare]].

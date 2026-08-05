@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Hoover's Blanket, for their \"Rivals\" show run."
 ---
-<div style="text-align: center;"><img src="File/Hoover's Blanket.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Hoover's Blanket.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Hoover's Blanket|Hoover's Blanket]], for their "Rivals" show run.

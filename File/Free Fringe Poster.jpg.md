@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Free Fringe."
 ---
-<div style="text-align: center;"><img src="File/Free Fringe Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Free Fringe Poster.jpg]]
 
 ## Summary
 Publicity image for [[Shows/The Free Fringe|The Free Fringe]].

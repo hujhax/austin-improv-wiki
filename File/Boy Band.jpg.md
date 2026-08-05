@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Boy Band."
 ---
-<div style="text-align: center;"><img src="File/Boy Band.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Boy Band.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/Boy Band|Boy Band]]*.

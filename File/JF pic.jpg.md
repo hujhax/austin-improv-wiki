@@ -1,7 +1,7 @@
 ---
 description: "Jason Finkelman, performing in Rock on 6/9/12."
 ---
-<div style="text-align: center;"><img src="File/JF pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/JF pic.jpg]]
 
 ## Summary
 [[Performers/Jason Finkelman|Jason Finkelman]], performing in *[[Shows/Rock|Rock]]* on 6/9/12.

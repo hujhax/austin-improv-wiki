@@ -1,7 +1,7 @@
 ---
 description: "Marc Majcher, in the 1/20/13 performance of Steam."
 ---
-<div style="text-align: center;"><img src="File/Marc Majcher Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Marc Majcher Pic.jpg]]
 
 ## Summary
 [[Performers/Marc Majcher|Marc Majcher]], in the 1/20/13 performance of *[[Shows/Steam|Steam]]*.

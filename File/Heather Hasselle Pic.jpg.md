@@ -1,7 +1,7 @@
 ---
 description: "Heather Hasselle in the 3/7/15 performance of Austin Secrets."
 ---
-<div style="text-align: center;"><img src="File/Heather Hasselle Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Heather Hasselle Pic.jpg]]
 
 ## Summary
 [[Performers/Heather Hasselle|Heather Hasselle]] in the 3/7/15 performance of *[[Shows/Austin Secrets|Austin Secrets]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Bridget Brewer, performing in The Fancy-Pants Mashup on 3/1/13."
 ---
-<div style="text-align: center;"><img src="File/BridgetBrewer.png" style="max-width: 100%; height: auto;" /></div>
+![[File/BridgetBrewer.png]]
 
 ## Summary
 [[Performers/Bridget Brewer|Bridget Brewer]], performing in *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]* on 3/1/13.

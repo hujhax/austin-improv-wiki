@@ -1,7 +1,7 @@
 ---
 description: "Poster for Kenjutsu by Kaci Beeler."
 ---
-<div style="text-align: center;"><img src="File/Kenjutsu.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kenjutsu.jpg]]
 
 ## Summary
 Poster for *[[Shows/Kenjutsu|Kenjutsu]]* by [[Performers/Kaci Beeler|Kaci Beeler]].

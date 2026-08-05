@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for You Think You're So Smart."
 ---
-<div style="text-align: center;"><img src="File/You Think You're So Smart Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/You Think You're So Smart Poster.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/You Think You're So Smart|You Think You're So Smart]]*.

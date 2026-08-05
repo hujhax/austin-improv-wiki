@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Joy Parks for Fiasco."
 ---
-<div style="text-align: center;"><img src="File/Joy Parks Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Joy Parks Pic.jpg]]
 
 ## Summary
 Publicity photo of [[Performers/Joy Parks|Joy Parks]] for *[[Shows/Fiasco|Fiasco]]*.

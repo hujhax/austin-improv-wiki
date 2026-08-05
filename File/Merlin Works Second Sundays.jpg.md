@@ -1,7 +1,7 @@
 ---
 description: "The Known Wizards in the 2/8/15 performance of Merlin Works..."
 ---
-<div style="text-align: center;"><img src="File/Merlin Works Second Sundays.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Merlin Works Second Sundays.jpg]]
 
 ## Summary
 [[Troupes/The Known Wizards|The Known Wizards]] in the 2/8/15 performance of [[Shows/Merlin Works Second Sundays|Merlin Works Second Sundays]].

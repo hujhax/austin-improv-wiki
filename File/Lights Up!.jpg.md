@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Lights Up!"
 ---
-<div style="text-align: center;"><img src="File/Lights Up!.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lights Up!.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Lights Up!|Lights Up!]]*

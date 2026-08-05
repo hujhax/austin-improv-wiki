@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Cortnie Jones for Sarah 7."
 ---
-<div style="text-align: center;"><img src="File/Cortnie Jones Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cortnie Jones Pic.jpg]]
 
 ## Summary
 Publicity photo of [[Performers/Cortnie Jones|Cortnie Jones]] for [[Troupes/Sarah 7|Sarah 7]].

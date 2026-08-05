@@ -1,7 +1,7 @@
 ---
 description: "The Wafflefest logo; a variation on the Hideout Theatre's logo."
 ---
-<div style="text-align: center;"><img src="File/Wafflefest Logo.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Wafflefest Logo.png]]
 
 ## Summary
 The [[Festivals/Wafflefest|Wafflefest]] logo; a variation on [[Theatres/The Hideout Theatre|The Hideout Theatre]]'s logo.

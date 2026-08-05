@@ -1,7 +1,7 @@
 ---
 description: "The group photo from the 2012 Austin Improv Potluck."
 ---
-<div style="text-align: center;"><img src="File/AIC 2012 Potluck Group Photo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/AIC 2012 Potluck Group Photo.jpg]]
 
 ## Summary
 The group photo from the 2012 [[The Austin Improv Potluck|Austin Improv Potluck]].

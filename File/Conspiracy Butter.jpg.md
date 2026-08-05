@@ -1,7 +1,7 @@
 ---
 description: "Conspiracy Butter in their 5/26/06 performance at The Hideout Theatre."
 ---
-<div style="text-align: center;"><img src="File/Conspiracy Butter.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Conspiracy Butter.jpg]]
 
 ## Summary
 [[Troupes/Conspiracy Butter|Conspiracy Butter]] in their 5/26/06 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

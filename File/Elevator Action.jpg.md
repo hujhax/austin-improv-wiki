@@ -1,7 +1,7 @@
 ---
 description: "Elevator Action in their 8/28/12 performance at The 2012 Out..."
 ---
-<div style="text-align: center;"><img src="File/Elevator Action.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Elevator Action.jpg]]
 
 ## Summary
 [[Troupes/Elevator Action|Elevator Action]] in their 8/28/12 performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].

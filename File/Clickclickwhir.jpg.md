@@ -1,7 +1,7 @@
 ---
 description: "Promo image for Click Click Whir featuring Way Spurr-Chen and..."
 ---
-<div style="text-align: center;"><img src="File/Clickclickwhir.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Clickclickwhir.jpg]]
 
 ## Summary
 Promo image for *[[Shows/Click Click Whir|Click Click Whir]]* featuring Way Spurr-Chen and Marissa Macy.

@@ -1,6 +1,6 @@
 ---
 description: "Performance Photo."
 ---
-<div style="text-align: center;"><img src="File/Performance Photo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Performance Photo.jpg]]
 
 Performance Photo

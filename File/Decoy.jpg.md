@@ -1,7 +1,7 @@
 ---
 description: "Video still of Decoy, from their first performance."
 ---
-<div style="text-align: center;"><img src="File/Decoy.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Decoy.jpg]]
 
 ## Summary
 Video still of [[Troupes/Decoy|Decoy]], from their first performance.

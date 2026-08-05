@@ -1,7 +1,7 @@
 ---
 description: "Poster for Scene of the Crime."
 ---
-<div style="text-align: center;"><img src="File/Scene of the Crime Poster.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Scene of the Crime Poster.jpg]]
 
 ## Summary
 Poster for *[[Shows/Scene of the Crime|Scene of the Crime]]*.

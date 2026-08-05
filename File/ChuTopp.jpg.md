@@ -1,7 +1,7 @@
 ---
 description: "Topping Haggerty Chuy Zarate at the Hideout Theatre."
 ---
-<div style="text-align: center;"><img src="File/ChuTopp.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/ChuTopp.jpg]]
 
 ## Summary
 [[Troupes/Topping Haggerty|Topping Haggerty]] [[Performers/Chuy Zarate|Chuy Zarate]] at the Hideout Theatre.

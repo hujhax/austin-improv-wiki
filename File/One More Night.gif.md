@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for One More Night."
 ---
-<div style="text-align: center;"><img src="File/One More Night.gif" style="max-width: 100%; height: auto;" /></div>
+![[File/One More Night.gif]]
 
 ## Summary
 Promotional image for *[[Shows/One More Night|One More Night]]*.

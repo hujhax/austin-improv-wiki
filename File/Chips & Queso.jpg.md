@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Chips & Queso."
 ---
-<div style="text-align: center;"><img src="File/Chips & Queso.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Chips & Queso.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Chips & Queso|Chips & Queso]].

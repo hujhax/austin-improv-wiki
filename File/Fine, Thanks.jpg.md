@@ -1,7 +1,7 @@
 ---
 description: "Publicity image of Fine, Thanks."
 ---
-<div style="text-align: center;"><img src="File/Fine, Thanks.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fine, Thanks.jpg]]
 
 ## Summary
 Publicity image of [[Troupes/Fine, Thanks|Fine, Thanks]].

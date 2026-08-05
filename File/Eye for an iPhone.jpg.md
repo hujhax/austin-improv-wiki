@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for Eye for an iPhone."
 ---
-<div style="text-align: center;"><img src="File/Eye for an iPhone.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Eye for an iPhone.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/Eye for an iPhone|Eye for an iPhone]]*.

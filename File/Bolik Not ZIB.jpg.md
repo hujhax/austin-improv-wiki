@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Bolik Not ZIB."
 ---
-<div style="text-align: center;"><img src="File/Bolik Not ZIB.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Bolik Not ZIB.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Bolik Not ZIB|Bolik Not ZIB]].

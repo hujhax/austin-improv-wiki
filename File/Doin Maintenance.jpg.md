@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Doin Maintenance."
 ---
-<div style="text-align: center;"><img src="File/Doin Maintenance.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Doin Maintenance.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Doin Maintenance|Doin Maintenance]].

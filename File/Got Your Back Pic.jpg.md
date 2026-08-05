@@ -1,7 +1,7 @@
 ---
 description: "Logo for the Got Your Back podcast."
 ---
-<div style="text-align: center;"><img src="File/Got Your Back Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Got Your Back Pic.jpg]]
 
 ## Summary
 Logo for the *[[Troupes/Got Your Back|Got Your Back]]* podcast.

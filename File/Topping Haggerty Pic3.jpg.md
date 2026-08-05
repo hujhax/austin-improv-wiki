@@ -1,7 +1,7 @@
 ---
 description: "Topping Haggerty Xmas selfie."
 ---
-<div style="text-align: center;"><img src="File/Topping Haggerty Pic3.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Topping Haggerty Pic3.jpg]]
 
 ## Summary
 Topping Haggerty Xmas selfie

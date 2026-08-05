@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Kenny Madison from Close Up."
 ---
-<div style="text-align: center;"><img src="File/Kenny Madison Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kenny Madison Pic.jpg]]
 
 ## Summary
 Publicity photo of [[Performers/Kenny Madison|Kenny Madison]] from *[[Shows/Close Up|Close Up]]*.

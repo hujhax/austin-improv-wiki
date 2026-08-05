@@ -1,7 +1,7 @@
 ---
 description: "A postcard for The 2005 Out of Bounds Comedy Festival."
 ---
-<div style="text-align: center;"><img src="File/2005 Out of Bounds Postcard.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/2005 Out of Bounds Postcard.jpg]]
 
 ## Summary
 A postcard for [[Festivals/The 2005 Out of Bounds Comedy Festival|The 2005 Out of Bounds Comedy Festival]].

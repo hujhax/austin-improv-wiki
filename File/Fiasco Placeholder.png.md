@@ -1,7 +1,7 @@
 ---
 description: "Placeholder icon for Fiasco."
 ---
-<div style="text-align: center;"><img src="File/Fiasco Placeholder.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Fiasco Placeholder.png]]
 
 ## Summary
 Placeholder icon for *[[Shows/Fiasco|Fiasco]]*.

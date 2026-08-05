@@ -1,7 +1,7 @@
 ---
 description: "Promotional image for A Penny Dreadful."
 ---
-<div style="text-align: center;"><img src="File/A Penny Dreadful.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/A Penny Dreadful.jpg]]
 
 ## Summary
 Promotional image for *[[Shows/A Penny Dreadful|A Penny Dreadful]]*.

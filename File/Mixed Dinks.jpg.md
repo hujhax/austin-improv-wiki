@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Mixed Dinks."
 ---
-<div style="text-align: center;"><img src="File/Mixed Dinks.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Mixed Dinks.jpg]]
 
 ## Summary
 Publicity art for [[Troupes/Mixed Dinks|Mixed Dinks]].

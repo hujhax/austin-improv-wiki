@@ -1,7 +1,7 @@
 ---
 description: "Facebook cover photo for Fandom, by Kaci Beeler."
 ---
-<div style="text-align: center;"><img src="File/Fandom cover photo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fandom cover photo.jpg]]
 
 ## Summary
 Facebook cover photo for *Fandom*, by [[Performers/Kaci Beeler|Kaci Beeler]].

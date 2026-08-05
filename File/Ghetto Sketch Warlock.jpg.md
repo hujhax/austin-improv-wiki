@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Ghetto Sketch Warlock."
 ---
-<div style="text-align: center;"><img src="File/Ghetto Sketch Warlock.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ghetto Sketch Warlock.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Ghetto Sketch Warlock|Ghetto Sketch Warlock]].

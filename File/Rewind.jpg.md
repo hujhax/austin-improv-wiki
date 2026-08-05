@@ -1,7 +1,7 @@
 ---
 description: "Promotional Banner Graphic for Rewind."
 ---
-<div style="text-align: center;"><img src="File/Rewind.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Rewind.jpg]]
 
 ## Summary
 Promotional Banner Graphic for Rewind

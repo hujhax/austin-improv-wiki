@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for the 2012 run of After School Improv."
 ---
-<div style="text-align: center;"><img src="File/After School Improv Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/After School Improv Pic.jpg]]
 
 ## Summary
 Publicity poster for the 2012 run of *[[Shows/After School Improv|After School Improv]]*.

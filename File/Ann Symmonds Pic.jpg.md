@@ -1,7 +1,7 @@
 ---
 description: "Photo of Ann Symmonds."
 ---
-<div style="text-align: center;"><img src="File/Ann Symmonds Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ann Symmonds Pic.jpg]]
 
 ## Summary
 Photo of [[Performers/Ann Symmonds|Ann Symmonds]].

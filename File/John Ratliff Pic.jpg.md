@@ -1,7 +1,7 @@
 ---
 description: "John Ratliff, performing with You're Not My Real Dad at..."
 ---
-<div style="text-align: center;"><img src="File/John Ratliff Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/John Ratliff Pic.jpg]]
 
 ## Summary
 [[Performers/John Ratliff|John Ratliff]], performing with [[Troupes/You're Not My Real Dad|You're Not My Real Dad]] at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]] on 9/1/10.

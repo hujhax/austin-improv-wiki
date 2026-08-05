@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Rucker Park."
 ---
-<div style="text-align: center;"><img src="File/Rucker Park.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Rucker Park.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Rucker Park|Rucker Park]]*.

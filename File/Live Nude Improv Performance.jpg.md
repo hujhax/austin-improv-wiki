@@ -1,7 +1,7 @@
 ---
 description: "The \"cast\" warms up for \"rehearsal\" in the 8/6/11 performance..."
 ---
-<div style="text-align: center;"><img src="File/Live Nude Improv Performance.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Live Nude Improv Performance.jpg]]
 
 ## Summary
 The "cast" warms up for "rehearsal" in the 8/6/11 performance of *[[Shows/Live Nude Improv|Live Nude Improv]]*.

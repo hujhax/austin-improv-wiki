@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Stone Airplane."
 ---
-<div style="text-align: center;"><img src="File/Stone Airplane.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Stone Airplane.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Stone Airplane|Stone Airplane]].

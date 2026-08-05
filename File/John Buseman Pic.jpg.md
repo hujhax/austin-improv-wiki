@@ -1,7 +1,7 @@
 ---
 description: "John Buseman, performing with Blink in The Saturday Night Special..."
 ---
-<div style="text-align: center;"><img src="File/John Buseman Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/John Buseman Pic.jpg]]
 
 ## Summary
 [[Performers/John Buseman|John Buseman]], performing with [[Troupes/Blink|Blink]] in *[[Shows/The Saturday Night Special|The Saturday Night Special]]* on 4/17/10.

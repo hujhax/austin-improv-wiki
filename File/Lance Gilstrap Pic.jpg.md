@@ -1,7 +1,7 @@
 ---
 description: "Lance Gilstrap, in the 5/24/12 performance by Hot Property at..."
 ---
-<div style="text-align: center;"><img src="File/Lance Gilstrap Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lance Gilstrap Pic.jpg]]
 
 ## Summary
 [[Performers/Lance Gilstrap|Lance Gilstrap]], in the 5/24/12 performance by [[Troupes/Hot Property|Hot Property]] at the Austin Sketch Fest.

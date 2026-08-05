@@ -1,7 +1,7 @@
 ---
 description: "Wait OK Now performing at Salvage Vanguard Theater on May..."
 ---
-<div style="text-align: center;"><img src="File/Wait OK Now.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Wait OK Now.jpg]]
 
 ## Summary
 [[Troupes/Wait OK Now|Wait OK Now]] performing at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] on May 31, 2012.

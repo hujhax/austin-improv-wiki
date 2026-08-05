@@ -1,7 +1,7 @@
 ---
 description: "Poster for The Ladies Room."
 ---
-<div style="text-align: center;"><img src="File/The Ladies Room.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Ladies Room.jpg]]
 
 ## Summary
 Poster for *[[Shows/The Ladies Room|The Ladies Room]]*.

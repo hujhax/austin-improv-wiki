@@ -1,7 +1,7 @@
 ---
 description: "The blackboard, showing the show title and the chapter assignments,..."
 ---
-<div style="text-align: center;"><img src="File/Cover to Cover Blackboard.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cover to Cover Blackboard.jpg]]
 
 ## Summary
 The blackboard, showing the show title and the chapter assignments, for the 11/4/11 performance of *[[Shows/Cover to Cover|Cover to Cover]]* ("The Broken Locket").

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Mother Punch."
 ---
-<div style="text-align: center;"><img src="File/Mother Punch.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Mother Punch.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Mother Punch|Mother Punch]].

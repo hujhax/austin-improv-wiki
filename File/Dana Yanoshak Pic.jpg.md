@@ -1,7 +1,7 @@
 ---
 description: "Photo of Dana Yanoshak taken during the Apocalypse photo shoot."
 ---
-<div style="text-align: center;"><img src="File/Dana Yanoshak Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Dana Yanoshak Pic.jpg]]
 
 ## Summary
 Photo of [[Performers/Dana Yanoshak|Dana Yanoshak]] taken during the Apocalypse photo shoot.

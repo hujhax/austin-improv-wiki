@@ -1,7 +1,7 @@
 ---
 description: "Ceej Allen and Jeff Britt perform in one of the..."
 ---
-<div style="text-align: center;"><img src="File/Two Man Polanski.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Two Man Polanski.jpg]]
 
 ## Summary
 [[Performers/Ceej Allen|Ceej Allen]] and [[Performers/Jeff Britt|Jeff Britt]] perform in one of the improvised films from the 6/20/11 premiere of [[Troupes/Two Man Polanski|Two Man Polanski]] at *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.

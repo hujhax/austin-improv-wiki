@@ -1,7 +1,7 @@
 ---
 description: "Steve Harwood, in the 7/27/13 performance of Start Trekkin."
 ---
-<div style="text-align: center;"><img src="File/Steve Harwood Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Steve Harwood Pic.jpg]]
 
 ## Summary
 [[Performers/Steve Harwood|Steve Harwood]], in the 7/27/13 performance of *[[Shows/Start Trekkin'|Start Trekkin']]*.

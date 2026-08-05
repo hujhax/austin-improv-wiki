@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The TV Set."
 ---
-<div style="text-align: center;"><img src="File/The TV Set.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The TV Set.jpg]]
 
 ## Summary
 Publicity image for [[Shows/The TV Set|The TV Set]].

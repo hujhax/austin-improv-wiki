@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Devil and Halyn Erickson."
 ---
-<div style="text-align: center;"><img src="File/The Devil and Halyn Erickson.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Devil and Halyn Erickson.jpg]]
 
 ## Summary
 Publicity image for *[[Troupes/The Devil and Halyn Erickson|The Devil and Halyn Erickson]]*.

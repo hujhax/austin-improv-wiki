@@ -1,7 +1,7 @@
 ---
 description: "Andrew Pish plays the Third Professor in the 11/4/11 performance..."
 ---
-<div style="text-align: center;"><img src="File/The Third Professor.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Third Professor.jpg]]
 
 ## Summary
 [[Performers/Andrew Pish|Andrew Pish]] plays the Third Professor in the 11/4/11 performance of [[Troupes/The Professor|The Professor]].

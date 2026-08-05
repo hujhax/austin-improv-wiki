@@ -1,7 +1,7 @@
 ---
 description: "Brent Unger, preparing for the 2012 Same Year's Eve show."
 ---
-<div style="text-align: center;"><img src="File/Brent Unger Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Brent Unger Pic.jpg]]
 
 ## Summary
 [[Performers/Brent Unger|Brent Unger]], preparing for the 2012 [[Same Year's Eve]] show.

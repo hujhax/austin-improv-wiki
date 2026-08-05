@@ -1,7 +1,7 @@
 ---
 description: "Screencap of a Celebrity Alter Ego performance from 9/21/12."
 ---
-<div style="text-align: center;"><img src="File/Celebrity Alter Ego.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Celebrity Alter Ego.jpg]]
 
 ## Summary
 Screencap of a [[Troupes/Celebrity Alter Ego|Celebrity Alter Ego]] performance from 9/21/12.

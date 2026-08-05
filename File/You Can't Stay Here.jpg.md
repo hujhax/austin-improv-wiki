@@ -1,7 +1,7 @@
 ---
 description: "Placeholder art for You Can't Stay Here."
 ---
-<div style="text-align: center;"><img src="File/You Can't Stay Here.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/You Can't Stay Here.jpg]]
 
 ## Summary
 Placeholder art for *[[Shows/You Can't Stay Here|You Can't Stay Here]]*.

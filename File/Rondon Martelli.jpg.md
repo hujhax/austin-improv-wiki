@@ -1,7 +1,7 @@
 ---
 description: "Performance photo of Rondon Martelli from 2015."
 ---
-<div style="text-align: center;"><img src="File/Rondon Martelli.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Rondon Martelli.jpg]]
 
 ## Summary
 Performance photo of [[Troupes/Rondon Martelli|Rondon Martelli]] from 2015.

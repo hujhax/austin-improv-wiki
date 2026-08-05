@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of BOSS."
 ---
-<div style="text-align: center;"><img src="File/BOSS.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/BOSS.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Boss|Boss]].

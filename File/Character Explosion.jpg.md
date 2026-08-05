@@ -1,7 +1,7 @@
 ---
 description: "Photo of Character Explosion."
 ---
-<div style="text-align: center;"><img src="File/Character Explosion.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Character Explosion.jpg]]
 
 ## Summary
 Photo of [[Troupes/Character Explosion|Character Explosion]].

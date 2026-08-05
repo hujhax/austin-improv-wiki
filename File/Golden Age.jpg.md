@@ -1,7 +1,7 @@
 ---
 description: "Logo for Golden Age."
 ---
-<div style="text-align: center;"><img src="File/Golden Age.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Golden Age.jpg]]
 
 ## Summary
 Logo for [[Troupes/Golden Age|Golden Age]].

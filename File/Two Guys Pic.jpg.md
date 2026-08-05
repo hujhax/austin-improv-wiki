@@ -1,7 +1,7 @@
 ---
 description: "Publicity shot for Two Guys From Yonkers."
 ---
-<div style="text-align: center;"><img src="File/Two Guys Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Two Guys Pic.jpg]]
 
 ## Summary
 Publicity shot for [[Troupes/Two Guys from Yonkers|Two Guys from Yonkers]].

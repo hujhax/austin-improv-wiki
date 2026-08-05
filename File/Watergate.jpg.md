@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Watergate."
 ---
-<div style="text-align: center;"><img src="File/Watergate.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Watergate.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Watergate|Watergate]].

@@ -1,7 +1,7 @@
 ---
 description: "Marc Majcher interrogates Mike Kinald in Cochise, as part of..."
 ---
-<div style="text-align: center;"><img src="File/Cochise Performance.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cochise Performance.jpg]]
 
 ## Summary
 [[Performers/Marc Majcher|Marc Majcher]] interrogates [[Performers/Mike Kinald|Mike Kinald]] in *[[Shows/Cochise|Cochise]]*, as part of [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].

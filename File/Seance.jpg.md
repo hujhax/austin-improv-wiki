@@ -1,7 +1,7 @@
 ---
 description: "Show poster for Seance, featuring the cast."
 ---
-<div style="text-align: center;"><img src="File/Seance.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Seance.jpg]]
 
 ## Summary
 Show poster for *[[Shows/Seance|Seance]]*, featuring the cast.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for an Improv Anonymous performance in Oklahoma City."
 ---
-<div style="text-align: center;"><img src="File/Improv Anonymous.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Improv Anonymous.jpg]]
 
 ## Summary
 Publicity art for an *[[Shows/Improv Anonymous|Improv Anonymous]]* performance in Oklahoma City.

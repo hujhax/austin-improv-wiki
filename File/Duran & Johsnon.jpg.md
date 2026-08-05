@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Duran & Johnson's October 2013 run at..."
 ---
-<div style="text-align: center;"><img src="File/Duran & Johsnon.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Duran & Johsnon.jpg]]
 
 ## Summary
 Publicity art for [[Troupes/Duran & Johnson|Duran & Johnson]]'s October 2013 run at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

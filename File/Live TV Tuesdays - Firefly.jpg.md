@@ -1,7 +1,7 @@
 ---
 description: "The cast of Live TV Tuesdays: Firefly takes a bow."
 ---
-<div style="text-align: center;"><img src="File/Live TV Tuesdays - Firefly.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Live TV Tuesdays - Firefly.jpg]]
 
 ## Summary
 The cast of *[[Shows/Live TV Tuesdays -  Firefly|Live TV Tuesdays -  Firefly]]* takes a bow.

@@ -1,7 +1,7 @@
 ---
 description: "Michael Ferstenfeld plays the Second Professor in the 10/21/11 performance..."
 ---
-<div style="text-align: center;"><img src="File/The Second Professor.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Second Professor.jpg]]
 
 ## Summary
 [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] plays the Second Professor in the 10/21/11 performance of [[Troupes/The Professor|The Professor]].

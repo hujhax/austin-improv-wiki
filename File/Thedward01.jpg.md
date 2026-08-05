@@ -1,7 +1,7 @@
 ---
 description: "Thedward Blevins playing in Fancy Pants at The Hideout Theatre..."
 ---
-<div style="text-align: center;"><img src="File/Thedward01.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Thedward01.jpg]]
 
 ## Summary
 [[Performers/Thedward Blevins|Thedward Blevins]] playing in [[Shows/Fancy Pants|Fancy Pants]] at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on January 4, 2013.

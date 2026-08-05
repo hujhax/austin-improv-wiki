@@ -1,7 +1,7 @@
 ---
 description: "Kathy Rose Center performing in \"Only Three Will Survive\" on..."
 ---
-<div style="text-align: center;"><img src="File/Kathy Rose Center pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Kathy Rose Center pic.jpg]]
 
 ## Summary
 [[Performers/Kathy Rose Center|Kathy Rose Center]] performing in "[[Shows/Only Three Will Survive|Only Three Will Survive]]" on February 20, 2012.

@@ -1,7 +1,7 @@
 ---
 description: "Carlos LaRotta performing with Whalehouse in June 2013."
 ---
-<div style="text-align: center;"><img src="File/CarlosLaRotta.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/CarlosLaRotta.jpg]]
 
 ## Summary
 [[Performers/Carlos Larotta|Carlos Larotta]] performing with [[Troupes/Whalehouse|Whalehouse]] in June 2013.

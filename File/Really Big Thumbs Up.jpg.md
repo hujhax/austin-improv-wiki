@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Really Big Thumbs Up."
 ---
-<div style="text-align: center;"><img src="File/Really Big Thumbs Up.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Really Big Thumbs Up.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Really Big Thumbs Up|Really Big Thumbs Up]].

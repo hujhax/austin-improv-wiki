@@ -1,7 +1,7 @@
 ---
 description: "Photo submitted for Gravy's 2014 reunion show."
 ---
-<div style="text-align: center;"><img src="File/GravyReunion.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/GravyReunion.jpg]]
 
 ## Summary
 Photo submitted for [[Troupes/Gravy|Gravy]]'s 2014 reunion show.

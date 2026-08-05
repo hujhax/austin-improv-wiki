@@ -1,7 +1,7 @@
 ---
 description: "The Trust No One version of the Institution Theater's logo,..."
 ---
-<div style="text-align: center;"><img src="File/Eye-of-institution-1.gif" style="max-width: 100%; height: auto;" /></div>
+![[File/Eye-of-institution-1.gif]]
 
 ## Summary
 The [[Shows/Trust No One|Trust No One]] version of [[Theatres/The Institution Theater|the Institution Theater's]] logo, merging the familiar View-Master with the Eye of Providence.

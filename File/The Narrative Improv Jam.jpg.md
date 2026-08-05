@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for The Narrative Improv Jam."
 ---
-<div style="text-align: center;"><img src="File/The Narrative Improv Jam.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Narrative Improv Jam.jpg]]
 
 ## Summary
 Publicity art for *[[Shows/The Narrative Improv Jam|The Narrative Improv Jam]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Banner art for Tarantula."
 ---
-<div style="text-align: center;"><img src="File/Tarantula.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Tarantula.jpg]]
 
 ## Summary
 Banner art for *[[Shows/Tarantula|Tarantula]]*.

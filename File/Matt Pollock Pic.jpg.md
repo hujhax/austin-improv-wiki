@@ -1,7 +1,7 @@
 ---
 description: "Promo picture for Improv for Evil, 2010."
 ---
-<div style="text-align: center;"><img src="File/Matt Pollock Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Matt Pollock Pic.jpg]]
 
 ## Summary
 Promo picture for [[Troupes/Improv For Evil|Improv For Evil]], 2010.

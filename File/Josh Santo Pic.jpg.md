@@ -1,7 +1,7 @@
 ---
 description: "Josh Santo, in the 10/11/14 performance of The Aftermath."
 ---
-<div style="text-align: center;"><img src="File/Josh Santo Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Josh Santo Pic.jpg]]
 
 ## Summary
 [[Performers/Josh Santo|Josh Santo]], in the 10/11/14 performance of *[[Shows/The Aftermath|The Aftermath]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Quinn Buckner telling a fond memory of Firefly for Fandom."
 ---
-<div style="text-align: center;"><img src="File/Quinn Buckner.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Quinn Buckner.jpg]]
 
 ## Summary
 [[Performers/Quinn Buckner|Quinn Buckner]] telling a fond memory of *Firefly* for [[Shows/Fandom|Fandom]].

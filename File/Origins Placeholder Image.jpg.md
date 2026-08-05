@@ -1,7 +1,7 @@
 ---
 description: "Placeholder image for Origins."
 ---
-<div style="text-align: center;"><img src="File/Origins Placeholder Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Origins Placeholder Image.jpg]]
 
 ## Summary
 Placeholder image for *[[Shows/Origins|Origins]]*.

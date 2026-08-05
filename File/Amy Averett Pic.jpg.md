@@ -1,7 +1,7 @@
 ---
 description: "Amy Averett, performing with Girls Girls Girls on 5/5/12."
 ---
-<div style="text-align: center;"><img src="File/Amy Averett Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Amy Averett Pic.jpg]]
 
 ## Summary
 [[Performers/Amy Averett|Amy Averett]], performing with [[Troupes/Girls Girls Girls|Girls Girls Girls]] on 5/5/12.

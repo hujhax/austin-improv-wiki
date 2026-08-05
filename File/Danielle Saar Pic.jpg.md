@@ -1,7 +1,7 @@
 ---
 description: "Danielle Saar performing in Maestro."
 ---
-<div style="text-align: center;"><img src="File/Danielle Saar Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Danielle Saar Pic.jpg]]
 
 ## Summary
 [[Performers/Danielle Saar|Danielle Saar]] performing in *[[Shows/Maestro|Maestro]]*.

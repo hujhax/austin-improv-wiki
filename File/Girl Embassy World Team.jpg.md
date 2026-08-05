@@ -1,7 +1,7 @@
 ---
 description: "The ladies of Girl Embassy World Team perform at The..."
 ---
-<div style="text-align: center;"><img src="File/Girl Embassy World Team.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Girl Embassy World Team.jpg]]
 
 ## Summary
 The ladies of [[Troupes/Girl Embassy World Team|Girl Embassy World Team]] perform at [[Festivals/The 2011 Ladies Are Funny Festival|The 2011 Ladies Are Funny Festival]].

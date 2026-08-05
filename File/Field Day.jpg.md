@@ -1,7 +1,7 @@
 ---
 description: "Field Day, performing on 11/20/14 in WaffleFest 2014."
 ---
-<div style="text-align: center;"><img src="File/Field Day.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Field Day.jpg]]
 
 ## Summary
 [[Troupes/Field Day|Field Day]], performing on 11/20/14 in [[Festivals/WaffleFest 2014|WaffleFest 2014]].

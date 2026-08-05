@@ -1,7 +1,7 @@
 ---
 description: "Logo for Sausage Party by Liz Butler."
 ---
-<div style="text-align: center;"><img src="File/Sausage Party.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Sausage Party.jpg]]
 
 ## Summary
 Logo for [[Troupes/Sausage Party|Sausage Party]] by Liz Butler.

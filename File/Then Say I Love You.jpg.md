@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Then Say I Love You."
 ---
-<div style="text-align: center;"><img src="File/Then Say I Love You.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Then Say I Love You.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Then Say I Love You|Then Say I Love You]].

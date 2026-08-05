@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Do You Still Want To Do This?."
 ---
-<div style="text-align: center;"><img src="File/Do You Still Want To Do This.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Do You Still Want To Do This.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Do You Still Want to Do This|Do You Still Want to Do This]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Big Bash."
 ---
-<div style="text-align: center;"><img src="File/The Big Bash.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Big Bash.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/The Big Bash|The Big Bash]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for the finale of TGIS."
 ---
-<div style="text-align: center;"><img src="File/TGIS.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/TGIS.jpg]]
 
 ## Summary
 Publicity art for the finale of *[[Shows/TGIS|TGIS]]*.

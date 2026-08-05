@@ -1,7 +1,7 @@
 ---
 description: "Still from episode 10 of \"Three Guys Watching TV\", by..."
 ---
-<div style="text-align: center;"><img src="File/Laugh Pack.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Laugh Pack.jpg]]
 
 ## Summary
 Still from episode 10 of "Three Guys Watching TV", by [[Troupes/Laugh Pack|Laugh Pack]].

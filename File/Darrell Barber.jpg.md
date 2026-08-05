@@ -2,7 +2,7 @@
 description: "REDIRECT."
 image: "File/Darrell%20Barber%20Pic.jpg"
 ---
-<div style="text-align: center;"><img src="File/Darrell Barber.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Darrell Barber.jpg]]
 
 ---
 redirect: "File/Darrell Barber Pic.jpg"

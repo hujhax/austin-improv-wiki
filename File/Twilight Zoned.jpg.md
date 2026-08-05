@@ -1,7 +1,7 @@
 ---
 description: "Troy Miller and Sean Hill, in the 1/14/11 performance of..."
 ---
-<div style="text-align: center;"><img src="File/Twilight Zoned.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Twilight Zoned.jpg]]
 
 ## Summary
 [[Performers/Troy Miller|Troy Miller]] and [[Performers/Sean Hill|Sean Hill]], in the 1/14/11 performance of *[[Shows/Twilight Zoned|Twilight Zoned]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

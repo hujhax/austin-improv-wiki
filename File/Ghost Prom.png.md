@@ -1,7 +1,7 @@
 ---
 description: "Screencap from the video of Ghost Prom's 2/12/11 performance."
 ---
-<div style="text-align: center;"><img src="File/Ghost Prom.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Ghost Prom.png]]
 
 ## Summary
 Screencap from the video of [[Troupes/Ghost Prom|Ghost Prom]]'s 2/12/11 performance.

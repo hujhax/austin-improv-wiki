@@ -1,7 +1,7 @@
 ---
 description: "The crest designed by Ryan Austin for Local Genius Society."
 ---
-<div style="text-align: center;"><img src="File/LGSpatch.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/LGSpatch.jpg]]
 
 ## Summary
 The crest designed by [[Performers/Ryan Austin|Ryan Austin]] for [[Troupes/Local Genius Society|Local Genius Society]]. Each object represents a member of the cast at the time of design.

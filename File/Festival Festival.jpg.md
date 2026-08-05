@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Festival Festival."
 ---
-<div style="text-align: center;"><img src="File/Festival Festival.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Festival Festival.jpg]]
 
 ## Summary
 Publicity art for *[[Festivals/Festival Festival|Festival Festival]]*.

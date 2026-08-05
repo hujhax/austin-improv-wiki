@@ -1,7 +1,7 @@
 ---
 description: "Ruby Willmann and Christine Giordano, in the 7/12/11 performance of..."
 ---
-<div style="text-align: center;"><img src="File/Live TV Tuesdays - My So-Called Life.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Live TV Tuesdays - My So-Called Life.jpg]]
 
 ## Summary
 [[Performers/Ruby Willmann|Ruby Willmann]] and Christine Giordano, in the 7/12/11 performance of *[[Shows/Live TV Tuesdays -  My So-Called Life|Live TV Tuesdays -  My So-Called Life]]*.

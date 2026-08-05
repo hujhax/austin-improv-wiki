@@ -1,7 +1,7 @@
 ---
 description: "Kaci Beeler and Curtis Luciani performing as The Amazon and..."
 ---
-<div style="text-align: center;"><img src="File/The Amazon and the Milksop.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Amazon and the Milksop.jpg]]
 
 ## Summary
 [[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Curtis Luciani|Curtis Luciani]] performing as [[Troupes/The Amazon and The Milksop|The Amazon and The Milksop]].

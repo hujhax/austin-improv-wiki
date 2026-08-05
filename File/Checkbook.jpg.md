@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo for Checkbook."
 ---
-<div style="text-align: center;"><img src="File/Checkbook.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Checkbook.jpg]]
 
 ## Summary
 Publicity photo for [[Troupes/Checkbook|Checkbook]].

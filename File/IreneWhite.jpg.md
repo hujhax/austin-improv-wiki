@@ -1,7 +1,7 @@
 ---
 description: "Irene White, performing at The Hideout Theatre."
 ---
-<div style="text-align: center;"><img src="File/IreneWhite.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/IreneWhite.jpg]]
 
 ## Summary
 [[Performers/Irene White|Irene White]], performing at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

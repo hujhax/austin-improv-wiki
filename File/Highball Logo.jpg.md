@@ -1,7 +1,7 @@
 ---
 description: "Logo for The Highball."
 ---
-<div style="text-align: center;"><img src="File/Highball Logo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Highball Logo.jpg]]
 
 ## Summary
 Logo for [[Theatres/The Highball|The Highball]].

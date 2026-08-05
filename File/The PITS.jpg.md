@@ -1,7 +1,7 @@
 ---
 description: "Photo of The PITS, provided by Kaci Beeler."
 ---
-<div style="text-align: center;"><img src="File/The PITS.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The PITS.jpg]]
 
 ## Summary
 Photo of [[Troupes/The PITS|The PITS]], provided by [[Performers/Kaci Beeler|Kaci Beeler]].

@@ -1,7 +1,7 @@
 ---
 description: "Rachel Creason in \"SongRunner.\"."
 ---
-<div style="text-align: center;"><img src="File/RachelCreason.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/RachelCreason.jpg]]
 
 ## Summary
 Rachel Creason in "SongRunner."

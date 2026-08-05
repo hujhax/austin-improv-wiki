@@ -1,7 +1,7 @@
 ---
 description: "No Frills unofficially debuting at a special outdoor edition of..."
 ---
-<div style="text-align: center;"><img src="File/No Frills.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/No Frills.jpg]]
 
 ## Summary
 [[Troupes/No Frills|No Frills]] unofficially debuting at a special outdoor edition of *[[Shows/The Rubber Room|The Rubber Room]]* on 7/7/13.

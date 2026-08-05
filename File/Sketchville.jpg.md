@@ -1,7 +1,7 @@
 ---
 description: "Opening title card for Sketchville."
 ---
-<div style="text-align: center;"><img src="File/Sketchville.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Sketchville.jpg]]
 
 ## Summary
 Opening title card for *[[Shows/Sketchville|Sketchville]]*.

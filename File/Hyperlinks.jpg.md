@@ -1,7 +1,7 @@
 ---
 description: "From a 3/3/11 performance of Hyperlinks produced by The Institution..."
 ---
-<div style="text-align: center;"><img src="File/Hyperlinks.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Hyperlinks.jpg]]
 
 ## Summary
 From a 3/3/11 performance of *[[Shows/Hyperlinks|Hyperlinks]]* produced by [[Theatres/The Institution Theater|The Institution Theater]].

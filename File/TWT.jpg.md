@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Trouble With Terry."
 ---
-<div style="text-align: center;"><img src="File/TWT.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/TWT.jpg]]
 
 ## Summary
 Publicity image for [[Shows/The Trouble With Terry|The Trouble With Terry]].

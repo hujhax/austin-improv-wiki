@@ -1,7 +1,7 @@
 ---
 description: "Photo of Brick vs."
 ---
-<div style="text-align: center;"><img src="File/Brick vs. Mongoose.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Brick vs. Mongoose.jpg]]
 
 ## Summary
 Photo of [[Troupes/Brick vs. Mongoose|Brick vs. Mongoose]].

@@ -1,7 +1,7 @@
 ---
 description: "Known Wizards poster."
 ---
-<div style="text-align: center;"><img src="File/Known wizards.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Known wizards.jpg]]
 
 ## Summary
 [[Troupes/Known Wizards|Known Wizards]] poster.  Photo by [[Steve Rogers]].

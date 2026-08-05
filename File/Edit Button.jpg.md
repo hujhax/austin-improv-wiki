@@ -1,7 +1,7 @@
 ---
 description: "Screencap by Peter Rogers indicating where the edit button is."
 ---
-<div style="text-align: center;"><img src="File/Edit Button.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Edit Button.jpg]]
 
 ## Summary
 Screencap by [[Performers/Peter Rogers|Peter Rogers]] indicating where the edit button is.

@@ -1,7 +1,7 @@
 ---
 description: "Poster for SongRunner."
 ---
-<div style="text-align: center;"><img src="File/SongRunner.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/SongRunner.jpg]]
 
 ## Summary
 Poster for *[[Shows/SongRunner|SongRunner]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of the 2014 incarnation of The Escorts."
 ---
-<div style="text-align: center;"><img src="File/The Escorts 2014.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Escorts 2014.jpg]]
 
 ## Summary
 Publicity photo of the 2014 incarnation of [[Troupes/The Escorts|The Escorts]].

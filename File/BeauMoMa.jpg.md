@@ -1,7 +1,7 @@
 ---
 description: "BeauMoMa performing at The Institution Theater."
 ---
-<div style="text-align: center;"><img src="File/BeauMoMa.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/BeauMoMa.jpg]]
 
 ## Summary
 [[Troupes/BeauMoMa|BeauMoMa]] performing at [[Theatres/The Institution Theater|The Institution Theater]].

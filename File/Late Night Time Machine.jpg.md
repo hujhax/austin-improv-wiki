@@ -1,7 +1,7 @@
 ---
 description: "Teddy Hancox and his PA in the 9/5/14 performance of..."
 ---
-<div style="text-align: center;"><img src="File/Late Night Time Machine.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Late Night Time Machine.jpg]]
 
 ## Summary
 Teddy Hancox ([[Performers/James C. Leary|James C. Leary]]) and his PA (Sydney Huddleston) in the 9/5/14 performance of *[[Shows/Late Night Time Machine|Late Night Time Machine]]*.

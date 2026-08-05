@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Movie Riot by Carlos LaRotta."
 ---
-<div style="text-align: center;"><img src="File/Movie Riot.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Movie Riot.jpg]]
 
 ## Summary
 Publicity art for *[[Shows/Movie Riot|Movie Riot]]* by [[Performers/Carlos Larotta|Carlos Larotta]].

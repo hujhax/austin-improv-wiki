@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Skutch."
 ---
-<div style="text-align: center;"><img src="File/Skutch.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Skutch.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Skutch|Skutch]].

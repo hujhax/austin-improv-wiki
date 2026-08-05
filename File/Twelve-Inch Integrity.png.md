@@ -1,7 +1,7 @@
 ---
 description: "Logo for Twelve-Inch Integrity."
 ---
-<div style="text-align: center;"><img src="File/Twelve-Inch Integrity.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Twelve-Inch Integrity.png]]
 
 ## Summary
 Logo for [[Troupes/Twelve-Inch Integrity|Twelve-Inch Integrity]].

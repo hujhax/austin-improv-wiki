@@ -1,7 +1,7 @@
 ---
 description: "The Well Hung Jury, performing in their 4/30/09 one-off reunion..."
 ---
-<div style="text-align: center;"><img src="File/Well Hung Jury.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Well Hung Jury.jpg]]
 
 ## Summary
 The [[Troupes/Well Hung Jury|Well Hung Jury]], performing in their 4/30/09 one-off reunion show.

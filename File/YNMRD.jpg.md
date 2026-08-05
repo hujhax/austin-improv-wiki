@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of You're Not My Real Dad."
 ---
-<div style="text-align: center;"><img src="File/YNMRD.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/YNMRD.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/You're Not My Real Dad|You're Not My Real Dad]].

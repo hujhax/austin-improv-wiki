@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Austin Comedy Hour."
 ---
-<div style="text-align: center;"><img src="File/Austin Comedy Hour.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Austin Comedy Hour.jpg]]
 
 ## Summary
 Publicity image for *[[Shows/Austin Comedy Hour|Austin Comedy Hour]]*.

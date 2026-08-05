@@ -1,7 +1,7 @@
 ---
 description: "Photo of Drinkies Galore by Topping Haggerty."
 ---
-<div style="text-align: center;"><img src="File/Drinkies Galore 3.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Drinkies Galore 3.jpg]]
 
 ## Summary
 Photo of [[Troupes/Drinkies Galore|Drinkies Galore]] by [[Troupes/Topping Haggerty|Topping Haggerty]].

@@ -1,7 +1,7 @@
 ---
 description: "Theo Daley, in the 1/10/15 performance of A Penny Dreadful."
 ---
-<div style="text-align: center;"><img src="File/Theo Daley Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Theo Daley Pic.jpg]]
 
 ## Summary
 [[Performers/Theo Daley|Theo Daley]], in the 1/10/15 performance of *[[Shows/A Penny Dreadful|A Penny Dreadful]]*.

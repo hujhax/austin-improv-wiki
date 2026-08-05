@@ -1,7 +1,7 @@
 ---
 description: "Placeholder publicity image for A Penny Dreadful."
 ---
-<div style="text-align: center;"><img src="File/A Penny Dreadful Preview Image.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/A Penny Dreadful Preview Image.jpg]]
 
 ## Summary
 Placeholder publicity image for *[[Shows/A Penny Dreadful|A Penny Dreadful]]*.

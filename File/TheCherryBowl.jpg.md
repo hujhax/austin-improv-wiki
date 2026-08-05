@@ -1,7 +1,7 @@
 ---
 description: "Poster for The Cherry Bowl."
 ---
-<div style="text-align: center;"><img src="File/TheCherryBowl.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/TheCherryBowl.jpg]]
 
 ## Summary
 Poster for [[Shows/The Cherry Bowl|The Cherry Bowl]].

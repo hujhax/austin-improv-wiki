@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Laser Heart."
 ---
-<div style="text-align: center;"><img src="File/Laser Heart.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Laser Heart.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Laser Heart|Laser Heart]].

@@ -1,7 +1,7 @@
 ---
 description: "Promo image for Buddy Cop."
 ---
-<div style="text-align: center;"><img src="File/Buddycop.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Buddycop.jpg]]
 
 ## Summary
 Promo image for *[[Shows/Buddy Cop|Buddy Cop]]*.

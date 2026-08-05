@@ -1,7 +1,7 @@
 ---
 description: "Photo of the only performance by Dandy."
 ---
-<div style="text-align: center;"><img src="File/Dandy.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Dandy.jpg]]
 
 ## Summary
 Photo of the only performance by [[Troupes/Dandy|Dandy]].

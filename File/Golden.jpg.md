@@ -1,7 +1,7 @@
 ---
 description: "Poster for Golden, featuring Tyler Lane in a homage to..."
 ---
-<div style="text-align: center;"><img src="File/Golden.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Golden.jpg]]
 
 ## Summary
 Poster for *[[Troupes/Golden|Golden]]*, featuring [[Performers/Tyler Lane|Tyler Lane]] in a homage to *Safety Last*.

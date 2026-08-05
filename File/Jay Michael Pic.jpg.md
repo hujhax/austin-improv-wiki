@@ -1,7 +1,7 @@
 ---
 description: "Jay Michael, in the 1/14/12 performance of Twilight Zoned."
 ---
-<div style="text-align: center;"><img src="File/Jay Michael Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jay Michael Pic.jpg]]
 
 ## Summary
 [[Performers/Jay Michael|Jay Michael]], in the 1/14/12 performance of *[[Shows/Twilight Zoned|Twilight Zoned]]*.

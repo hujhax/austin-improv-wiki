@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for the 2013 run of Not This American..."
 ---
-<div style="text-align: center;"><img src="File/Not This American Life.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Not This American Life.jpg]]
 
 ## Summary
 Publicity poster for the 2013 run of *[[Shows/Not This American Life|Not This American Life]]*.

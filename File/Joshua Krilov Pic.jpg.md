@@ -1,7 +1,7 @@
 ---
 description: "Joshua Krilov, hosting The Night Show on 7/28/11."
 ---
-<div style="text-align: center;"><img src="File/Joshua Krilov Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Joshua Krilov Pic.jpg]]
 
 ## Summary
 [[Performers/Joshua Krilov|Joshua Krilov]], hosting *The Night Show* on 7/28/11.

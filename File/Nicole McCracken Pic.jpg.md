@@ -1,7 +1,7 @@
 ---
 description: "Nicole McCracken, in the 8/30/13 performance of Braised in Texas."
 ---
-<div style="text-align: center;"><img src="File/Nicole McCracken Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Nicole McCracken Pic.jpg]]
 
 ## Summary
 [[Performers/Nicole McCracken|Nicole McCracken]], in the 8/30/13 performance of *[[Shows/Braised in Texas|Braised in Texas]]*.

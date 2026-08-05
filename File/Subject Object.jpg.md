@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Subject: Object."
 ---
-<div style="text-align: center;"><img src="File/Subject Object.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Subject Object.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Subject -  Object|Subject -  Object]].

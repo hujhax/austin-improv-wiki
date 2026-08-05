@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Snackers by Jon Bolden."
 ---
-<div style="text-align: center;"><img src="File/Snackers.png" style="max-width: 100%; height: auto;" /></div>
+![[File/Snackers.png]]
 
 ## Summary
 Publicity art for [[Troupes/Snackers|Snackers]] by [[Performers/Jon Bolden|Jon Bolden]].

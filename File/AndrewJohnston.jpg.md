@@ -1,7 +1,7 @@
 ---
 description: "Taken at home, Canon Powershot with CHDK hack, time lapse..."
 ---
-<div style="text-align: center;"><img src="File/AndrewJohnston.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/AndrewJohnston.jpg]]
 
 ## Summary
 Taken at home, Canon Powershot with CHDK hack, time lapse settings.  

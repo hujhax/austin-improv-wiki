@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for Pals!."
 ---
-<div style="text-align: center;"><img src="File/Pals!.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Pals!.jpg]]
 
 ## Summary
 Publicity art for [[Troupes/Pals!|Pals!]].

@@ -1,7 +1,7 @@
 ---
 description: "Madi Goff, in the 1/22/10 performance of One More Night."
 ---
-<div style="text-align: center;"><img src="File/Madi Goff Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Madi Goff Pic.jpg]]
 
 ## Summary
 [[Performers/Madi Goff|Madi Goff]], in the 1/22/10 performance of *[[Shows/One More Night|One More Night]]*.

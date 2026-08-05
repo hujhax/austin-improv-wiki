@@ -1,7 +1,7 @@
 ---
 description: "Katie Dahm performing with Quayle on 2/5/11."
 ---
-<div style="text-align: center;"><img src="File/Katie Dahm Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Katie Dahm Pic.jpg]]
 
 ## Summary
 [[Performers/Katie Dahm|Katie Dahm]] performing with [[Troupes/Quayle|Quayle]] on 2/5/11.

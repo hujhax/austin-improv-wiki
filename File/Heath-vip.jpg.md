@@ -1,7 +1,7 @@
 ---
 description: "Heath Allyn at the first annual Institution Theater Awards."
 ---
-<div style="text-align: center;"><img src="File/Heath-vip.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Heath-vip.jpg]]
 
 ## Summary
 [[Performers/Heath Allyn|Heath Allyn]] at the first annual [[Institution Theater Awards]].

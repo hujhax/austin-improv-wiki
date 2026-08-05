@@ -1,7 +1,7 @@
 ---
 description: "Publicity art for The Lottery."
 ---
-<div style="text-align: center;"><img src="File/The Lottery.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Lottery.jpg]]
 
 ## Summary
 Publicity art for *[[Shows/The Lottery|The Lottery]]*.

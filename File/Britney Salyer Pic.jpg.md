@@ -1,7 +1,7 @@
 ---
 description: "Britney Salyer performing in The Sandbox on 1/28/11."
 ---
-<div style="text-align: center;"><img src="File/Britney Salyer Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Britney Salyer Pic.jpg]]
 
 ## Summary
 [[Performers/Britney Salyer|Britney Salyer]] performing in *[[Shows/The Sandbox|The Sandbox]]* on 1/28/11.

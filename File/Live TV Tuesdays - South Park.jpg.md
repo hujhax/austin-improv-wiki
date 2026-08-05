@@ -1,7 +1,7 @@
 ---
 description: "Promotional art for Live TV Tuesdays: South Park."
 ---
-<div style="text-align: center;"><img src="File/Live TV Tuesdays - South Park.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Live TV Tuesdays - South Park.jpg]]
 
 ## Summary
 Promotional art for *[[Shows/Live TV Tuesdays -  South Park|Live TV Tuesdays -  South Park]]*.

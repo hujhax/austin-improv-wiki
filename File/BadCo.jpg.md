@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Bad Company depicting Luis Salinas."
 ---
-<div style="text-align: center;"><img src="File/BadCo.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/BadCo.jpg]]
 
 ## Summary
 Publicity image for [[Shows/Bad Company|Bad Company]] depicting [[Performers/Luis Salinas|Luis Salinas]].

@@ -1,7 +1,7 @@
 ---
 description: "Publicity banner for Bad Girls in Plaid Skirts."
 ---
-<div style="text-align: center;"><img src="File/Bad Girls in Plaid Skirts.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Bad Girls in Plaid Skirts.jpg]]
 
 ## Summary
 Publicity banner for *[[Shows/Bad Girls in Plaid Skirts|Bad Girls in Plaid Skirts]]*.

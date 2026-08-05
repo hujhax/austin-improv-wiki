@@ -1,7 +1,7 @@
 ---
 description: "Logo for Fat."
 ---
-<div style="text-align: center;"><img src="File/Fat. Gay. Jewish.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Fat. Gay. Jewish.jpg]]
 
 ## Summary
 Logo for [[Troupes/Fat. Gay. Jewish|Fat. Gay. Jewish]]

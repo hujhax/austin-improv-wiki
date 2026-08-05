@@ -1,7 +1,7 @@
 ---
 description: "YDF logo, taken from the group's facebook page."
 ---
-<div style="text-align: center;"><img src="File/Your Dad's Friends.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Your Dad's Friends.jpg]]
 
 ## Summary
 YDF logo, taken from [the group's facebook page](http://www.facebook.com/pages/Your-Dads-Friends/247344088770).

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for Symphonic Taint."
 ---
-<div style="text-align: center;"><img src="File/Symphonic Taint.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Symphonic Taint.jpg]]
 
 ## Summary
 Publicity image for [[Troupes/Symphonic Taint|Symphonic Taint]].

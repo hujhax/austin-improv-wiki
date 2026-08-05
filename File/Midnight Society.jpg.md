@@ -1,7 +1,7 @@
 ---
 description: "Midnight Society performs at ColdTowne Theater."
 ---
-<div style="text-align: center;"><img src="File/Midnight Society.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Midnight Society.jpg]]
 
 ## Summary
 [[Troupes/Midnight Society|Midnight Society]] performs at [[Theatres/Coldtowne Theater|Coldtowne Theater]].

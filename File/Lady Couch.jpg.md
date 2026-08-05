@@ -1,7 +1,7 @@
 ---
 description: "Lady Couch performing at The Saturday Night Special on 4/9/11."
 ---
-<div style="text-align: center;"><img src="File/Lady Couch.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Lady Couch.jpg]]
 
 ## Summary
 [[Troupes/Lady Couch|Lady Couch]] performing at *[[Shows/The Saturday Night Special|The Saturday Night Special]]* on 4/9/11.

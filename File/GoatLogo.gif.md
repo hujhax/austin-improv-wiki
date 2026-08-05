@@ -1,7 +1,7 @@
 ---
 description: "Goat's logo, designed by Brad Hawkins from a sketch by..."
 ---
-<div style="text-align: center;"><img src="File/GoatLogo.gif" style="max-width: 100%; height: auto;" /></div>
+![[File/GoatLogo.gif]]
 
 ## Summary
 [[Troupes/Goat|Goat]]'s logo, designed by [[Performers/Brad Hawkins|Brad Hawkins]] from a sketch by Indigo Rael.

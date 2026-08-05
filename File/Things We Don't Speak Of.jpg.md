@@ -1,7 +1,7 @@
 ---
 description: "Things We Don't Speak Of in their 1/15/15 debut at..."
 ---
-<div style="text-align: center;"><img src="File/Things We Don't Speak Of.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Things We Don't Speak Of.jpg]]
 
 ## Summary
 [[Troupes/Things We Don't Speak Of|Things We Don't Speak Of]] in their 1/15/15 debut at *[[Shows/The Free Fringe|The Free Fringe]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Gene Zhou, performing with Diplomatic Impunity at The Monday Night..."
 ---
-<div style="text-align: center;"><img src="File/Gene Zhou Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Gene Zhou Pic.jpg]]
 
 ## Summary
 [[Performers/Gene Zhou|Gene Zhou]], performing with [[Troupes/Diplomatic Impunity|Diplomatic Impunity]] at *[[Shows/The Monday Night Mash|The Monday Night Mash]]* on 8/8/11.

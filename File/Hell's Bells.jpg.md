@@ -1,7 +1,7 @@
 ---
 description: "Hell's Bells, in their 9/19/11 performance in The Monday Night..."
 ---
-<div style="text-align: center;"><img src="File/Hell's Bells.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Hell's Bells.jpg]]
 
 ## Summary
 [[Troupes/Hell's Bells|Hell's Bells]], in their 9/19/11 performance in *[[Shows/The Monday Night Mash|The Monday Night Mash]]*.

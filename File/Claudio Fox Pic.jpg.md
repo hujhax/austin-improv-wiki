@@ -1,7 +1,7 @@
 ---
 description: "Claudio Fox, performing in the 12/20/12 Free Fringe."
 ---
-<div style="text-align: center;"><img src="File/Claudio Fox Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Claudio Fox Pic.jpg]]
 
 ## Summary
 [[Performers/Claudio Fox|Claudio Fox]], performing in the 12/20/12 *[[Shows/Free Fringe|Free Fringe]]*.

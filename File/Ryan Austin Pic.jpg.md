@@ -1,7 +1,7 @@
 ---
 description: "Head shot of Ryan Austin."
 ---
-<div style="text-align: center;"><img src="File/Ryan Austin Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Ryan Austin Pic.jpg]]
 
 ## Summary
 Head shot of [[Performers/Ryan Austin|Ryan Austin]].

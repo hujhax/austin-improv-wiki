@@ -1,7 +1,7 @@
 ---
 description: "Cat Drago, performing in the 9/8/12 premiere of The Tribunal."
 ---
-<div style="text-align: center;"><img src="File/Cat Drago Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Cat Drago Pic.jpg]]
 
 ## Summary
 [[Performers/Cat Drago|Cat Drago]], performing in the 9/8/12 premiere of *[[Shows/The Tribunal|The Tribunal]]*.

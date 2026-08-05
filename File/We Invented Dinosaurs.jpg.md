@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of We Invented Dinosaurs."
 ---
-<div style="text-align: center;"><img src="File/We Invented Dinosaurs.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/We Invented Dinosaurs.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/We Invented Dinosaurs|We Invented Dinosaurs]].

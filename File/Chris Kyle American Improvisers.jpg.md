@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Chris Kyle: American Improvisers."
 ---
-<div style="text-align: center;"><img src="File/Chris Kyle American Improvisers.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Chris Kyle American Improvisers.jpg]]
 
 ## Summary
 Publicity photo of [[Troupes/Chris Kyle -  American Improvisers|Chris Kyle -  American Improvisers]].

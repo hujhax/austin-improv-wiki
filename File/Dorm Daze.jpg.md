@@ -1,7 +1,7 @@
 ---
 description: "From Bad Font's Facebook page, for the first run of..."
 ---
-<div style="text-align: center;"><img src="File/Dorm Daze.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Dorm Daze.jpg]]
 
 ## Summary
 From Bad Font's Facebook page, for the first run of Dorm Daze.

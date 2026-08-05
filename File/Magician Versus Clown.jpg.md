@@ -1,7 +1,7 @@
 ---
 description: "Magician vs."
 ---
-<div style="text-align: center;"><img src="File/Magician Versus Clown.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Magician Versus Clown.jpg]]
 
 ## Summary
 [[Troupes/Magician vs. Clown|Magician vs. Clown]] playing at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].

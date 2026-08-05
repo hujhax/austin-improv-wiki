@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Jay Mahavier for Fiasco."
 ---
-<div style="text-align: center;"><img src="File/Jay Mahavier Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jay Mahavier Pic.jpg]]
 
 ## Summary
 Publicity photo of [[Performers/Jay Mahavier|Jay Mahavier]] for *[[Shows/Fiasco|Fiasco]]*.

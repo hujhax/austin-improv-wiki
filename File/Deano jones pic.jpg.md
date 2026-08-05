@@ -1,7 +1,7 @@
 ---
 description: "Deano Jones, performing in The Violet Underbelly on 3/26/11."
 ---
-<div style="text-align: center;"><img src="File/Deano jones pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Deano jones pic.jpg]]
 
 ## Summary
 [[Performers/Deano Jones|Deano Jones]], performing in *[[Shows/The Violet Underbelly|The Violet Underbelly]]* on 3/26/11.

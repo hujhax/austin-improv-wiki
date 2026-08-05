@@ -1,7 +1,7 @@
 ---
 description: "Joshua Gill."
 ---
-<div style="text-align: center;"><img src="File/Joshua Gill Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Joshua Gill Pic.jpg]]
 
 ## Summary
 [[Performers/Joshua Gill|Joshua Gill]]

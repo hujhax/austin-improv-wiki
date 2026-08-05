@@ -1,7 +1,7 @@
 ---
 description: "Warren Henderson, performing in a student graduation show at The..."
 ---
-<div style="text-align: center;"><img src="File/Warren Henderson Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Warren Henderson Pic.jpg]]
 
 ## Summary
 [[Performers/Warren Henderson|Warren Henderson]], performing in a student graduation show at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on 2/10/13.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Saturday Night Special."
 ---
-<div style="text-align: center;"><img src="File/The Saturday Night Special Publicity.gif" style="max-width: 100%; height: auto;" /></div>
+![[File/The Saturday Night Special Publicity.gif]]
 
 ## Summary
 Publicity image for *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.

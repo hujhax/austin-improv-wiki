@@ -1,7 +1,7 @@
 ---
 description: "Publicity image for The Spectacle, featuring Parallelogramophonograph."
 ---
-<div style="text-align: center;"><img src="File/Spectacle Publicity.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Spectacle Publicity.jpg]]
 
 ## Summary
 Publicity image for [[Shows/The Spectacle|The Spectacle]], featuring [[Troupes/Parallelogramophonograph|Parallelogramophonograph]].

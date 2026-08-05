@@ -1,7 +1,7 @@
 ---
 description: "Publicity photo of Troy Miller for Manhattan Stories."
 ---
-<div style="text-align: center;"><img src="File/Troy Miller Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Troy Miller Pic.jpg]]
 
 ## Summary
 Publicity photo of [[Performers/Troy Miller|Troy Miller]] for *[[Shows/Manhattan Stories|Manhattan Stories]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Greg Blank, in the 3/1/13 performance of The Fancy-Pants Mash-Up."
 ---
-<div style="text-align: center;"><img src="File/Blank.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Blank.jpg]]
 
 ## Summary
 [[Performers/Greg Blank|Greg Blank]], in the 3/1/13 performance of *[[Shows/The Fancy-Pants Mash-Up|The Fancy-Pants Mash-Up]]*.

@@ -1,7 +1,7 @@
 ---
 description: "Publicity poster for The Amazing Improvised Race."
 ---
-<div style="text-align: center;"><img src="File/The Amazing Improvised Race.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/The Amazing Improvised Race.jpg]]
 
 ## Summary
 Publicity poster for *[[Shows/The Amazing Improvised Race|The Amazing Improvised Race]]*. Photo by [[Steve Rogers]]. Art by [[Performers/Courtney Hopkin|Courtney Hopkin]].

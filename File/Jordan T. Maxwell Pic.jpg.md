@@ -1,7 +1,7 @@
 ---
 description: "Promo photo for Strange Worlds."
 ---
-<div style="text-align: center;"><img src="File/Jordan T. Maxwell Pic.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/Jordan T. Maxwell Pic.jpg]]
 
 ## Summary
 Promo photo for *[[Shows/Strange Worlds|Strange Worlds]]*.

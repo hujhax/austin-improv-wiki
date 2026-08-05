@@ -1,7 +1,7 @@
 ---
 description: "B-Team, performing in The Triple Scoop on 10/5/13."
 ---
-<div style="text-align: center;"><img src="File/B-Team.jpg" style="max-width: 100%; height: auto;" /></div>
+![[File/B-Team.jpg]]
 
 ## Summary
 [[Troupes/B-Team|B-Team]], performing in *[[Shows/The Triple Scoop|The Triple Scoop]]* on 10/5/13.
