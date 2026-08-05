@@ -9,7 +9,7 @@ image: "File/Mutual%20of%20Omaha%27s%20Wild%20Kingdom.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Mutual of Omaha's Wild Kingdom.jpg.md"><a class="internal-link" href="File/Mutual of Omaha's Wild Kingdom.jpg.md"><img src="File/Mutual%20of%20Omaha's%20Wild%20Kingdom.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Mutual of Omaha's Wild Kingdom.jpg.md"><img src="File/Mutual%20of%20Omaha's%20Wild%20Kingdom.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

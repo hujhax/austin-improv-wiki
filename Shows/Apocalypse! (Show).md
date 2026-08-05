@@ -9,7 +9,7 @@ image: "File/Apocalypse%20%28Show%29.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Apocalypse (Show"><a class="internal-link" href="File/Apocalypse (Show).jpg.md"><img src="File/Apocalypse%20(Show).jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>.jpg.md)
+				<a class="internal-link" href="File/Apocalypse (Show).jpg.md"><img src="File/Apocalypse%20(Show).jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

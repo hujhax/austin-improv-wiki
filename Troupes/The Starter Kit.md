@@ -9,7 +9,7 @@ image: "File/The%20Starter%20Kit%20logo.jpeg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/The Starter Kit logo.jpeg.md"><a class="internal-link" href="File/The Starter Kit logo.jpeg.md"><img src="File/The%20Starter%20Kit%20logo.jpeg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/The Starter Kit logo.jpeg.md"><img src="File/The%20Starter%20Kit%20logo.jpeg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

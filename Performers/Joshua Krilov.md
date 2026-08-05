@@ -9,7 +9,7 @@ image: "File/Joshua%20Krilov%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a href="File/Joshua Krilov Pic.jpg.md"><a class="internal-link" href="File/Joshua Krilov Pic.jpg.md"><img src="File/Joshua%20Krilov%20Pic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Joshua Krilov Pic.jpg.md"><img src="File/Joshua%20Krilov%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

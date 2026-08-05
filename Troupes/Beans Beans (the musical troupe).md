@@ -9,7 +9,7 @@ image: "File/Beans%20Beans%20%28the%20musical%20troupe%29.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Beans Beans (the musical troupe"><a class="internal-link" href="File/Beans Beans (the musical troupe).jpg.md"><img src="File/Beans%20Beans%20(the%20musical%20troupe).jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>.jpg.md)
+				<a class="internal-link" href="File/Beans Beans (the musical troupe).jpg.md"><img src="File/Beans%20Beans%20(the%20musical%20troupe).jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

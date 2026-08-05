@@ -9,7 +9,7 @@ image: "File/Four%20Stories%20Tall%20.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Four Stories Tall .jpg.md"><a class="internal-link" href="File/Four Stories Tall .jpg.md"><img src="File/Four%20Stories%20Tall%20.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Four Stories Tall .jpg.md"><img src="File/Four%20Stories%20Tall%20.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

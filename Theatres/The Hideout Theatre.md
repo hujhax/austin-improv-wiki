@@ -9,7 +9,7 @@ image: "File/Hideout%20logo.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Hideout logo.png.md"><a class="internal-link" href="File/Hideout logo.png.md"><img src="File/Hideout%20logo.png" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Hideout logo.png.md"><img src="File/Hideout%20logo.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -27,7 +27,7 @@ image: "File/Hideout%20logo.png"
 	</table>
 </div>
 
-[![[File/Hideout Exterior.jpg|The view from Congress of the Hideout Theatre.]]](File/Hideout Exterior.jpg.md)
+<a class="internal-link" href="File/Hideout Exterior.jpg.md"><img src="File/Hideout%20Exterior.jpg" alt="The view from Congress of the Hideout Theatre." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **The Hideout Theatre** is an improv theater in downtown Austin that draws its primary inspiration from the work of [Keith Johnstone](http://en.wikipedia.org/wiki/Keith_Johnstone).
 

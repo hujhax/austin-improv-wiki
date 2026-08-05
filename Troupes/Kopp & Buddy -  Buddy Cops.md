@@ -9,7 +9,7 @@ image: "File/Kopp%20%26%20Buddy%20-%20%20Buddy%20Cops.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Kopp & Buddy -  Buddy Cops.jpg.md"><a class="internal-link" href="File/Kopp & Buddy - Buddy Cops.jpg.md"><img src="File/Kopp%20&%20Buddy%20-%20Buddy%20Cops.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Kopp & Buddy -  Buddy Cops.jpg.md"><img src="File/Kopp%20&%20Buddy%20-%20%20Buddy%20Cops.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

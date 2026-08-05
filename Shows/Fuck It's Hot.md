@@ -9,7 +9,7 @@ image: "File/Fuck%20Its%20Hot%20Poster.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Fuck Its Hot Poster.jpg.md"><a class="internal-link" href="File/Fuck Its Hot Poster.jpg.md"><img src="File/Fuck%20Its%20Hot%20Poster.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Fuck Its Hot Poster.jpg.md"><img src="File/Fuck%20Its%20Hot%20Poster.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -215,7 +215,7 @@ The initial run ran through July and August of 2013.  It sold out every performa
 * [[Performers/Tyler Bryce|Tyler Bryce]]
 
 ### Fuck It's Christmas
-[![[File/Fuck It's Christmas.jpg|Publicity banner for "Fuck It's Christmas".]]](File/Fuck It's Christmas.jpg.md)
+<a class="internal-link" href="File/Fuck It's Christmas.jpg.md"><img src="File/Fuck%20It's%20Christmas.jpg" alt="Publicity banner for "Fuck It's Christmas"." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 The show returned for a holiday run in November and December of 2013.  [[Performers/Bryan Curry|Bryan Curry]] worked tech for this run.
 

@@ -4,7 +4,7 @@ image: "File/Wu%20Yun.jpg"
 ---
 **Want to Know** (AKA **The Wu Yun Saga**) was a collaboratively-written western novella that originated on [[The Austin Improv Forums]].
 
-[![[File/Wu Yun.jpg|A photo used to represent Wu Yun in an online meme.]]](File/Wu Yun.jpg.md)
+<a class="internal-link" href="File/Wu Yun.jpg.md"><img src="File/Wu%20Yun.jpg" alt="A photo used to represent Wu Yun in an online meme." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 ## History
 The thread began on 4/24/12, when a spambot posted the following text to the "General Discussion" forum (with the topic "want to know"):

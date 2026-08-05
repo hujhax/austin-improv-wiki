@@ -9,7 +9,7 @@ image: "File/Monks%27%20Night%20Out.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Monks' Night Out.jpg.md"><a class="internal-link" href="File/Monks' Night Out.jpg.md"><img src="File/Monks'%20Night%20Out.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Monks' Night Out.jpg.md"><img src="File/Monks'%20Night%20Out.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -80,7 +80,7 @@ image: "File/Monks%27%20Night%20Out.jpg"
 
 **Monks' Night Out** (often misspelled **Monk's Night Out**) was one of the best-known troupes in Austin in the 1990s.  It focused on short-form games, as well as sketch and musical comedy.
 
-[![[File/Monks Ticket.jpg|A ticket to a Monks' Night Out show.]]](File/Monks Ticket.jpg.md)
+<a class="internal-link" href="File/Monks Ticket.jpg.md"><img src="File/Monks%20Ticket.jpg" alt="A ticket to a Monks' Night Out show." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 ## History
 The troupe first splintered off from [[Troupes/ComedySportz|ComedySportz]] in 1994, with the following cast:
 * Gabriel Folse
@@ -101,7 +101,7 @@ The troupe had several musical directors: first Ben Prince, then Tim Girardot, a
 Sarah Pattison Cavazos and, later, Mervyn Burnett served as the troupe's lighting directors.
 
 ## Media
-[![[File/Monks T-Shirt.jpg|A Monks' Night Out t-shirt.]]](File/Monks T-Shirt.jpg.md)
+<a class="internal-link" href="File/Monks T-Shirt.jpg.md"><img src="File/Monks%20T-Shirt.jpg" alt="A Monks' Night Out t-shirt." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 ### Photos
 * [A gallery that includes photos of the troupe.](http://m.austin360.com/gallery/clark-howard/employment-military/austins-comedy-scene-042212/g4L4/)
 

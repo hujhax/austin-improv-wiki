@@ -9,7 +9,7 @@ image: "File/After%20School%20Special%20Victims%20Unit.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/After School Special Victims Unit.jpg.md"><a class="internal-link" href="File/After School Special Victims Unit.jpg.md"><img src="File/After%20School%20Special%20Victims%20Unit.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/After School Special Victims Unit.jpg.md"><img src="File/After%20School%20Special%20Victims%20Unit.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

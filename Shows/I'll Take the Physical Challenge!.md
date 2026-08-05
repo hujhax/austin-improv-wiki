@@ -8,7 +8,7 @@ image: "File/I%27ll%20Take%20the%20Physical%20Challenge%21%20placeholder%20image
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/I'll Take the Physical Challenge! placeholder image.jpg.md"><a class="internal-link" href="File/I'll Take the Physical Challenge! placeholder image.jpg.md"><img src="File/I'll%20Take%20the%20Physical%20Challenge!%20placeholder%20image.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/I'll Take the Physical Challenge! placeholder image.jpg.md"><img src="File/I'll%20Take%20the%20Physical%20Challenge!%20placeholder%20image.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

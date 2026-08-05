@@ -11,7 +11,7 @@ image: "File/One%20More%20Night.gif"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/One More Night.gif.md"><a class="internal-link" href="File/One More Night.gif.md"><img src="File/One%20More%20Night.gif" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/One More Night.gif.md"><img src="File/One%20More%20Night.gif" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -88,7 +88,7 @@ image: "File/One%20More%20Night.gif"
 	</table>
 </div>
 
-[![[File/One More Night - Scheherazade and Shahryar.jpg|Scheherazade and Shahryar provided a framing device for each evening's tales.]]](File/One More Night - Scheherazade and Shahryar.jpg.md)
+<a class="internal-link" href="File/One More Night - Scheherazade and Shahryar.jpg.md"><img src="File/One%20More%20Night%20-%20Scheherazade%20and%20Shahryar.jpg" alt="Scheherazade and Shahryar provided a framing device for each evening's tales." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 
 ***One More Night*** was an improvised longform narrative show inspired by *The Arabian Nights*.

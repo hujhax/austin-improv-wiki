@@ -9,7 +9,7 @@ image: "File/Editor%20and%20Chief.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Editor and Chief.jpg.md"><a class="internal-link" href="File/Editor and Chief.jpg.md"><img src="File/Editor%20and%20Chief.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Editor and Chief.jpg.md"><img src="File/Editor%20and%20Chief.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

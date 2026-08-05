@@ -9,7 +9,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20Party%20of%20Five.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Live TV Tuesdays - Party of Five.jpg.md"><a class="internal-link" href="File/Live TV Tuesdays - Party of Five.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Party%20of%20Five.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Live TV Tuesdays - Party of Five.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Party%20of%20Five.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

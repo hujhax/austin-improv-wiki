@@ -9,7 +9,7 @@ image: "File/Live%20TV%20Tuesdays.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a href="File/Live TV Tuesdays.jpg.md"><a class="internal-link" href="File/Live TV Tuesdays.jpg.md"><img src="File/Live%20TV%20Tuesdays.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></a>
+				<a class="internal-link" href="File/Live TV Tuesdays.jpg.md"><img src="File/Live%20TV%20Tuesdays.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -51,7 +51,7 @@ The show was known by a variety of names over the course of its run.  The first 
 
 Note that two of the productions were actually not TV episodes.  *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]* presented the famous Joss Whedon webseries, and the [[Shows/Live TV Tuesdays -  John Hughes Summer School|"John Hughes Summer School"]] presented a variety of scenes from classic John Hughes teen films.
 
-[![[File/SouthParkCeaseAndDesist.jpg|South Park Live]]''.]]](File/SouthParkCeaseAndDesist.jpg.md)
+<a class="internal-link" href="File/SouthParkCeaseAndDesist.jpg.md"><img src="File/SouthParkCeaseAndDesist.jpg" alt="South Park Live]]''." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 In 2011 and 2012, the Institution achieved great commercial success with a series of Joss-Whedon-based productions of *[[Shows/Live TV Tuesdays -  Buffy|Buffy]]*, *[[Shows/Live TV Tuesdays -  Buffy|Angel]]*, *[[Shows/Live TV Tuesdays -  Dr. Horrible's Sing-Along Blog|Dr. Horrible]]*, and *[[Shows/Live TV Tuesdays -  Firefly|Firefly]]*.  (They then capitalized on that success with *[[Shows/The Joss Whedon Pajama Party|The Joss Whedon Pajama Party]]*.)  Unfortunately, with success, *Live TV Tuesdays* also got the attention of the TV companies' legal departments.  *[[Shows/Live TV Tuesdays -  Firefly|Firefly]]* received a cease-and-desist order from FOX after their second performance.  On 6/28/12, Viacom sent the theater [[File/SouthParkCeaseAndDesist.jpg.md|a cease-and-desist letter]] demanding an end to *[[Shows/Live TV Tuesdays -  South Park|South Park]]* because of copyright violation.
 

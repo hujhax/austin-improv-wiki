@@ -2,7 +2,7 @@
 description: "Thirteenth annual Out of Bounds Comedy Festival."
 image: "File/2014%20OoB.jpg"
 ---
-[![[File/2014 OoB.jpg|The 2014 Out of Bounds logo.]]](File/2014 OoB.jpg.md)
+<a class="internal-link" href="File/2014 OoB.jpg.md"><img src="File/2014%20OoB.jpg" alt="The 2014 Out of Bounds logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 **The 2014 Out of Bounds Comedy Festival** was the thirteenth annual [[Festivals/Out of Bounds Comedy Festival|Out of Bounds Comedy Festival]].
 
 ## Summary
