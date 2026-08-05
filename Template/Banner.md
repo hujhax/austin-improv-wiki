@@ -6,7 +6,7 @@ image: "File/%7B%7B%7Bimage%7D%7D%7D"
 <div class="banner-box banner-box-">
 <div class="name"></div>
 <div class="type"></div>
-</div></div><noinclude>
+</div><a class="internal-link" href=""><img src="" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a></div><noinclude>
 
 {{Uses TemplateStyles|Template:Banner/styles.css}}
 <templatedata>

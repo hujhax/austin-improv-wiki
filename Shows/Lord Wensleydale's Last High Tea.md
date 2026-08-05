@@ -9,6 +9,7 @@ image: "File/Lord%20Wensleydale%27s%20Last%20High%20Tea.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Lord Wensleydale's Last High Tea.jpg"><img src="File/Lord%20Wensleydale's%20Last%20High%20Tea.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

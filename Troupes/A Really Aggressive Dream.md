@@ -9,6 +9,7 @@ image: "File/A%20Really%20Aggressive%20Dream.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/A Really Aggressive Dream.jpg"><img src="File/A%20Really%20Aggressive%20Dream.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

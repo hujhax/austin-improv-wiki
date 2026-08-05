@@ -9,6 +9,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20Dr.%20Horrible%27s%20Sing-Along%20Blog.j
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Live TV Tuesdays - Dr. Horrible's Sing-Along Blog.jpg"><img src="File/Live%20TV%20Tuesdays%20-%20Dr.%20Horrible's%20Sing-Along%20Blog.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

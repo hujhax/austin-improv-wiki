@@ -9,6 +9,7 @@ image: "File/A%20Bedtime%20Gorey.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/A Bedtime Gorey.jpg"><img src="File/A%20Bedtime%20Gorey.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

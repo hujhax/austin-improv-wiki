@@ -10,6 +10,7 @@ image: "File/Rachel%20Posey%20Austin.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
+				<a class="internal-link" href="File/Rachel Posey Austin.jpg"><img src="File/Rachel%20Posey%20Austin.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

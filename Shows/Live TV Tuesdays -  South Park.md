@@ -9,6 +9,7 @@ image: "File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Live TV Tuesdays - South Park.jpg"><img src="File/Live%20TV%20Tuesdays%20-%20South%20Park.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

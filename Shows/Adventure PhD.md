@@ -9,6 +9,7 @@ image: "File/Adventure%20phd%20cast.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Adventure phd cast.jpg"><img src="File/Adventure%20phd%20cast.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -192,7 +193,7 @@ image: "File/Adventure%20phd%20cast.jpg"
 [[Performers/Danielle Saar|Danielle Saar]] had to drop out because of career-related reasons.
 
 
-
+![[File/Adventure phd poster.jpg]]
 
 
 

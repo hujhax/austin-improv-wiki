@@ -9,6 +9,7 @@ image: "File/We%20Invented%20Dinosaurs.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/We Invented Dinosaurs.jpg"><img src="File/We%20Invented%20Dinosaurs.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

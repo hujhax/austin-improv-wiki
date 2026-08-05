@@ -9,6 +9,7 @@ image: "File/Matt%20%26%20Alejandro%27s%20One%20Man%20Show.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Matt & Alejandro's One Man Show.jpg"><img src="File/Matt%20&%20Alejandro's%20One%20Man%20Show.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">

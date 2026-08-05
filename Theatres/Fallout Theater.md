@@ -9,6 +9,7 @@ image: "File/Fallout%20Theater%20graphic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
+				<a class="internal-link" href="File/Fallout Theater graphic.jpg"><img src="File/Fallout%20Theater%20graphic.jpg" alt="" style="max-width: 220px; height: auto; display: block; margin: 0 auto;" /></a>
 			</td>
 		</tr>
 		<tr class="">
