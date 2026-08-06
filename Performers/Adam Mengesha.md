@@ -31,7 +31,7 @@ Adam is originally from Dallas, Texas.  He saw his first improv show at [[Theatr
 He took his first improv class at [[Theatres/The Institution Theater|The Institution Theater]] with the intention of just taking the one class, but ended up getting drawn into the improv scene from there.
 
 ## Shows
-<a class="internal-link" href="File/Adam - Fancy Pants.jpg.md"><img src="File/Adam%20-%20Fancy%20Pants.jpg" alt="Adam is a frequent cast member of *The Fancy-Pants Mashup*." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/Adam - Fancy Pants.jpg.md"><img src="File/Adam%20-%20Fancy%20Pants.jpg" alt="Adam is a frequent cast member of <i>The Fancy-Pants Mashup</i>." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*
 * *[[Shows/Ka-Baam!!|Ka-Baam!!]]*

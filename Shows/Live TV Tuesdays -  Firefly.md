@@ -247,7 +247,7 @@ image: "File/FireflyPoster.jpg"
 	</table>
 </div>
 
-<a class="internal-link" href="File/Live TV Tuesdays - Firefly.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Firefly.jpg" alt="The cast of *Firefly* takes a bow." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/Live TV Tuesdays - Firefly.jpg.md"><img src="File/Live%20TV%20Tuesdays%20-%20Firefly.jpg" alt="The cast of <i>Firefly</i> takes a bow." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 ***Live TV Tuesdays: Firefly*** refers to the *[[Shows/Live TV Tuesdays|Live TV Tuesdays]]* presentation of the *Firefly* episode "Our Mrs. Reynolds"
 

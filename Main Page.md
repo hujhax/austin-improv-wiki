@@ -6,7 +6,7 @@ description: "The Austin Improv Wiki is a wiki devoted to the..."
 
 <div class="banner-image nomobile">
 <div class="banner-box banner-box-right">
-<div class="name">**The Austin Improv Community**</div>
+<div class="name"><b>The Austin Improv Community</b></div>
 <div class="type"></div>
 </div><a class="internal-link" href="File/AIC 2012 Potluck Group Photo.jpg.md"><img src="File/AIC%202012%20Potluck%20Group%20Photo.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></div>
 

@@ -2,7 +2,7 @@
 description: "This List of Hideout Theatre Shows is designed to be..."
 ---
 <noinclude>
-This **List of Hideout Theatre Shows** is designed to be transcluded into any "Hideout shows" section on the wiki.
+This <b>List of Hideout Theatre Shows</b> is designed to be transcluded into any "Hideout shows" section on the wiki.
 </noinclude>
 The Hideout Theatre puts on regular shows that run weekly or monthly for long periods, and mainstage shows, which are weekly with one- or two-month runs.  For information about the mainstages, see the [[Lists/List of Hideout Mainstage Shows in Chronological Order|List of Hideout Mainstage Shows in Chronological Order]].
 

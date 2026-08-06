@@ -2,7 +2,7 @@
 description: "This List of Gnap!"
 ---
 <noinclude>
-This **List of Gnap! Theater Projects Shows** is designed to be transcluded into any "[[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] shows" section on the wiki.
+This <b>List of Gnap! Theater Projects Shows</b> is designed to be transcluded into any "[[Theatres/Gnap! Theater Projects|Gnap! Theater Projects]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
 * *[[Shows/Austin's Next Top Improviser|Austin's Next Top Improviser]]*

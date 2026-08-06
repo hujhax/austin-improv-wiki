@@ -23,7 +23,7 @@ image: "File/GrimmNoir.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Cast</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">**Original Shows:**</li><!--
+  --><li style=""><b>Original Shows:</b></li><!--
   --><li style=""><a class="internal-link" href="Performers/David Lampe">David Lampe</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Eric Heiberg">Eric Heiberg</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Halyn Lee Erickson">Halyn Lee Erickson</a></li><!--
@@ -33,7 +33,7 @@ image: "File/GrimmNoir.jpg"
   --><li style=""><a class="internal-link" href="Performers/Mike Kinald">Mike Kinald</a></li><!--
   --><li style="" ><a class="internal-link" href="Performers/Ruby Willmann">Ruby Willmann</a></li><!--
   --><li style=""><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li><!--
-  --><li style="">**Mainstage Run:**</li><!--
+  --><li style=""><b>Mainstage Run:</b></li><!--
   --><li style=""><a class="internal-link" href="Performers/Alex Ayala">Alex Ayala</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Brad Hawkins">Brad Hawkins</a></li><!--
   --><li style=""><a class="internal-link" href="Performers/Chad Wellington">Chad Wellington</a></li><!--

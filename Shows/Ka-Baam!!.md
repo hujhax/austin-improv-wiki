@@ -122,7 +122,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Performers/Roy Janik|Roy Janik]]
 
 ### 2009 Cast
-<a class="internal-link" href="File/Ka-Baam!! Promo.jpg.md"><img src="File/Ka-Baam!!%20Promo.jpg" alt="A promotional photo of *Ka-Baam!!*, with ninjas." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/Ka-Baam!! Promo.jpg.md"><img src="File/Ka-Baam!!%20Promo.jpg" alt="A promotional photo of <i>Ka-Baam!!</i>, with ninjas." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 * [[Performers/Aden Kirschner|Aden Kirschner]]
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
@@ -187,7 +187,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
   * [[Performers/Jason Vines|Jason Vines]] as Captain Jelly Belly
 
 ### Guest Artists
-<a class="internal-link" href="File/Ka-Baam!! Cover Art.jpg.md"><img src="File/Ka-Baam!!%20Cover%20Art.jpg" alt="Cover art from *Ka-Baam!!* by Andrew Augustine." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/Ka-Baam!! Cover Art.jpg.md"><img src="File/Ka-Baam!!%20Cover%20Art.jpg" alt="Cover art from <i>Ka-Baam!!</i> by Andrew Augustine." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 #### 2008 Run
 * 5/3/08:  Thomas Reidy
 * 5/10/08:  Rob Osborne

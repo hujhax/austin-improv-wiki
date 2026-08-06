@@ -4,7 +4,7 @@ image: "File/Mother%20Fing%20Action%20Heroes%21.jpg"
 <div>
 	<table class="infobox infobox-troupe">
 		<tr>
-			<th class="infobox-header" colspan="2">Mother F***ing Action Heroes!</th>
+			<th class="infobox-header" colspan="2">Mother F<i></i>*ing Action Heroes!</th>
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">

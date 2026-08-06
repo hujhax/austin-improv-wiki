@@ -2,7 +2,7 @@
 description: "This List of ColdTowne Theater Shows is designed to be..."
 ---
 <noinclude>
-This **List of [[Theatres/Coldtowne Theater|Coldtowne Theater]] Shows** is designed to be transcluded into any "[[Theatres/ColdTowne|ColdTowne]] shows" section on the wiki.
+This <b>List of [[Theatres/Coldtowne Theater|Coldtowne Theater]] Shows</b> is designed to be transcluded into any "[[Theatres/ColdTowne|ColdTowne]] shows" section on the wiki.
 </noinclude>
 ### Ongoing Shows
 * *[[Shows/The Cagematch|The Cagematch]]*
