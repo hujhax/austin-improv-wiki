@@ -43,7 +43,7 @@ Here's a quick list of some of the most useful ways to format text in a wiki pag
   <tr >
     <td > Escape wiki markup</td>
     <td > <pre>
-&lt;nowiki&gt;no <em>markup</em>&lt;/nowiki&gt;
+<nowiki>no <em>markup</em></nowiki>
 </pre></td>
     <td >
 <nowiki>no <em>markup</em></nowiki></td>

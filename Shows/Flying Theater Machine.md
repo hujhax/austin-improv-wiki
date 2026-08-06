@@ -151,7 +151,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 * **Adventure Room** (L)
 * **Clockwork stories** (L) *May/Jun 2010*, "Nov/Dec 2013"
 * **Dinosaurs!/Dinos!** *Jul/Aug 2013*, "May/June 2015"
-* **Fairly Silly Fairy Tales** (S) *Sep/Oct 2013*, "Sep/Oct 2015" <br /> Mostly short-form fairy-tale-themed games, with two longer stories mixed in: Fractured fairy tales &ndash; a familiar fairy tale with audience-suggested changes, and our “big story” &ndash; a completely made up fairy tale.
+* **Fairly Silly Fairy Tales** (S) *Sep/Oct 2013*, "Sep/Oct 2015" <br /> Mostly short-form fairy-tale-themed games, with two longer stories mixed in: Fractured fairy tales – a familiar fairy tale with audience-suggested changes, and our “big story” – a completely made up fairy tale.
 * **Improvable Circus** *Mar/Apr 2010*
 * **Made-up Magic** (L) *Jul/Aug 2010*
 * **Magic Club House** (L) *Jul/Aug 2011*

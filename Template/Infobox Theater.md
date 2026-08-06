@@ -47,7 +47,7 @@ This template lists standard, useful information about an improv theater.
   </tr>
   <tr >
     <td > <em>Address</em>           </td>
-    <td > The theater's street address.  Austin is assumed; if it's a nearby city, include the city name afterwards, in parentheses: "(Round Rock)".</td>
+    <td > The theater's street address.  Austin is assumed; if it's a nearby city, include the city name afterwards, in parentheses: "(Round Rock)".</td>
   </tr>
   <tr >
     <td > <em>Homepage</em>         </td>

@@ -9,7 +9,7 @@ image: "File/The%20Professor.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/The Professor.jpg.md"><img src="File/The%20Professor.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="File/The Professor.jpg.md"><img src="File/The%20Professor.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -143,15 +143,15 @@ In the first two seasons, no scenes ever occurred in TARDIS.  Onstage, the exit 
 Typically, one actor plays the Professor for a contiguous run of shows, with different actors playing (pre-determined) "companion" characters (or, in rare cases, pairs of companions) from week to week.
 
 ## History
-Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community ([forum post](http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)).  In June 2011, [[Performers/Justin Bozied|Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[Shows/The Threefer|The Threefer]], and played an 8pm show at the Hideout two days later.
+Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329](http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)  In June 2011, [[Performers/Justin Bozied|Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[Shows/The Threefer|The Threefer]], and played an 8pm show at the Hideout two days later.
 
-Its first full run was a six-week set of Friday shows at [[Theatres/The Institution Theater|The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] (produced by [[Theatres/Gnap!|Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012 ([forum post](http://forum.austinimprov.com/viewtopic.php?t=13738)).
+Its first full run was a six-week set of Friday shows at [[Theatres/The Institution Theater|The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] (produced by [[Theatres/Gnap!|Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738](http://forum.austinimprov.com/viewtopic.php?t=13738)
 
-At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as director.  At the start of 2013, [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[Shows/The TV Set|The TV Set]] ([forum post](http://forum.austinimprov.com/viewtopic.php?f=20&t=14613)).  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
+At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as director.  At the start of 2013, [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[Shows/The TV Set|The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613](http://forum.austinimprov.com/viewtopic.php?f=20&t=14613).  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
 
 ## Casts
 ### "Season Zero"
-<a class="internal-link" href="../File/The First Professor.jpg.md"><img src="File/The%20First%20Professor.jpg" alt="[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/The First Professor.jpg.md"><img src="File/The%20First%20Professor.jpg" alt="[Jordan T. Maxwell](Performers/Jordan%20T.%20Maxwell) as the First Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] as the First Professor.
 
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
@@ -163,8 +163,8 @@ The first two test shows in June 2011 featured [[Performers/Jordan T. Maxwell|Jo
 ([[Performers/Emily Breedlove|Emily Breedlove]] rehearsed with the cast, but did not play in either show.)
 
 ### Season One
-<a class="internal-link" href="../File/The Second Professor.jpg.md"><img src="File/The%20Second%20Professor.jpg" alt="[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
-<a class="internal-link" href="../File/The Third Professor.jpg.md"><img src="File/The%20Third%20Professor.jpg" alt="[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/The Second Professor.jpg.md"><img src="File/The%20Second%20Professor.jpg" alt="[Michael Ferstenfeld](Performers/Michael%20Ferstenfeld) as the Second Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/The Third Professor.jpg.md"><img src="File/The%20Third%20Professor.jpg" alt="[Andrew Pish](Performers/Andrew%20Pish) as the Third Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 The first run of shows, from October to November of 2011, featured [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] and [[Performers/Andrew Pish|Andrew Pish]] as the Second and Third Professors.
 
 * [[Performers/Clay Towery|Clay Towery]]
@@ -177,8 +177,8 @@ The first run of shows, from October to November of 2011, featured [[Performers/
 * [[Performers/Quinn Buckner|Quinn Buckner]]
 
 ### Season Two
-<a class="internal-link" href="../File/The Fourth Professor.jpg.md"><img src="File/The%20Fourth%20Professor.jpg" alt="[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
-<a class="internal-link" href="../File/The Fifth Professor.jpg.md"><img src="File/The%20Fifth%20Professor.jpg" alt="[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/The Fourth Professor.jpg.md"><img src="File/The%20Fourth%20Professor.jpg" alt="[Peter Rogers](Performers/Peter%20Rogers) as the Fourth Professor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/The Fifth Professor.jpg.md"><img src="File/The%20Fifth%20Professor.jpg" alt="[Karen Jane DeWitt](Performers/Karen%20Jane%20Dewitt) (left) as the FifthProfessor." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 The second run of shows, from March to April of 2012, introduced [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] as the Fourth and Fifth Professors, with [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Performers/Clay Towery|Clay Towery]]

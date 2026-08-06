@@ -27,7 +27,7 @@ First off, <i>don't worry about it</i>. It's <i>incredibly</i> easy for the rest
 But if you want to learn about wiki markup, [[Help/Formatting|this page]] gives a great summary.  Also, [[Performers/AIC Wiki Style Guide|the style guide]] can show you how to make your new page fit in with all the pages we've already got.
 
 
-<b>How do I show up in the &lt;x&gt; category?</b><br/>
+<b>How do I show up in the <x> category?</b><br/>
 We can use [[Lists/List of Austin Improv Performers|the performers category]] as an example.  To ensure that your wiki page shows in in the Performers category, add the following code to your page: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. (Including your last name ensures you'll be put in proper alphabetical order.)
 
 You can do the same thing with different category names to make a page show up in Techs, Directors, and so on.

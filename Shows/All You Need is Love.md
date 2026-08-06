@@ -1,5 +1,5 @@
 ---
-description: "An unapologetic, hopelessly romantic improvised rom-com &aacute; la Serendipity and..."
+description: "An unapologetic, hopelessly romantic improvised rom-com á la Serendipity and..."
 image: "File/all%20you%20need%20is%20love.jpg"
 ---
 <div>
@@ -137,7 +137,7 @@ image: "File/all%20you%20need%20is%20love.jpg"
 		<tr class="">
 			<th scope="row" class="category-header">Crew</th>
 			<td class="category"><div class="plainlist"><ul style=""><!--
-  --><li style="">Frank S&aacute;nchez</li><!--
+  --><li style="">Frank Sánchez</li><!--
   --><li style="">Seymour Addison</li><!--
   --><li style="">Eric McVicker</li><!--
   --><!--
@@ -196,7 +196,7 @@ image: "File/all%20you%20need%20is%20love.jpg"
 	</table>
 </div>
 
-***All You Need Is Love*** was an unapologetic, hopelessly romantic improvised rom-com &aacute; la *Serendipity* and *Sleepless in Seattle*, done as the Hideout Student Mainstage show in February of 2017.
+***All You Need Is Love*** was an unapologetic, hopelessly romantic improvised rom-com á la *Serendipity* and *Sleepless in Seattle*, done as the Hideout Student Mainstage show in February of 2017.
 
 ## Promotional Blurb
 > In the world where destiny and fate exist to bring us inevitably to our one and only soulmate, the journey to that special someone will be full of adventure, mishaps, and missed connections full of humor, heart, and a fairy-tale-style happy ending.

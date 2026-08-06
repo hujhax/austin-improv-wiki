@@ -549,7 +549,7 @@ In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv
   <tr >
     <td >Jan 2019</td>
     <td >Feb 2019</td>
-    <td ><em>Grand Mis&eacute;ry</em></td>
+    <td ><em>Grand Miséry</em></td>
     <td >Mallory Schlossberg, Margaret Hunsicker</td>
   </tr>
   <tr >
@@ -726,7 +726,7 @@ In 2014 and 2015, the student mainstages were curated by [[Performers/Ruby Willm
   </tr>
   <tr >
     <td >Apr 2018</td>
-    <td ><em>&iexcl;Esc&aacute;ndalo!</em></td>
+    <td ><em><a class="internal-link" href="Shows/¡Escándalo!">¡Escándalo!</a></em></td>
     <td ><a class="internal-link" href="Performers/Jessica Von Schramm">Jessica Von Schramm</a>, <a class="internal-link" href="Performers/Luke Wallens">Luke Wallens</a></td>
   </tr>
   <tr >

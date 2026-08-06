@@ -96,15 +96,15 @@ image: "File/NextChapter-poster.jpg"
 Each night of the show had a different guest author. An author was interviewed, usually by [[Performers/Justin Bozied|Justin Bozied]], for a short period at the top of the show, usually lasting five to ten minutes. Then, the author read anywhere from 500 to 750 words of his or her choosing from a published work. The cast listened and at the conclusion of the reading, performed a deconstruction of the piece by stepping forward to recite different details, themes, or concepts they heard for about a minute. They then improvised from where the excerpt left off to create a story that lasted for just over an hour. On short-story author nights, two stories were performed, with the author reading shorter excerpts from two different stories. The first story lasted for 25 minutes and the second for 35 minutes.
 
 ## Guest Authors and Works
-* 5/3: [[Performers/Deano Jones|Deano Jones]] &mdash; *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*
-* 5/10: [[Performers/Owen Egerton|Owen Egerton]] &mdash; *[Everyone Says That at the End of the World](http://amzn.com/1593765185)*
-* 5/17: Doug Dorst &mdash; Two stories from *[The Surf Guru](http://amzn.com/B008W3T50S)*
-* 5/24: Manuel Gonzales &mdash; Two stories from *[The Miniature Wife and Other Stories](http://amzn.com/1594486042)*
-* 5/31: Matt Sturges &mdash; *[Masked](http://www.amazon.com/Masked-Lou-Anders/dp/1439168822)*
-* 6/7: Katherine Catmull &mdash; *[Summer and Bird](http://amzn.com/0525953469)*
-* 6/14: Beth Kander &mdash; *[Was](http://www.amazon.com/Was-ebook/dp/B00BDR0MNE)*
-* 6/21: Suzy Spencer &mdash; *[Secret Sex Lives: A Year on the Fringes of American Sexuality](http://amzn.com/0425219364)*
-* 6/28: Daniel Quinn &mdash; Two stories from *[At Woomeroo](http://www.ishmael.org/Origins/woomeroo/)*
+* 5/3: [[Performers/Deano Jones|Deano Jones]] — *[Rise of the Cafe Racer](http://www.riseofthecaferacer.com)*
+* 5/10: [[Performers/Owen Egerton|Owen Egerton]] — *[Everyone Says That at the End of the World](http://amzn.com/1593765185)*
+* 5/17: Doug Dorst — Two stories from *[The Surf Guru](http://amzn.com/B008W3T50S)*
+* 5/24: Manuel Gonzales — Two stories from *[The Miniature Wife and Other Stories](http://amzn.com/1594486042)*
+* 5/31: Matt Sturges — *[Masked](http://www.amazon.com/Masked-Lou-Anders/dp/1439168822)*
+* 6/7: Katherine Catmull — *[Summer and Bird](http://amzn.com/0525953469)*
+* 6/14: Beth Kander — *[Was](http://www.amazon.com/Was-ebook/dp/B00BDR0MNE)*
+* 6/21: Suzy Spencer — *[Secret Sex Lives: A Year on the Fringes of American Sexuality](http://amzn.com/0425219364)*
+* 6/28: Daniel Quinn — Two stories from *[At Woomeroo](http://www.ishmael.org/Origins/woomeroo/)*
 
 ## Media
 ### Videos

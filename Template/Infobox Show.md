@@ -50,7 +50,7 @@ This template lists standard, useful information about an improv show.
   </tr>
   <tr >
     <td > <em>Theater</em>           </td>
-    <td > The theater where the show happened.  In some cases, this could be more than one theater.</td>
+    <td > The theater where the show happened.  In some cases, this could be more than one theater.</td>
   </tr>
   <tr >
     <td > <em>Director</em>           </td>

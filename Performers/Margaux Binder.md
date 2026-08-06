@@ -1,5 +1,5 @@
 ---
-description: "An improv performer who works primarily with The&nbsp;New&nbsp;Movement."
+description: "An improv performer who works primarily with The New Movement."
 image: "File/Margaux%20Binder.jpg"
 ---
 <div>
@@ -23,7 +23,7 @@ image: "File/Margaux%20Binder.jpg"
 	</table>
 </div>
 
-**Margaux Binder** is an improv performer who works primarily with The&nbsp;New&nbsp;Movement.
+**Margaux Binder** is an improv performer who works primarily with [[Theatres/The New Movement|The New Movement]].
 
 *This article is a stub. You can help the Austin Improv Wiki by editing it.*
 

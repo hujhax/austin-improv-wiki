@@ -83,7 +83,7 @@ Every Saturday in November 2014, Wink Planet teamed up with sketch group Off the
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/events/1379225369008806/declines/?comment_id=1434064150162779&notif_t=group_comment) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 1/31/14 show.
+* [Photoset](http://www.facebook.com/events/1379225369008806/declines/?comment_id=1434064150162779¬if_t=group_comment) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 1/31/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.963746777022172.1073742199.221927764537414&type=3) by [[Steve Rogers]] that includes highlights of their 5/19/15 show at Austin Sketch Fest.
 
 ## More Information

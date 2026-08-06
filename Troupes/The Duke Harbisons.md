@@ -76,7 +76,7 @@ description: "One-off Cagematch team."
 **The Duke Harbisons** was a one-off *[[Shows/Cagematch|Cagematch]]* team.
 
 ## History
-They played one Cagematch on 7/17/10.  
+They played one Cagematch on 7/17/10.  
 
 [[Category/Troupes|Duke Harbisons]]
 [[Category/Only One Performance|Duke Harbisons]]
