@@ -2,7 +2,7 @@
 description: "An improv performer, director, and teacher."
 image: "File/Monica%20Alquetz.jpeg"
 ---
-<a class="internal-link" href="File/Performance picture 2.jpg.md"><img src="File/Performance%20picture%202.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Performance picture 2.jpg.md"><img src="File/Performance%20picture%202.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 <div>
 	<table class="infobox infobox-performer">
 		<tr>
@@ -10,7 +10,7 @@ image: "File/Monica%20Alquetz.jpeg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Monica Alquetz.jpeg.md"><img src="File/Monica%20Alquetz.jpeg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Monica Alquetz.jpeg.md"><img src="File/Monica%20Alquetz.jpeg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -28,7 +28,7 @@ image: "File/Monica%20Alquetz.jpeg"
 
 Monica loves teaching improv because of how it reshapes people’s thinking when it comes to failure, risk-taking, and what truly makes people laugh. She believes that everyone has the capacity for comedy and the ability to succeed on stage, and this core belief is apparent in her teaching style. Her goal is to help others have fun, and she has a lot of fun doing it!
 
-<a class="internal-link" href="File/Performance Photo.jpg.md"><img src="File/Performance%20Photo.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Performance Photo.jpg.md"><img src="File/Performance%20Photo.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 ## Troupes
 * [[Troupes/Mother Punch|Mother Punch]]
@@ -36,7 +36,7 @@ Monica loves teaching improv because of how it reshapes people’s thinking when
 * Gal Pals
 * The Association
 
-<a class="internal-link" href="File/Performance Pic 3.jpg.md"><img src="File/Performance%20Pic%203.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Performance Pic 3.jpg.md"><img src="File/Performance%20Pic%203.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 ## Shows
 * *[[Shows/Fiasco|Fiasco]]*

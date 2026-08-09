@@ -4,7 +4,7 @@ image: "File/Image%20may%20contain-%20one%20or%20more%20people.jpeg"
 ---
 **WaffleFest 2002** was the first annual [[Festivals/Wafflefest|Wafflefest]] festival at the [[Theatres/Hideout Theatre|Hideout Theatre]].
 
-<a class="internal-link" href="File/Image may contain- one or more people.jpeg.md"><img src="File/Image%20may%20contain-%20one%20or%20more%20people.jpeg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Image may contain- one or more people.jpeg.md"><img src="File/Image%20may%20contain-%20one%20or%20more%20people.jpeg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 ## Summary
 The festival ran from 11/7/02 to 11/9/02.

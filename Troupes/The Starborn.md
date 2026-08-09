@@ -9,7 +9,7 @@ image: "File/TheStarborn.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/TheStarborn.jpg.md"><img src="File/TheStarborn.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/TheStarborn.jpg.md"><img src="File/TheStarborn.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -129,9 +129,9 @@ image: "File/TheStarborn.jpg"
 	</table>
 </div>
 
-<a class="internal-link" href="File/StarbornPoster.jpg.md"><img src="File/StarbornPoster.jpg" alt="Poster promoting their return and first show as a dedicated troupe." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/StarbornPoster.jpg.md"><img src="File/StarbornPoster.jpg" alt="Poster promoting their return and first show as a dedicated troupe." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
-<a class="internal-link" href="File/StarbornThreeferRun.jpg.md"><img src="File/StarbornThreeferRun.jpg" alt="Poster promoting their February 2014 run of headlining shows in The Threefer." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/StarbornThreeferRun.jpg.md"><img src="File/StarbornThreeferRun.jpg" alt="Poster promoting their February 2014 run of headlining shows in The Threefer." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 
 

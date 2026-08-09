@@ -9,7 +9,7 @@ image: "File/Best%20Friends%20Club%20of%20Austin.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Best Friends Club of Austin.jpg.md"><img src="File/Best%20Friends%20Club%20of%20Austin.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Best Friends Club of Austin.jpg.md"><img src="File/Best%20Friends%20Club%20of%20Austin.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

@@ -2,7 +2,7 @@
 description: "Eleventh annual WaffleFest."
 image: "File/Wafflefest%20ad.jpg"
 ---
-<a class="internal-link" href="File/Wafflefest ad.jpg.md"><img src="File/Wafflefest%20ad.jpg" alt="A promotional image for WaffleFest 2012." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Wafflefest ad.jpg.md"><img src="File/Wafflefest%20ad.jpg" alt="A promotional image for WaffleFest 2012." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **WaffleFest 2012** was the eleventh annual [[Festivals/Wafflefest|Wafflefest]].
 

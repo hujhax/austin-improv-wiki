@@ -9,7 +9,7 @@ image: "File/Shawn%20Utterback%20Pic.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Shawn Utterback Pic.png.md"><img src="File/Shawn%20Utterback%20Pic.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Shawn Utterback Pic.png.md"><img src="File/Shawn%20Utterback%20Pic.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

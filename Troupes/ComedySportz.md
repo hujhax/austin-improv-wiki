@@ -8,7 +8,7 @@ description: "This page refers to the sports-themed short-form improv show that.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/<a href="https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84">https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84</a>.md"><img src="File/<a href="https%20-%20--scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647%201452173014860061%20858548939201338246%20n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84">https%20-%20--scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647%201452173014860061%20858548939201338246%20n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84</a>" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/<a href="https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84">https - --scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647 1452173014860061 858548939201338246 n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84</a>.md"><img src="File/<a href="https%20-%20--scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647%201452173014860061%20858548939201338246%20n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84">https%20-%20--scontent-atl3-1.xx.fbcdn.net-v-t1.0-9-22045647%201452173014860061%20858548939201338246%20n.pngoh=0b2426e8f3b5c41c2ba7de2d26dc21ae&oe=5A8A2C84</a>" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

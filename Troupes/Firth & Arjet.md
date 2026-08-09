@@ -9,7 +9,7 @@ image: "File/Firth%20%26%20Arjet%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Firth & Arjet Pic.jpg.md"><img src="File/Firth%20&%20Arjet%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Firth & Arjet Pic.jpg.md"><img src="File/Firth%20&%20Arjet%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -84,7 +84,7 @@ Firth and Arjet headlined *[[Shows/The Free Fringe|The Free Fringe]]* from its p
 The troupe went on hiatus in 2012, when Kristin moved to Philadelphia.
 
 ## Formats
-<a class="internal-link" href="File/Firth&Arjet Logo.png.md"><img src="File/Firth&Arjet%20Logo.png" alt="The Firth & Arjet logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Firth&Arjet Logo.png.md"><img src="File/Firth&Arjet%20Logo.png" alt="The Firth & Arjet logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 ### Duologues
 Based on an audience suggestion, Jessica and Kristin create unique characters with two simultaneous monologues. Throughout the rest of the show they alternate scenes and monologues to explore the characters and reveal their relationships. The show is theatrical in style and remains truthful even when culminating in absurd situations. Silly and sublime, ethereal and grounded, real and outlandish.

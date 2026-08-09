@@ -8,7 +8,7 @@ image: "File/Boy%2C%20Howdy%21.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Boy, Howdy!.jpg.md"><img src="File/Boy,%20Howdy!.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Boy, Howdy!.jpg.md"><img src="File/Boy,%20Howdy!.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

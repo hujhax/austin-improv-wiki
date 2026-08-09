@@ -9,7 +9,7 @@ image: "File/Hell%20%26%20Back%20Cabaret.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Hell & Back Cabaret.jpg.md"><img src="File/Hell%20&%20Back%20Cabaret.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Hell & Back Cabaret.jpg.md"><img src="File/Hell%20&%20Back%20Cabaret.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

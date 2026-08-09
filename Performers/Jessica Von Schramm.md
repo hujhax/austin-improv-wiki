@@ -9,7 +9,7 @@ image: "File/Jessica%20T.%20Von%20Schramm%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Jessica T. Von Schramm Pic.jpg.md"><img src="File/Jessica%20T.%20Von%20Schramm%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Jessica T. Von Schramm Pic.jpg.md"><img src="File/Jessica%20T.%20Von%20Schramm%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

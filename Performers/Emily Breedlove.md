@@ -9,7 +9,7 @@ image: "File/Emily%20Breedlove%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="File/Emily Breedlove Pic.jpg.md"><img src="File/Emily%20Breedlove%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Emily Breedlove Pic.jpg.md"><img src="File/Emily%20Breedlove%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -74,7 +74,7 @@ image: "File/Emily%20Breedlove%20Pic.jpg"
 	</table>
 </div>
 
-<a class="internal-link" href="File/Emily Breedlove - Tribunal.jpg.md"><img src="File/Emily%20Breedlove%20-%20Tribunal.jpg" alt="Emily Breedlove in <i>[The Tribunal](Shows/The%20Tribunal)</i>." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Emily Breedlove - Tribunal.jpg.md"><img src="File/Emily%20Breedlove%20-%20Tribunal.jpg" alt="Emily Breedlove in <i>[The Tribunal](Shows/The%20Tribunal)</i>." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **Emily Breedlove** is an opera singer and an improv performer.
 

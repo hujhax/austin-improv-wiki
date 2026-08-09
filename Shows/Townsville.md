@@ -9,7 +9,7 @@ image: "File/Townsville-duoposter1.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Townsville-duoposter1.jpg.md"><img src="File/Townsville-duoposter1.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Townsville-duoposter1.jpg.md"><img src="File/Townsville-duoposter1.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -151,11 +151,11 @@ The name is intended to invoke a generic town that could be anywhere.  **Townsvi
 
 ## Shows/Episodes
 ### MacDaddy's Bar & Grill
-<a class="internal-link" href="File/Townsville-macdaddys.jpg.md"><img src="File/Townsville-macdaddys.jpg" alt="The cast of MacDaddy's Bar & Grill - March 2012 Run at ColdTowne (incomplete)" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Townsville-macdaddys.jpg.md"><img src="File/Townsville-macdaddys.jpg" alt="The cast of MacDaddy's Bar & Grill - March 2012 Run at ColdTowne (incomplete)" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 Townsville's first script took place at a fictional sleazy small-town bar named "MacDaddy's" and was composed of 5 core sketches with 3 beats each and 3 transition sketches with 3 beats each (similar to what would be an 8x3 Harold). 
 
-<a class="internal-link" href="File/Macdaddy-Redux-11x17 smaller.png.md"><img src="File/Macdaddy-Redux-11x17%20smaller.png" alt="The poster for the March 2012 run of MacDaddy's at ColdTowne Theater" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Macdaddy-Redux-11x17 smaller.png.md"><img src="File/Macdaddy-Redux-11x17%20smaller.png" alt="The poster for the March 2012 run of MacDaddy's at ColdTowne Theater" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole paid to rent out ColdTowne Theater for 2 nights while the theater was dark for the holidays.  "MacDaddy's" was then performed at the Frontera Short Fringe Festival in February 2012.  Tim & Nicole had directed the show up to this point, but once they were given a March 2012 run at ColdTowne Theater on Saturday nights, they got [[Performers/Clifton Highfield|Clifton Highfield]] to direct the show.  The MacDaddy's script was performed a total of 7 times.
 
@@ -177,7 +177,7 @@ The show debuted at ColdTowne Theater in late December 2011 when Tim & Nicole pa
 * Michael Pedacano - actor
 
 ### Community Center
-<a class="internal-link" href="File/Townsville-communitycenter-planning.jpg.md"><img src="File/Townsville-communitycenter-planning.jpg" alt="Townsville second script in planning. Writing and organizing 8 sketches with 3 beats each and a total of 10 reoccurring characters is a complex process" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Townsville-communitycenter-planning.jpg.md"><img src="File/Townsville-communitycenter-planning.jpg" alt="Townsville second script in planning. Writing and organizing 8 sketches with 3 beats each and a total of 10 reoccurring characters is a complex process" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 Community Center will be the second installment of Townsville.
 

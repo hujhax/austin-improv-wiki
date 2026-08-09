@@ -2,7 +2,7 @@
 description: "Fifth annual Improvised Play Festival."
 image: "File/IPF%202015.jpg"
 ---
-<a class="internal-link" href="File/IPF 2015.jpg.md"><img src="File/IPF%202015.jpg" alt="Publicity image for the festival." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/IPF 2015.jpg.md"><img src="File/IPF%202015.jpg" alt="Publicity image for the festival." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 **The 2015 Improvised Play Festival** was the fifth annual [[Festivals/The Improvised Play Festival|Improvised Play Festival]].
 
 It ran from 4/9/15 through 4/12/15.

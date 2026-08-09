@@ -9,7 +9,7 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Tall Tales of the High Seas.jpg.md"><img src="File/Tall%20Tales%20of%20the%20High%20Seas.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Tall Tales of the High Seas.jpg.md"><img src="File/Tall%20Tales%20of%20the%20High%20Seas.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -195,7 +195,7 @@ image: "File/Tall%20Tales%20of%20the%20High%20Seas.jpg"
 ***Tall Tales of the High Seas*** is a pirate-themed mainstage improv show at [[Theatres/The Institution Theater|The Institution Theater]].
 
 ## Summary
-<a class="internal-link" href="File/TallTalesoftheHighSeasPoster1.png.md"><img src="File/TallTalesoftheHighSeasPoster1.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a><a class="internal-link" href="File/TallTalesoftheHighSeasPoster2.png.md"><img src="File/TallTalesoftheHighSeasPoster2.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>Pirates: loveable rogues, intrepid adventurers, notorious criminals. For young and old alike pirate stories evoke the spirit of danger, freedom and flamboyant eccentricities like no other genre. Follow our bigger than life characters into the golden age of swashbuckling where masts will split, cutlasses will shatter… but the truth will just be slightly bent.
+<a class="internal-link" href="../File/TallTalesoftheHighSeasPoster1.png.md"><img src="File/TallTalesoftheHighSeasPoster1.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a><a class="internal-link" href="../File/TallTalesoftheHighSeasPoster2.png.md"><img src="File/TallTalesoftheHighSeasPoster2.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>Pirates: loveable rogues, intrepid adventurers, notorious criminals. For young and old alike pirate stories evoke the spirit of danger, freedom and flamboyant eccentricities like no other genre. Follow our bigger than life characters into the golden age of swashbuckling where masts will split, cutlasses will shatter… but the truth will just be slightly bent.
 
 Inspired by works like Treasure Island, Baron von Münchausen, Stardust and the Crimson Pirate we will spin totally, absolutely true yarns of bodice-ripping romance, unspeakable danger, sword-fights and exotic locations.
 

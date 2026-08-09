@@ -9,7 +9,7 @@ image: "File/Thinning%20the%20Herd.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Thinning the Herd.jpg.md"><img src="File/Thinning%20the%20Herd.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Thinning the Herd.jpg.md"><img src="File/Thinning%20the%20Herd.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

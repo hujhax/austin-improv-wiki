@@ -9,7 +9,7 @@ image: "File/Snackers.png"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Snackers.png.md"><img src="File/Snackers.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Snackers.png.md"><img src="File/Snackers.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -90,7 +90,7 @@ After an initial run that performed the Living Room format, the troupe performed
 * "Snacksucker Proxy" drew from the writing of Horatio Alger and the movie *The Hudsucker Proxy*.  (This was their last format before they disbanded.)
 
 ## Media
-<a class="internal-link" href="File/SnackersLogo.gif.md"><img src="File/SnackersLogo.gif" alt="The Snackers logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/SnackersLogo.gif.md"><img src="File/SnackersLogo.gif" alt="The Snackers logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 ### Videos
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/snackers-wed-8pm-svt-oranges-stage-1266327) of their 8/27/08 show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video](http://vimeo.com/10114708) of their 4/9/09 show at [[Theatres/The Hideout Theatre|The Hideout Theatre]].

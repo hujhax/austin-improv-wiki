@@ -9,7 +9,7 @@ image: "File/Only%20Three%20Will%20Survive.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="File/Only Three Will Survive.jpg.md"><img src="File/Only%20Three%20Will%20Survive.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Only Three Will Survive.jpg.md"><img src="File/Only%20Three%20Will%20Survive.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
