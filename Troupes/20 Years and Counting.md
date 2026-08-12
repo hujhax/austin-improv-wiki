@@ -9,7 +9,7 @@ image: "File/20%20Years%20and%20Counting.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/20 Years and Counting.jpg.md"><img src="File/20%20Years%20and%20Counting.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/20 Years and Counting.jpg.md"><img src="../File/20%20Years%20and%20Counting.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

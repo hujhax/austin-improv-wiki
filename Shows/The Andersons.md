@@ -8,7 +8,7 @@ description: "An improvised longform show based on wholesome 1950s television si
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/The Andersons.jpg.md"><img src="File/The%20Andersons.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/The Andersons.jpg.md"><img src="../File/The%20Andersons.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

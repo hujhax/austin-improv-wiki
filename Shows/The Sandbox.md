@@ -9,7 +9,7 @@ image: "File/The%20Sandbox.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/The Sandbox.jpg.md"><img src="File/The%20Sandbox.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/The Sandbox.jpg.md"><img src="../File/The%20Sandbox.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

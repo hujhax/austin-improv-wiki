@@ -9,7 +9,7 @@ image: "File/Nicole%20Oliver%20Pic.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="../File/Nicole Oliver Pic.jpg.md"><img src="File/Nicole%20Oliver%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Nicole Oliver Pic.jpg.md"><img src="../File/Nicole%20Oliver%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

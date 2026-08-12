@@ -4,8 +4,8 @@ image: "File/Wafflefest%20Logo.png"
 ---
 **WaffleFest** is a festival devoted to local improv acts.
 
-<a class="internal-link" href="../File/Wafflefest Logo.png.md"><img src="File/Wafflefest%20Logo.png" alt="The WaffleFest logo; a variation on the Hideout logo." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
-<a class="internal-link" href="../File/Wafflefest ad.jpg.md"><img src="File/Wafflefest%20ad.jpg" alt="A promotional image for WaffleFest 2012." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Wafflefest Logo.png.md"><img src="../File/Wafflefest%20Logo.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Wafflefest ad.jpg.md"><img src="../File/Wafflefest%20ad.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 ## Summary
 WaffleFest is a three-day festival that takes place the second weekend of November at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  It includes local acts from all the improv theaters in town, as well as an all-star *[[Shows/Maestro|Maestro]]*.
 

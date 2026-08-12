@@ -9,7 +9,7 @@ image: "File/Adventure%20phd%20cast.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Adventure phd cast.jpg.md"><img src="File/Adventure%20phd%20cast.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Adventure phd cast.jpg.md"><img src="../File/Adventure%20phd%20cast.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
@@ -193,7 +193,7 @@ image: "File/Adventure%20phd%20cast.jpg"
 [[Performers/Danielle Saar|Danielle Saar]] had to drop out because of career-related reasons.
 
 
-<a class="internal-link" href="../File/Adventure phd poster.jpg.md"><img src="File/Adventure%20phd%20poster.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="../File/Adventure phd poster.jpg.md"><img src="../File/Adventure%20phd%20poster.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 
 

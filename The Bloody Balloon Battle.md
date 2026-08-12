@@ -2,7 +2,7 @@
 description: "Balloon fight played by the Austin improv community in 2011..."
 image: "File/BalloonBattle.jpg"
 ---
-<a class="internal-link" href="File/BalloonBattle.jpg.md"><img src="File/BalloonBattle.jpg" alt="Combatants in the 2012 Bloody Balloon Battle." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+<a class="internal-link" href="File/BalloonBattle.jpg.md"><img src="File/BalloonBattle.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 **The Bloody Balloon Battle** was a balloon fight played by the Austin improv community in 2011 and 2012.
 

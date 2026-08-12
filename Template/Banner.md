@@ -6,34 +6,9 @@ image: "File/%7B%7B%7Bimage%7D%7D%7D"
 <div class="banner-box banner-box-">
 <div class="name"></div>
 <div class="type"></div>
-</div><a class="internal-link" href=""><img src="" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></div><noinclude>
+</div><a class="internal-link" href="">![[File/></a></div><noinclude>
 
 {{Uses TemplateStyles|Template:Banner/styles.css}}
 <templatedata>
-{
-	"params": {
-		"direction": {},
-		"title": {
-			"type": "string",
-			"required": true
-		},
-		"section": {},
-		"image": {
-			"description": "Image name, without the File: prefix",
-			"example": "Example.png",
-			"required": true,
-			"type": "wiki-file-name"
-		},
-		"section-id": {}
-	},
-	"description": "Template for full-width images with inset text.",
-	"paramOrder": [
-		"image",
-		"title",
-		"section",
-		"direction",
-		"section-id"
-	]
-}
-</templatedata>
+{]]
 </noinclude>

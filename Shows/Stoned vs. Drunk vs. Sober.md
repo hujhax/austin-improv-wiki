@@ -9,7 +9,7 @@ image: "File/Stoned%20vs.%20Drunk%20vs.%20Sober.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Stoned vs. Drunk vs. Sober.jpg.md"><img src="File/Stoned%20vs.%20Drunk%20vs.%20Sober.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Stoned vs. Drunk vs. Sober.jpg.md"><img src="../File/Stoned%20vs.%20Drunk%20vs.%20Sober.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

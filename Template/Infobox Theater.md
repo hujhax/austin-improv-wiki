@@ -68,7 +68,7 @@ This template lists standard, useful information about an improv theater.
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Theater Default Image.jpg.md"><img src="File/Theater%20Default%20Image.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Theater Default Image.jpg.md"><img src="../File/Theater%20Default%20Image.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

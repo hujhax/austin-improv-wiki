@@ -165,7 +165,7 @@ To do that, you just include an "infobox" template at the top of the page.  For 
 		</tr>
 		<tr class="">
 			<td colspan="2" class="" class="infobox-picture">
-				<a class="internal-link" href="../File/John Doe Pic.jpg.md"><img src="File/John%20Doe%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/John Doe Pic.jpg.md"><img src="../File/John%20Doe%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">

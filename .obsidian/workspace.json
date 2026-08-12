@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shows/America -  Have it Your Way.md",
+                "file": "Troupes/Girls Girls Girls.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "America -  Have it Your Way"
+              "title": "Girls Girls Girls"
             }
           }
         ]
@@ -91,36 +91,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7768c500bd385f2f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Shows/America -  Have it Your Way.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
             "id": "a2cda267ab876429",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troupes/Parallelogramophonograph.md",
+                "file": "Troupes/Girls Girls Girls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parallelogramophonograph"
+              "title": "Outgoing links"
             }
           },
           {
@@ -166,6 +147,25 @@
               "icon": "lucide-list",
               "title": "Outline of Parallelogramophonograph"
             }
+          },
+          {
+            "id": "4fbd20bd0b0265f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main Page.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
           }
         ]
       }
@@ -187,32 +187,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "File/Secret Life of Soccer Moms Poster.jpg.md",
+    "Troupes/Girls Girls Girls.md",
+    "Performers/Sarah Marie Curry.md",
+    "Shows/Bad Girls in Plaid Skirts.md",
+    "Shows/Bad Company.md",
+    "Shows/Austin Secrets.md",
+    "Shows/Apocalypse! (Show).md",
+    "Shows/Back In Townsville.md",
+    "Shows/BBW presents, Big Beautiful Warriors.md",
+    "Shows/183 Dewberry Lane.md",
+    "Shows/183 Dewberry LaneN.md",
     "Shows/After School Improv.md",
+    "File/After School Improv Pic.jpg.md",
+    "Main Page.md",
+    "File/Yew in Booth.jpg.md",
+    "Michael Yew.md",
+    "Shows/Breaking Beckett.md",
+    "Shows/After School Special.md",
+    "Shows/' ' or Bust!.md",
+    "Shows/America -  Have it Your Way.md",
     "File/A Penny Dreadful.jpg.md",
     "Shows/A Penny Dreadful.md",
     "Shows/False Matters.md",
     "Performers/Courtney Hopkin.md",
     "File/Courtney Hopkin Pic.jpg.md",
-    "Main Page.md",
     "Troupes/Parallelogramophonograph.md",
-    "Troupes/Reverend Goodman.md",
-    "Troupes/Bridgeport Women's Correctional Facility Impromptu Skit Players.md",
-    "Troupes/Bridgeport Women's Correctional Facility Short Form Impromptu Skit Players.md",
-    "Troupes/Andrew and Jeremy Hypnotize Each Other!.md",
-    "Troupes/Chris Kyle -  American Improvisors.md",
-    "Troupes/Toby Keith & The French Guy.md",
-    "Performers/Ceej Allen.md",
-    "Troupes/Things We Don’t Speak Of.md",
-    "Performers/Gloria Bankler.md",
-    "Performers/Jessica T. Von Schramm.md",
-    "Performers/Jessica VonSchramm.md",
-    "Performers/Rachel Austin.md",
-    "Performers/Colin Bates.md",
-    "Performers/Erika May.md",
-    "Troupes/D.A.D.S.md",
-    "Performers/Erika McNichol.md",
-    "Performers/Halyn Erickson.md",
-    "Troupes/Twelve Inch Integrity.md",
     "Shows/Showdown Episodes",
     "Shows/Steam Episodes",
     "Lists",

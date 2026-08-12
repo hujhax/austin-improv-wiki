@@ -9,7 +9,7 @@ image: "File/Flying%20Theater%20Machine.jpg"
 		</tr>
 		<tr class="">
 			<td colspan="2" class="infobox-picture">
-				<a class="internal-link" href="../File/Flying Theater Machine.jpg.md"><img src="File/Flying%20Theater%20Machine.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
+				<a class="internal-link" href="../File/Flying Theater Machine.jpg.md"><img src="../File/Flying%20Theater%20Machine.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 			</td>
 		</tr>
 		<tr class="">
