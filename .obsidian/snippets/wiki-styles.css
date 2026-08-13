@@ -19,26 +19,23 @@ text-shadow: 0px 1px 0px rgb(54, 87, 172);
 /* CSS placed here will affect users of the Vector skin */
 
 .infobox, table.infobox {
-	border: 1px solid #AAAAAA;
+	border: 1px solid var(--background-modifier-border, rgba(255, 255, 255, 0.12));
 	clear: right;
-	color: #222;
+	background-color: var(--background-secondary, #25282e) !important;
+	color: var(--text-normal, #e0e0e0) !important;
 	float: right;
 	font-size: 88%;
 	line-height: 1.5em;
 	margin: 0.5em 0px 1.2em 1.5em;
-	padding: 0.3em;
+	padding: 0.4em;
 	text-align: left;
 	width: 280px;
 	max-width: 300px;
 	table-layout: fixed;
 	border-collapse: collapse;
 	box-sizing: border-box;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border-radius: 10px;
-	-moz-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
-	-webkit-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
-	box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+	border-radius: 12px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
 }
 
 /* Obsidian Live Preview (Editing View) fix: CodeMirror cannot handle floating elements across .cm-line blocks */
@@ -64,7 +61,7 @@ text-shadow: 0px 1px 0px rgb(54, 87, 172);
 }
 
 table.infobox a {
-	color: #0b0080;
+	color: var(--link-color, var(--text-accent, #63a4ff)) !important;
 }
 
 .plainlist ul { 
@@ -83,12 +80,16 @@ table.infobox th.infobox-header {
 	font-size: 125%; 
 	font-weight: bold; 
 	font-style: italic;
-	padding: 0.3em 0.2em;
+	padding: 0.4em 0.2em;
+	color: var(--text-accent, var(--text-normal, #fff)) !important;
+	background-color: var(--background-secondary-alt, rgba(255, 255, 255, 0.04)) !important;
+	border-bottom: 1px solid var(--background-modifier-border, rgba(255, 255, 255, 0.08));
+	border-radius: 8px 8px 0 0;
 }
 
 td.infobox-picture {
 	text-align: center;
-	padding: 0.3em 0;
+	padding: 0.4em 0;
 	overflow: hidden;
 }
 
@@ -100,36 +101,40 @@ table.infobox img {
 	display: block;
 	margin: 0.3em auto;
 	object-fit: contain;
+	border-radius: 6px;
 }
 
 th.category-header {
 	text-align: right; 
 	vertical-align: top;
-	padding: 0.2em 0.5em 0.2em 0;
-	width: 35%;
+	padding: 0.25em 0.6em 0.25em 0;
+	width: 38%;
+	color: var(--text-muted, #9da5b4) !important;
+	font-weight: 600;
 	box-sizing: border-box;
 }
 
 td.category {
 	vertical-align: top;
-	padding: 0.2em 0;
-	width: 65%;
+	padding: 0.25em 0;
+	width: 62%;
+	color: var(--text-normal, #e0e0e0) !important;
 	word-break: break-word;
 	box-sizing: border-box;
 }
 
+/* Category Accent Borders */
+.infobox-show {
+	border-top: 3px solid #38bdf8 !important;
+}
 .infobox-troupe {
-        background-color: #fdd;
+	border-top: 3px solid #f43f5e !important;
 }
 .infobox-performer {
-	background-color: #fee8d6;
-}
-.infobox-show {
-        background-color: #dff;
+	border-top: 3px solid #f59e0b !important;
 }
 .infobox-theater {
-        background-color: #ddf5eb;
-        width: 300px;
+	border-top: 3px solid #10b981 !important;
 }
 
 /* Responsive: When editor pane or viewport is narrow, drop float so text never forms a narrow chute */
