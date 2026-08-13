@@ -35,7 +35,7 @@ jobs:
       - name: Build Quartz
         working-directory: .quartz
         run: |
-          npx quartz build
+          npx quartz build -d ..
           node fix_quartz_links.cjs
 
       - name: Upload artifact
