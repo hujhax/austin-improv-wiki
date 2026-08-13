@@ -41,6 +41,28 @@ text-shadow: 0px 1px 0px rgb(54, 87, 172);
 	box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
 }
 
+/* Obsidian Live Preview (Editing View) fix: CodeMirror cannot handle floating elements across .cm-line blocks */
+.markdown-source-view.mod-cm6 .infobox,
+.markdown-source-view.mod-cm6 table.infobox,
+.markdown-source-view.mod-cm6 div:has(> table.infobox) {
+	float: none !important;
+	width: 100% !important;
+	max-width: 340px !important;
+	margin: 1em 0 !important;
+	display: table !important;
+}
+
+/* Obsidian Reading View / Rendered View: float infobox to the right */
+.markdown-rendered .infobox,
+.markdown-rendered table.infobox,
+.markdown-preview-view .infobox,
+.markdown-preview-view table.infobox {
+	float: right !important;
+	width: 280px !important;
+	max-width: 300px !important;
+	margin: 0.5em 0px 1.2em 1.5em !important;
+}
+
 table.infobox a {
 	color: #0b0080;
 }
