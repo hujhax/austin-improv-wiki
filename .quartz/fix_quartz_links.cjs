@@ -52,6 +52,14 @@ function main() {
     }
   });
   
+  // Ensure index.html exists in public directory
+  const indexHtml = path.join(PUBLIC_DIR, 'index.html');
+  const mainPageHtml = path.join(PUBLIC_DIR, 'main-page.html');
+  if (!fs.existsSync(indexHtml) && fs.existsSync(mainPageHtml)) {
+    fs.copyFileSync(mainPageHtml, indexHtml);
+    console.log("Safeguard: Created public/index.html by copying public/main-page.html.");
+  }
+  
   console.log(`Scan complete. Processed ${filesProcessed} HTML pages.`);
   console.log(`Appended .html suffix to ${linksRewritten} internal file links.`);
 }
