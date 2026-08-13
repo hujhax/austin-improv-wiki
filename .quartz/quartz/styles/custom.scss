@@ -1,5 +1,15 @@
 @use "./variables.scss" as *;
 
+div:has(> .table-container > table.infobox),
+div:has(> table.infobox),
+.table-container:has(> table.infobox) {
+	float: right !important;
+	width: auto !important;
+	max-width: 310px !important;
+	margin: 0.2em 0px 1.2em 1.5em !important;
+	overflow: visible !important;
+}
+
 .infobox, table.infobox {
 	border: 1px solid var(--lightgray);
 	clear: right;
@@ -8,7 +18,7 @@
 	float: right;
 	font-size: 88%;
 	line-height: 1.5em;
-	margin: 0.5em 0px 1.2em 1.5em;
+	margin: 0 !important;
 	padding: 0.4em;
 	text-align: left;
 	width: 280px;

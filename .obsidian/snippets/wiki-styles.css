@@ -50,14 +50,16 @@ text-shadow: 0px 1px 0px rgb(54, 87, 172);
 }
 
 /* Obsidian Reading View / Rendered View: float infobox to the right */
+.markdown-rendered div:has(> table.infobox),
 .markdown-rendered .infobox,
 .markdown-rendered table.infobox,
+.markdown-preview-view div:has(> table.infobox),
 .markdown-preview-view .infobox,
 .markdown-preview-view table.infobox {
 	float: right !important;
-	width: 280px !important;
+	width: auto !important;
 	max-width: 300px !important;
-	margin: 0.5em 0px 1.2em 1.5em !important;
+	margin: 0.2em 0px 1.2em 1.5em !important;
 }
 
 table.infobox a {
