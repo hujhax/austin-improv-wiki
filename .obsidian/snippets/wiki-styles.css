@@ -18,29 +18,38 @@ text-shadow: 0px 1px 0px rgb(54, 87, 172);
    ========================================== */
 /* CSS placed here will affect users of the Vector skin */
 
-.infobox {
+.infobox, table.infobox {
 	border: 1px solid #AAAAAA;
 	clear: right;
-	color: black;
+	color: #222;
 	float: right;
 	font-size: 88%;
 	line-height: 1.5em;
-	margin: 0.5em 0px 0.5em 1em;
-	padding: 0.2em;
+	margin: 0.5em 0px 1.2em 1.5em;
+	padding: 0.3em;
 	text-align: left;
-	width: 200px;
+	width: 280px;
+	max-width: 300px;
+	table-layout: fixed;
+	border-collapse: collapse;
+	box-sizing: border-box;
 	-moz-border-radius: 10px;
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
-	-moz-box-shadow: 5px 5px 5px #888888;
-	-webkit-box-shadow: 5px 5px 5px #888888;
-	box-shadow: 5px 5px 5px #888888;
+	-moz-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+	-webkit-box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+	box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+table.infobox a {
+	color: #0b0080;
 }
 
 .plainlist ul { 
 	line-height: inherit;
 	list-style: none outside none;
 	margin: 0px;
+	padding-left: 0px;
 }
 
 .plainlist ul li { 
@@ -52,14 +61,39 @@ table.infobox th.infobox-header {
 	font-size: 125%; 
 	font-weight: bold; 
 	font-style: italic;
+	padding: 0.3em 0.2em;
 }
+
 td.infobox-picture {
 	text-align: center;
+	padding: 0.3em 0;
+	overflow: hidden;
+}
+
+td.infobox-picture img,
+table.infobox img {
+	max-width: 100% !important;
+	width: 100% !important;
+	height: auto !important;
+	display: block;
+	margin: 0.3em auto;
+	object-fit: contain;
 }
 
 th.category-header {
-	text-align:left; 
+	text-align: right; 
 	vertical-align: top;
+	padding: 0.2em 0.5em 0.2em 0;
+	width: 35%;
+	box-sizing: border-box;
+}
+
+td.category {
+	vertical-align: top;
+	padding: 0.2em 0;
+	width: 65%;
+	word-break: break-word;
+	box-sizing: border-box;
 }
 
 .infobox-troupe {
@@ -74,6 +108,16 @@ th.category-header {
 .infobox-theater {
         background-color: #ddf5eb;
         width: 300px;
+}
+
+/* Responsive: When editor pane or viewport is narrow, drop float so text never forms a narrow chute */
+@media (max-width: 650px) {
+	.infobox, table.infobox {
+		float: none !important;
+		width: 100% !important;
+		max-width: 100% !important;
+		margin: 1em auto !important;
+	}
 }
 
 #mw-panel a {
