@@ -1,17 +1,20 @@
-{{Infobox Show
-|Name	=	Start Trekkin'	
-|Picture=	Start Trekkin'.jpg
-|Theater=	[[The Hideout Theatre]]
-|Director = {{Unbulleted list | [[Sean Hill]] | [[Troy Miller]] | [[Jay Michael]]}}
-|Cast	=	Various
-|Tech	=	Various
-|Run	=	May 2004
-|Subsequent Runs = {{Unbulleted list | Apr-May 2005 | Sep-Nov 2005 | Sep-Nov 2007 | Sep-Nov 2008 | Nov-Dec 2010 | Jan-Feb 2012 }}
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr><th colspan="2" class="infobox-header">Start Trekkin'</th></tr>
+		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/Start Trekkin'.jpg.md"><img src="../File/Start%20Trekkin%27.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
+		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category">[[Theatres/The Hideout Theatre|The Hideout Theatre]]</td></tr>
+		<tr class=""><th scope="row" class="category-header">Director</th><td class="category"><div class="plainlist"><ul><li>Sean Hill</li><li>Troy Miller</li><li>Jay Michael</li></ul></div></td></tr>
+		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category">Various</td></tr>
+		<tr class=""><th scope="row" class="category-header">Tech</th><td class="category">Various</td></tr>
+		<tr class=""><th scope="row" class="category-header">Run</th><td class="category">May 2004</td></tr>
+		<tr class=""><th scope="row" class="category-header">Subsequent Runs</th><td class="category"><div class="plainlist"><ul><li>Apr-May 2005</li><li>Sep-Nov 2005</li><li>Sep-Nov 2007</li><li>Sep-Nov 2008</li><li>Nov-Dec 2010</li><li>Jan-Feb 2012</li></ul></div></td></tr>
+	</table>
+</div>
+
 
 ***Start Trekkin***' was an improvised longform narrative show inspired by [[wikipedia:Star Trek: The Original Series|the original *Star Trek* television series]].
 
-#  History ==
+## History
 *Start Trekkin*' was originated by Lawrence Wolf in San Francisco around 2000.  The show was very successful there, with a large number of performances and sci-fi-convention appearances.
 
 [[Sean Hill]] saw the show in San Francisco, and decided to bring the format to Austin.  In 2003, [http://www.facebook.com/richard.ross.102 Richard Ross], a founding member of the original San Francisco show, taught a brief workshop in the format at [[The Hideout Theatre]].  A year later, [[Jay Michael]] and [[Troy Miller]] produced season one of *Start Trekkin' * there.  (Note: the people involved in *Start Trekkin' * refer to their runs as "seasons".)
@@ -37,11 +40,11 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Season 7: Jan-Feb 2012
 
 ### Event Appearances
-[[File:TrekInVegas.jpg|200px|thumb|alt=The season-two cast at the convention.|The season-two cast at the convention.]]In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
+<a class="internal-link" href="../File/TrekInVegas.jpg.md"><img src="../File/TrekInVegas.jpg" alt="The season-two cast at the convention." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>In August 2005, the season 2 *Start Trekkin*' cast was invited to perform at the official *Star Trek* convention in Las Vegas. They performed twice in the convention's main hall to audiences of up to 1,000 people each.
 
 *Start Trekkin*' performed at the [http://www.austinchronicle.com/blogs/screens/2009-05-01/775247/ *Star Trek* Premiere Party] at the Bob Bullock State History Museum on May 8th, 2009.
 
-#  Casts ==
+## Casts
 [[David Lampe]], [[Jay Michael]] and [[Troy Miller]] are the only improvisors to appear in all seven seasons of the show.
 
 ### Season 1
@@ -154,7 +157,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Michelle Cook]] 
 * [[Monica Martinez Maher]]
 
-# Media==
+## Media
 ### Videos
 * [http://vimeo.com/35437814 Video of the 4/23/05 performance (season 2, episode 4).]
 * [http://vimeo.com/35497405 Video of the 5/28/05 performance (season 2, episode 5).]
@@ -191,7 +194,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * Promo videos for season six by [[Troy Miller]]: [http://youtu.be/7cL_KoQWAns "Alien Love"], [http://youtu.be/JLhH3VF_EJI "Fight"], [http://youtu.be/z9fCC3ZG2io "Sacrifices"], [http://youtu.be/jE3goOhutlQ "The Landing Party" (version 1)], and [http://youtu.be/Apynw0GNH2o "The Landing Party" (version 2)].
 * [http://vimeo.com/20415485 A 2011 video compilation of *Start Trekkin*' fight scenes.]
 
-#  More Information ==
+## More Information
 * [http://www.facebook.com/starttrekkin The show's facebook page.]
 * [http://forum.austinimprov.com/viewtopic.php?p=39556 The premiere announcement for season 4.]
 * [http://forum.austinimprov.com/viewtopic.php?p=60656 Casting announcement for season 5.]

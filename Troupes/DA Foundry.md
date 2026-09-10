@@ -1,13 +1,16 @@
-{{Infobox Troupe
-|Name	=		DA Foundry
-|Picture	=	DA Foundry.png
-|Cast	=	{{ Unbulleted list | [[Chelsea Gilman]] | [[David Rosenbaum]] | [[Susannah Raulino]] | [[Topping Haggerty]] }}
-|Years	=		2011-2013
-}}
+<div>
+	<table class="infobox infobox-troupe">
+		<tr><th colspan="2" class="infobox-header">DA Foundry</th></tr>
+		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/DA Foundry.png.md"><img src="../File/DA%20Foundry.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
+		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>[[Performers/Chelsea Gilman|Chelsea Gilman]]</li><li>[[Performers/David Rosenbaum|David Rosenbaum]]</li><li>[[Performers/Susannah Raulino|Susannah Raulino]]</li><li>[[Troupes/Topping Haggerty|Topping Haggerty]]</li></ul></div></td></tr>
+		<tr class=""><th scope="row" class="category-header">Years</th><td class="category">2011-2013</td></tr>
+	</table>
+</div>
+
 
 **DA Foundry** was a musical improv troupe.
 
-#  Summary ==
+## Summary
 ### Press Blurb
 Their press blurb, taken from a 2013 application to perform at [[The Hideout Theatre]]:<blockquote><p>DA Foundry performs improvised theater with improvised music and songs.</p> 
 
@@ -26,12 +29,12 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 <p>We also have plans to travel to other national and international improv festivals.</p></blockquote>
 
-#  Media ==
+## Media
 ### Videos
 * [http://vimeo.com/31770462 Video of a 2012 performance] in *[[The Saturday Night Special]]*.
 * [http://vimeo.com/62018435 Video of their 2013 Frontera Fest show.]
 
-#  More Information ==
+## More Information
 * [http://www.dafoundry.org/ The troupe's web site.]
 
 [[Category/Troupes]]

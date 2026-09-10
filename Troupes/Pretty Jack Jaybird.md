@@ -1,6 +1,6 @@
-#  Summary ==
+## Summary
 Publicity photo of [[Pretty Jack Jaybird]].
 
 Photo by: unknown.
-#  Licensing ==
+## Licensing
 {{No license}}

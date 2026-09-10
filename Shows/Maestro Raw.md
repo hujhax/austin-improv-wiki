@@ -1,20 +1,23 @@
-{{Infobox Show
-|Name	=	Maestro Raw
-|Picture =	Maestro Raw Pic.jpg
-|Theater =	[[The Hideout Theatre]]
-|Director =	Various	
-|Cast	=	Various
-|Run	=	2012-Present
-}}
+<div>
+	<table class="infobox infobox-show">
+		<tr><th colspan="2" class="infobox-header">Maestro Raw</th></tr>
+		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/Maestro Raw Pic.jpg.md"><img src="../File/Maestro%20Raw%20Pic.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
+		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category">[[Theatres/The Hideout Theatre|The Hideout Theatre]]</td></tr>
+		<tr class=""><th scope="row" class="category-header">Director</th><td class="category">Various</td></tr>
+		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category">Various</td></tr>
+		<tr class=""><th scope="row" class="category-header">Run</th><td class="category">2012-Present</td></tr>
+	</table>
+</div>
+
 ***Maestro Raw*** (usually stylized as ***Maestro RAW***) is a student-cast version of *[[Maestro]]*.
 
-#  Summary ==
+## Summary
 The show runs on the fourth Friday of each month as part of *[[The Wheel]]*.  It is cast exclusively from students of [[The Hideout Theatre]].
 
-#  History ==
+## History
 The show began in July 2012, with that month's revamp of *[[The Wheel]]*.
 
-#  More Information == 
+## More Information 
 * [http://www.hideouttheatre.com/shows/maestroraw The show's web page.]
 
 [[Category/Shows]]

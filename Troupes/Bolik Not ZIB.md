@@ -1,6 +1,6 @@
-#  Summary ==
+## Summary
 Publicity photo of [[Bolik Not ZIB]].
 
 Photo by: unknown.
-#  Licensing ==
+## Licensing
 {{No license}}
