@@ -4,7 +4,7 @@ description: "Leng Wong, performing in episode 5 of Steam on 1/20/12."
 ![[File/Leng Wong Pic.jpg]]
 
 ## Summary
-[[Performers/Leng Wong|Leng Wong]], performing in [[Shows/Steam Episodes/Steam – Fifth Night|episode 5]] of *[[Shows/Steam|Steam]]* on 1/20/12.
+[[Performers/Leng Wong|Leng Wong]], performing in [[Steam Episodes/Steam – Fifth Night|episode 5]] of *[[Shows/Steam|Steam]]* on 1/20/12.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.280001812063342.70633.221927764537414&type=3).
 ## Licensing

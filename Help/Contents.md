@@ -18,7 +18,7 @@ Nearly every page has an 'Edit' button towards the top-right corner, next to the
 
 
 <b>How do I make a new page?</b><br/>
-[Here is a quick video demonstration](http://screencast.com/t/rJvTnPGn8) of how to do it.  Basically, the easy way to do it is to take an existing page for a troupe, a show, or a performer -- like [[Troupes/The Foreign Legion|this troupe page]], [[Shows/Totally Improvised, 90210|this show page]], or [[Performers/Peter Rogers|this performer page]] -- as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
+[Here is a quick video demonstration](http://screencast.com/t/rJvTnPGn8) of how to do it.  Basically, the easy way to do it is to take an existing page for a troupe, a show, or a performer -- like [[Troupes/The Foreign Legion|this troupe page]], [[Talk/Totally Improvised, 90210|this show page]], or [[Talk/Peter Rogers|this performer page]] -- as a starting point. Open up one of those pages, click "Edit", copy the text in its edit box, and ta-da! -- you can copy that into a new page, replace text as needed, and you're good to go.
 
 
 <b>I haven't used a wiki before! How do I make my page look pretty?</b><br/>
@@ -28,12 +28,12 @@ But if you want to learn about wiki markup, [[Help/Formatting|this page]] gives 
 
 
 <b>How do I show up in the <x> category?</b><br/>
-We can use [[Lists/List of Austin Improv Performers|the performers category]] as an example.  To ensure that your wiki page shows in in the Performers category, add the following code to your page: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. (Including your last name ensures you'll be put in proper alphabetical order.)
+We can use [[Talk/List of Austin Improv Performers|the performers category]] as an example.  To ensure that your wiki page shows in in the Performers category, add the following code to your page: <nowiki>[[Category/Performers|x]]</nowiki>, where "x" stands in for your last name. (Including your last name ensures you'll be put in proper alphabetical order.)
 
 You can do the same thing with different category names to make a page show up in Techs, Directors, and so on.
 
 
-**How do I get my troupe to show up in [[Lists/List of Austin Improv Troupes|the troupes category]]?**<br/>
+**How do I get my troupe to show up in [[Talk/List of Austin Improv Troupes|the troupes category]]?**<br/>
 Somewhere in your troupe's page, add the tag: <nowiki>[[Category/Troupes|Category:Troupes]]</nowiki>.
 
 If your troupe begins with an article such as "the" or "a", you will want to tell the wiki what name to sort you under. For example, if you were adding a page for [[Troupes/The Frank Mills|The Frank Mills]], you could add: <nowiki>[[Category/Troupes|Frank Mills]]</nowiki>.
@@ -51,16 +51,16 @@ This is the page for uploading images. Fortunately for us, all the AIC photograp
 
 For an example of following these three rules, look at [this photo](http://wiki.austinimprov.com/wiki/File:Peter_Rogers_Pic.jpg).
 
-(Also, [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Asaf Ronen|Asaf Ronen]] and [[Performers/Kaci Beeler|Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
+(Also, [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Asaf Ronen|Asaf Ronen]] and [[Talk/Kaci Beeler|Kaci Beeler]] are cool with having their poster designs on the AIC Wiki, under those same conditions.)
 
 
 <b>I want both "Hideout Theatre" and "The Hideout Theatre" to link to the same information -- does this mean I need to make two copies of the Hideout page?</b><br/>
 Fortunately, no.  You would handle this with something called ["redirects"](http://www.mediawiki.org/wiki/Help:Redirects).  In this case, we've created a page for [[Theatres/The Hideout Theatre|The Hideout Theatre]].  Then we created a page called [[Theatres/Hideout Theatre|Hideout Theatre]] that only contains the following text: 
- <nowiki>#REDIRECT </nowiki>[[The Hideout Theatre]]<nowiki></nowiki>
+ <nowiki>#REDIRECT </nowiki>[[Theatres/The Hideout Theatre]]<nowiki></nowiki>
 That means that all the [[Theatres/Hideout Theatre|Hideout Theatre]] page does is "redirect" to [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 
 **I have a problem with the site! Who do I call?**<br/>
-Either [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Brad Hawkins|Brad Hawkins]], or [[Performers/Peter Rogers|Peter Rogers]] can probably handle your issue.
+Either [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Brad Hawkins|Brad Hawkins]], or [[Talk/Peter Rogers|Peter Rogers]] can probably handle your issue.
 
 As site administrators, they can do things like delete files, protect pages (meaning nobody can edit them), and even grant other people admin privileges, should you be interested in that.

@@ -96,7 +96,7 @@ Their answer to the "What's Your Deal?" question on a 2010 application to perfor
 * [Video of their 12/9/10 show](http://vimeo.com/17767225)  at *[[Shows/The Threefer|The Threefer]]*.
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120821962265.308816.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/9/10 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150120821962265.308816.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 12/9/10 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes their 5/12/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 ## More Information

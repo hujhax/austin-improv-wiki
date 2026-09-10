@@ -48,7 +48,7 @@ image: "File/ImprompTwo.jpg"
   * [Video](http://vimeo.com/131851909) of interstitial music from The Laylas.
   * [Video](http://vimeo.com/131853278) of [[Performers/Sarah Marie Curry|Sarah Marie Curry]] and [[Performers/Clifton Highfield|Clifton Highfield]], sitting in for [[Troupes/Cascade|Cascade]].
 * Videos of the 8/30/15 show:
-  * [Video](http://vimeo.com/137809092) of [[Performers/Lindsey McGowen|Lindsey McGowen]] and [[Performers/Peter Rogers|Peter Rogers]] singing "Dance Me to the End of Love".
+  * [Video](http://vimeo.com/137809092) of [[Performers/Lindsey McGowen|Lindsey McGowen]] and [[Talk/Peter Rogers|Peter Rogers]] singing "Dance Me to the End of Love".
   * [Video](http://vimeo.com/137908715) of [[Performers/Lindsey McGowen|Lindsey McGowen]] and [[Performers/Tosin awofeso|Tosin awofeso]] singing "Manhattan".
   * [Video](http://vimeo.com/137908715) of [[Performers/Lindsey McGowen|Lindsey McGowen]] leading an a cappella improv game.
 Category:Shows

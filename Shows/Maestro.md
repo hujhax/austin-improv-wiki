@@ -66,7 +66,7 @@ In 2002 or 2003, Maestro played for an audience of two—a couple on a date, the
 
 On December 1, 2007, a special "Maestro of Maestros" was performed, directed by [[Performers/Shana Merlin|Shana Merlin]] and [[Performers/Andy Crouch|Andy Crouch]], and containing a cast of only previous Maestro winners. [[Performers/Bryan 'LuBu' Roberts|Bryan 'LuBu' Roberts]] eventually won the title, defeating [[Performers/Dav Wallace|Dav Wallace]] in the final round. He now waits for a worthy cast of challengers.
 
-On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience played the final tie-breaker scene using [Speak in One Voice](http://learnimprov.com/?p=237) with [[Performers/Peter Rogers|Peter Rogers]], and collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
+On December 15, 2012, the Maestro cast was short one player, and the audience itself was conscripted as a cast member, with rotating audience volunteers standing in for #10. The audience played the final tie-breaker scene using [Speak in One Voice](http://learnimprov.com/?p=237) with [[Talk/Peter Rogers|Peter Rogers]], and collectively awarded itself the Maestro.<ref>http://www.hideouttheatre.com/how-you-won-maestro</ref>
 
 On November 9, 2013, a couple arranged for a marriage proposal to occur during the final scene of Maestro. During the final round, they were called onstage as audience volunteers, and the players used a "dubbed moving bodies" format to get them into the right position onstage before backing off and letting the proposal happen. The scene got a 5.  And on December 13, 2014, Todd Koenig proposed to Beth Condra in the show.
 
@@ -90,7 +90,7 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [5/12/12 Maestro.](http://vimeo.com/42177393) ([[Festivals/LAFF|LAFF]] edition)
 * [5/19/12 Maestro.](http://vimeo.com/42740038)
 * [5/25/12 Maestro Raw.](http://youtu.be/P85FLc6XAUI)
-* [6/2/12 Maestro.](http://vimeo.com/43361530) (from [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]])
+* [6/2/12 Maestro.](http://vimeo.com/43361530) (from [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]])
 * [6/9/12 Maestro.](http://vimeo.com/43786857)
 * [6/16/12 Maestro.](http://vimeo.com/44226957)
 * [Video](http://youtu.be/HrFccm0_2pk) by [[Performers/Warren Henderson|Warren Henderson]] of the 6/22/12 *Maestro Raw*.
@@ -111,70 +111,70 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
 * [1/26/13 Maestro.](http://vimeo.com/61489753)
 * [2/9/13 Maestro.](http://vimeo.com/65951692)
 * [Video](http://vimeo.com/73717598) by [[Performers/Brad Hawkins|Brad Hawkins]] of the "All-Star Maestro" at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/92380406) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/17/14 "[[Troupes/Franz and Dave|Franz and Dave]] *Maestro*".
+* [Video](http://vimeo.com/92380406) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/17/14 "[[Troupes/Franz and Dave|Franz and Dave]] *Maestro*".
 * [Video](http://vimeo.com/130693553) of the 6/13/15 show.
 * [Video](http://vimeo.com/132017797) of the 6/27/15 show.
 * [Video](http://vimeo.com/134695308) of the 7/25/15 show.
 
 ### Photos
 #### 2002
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095342264.15293.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/25/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095417264.15294.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/2/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095542264.15295.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/9/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095777264.15296.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/16/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095917264.15299.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/23/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096077264.15300.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/2/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096517264.15301.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/9/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096587264.15302.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/23/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096747264.15303.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/30/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096917264.15305.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/14/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097262264.15306.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/20/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097372264.15307.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/27/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097487264.15308.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/4/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097692264.15311.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/11/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095342264.15293.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/25/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095417264.15294.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/2/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095542264.15295.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/9/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095777264.15296.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/16/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19095917264.15299.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/23/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096077264.15300.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/2/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096517264.15301.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/9/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096587264.15302.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/23/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096747264.15303.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/30/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19096917264.15305.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/14/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097262264.15306.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/20/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097372264.15307.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/27/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097487264.15308.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/4/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097692264.15311.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/11/02 Maestro.
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.132305320323.219849.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of the 6/8/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097777264.15312.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 6/29/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097882264.15314.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/28/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098232264.15315.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/10/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098487264.15316.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/17/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098797264.15317.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/24/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098887264.15318.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/7/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099007264.15319.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/14/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099162264.15321.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/21/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099197264.15322.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/5/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099482264.15323.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/12/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099652264.15325.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/19/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100172264.15327.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/2/02 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100322264.15328.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/16/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097777264.15312.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 6/29/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19097882264.15314.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 7/28/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098232264.15315.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/10/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098487264.15316.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/17/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098797264.15317.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/24/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19098887264.15318.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/7/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099007264.15319.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/14/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099162264.15321.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/21/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099197264.15322.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 10/5/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099482264.15323.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 10/12/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19099652264.15325.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 10/19/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100172264.15327.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 11/2/02 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100322264.15328.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 11/16/02 Maestro.
 
 #### 2003
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/25/03 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/1/03 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/25/03 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19100492264.15329.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/1/03 Maestro.
 
 #### 2008
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.42613887264.51527.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/2/08 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.42613887264.51527.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/2/08 Maestro.
 
 #### 2009
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.79786742264.92840.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/28/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.83199192264.96085.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/14/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.87475887264.99253.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/28/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.99326862264.100889.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/4/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.101923177264.102298.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/11/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104488332264.104211.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/18/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114527182264.110958.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/16/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.116189772264.111951.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/23/09 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.121688197264.115592.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 6/6/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.79786742264.92840.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/28/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.83199192264.96085.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/14/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.87475887264.99253.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/28/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.99326862264.100889.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/4/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.101923177264.102298.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/11/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104488332264.104211.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/18/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114527182264.110958.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/16/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.116189772264.111951.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/23/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.121688197264.115592.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 6/6/09 Maestro.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 9/12/09 show.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100134803793990.2808265.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 10/19/09 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1116291239371.2016639.1589679282&type=3) by [[Roy Moore]] of the 10/31/09 "Celebrity Maestro".
   * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.969853359010.2743791.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242762607264.168277.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/12/09 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242762607264.168277.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 12/12/09 Maestro.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1145900099574.2020007.1589679282&type=3) by [[Roy Moore]] of the 12/19/09 Maestro.
 
 #### 2010
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.275881937264.175325.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/2/10 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.275881937264.175325.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/2/10 Maestro.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1159148790783.2021605.1589679282&type=3) by [[Roy Moore]] of the 1/9/10 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.300456707264.179794.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/16/10 Maestro (which included special guest Keith Johnstone).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.300456707264.179794.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/16/10 Maestro (which included special guest Keith Johnstone).
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1199698684505.2025888.1589679282&type=3) by [[Roy Moore]] of the 3/6/10 Maestro.
   * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100183544532160.2849456.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1216743030603.2027415.1589679282&type=3) by [[Roy Moore]] of the 3/27/10 Maestro.
@@ -190,25 +190,25 @@ On November 9, 2013, a couple arranged for a marriage proposal to occur during t
   * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100417660501880.3101372.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the same show.
 
 #### 2011
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198563102265.346711.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/1/11 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198563102265.346711.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/1/11 Maestro.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.121210094626689.30021.100002130980897&type=3) by [[Steve Rogers]] of the 4/30/11 Maestro.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1700834963456.84665.1315383518&type=3) by [[Michael Yew]] that includes the 5/28/11 Maestro.
 * [Photoset](https://www.facebook.com/michael.yew/media_set?set=a.1724964966691.86123.1315383518&type=3) by [[Michael Yew]] that includes the 6/3/11 & 6/4/11 Maestros from [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.215015301900490.51321.118587218209966&type=3) by [[Roy Moore]] of the 10/29/11 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150527171352265.429807.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/8/11 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150527171352265.429807.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 12/8/11 Maestro.
 
 #### 2012
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150614504637265.443834.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/13/12 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150708161262265.455188.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/18/12 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150614504637265.443834.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/13/12 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150708161262265.455188.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/18/12 Maestro.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.377574975597337.87417.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 3/24/12 Maestro.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.382232748464893.88476.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 3/31/12 Maestro.
 * [Photoset](http://www.facebook.com/media/set/?set=a.386083531413148.89245.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 4/7/12 Maestro.
 * [Photoset](http://www.facebook.com/media/set/?set=a.396656530355848.91289.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 4/21/12 Maestro.
 * [Photoset](http://www.facebook.com/media/set/?set=a.401211873233647.91991.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 4/27/12 Maestro RAW.
 * [Photoset](http://www.facebook.com/media/set/?set=a.408064165881751.92831.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 5/5/12 Maestro.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150981823947265.481249.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/12/12 Maestro.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150981823947265.481249.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/12/12 Maestro.
 * [Photoset](http://www.facebook.com/media/set/?set=a.420267784661389.94795.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 5/25/12 Maestro RAW.
-* [Photoset](http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3) by [[Steve Rogers]] of the 6/2/12 Maestro (from [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]).
+* [Photoset](http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3) by [[Steve Rogers]] of the 6/2/12 Maestro (from [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]).
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.436355936385907.97610.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 6/22/12 Maestro RAW.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.456811871006980.102564.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 8/11/12 Maestro.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.474423889245778.107410.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 9/29/12 Maestro.

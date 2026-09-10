@@ -6,7 +6,7 @@ description: "Publicity image of Audrey Rachel Sansom and Deano Jones for..."
 ## Summary
 Publicity image of [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] and [[Performers/Deano Jones|Deano Jones]] for *[[Shows/The Violet Underbelly|The Violet Underbelly]]*.
 
-Photo by [[Performers/Jon Bolden|Jon Bolden]]; art by [[Performers/Kaci Beeler|Kaci Beeler]].
+Photo by [[Performers/Jon Bolden|Jon Bolden]]; art by [[Talk/Kaci Beeler|Kaci Beeler]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

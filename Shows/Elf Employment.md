@@ -187,12 +187,12 @@ In 2013, the show runs Fridays and Saturdays at 6pm at [[Theatres/The Institutio
 * 12/7: [[Performers/Paul Normandin|Paul Normandin]]
 * 12/13: [[Performers/Curtis Luciani|Curtis Luciani]]
 * 12/14: [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
-* 12/21: [[Performers/Peter Rogers|Peter Rogers]]
+* 12/21: [[Talk/Peter Rogers|Peter Rogers]]
 * 12/22: [[Performers/Shana Merlin|Shana Merlin]]
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/82483244) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/21/13 show (guest Santa: [[Performers/Peter Rogers|Peter Rogers]]).
+* [Video](http://vimeo.com/82483244) by [[Talk/Peter Rogers|Peter Rogers]] of the 12/21/13 show (guest Santa: [[Talk/Peter Rogers|Peter Rogers]]).
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2274884274330.103538.1315383518&type=3) by [[Michael Yew]] of the 12/9/11 performance.

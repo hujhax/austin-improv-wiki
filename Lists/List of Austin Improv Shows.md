@@ -112,7 +112,7 @@ Often at ColdTowne, a troupe will do a themed mainstage run.  Typically, these s
 * *[[Shows/Showdown|Showdown]]* (2011)
 * *[[Shows/Steam|Steam]]* (2012)
 * *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (2011)
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]* (2011)
 * *[[Shows/The Trouble With Terry|The Trouble With Terry]]*
 
 ## [[Theatres/The Hideout Theatre|The Hideout Theatre]]

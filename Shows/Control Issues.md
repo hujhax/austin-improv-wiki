@@ -230,21 +230,21 @@ From 2010 to 2014, the show was a pick-up format, cast month-to-month from inter
 * 5/23/13: [Video of "Pick Your Own Black Vault"](http://vimeo.com/66965290) (a mash-up with *[[Shows/The Black Vault|The Black Vault]]* at *[[Shows/The Free Fringe|The Free Fringe]]*).
 * [6/22/13: Video,](http://vimeo.com/70460663) from [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * 5/9/14: [Video.](http://youtu.be/GAQarSR6qIM)
-* [Video](http://vimeo.com/100615630) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/11/14 first show ("The Lunar Bicycle").
-* [Video](http://vimeo.com/100610406) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/11/14 second show ("The Love and Horror of Bora Bora").
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 11/14/14 show: [Japanese Folktale](http://vimeo.com/111917170), [Wizard Telenovela](http://vimeo.com/111918440).
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 12/12/14 show: [Pulp Adventure](http://vimeo.com/114526131), [Christmas Horror](http://vimeo.com/114527238).
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 1/9/15 show: [John Hughes](http://vimeo.com/116407842), [Jeunet & Caro](http://vimeo.com/116407841).
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 2/13/15 show: [Romantic Comedy](http://vimeo.com/119908815), [Bigfoot Documentary](http://vimeo.com/119916096).
-* [Video](http://vimeo.com/141566741) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/21/15 show in London.
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 9/25/15 show: [Space Noir](http://vimeo.com/140666918), [Dan Brown](http://vimeo.com/141350524).
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 11/27/15 show: [Occult Buddy-Cop Comedy](http://vimeo.com/147286782), [Dystopian Telenovela](http://vimeo.com/147286781).
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 12/14/15 show: [Elderly Sports Underdog Movie](http://vimeo.com/149810481), [70s Cop Apocalypse](http://vimeo.com/149920313).
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 1/8/16 show: [Star Trek](http://vimeo.com/151553769), [Animal Noir](http://vimeo.com/151553768).
-* Videos by [[Performers/Peter Rogers|Peter Rogers]] of the 2/12/16 show: [Caveman Gangster Story](http://vimeo.com/155876307), [Teen Supernatural Investigators](http://vimeo.com/155876308).
+* [Video](http://vimeo.com/100615630) by [[Talk/Peter Rogers|Peter Rogers]] of the 7/11/14 first show ("The Lunar Bicycle").
+* [Video](http://vimeo.com/100610406) by [[Talk/Peter Rogers|Peter Rogers]] of the 7/11/14 second show ("The Love and Horror of Bora Bora").
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 11/14/14 show: [Japanese Folktale](http://vimeo.com/111917170), [Wizard Telenovela](http://vimeo.com/111918440).
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 12/12/14 show: [Pulp Adventure](http://vimeo.com/114526131), [Christmas Horror](http://vimeo.com/114527238).
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 1/9/15 show: [John Hughes](http://vimeo.com/116407842), [Jeunet & Caro](http://vimeo.com/116407841).
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 2/13/15 show: [Romantic Comedy](http://vimeo.com/119908815), [Bigfoot Documentary](http://vimeo.com/119916096).
+* [Video](http://vimeo.com/141566741) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/21/15 show in London.
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 9/25/15 show: [Space Noir](http://vimeo.com/140666918), [Dan Brown](http://vimeo.com/141350524).
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 11/27/15 show: [Occult Buddy-Cop Comedy](http://vimeo.com/147286782), [Dystopian Telenovela](http://vimeo.com/147286781).
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 12/14/15 show: [Elderly Sports Underdog Movie](http://vimeo.com/149810481), [70s Cop Apocalypse](http://vimeo.com/149920313).
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 1/8/16 show: [Star Trek](http://vimeo.com/151553769), [Animal Noir](http://vimeo.com/151553768).
+* Videos by [[Talk/Peter Rogers|Peter Rogers]] of the 2/12/16 show: [Caveman Gangster Story](http://vimeo.com/155876307), [Teen Supernatural Investigators](http://vimeo.com/155876308).
 
 ### Photos
-* [A couple of pre-show photos](http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/8/10 show.
+* [A couple of pre-show photos](http://www.facebook.com/hujhax/media_set?set=a.498468342264.290146.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 10/8/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3953543159753.139326.1315383518&type=3) by [[Michael Yew]] that includes the 12/14/12 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202129404379351.1073741893.1315383518&type=3) by [[Michael Yew]] that includes their 6/21/14 performance in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 

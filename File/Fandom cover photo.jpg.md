@@ -4,7 +4,7 @@ description: "Facebook cover photo for Fandom, by Kaci Beeler."
 ![[File/Fandom cover photo.jpg]]
 
 ## Summary
-Facebook cover photo for *Fandom*, by [[Performers/Kaci Beeler|Kaci Beeler]].
+Facebook cover photo for *Fandom*, by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Taken from [the show page](http://www.hideouttheatre.com/shows/fandom).
 ## Licensing

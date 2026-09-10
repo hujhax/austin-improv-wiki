@@ -94,7 +94,7 @@ The troupe debuted in *[[Shows/The Cagematch|The Cagematch]]* on 7/14/06 with th
 * [[Performers/Erika May|Erika May]]
 * Jen Cargill
 * Jill Morris
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Pseudonyms|Madeline M.]]
 * [[Performers/Rachel Madorsky|Rachel Madorsky]]
 * [[Performers/Tami Nelson|Tami Nelson]]
@@ -106,7 +106,7 @@ The troupe returned to [[Theatres/ColdTowne|ColdTowne]] in June 2014 for a run o
 * [[Performers/Cortnie Jones|Cortnie Jones]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/Erika May McNichol|Erika May McNichol]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Katie Thornton|Katie Thornton]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Rachel Madorsky|Rachel Madorsky]]

@@ -50,7 +50,7 @@ Courtney Hopkin was a member of [[Theatres/Gnap! Theater Projects|Gnap! Theater 
 * *[[Shows/Process|Process]]*
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]*
 * *[[Shows/Twilight Zoned|Twilight Zoned]]*
 * *[[Shows/Nothing And Everything|Nothing And Everything]]*
 * *F. Scott and Zelda Fitzgerald Save the World*

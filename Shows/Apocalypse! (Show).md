@@ -123,7 +123,7 @@ Brandon Salinas pestered [[Performers/Shannon McCormick|Shannon McCormick]] abou
 * James Roberts
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Julie Gillis|Julie Gillis]]
-* [[Performers/Justin Davis|Justin Davis]]
+* [[User/Justin Davis|Justin Davis]]
 * [[Performers/Katie Thornton|Katie Thornton]]
 * [[Performers/Madi Goff|Madi Goff]]
 * [[Performers/Mark Carpenter|Mark Carpenter]]

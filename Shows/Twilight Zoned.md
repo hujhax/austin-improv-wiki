@@ -157,10 +157,10 @@ The cast worked at slowing down the plot.  They would focus less on making thing
 * [Video of their 8/27/13 performance,](http://vimeo.com/74718403) part of [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/5/12 dress rehearsal.
-* [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/8/12 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/5/12 dress rehearsal.
+* [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/8/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.275898742473649.69807.221927764537414&type=3) by [[Steve Rogers]] of the 1/14/12 performance.
-* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150619001127265.444441.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/18/12 dress rehearsal.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150619001127265.444441.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/18/12 dress rehearsal.
 * [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] that includes the 2/25/12 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 

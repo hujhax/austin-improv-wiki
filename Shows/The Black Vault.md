@@ -180,8 +180,8 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 * [Video](http://vimeo.com/69325354) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/23/13 performance in [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 * [Audio of the 10/11/13 performance](http://vimeo.com/76849825), part of *[[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]]*.
 * [Video of the 3/27/14 performance](https://www.youtube.com/watch?v=k07bu91F9H4#t=2678) by [[Performers/Warren Henderson|Warren Henderson]].
-* [Video](http://vimeo.com/114083493) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/7/14 performance of "Arkham Community Radio" in the *[[Shows/2x4|2x4]]*.
-* [Video](http://vimeo.com/120012508) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/23/15 performance of "Arkham Community Radio" in *[[Shows/The Free Fringe|The Free Fringe]]*.
+* [Video](http://vimeo.com/114083493) by [[Talk/Peter Rogers|Peter Rogers]] of the 12/7/14 performance of "Arkham Community Radio" in the *[[Shows/2x4|2x4]]*.
+* [Video](http://vimeo.com/120012508) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/23/15 performance of "Arkham Community Radio" in *[[Shows/The Free Fringe|The Free Fringe]]*.
 * [Video](http://vimeo.com/133006812) of their 6/10/15 performance in [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]].
 
 ### Photos
@@ -199,7 +199,7 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204872285069654.1073741966.1315383518&type=3) by [[Michael Yew]] of a 9/15 cast visit to H. P. Lovecraft's gravesite in Providence, Rhode Island.
 
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/black-vault-set-painting/black-vault-set-painting.jpg?disposition=download) of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design.
 * *Tales from the Black Vault* media:
   * [The podcast's demo episode.](http://soundcloud.com/blackvaultpodcast/tales-from-the-black-vault-the-harvest-festival)
   * [Promo video](http://vimeo.com/110104860) for *[[Shows/The Free Fringe|The Free Fringe]]*.
@@ -207,15 +207,15 @@ The Black Vault returned in 2019 at the Institution Theater with a new run of si
   * Short cast interviews:
     * [Interview](http://vimeo.com/112034604) with [[Performers/Paul Normandin|Paul Normandin]].
     * [Interview](http://vimeo.com/112034692) with [[Performers/Jayme Ramsay|Jayme Ramsay]].
-    * [Interview](http://vimeo.com/112257992) with [[Performers/Justin Davis|Justin Davis]].
+    * [Interview](http://vimeo.com/112257992) with [[User/Justin Davis|Justin Davis]].
     * [Interview](http://vimeo.com/112363296) with [[Performers/Andreas Fabis|Andreas Fabis]].
     * [Interview](http://vimeo.com/112363297) with [[Performers/Marc Majcher|Marc Majcher]].
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/theblackvault)
-* [A blog post](http://www.hideouttheatre.com/the-creeping-laughter) by [[Performers/Roy Janik|Roy Janik]] about the rehearsal process.
+* [A blog post](http://www.hideouttheatre.com/the-creeping-laughter) by [[User/Roy Janik|Roy Janik]] about the rehearsal process.
 * "The Shadow Out of Austin", an abortive collaborative story by the cast from September 2012:
-  * [Chapter 1](http://www.hideouttheatre.com/the-shadow-out-of-austin), by [[Performers/Roy Janik|Roy Janik]].
+  * [Chapter 1](http://www.hideouttheatre.com/the-shadow-out-of-austin), by [[User/Roy Janik|Roy Janik]].
   * [Chapter 2](http://www.hideouttheatre.com/the-shadow-out-of-austin-chapter-2), by [[Performers/Jay Michael|Jay Michael]].
 * [Interview](http://traffic.libsyn.com/thetheftforum/The_Black_Vault_-_Main_Stage_Focus.mp3) with director [[Performers/Marc Majcher|Marc Majcher]] and cast members [[Performers/Jessica Arjet|Jessica Arjet]], [[Performers/Ryan Hill|Ryan Hill]], and [[Performers/Paul Normandin|Paul Normandin]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [Website for *Tales from the Black Vault*](http://blackvault.net/).

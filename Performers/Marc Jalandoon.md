@@ -52,7 +52,7 @@ A post from him about why he chose to begin improvising:
 #### Student
 * Level 1 (11/2015) - [[Performers/Andy Crouch|Andy Crouch]]
 * Level 2 (1/2016) - Andy Crouch
-* Level 3 (3/2016) - [[Performers/Ryan Austin|Ryan Austin]]
+* Level 3 (3/2016) - [[User/Ryan Austin|Ryan Austin]]
 * Level 4 (5/2016) - Ryan Austin
 * Level 5 (7/2016) - Ryan Austin
 * Level 5 (6/2016) - [[Performers/Sarah Marie Curry|Sarah Marie Curry]]

@@ -7,7 +7,7 @@ image: "File/IPF%202016.jpg"
 
 It will run from 4/14/15 through 4/16/15.
 
-It is produced by [[Performers/Thedward Blevins|Thedward Blevins]].
+It is produced by [[Talk/Thedward Blevins|Thedward Blevins]].
 
 ## Acts
 ### Local Acts

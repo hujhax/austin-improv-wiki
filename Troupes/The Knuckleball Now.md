@@ -115,7 +115,7 @@ The Knuckleball Now was honored with the Rudy Kloptic Award for Oustanding Impro
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1226752320829.2028380.1589679282&type=3) by [[Roy Moore]] of their 4/10/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1236608207220.2029650.1589679282&type=3) by [[Roy Moore]] of their 4/17/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447244422264.218629.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/29/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.447244422264.218629.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/29/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1337793056778.2040655.1589679282&type=3) by [[Roy Moore]] that includes their 8/21/10 performance at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1361811097214.2050976.1589679282&type=3)  by [[Roy Moore]] that includes their 9/16/10 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 9/23/10 performance in *[[Shows/The Threefer|The Threefer]]*.

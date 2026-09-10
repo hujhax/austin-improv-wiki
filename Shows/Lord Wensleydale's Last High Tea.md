@@ -85,7 +85,7 @@ It was presented by [[Troupes/Parallelogramophonograph|Parallelogramophonograph]
 ## Summary
 This was a high tea held at the Umlauf Sculpture Garden.  The paying attendees were, according to the show's conceit, the guests of Lord Wensleydale, who had invited them all to high tea to make a very special announcement.
 
-All cast members wore period costumes and white makeup.  Some were "guests", and sat among the paying customers.  Others were "servants", who worked the event.  Cast members interacted with the audience and with each other (typically with the guests abusing the servants).  [[Performers/Roy Janik|Roy Janik]] emceed the event in character as "Mr. Tiddles", the house steward.
+All cast members wore period costumes and white makeup.  Some were "guests", and sat among the paying customers.  Others were "servants", who worked the event.  Cast members interacted with the audience and with each other (typically with the guests abusing the servants).  [[User/Roy Janik|Roy Janik]] emceed the event in character as "Mr. Tiddles", the house steward.
 
 Several events punctuated the high tea.  Shortly after the first course, the von Geltsacks, rich visitors from Germany and the high tea's honored guests, arrived at the venue.  Towards the end of the event, Lord Wensleydale announced that he was marrying his daughter Petunia off to the Dietrich von Geltsack.  Baron von Geltsack was shocked, as he had assumed *he* would marry the young Miss Petunia.  Finally, Petunia rejected both offers, and ran off with the head servant, Mr. Tiddles.
 
@@ -95,8 +95,8 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 ### Main Characters
 * Lord Wenseleydale (the host) -- [[Performers/Kareem Badr|Kareem Badr]]
 * Lady Wenseleydale (his wife) -- [[Performers/Valerie Ward|Valerie Ward]]
-* Petunia Wenseleydale (their daughter) -- [[Performers/Kaci Beeler|Kaci Beeler]]
-* Mr. Tiddles (their steward) -- [[Performers/Roy Janik|Roy Janik]]
+* Petunia Wenseleydale (their daughter) -- [[Talk/Kaci Beeler|Kaci Beeler]]
+* Mr. Tiddles (their steward) -- [[User/Roy Janik|Roy Janik]]
 * Baron von Geltsack -- [[Performers/Andreas Fabis|Andreas Fabis]]
 * Dietrich von Geltsack (his son) -- [[Performers/Marc Majcher|Marc Majcher]]
 
@@ -107,12 +107,12 @@ Several events punctuated the high tea.  Shortly after the first course, the von
 * Elizabeth (Rebecca's sister) -- [[Performers/Mia Iseman|Mia Iseman]]
 * Claire Asa Bell -- [[Pseudonyms|Madeline M.]]
 * Professor Reginald "Reg" Lackwit -- [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-* Peter Hinchcliffe -- [[Performers/Peter Rogers|Peter Rogers]]
+* Peter Hinchcliffe -- [[Talk/Peter Rogers|Peter Rogers]]
 * Rosemary Moncrieff -- [[Performers/Irene White|Irene White]]
 
 ### Servants
 * Crasser -- [[Performers/Alex Baia|Alex Baia]]
-* Gilbert -- [[Performers/Thedward Blevins|Thedward Blevins]]
+* Gilbert -- [[Talk/Thedward Blevins|Thedward Blevins]]
 * Nancy Bottomtop (from Limerick) -- [[Performers/Bridget Brewer|Bridget Brewer]]
 * Penny -- [[Performers/Jayme Ramsay|Jayme Ramsay]]
 

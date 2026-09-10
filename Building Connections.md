@@ -36,7 +36,7 @@ The following improvisers have all served as co-teachers for the program.
 
 * [[Performers/Theo Daley|Theo Daley]]
 * [[Performers/Manuel Duran|Manuel Duran]]
-* [[Performers/Tim Coyle|Tim Coyle]]
+* [[User/Tim Coyle|Tim Coyle]]
 * Bonnie Dibler
 
 ## History

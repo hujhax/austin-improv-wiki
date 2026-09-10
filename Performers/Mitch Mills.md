@@ -33,4 +33,4 @@ image: "File/Mitch%20Mills.jpg"
 
 ## Shows
 * *[[Shows/Boys of Summer|Boys of Summer]]* (2013 Run)
-* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
+* *[[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]]*

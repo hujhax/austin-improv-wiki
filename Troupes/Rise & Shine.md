@@ -93,7 +93,7 @@ The first performance was a [[Shows/Cagematch|Cagematch]] show and happened on S
 * [Teaser video](http://youtu.be/KtI5gT7QCIk) by [[Performers/Jon Bolden|Jon Bolden]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114135967264.110677.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/15/09 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114135967264.110677.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/15/09 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] of their 5/16/10 performance in *[[Shows/The Weekender|The Weekender]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 8/27/10 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 9/23/10 performance in *[[Shows/The Threefer|The Threefer]]*.

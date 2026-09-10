@@ -36,7 +36,7 @@ Since starting to improvise, Lacy has been cast in mainstage shows at [[Theatres
 Lacy currently teaches adult improv classes at [[Theatres/Merlin Works|Merlin Works]] and is the Special Needs Program Director at [[Theatres/The Hideout Theatre|The Hideout Theatre]].  
 
 
-Lacy directed the Fourth Run of *[[Shows/Theatresports (mainstage run)|TheatreSports]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with [[Performers/Ryan Austin|Ryan Austin]], and regularly directs Maestro and [[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]].
+Lacy directed the Fourth Run of *[[Shows/Theatresports (mainstage run)|TheatreSports]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] with [[User/Ryan Austin|Ryan Austin]], and regularly directs Maestro and [[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]].
 
 
 ## Troupes

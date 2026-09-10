@@ -1,7 +1,7 @@
 ---
 redirect: "Talk/Todd Hart"
 ---
-#REDIRECT [[Talk/Todd Hart]]
+#REDIRECT [[Performers/Todd Hart]]
 
 <script>
   (function() {

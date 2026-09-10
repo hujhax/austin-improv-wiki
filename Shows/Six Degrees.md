@@ -97,7 +97,7 @@ After that, it's a narrative longform with no restrictions.
 The show was put on sporadically during the early years of the Hideout, and then ran as a mainstage show during March and April in 2007.
 
 ## Media
-* [Photoset of the 2/28/2002 show](http://www.facebook.com/media/set/?set=a.19102072264.15340.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]].
+* [Photoset of the 2/28/2002 show](http://www.facebook.com/media/set/?set=a.19102072264.15340.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]].
 
 Category:Shows
 Category:The Hideout Theatre

@@ -38,7 +38,7 @@ Katie started taking improv classes with [[Performers/Shana Merlin|Shana Merlin]
 * *[[Shows/The Andersons|The Andersons]]* (Mary-Alice Anderson)
 * *[[Shows/Dusk|Dusk]]*
 * *[[Shows/The Sandbox|The Sandbox]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (Kelly Taylor)
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]* (Kelly Taylor)
 * *[[Troupes/The Professor -  Improv Inspired by Doctor Who|The Professor -  Improv Inspired by Doctor Who]]*
 * *[[Shows/Live TV Tuesdays -  Freaks and Geeks|Live TV Tuesdays -  Freaks and Geeks]]* (Sam Weir)
 * *Oscar Bait*

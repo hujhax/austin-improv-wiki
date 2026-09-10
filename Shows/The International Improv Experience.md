@@ -182,7 +182,7 @@ The set design included a number of wooden boxes (and other shapes), which the c
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.862444820452671.1073741878.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.770996482963870.1073742037.221927764537414&type=3) by [[Steve Rogers]]of the 7/19/14 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.781702681893250.1073742042.221927764537414&type=3) by [[Steve Rogers]]of the 7/26/14 show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152690171907265.1073741855.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/16/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152690171907265.1073741855.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/16/14 show.
 
 ### Sample Videos
 The cast recorded a number of example videos of the sort of video challenges they were looking for from the international troupes.

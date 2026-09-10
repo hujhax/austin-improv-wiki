@@ -5,7 +5,7 @@ description: "Fourth annual Improvised Play Festival."
 
 It ran from 4/10/14 through 4/12/14.
 
-It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Performers/Ruby Willmann|Ruby Willmann]].
+It was produced by [[Talk/Thedward Blevins|Thedward Blevins]] and [[Performers/Ruby Willmann|Ruby Willmann]].
 
 ## Acts
 ### Local Acts

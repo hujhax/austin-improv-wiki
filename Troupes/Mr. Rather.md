@@ -77,7 +77,7 @@ description: "An improv duo."
 
 ## Summary
 They described themselves thus:
-> Mr. Rather is [[Performers/Christopher Orf|Christopher Orf]] and [[Performers/Justin Davis|Justin Davis]] teaming up to present the dilemmas of life pitted against the dilemmas of life.
+> Mr. Rather is [[Performers/Christopher Orf|Christopher Orf]] and [[User/Justin Davis|Justin Davis]] teaming up to present the dilemmas of life pitted against the dilemmas of life.
 
 
 ## History

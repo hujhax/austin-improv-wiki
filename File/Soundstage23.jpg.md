@@ -6,7 +6,7 @@ description: "Poster for Soundstage 23, featuring the cast."
 ## Summary
 Poster for *[[Shows/Soundstage 23|Soundstage 23]]*, featuring the cast.
 
-Design by [[Performers/Kaci Beeler|Kaci Beeler]].
+Design by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Photos by [[Steve Rogers]].
 ## Licensing

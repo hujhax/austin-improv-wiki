@@ -13,11 +13,11 @@
 
 ***The Trouble With Terry*** was an improvised longform narrative show inspired by fantastical television sitcoms such as *Alf*, *Bewitched*, *I Dream of Genie*, and *My Mother the Car*.
 
-It was a [[Merlin Works]] 601 graduation show that opened [[The Saturday Night Special]] for a three-week run at [[Salvage Vanguard Theater]].
+It was a [[Theatres/Merlin Works]] 601 graduation show that opened [[Shows/The Saturday Night Special]] for a three-week run at [[Theatres/Salvage Vanguard Theater]].
 
 
 ## Media
-* [http://vimeo.com/34628393 Kitchen Timer--Video of the first performance.]
-* [http://vimeo.com/34627371 Kangaroo--Video of the second performance.]
+* [Kitchen Timer--Video of the first performance.](http://vimeo.com/34628393)
+* [Kangaroo--Video of the second performance.](http://vimeo.com/34627371)
 
 [[Category/Shows|Trouble]]

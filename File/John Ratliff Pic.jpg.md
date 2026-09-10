@@ -6,7 +6,7 @@ description: "John Ratliff, performing with You're Not My Real Dad at..."
 ## Summary
 [[Performers/John Ratliff|John Ratliff]], performing with [[Troupes/You're Not My Real Dad|You're Not My Real Dad]] at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]] on 9/1/10.
 
-Photo by [[Performers/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.481887847264.251804.588952264&type=3).
+Photo by [[Talk/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.481887847264.251804.588952264&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

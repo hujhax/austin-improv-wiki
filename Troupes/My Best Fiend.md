@@ -94,8 +94,8 @@ My Best Fiend premiered at the Hideout's *[[Shows/Free Fringe|Free Fringe]]* on 
 * "Die Mörderbestie" [Video](http://youtu.be/fzWXDO5noGQ)
 * "Der grosse Tag draussen" [Video](http://youtu.be/pbCgf2yAKqo)
 * "Schnaps-Eis" [Video](http://vimeo.com/148277246)
-* "Verhau den Hund" at the Alaska State Improv Festival 2015 [https://vimeo.com/148962201](https://vimeo.com/148962201)
-* "Der Schokoladen-Hase" at the Alaska State Improv Festival 2015 [https://vimeo.com/152378117](https://vimeo.com/152378117)
+* "Verhau den Hund" at the Alaska State Improv Festival 2015 [https://vimeo.com/148962201](https://vimeo.com/148962201)(https://vimeo.com/148962201)
+* "Der Schokoladen-Hase" at the Alaska State Improv Festival 2015 [https://vimeo.com/152378117](https://vimeo.com/152378117)(https://vimeo.com/152378117)
 
 ### Photos
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their 1/12/13 show.

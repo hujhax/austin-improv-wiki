@@ -270,7 +270,7 @@ The runaway popularity of this production led [[Theatres/The Institution|The Ins
 * Zoe -- [[Performers/Ammie Nicole Leonards|Ammie Nicole Leonards]]
 * Kaylee -- [[Performers/Sarah Swofford|Sarah Swofford]]
 * Book -- [[Performers/Adam Mengesha|Adam Mengesha]]
-* Simon -- [[Performers/Peter Rogers|Peter Rogers]]
+* Simon -- [[Talk/Peter Rogers|Peter Rogers]]
 * River -- [[Performers/Alexa Ramirez|Alexa Ramirez]]
 * Breed, Ensemble -- [[Performers/David Young|David Young]]
 * Corbin, Ensemble -- [[Performers/Heath Allyn|Heath Allyn]]

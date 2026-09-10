@@ -97,9 +97,9 @@ This show opened *[[Shows/The Saturday Night Special|The Saturday Night Special]
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150257317112265.368948.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/5/11 rehearsal.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150263784492265.370554.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/14/11 rehearsal.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282246257265.375406.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/28/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150257317112265.368948.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/5/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150263784492265.370554.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/14/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282246257265.375406.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/28/11 rehearsal.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3) by [[Roy Moore]] that includes their 6/4/11 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1724667128388.2082226.1589679282&type=3) by [[Roy Moore]] that includes their 6/11/11 show.
 

@@ -164,9 +164,9 @@ The show originally played [[Theatres/Salvage Vanguard Theater|Salvage Vanguard 
 ### Photos
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.125071687573863.32003.100002130980897&type=3) by [[Steve Rogers]] of their 5/20/11 performance.
   * [Processed photos](http://www.facebook.com/SteveRogers1212/media_set?set=a.125209254226773.32100.100002130980897&type=3) from that same show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150274554572265.373081.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/21/11 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150274554572265.373081.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/21/11 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1720672979394.85878.1315383518&type=3) by [[Michael Yew]] that includes their 5/27/11 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282310382265.375437.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/28/11 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282310382265.375437.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/28/11 performance.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.128076550606710.33532.100002130980897&type=3) by [[Steve Rogers]] of their 6/3/11 performance.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1704857553161.2081142.1589679282&type=3) by [[Roy Moore]] of their 6/4/11 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].

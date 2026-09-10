@@ -6,7 +6,7 @@ description: "Rachel and Dave perform at The Hideout Theatre, 12/9/10."
 ## Summary
 [[Troupes/Rachel and Dave|Rachel and Dave]] perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]], 12/9/10.
 
-Photo by [[Performers/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.10150120827122265.308819.588952264&type=3).
+Photo by [[Talk/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.10150120827122265.308819.588952264&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

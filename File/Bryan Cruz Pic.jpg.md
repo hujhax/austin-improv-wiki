@@ -4,7 +4,7 @@ description: "Promotional photo of Bryan Cruz for Totally Improvised, 90210."
 ![[File/Bryan Cruz Pic.jpg]]
 
 ## Summary
-Promotional photo of [[Performers/Bryan Cruz|Bryan Cruz]] for *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*.
+Promotional photo of [[Performers/Bryan Cruz|Bryan Cruz]] for *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]*.
 
 Photo by [[Steve Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.159711617443203.42516.100002130980897&type=3).
 ## Licensing

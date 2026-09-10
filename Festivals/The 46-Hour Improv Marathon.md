@@ -16,21 +16,21 @@ image: "File/46HourPromo.jpg"
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 
 ## Staff
-* [[Performers/Roy Janik|Roy Janik]] - Artistic Director
+* [[User/Roy Janik|Roy Janik]] - Artistic Director
 * [[Performers/Ryan Hill|Ryan Hill]] - Co-Producer
 * [[Performers/Jessie Pascarelli|Jessie Pascarelli]] - Co-Producer
 * [[Performers/Kareem Badr|Kareem Badr]] - Planning
 * [[Performers/Andy Crouch|Andy Crouch]] - Planning
 * [[Performers/Jessica Arjet|Jessica Arjet]] - Planning
-* [[Performers/Kaci Beeler|Kaci Beeler]] - Planning/Design
+* [[Talk/Kaci Beeler|Kaci Beeler]] - Planning/Design
 * [[Performers/Courtney Hopkin|Courtney Hopkin]] - Marketing
-* [[Performers/Tim Coyle|Tim Coyle]] - Donations Captain
+* [[User/Tim Coyle|Tim Coyle]] - Donations Captain
 * [[Performers/Luke Wallens|Luke Wallens]] - Donations Assistant
 * [[Performers/Lahari Samineni|Lahari Samineni]] - Sponsorship Captain
 * [[Performers/Cagney Ortiz|Cagney Ortiz]] - Sponsorship Assistant
 * [[Performers/Joy Parks|Joy Parks]] - Food Captain
 * [[Performers/Heidi Rogers|Heidi Rogers]] - Food Assistant
-* [[Performers/Thedward Blevins|Thedward Blevins]] - Volunteers Captain
+* [[Talk/Thedward Blevins|Thedward Blevins]] - Volunteers Captain
 * [[Performers/Cindy Page|Cindy Page]] - Tech Volunteers Coordinator
 * [[Performers/Chad Wellington|Chad Wellington]] - Photo Volunteers Coordinator
 

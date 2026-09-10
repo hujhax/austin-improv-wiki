@@ -1,7 +1,7 @@
 ---
 redirect: "Shows/Camp Madeupponaspotta"
 ---
-#REDIRECT [[Shows/Camp Madeupponaspotta]]
+#REDIRECT [[Talk/Camp Madeupponaspotta]]
 
 <script>
   (function() {

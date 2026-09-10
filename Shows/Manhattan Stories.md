@@ -159,7 +159,7 @@ It originally ran in July/August of 2012 but was extended through September.
 * [Show trailer](http://vimeo.com/47916987) for [[Festivals/The Out Of Bounds Comedy Festival|The Out Of Bounds Comedy Festival]].
 
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/manhattan-stories-set/manhattan-stories-set.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/manhattan-stories-set/manhattan-stories-set.jpg?disposition=download) of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design.
 * [Video demo](http://vimeo.com/47244617) of "Sex & Death", a game created by [[Performers/Marc Majcher|Marc Majcher]] as a show tie-in.
 * [Pre-show clips.](http://vimeo.com/48532990)
 

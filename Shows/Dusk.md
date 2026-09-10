@@ -188,7 +188,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 #### Crew
 * Director -- [[Performers/Shana Merlin|Shana Merlin]]
 * Producer -- [[Performers/Shannon McCormick|Shannon McCormick]]
-* Stage Manager -- [[Performers/Dana Yanoshak|Dana Yanoshak]]
+* Stage Manager -- [[User/Dana Yanoshak|Dana Yanoshak]]
 * PR -- [[Performers/Andreas Fabis|Andreas Fabis]]
 * Graphic and Program Design -- [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * Costumes -- [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]], [[Performers/Courtney Hopkin|Courtney Hopkin]]
@@ -203,7 +203,7 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [[Performers/Bryan Cruz|Bryan Cruz]]
 * [[Performers/Colin Thomas Bates|Colin Thomas Bates]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
-* [[Performers/Dana Yanoshak|Dana Yanoshak]]
+* [[User/Dana Yanoshak|Dana Yanoshak]]
 * [[Performers/Kyle Traughber|Kyle Traughber]]
 * [[Performers/Liz Brammer|Liz Brammer]]
 * [[Performers/Michael Joplin|Michael Joplin]]
@@ -222,12 +222,12 @@ The marketing tagline for season 2 was "Forever is for serious."
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150295116320324.548314.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of the 10/23/09 premiere.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 11/7/09 show.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1346857683388.2043491.1589679282&type=3) by [[Roy Moore]] of their 9/1/10 show at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-  * [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]]
+  * [Another photoset of the show](http://www.facebook.com/hujhax/media_set?set=a.481886422264.251802.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]]
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 10/22/10 performance at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/23/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150092249167265.293923.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 10/23/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1406612817229.2054598.1589679282&type=3) by [[Roy Moore]] of their 10/29/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 11/13/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150104581762265.300419.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 11/13/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1435556900813.2056609.1589679282&type=3) by [[Roy Moore]] of their 11/19/10 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/20/10 performance.
 

@@ -114,12 +114,12 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * Erik Adams
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
-* [[Performers/Justin Davis|Justin Davis]]
+* [[User/Justin Davis|Justin Davis]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Michael Thomas|Michael Thomas]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 
 ### 2009 Cast
 <a class="internal-link" href="../File/Ka-Baam!! Promo.jpg.md"><img src="../File/Ka-Baam%21%21%20Promo.jpg" alt="A promotional photo of Ka-Baam!!, with ninjas." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
@@ -128,7 +128,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [[Performers/Eric Heiberg|Eric Heiberg]]
 * Erik Adams
 * [[Performers/Jason Vines|Jason Vines]]
-* [[Performers/Justin Davis|Justin Davis]]
+* [[User/Justin Davis|Justin Davis]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Michael Thomas|Michael Thomas]]
@@ -143,13 +143,13 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
   * [[Performers/Kacey Samiee|Kacey Samiee]] as Mistress Madness
   * [[Performers/Michael Thomas|Michael Thomas]] as Mariachi Man
 * 5/10/08
-  * [[Performers/Kaci Beeler|Kaci Beeler]] as Dr. Steam
+  * [[Talk/Kaci Beeler|Kaci Beeler]] as Dr. Steam
   * Erik Adams as Big Wet Hero
   * [[Performers/Jason Vines|Jason Vines]] as Captain Accomodator
 * 5/17/08
   * [[Performers/Michael Thomas|Michael Thomas]] as Inflatable Man
   * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Jane the Unremarkable
-  * [[Performers/Roy Janik|Roy Janik]] as The Exciting Elemental
+  * [[User/Roy Janik|Roy Janik]] as The Exciting Elemental
 * 5/24/08
   * [[Performers/Michael Thomas|Michael Thomas]] as Anteater Man
   * Erik Adams as Captain Giggles
@@ -174,7 +174,7 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * 9/19/09
   * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]] as Brick Woman
   * [[Performers/Marc Majcher|Marc Majcher]] as Diabetes Boy
-  * [[Performers/Justin Davis|Justin Davis]] as Spam-Man
+  * [[User/Justin Davis|Justin Davis]] as Spam-Man
   * [[Performers/Troy Miller|Troy Miller]] as The Contortionist Alien [villain]
 * 9/25/09
   * [[Performers/Eric Heiberg|Eric Heiberg]] as Improv Dwarf
@@ -222,11 +222,11 @@ Steve Wacker (an improvisor who is now an editor with Marvel Comics) came up wit
 * [Cover-art from the 10/23/09 show, featuring "The Twitler".](http://twitpic.com/mqx6f)
 
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2459454053_0a1baac74c/2459454053_0a1baac74c.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2534889035_76644d6259/2534889035_76644d6259.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2461681911_601d6d39d1/2461681911_601d6d39d1.jpg?disposition=download).
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2459454053_0a1baac74c/2459454053_0a1baac74c.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2534889035_76644d6259/2534889035_76644d6259.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2461681911_601d6d39d1/2461681911_601d6d39d1.jpg?disposition=download).
 
 ## More Information
 * [Announcement of the opening of the first run](http://forum.austinimprov.com/viewtopic.php?t=6771) on [[The AIC Forums]].
-* [Press release for the 2008 run](http://keepjustinwriting.com/2009/05/11/7/) by [[Performers/Justin Davis|Justin Davis]].
+* [Press release for the 2008 run](http://keepjustinwriting.com/2009/05/11/7/) by [[User/Justin Davis|Justin Davis]].
 * [A story about the show in *The Austin Chronicle*](http://www.austinchronicle.com/arts/2008-05-02/618700/) by Wayne Allen Brenner
 * [The top ten arts events of 2008 (which included *Ka-Baam!!*)](http://www.austinchronicle.com/arts/2009-01-02/721384/), by Wayne Allen Brenner for *The Austin Chronicle*
 * [An announcement of the 5/31/08 show](http://forum.austinimprov.com/viewtopic.php?t=6953) on [[The AIC Forums]].

@@ -6,7 +6,7 @@ description: "No Frills unofficially debuting at a special outdoor edition of...
 ## Summary
 [[Troupes/No Frills|No Frills]] unofficially debuting at a special outdoor edition of *[[Shows/The Rubber Room|The Rubber Room]]* on 7/7/13.
 
-Photo by [[Performers/Justin Davis|Justin Davis]].
+Photo by [[User/Justin Davis|Justin Davis]].
 
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.

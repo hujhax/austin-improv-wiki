@@ -6,7 +6,7 @@ description: "Promo image for Buddy Cop."
 ## Summary
 Promo image for *[[Shows/Buddy Cop|Buddy Cop]]*.
 
-Design by [[Performers/Kaci Beeler|Kaci Beeler]].
+Design by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Photo by [[Steve Rogers]].
 ## Licensing

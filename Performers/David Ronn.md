@@ -26,7 +26,7 @@ image: "File/David%20Ronn.jpg"
 **David Ronn** is an improv performer and musician. 
 
 ## Shows
-* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
+* *[[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
 * *[[Shows/Flying Theater Machine|Flying Theater Machine]]*
 * *[[Shows/One Small Step|One Small Step]]*
 

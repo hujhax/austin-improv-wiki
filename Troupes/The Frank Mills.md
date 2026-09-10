@@ -146,7 +146,7 @@ and many of their students
 * [Video](http://youtu.be/MGPbzObquSM) by Brian Boyko of their 4/7/12 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.228352770566743.53747.118587218209966&type=3) by [[Roy Moore]] that includes their 11/19/11 performance at [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.383629978367191.91509.221927764537414&type=3) by [[Steve Rogers]] that includes their 6/16/12 "Goodbye Justin and Teresa" show at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4011964980262.140422.1315383518&type=3) by [[Michael Yew]] which includes their 12/27/12 performance with [[Troupes/Squirrel Buddies|Squirrel Buddies]] in *[[Shows/The Threefer|The Threefer]]*.

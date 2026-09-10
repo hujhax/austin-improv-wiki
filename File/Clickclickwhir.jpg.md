@@ -6,7 +6,7 @@ description: "Promo image for Click Click Whir featuring Way Spurr-Chen and..."
 ## Summary
 Promo image for *[[Shows/Click Click Whir|Click Click Whir]]* featuring Way Spurr-Chen and Marissa Macy.
 
-Design by [[Performers/Kaci Beeler|Kaci Beeler]].
+Design by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Photo by [[Steve Rogers]].
 ## Licensing

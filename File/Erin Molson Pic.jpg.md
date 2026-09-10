@@ -6,7 +6,7 @@ description: "Erin Molson, guesting with Improv for Evil in The Threefer..."
 ## Summary
 [[Performers/Erin Molson|Erin Molson]], guesting with [[Troupes/Improv For Evil|Improv For Evil]] in *[[Shows/The Threefer|The Threefer]]* on 4/16/09.
 
-Photo by [[Performers/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.104486522264.104209.588952264&type=3).
+Photo by [[Talk/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.104486522264.104209.588952264&type=3).
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

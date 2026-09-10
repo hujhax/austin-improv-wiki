@@ -7,10 +7,10 @@ description: "Second annual Hideout Improv Marathon."
 * [[Performers/Bill Stern|Bill Stern]] 
 * [[Performers/Curtis Luciani|Curtis Luciani]]
 * [[Performers/Jessica Arjet|Jessica Arjet]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Meghan Wolff|Meghan Wolff]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 
 ## Schedule
@@ -58,11 +58,11 @@ description: "Second annual Hideout Improv Marathon."
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes Electric Bill , Confidence Men, The Nightmare Improv Project, Girls, Girls, Girls, Dubbed Indemnity, Your Dad's Friends, Improv For Evil, Dusk, Austin Secrets, The Andersons, 1001 Monologues for Teens, Maestro, and the Puppet Improv Project.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449232092264.220344.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of hour 5 ("Electric Bill").
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449237302264.220350.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of hour 23 ([[Shows/Flying Theater Machine|Flying Theater Machine]]).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449240577264.220352.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of hour 24 (Student Show).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of hour 25 ([[Troupes/Improv For Evil|Improv For Evil]]).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449255672264.220367.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of hour 41 ("The Final Countdown").
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449232092264.220344.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of hour 5 ("Electric Bill").
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449237302264.220350.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of hour 23 ([[Shows/Flying Theater Machine|Flying Theater Machine]]).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449240577264.220352.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of hour 24 (Student Show).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of hour 25 ([[Troupes/Improv For Evil|Improv For Evil]]).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449255672264.220367.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of hour 41 ("The Final Countdown").
 
 ## More Information
 * [The marathon schedule announcement.](http://www.hideouttheatre.com/the-complete-2010-41-hour-marathon-schedule)

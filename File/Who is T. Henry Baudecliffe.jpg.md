@@ -6,7 +6,7 @@ description: "Publicity image for Who Is T."
 ## Summary
 Publicity image for [[Shows/Who is T. Henry Baudecliffe|Who is T. Henry Baudecliffe]]
 
-Art by [[Performers/Kaci Beeler|Kaci Beeler]].
+Art by [[Talk/Kaci Beeler|Kaci Beeler]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

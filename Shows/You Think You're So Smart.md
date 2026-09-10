@@ -89,7 +89,7 @@ image: "File/You%20Think%20You%27re%20So%20Smart%20Poster.jpg"
 ***You Think You're So Smart*** is an improvised panel show in the style of British programs like *QI*, *Never Mind the Buzzcocks*, and *Would I Lie to You?*
 
 ## Format
-In every performance, the panelists discuss facts and trivia in that week's category, provided by the show's host, [[Performers/Justin Davis|Justin Davis]].
+In every performance, the panelists discuss facts and trivia in that week's category, provided by the show's host, [[User/Justin Davis|Justin Davis]].
 
 Recurring features include the "Ranter's Corner", where a guest speaker delivers a rant related to the night's topic, "Spin the Wiki", where Justin uses [Wikipedia's "Random article" link](http://en.wikipedia.org/wiki/Special:Random) to supply a random topic, and "Would You Rather", where the panel discusses a choice between two alternatives which both have pros and cons.
 
@@ -103,7 +103,7 @@ The show initially ran Fridays at 8pm at [[Theatres/The Institution Theater|The 
   * Guest Ranter: [[Performers/Andrew Buck|Andrew Buck]]
 
 * 9/13/13: "The Devil's Tongue" (the English language)
-  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Valerie Ward|Valerie Ward]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
+  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Valerie Ward|Valerie Ward]], [[Performers/John Ratliff|John Ratliff]], [[Talk/Peter Rogers|Peter Rogers]]
   * Guest: Robert Faires
   * Guest Ranter: Maggie Maye
 
@@ -113,7 +113,7 @@ The show initially ran Fridays at 8pm at [[Theatres/The Institution Theater|The 
   * Guest Ranter: [[Performers/Asaf Ronen|Asaf Ronen]]
 
 * 9/27/13: "Not-So-Great Expectations" (one-hit wonders, failed ideas, and surprising/accidental successes)
-  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]], [[Performers/Peter Rogers|Peter Rogers]]
+  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Mia Iseman|Mia Iseman]], [[Performers/John Ratliff|John Ratliff]], [[Talk/Peter Rogers|Peter Rogers]]
   * Guests: Robert Faires
   * Guest Ranter: [[Performers/Brett Tribe|Brett Tribe]]
 
@@ -121,7 +121,7 @@ The show initially ran Fridays at 8pm at [[Theatres/The Institution Theater|The 
 The show was revived for shows on 7/25/14 and 8/22/14 at [[Theatres/The Hideout Theatre|The Hideout Theatre]] as a temporary part of *[[Shows/The Wheel|The Wheel]]*.
 
 * 7/25/14: "You Think You're So In Love" (courtship in different societies, animal mating rituals, and romantic and sexual art)
-  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], Mary Jo Pehl, [[Performers/Peter Rogers|Peter Rogers]]
+  * Cast: [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Ben Masten|Ben Masten]], Mary Jo Pehl, [[Talk/Peter Rogers|Peter Rogers]]
 
 ## Media
 ### Videos

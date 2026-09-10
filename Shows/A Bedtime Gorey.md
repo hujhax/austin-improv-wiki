@@ -92,7 +92,7 @@ The players then began a monoscene set among heightened, upper-class society typ
 After intermission, the show would restart with a choreographed dance, followed by another shadow scene, a return to the parlor monoscene, and a final shadow story.  The whole performance typically ran about ninety minutes.
 
 ### Tech
-The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from Danny Elfman, Thomas Newman, and Rachel Portman.  The choreographed dance featured a mix of songs chosen by [[Performers/Kaci Beeler|Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [Gorey's opening sequence for PBS's *Mystery!*](http://youtu.be/rAmGsM4Dids)
+The parlor scenes were scored classical and/or period instrumental music that fit the historical context.  The shadow scenes featured classical and/or film-score music, leaning towards scores from Danny Elfman, Thomas Newman, and Rachel Portman.  The choreographed dance featured a mix of songs chosen by [[Talk/Kaci Beeler|Kaci Beeler]] that leaned heavily on 1920s jazz.  The narrator stretches featured specific instrumental music that was tonally similar to [Gorey's opening sequence for PBS's *Mystery!*](http://youtu.be/rAmGsM4Dids)
 
 Sound effects were limited to environmental sound effects, with rare effects for actions like gunshots or breaking glass.
 

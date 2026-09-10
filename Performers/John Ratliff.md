@@ -46,7 +46,7 @@ A post from him about the first improv show he ever saw:
 * [[Troupes/You're Not My Real Dad|You're Not My Real Dad]]
 
 ## Shows
-* *[[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]*
+* *[[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*
 * *[[Shows/Braised in Texas|Braised in Texas]]*
 * *[[Shows/Process|Process]]*

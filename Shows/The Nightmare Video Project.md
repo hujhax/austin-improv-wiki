@@ -47,7 +47,7 @@ Towards the end of the *Nightmare* run, Mr. Majcher began experimenting with the
 
 The show was included in *[[Festivals/The Hideout Improv Marathon|The Hideout Improv Marathon]]* several times before debuting as part of *[[Shows/The Wheel|The Wheel]]*.
 
-Unfortunately, the video production schedule required for *The Nightmare Video Project* became untenable, and [[Performers/Roy Janik|Roy Janik]] retired the format.  The show closed on 12/16/11.
+Unfortunately, the video production schedule required for *The Nightmare Video Project* became untenable, and [[User/Roy Janik|Roy Janik]] retired the format.  The show closed on 12/16/11.
 
 ## Media
 ### Videos
@@ -59,7 +59,7 @@ Unfortunately, the video production schedule required for *The Nightmare Video P
 
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/4/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150343191312265.394416.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/29/11 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150343191312265.394416.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 7/29/11 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.562200417176812.1073741895.221927764537414&type=3) by [[Steve Rogers]] of its 6/4/11 performance in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 ### Publicity

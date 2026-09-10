@@ -1,7 +1,7 @@
 ---
 redirect: "Performers/Chelsea Bunn"
 ---
-#REDIRECT [[Performers/Chelsea Bunn]]
+#REDIRECT [[User/Chelsea Bunn]]
 
 <script>
   (function() {

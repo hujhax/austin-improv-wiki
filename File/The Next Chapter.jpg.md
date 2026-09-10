@@ -6,7 +6,7 @@ description: "Publicity image for The Next Chapter."
 ## Summary
 Publicity image for *[[Shows/The Next Chapter|The Next Chapter]]*.
 
-Art by [[Performers/Justin Davis|Justin Davis]].
+Art by [[User/Justin Davis|Justin Davis]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

@@ -9,11 +9,11 @@ image: "File/Wu%20Yun.jpg"
 ## History
 The thread began on 4/24/12, when a spambot posted the following text to the "General Discussion" forum (with the topic "want to know"):
 > Chapter 30 1 ...He looked at Wu Yun, slowly asked: "I find you not to ask you this, I just want to know, you refuse me, drew this picture of that person?"
-A few hours later (before moderators could delete the spam), [[Performers/Peter Rogers|Peter Rogers]] added a continuation of "Chapter 30", re-contextualizing the original garbled line as a story about a Chinese-American bounty hunter in the Old West.
+A few hours later (before moderators could delete the spam), [[Talk/Peter Rogers|Peter Rogers]] added a continuation of "Chapter 30", re-contextualizing the original garbled line as a story about a Chinese-American bounty hunter in the Old West.
 
 Ten minutes after that, [[Performers/Brad Hawkins|Brad Hawkins]] added "Chapter 31", and the thread became a collaborative novella, with AIC members adding subsequent chapters.  At one point, [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] tasked the *[[Shows/Strange Worlds|Strange Worlds]]* cast with adding chapters to the story.  Over time, the story incorporated many new characters and complications, until 2/20/13, when [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] posted chapter 70.  After that, the thread went dormant.
 
-On 4/1/13, frequent contributors [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Kevin Miller|Kevin Miller]], and [[Performers/Jessie Pascarelli|Jessie Pascarelli]] met to plan out the conclusion of the story with a four-chapter arc, but those chapters were not posted until the week of 5/12/14, with its final chapter (number 74) posted on 5/20/14.
+On 4/1/13, frequent contributors [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Talk/Peter Rogers|Peter Rogers]], [[Performers/Kevin Miller|Kevin Miller]], and [[Performers/Jessie Pascarelli|Jessie Pascarelli]] met to plan out the conclusion of the story with a four-chapter arc, but those chapters were not posted until the week of 5/12/14, with its final chapter (number 74) posted on 5/20/14.
 
 On 12/24/14, Kevin completed editing work and released "Want to Know" as an e-book.
 

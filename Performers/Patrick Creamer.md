@@ -33,7 +33,7 @@ image: "File/PatrickCreamer.jpg"
 
 ## Shows
 * *[[Shows/Boy, Howdy!|Boy, Howdy!]]*
-* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
+* *[[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
 * *[[Shows/Golden (mainstage)|Golden]]*
 * *[[Shows/Happily Ever After|Happily Ever After]]*
 * *[[Shows/The Fancy-Pants Mashup|The Fancy-Pants Mashup]]*

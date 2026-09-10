@@ -27,6 +27,6 @@ redirect: "Lists/List of Austin Improv Photographers"
 * [[Roy Moore|Roy Moore]]
 * [[Performers/Menelaos Prokos|Menelaos Prokos]]
 * [[Steve Rogers|Steve Rogers]]
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * [[Performers/Michael Thomas|Michael Thomas]]
 * [[Performers/Chad Wellington|Chad Wellington]]

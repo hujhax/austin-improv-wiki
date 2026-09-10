@@ -89,7 +89,7 @@ image: "File/History%20Under%20the%20Influence%20Pic.jpg"
 ***History Under the Influence*** was an improv format inspired by the YouTube/Comedy Central series *Drunk History*. Almost all shows featured [[Performers/Kevin Miller|Kevin Miller]] as the drunken narrator with a rotating cast.
 
 ## History
-*History Under the Influence* was first performed in *[[Shows/The Free Fringe|The Free Fringe]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on March 20, 2014 with a cast of [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Jillian Summar|Jillian Summar]], [[Performers/Bridget Brewer|Bridget Brewer]], [[Performers/David Lampe|David Lampe]], [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Mitchell Deane|Mitchell Deane]], and [[Performers/Peter Rogers|Peter Rogers]]. After a surprisingly successful show, Kevin submitted the show for a month-long run in *[[Shows/The Threefer|The Threefer]]*. *History Under the Influence* played five sold-out shows at the Hideout in May of 2014, featuring much of the original cast and several guests.
+*History Under the Influence* was first performed in *[[Shows/The Free Fringe|The Free Fringe]]* at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on March 20, 2014 with a cast of [[Performers/Ryan Hill|Ryan Hill]], [[Performers/Jillian Summar|Jillian Summar]], [[Performers/Bridget Brewer|Bridget Brewer]], [[Performers/David Lampe|David Lampe]], [[Performers/Caeriel Crestin|Caeriel Crestin]], [[Performers/Mitchell Deane|Mitchell Deane]], and [[Talk/Peter Rogers|Peter Rogers]]. After a surprisingly successful show, Kevin submitted the show for a month-long run in *[[Shows/The Threefer|The Threefer]]*. *History Under the Influence* played five sold-out shows at the Hideout in May of 2014, featuring much of the original cast and several guests.
 
 In June of 2014, Kevin attended the Finland International Improv Festival as an instructor and performed History Under the Influence with a European cast. This marked the format's first festival appearance.
 
@@ -128,7 +128,7 @@ The Austin-based core cast of *History Under the Influence* is listed below, but
 * [[Performers/Katie Doran|Katie Doran]]
 * [[Performers/Aspen Webster|Aspen Webster]]
 * [[Performers/Chris Curl|Chris Curl]]
-* [[Performers/Thedward Blevins|Thedward Blevins]]
+* [[Talk/Thedward Blevins|Thedward Blevins]]
 * [[Performers/Lindsey McGowen|Lindsey McGowen]] or Cynthia Ward on tech
 
 ## Media
@@ -141,10 +141,10 @@ The Austin-based core cast of *History Under the Influence* is listed below, but
 
 ### Videos
 * [The original 3/20/14 *Free Fringe* show.](http://vimeo.com/89691491) 
-* [Video](http://vimeo.com/93695385) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/1/14 show.
+* [Video](http://vimeo.com/93695385) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/1/14 show.
 * [The 5/8/14 show.](http://vimeo.com/94626212) 
 * [The 5/15/14 show.](http://vimeo.com/95560857)
-* [Video](http://vimeo.com/111584860) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/6/14 show.
+* [Video](http://vimeo.com/111584860) by [[Talk/Peter Rogers|Peter Rogers]] of the 11/6/14 show.
 * [Video](http://vimeo.com/134444206) of their 6/11/15 performance in [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]].
 
 ## More Information

@@ -170,7 +170,7 @@ From the show announcement:
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10154176921787265.1073741875.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/4/16 preview show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10154176921787265.1073741875.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/4/16 preview show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1188746147855566.1073742345.221927764537414&type=3) by [[Steve Rogers]] of the 5/7/16 premiere.
 * [Photoset](http://www.facebook.com/monkeyangst/media_set?set=a.10154219046236202.1073741845.579776201&type=3) by [[Performers/Brad Hawkins|Brad Hawkins]] of the 5/21/16 performance.
 

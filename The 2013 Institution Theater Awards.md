@@ -50,7 +50,7 @@ Winners are listed in **bold text**.
 * [[Performers/John Buseman|John Buseman]]
 * Lucas Reilly
 * Marvin Pratt
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * **Tyler Reece Booker**
 * [[Performers/Wyatt Tall|Wyatt Tall]]
 
@@ -91,7 +91,7 @@ Winners are listed in **bold text**.
 * [[Performers/Asaf Ronen|Asaf Ronen]]
 * [[Performers/Clifton Highfield|Clifton Highfield]]
 * [[Performers/John Ratliff|John Ratliff]]
-* [[Performers/Justin Davis|Justin Davis]]
+* [[User/Justin Davis|Justin Davis]]
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]]
 * [[Performers/Ted Meredith|Ted Meredith]]
 * **[[Performers/Tom Booker|Tom Booker]]**

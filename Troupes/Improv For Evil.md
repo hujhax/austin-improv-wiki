@@ -94,19 +94,19 @@ After two years of relative inactivity, the troupe performed their final show at
 ### Videos
 * [Video of the troupe's first show](http://youtu.be/Z1FhlDnIInI), as part of *[[Shows/The Threefer|The Threefer]]*.
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/improv-for-evil-wed-10pm-svt-apples-stage-1230040) of their 8/27/08 "Cochese" show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
-* [Video](http://vimeo.com/26028152) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/17/11 show.
+* [Video](http://vimeo.com/26028152) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/17/11 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104486522264.104209.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/16/09 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114134807264.110676.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/15/09 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.173246262264.145640.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/17/09 performance of "The Barons".
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.178108552264.147492.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/24/09 performance of "The Barons".
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104486522264.104209.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 4/16/09 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.114134807264.110676.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/15/09 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.173246262264.145640.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 9/17/09 performance of "The Barons".
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.178108552264.147492.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 9/24/09 performance of "The Barons".
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1116285479227.2016637.1589679282&type=3) by [[Roy Moore]] of their 10/31/09 performance.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1137154640943.2019047.1589679282&type=3) by [[Roy Moore]] of their 12/4/09 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.251222597264.169617.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/18/09 "Office Party" show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.251222597264.169617.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 12/18/09 "Office Party" show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 2/5/10 show at *[[Shows/The Double Barrel|The Double Barrel]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1198757940987.2025752.1589679282&type=3) by [[Roy Moore]] of their 3/5/10 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/5/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/5/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
   * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1348520124948.2045014.1589679282&type=3) by [[Roy Moore]] of their 9/2/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/10/10 performance at *[[Shows/The Spectacle|The Spectacle]]*.
@@ -115,9 +115,9 @@ After two years of relative inactivity, the troupe performed their final show at
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1860642198537.91518.1315383518&type=3) by [[Michael Yew]] that includes their 7/21/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10150814614650324.728304.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their performance at [[Festivals/The 2011 Out of Bounds Comedy Festival|The 2011 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.456451977709636.102466.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 8/10/12 performance in *[[Shows/The Spectacle|The Spectacle]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403717672265.410072.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/19/11 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403717672265.410072.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 9/19/11 performance at [[Theatres/Coldtowne Theater|Coldtowne Theater]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2172386391947.101766.1315383518&type=3) by [[Michael Yew]] of the 11/18/11 performance at [[Festivals/Wafflefest|Wafflefest]].
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/2/12 performance in [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] of their 8/28/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.413861802010675.100390.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/28/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.407519765983375.91396.118587218209966&type=3) by [[Roy Moore]] that includes their performance in [[Festivals/WaffleFest 2012|WaffleFest 2012]].

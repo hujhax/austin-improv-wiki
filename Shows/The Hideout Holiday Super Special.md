@@ -47,7 +47,7 @@ image: "File/The%20Hideout%20Holiday%20Super%20Special%20Pic.jpg"
 
 ## Media
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/snowflakesset/snowflakesset.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s holiday set design for the run.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/snowflakesset/snowflakesset.jpg?disposition=download) of [[Talk/Kaci Beeler|Kaci Beeler]]'s holiday set design for the run.
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/thehideoutholidaysuperspecial)

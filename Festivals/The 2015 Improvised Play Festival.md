@@ -7,7 +7,7 @@ image: "File/IPF%202015.jpg"
 
 It ran from 4/9/15 through 4/12/15.
 
-It was produced by [[Performers/Thedward Blevins|Thedward Blevins]] and [[Performers/Ruby Willmann|Ruby Willmann]].
+It was produced by [[Talk/Thedward Blevins|Thedward Blevins]] and [[Performers/Ruby Willmann|Ruby Willmann]].
 
 ## Acts
 ### Local Acts

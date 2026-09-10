@@ -211,11 +211,11 @@ image: "File/Rock%20poster.jpg"
 ### Photos
 * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150981818562265.481248.588952264&type=3) by [[Performers/Dave alley|Dave alley]] of the 5/12/12 warm-ups ("Dolly"/"Cheyenne").
 * [Photoset](http://www.facebook.com/media/set/?set=a.10150828768740793.394951.666390792&type=1) by [[Performers/Dave alley|Dave alley]] of the 5/26/12 performance ("Don't Try Too Hard").
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes the 6/2/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204548675359.122323.1315383518&type=3) by [[Michael Yew]] that includes the 6/2/12 performance in [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.380863341977188.90896.221927764537414&type=3) by [[Steve Rogers]] of the 6/9/12 performance ("The ROT Rally").
 
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s 2011 set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set/rock-opera-set.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set-detail/rock-opera-set-detail.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera/rock-opera.jpg?disposition=download).
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s 2011 set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set/rock-opera-set.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera-set-detail/rock-opera-set-detail.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/rock-opera/rock-opera.jpg?disposition=download).
 
 ## More Information
 * [A 5/25/12 post about the show](http://www.hideouttheatre.com/rock-opera-the-swim-class) by Amber Shae.

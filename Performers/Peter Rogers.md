@@ -73,7 +73,7 @@ Peter has photographed nearly three hundred improv shows, though he is perhaps b
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/Twilight Zoned|Twilight Zoned]]*
 * *[[Shows/Strange Worlds|Strange Worlds]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (ensemble, assistant director)
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]* (ensemble, assistant director)
 * *[[Shows/The Violet Underbelly|The Violet Underbelly]]*
 * *[[Shows/The Well-Made Play|The Well-Made Play]]* (co-director)
 * *[[Shows/You Think You're So Smart|You Think You're So Smart]]*

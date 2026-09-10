@@ -97,7 +97,7 @@ In 2002, Sean renamed the troupe again, this time to "The Heroes of Comedy", to 
 
 From 2001 to 2004, the Heroes of Comedy transitioned from a troupe to more of a brand name/business entity.  By January 2005, it was no longer a rehearsing troupe with proper membership, and from 2005 to 2009, "The Heroes of Comedy" became a general term for performers at [[Theatres/The Hideout Theatre|The Hideout Theatre]] -- for instance, *[[Shows/Maestro|Maestro]]* players were often introduced as "The Heroes of Comedy".
 
-The name was officially retired in 2009, when [[Performers/Roy Janik|Roy Janik]], [[Performers/Kareem Badr|Kareem Badr]], and [[Performers/Jessica Arjet|Jessica Arjet]] took over [[Theatres/The Hideout Theatre|The Hideout Theatre]], out of respect for [[Performers/Sean Hill|Sean Hill]], who wanted to retain the name for future ventures.
+The name was officially retired in 2009, when [[User/Roy Janik|Roy Janik]], [[Performers/Kareem Badr|Kareem Badr]], and [[Performers/Jessica Arjet|Jessica Arjet]] took over [[Theatres/The Hideout Theatre|The Hideout Theatre]], out of respect for [[Performers/Sean Hill|Sean Hill]], who wanted to retain the name for future ventures.
 
 ### Members
 #### The Original Cast
@@ -144,7 +144,7 @@ The following performers joined the troupe in 2001:
 * [[Performers/Andy Crouch|Andy Crouch]]
 * Ben Reddell
 * Ben Sterling
-* [[Performers/Bob Apthorpe|Bob Apthorpe]]
+* [[User/Bob Apthorpe|Bob Apthorpe]]
 * Chris R. B. Fay
 * [[Performers/Jay Michael|Jay Michael]]
 * Jimmy Maas
@@ -152,7 +152,7 @@ The following performers joined the troupe in 2001:
 * Katy Shea
 * Lameece Issaq
 * Maggie Bell
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * Shelly Miller Bosse
 * Stewart McGregor
 * Yasmine Kittles

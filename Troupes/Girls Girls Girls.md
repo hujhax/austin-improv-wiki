@@ -128,14 +128,14 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/girls-girls-girls-sun-7-30pm-esther-s-1237263) of their 8/31/08 headlining show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 * [Video highlights](http://youtu.be/o-QneRdYgAM) of their 2/5/10 show (the premiere of *Jerzey Shorez*).
 * [Video highlights](http://youtu.be/pu1USWq1vy0) of their 2/12/10 show (the second performance of *Jerzey Shorez*).
-* [Video](http://vimeo.com/43331034) by [[Performers/Dave alley|Dave alley]] of the 6/1/12 show in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
+* [Video](http://vimeo.com/43331034) by [[Performers/Dave alley|Dave alley]] of the 6/1/12 show in [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Video](http://vimeo.com/43532723) by [[Performers/Paul Normandin|Paul Normandin]] of their 6/2/12 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 * [Video](http://youtu.be/196aoEhy3hs) of their 1/13/13 show ("King Size Bed").
 * [Video](http://youtu.be/yDwlCWTJPE4) of their 2/15/13 "Welding Studio" show.
 * [Video](http://youtu.be/Sad-Ri4xo2w) of their 3/9/13 show ("Backyard").
 * [Video](http://youtu.be/yDwlCWTJPE4) of their 3/16/13 show ("Welding Studio").
 * [Video](http://youtu.be/9T4WUb7um0Q) of their 4/14/13 "Stage Door" show.
-* [Video of the first fifteen minutes of their 6/22/13 show,](http://vimeo.com/69001828) part of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
+* [Video of the first fifteen minutes of their 6/22/13 show,](http://vimeo.com/69001828) part of [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Video](http://youtu.be/i6z2TroPzss) of their 11/10/13 show ("Jeep").
 * [Video](http://youtu.be/8twSU8tYHiM) of their 12/7/13 holiday show.
 * [Video](http://youtu.be/XprjNzdgUvo) of their 4/12/14 "Pink Is the New Black" show.
@@ -147,21 +147,21 @@ A typical GGG show is a longform musical narrative.  But for several runs, the t
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100438451097360.3117252.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 7/23/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/11/10 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150151636822265.328769.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/5/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150151636822265.328769.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 2/5/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/4/11 "GGGlee" performance at The City Theater.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 5/6/11 performance in [[Festivals/The Ladies Are Funny Festival|The Ladies Are Funny Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/4/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1709656153123.2081442.1589679282&type=3) by [[Roy Moore]] that includes their 6/4/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.140277072719991.38310.100002130980897&type=3) by [[Steve Rogers]] of their 7/2/11 show at *[[Shows/The Saturday Night Special|The Saturday Night Special]]*. ("Graceland")
 * [Photoset](http://www.facebook.com/media/set/?set=a.257845284278995.65486.221927764537414&type=3) by [[Steve Rogers]] of their 12/3/11 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150661813077265.450334.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/1/12 performance in *[[Shows/The Threefer|The Threefer]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150665278392265.450841.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/4/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150661813077265.450334.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 2/1/12 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150665278392265.450841.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 2/4/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.877505912312926.1073742138.221927764537414&type=3) by [[Steve Rogers]] of the same show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.252339914834695.58497.118587218209966&type=3) by [[Roy Moore]] that includes their 1/7/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3027821617293.119201.1315383518&type=3) by [[Michael Yew]] of their 4/27/12 performance with Laura Hall
 * [Photoset](http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3) by [[Steve Rogers]] of the 5/5/12 show which they shared with [[Troupes/Confidence Men|Confidence Men]].
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.10151724038250324.843293.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of a 5/23/12 improv jam they hosted.
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/1/12 performance in [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3204199026618.122311.1315383518&type=3) by [[Michael Yew]] that includes their 6/1/12 performance in [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.443985692289598.99198.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/7/12 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/media/set/?set=a.399794726750716.95420.221927764537414&type=3) by [[Steve Rogers]] of their 7/21/12 performance of *[[Shows/Boys of Summer|Boys of Summer]]*, featuring guest boy [[Performers/Clay Towery|Clay Towery]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466601583361342.105337.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 9/1/12 performance in [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
@@ -216,7 +216,7 @@ This section lists media specifically for their *[[Shows/Boys of Summer|Boys of 
 
 #### Videos
 * [Video](http://youtu.be/RAIGgBSf0rA) of [[Performers/Marc Majcher|Marc Majcher]] guesting with *Boys of Summer* on 8/9/08.
-* [Video](http://vimeo.com/13888720) of [[Performers/Peter Rogers|Peter Rogers]] guesting with *Boys of Summer* on 7/30/10.
+* [Video](http://vimeo.com/13888720) of [[Talk/Peter Rogers|Peter Rogers]] guesting with *Boys of Summer* on 7/30/10.
 * Video of [[Performers/Jay Byrd|Jay Byrd]] guesting with *Boys of Summer* in 2011: [part 1](http://vimeo.com/29503112), [part 2](http://vimeo.com/30314674).
 * [Video](http://vimeo.com/27829205) of [[Performers/Jason Finkelman|Jason Finkelman]] guesting with *Boys of Summer* in 2011.
 * [Video](http://vimeo.com/28332016) of [[Performers/Deano Jones|Deano Jones]] guesting with *Boys of Summer* in 2011.
@@ -225,13 +225,13 @@ This section lists media specifically for their *[[Shows/Boys of Summer|Boys of 
 
 #### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.449206698434164.100559.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 7/21/12 performance with [[Performers/Clay Towery|Clay Towery]].
-* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 7/30/10 performance featuring [[Performers/Peter Rogers|Peter Rogers]].
-  * [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Performers/Peter Rogers|Peter Rogers]] with that night's cast.
+* [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100350274434100.3020001.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of the 7/30/10 performance featuring [[Talk/Peter Rogers|Peter Rogers]].
+  * [A snapshot](http://www.facebook.com/hujhax/media_set?set=a.468882932264.237492.588952264&type=3) of [[Talk/Peter Rogers|Peter Rogers]] with that night's cast.
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.148885235192508.40280.100002130980897&type=3) by [[Steve Rogers]] of the 7/31/11 show featuring [[Performers/Michael Thomas|Michael Thomas]]. ("Comic Book Convention")
 * [A photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.161270370620661.42923.100002130980897&type=3) by [[Steve Rogers]] of the 8/27/11 show featuring Jason Laney. ("Mortuary")
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10200301863411969.1073741843.1315383518&type=3) by [[Michael Yew]] of the 2013 show featuring [[Performers/Chuy Zarate|Chuy Zarate]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.614654581889374.1073741852.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 8/16/13 show featuring [[Performers/Brently Heilbron|Brently Heilbron]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.1007687835961399.1073742223.221927764537414&type=3) by [[Steve Rogers]] of the 7/24/15 performance featuring [[Performers/Ryan Austin|Ryan Austin]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.1007687835961399.1073742223.221927764537414&type=3) by [[Steve Rogers]] of the 7/24/15 performance featuring [[User/Ryan Austin|Ryan Austin]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10204579909600450.1073741959.1315383518&type=3) by [[Steve Rogers]] of the 7/31/15 performance featuring [[Performers/Kevin Miller|Kevin Miller]].
 
 ## More Information

@@ -41,7 +41,7 @@ Lauren was a company member of [[Theatres/Gnap! Theater Projects|Gnap! Theater P
 * *[[Shows/The Sci-Fi Comedy Double Feature|The Sci-Fi Comedy Double Feature]]*
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *[[Shows/TheatreSports|TheatreSports]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (director/Brenda Walsh)
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]* (director/Brenda Walsh)
 * *[[Shows/Twilight Zoned|Twilight Zoned]]*
 
 [[Category/Performers|Buck]]

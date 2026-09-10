@@ -33,7 +33,7 @@ He began directing improv in August of 2012 when [[Performers/Ruby Willmann|Ruby
 
 ### First Improv Show He Saw
 A post from him about the first improv show he ever saw:
-> The first live show I saw was when I was in level one. I went to see [[Troupes/Pgraph|Pgraph]] (I think maybe [[Troupes/Improv For Evil|Improv For Evil]] opened for them?) because [[Performers/Roy Janik|Roy]] was my teacher and I thought I'd go and support him. Until that night I had never seen -nor was I aware- that people improvised long-form narratives.
+> The first live show I saw was when I was in level one. I went to see [[Troupes/Pgraph|Pgraph]] (I think maybe [[Troupes/Improv For Evil|Improv For Evil]] opened for them?) because [[User/Roy Janik|Roy]] was my teacher and I thought I'd go and support him. Until that night I had never seen -nor was I aware- that people improvised long-form narratives.
 >  
 > 
 > It blew me away.

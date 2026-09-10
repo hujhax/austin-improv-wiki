@@ -96,7 +96,7 @@ After going dormant in 2008, the troupe performed several reunion shows for [[Fe
 
 ### Photos
 * [Photoset](http://www.flickr.com/photos/oob_pics/sets/72157606947626225) that includes their performance in [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322) by [[Performers/Peter Rogers|Peter Rogers]] of their 8/30/13 performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.flickr.com/photos/hujhax/sets/72157635322943322) by [[Talk/Peter Rogers|Peter Rogers]] of their 8/30/13 performance in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information
 * [The duo's wikipedia page.](http://en.wikipedia.org/wiki/Backpack_Picnic)

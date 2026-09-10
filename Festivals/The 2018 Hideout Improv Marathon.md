@@ -14,7 +14,7 @@ description: "The 2018 Improv Marathon was the tenth annual Hideout Improv..."
 * Tyler Groce
 
 ## Staff
-* [[Performers/Roy Janik|Roy Janik]] - Artistic Director
+* [[User/Roy Janik|Roy Janik]] - Artistic Director
 
 ## Schedule
 * Friday, 5pm (Hour 1):  Teen Mixer

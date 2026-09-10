@@ -97,11 +97,11 @@ This was the third of the Joss-Whedon-derived productions from *[[Shows/Live TV 
 
 This was one of the most ambitious *TV Tuesdays* shows in terms of production.  To do justice to the source material, the show was very mixed-media, involving not only the usual sound and lighting tech, but also musical numbers, video playback, and (most significantly) both hand and full-body puppets.  [[Performers/Sara Farr|Sara Farr]] of the [[Puppet Improv Project]] handled the show's puppet-related work.
 
-[[Performers/Peter Rogers|Peter Rogers]] reprised his role as Wesley from the earlier production of [[Shows/Live TV Tuesdays -  Buffy|*Buffy*]].  The production brought [[Performers/Heath Allyn|Heath Allyn]] and [[Performers/Adam Mengesha|Adam Mengesha]] into [[Theatres/The Institution|The Institution]]'s orbit; they would both go on to participate in [[Shows/Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
+[[Talk/Peter Rogers|Peter Rogers]] reprised his role as Wesley from the earlier production of [[Shows/Live TV Tuesdays -  Buffy|*Buffy*]].  The production brought [[Performers/Heath Allyn|Heath Allyn]] and [[Performers/Adam Mengesha|Adam Mengesha]] into [[Theatres/The Institution|The Institution]]'s orbit; they would both go on to participate in [[Shows/Live TV Tuesdays -  Firefly|the TV Tuesdays production of *Firefly*]].
 
 ## Cast
 * Angel -- [[Performers/Heath Allyn|Heath Allyn]]
-* Wesley -- [[Performers/Peter Rogers|Peter Rogers]]
+* Wesley -- [[Talk/Peter Rogers|Peter Rogers]]
 * Fred -- Vicki Bui
 * Gunn -- [[Performers/Adam Mengesha|Adam Mengesha]]
 * Lorne -- Joel Reese
@@ -128,7 +128,7 @@ This was one of the most ambitious *TV Tuesdays* shows in terms of production.  
 * [Video of one of the performances.](http://vimeo.com/55953813)
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150715866007265.456324.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/23/12 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150715866007265.456324.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/23/12 rehearsal.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.3064724619845.119619.1315383518&type=3) by [[Michael Yew]] of the 5/4/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.333075650094454.74236.118587218209966&type=1) by [[Roy Moore]] of the 5/16/12 show.
 

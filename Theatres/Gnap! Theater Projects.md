@@ -35,7 +35,7 @@ Its artistic director is [[Performers/Shannon McCormick|Shannon McCormick]].
 * *[[Shows/Showdown|Showdown]]* (2011)
 * *[[Shows/Steam|Steam]]* (2012)
 * *[[Shows/The Sword of Merlin Works|The Sword of Merlin Works]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (2011)
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]* (2011)
 * *[[Shows/The Trouble With Terry|The Trouble With Terry]]*
 
 ## Company Members

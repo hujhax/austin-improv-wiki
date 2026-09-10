@@ -14,19 +14,19 @@ description: "The Austin Improv Wiki is a wiki devoted to the..."
 
 ## People
 * [[Lists/List of Austin Improv Directors|List of Austin Improv Directors]]
-* [[Lists/List of Austin Improv Performers|List of Austin Improv Performers]]
+* [[Talk/List of Austin Improv Performers|List of Austin Improv Performers]]
 * [[Lists/List of Austin Improv Photographers|List of Austin Improv Photographers]]
 * [[Lists/List of Austin Improv Teachers|List of Austin Improv Teachers]]
 * [[Lists/List of Austin Improv Techs|List of Austin Improv Techs]]
 
 ## Performances & Events
-* [[Lists/List of Austin Improv Shows|List of Austin Improv Shows]]
+* [[Talk/List of Austin Improv Shows|List of Austin Improv Shows]]
 * [[Lists/List of Improv Jams and Mixers|List of Improv Jams and Mixers]]
 * [[Lists/List of Austin Improv Festivals|List of Austin Improv Festivals]]
 * [[Lists/List of Austin Improv Annual Events|List of Austin Improv Annual Events]]
 
 ## Other Information
-* [[Lists/List of Austin Improv Troupes|List of Austin Improv Troupes]]
+* [[Talk/List of Austin Improv Troupes|List of Austin Improv Troupes]]
 * [[Lists/List of Austin Improv Theaters|List of Austin Improv Theaters]]
 * [[History of Austin Improv]]
 * [[Lists/List of Austin Improv Online Resources|List of Austin Improv Online Resources]]

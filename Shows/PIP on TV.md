@@ -98,7 +98,7 @@ This show headlined *[[Shows/The Threefer|The Threefer]]* in March 2011.
 ### Photos
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1561097359246.2068922.1589679282&type=3) by [[Roy Moore]] that includes their 3/10/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1546183497266.71492.1315383518&type=3) by [[Michael Yew]] that includes their 3/24/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198554097265.346705.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 3/31/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198554097265.346705.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 3/31/11 show.
 
 ## More Information
 * [The show announcement](http://forum.austinimprov.com/viewtopic.php?t=11652) on [[The Austin Improv Forums]].

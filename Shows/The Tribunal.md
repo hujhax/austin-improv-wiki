@@ -109,11 +109,11 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 * [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]] (Mouse)
 * [[Performers/Jayme Ramsay|Jayme Ramsay]] (Hawk)
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] (Bison)
-* [[Performers/Justin Davis|Justin Davis]] (Rat)
+* [[User/Justin Davis|Justin Davis]] (Rat)
 * [[Performers/Kevin Miller|Kevin Miller]] (Raven)
 * [[Performers/Mike Kinald|Mike Kinald]] (Stork)
 * [[Performers/Mitchell Deane|Mitchell Deane]] (Elk)
-* [[Performers/Thedward Blevins|Thedward Blevins]] (Horse)
+* [[Talk/Thedward Blevins|Thedward Blevins]] (Horse)
 * [[Performers/Valerie Ward|Valerie Ward]] (Peacock)
 
 ### Show #2
@@ -143,7 +143,7 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 * [[Performers/Manuel Duran|Manuel Duran]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Nicole Oliver|Nicole Oliver]]
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * [[Performers/Ruby Willmann|Ruby Willmann]]
 
 ### Show #4
@@ -158,7 +158,7 @@ The fourth performance was part of the *[[Shows/Four Chambers|Four Chambers]]* s
 * [[Performers/Luke Wallens|Luke Wallens]] (Horse)
 * [[Performers/Mike Kinald|Mike Kinald]] (Thug)
 * [[Performers/Rachel Posey Austin|Rachel Posey Austin]] (Mouse)
-* [[Performers/Ryan Austin|Ryan Austin]] (Stork)
+* [[User/Ryan Austin|Ryan Austin]] (Stork)
 * Terra Chirieleison (Hawk)
 
 ## Media

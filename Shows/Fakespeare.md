@@ -209,7 +209,7 @@ image: "File/Fakespeare%20Poster.jpg"
 * [[Performers/Katie Dahm|Katie Dahm]] - Hero, Sexton
 * [[Performers/Katie Van Winkle|Katie Van Winkle]] - Don John, Watchman
 * [[Performers/Mike Ferstenfeld|Mike Ferstenfeld]] - Balthasar, Borachio
-* [[Performers/Peter Rogers|Peter Rogers]] - Don Pedro
+* [[Talk/Peter Rogers|Peter Rogers]] - Don Pedro
 * [[Performers/Taylor Flanagan|Taylor Flanagan]] - Friar, a Boy, Messenger
 * [[Performers/Troy Miller|Troy Miller]] - Conrade, Messenger
 
@@ -226,7 +226,7 @@ image: "File/Fakespeare%20Poster.jpg"
 * [[Performers/Katie Dahm|Katie Dahm]] - First Witch, Lady Macduff, Young Siward
 * [[Performers/Katie Van Winkle|Katie Van Winkle]] - Rosse
 * [[Performers/Mike Ferstenfeld|Mike Ferstenfeld]] - Banquo, Cathness, Seyton
-* [[Performers/Peter Rogers|Peter Rogers]] - Third Murderer, Lennox
+* [[Talk/Peter Rogers|Peter Rogers]] - Third Murderer, Lennox
 * [[Performers/Taylor Flanagan|Taylor Flanagan]] - Malcolm, Fleance
 * [[Performers/Troy Miller|Troy Miller]] - Duncan
 
@@ -278,7 +278,7 @@ image: "File/Fakespeare%20Poster.jpg"
 * Videos of the 8/17/13 show: [short-form half](http://vimeo.com/72755432); [narrative half](http://vimeo.com/72755433).
 
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/shakespeare-set/shakespeare-set.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/shakespeare-set/shakespeare-set.jpg?disposition=download) of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design.
 
 ## More Information
 * [The audition- and casting-announcement thread.](http://forum.austinimprov.com/viewtopic.php?f=3&t=14898)

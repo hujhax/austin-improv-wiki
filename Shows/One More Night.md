@@ -116,7 +116,7 @@ The following are links to songs that were frequently used in the *One More Nigh
 * [Photoset](http://www.facebook.com/media/set/?set=a.1167582561622.2022467.1589679282) by [[Roy Moore]] of the 1/22/10 show.
   * [Another photoset](http://www.smugmug.com/gallery/11119402_fPbDq#!i=779066536&k=sP6Ju) by [[Performers/Jon Bolden|Jon Bolden]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.1168134175412.2022541.1589679282&type=3) by [[Roy Moore]] of the 1/23/10 performance.
-  * [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.312700062264.181592.588952264&type=3) of the same show by [[Performers/Peter Rogers|Peter Rogers]].
+  * [Another photoset](http://www.facebook.com/hujhax/media_set?set=a.312700062264.181592.588952264&type=3) of the same show by [[Talk/Peter Rogers|Peter Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 1/24/10 show.
 * [Photoset of the 1/30 performance](http://www.facebook.com/media/set/?set=a.1173102059606.2023044.1589679282&type=3) by [[Roy Moore]].
 * [Photoset of the 2/5 performance](http://www.facebook.com/media/set/?set=a.1177677093979.2023536.1589679282&type=3) by [[Roy Moore]].

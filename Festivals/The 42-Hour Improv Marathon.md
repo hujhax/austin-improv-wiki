@@ -3,7 +3,7 @@ description: "Third annual Hideout Improv Marathon."
 ---
 **The 42-Hour Improv Marathon** was the third annual [[Festivals/Hideout Improv Marathon|Hideout Improv Marathon]].  It was performed in 2011, running from 6/3/11 to 6/5/11.
 
-Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/Cat Drago|Cat Drago]], decided to start doing improv after watching long stretches of the marathon.  The following year, they would come back to perform in one of the hours of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
+Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/Cat Drago|Cat Drago]], decided to start doing improv after watching long stretches of the marathon.  The following year, they would come back to perform in one of the hours of [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 
 ## Core Players
 * [[Performers/Andy Crouch|Andy Crouch]]
@@ -11,7 +11,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * [Tim Redmond](http://theimprobox.com/tim-redmond/) (guest from Australia)
 * [[Performers/Troy Miller|Troy Miller]]
 
@@ -66,7 +66,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * Videos of hour 21 with [[Troupes/Confidence Men|Confidence Men]]:
   * Scene #1, [[Performers/Jason Vines|Jason Vines]] and [[Performers/Troy Miller|Troy Miller]], ["Women at the Bar"](http://vimeo.com/24965887) 
   * Scene #2, [[Performers/Asaf Ronen|Asaf Ronen]] and [[Performers/Mike Ferstenfeld|Mike Ferstenfeld]], ["Tchaikovsky"](http://vimeo.com/24967781) 
-  * Scene #3,  [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] and [[Performers/Peter Rogers|Peter Rogers]], ["Turtles"](http://vimeo.com/24967846) 
+  * Scene #3,  [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] and [[Talk/Peter Rogers|Peter Rogers]], ["Turtles"](http://vimeo.com/24967846) 
   * Scene #4, [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] and [[Performers/Lisa Jackson|Lisa Jackson]], ["God"](http://vimeo.com/24967941) 
   * Scene #5, [[Performers/Andy Crouch|Andy Crouch]] and [[Performers/Christopher Allen|Christopher Allen]], ["Wigs"](http://vimeo.com/24968081) 
   * Scene #6, [Tim Redmond](http://theimprobox.com/tim-redmond/) and [[Performers/Troy Miller|Troy Miller]], ["Waiting"](http://vimeo.com/24968289) 
@@ -74,7 +74,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
   * Scene #8, [[Performers/Jason Vines|Jason Vines]] and [[Performers/Mike Ferstenfeld|Mike Ferstenfeld]], ["Dreams"](http://vimeo.com/24969210) 
   * Scene #9, [[Performers/Andy Crouch|Andy Crouch]] and [[Performers/Asaf Ronen|Asaf Ronen]], ["Seventh Billing"](http://vimeo.com/24968732) 
   * Scene #10, [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] and [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]], ["Double Trouble"](http://vimeo.com/24968810) 
-  * Scene #11, [[Performers/Christopher Allen|Christopher Allen]] and [[Performers/Peter Rogers|Peter Rogers]], ["High-Wire Act"](http://vimeo.com/24968915) 
+  * Scene #11, [[Performers/Christopher Allen|Christopher Allen]] and [[Talk/Peter Rogers|Peter Rogers]], ["High-Wire Act"](http://vimeo.com/24968915) 
   * Scene #12, [[Performers/Jeff Britt|Jeff Britt]] and [[Performers/Jason Vines|Jason Vines]], ["Integrity"](http://vimeo.com/24968983) 
   * Scene #13, [[Performers/Asaf Ronen|Asaf Ronen]] and [[Performers/Lisa Jackson|Lisa Jackson]], ["Hank Charlie"](http://vimeo.com/24969077) 
   * Scene #14, [[Performers/Mike Ferstenfeld|Mike Ferstenfeld]], [[Performers/Troy Miller|Troy Miller]], & [Tim Redmond](http://theimprobox.com/tim-redmond/), ["Tourists"](http://vimeo.com/24969097) 
@@ -98,7 +98,7 @@ Two attendees at the event, [[Performers/Ryan Hill|Ryan Hill]] and [[Performers/
 * The schedule announcement, [on the forums](http://forum.austinimprov.com/viewtopic.php?t=11947&p=107065) and [on the Hideout web site](http://www.hideouttheatre.com/42-hour-improv-marathon-schedule).
 * [A post about how the marathon raised money for kids' classes](http://www.hideouttheatre.com/raisingmoneyforkids) by [[Performers/Jessica Arjet|Jessica Arjet]].
 * [A story about the marathon](http://www.austinchronicle.com/calendar/comedy/42-hour-improv-marathon-1196265/) in *The Austin Chronicle*.
-* [A recap of the event](http://hujhax.livejournal.com/760057.html) from core player [[Performers/Peter Rogers|Peter Rogers]].
+* [A recap of the event](http://hujhax.livejournal.com/760057.html) from core player [[Talk/Peter Rogers|Peter Rogers]].
 * [A 5/30/12 interview](http://www.hideouttheatre.com/the-game-changer-part-one) with [[Performers/Ryan Hill|Ryan Hill]] about discovering and watching the event.
 * [A 6/1/12 interview](http://www.hideouttheatre.com/the-game-changer-part-two) with [[Performers/Cat Drago|Cat Drago]] about discovering and watching the event.
 Category:Festivals

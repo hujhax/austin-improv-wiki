@@ -26,7 +26,7 @@ image: "File/Jon%20Bolden%20Pic.jpg"
 Jon Bolden is an improv performer, instructor, director, and photographer who works primarily at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. He's one of the co-producers of the Out of Bounds Comedy festival.
 
 ## Teaching
-Jon teaches all levels at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[Performers/Roy Janik|Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
+Jon teaches all levels at [[Theatres/The Hideout Theatre|The Hideout Theatre]]. In the fall of 2014, he will being teaching *Introduction to Improv* and *Improv for Actors* at the State Theater for Acting. Jon and [[User/Roy Janik|Roy Janik]] have developed a workshop series on being positive called *The Power of Positivity*.
 
 Jon has also taught workshops in Alaska, Seattle, Oklahoma, Ohio, Houston, Tokyo and Osaka Japan, and Washington DC.
 
@@ -47,11 +47,11 @@ Jon is an instructor at The Hideout Theatre and the State Theater for Acting. He
 * [[Troupes/RUSH|RUSH]]
 
 ## Shows
-* *[[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]*
+* *[[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]*
 * *[[Shows/After School Improv|After School Improv]]*
 * *[[Shows/The Andersons|The Andersons]]*
 * *[[Shows/Austin Secrets|Austin Secrets]]*
-* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]] (Director)*
+* *[[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]] (Director)*
 * *[[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]*
 * *[[Shows/False Matters|False Matters]]*
 * *[[Shows/Heist|Heist]]*

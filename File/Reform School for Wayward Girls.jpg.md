@@ -8,7 +8,7 @@ Poster for *[[Shows/Reform School For Wayward Girls|Reform School For Wayward Gi
 
 Photo by [[Steve Rogers]].
 
-Art by [[Performers/Kaci Beeler|Kaci Beeler]].
+Art by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

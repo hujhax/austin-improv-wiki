@@ -94,11 +94,11 @@ The show ran once as a *[[Shows/Free Fringe|Free Fringe]]* on 6/14/12, and had a
 ## Cast
 Improvisors played the central cast of *MythBusters*, occasionally subbing out as flex characters.
 * Jamie Hyneman - [[Performers/Jeremy Lamb|Jeremy Lamb]] 
-* Adam Savage - [[Performers/Jason Vines|Jason Vines]] (6/14/12) / [[Performers/Ryan Austin|Ryan Austin]] (3/22/13)
+* Adam Savage - [[Performers/Jason Vines|Jason Vines]] (6/14/12) / [[User/Ryan Austin|Ryan Austin]] (3/22/13)
 * Tory Belleci - [[Performers/Eric Heiberg|Eric Heiberg]]
 * Kari Byron - [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * Grant Imahara - [[Performers/Gene Joe|Gene Joe]]
-* The Narrator - [[Performers/Peter Rogers|Peter Rogers]]
+* The Narrator - [[Talk/Peter Rogers|Peter Rogers]]
 
 ## Media
 * [Video of the 6/14/12 show.](http://vimeo.com/44089819)

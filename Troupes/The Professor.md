@@ -143,11 +143,11 @@ In the first two seasons, no scenes ever occurred in TARDIS.  Onstage, the exit 
 Typically, one actor plays the Professor for a contiguous run of shows, with different actors playing (pre-determined) "companion" characters (or, in rare cases, pairs of companions) from week to week.
 
 ## History
-Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329](http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)  In June 2011, [[Performers/Justin Bozied|Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[Shows/The Threefer|The Threefer]], and played an 8pm show at the Hideout two days later.
+Prior to the founding of the troupe, the idea of "Improvised *Doctor Who*" had long been floating around in the improv community.[http://forum.austinimprov.com/viewtopic.php?f=4&t=11329](http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)(http://forum.austinimprov.com/viewtopic.php?f=4&t=11329)  In June 2011, [[Performers/Justin Bozied|Justin Bozied]] posted a Facebook status inviting all interested parties to join him for an improv take on *Doctor Who*.  The Professor then premiered at [[Theatres/The Hideout Theatre|The Hideout Theatre]] on Thursday, June 23, 2011 as part of [[Shows/The Threefer|The Threefer]], and played an 8pm show at the Hideout two days later.
 
-Its first full run was a six-week set of Friday shows at [[Theatres/The Institution Theater|The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] (produced by [[Theatres/Gnap!|Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738](http://forum.austinimprov.com/viewtopic.php?t=13738)
+Its first full run was a six-week set of Friday shows at [[Theatres/The Institution Theater|The Institution Theater]] from October 14, 2011 to November 18, 2011.  Its second run was at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]] (produced by [[Theatres/Gnap!|Gnap!]]), on Fridays and Saturdays from March 23, 2012 to April 21, 2012.  In between runs, the troupe played one-off shows, including *[[Shows/The TV Set|The TV Set]]* in July 2012[http://forum.austinimprov.com/viewtopic.php?t=13738](http://forum.austinimprov.com/viewtopic.php?t=13738)(http://forum.austinimprov.com/viewtopic.php?t=13738)
 
-At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as director.  At the start of 2013, [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[Shows/The TV Set|The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613](http://forum.austinimprov.com/viewtopic.php?f=20&t=14613).  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
+At the end of 2012, [[Performers/Justin Bozied|Justin Bozied]] stepped down as director.  At the start of 2013, [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] took over as director, and the troupe resumed performing one-off shows like [[Shows/The TV Set|The TV Set]][http://forum.austinimprov.com/viewtopic.php?f=20&t=14613](http://forum.austinimprov.com/viewtopic.php?f=20&t=14613)(http://forum.austinimprov.com/viewtopic.php?f=20&t=14613).  For their third run in late 2013, Ferstenfeld incorporated scene-painting, the interior of the T.A.R.D.I.S., voice modulation, and homemade robots, drawing more influence from "classic" *Doctor Who*, 1963-1989, the years preceding Russell T Davies and Steven Moffat.
 
 ## Casts
 ### "Season Zero"
@@ -179,7 +179,7 @@ The first run of shows, from October to November of 2011, featured [[Performers/
 ### Season Two
 <a class="internal-link" href="../File/The Fourth Professor.jpg.md"><img src="../File/The%20Fourth%20Professor.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 <a class="internal-link" href="../File/The Fifth Professor.jpg.md"><img src="../File/The%20Fifth%20Professor.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
-The second run of shows, from March to April of 2012, introduced [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] as the Fourth and Fifth Professors, with [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] also reprising his take on the role.
+The second run of shows, from March to April of 2012, introduced [[Talk/Peter Rogers|Peter Rogers]] and [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]] as the Fourth and Fifth Professors, with [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] also reprising his take on the role.
 
 * [[Performers/Clay Towery|Clay Towery]]
 * [[Performers/Colin Bates|Colin Bates]]
@@ -189,7 +189,7 @@ The second run of shows, from March to April of 2012, introduced [[Performers/Pe
 * [[Performers/Lacy Shawn|Lacy Shawn]]
 * [[Performers/Lindsey Reeves|Lindsey Reeves]]
 * [[Performers/Quinn Buckner|Quinn Buckner]]
-* [[Performers/Ryan Austin|Ryan Austin]]
+* [[User/Ryan Austin|Ryan Austin]]
 
 ### Season Three
 Season three ran on Saturdays at [[Theatres/The Institution Theater|The Institution Theater]] in November 2013.
@@ -199,7 +199,7 @@ Season three ran on Saturdays at [[Theatres/The Institution Theater|The Institut
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
 * [[Performers/Lacy Shawn|Lacy Shawn]]
 * [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]]
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * [[Performers/Quinn Buckner|Quinn Buckner]]
 * [[Performers/Steve Harwood|Steve Harwood]]
 
@@ -218,9 +218,9 @@ The run featured tech by [[Michael Yew]].
 * [Video](http://www.viddler.com/v/3a572642) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 12/17/11 performance (Christmas Special: "We Three Improvisors").
 * [Video](http://www.viddler.com/v/d22be4a7) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 3/30/12 performance ("My Way").
 * [Video](http://www.viddler.com/v/e328a7) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 4/2/12 performance ("Chesapeekaboo!").
-* [Video](http://vimeo.com/40819538) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/20/12 performance ("All the World's a Stage?").
+* [Video](http://vimeo.com/40819538) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/20/12 performance ("All the World's a Stage?").
 * [Video](http://www.youtube.com/watch?v=_hoIsN3l7sc) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 4/21/12 performance (season two finale).
-* [Video](http://vimeo.com/48524413) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/29/12 performance at [[Theatres/The Institution|The Institution]].
+* [Video](http://vimeo.com/48524413) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/29/12 performance at [[Theatres/The Institution|The Institution]].
 * [Video](http://www.youtube.com/watch?v=gZuQFuFSpB8) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Video](http://vimeo.com/62584250) by [[Performers/Michael Ferstenfeld|Michael Ferstenfeld]] of the 1/25/13 performance at [[Theatres/The Institution Theater|The Institution Theater]].
 * Videos of the 8/28/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]]: [story #1](http://vimeo.com/73437075), [story #2](http://vimeo.com/73480143)
@@ -237,7 +237,7 @@ The run featured tech by [[Michael Yew]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.302776849791001.68467.118587218209966&type=3) by [[Roy Moore]] of the 3/30/12 performance ("My Way").
   * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.2866616507266.115960.1315383518&type=3) by [[Michael Yew]] of the same show.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.448683378486496.100405.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 7/20/12 performance in *[[Shows/The TV Set|The TV Set]]*.
-* [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
+* [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291685042265.521168.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] from the 9/29/12 performance at Improvaganza, in Honolulu ("The Empire of the Sea").
 * [Photoset](http://www.facebook.com/media/set/?set=a.4125388415777.142093.1315383518&type=1) by [[Michael Yew]] of the 1/18/13 performance at [[Shows/The TV Set|The TV Set]].
 * [Photoset](http://cwcreations.smugmug.com/Improv-2013/Institution/2013-05-05-NerdProv/) by [[Performers/Chad Wellington|Chad Wellington]] that includes their 5/5/13 performance at "Nerd Nite" at [[Theatres/The Institution Theater|The Institution Theater]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.529335580468459.1073741851.118587218209966&type=3) by [[Roy Moore]] that includes the 8/28/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
@@ -256,7 +256,7 @@ The run featured tech by [[Michael Yew]].
 * [Cast announcement for season one.](http://forum.austinimprov.com/viewtopic.php?p=110925)
 * [Cast announcement for season two.](http://forum.austinimprov.com/viewtopic.php?t=12879)
 * [Show announcement for season two.](http://forum.austinimprov.com/viewtopic.php?t=13189)
-* [2012 Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041810) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[Performers/Ryan Austin|Ryan Austin]], [[Performers/Emily Breedlove|Emily Breedlove]], [[Performers/Colin Thomas Bates|Colin Thomas Bates]], and [[Performers/Peter Rogers|Peter Rogers]]. on *[[Troupes/The Theft Forum|The Theft Forum]]*.
+* [2012 Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2041810) with director [[Performers/Justin Bozied|Justin Bozied]] and cast members [[User/Ryan Austin|Ryan Austin]], [[Performers/Emily Breedlove|Emily Breedlove]], [[Performers/Colin Thomas Bates|Colin Thomas Bates]], and [[Talk/Peter Rogers|Peter Rogers]]. on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 * [A 2012 Tor.com blog story about season two.](http://www.tor.com/blogs/2012/04/time-and-relative-dimensions-in-improv-the-professor)
 * [Facebook event for the third season.](http://www.facebook.com/events/1424792731066029/)
 

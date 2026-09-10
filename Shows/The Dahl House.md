@@ -121,7 +121,7 @@ Long version from the [show page](http://www.hideouttheatre.com/shows/TheDahlHou
 ## Media
 ### Photos
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.880565448640608.1073741880.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of a show.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152690164257265.1073741854.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/16/14 show.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152690164257265.1073741854.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/16/14 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10203901007388319.1073741933.1315383518&type=3) by [[Michael Yew]] of the 4/11/15 performance at [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
 ## More Information

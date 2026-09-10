@@ -77,7 +77,7 @@ image: "File/Century.jpg"
 **Century** was an improv troupe that performed a monoscene format with a historical suggestion.
 
 ## History
-After the four members performed in [[Shows/The Next Chapter|The Next Chapter]], directed by [[Performers/Justin Davis|Justin Davis]], [[Performers/Brad Hawkins|Brad Hawkins]] suggested they continue as an independent troupe.
+After the four members performed in [[Shows/The Next Chapter|The Next Chapter]], directed by [[User/Justin Davis|Justin Davis]], [[Performers/Brad Hawkins|Brad Hawkins]] suggested they continue as an independent troupe.
 
 The troupe decided to call it quits in mid 2014.
 

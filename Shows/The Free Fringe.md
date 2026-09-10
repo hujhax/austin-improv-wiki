@@ -43,9 +43,9 @@ The show is hosted by [[Performers/Jessica Arjet|Jessica Arjet]].   [[Troupes/Fi
 Many of the experiments put up for the Free Fringe have met with unexpected success and become recurring shows.
 
 ## History
-The Fringe premiered on 1/5/12, shortly after [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] travelled to the Edinburgh Fringe Festival, and is patterned after that festival's own Free Fringe.[http://freefringe.org.uk/](http://freefringe.org.uk/)
+The Fringe premiered on 1/5/12, shortly after [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] travelled to the Edinburgh Fringe Festival, and is patterned after that festival's own Free Fringe.[http://freefringe.org.uk/](http://freefringe.org.uk/)(http://freefringe.org.uk/)
 
-For a list of all formats performed in *The Free Fringe*, see the [[Lists/List of Free Fringes|List of Free Fringes]], which also includes all posted media of the show.
+For a list of all formats performed in *The Free Fringe*, see the [[Talk/List of Free Fringes|List of Free Fringes]], which also includes all posted media of the show.
 
 ## More Information
 * [The show's site.](http://www.hideouttheatre.com/shows/thefreefringe)

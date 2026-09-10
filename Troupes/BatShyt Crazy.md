@@ -95,7 +95,7 @@ In 2015, they took the stage again to perform the foul mouthed Christmas musical
 * [Video](https://vimeo.com/118369303) by [[Troupes/Topping Haggerty|Topping Haggerty]] of their 2015 FronteraFest show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152671362812265.1073741853.588952264&type=3) of their 8/1/14 show by [[Performers/Peter Rogers|Peter Rogers]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152671362812265.1073741853.588952264&type=3) of their 8/1/14 show by [[Talk/Peter Rogers|Peter Rogers]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.10202412126407225.1073741897.1315383518&type=3) of their 8/8/14 show by [[Michael Yew]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.790537527676432.1073742044.221927764537414&type=3) of their 8/22/14 show by [[Steve Rogers]].
 

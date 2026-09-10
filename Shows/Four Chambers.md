@@ -62,7 +62,7 @@ http://leavingmundania.com/2014/08/17/j-tuomas-harviainen-larp-collection/
 * [[Performers/Luke Wallens|Luke Wallens]]
 * [[Performers/Chris Villafano|Chris Villafano]]
 * [[Performers/David Lampe|David Lampe]]
-* [[Performers/Ryan Austin|Ryan Austin]]
+* [[User/Ryan Austin|Ryan Austin]]
 * [[Performers/Rachel Posey Austin|Rachel Posey Austin]]
 
 ### Previous Occupants
@@ -95,7 +95,7 @@ This show played on May 23, 2015.
 * Dr. Dörflinger: [[Performers/Emily Breedlove|Emily Breedlove]]
 * Chandrakar: [[Performers/Sushant Sethi|Sushant Sethi]]
 * Major Van Der Meer: [[Performers/Brad Hawkins|Brad Hawkins]]
-* Simms: [[Performers/Peter Rogers|Peter Rogers]]
+* Simms: [[Talk/Peter Rogers|Peter Rogers]]
 * Brasseau: [[Performers/Ryan Hill|Ryan Hill]]
 
 ### Icebox
@@ -111,7 +111,7 @@ This show played on May 30, 2015.
 * [[Performers/Chad Wellington|Chad Wellington]]
 * [[Performers/Heidi Rogers|Heidi Rogers]]
 * [[Performers/JR Zambrano|JR Zambrano]]
-* [[Performers/Justin Davis|Justin Davis]]
+* [[User/Justin Davis|Justin Davis]]
 * [[Performers/Jeanette Jones|Jeanette Jones]]
 * [[Performers/Mike Kinald|Mike Kinald]]
 

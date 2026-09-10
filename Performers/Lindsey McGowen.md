@@ -128,7 +128,7 @@ Outside of improv, Lindsey is a professional Project Manager and is active in th
 
 ## More Information
 * [Lindsey's wikipella page.](http://wikipella.org/wiki/Lindsey_McGowen)
-* Interviews by [[Performers/Andrew Buck|Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/](http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/)
+* Interviews by [[Performers/Andrew Buck|Andrew Buck]]: [http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/](http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/)(http://yesandrew.com/the-sunday-interview-lindsey-mcgowen/)
 
 [[Category/Techs|McGowen]]
 [[Category/Performers|Category:Performers]]

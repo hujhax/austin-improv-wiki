@@ -182,7 +182,7 @@ The director's initial description of the show from the audition announcement:
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/115893524) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/3/15 premiere.
+* [Video](http://vimeo.com/115893524) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/3/15 premiere.
   * [The corresponding playlist](http://eilanora.livejournal.com/11890.html) used by substitute tech [[Performers/Lindsey McGowen|Lindsey McGowen]].
 * [Video](http://vimeo.com/117755059) of the 1/24/15 show.
 * [Video](http://vimeo.com/118672454) of the 1/31/15 show.
@@ -206,7 +206,7 @@ The director's initial description of the show from the audition announcement:
 * [Radio interview](http://www.pinchbottom.org/Slappy/interviews/slappycast%20-%20Wanderlust%20full%20interview.mp3) with [[Performers/Aaron Saenz|Aaron Saenz]], [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], [[Performers/Cat Drago|Cat Drago]], and [[Performers/Chris Albano|Chris Albano]] on *Slappy Pinchbottom's Unnatural Preoccupation*.
 * [blogpost](http://www.hideouttheatre.com/the-journey-to-wanderlustHideout) by [[Performers/Ruby Willmann|Ruby Willmann]] about the production.
 * [Hideout blogpost](http://www.hideouttheatre.com/reflectionsonwanderlust) by [[Performers/Ceej Allen|Ceej Allen]] about the production.
-* [Hideout blogpost](http://www.hideouttheatre.com/ryan_austin_onwanderlust) by [[Performers/Ryan Austin|Ryan Austin]] about the production.
+* [Hideout blogpost](http://www.hideouttheatre.com/ryan_austin_onwanderlust) by [[User/Ryan Austin|Ryan Austin]] about the production.
 * [Hideout blogpost](http://www.hideouttheatre.com/nicole-oliver-grand-canyon-flashback) by [[Performers/Nicole Oliver|Nicole Oliver]] about the production.
 * [Hideout blogpost](http://www.hideouttheatre.com/cat-drago-bedtime-storytelling) by [[Performers/Cat Drago|Cat Drago]] about the production.
 

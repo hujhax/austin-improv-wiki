@@ -29,7 +29,7 @@ image: "File/Norman%20tran.jpg"
 *This article is a stub. You can help the Austin Improv Wiki by editing it.*
 
 ## Shows
-* *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]* (2014)
+* *[[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]]* (2014)
 * *[[Shows/The Source|The Source]]* (2015)
 
 ## Troupes

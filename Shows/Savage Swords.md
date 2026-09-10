@@ -150,14 +150,14 @@ From the show announcement:
 
 
 ### Narrators and Protagonists
-* 1/9/16: narrated by [[Performers/Peter Rogers|Peter Rogers]], featuring [[Performers/Manuel Duran|Manuel Duran]].
+* 1/9/16: narrated by [[Talk/Peter Rogers|Peter Rogers]], featuring [[Performers/Manuel Duran|Manuel Duran]].
 * 1/16/16: narrated by [[Performers/J. R. Zambrano|J. R. Zambrano]], featuring [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]].
 * 1/23/16: narrated by [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]], featuring [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]].
 * 1/30/16: narrated by [[Performers/Shannon McCormick|Shannon McCormick]], featuring [[Performers/Suzanne Link|Suzanne Link]].
 * 2/6/16: narrated by [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], featuring [[Performers/Ace Manning|Ace Manning]].
 * 2/13/16: narrated by [[Performers/Jayme Ramsay|Jayme Ramsay]], featuring [[Performers/Rosemarie Frezza|Rosemarie Frezza]].
 * 2/20/16: narrated by J. M. Specht, featuring [[Performers/J. R. Zambrano|J. R. Zambrano]].
-* 2/27/16: narrated by [[Performers/Roy Janik|Roy Janik]], featuring [[Performers/Shannon McCormick|Shannon McCormick]].
+* 2/27/16: narrated by [[User/Roy Janik|Roy Janik]], featuring [[Performers/Shannon McCormick|Shannon McCormick]].
 
 ## Media
 ### Photos

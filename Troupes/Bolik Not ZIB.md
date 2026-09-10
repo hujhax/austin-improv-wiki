@@ -1,5 +1,5 @@
 ## Summary
-Publicity photo of [[Bolik Not ZIB]].
+Publicity photo of [[Troupes/Bolik Not ZIB]].
 
 Photo by: unknown.
 ## Licensing

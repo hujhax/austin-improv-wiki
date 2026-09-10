@@ -1,7 +1,7 @@
 ---
 redirect: "Shows/Totally Improvised, 90210"
 ---
-#REDIRECT [[Shows/Totally Improvised, 90210]]
+#REDIRECT [[Talk/Totally Improvised, 90210]]
 
 <script>
   (function() {

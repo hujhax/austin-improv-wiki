@@ -24,8 +24,8 @@ They went on hiatus through late 2012 and early 2013, as [[Theatres/Merlin Works
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.441741597264.214518.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/16/10 mixer.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150265172502265.371165.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/15/11 mixer.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150344124197265.394763.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/31/11 mixer.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.441741597264.214518.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/16/10 mixer.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150265172502265.371165.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/15/11 mixer.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150344124197265.394763.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 7/31/11 mixer.
 
 [[Category/Jams and Mixers|Category:Jams and Mixers]]

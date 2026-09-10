@@ -83,7 +83,7 @@ image: "File/Lgs%20grouphug.jpg"
 
 Together, their knowledge includes the rules of curling, the intricacies of motion graphics, the proper way to handle a dangling participle, and how to bake a Baked Alaska.
 
-They have an original prep-school blazer crest designed by troupe member [[Performers/Ryan Austin|Ryan Austin]] that they all wear on their navy blazers when they perform.
+They have an original prep-school blazer crest designed by troupe member [[User/Ryan Austin|Ryan Austin]] that they all wear on their navy blazers when they perform.
 
 ## Formats
 Local Genius Society has presented a number of different improv formats, including...

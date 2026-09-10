@@ -6,7 +6,7 @@ description: "Deano Jones, performing in The Violet Underbelly on 3/26/11."
 ## Summary
 [[Performers/Deano Jones|Deano Jones]], performing in *[[Shows/The Violet Underbelly|The Violet Underbelly]]* on 3/26/11.
 
-Photo by [[Performers/Peter Rogers|Peter Rogers]] from [this photoset](http://www.facebook.com/media/set/?set=a.10150191338757265.344586.588952264&type=3).
+Photo by [[Talk/Peter Rogers|Peter Rogers]] from [this photoset](http://www.facebook.com/media/set/?set=a.10150191338757265.344586.588952264&type=3).
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

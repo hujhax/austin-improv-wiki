@@ -146,22 +146,22 @@ After its main run, the show was performed once at [[Festivals/The 2011 Improvis
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/23047888) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/12/11 performance.
-* [Video](http://vimeo.com/22241420) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/2/11 performance.
+* [Video](http://vimeo.com/23047888) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/12/11 performance.
+* [Video](http://vimeo.com/22241420) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/2/11 performance.
 * [Video](http://vimeo.com/23005458) by Stephen Reynolds of the 4/9/11 performance.
-* [Video](http://vimeo.com/24441911) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/16/11 performance.
-* [Video](http://vimeo.com/23268142) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/23/11 performance.
+* [Video](http://vimeo.com/24441911) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/16/11 performance.
+* [Video](http://vimeo.com/23268142) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/23/11 performance.
 * [Video](http://vimeo.com/24140520) by Stephen Reynolds of the 4/30/11 performance.
 * [Video](http://vimeo.com/26180322) by [[Theatres/The Hideout Theatre|The Hideout Theatre]] of the 7/2/11 performance at [[Festivals/The 2011 Improvised Play Festival|The 2011 Improvised Play Festival]].
-* [Video](http://vimeo.com/44619659) by [[Performers/Peter Rogers|Peter Rogers]] of "Violet Matters", the 6/23/12 mash-up with [[Shows/False Matters|False Matters]].
+* [Video](http://vimeo.com/44619659) by [[Talk/Peter Rogers|Peter Rogers]] of "Violet Matters", the 6/23/12 mash-up with [[Shows/False Matters|False Matters]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.10150158191992265.332249.588952264&type=1) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/16/11 rehearsal.
-* [Photoset](http://www.facebook.com/media/set/?set=a.10150164551402265.334935.588952264&type=1) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/23/11 rehearsal.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150169239482265.336902.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/2/11 rehearsal.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150191338757265.344586.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 3/26/11 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10150158191992265.332249.588952264&type=1) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/16/11 rehearsal.
+* [Photoset](http://www.facebook.com/media/set/?set=a.10150164551402265.334935.588952264&type=1) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/23/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150169239482265.336902.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/2/11 rehearsal.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150191338757265.344586.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 3/26/11 performance.
   * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes that show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198561812265.346709.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/1/11 show prep.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198561812265.346709.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/1/11 show prep.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.117825398298492.24437.100002130980897&type=3) by [[Steve Rogers]] of their 4/16/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1661395897504.82683.1315383518&type=3) by [[Michael Yew]] of the 4/23/11 performance.
 
@@ -170,7 +170,7 @@ After its main run, the show was performed once at [[Festivals/The 2011 Improvis
 * [Trailer](http://vimeo.com/22258453) by [[Performers/Deano Jones|Deano Jones]].
 
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_3/photo%202_3.jpg?disposition=download),[2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/violet_underbelly/violet_underbelly.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_3/photo%203_3.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_2/photo%201_2.jpg?disposition=download).
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_3/photo%202_3.jpg?disposition=download),[2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/violet_underbelly/violet_underbelly.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_3/photo%203_3.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201_2/photo%201_2.jpg?disposition=download).
 * [The director receiving a gift from the cast after the run.](http://vimeo.com/24086640)
 
 ## More Information

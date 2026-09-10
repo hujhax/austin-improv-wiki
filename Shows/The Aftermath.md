@@ -148,7 +148,7 @@ image: "File/The%20Aftermath.jpg"
 
 The soundtrack was a mix of acoustic guitar and percussion.
 
-[[Performers/Kaci Beeler|Kaci Beeler]] designed the show's set.
+[[Talk/Kaci Beeler|Kaci Beeler]] designed the show's set.
 
 In light of the announcements of *[[Shows/RISEN|RISEN]]* and *[[Shows/The Organ Trail|The Organ Trail]]*, director [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] instituted a soft "no zombies" rule for the run.
 
@@ -166,7 +166,7 @@ From the show's web page:
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/111300281) by [[Performers/Peter Rogers|Peter Rogers]] of the 11/1/14 show.
+* [Video](http://vimeo.com/111300281) by [[Talk/Peter Rogers|Peter Rogers]] of the 11/1/14 show.
 
 ### Photos
 * [Photoset](http://www.facebook.com/media/set/?set=a.821236394606545.1073742087.221927764537414&type=3) by [[Steve Rogers]] of the 10/11/14 performance.

@@ -87,7 +87,7 @@ image: "File/Girl%20Embassy%20World%20Team.jpg"
 * [[Performers/Courtney Hopkin|Courtney Hopkin]] - Blodeuwedd
 * [[Performers/Curtis Luciani|Curtis Luciani]] -  Hampton Percival Suede
 * [[Performers/Kacey Samiee|Kacey Samiee]] - Rosita
-* [[Performers/Kaci Beeler|Kaci Beeler]] - Miloska
+* [[Talk/Kaci Beeler|Kaci Beeler]] - Miloska
 * [[Performers/Sarah Marie Curry|Sarah Marie Curry]] - Sarah Jo
 * [[Performers/Valerie Ward|Valerie Ward]] - Agnes
 

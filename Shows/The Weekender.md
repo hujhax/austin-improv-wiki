@@ -36,7 +36,7 @@ image: "File/Weekender%20Publicity.jpg"
 ## Summary
 *The Weekender* happens every Sunday at 8pm at [[Theatres/The Hideout|The Hideout]].  It is a triple bill with two student acts followed by an experienced headliner act.
 
-The headliner acts are scheduled by [[Performers/Roy Janik|Roy Janik]], who puts out a call for applications every two months.
+The headliner acts are scheduled by [[User/Roy Janik|Roy Janik]], who puts out a call for applications every two months.
 
 ## History
 *The Weekender* began in May 2010 under the name "The Sunday Showcase".  By July 2010, it had been renamed "The Weekender".
@@ -47,7 +47,7 @@ The headliner acts are scheduled by [[Performers/Roy Janik|Roy Janik]], who puts
 
 ## More Information
 * [The show's site.](http://www.hideouttheatre.com/shows/TheWeekender)
-* [the first call for submissions for *The Weekender*](http://forum.austinimprov.com/viewtopic.php?t=10520), from [[Performers/Roy Janik|Roy Janik]].
+* [the first call for submissions for *The Weekender*](http://forum.austinimprov.com/viewtopic.php?t=10520), from [[User/Roy Janik|Roy Janik]].
 
 Weekender
 Category:The Hideout Theatre

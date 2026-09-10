@@ -1,7 +1,7 @@
 ---
 redirect: "Talk/Erica Lies"
 ---
-#REDIRECT [[Talk/Erica Lies]]
+#REDIRECT [[Performers/Erica Lies]]
 
 <script>
   (function() {

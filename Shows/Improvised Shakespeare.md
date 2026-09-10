@@ -104,9 +104,9 @@ The 6/13/09 show featured an all-female cast.
 * [[Performers/Asaf Ronen|Asaf Ronen]]
 * [[Performers/Curtis Luciani|Curtis Luciani]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Pseudonyms|Madeline M.]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Shana Merlin|Shana Merlin]]
 * [[Performers/Troy Miller|Troy Miller]]
 * [[Performers/Valerie Ward|Valerie Ward]]
@@ -114,12 +114,12 @@ The 6/13/09 show featured an all-female cast.
 #### 2009 Run
 * [[Performers/Audrey Rachel Sansom|Audrey Rachel Sansom]]
 * [[Performers/Curtis Luciani|Curtis Luciani]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Meghan Wolff|Meghan Wolff]]
-* [[Performers/Peter Rogers|Peter Rogers]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[Talk/Peter Rogers|Peter Rogers]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Troy Miller|Troy Miller]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 * [[Performers/Jessica Arjet|Jessica Arjet]]
@@ -129,15 +129,15 @@ The 6/13/09 show featured an all-female cast.
 * [Video](http://blip.tv/out-of-bounds-comedy-festival/improvised-shakespeare-mon-8pm-svt-apples-stage-1235251)  of their 9/1/08 show at [[Festivals/The 2008 Out of Bounds Comedy Festival|The 2008 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.114136552264.110678.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 5/16/09 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.124348512264.117182.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/13/09 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.127238547264.118948.588952264&type=1) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/20/09 performance.
-* [Photoset](http://www.facebook.com/media/set/?set=a.129979382264.120568.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/27/09 performance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.114136552264.110678.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 5/16/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.124348512264.117182.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/13/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.127238547264.118948.588952264&type=1) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/20/09 performance.
+* [Photoset](http://www.facebook.com/media/set/?set=a.129979382264.120568.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/27/09 performance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/5/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
 ### Other
-* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2468047649_d0a190055c/2468047649_d0a190055c.jpg?disposition=download) by [[Performers/Kaci Beeler|Kaci Beeler]] from the 2008 run.
-* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/DSCF2681/DSCF2681.jpg?disposition=download) by [[Performers/Kaci Beeler|Kaci Beeler]] from the 2009 run.
+* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/2468047649_d0a190055c/2468047649_d0a190055c.jpg?disposition=download) by [[Talk/Kaci Beeler|Kaci Beeler]] from the 2008 run.
+* [Set photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/DSCF2681/DSCF2681.jpg?disposition=download) by [[Talk/Kaci Beeler|Kaci Beeler]] from the 2009 run.
 
 ## More Information
 * [The announcement of the first run](http://forum.austinimprov.com/viewtopic.php?f=3&t=4930) on [[The AIC Forums]].

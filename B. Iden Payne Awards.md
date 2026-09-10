@@ -10,7 +10,7 @@ The B. Iden Payne awards are given annually in the fall by the B. Iden Payne awa
 
 Only scripted productions were included in the ceremonies until 2006, when Austin Circle of Theatres director Latifah Taormina invited the improv community to become a part of the awards.  The first year, all voting was done in a single round, with each improvisor delivering their ballot with a single nomination via email or paper to [[Performers/Rachel Madorsky|Rachel Madorsky]] and [[Performers/Valerie Ward|Valerie Ward]], who took care of the voting and nominations.  The top five nominees were announced on September 25th, and the winner was announced at the awards ceremony on October 29th.  The official title of the award was "The Rudy Kloptic Award for Outstanding Improvisational Theatre Ensemble," named after Rudy Kloptic (need more info on who he was).
 
-In 2007, voting was again done through a single ballot, this time via online anonymous voting system set up by [[Performers/Roy Janik|Roy Janik]] using [[Performers/Bob Apthorpe|Bob Apthorpe]]'s voting program.  The top five nominees were announced on October 20 and the winner on October 21. Voting was open by invitation to all improvisors and students active at that time, approximately 125 people total.
+In 2007, voting was again done through a single ballot, this time via online anonymous voting system set up by [[User/Roy Janik|Roy Janik]] using [[User/Bob Apthorpe|Bob Apthorpe]]'s voting program.  The top five nominees were announced on October 20 and the winner on October 21. Voting was open by invitation to all improvisors and students active at that time, approximately 125 people total.
 
 In 2008, the nominations process and award format was changed.  Instead of an outstanding ensemble/troupe/company, voters could nominate up to 8 individuals to receive recognition and share the award as part of The Improv Dream Team - a collection of eight individuals who are highly respected both on and off stage.  Nominations were collected from performers and students via email, organized by [[Performers/Chris Trew|Chris Trew]].  No nominees were announced, just the top 8 winners at that year's ceremony.
 
@@ -72,7 +72,7 @@ The nominees would then be voted on by any monetary supporter of the Austin Crea
 ### 2007-2008 Season
 Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre, both on stage and in the community.)
 
-[[Performers/Dave Buckman|Dave Buckman]], [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Tami Nelson|Tami Nelson]], [[Performers/Chris Trew|Chris Trew]], [[Performers/Michael Jastroch|Michael Jastroch]], [[Performers/Shana Merlin|Shana Merlin]], [[Performers/Roy Janik|Roy Janik]], and Justin York.
+[[Performers/Dave Buckman|Dave Buckman]], [[Performers/Asaf Ronen|Asaf Ronen]], [[Performers/Tami Nelson|Tami Nelson]], [[Performers/Chris Trew|Chris Trew]], [[Performers/Michael Jastroch|Michael Jastroch]], [[Performers/Shana Merlin|Shana Merlin]], [[User/Roy Janik|Roy Janik]], and Justin York.
 
 
 ### 2008-2009 Season
@@ -148,8 +148,8 @@ Austin's "Improvisational Dream Team" ( the best reps of improvisational theatre
     * [[Performers/Jayme Ramsey|Jayme Ramsey]] and [[Performers/Marc Majcher|Marc Majcher]] (*[[Shows/Hurly Burly|Hurly Burly]]*)
     * [[Performers/Valerie Ward|Valerie Ward]] (*[[Shows/A Bedtime Gorey|A Bedtime Gorey]]*)
     * [[Performers/Kareem Badr|Kareem Badr]] and [[Performers/Shannon McCormick|Shannon McCormick]] (*[[Shows/Kenjutsu|Kenjutsu]]*)
-    * [[Performers/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]] (*[[Shows/I Love You So Much|I Love You So Much]]*) 
-    * [[Performers/Roy Janik|Roy Janik]] and [[Performers/Lisa Jackson|Lisa Jackson]] (*[[Shows/Austin Secrets|Austin Secrets]]*)
+    * [[User/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]] (*[[Shows/I Love You So Much|I Love You So Much]]*) 
+    * [[User/Roy Janik|Roy Janik]] and [[Performers/Lisa Jackson|Lisa Jackson]] (*[[Shows/Austin Secrets|Austin Secrets]]*)
 
 
 

@@ -32,6 +32,6 @@ image: "File/Kimberly%20Cox%20Pic.jpg"
 
 ## Shows
 * *[[Shows/Rock|Rock]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]*
 
 [[Category/Performers|Cox]]

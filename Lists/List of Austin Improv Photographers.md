@@ -14,6 +14,6 @@ This is a list of photographers and videographers who commonly work with the Aus
 * [[Roy Moore|Roy Moore]]
 * [[Performers/Menelaos Prokos|Menelaos Prokos]]
 * [[Steve Rogers|Steve Rogers]]
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * [[Performers/Michael Thomas|Michael Thomas]]
 * [[Performers/Chad Wellington|Chad Wellington]]

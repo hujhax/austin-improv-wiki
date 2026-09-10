@@ -17,7 +17,7 @@ The event was first held in 2007. Same Year's Eve was created by Valerie Ward as
 
 ### Photos
 * Photosets by [[Roy Moore]] of the Same Year's Eve 2009 [show](http://www.facebook.com/roy.moore/media_set?set=a.1152271138846.2020691.1589679282&type=3) and [afterparty](http://www.facebook.com/roy.moore/media_set?set=a.1152849433303.2020782.1589679282&type=3).
-  * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.269553987264.173528.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of Same Year's Eve 2009.
+  * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.269553987264.173528.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of Same Year's Eve 2009.
   * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 2009 Same Year's Eve.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1477491149143.2061102.1589679282&type=3) by [[Roy Moore]] of Same Year's Eve 2010.
 * [Same Year's Eve 2011 photoset](http://www.facebook.com/media/set/?set=a.266768773386646.67745.221927764537414&type=3) (by [[Steve Rogers]]).

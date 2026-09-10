@@ -6,7 +6,7 @@ description: "Publicity image for The Black Vault."
 ## Summary
 Publicity image for *[[Shows/The Black Vault|The Black Vault]]*.
 
-Art and design by [[Performers/Kaci Beeler|Kaci Beeler]].
+Art and design by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Taken from http://www.hideouttheatre.com/shows/theblackvault.
 

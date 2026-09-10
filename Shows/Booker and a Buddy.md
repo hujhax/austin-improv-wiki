@@ -42,7 +42,7 @@ The show is loosely patterned off of Susan Messing's regular *Messing with a Fri
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/124087927) of the 3/28/15 performance with [[Performers/Peter Rogers|Peter Rogers]].
+* [Video](http://vimeo.com/124087927) of the 3/28/15 performance with [[Talk/Peter Rogers|Peter Rogers]].
 
 Category:Shows
 Category:The Institution Theater

@@ -44,7 +44,7 @@ A post from her about the first improv show she ever saw:
 * *[[Shows/Dusk|Dusk]]*
 * *[[Shows/Lola|Lola]]*
 * *[[Shows/Improvised Shakespeare|Improvised Shakespeare]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]*
 
 ## More Information
 * [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2062973) with Shana on *[[Troupes/The Theft Forum|The Theft Forum]]*.

@@ -1,7 +1,7 @@
 ---
 redirect: "Performers/Kaci Beeler"
 ---
-#REDIRECT [[Performers/Kaci Beeler]]
+#REDIRECT [[Talk/Kaci Beeler]]
 
 <script>
   (function() {

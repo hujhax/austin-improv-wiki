@@ -14,7 +14,7 @@ image: "File/HardCore4.jpg"
 * [[Performers/John Ratliff|John Ratliff]]
 * [[Performers/Jon Bolden|Jon Bolden]]
 * [[Performers/Marc Majcher|Marc Majcher]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 
 ## Schedule
 * Friday 5pm: Free-form improv from the core cast.
@@ -71,12 +71,12 @@ image: "File/HardCore4.jpg"
 * [Photoset](http://www.flickr.com/photos/hideouttheatre/sets/72157629944670744/) from [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset of hours 1-4](http://www.facebook.com/media/set/?set=a.373501069380082.89433.221927764537414&type=3) from [[Steve Rogers]].
 * [Photoset of hours 5-9](http://www.facebook.com/media/set/?set=a.3204199026618.122311.1315383518&type=3) from [[Michael Yew]].
-* [Photoset of hour 10](http://www.facebook.com/hujhax/media_set?set=a.10151037606607265.487220.588952264&type=3) (Drum Machine) from [[Performers/Peter Rogers|Peter Rogers]].
+* [Photoset of hour 10](http://www.facebook.com/hujhax/media_set?set=a.10151037606607265.487220.588952264&type=3) (Drum Machine) from [[Talk/Peter Rogers|Peter Rogers]].
 * [Photoset of hours 14-18](http://www.facebook.com/claudio.fox.5/media_set?set=a.426281400726694.95785.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]].
 * [Photoset of hours 17-20, 28](http://www.flickr.com/photos/hideouttheatre/sets/72157630038239970/) from [[Michael Yew]].
 * [Photoset of hours 27-29](http://www.facebook.com/media/set/?set=a.375108375886018.89657.221927764537414&type=3) from [[Steve Rogers]].
 * [Photoset of hours 30-31](http://www.facebook.com/media/set/?set=a.374465702616952.89541.221927764537414&type=3) from [[Steve Rogers]].
-* [Photoset of hour 40](http://www.facebook.com/media/set/?set=a.10151037625202265.487222.588952264&type=3) (the second student show) from [[Performers/Peter Rogers|Peter Rogers]].
+* [Photoset of hour 40](http://www.facebook.com/media/set/?set=a.10151037625202265.487222.588952264&type=3) (the second student show) from [[Talk/Peter Rogers|Peter Rogers]].
 * [Photoset of hours 37-43](http://www.facebook.com/media/set/?set=a.427332093954958.95954.100000345135257&type=3) from [[Performers/Claudio Fox|Claudio Fox]].
 * [Photoset of hours 41-43](http://www.facebook.com/media/set/?set=a.374667585930097.89589.221927764537414&type=3) from [[Steve Rogers]].
 

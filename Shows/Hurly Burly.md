@@ -212,7 +212,7 @@ It then ran Fridays in February and March of 2015, and was part of [[Festivals/T
 * [An improvised song from one of the shows.](http://youtu.be/VWx0ht1g-9Y)
 
 ### Photos
-* [Photoset](http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their show in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/jayme.ramsay/media_set?set=a.10204310230735290.1073741838.1214676503&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their show in [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
 ## More Information
 * [Audition notice](http://forum.austinimprov.com/viewtopic.php?f=3&t=17121) in [[The Austin Improv Forums]].

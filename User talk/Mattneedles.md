@@ -1,7 +1,7 @@
 ---
 redirect: "Talk/Matt Needles"
 ---
-#REDIRECT [[Talk/Matt Needles]]
+#REDIRECT [[Performers/Matt Needles]]
 
 <script>
   (function() {

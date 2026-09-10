@@ -4,11 +4,11 @@ description: "Publicity image for Wanderlust, featuring Ryan Austin and Cat Drag
 ![[File/Wanderlust.jpg]]
 
 ## Summary
-Publicity image for *[[Shows/Wanderlust|Wanderlust]]*, featuring [[Performers/Ryan Austin|Ryan Austin]] and [[Performers/Cat Drago|Cat Drago]] in the foreground.
+Publicity image for *[[Shows/Wanderlust|Wanderlust]]*, featuring [[User/Ryan Austin|Ryan Austin]] and [[Performers/Cat Drago|Cat Drago]] in the foreground.
 
 Photos by [[Performers/Jon Bolden|Jon Bolden]].
 
-Art by [[Performers/Kaci Beeler|Kaci Beeler]].
+Art by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

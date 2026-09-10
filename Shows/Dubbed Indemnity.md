@@ -41,7 +41,7 @@ It was part of *[[Shows/The Wheel|The Wheel]]*.
 It was a challenging format for performers.  A common pitfall was to simply narrate what was going on onscreen.  The best way to combat this was typically to pick some *arbitrary* thing for the scene to be about (say, trying to cook a hot dog), and sticking to that topic no matter what happened, interpreting anything that happened onscreen as part of that tack.
 
 ## History
-*Dubbed Indemnity* debuted as part of *[[Shows/The Wheel|The Wheel]]* in September of 2010.  Unfortunately, the video production required for *Dubbed Indemnity* became untenable, and [[Performers/Roy Janik|Roy Janik]] retired the format in September of 2011.  A number of different one-off events happened in its monthly time slot until it was replaced by *[[Shows/Maestro Raw|Maestro Raw]]* in January 2012.
+*Dubbed Indemnity* debuted as part of *[[Shows/The Wheel|The Wheel]]* in September of 2010.  Unfortunately, the video production required for *Dubbed Indemnity* became untenable, and [[User/Roy Janik|Roy Janik]] retired the format in September of 2011.  A number of different one-off events happened in its monthly time slot until it was replaced by *[[Shows/Maestro Raw|Maestro Raw]]* in January 2012.
 
 Since then, *Dubbed Indemnity* has shown up for occasional one-off performances in events like [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].
 
@@ -55,7 +55,7 @@ Since then, *Dubbed Indemnity* has shown up for occasional one-off performances 
 * 6/22/13: [Video.](http://vimeo.com/73282840) (Part of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]].)
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/4/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
-* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.462070062264.231094.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/9/10 show.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.462070062264.231094.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 7/9/10 show.
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/dubbedindemnity)

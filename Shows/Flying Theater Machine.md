@@ -174,7 +174,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## Cast
 * [[Performers/Jessica Arjet|Jessica Arjet]]       (2007-Present) 
-* [[Performers/Thedward Blevins|Thedward Blevins]]    (Sep 2012-Present)  
+* [[Talk/Thedward Blevins|Thedward Blevins]]    (Sep 2012-Present)  
 * [[Performers/Caeriel Crestin|Caeriel Crestin]]     (Mar 2012-Present)
 * [[Performers/Mitchell Deane|Mitchell Deane]]
 * [[Performers/Ryan Hill|Ryan Hill]]             (Jan 2015-Present)
@@ -188,7 +188,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ### Touring
 * [[Performers/Jessica Arjet|Jessica Arjet]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Caeriel Crestin|Caeriel Crestin]]
 * [[Performers/Kristin Henn|Kristin Henn]]
 * [[Performers/Asaf Ronen|Asaf Ronen]]
@@ -212,7 +212,7 @@ The format of the show changes regularly (see below), but always emphasizes audi
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/5/10 performance at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.449247267264.220359.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/5/10 performance at [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.648621015159397.1073741863.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes their 10/5/13 performance with [[Shows/Mister Morbid's Moonlight Movie Mayhem Madness Massacre|Mister Morbid's Moonlight Movie Mayhem Madness Massacre]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.708255795917601.1073741846.473177099425473&type=3) by [[Performers/Chad Wellington|Chad Wellington]] of their 10/17/14 show with [[Shows/Mister Morbid|Mister Morbid]].
 

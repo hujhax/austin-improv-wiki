@@ -97,7 +97,7 @@ This show is entirely controlled by the tech booth.  The tech booth offers a var
 As the tech booth announces at the top of the show, if the players don't follow the tech cues to the technical improvisors' satisfaction, those players are "punished" -- for example, by having to collectively dance to a particularly awful pop song.
 
 ## History
-The show originated as the Sunday-2am slot of [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]], with just the marathon's core players participating.
+The show originated as the Sunday-2am slot of [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]], with just the marathon's core players participating.
 
 It was brought back many times as part of *[[Shows/The Free Fringe|The Free Fringe]]*, with performance dates on 7/19/12, 9/27/12, 10/25/12, and (for a special "Christmas *Tech Nightmare*") 12/13/12.  It was part of [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]] and [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]].
 
@@ -105,7 +105,7 @@ It was brought back many times as part of *[[Shows/The Free Fringe|The Free Frin
 
 ## Media
 * 12/13/12 performance:
-  * [Video](http://vimeo.com/56314411) by [[Performers/Peter Rogers|Peter Rogers]]
+  * [Video](http://vimeo.com/56314411) by [[Talk/Peter Rogers|Peter Rogers]]
   * [A photoset](http://www.facebook.com/media/set/?set=a.10101796070781630.3377695.7909117&type=1) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the performance.
 
 Category:Active

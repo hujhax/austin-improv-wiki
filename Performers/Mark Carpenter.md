@@ -27,7 +27,7 @@ image: "File/Mark%20Carpenter%20Pic.jpg"
 
 ## Shows
 * *[[Shows/Apocalypse! (Show)|Apocalypse!]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]*
 
 ## Troupes
 * [[Troupes/Opposites|Opposites]]

@@ -95,18 +95,18 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * Beverly Anderson -- [[Performers/Aden Kirschner|Aden Kirschner]]
 * Luke Anderson -- [[Performers/Jon Bolden|Jon Bolden]]
 * Mary-Alice Anderson -- [[Performers/Katie Thornton|Katie Thornton]]
-* Rosemary "Rocket" Anderson -- [[Performers/Kaci Beeler|Kaci Beeler]]
+* Rosemary "Rocket" Anderson -- [[Talk/Kaci Beeler|Kaci Beeler]]
 * Kip Miller  -- [[Performers/Deano Jones|Deano Jones]]
 * Madge Miller -- [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]]
 * Mitch Miller -- [[Performers/Jason Vines|Jason Vines]]
-* Mr. Cooper -- [[Performers/Roy Janik|Roy Janik]]
+* Mr. Cooper -- [[User/Roy Janik|Roy Janik]]
 * Ensemble -- [[Performers/Curtis Luciani|Curtis Luciani]], [[Performers/Dav Wallace|Dav Wallace]], Deana Ricks, Indigo Rael, [[Performers/Jared Stepp|Jared Stepp]], Justin York, [[Performers/Kacey Samiee|Kacey Samiee]], [[Performers/Valerie Ward|Valerie Ward]]
 
 ## Media
 ### Photos
 * [Audition photos](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100182260325720.2848170.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]].
 * [A photoset including the 5/1/10 show](http://www.facebook.com/media/set/?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]]
-* [A photoset of the 5/15/10 show](http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]], and [a selfie of his costume](http://www.facebook.com/hujhax/media_set?set=a.447241452264.218625.588952264&type=3).
+* [A photoset of the 5/15/10 show](http://www.facebook.com/media/set/?set=a.441737982264.214512.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]], and [a selfie of his costume](http://www.facebook.com/hujhax/media_set?set=a.447241452264.218625.588952264&type=3).
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/5/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1338708039652.2040736.1589679282&type=3) by [[Roy Moore]] that includes their 8/22/10 performance at "50s Night" at [[Theatres/The Highball|The Highball]].
   * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.1299236843754.36635.1315383518&type=3) by [[Michael Yew]] that includes the same performance.
@@ -119,7 +119,7 @@ About half the cast of *The Andersons* played the same, pre-established characte
 * [A video promo for the show.](http://youtu.be/3GjaTWZi6Kg)
 
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203/photo%203.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo/photo.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204/photo%204.jpg?disposition=download).
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203/photo%203.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo/photo.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204/photo%204.jpg?disposition=download).
 
 ## More Information
 * [The show's web page.](http://hideouttheater.com/shows/theandersons)

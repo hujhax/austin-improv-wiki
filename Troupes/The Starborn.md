@@ -150,7 +150,7 @@ In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Com
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/120012510) by [[Performers/Peter Rogers|Peter Rogers]] of their 1/23/15 performance in the *[[Shows/2x4|2x4]]*.
+* [Video](http://vimeo.com/120012510) by [[Talk/Peter Rogers|Peter Rogers]] of their 1/23/15 performance in the *[[Shows/2x4|2x4]]*.
 * [Video of their WaffleFest show](https://vimeo.com/106635786) from 11/21/2014
 * [Video of their OOB show at The State](https://vimeo.com/106635786) from 9/01/2014
 * [Video of their OOB show at The Hideout Theatre](https://vimeo.com/108298992) from 8/27/2014
@@ -164,7 +164,7 @@ In 2014, The Starborn was selected to perform two shows in the Out Of Bounds Com
 * [Video of their 3rd performance](http://vimeo.com/79608023) from 11/15/2013.
 * [Video of their 2nd performance](http://vimeo.com/77375209) from 10/17/2013.
 * [Video of their 1st performance](http://vimeo.com/58856305) from the 1/31/13 [[Shows/Free Fringe|Free Fringe]].
-  * [Another video](http://vimeo.com/58798063) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
+  * [Another video](http://vimeo.com/58798063) by [[Talk/Peter Rogers|Peter Rogers]] of the same show.
 
 ### Press Blurb
 The Starborn is an improvised, interactive alien invasion. The playful and devious alien twins (played by Mia Iseman and Ryan Austin) land on Earth to toy with the humans in the audience before they destroy them for good.

@@ -34,6 +34,6 @@ image: "File/Amy%20Averett%20Pic.jpg"
 * *[[Shows/Heist!|Heist!]]*
 * *[[Shows/Rock|Rock]]*
 * *[[Shows/Thinning The Herd|Thinning The Herd]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (flex cast)
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]* (flex cast)
 
 [[Category/Performers|Averett]]

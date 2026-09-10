@@ -46,16 +46,16 @@ image: "File/The%20Lottery.jpg"
 * [The 10/21/11 lottery.](http://vimeo.com/30997916)
 * [The 12/9/11 lottery.](http://vimeo.com/33474887)
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.498462097264.290141.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/24/10 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150150644617265.328172.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/21/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.498462097264.290141.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/24/10 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150150644617265.328172.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/21/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 3/25/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150231663867265.348837.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 4/8/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150231663867265.348837.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 4/8/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes the 4/22/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150263787272265.370555.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/13/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282216542265.375392.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 5/27/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150299790862265.381469.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 6/17/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150343147212265.394405.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 7/29/11 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403734012265.410077.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/23/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150263787272265.370555.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/13/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150282216542265.375392.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 5/27/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150299790862265.381469.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 6/17/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150343147212265.394405.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 7/29/11 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150403734012265.410077.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/23/11 show.
 
 Lottery
 Category:The Hideout Theatre

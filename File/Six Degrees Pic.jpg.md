@@ -6,7 +6,7 @@ description: "The players take the stage for the 2/28/02 performance of..."
 ## Summary
 The players take the stage for the 2/28/02 performance of *[[Shows/Six Degrees|Six Degrees]]*.
 
-Photo by [[Performers/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.19102072264.15340.588952264&type=3).
+Photo by [[Talk/Peter Rogers|Peter Rogers]], from [this photoset](http://www.facebook.com/media/set/?set=a.19102072264.15340.588952264&type=3).
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

@@ -97,7 +97,7 @@ After finishing the run of *Freaks and Geeks*, [[Performers/Katie Thornton|Katie
 * Daniel Desario -- [[Performers/Kyle Traughber|Kyle Traughber]]
 * Neil Schweiber -- [[Performers/Lindsey Reeves|Lindsey Reeves]]
 * Ken Miller -- Guy Vizard
-* Nick Andopolis -- [[Performers/Peter Rogers|Peter Rogers]]
+* Nick Andopolis -- [[Talk/Peter Rogers|Peter Rogers]]
 * Bill Haverchuck -- [[Performers/Wyatt Tall|Wyatt Tall]]
 * Kim Kelly -- Carrie Pinkstaff
 * Harold Weir -- [[Performers/Dave Buckman|Dave Buckman]]

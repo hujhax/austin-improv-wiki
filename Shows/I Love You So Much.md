@@ -143,7 +143,7 @@ image: "File/I%20Love%20You%20So%20Much.jpg"
 Each performance featured three interwoven stories, each one centered on a loving relationship.  These relationships may not be traditionally romantic ones -- while it could be the story of two lovers, it could also be the story of a man and his dog.  Each performer played one character through an entire performance, perhaps featuring as a protagonist in the first story, a supporting character in the second, and a momentary "extra" in the third.  The show emphasized honest, grounded scenes and vulnerability, similar to the style of British improv duo [Ten Thousand Million Love Stories](http://www.facebook.com/TenThousandMillionLoveStories).
 
 ## History
-At the end of opening night of *I Love You So Much*, improviser [[Performers/Ryan Hill|Ryan Hill]] proposed to improviser [[Performers/Jen Kaplan|Jen Kaplan]], during a contrived "bonus scene" set up by [[Performers/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, Dean Palm, was in the tech booth.
+At the end of opening night of *I Love You So Much*, improviser [[Performers/Ryan Hill|Ryan Hill]] proposed to improviser [[Performers/Jen Kaplan|Jen Kaplan]], during a contrived "bonus scene" set up by [[User/Roy Janik|Roy Janik]] and [[Performers/Jessica Arjet|Jessica Arjet]].  The directors and some of the cast knew about this plan ahead of time and assisted with the plans. (She said yes.) The proposer's son, Dean Palm, was in the tech booth.
 
 Later in the run, an audience member proposed to his girlfriend during a show (she also said yes).
 

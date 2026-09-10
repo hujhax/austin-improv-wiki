@@ -211,11 +211,11 @@ For this one, teams were set at the start of the run, and those teams played tog
 
 ### Second Run Cast
 * Team Cathedral of Junk
-  * [[Performers/Kaci Beeler|Kaci Beeler]]
+  * [[Talk/Kaci Beeler|Kaci Beeler]]
   * [[Performers/Mo Daviau|Mo Daviau]]
   * [[Performers/Patrick Daniel|Patrick Daniel]]
-  * [[Performers/Peter Rogers|Peter Rogers]]
-  * [[Performers/Roy Janik|Roy Janik]]
+  * [[Talk/Peter Rogers|Peter Rogers]]
+  * [[User/Roy Janik|Roy Janik]]
 * Team ?????
   * Amira Wizig
   * [[Performers/Jay Michael|Jay Michael]]
@@ -253,7 +253,7 @@ For this one, teams were set at the start of the run, and those teams played tog
   * Teresa Troxel
 
 ## 2013 Run
-The third run was directed by [[Performers/Roy Janik|Roy Janik]], with assistance from [[Performers/Ryan Austin|Ryan Austin]].
+The third run was directed by [[User/Roy Janik|Roy Janik]], with assistance from [[User/Ryan Austin|Ryan Austin]].
 
 In the 2013 run, the show opened with a 15-minute student bout, featuring two student teams captained by a member of the core cast. This was followed by an "exhibition match", featuring teams organized around some kind of theme.  After an intermission, there was a "main event" bout, involving teams sponsored by local businesses and drawn from the show's cast.  Each performance had a designated "snogger", or scenographer, who handled props, costumes, and scene-painting throughout the show.
 
@@ -288,9 +288,9 @@ The schedule is as follows:
     * [[Performers/Courtney Hopkin|Courtney Hopkin]]
     * [[Performers/Lauren Buck|Lauren Buck]]
 * May 18th
-  * Exhibition match: *[[Shows/Fandom|Fandom]]* presents: *Star Wars* ([[Performers/Peter Rogers|Peter Rogers]], [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Marc Majcher|Marc Majcher]], and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Performers/Quinn Buckner|Quinn Buckner]], [[Performers/Mia Iseman|Mia Iseman]], and [[Performers/Bridget Brewer|Bridget Brewer]]).
+  * Exhibition match: *[[Shows/Fandom|Fandom]]* presents: *Star Wars* ([[Talk/Peter Rogers|Peter Rogers]], [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Marc Majcher|Marc Majcher]], and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]) versus *The Lord of the Rings* ([[Performers/Quinn Buckner|Quinn Buckner]], [[Performers/Mia Iseman|Mia Iseman]], and [[Performers/Bridget Brewer|Bridget Brewer]]).
   * Guests:
-    * [[Performers/Kaci Beeler|Kaci Beeler]]
+    * [[Talk/Kaci Beeler|Kaci Beeler]]
     * [[Performers/Ace Manning|Ace Manning]]
   * Snogger: [[Performers/Marc Majcher|Marc Majcher]]
 * May 25th
@@ -312,12 +312,12 @@ The schedule is as follows:
   * Exhibition match: unknown.
   * Guests:
     * [[Performers/Dave Buckman|Dave Buckman]]
-    * [[Performers/Peter Rogers|Peter Rogers]]
+    * [[Talk/Peter Rogers|Peter Rogers]]
 * June 29th
   * Exhibition match: unknown.
   * Guests:
     * [[Performers/Andrew Buck|Andrew Buck]]
-    * [[Performers/Kaci Beeler|Kaci Beeler]]
+    * [[Talk/Kaci Beeler|Kaci Beeler]]
 
 ## 2014 Run
 *Theatresports* came back as a Hideout mainstage show in May and June of 2014.
@@ -335,8 +335,8 @@ The schedule is as follows:
 
 ## 2017 Run
 ### Cast of Theatresports 2017
-* [[Performers/Ryan Austin|Ryan Austin]]
-* [[Performers/Chelsea Bunn|Chelsea Bunn]]
+* [[User/Ryan Austin|Ryan Austin]]
+* [[User/Chelsea Bunn|Chelsea Bunn]]
 * [[Performers/Patrick Creamer|Patrick Creamer]]
 * Rachel Elaine Creason
 * Allison Day
@@ -356,14 +356,14 @@ The schedule is as follows:
 
 ## Media
 ### Videos
-* Video of the 10/30/10 performance by [[Performers/Peter Rogers|Peter Rogers]]: [part 1](http://vimeo.com/16402965), [part 2](http://vimeo.com/16403547).
-* [Video of the 5/4/13 performance](http://vimeo.com/66174442) by [[Performers/Ryan Austin|Ryan Austin]].
+* Video of the 10/30/10 performance by [[Talk/Peter Rogers|Peter Rogers]]: [part 1](http://vimeo.com/16402965), [part 2](http://vimeo.com/16403547).
+* [Video of the 5/4/13 performance](http://vimeo.com/66174442) by [[User/Ryan Austin|Ryan Austin]].
   * [A second video](http://vimeo.com/67173123) of the same show.
-* [Video of the 5/11/13 performance](http://vimeo.com/67173124) by [[Performers/Ryan Austin|Ryan Austin]].
-* [Video of the 5/18/13 performance](http://vimeo.com/67725617) by [[Performers/Ryan Austin|Ryan Austin]].
-* [Video of the 5/25/13 performance](http://vimeo.com/69837645) by [[Performers/Ryan Austin|Ryan Austin]].
-* [Video of the 6/1/13 performance](http://vimeo.com/69837644) by [[Performers/Ryan Austin|Ryan Austin]].
-* [Video of the 6/8/13 performance](http://vimeo.com/70243827) by [[Performers/Ryan Austin|Ryan Austin]].
+* [Video of the 5/11/13 performance](http://vimeo.com/67173124) by [[User/Ryan Austin|Ryan Austin]].
+* [Video of the 5/18/13 performance](http://vimeo.com/67725617) by [[User/Ryan Austin|Ryan Austin]].
+* [Video of the 5/25/13 performance](http://vimeo.com/69837645) by [[User/Ryan Austin|Ryan Austin]].
+* [Video of the 6/1/13 performance](http://vimeo.com/69837644) by [[User/Ryan Austin|Ryan Austin]].
+* [Video of the 6/8/13 performance](http://vimeo.com/70243827) by [[User/Ryan Austin|Ryan Austin]].
 * [Video](http://vimeo.com/108864355) of the 6/14/13 show.
 * [Video of a 2014 show](http://vimeo.com/101990260).
 * [Video](http://vimeo.com/95740478) of the 5/10/14 show.
@@ -371,16 +371,16 @@ The schedule is as follows:
 * [Video](http://vimeo.com/97182584) of the 5/31/14 show.
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/25/10 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.498466617264.290143.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/25/10 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1363932870257.2051207.1589679282&type=1) by [[Roy Moore]] of the 9/18/2010 match between Team Cathedral of Junk and Team H8 Cupcake.
   * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the 10/1/2010 match between Team Katz's Deli and Team Taco Deli.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1379182571490.2052519.1589679282&type=3) by [[Roy Moore]] of the 10/2/10 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 10/30/10 final match.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150095526752265.295870.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 10/30/10 final match.
   * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes the same match.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/3/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/14/12 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 12/21/12 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102197264.15341.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 12/14/12 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.19102282264.15342.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 12/21/12 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.573730392657450.1073741828.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] of the 5/4/13 premiere.
 * [Photoset](http://www.facebook.com/warren.henderson.946/media_set?set=a.578612318835924.1073741830.100000614831752&type=3) by [[Performers/Warren Henderson|Warren Henderson]] that includes the 5/25/13 show.
   * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102677866984970.3513134.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes the same show.
@@ -392,7 +392,7 @@ The schedule is as follows:
 
 
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design for the 2013 run: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatresports-set/theatresports-set.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatersports-orphans/theatersports-orphans.jpg?disposition=download).
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design for the 2013 run: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatresports-set/theatresports-set.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/theatersports-orphans/theatersports-orphans.jpg?disposition=download).
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/TheatresportsTournament)

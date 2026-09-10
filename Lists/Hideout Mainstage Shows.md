@@ -191,7 +191,7 @@ Starting with *[[Shows/The Great Mundane|The Great Mundane]]* in 2006, the Hideo
 </table>
 
 ### 2009-Present
-In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv run every two months.  These schedules have been curated by [[Performers/Roy Janik|Roy Janik]].
+In mid-2009, the Hideout went to a regular mainstage schedule, with a new improv run every two months.  These schedules have been curated by [[User/Roy Janik|Roy Janik]].
 
 <table class="wikitable">
   <tr >

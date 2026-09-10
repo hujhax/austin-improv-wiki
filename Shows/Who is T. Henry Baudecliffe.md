@@ -219,7 +219,7 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 8/28/10 performance.
 
 ### Publicity
-* ["Baudecliffe's Art"](http://youtu.be/wmasllYo73g) by [[Performers/Kaci Beeler|Kaci Beeler]].
+* ["Baudecliffe's Art"](http://youtu.be/wmasllYo73g) by [[Talk/Kaci Beeler|Kaci Beeler]].
 * Interviews with local artists about Mr. Baudecliffe:
   * [Interview](http://youtu.be/V2iAATDydHE) with [[Performers/Jon Bolden|Jon Bolden]].
   * [Interview with Derrick Jones.](http://youtu.be/FEXpjBGvnnc)
@@ -230,8 +230,8 @@ The basic idea of the show was that Mr. Baudecliffe was an outsider artist, and 
   * [Interview with Dano Johnson.](http://youtu.be/vVx5ahTbt9U)
   * [Interview with Tracy Lands.](http://youtu.be/Y-IlVZjYZ6Y)
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_1/photo%204_1.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205/photo%205.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baude1/baude1.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_1/photo%203_1.jpg?disposition=download).
-  * Artwork from [[Performers/Kaci Beeler|Kaci Beeler]] that helped inspire the design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo12/baudecliffe_photo12.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo11/baudecliffe_photo11.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202/photo%202.jpg?disposition=download).
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_1/photo%204_1.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%205/photo%205.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baude1/baude1.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_1/photo%203_1.jpg?disposition=download).
+  * Artwork from [[Talk/Kaci Beeler|Kaci Beeler]] that helped inspire the design: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo12/baudecliffe_photo12.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/baudecliffe_photo11/baudecliffe_photo11.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202/photo%202.jpg?disposition=download).
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/whoist-henrybaudecliffe)

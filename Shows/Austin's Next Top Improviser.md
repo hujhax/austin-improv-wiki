@@ -102,7 +102,7 @@ Finally, the winner would get the privilege of playing the hero in a directed mi
   * Abbas Amirabadi
   * [[Performers/Ed Melendez|Ed Melendez]]
   * Jonathan Euseppi
-  * [[Performers/Justin Davis|Justin Davis]]
+  * [[User/Justin Davis|Justin Davis]]
   * Katie Gill
   * [[Performers/Lindsey Reeves|Lindsey Reeves]]
   * Hosted by [[Performers/Erin Molson|Erin Molson]].

@@ -76,7 +76,7 @@ image: "File/%C2%A1ZARZAMORA%21.jpg"
 **¡Zarzamora!** (often spelled all-caps: **¡ZARZAMORA!**) is an improv troupe that focuses on historically-themed improv shows.
 
 ## History
-¡Zarzamora! was conceived at the Dog and Duck Pub by [[Performers/David Lampe|David Lampe]] and [[Performers/Chuy Zarate|Chuy Zarate]] in 2010. The original troupe lineup was Lampe, Zarate, and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], with [[Performers/Peter Rogers|Peter Rogers]] sitting in for the first show.
+¡Zarzamora! was conceived at the Dog and Duck Pub by [[Performers/David Lampe|David Lampe]] and [[Performers/Chuy Zarate|Chuy Zarate]] in 2010. The original troupe lineup was Lampe, Zarate, and [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], with [[Talk/Peter Rogers|Peter Rogers]] sitting in for the first show.
 
 The current members of ¡Zarzamora! are:
 * [[Performers/David Lampe|David Lampe]]

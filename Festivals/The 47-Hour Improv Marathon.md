@@ -14,7 +14,7 @@ description: "Be the eighth annual Hideout Improv Marathon."
 * [[Performers/Chuy Zarate|Chuy Zarate]]
 
 ## Staff
-* [[Performers/Roy Janik|Roy Janik]] - Artistic Director
+* [[User/Roy Janik|Roy Janik]] - Artistic Director
 * [[Performers/Jessie Pascarelli|Jessie Pascarelli]] - Co-Producer
 * [[Performers/Rob Yoho|Rob Yoho]] - Co-Producer
 

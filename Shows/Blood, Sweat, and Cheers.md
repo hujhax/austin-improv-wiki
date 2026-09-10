@@ -89,11 +89,11 @@ image: "File/Blood%2C%20Sweat%2C%20and%20Cheers%20pic.jpg"
 ***Blood, Sweat, and Cheers*** is a devised play about competitive cheerleading.
 
 ## Summary
-The script was written by Amy Gentry and [[Performers/Kaci Beeler|Kaci Beeler]].  It was subsequently revised to incorporate improvisations by the cast, via a process inspired by Chicago's New Colony theater company.
+The script was written by Amy Gentry and [[Talk/Kaci Beeler|Kaci Beeler]].  It was subsequently revised to incorporate improvisations by the cast, via a process inspired by Chicago's New Colony theater company.
 
 ### Cast
 * Barbara Davis -- [[Performers/Jessica Arjet|Jessica Arjet]]
-* June Davis -- [[Performers/Kaci Beeler|Kaci Beeler]]
+* June Davis -- [[Talk/Kaci Beeler|Kaci Beeler]]
 * Gabriella "Gabi" Romero -- [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
 * James Kowalski  -- [[Performers/Alex Dobrenko|Alex Dobrenko]]
 * Kennedy Campbell  -- [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]]
@@ -109,7 +109,7 @@ The show also features 9 athletes from Austin Cheer Factory, Austin's most elite
 * Choreography -- Amanda Butterfield, [[Performers/Cortney DeAngelo|Cortney DeAngelo]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]], and the Austin Cheer Factory
 * Lighting design -- Brigette Hutchison
 * Sound -- [[Performers/Bridget Brewer|Bridget Brewer]]
-* Set design -- [[Performers/Jon Bolden|Jon Bolden]] and [[Performers/Kaci Beeler|Kaci Beeler]]
+* Set design -- [[Performers/Jon Bolden|Jon Bolden]] and [[Talk/Kaci Beeler|Kaci Beeler]]
 * Photography -- [[Performers/Jon Bolden|Jon Bolden]]
 
 ## History
@@ -134,13 +134,13 @@ Several cast members played as an exhibition team in *[[Shows/TheatreSports|Thea
 * [Promo photo shoot](http://www.facebook.com/media/set/?set=a.353297824770533.1073741829.352317234868592&type=3) by [[Performers/Jon Bolden|Jon Bolden]].
 
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/bsc-cheer-number/bsc-cheer-number.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/bsc-cheer-number/bsc-cheer-number.jpg?disposition=download) of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design.
 
 ## More Information
 * [The show's web site.](http://www.austincheershow.com/Austin_Cheer_Show/Welcome.html)
 * [The show's kickstarter.](http://www.kickstarter.com/projects/kacibeeler/it-takes-blood-sweat-and-cheers-to-make-theater)
 * ["Save the date" post](http://forum.austinimprov.com/viewtopic.php?f=2&t=15140) on [[The AIC Forums]].
 * [The show's blog.](http://austincheershow.blogspot.com/)
-* [An interview about the play](http://kut.org/2013/05/204801/) with [[Performers/Kaci Beeler|Kaci Beeler]] and [[Performers/Halyn Erickson|Halyn Erickson]] on KUT's *Arts Eclectic*.
-* [An interview](http://www.mystatesman.com/news/entertainment/like-a-local-kaci-beeler-cheers-for-some-laughs/nX5Bx/) with [[Performers/Kaci Beeler|Kaci Beeler]] in *The Austin-American Statesman*.
+* [An interview about the play](http://kut.org/2013/05/204801/) with [[Talk/Kaci Beeler|Kaci Beeler]] and [[Performers/Halyn Erickson|Halyn Erickson]] on KUT's *Arts Eclectic*.
+* [An interview](http://www.mystatesman.com/news/entertainment/like-a-local-kaci-beeler-cheers-for-some-laughs/nX5Bx/) with [[Talk/Kaci Beeler|Kaci Beeler]] in *The Austin-American Statesman*.
 Category:Shows

@@ -42,7 +42,7 @@ image: "File/Katie%20Doran%20Pic.jpg"
 * Rain
 
 ## Mainstage Shows
-  * The Hideout: *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
+  * The Hideout: *[[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]]*
   * ColdTowne: *It's Saturday Night!*, *[[Shows/America -  Have it Your Way|America -  Have it Your Way]]*, *[[Shows/Martini Ranch -  Hidden Valley|Martini Ranch -  Hidden Valley]]* 
 
 ## Festivals

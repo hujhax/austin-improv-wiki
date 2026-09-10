@@ -142,7 +142,7 @@ image: "File/orphans.jpg"
 * Costume Design – [[Performers/Carolyn Gjertsen|Carolyn Gjertsen]]
 * Costume Builders – [[Performers/Cindy Page|Cindy Page]], Danielle DaVerona
 * Stage Managers – Shay Millheiser, Joey Neugart
-* Graphic & Scenic Design – [[Performers/Kaci Beeler|Kaci Beeler]]
+* Graphic & Scenic Design – [[Talk/Kaci Beeler|Kaci Beeler]]
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/orphans)

@@ -6,7 +6,7 @@ description: "A drawing of the cast of heroes from Strange Worlds."
 ## Summary
 A drawing of the cast of heroes from *[[Shows/Strange Worlds|Strange Worlds]]*.
 
-Drawing by [[Performers/Ryan Austin|Ryan Austin]].
+Drawing by [[User/Ryan Austin|Ryan Austin]].
 
 The drawing is owned by [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], who commissioned it at the end of the show's run.
 
@@ -20,7 +20,7 @@ Bottom row, from left: Dr. Lily Wilde, The Grey Bishop, The Peregrine
 ## Additional Details
 The tech crew is credited in a scroll just to the right of Jack Ryder's hand.
 
-Nate Jester's notebook contains a drawing of a trident, an item which figured in [[Shows/Strange Worlds Episodes/Strange Times -  The Trident|one of his adventures]].
+Nate Jester's notebook contains a drawing of a trident, an item which figured in [[Strange Worlds Episodes/Strange Times -  The Trident|one of his adventures]].
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

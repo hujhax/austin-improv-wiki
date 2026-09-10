@@ -40,7 +40,7 @@ Jen started taking improv classes at Merlin Works in 2007. She has been enjoying
 * *[[Shows/I Love You So Much|I Love You So Much]]*
 * *[[Shows/Lola|Lola]]* (tech)
 * *[[Shows/The Suitcase|The Suitcase]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]*
 * *[[Shows/Trust No One|Trust No One]]*
 
 [[Category/Performers|Kaplan]]

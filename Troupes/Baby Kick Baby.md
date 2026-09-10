@@ -102,7 +102,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104471242264.104199.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 4/16/09 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.104471242264.104199.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 4/16/09 performance in *[[Shows/The Threefer|The Threefer]]*.
 
 [[Category/Troupes|Category:Troupes]]
 [[Category/Auto-Generated Troupe Pages|Category:Auto-Generated Troupe Pages]]

@@ -95,7 +95,7 @@ Their answer to the "What's Your Deal?" question on a 2014 application to perfor
 
 ## Media
 ### Videos
-* [http://youtu.be/Lwb13vV8fpEVideo](http://youtu.be/Lwb13vV8fpEVideo) of an October 2014 show.
+* [http://youtu.be/Lwb13vV8fpEVideo](http://youtu.be/Lwb13vV8fpEVideo)(http://youtu.be/Lwb13vV8fpEVideo) of an October 2014 show.
 * [Video](http://youtu.be/qb2iBVZGmPg) of a December 2014 show.
 * [Video](http://youtu.be/_HKAQBC4tIw) of a January 2015 show.
 

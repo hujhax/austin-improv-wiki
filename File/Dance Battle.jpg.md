@@ -4,7 +4,7 @@ description: "Justin Davis and Jessie Pascarelli after their dance-battle scene 
 ![[File/Dance Battle.jpg]]
 
 ## Summary
-[[Performers/Justin Davis|Justin Davis]] and [[Performers/Jessie Pascarelli|Jessie Pascarelli]] after their dance-battle scene in [[Shows/Fancy Pants|Fancy Pants]].
+[[User/Justin Davis|Justin Davis]] and [[Performers/Jessie Pascarelli|Jessie Pascarelli]] after their dance-battle scene in [[Shows/Fancy Pants|Fancy Pants]].
 
 Photo by [[Michael Yew]].
 

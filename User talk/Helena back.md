@@ -1,7 +1,7 @@
 ---
 redirect: "Talk/Adriane Shown"
 ---
-#REDIRECT [[Talk/Adriane Shown]]
+#REDIRECT [[Performers/Adriane Shown]]
 
 <script>
   (function() {

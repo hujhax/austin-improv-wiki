@@ -8,7 +8,7 @@ description: "First annual Hideout Improv Marathon."
 * [[Performers/Caitlin Sweetlamb|Caitlin Sweetlamb]] 
 * [[Performers/Curtis Luciani|Curtis Luciani]]
 * [[Performers/Jeremy Lamb|Jeremy Lamb]] 
-* [[Performers/Kaci Beeler|Kaci Beeler]] 
+* [[Talk/Kaci Beeler|Kaci Beeler]] 
 * [[Performers/Kareem Badr|Kareem Badr]] 
 * [[Performers/Matt Pollock|Matt Pollock]]
 * [[Performers/Troy Miller|Troy Miller]]
@@ -48,26 +48,26 @@ description: "First annual Hideout Improv Marathon."
 * Sunday 2am: [[Theatres/The Institution|The Institution]]
 * Sunday 3am: "Musical [Armando](http://improvencyclopedia.org/games//Armando.html)", with [[Troupes/A Bunch of Liars|A Bunch of Liars]] and [[Troupes/The Love Notes|The Love Notes]]
 * Sunday 4am: [[Troupes/Parallelogramophonograph|Parallelogramophonograph]]
-* Sunday 5am: "Mystery Meat", a surprise format from [[Performers/Roy Janik|Roy Janik]]
+* Sunday 5am: "Mystery Meat", a surprise format from [[User/Roy Janik|Roy Janik]]
 * Sunday 6am: "Soap Opera", improv daytime television with [[Troupes/Junk|Junk]]
 * Sunday 7am: [[Troupes/McNichol and May|McNichol and May]]
 * Sunday 8am: "The Final Countdown", free-form improv with the core improvisors
 
 ## Media
 ### Photo
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129969442264.120561.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of [[Theatres/The New Movement|The New Movement]] (Saturday 2am).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129970797264.120563.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of [[Troupes/Northshore Local|Northshore Local]] (Saturday 3am).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129973482264.120564.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the Life Game (Saturday 5pm).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129969442264.120561.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of [[Theatres/The New Movement|The New Movement]] (Saturday 2am).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129970797264.120563.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of [[Troupes/Northshore Local|Northshore Local]] (Saturday 3am).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129973482264.120564.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the Life Game (Saturday 5pm).
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620827646114/comments/) by [[Michael Yew]] of *[[Shows/Lola|Lola]]* (Saturday 6pm).
-  * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129977122264.120567.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of *[[Shows/After School Improv|After School Improv]]* (Saturday 7pm).
+  * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the same show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129977122264.120567.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of *[[Shows/After School Improv|After School Improv]]* (Saturday 7pm).
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620822671488/) by [[Michael Yew]] of [[Shows/Improvised Shakespeare|Improvised Shakespeare]] (Saturday 8pm).
-  * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129979382264.120568.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the same show. 
+  * [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129979382264.120568.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the same show. 
 * [Photoset](http://www.flickr.com/photos/8820084@N02/sets/72157620748382275/) by [[Michael Yew]] of "Holy Sleep Deprivation, Batman!" (Saturday 9pm).
 * [Photoset](http://www.flickr.com/photos/pgraph/sets/72157620581563801/) from [[Troupes/Parallelogramophonograph|Parallelogramophonograph]] (Sunday 4am).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129983882264.120571.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of [[Troupes/Junk|Junk]] (Sunday 6am).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129984552264.120572.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of [[Troupes/McNichol & May|McNichol & May]] (Sunday 7am).
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129987327264.120574.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the Final Countdown (Sunday 8am).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129983882264.120571.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of [[Troupes/Junk|Junk]] (Sunday 6am).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129984552264.120572.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of [[Troupes/McNichol & May|McNichol & May]] (Sunday 7am).
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129987327264.120574.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the Final Countdown (Sunday 8am).
 
 ## Other
 * [Intro video](http://youtu.be/RBv0-UyY9Oo) by Brian Boyko.

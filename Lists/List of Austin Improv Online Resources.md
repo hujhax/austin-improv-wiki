@@ -8,7 +8,7 @@ This **list of Austin improv online resources** includes information about web s
 * [The AIC Forums](http://forum.austinimprov.com) [[The Austin Improv Forums|(wiki page)]]
 * [[The Austin Improv Wiki]]
 * [The Austin Improv Vimeo Channel](http://vimeo.com/channels/austinimprov)
-* [http://www.can-i-get-a.com](http://www.can-i-get-a.com)
+* [http://www.can-i-get-a.com](http://www.can-i-get-a.com)(http://www.can-i-get-a.com)
 
 ## Facebook Groups
 * [Austin Improv Community](https://www.facebook.com/groups/austinimprov/)

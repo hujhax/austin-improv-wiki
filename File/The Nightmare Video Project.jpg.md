@@ -6,7 +6,7 @@ description: "Marc Majcher, in character as \"The Gatekeeper\", in The Nightmare
 ## Summary
 [[Performers/Marc Majcher|Marc Majcher]], in character as "The Gatekeeper", in *[[Shows/The Nightmare Video Project|The Nightmare Video Project]]*.
 
-Still from video footage by [[Performers/Peter Rogers|Peter Rogers]].
+Still from video footage by [[Talk/Peter Rogers|Peter Rogers]].
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].
 

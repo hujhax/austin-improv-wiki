@@ -6,7 +6,7 @@ description: "Sample gameplay from The Hideout Text Adventure."
 ## Summary
 Sample gameplay from [[The Hideout Text Adventure]].
 
-(Capture by [[Performers/Peter Rogers|Peter Rogers]].)
+(Capture by [[Talk/Peter Rogers|Peter Rogers]].)
 
 ## Licensing
 The owner of this image has granted free use of this file with no restrictions.

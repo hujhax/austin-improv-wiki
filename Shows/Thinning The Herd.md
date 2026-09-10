@@ -187,7 +187,7 @@ Season two ran from 2/10/13 to June of 2013.
 * [[Performers/Les McGehee|Les McGehee]]
 * [[Performers/Mark Shoemaker|Mark Shoemaker]]
 * Monica Ybarra-Torres
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 * Sandra Ybarra
 * [[Performers/Tom Booker|Tom Booker]]
 * [[Performers/Tyler Bryce|Tyler Bryce]]

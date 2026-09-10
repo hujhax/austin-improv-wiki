@@ -102,7 +102,7 @@ Their answer to the "What's Your Deal?" question on a 2009 application to perfor
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.440615232264.213648.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their performance in the 5/13/10 *[[Shows/Threefer|Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.440615232264.213648.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their performance in the 5/13/10 *[[Shows/Threefer|Threefer]]*.
   * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the same show.
 
 ## More Information

@@ -21,7 +21,7 @@ This is a list of Austin improv teachers:
 * [[Performers/Clifton Highfield|Clifton Highfield]]
 * [[Performers/Sean Hill|Sean Hill]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Michael Jastroch|Michael Jastroch]]
 * [[Performers/Michael Joplin|Michael Joplin]]
 * [[Performers/Aden Kirschner|Aden Kirschner]]

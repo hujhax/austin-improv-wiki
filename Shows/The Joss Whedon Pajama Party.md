@@ -195,7 +195,7 @@ With the massive success of [[Shows/Live TV Tuesdays -  Firefly|the *Firefly* mu
 
 The show was hosted by [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]], who was also in charge of the improv sections of the show, put on every night by an ad hoc troupe called "The Mutant Enemies", after Whedon's production company.
 
-[[Performers/Chelley Pyatt|Chelley Pyatt]] was in charge of getting sketch material together, which was written by herself, [[Performers/Peter Rogers|Peter Rogers]], [[Performers/Cindy Page|Cindy Page]], [[Performers/Asaf Ronen|Asaf Ronen]], and [[Performers/Sarah Swofford|Sarah Swofford]].
+[[Performers/Chelley Pyatt|Chelley Pyatt]] was in charge of getting sketch material together, which was written by herself, [[Talk/Peter Rogers|Peter Rogers]], [[Performers/Cindy Page|Cindy Page]], [[Performers/Asaf Ronen|Asaf Ronen]], and [[Performers/Sarah Swofford|Sarah Swofford]].
 
 Each performance included a trivia contest, with questions written by [[Performers/Chelley Pyatt|Chelley Pyatt]].
 
@@ -212,7 +212,7 @@ All June 2012 shows were hosted by [[Performers/Jordan T. Maxwell|Jordan T. Maxw
   * [[Performers/Heidi Rogers|Heidi Rogers]]
   * [[Performers/Jason Vines|Jason Vines]]
   * [[Performers/Kristin Firth|Kristin Firth]]
-  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Talk/Peter Rogers|Peter Rogers]]
   * [[Performers/Sarah Swofford|Sarah Swofford]]
 * Sketch players:
   * Alex Kingston
@@ -248,7 +248,7 @@ All June 2012 shows were hosted by [[Performers/Jordan T. Maxwell|Jordan T. Maxw
   * [[Performers/Heath Allyn|Heath Allyn]]
   * Jeremy Logan
   * [[Performers/Kristin Firth|Kristin Firth]]
-  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Talk/Peter Rogers|Peter Rogers]]
   * [[Performers/Sarah Swofford|Sarah Swofford]]
 
 ### 1/25/13 Performance
@@ -259,7 +259,7 @@ All June 2012 shows were hosted by [[Performers/Jordan T. Maxwell|Jordan T. Maxw
   * [[Performers/Heath Allyn|Heath Allyn]]
   * [[Performers/Jason Vines|Jason Vines]]
   * [[Performers/Lindsey Reeves|Lindsey Reeves]]
-  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Talk/Peter Rogers|Peter Rogers]]
   * [[Performers/Sarah Swofford|Sarah Swofford]]
 * *[[Shows/Fandom|Fandom]]* players:
   * [[Performers/Aaron Saenz|Aaron Saenz]]
@@ -270,7 +270,7 @@ All June 2012 shows were hosted by [[Performers/Jordan T. Maxwell|Jordan T. Maxw
   * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
   * [[Performers/Marc Majcher|Marc Majcher]]
   * [[Performers/Meghan Wolff|Meghan Wolff]] (guest)
-  * [[Performers/Peter Rogers|Peter Rogers]]
+  * [[Talk/Peter Rogers|Peter Rogers]]
   * [[Performers/Sarah Marie Curry|Sarah Marie Curry]] (guest)
 
 ## Media
@@ -279,7 +279,7 @@ All June 2012 shows were hosted by [[Performers/Jordan T. Maxwell|Jordan T. Maxw
 * ["Burton does *Buffy*"](http://vimeo.com/45108059): filmmaker Tim Burton's take on a scene from "Blood Ties".
 * ["Cancellation Support Group"](http://vimeo.com/44147529): Whedon consoles Dan Harmon after the showrunner is fired from *Community*.  Chuck Lorre sends a gift basket.
 * ["Joss Whedon's Dream Project"](http://vimeo.com/45173703): the trailer for the 'dream project' Joss Whedon gets to do after the success of *The Avengers*.
-* ["Mamet does *Buffy*"](http://vimeo.com/45110204): [[Performers/Peter Rogers|Peter Rogers]] and [[Troupes/Confidence Men|Confidence Men]] present the playwright's take on a scene from "Blood Ties".
+* ["Mamet does *Buffy*"](http://vimeo.com/45110204): [[Talk/Peter Rogers|Peter Rogers]] and [[Troupes/Confidence Men|Confidence Men]] present the playwright's take on a scene from "Blood Ties".
 * ["Reaverdance"](http://youtu.be/UQqW3UFqWbc): exactly what it says on the tin.
 * "Wash Has Too Much Time On His Hands": left to his own devices with a Weyland-Yutani recording device and his dinosaur toys, Wash makes some little home movies: [1](http://vimeo.com/45295722), [2](http://vimeo.com/45295972), [3](http://vimeo.com/45295836).
 * ["Whedon-Bay Band"](http://vimeo.com/44627632): Wesleyan college roommates Joss Whedon and Michael Bay have a rehearsal for their fledgling garage band.

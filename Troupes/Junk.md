@@ -99,19 +99,19 @@ Junk performed its 100th show on 12/22/12.
 * Video of their 4/25/09 show: [part 1](http://www.viddler.com/v/fae5617e), [part 2](http://www.viddler.com/v/f27a016d).
 * Video of their 11/14/09 show: [part 1](http://www.viddler.com/v/53f51a81), [part 2](http://www.viddler.com/v/80f8da34).
 * [Video of their 3/27/10 show.](http://www.viddler.com/v/522e182e)
-* [Video](http://vimeo.com/19637134) by [[Performers/Peter Rogers|Peter Rogers]] of the 2/3/11 show.
+* [Video](http://vimeo.com/19637134) by [[Talk/Peter Rogers|Peter Rogers]] of the 2/3/11 show.
 * [Video of their 3/26/11 show.](http://www.viddler.com/v/785e5a8e)
 * [Video of their 11/9/12 show](http://www.viddler.com/v/8b20d9f0) at [[Festivals/WaffleFest 2012|WaffleFest 2012]].
 * [Video of their 8/30/12 show](http://www.viddler.com/v/976320e1) at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129983882264.120571.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/28/09 performance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129983882264.120571.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/28/09 performance in [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1137160881099.2019048.1589679282&type=3) by [[Roy Moore]] of their 12/4/09 show.
 * [Photoset](http://www.facebook.com/MadelineChauvin/media_set?set=a.10100190598071810.2855599.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 3/26/10 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.1280492264294.2033519.1589679282&type=1) by [[Roy Moore]] that includes their 6/12/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1313301724510.2038344.1589679282&type=3) by [[Roy Moore]] that includes their 7/24/10 performance in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.482836252264.261191.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/2/10 show from [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150150639897265.328168.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 2/3/11 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.482836252264.261191.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/2/10 show from [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150150639897265.328168.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 2/3/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.107229196024779.16125.100002130980897&type=3) by [[Steve Rogers]] of their 2/26/11 show.
 * [Photoset](http://www.facebook.com/SteveRogers1212/media_set?set=a.113369138744118.21579.100002130980897&type=3) by [[Steve Rogers]] of their 3/26/11 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes their 6/3/11 show in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].

@@ -28,7 +28,7 @@ image: "File/Roy%20Janik.jpg"
 Roy is a co-owner of [[Theatres/The Hideout Theatre|The Hideout Theatre]] and its Artistic Director.
 
 ## History
-Roy was a core cast member in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]] and [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
+Roy was a core cast member in [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]] and [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]].
 
 A post from him about the first improv show he ever saw:
 > The first show I remember seeing was *[[Shows/Micetro|Micetro]]*, sometime around 2000, maybe, in the downstairs. Man, I didn't know it at the time, but it was early on in the Hideout's life.

@@ -1,7 +1,7 @@
 ---
 redirect: "Performers/Bob Apthorpe"
 ---
-#REDIRECT [[Performers/Bob Apthorpe]]
+#REDIRECT [[User/Bob Apthorpe]]
 
 <script>
   (function() {

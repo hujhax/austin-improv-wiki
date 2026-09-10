@@ -9,7 +9,7 @@ In the improv marathon, a core cast of eight improvisors performs some number of
 In its first year, the marathon was a fundraiser for the Hideout itself.  The next year, it became a fundraiser for The Hideout Theatre Youth Scholarship Fund.
 
 ## History
-The first record of the idea for the marathon is an email from [[Performers/Andy Crouch|Andy Crouch]] to [[Performers/Roy Janik|Roy Janik]] from 8/15/08:
+The first record of the idea for the marathon is an email from [[Performers/Andy Crouch|Andy Crouch]] to [[User/Roy Janik|Roy Janik]] from 8/15/08:
 > "We absolutely should do a 52-hour improv marathon as a fundraiser. You have a core group of people that actually stays up for the full time. Some people won't make it, but some will. You bring in guest players and change format every hour, working in all of our main formats (*[[Shows/Maestro|Maestro]]*, *[[Shows/Gorilla Theater|Gorilla]]*, *[[Shows/TheatreSports|TheatreSports]]*, *[[Shows/Six Degrees|Six Degrees]]*, *[[Shows/Start Trekkin'|Start Trekkin']]*, [[Shows/Improvised Shakespeare|Shakespeare]], *[[Shows/After School Improv|After School Special]]*, improvised musical, etc.) maybe more than once, and we make up some fun formats to fill the hours."
 
 The marathon debuted as [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]] in 2009.  The event has recurred every subsequent year, with the number of hours incrementing by one every time.
@@ -18,7 +18,7 @@ The marathon debuted as [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Impr
 * 2009: [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]]
 * 2010: [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]]
 * 2011: [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]]
-* 2012: [[Festivals/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]
+* 2012: [[Talk/The 43-Hour Improv Marathon|The 43-Hour Improv Marathon]]
 * 2013: [[Festivals/The 44-Hour Improv Marathon|The 44-Hour Improv Marathon]]
 * 2014: [[Festivals/The 45-Hour Improv Marathon|The 45-Hour Improv Marathon]]
 * 2015: [[Festivals/The 46-Hour Improv Marathon|The 46-Hour Improv Marathon]]

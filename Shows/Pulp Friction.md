@@ -152,6 +152,6 @@ It was a mainstage show at [[Theatres/The Institution Theater|The Institution Th
 * [Rehearsal, publicity, and performance photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10102239324058510.3438913.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.466675823353918.105342.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 9/7/12 show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.421587074571481.102701.221927764537414&type=3) by [[Steve Rogers]] of their 9/14/12 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151322055487265.525636.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/26/12 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151322055487265.525636.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 10/26/12 show.
 
 Pulp

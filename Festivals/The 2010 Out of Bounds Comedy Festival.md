@@ -158,7 +158,7 @@ It featured Kevin McDonald (formerly of The Kids in the Hall) as a headliner.
 * [Video of the 9/5/10 "Rocket Surgery" interview with Kevin McDonald.](http://blip.tv/out-of-bounds-comedy-festival/rocket-surgery-with-kevin-mcdonald-oob-2010-4763290)
 
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set designs:
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s set designs:
   * At [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]]: 
     * The small stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_5/oob2010_5.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_4/oob2010_4.jpg?disposition=download).
     * The large stage: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_7/oob2010_7.jpg?disposition=download),[2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_8/oob2010_8.jpg?disposition=download),[3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/oob2010_6/oob2010_6.jpg?disposition=download).

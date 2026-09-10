@@ -82,7 +82,7 @@ description: "Webseries set in a game-production company."
 ## Cast
 * Grayson - [[Performers/Heath Allyn|Heath Allyn]]
 * J. T. T. - [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-* LARP - [[Performers/Peter Rogers|Peter Rogers]]
+* LARP - [[Talk/Peter Rogers|Peter Rogers]]
 * Mace - Josephine McAdam
 * New AP - [[Performers/Kevin Machate|Kevin Machate]]
 

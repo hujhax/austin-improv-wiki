@@ -171,13 +171,13 @@ The show was produced by [[Theatres/Gnap! Theater Projects|Gnap! Theater Project
 * [[Performers/Lauren Buck|Lauren Buck]] as Brenda Walsh
 * [[Performers/Shana Merlin|Shana Merlin]] as Andrea Zuckerman
 
-Flex Cast: [[Performers/Amy Averett|Amy Averett]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Kimberly Cox|Kimberly Cox]], [[Performers/Mark Carpenter|Mark Carpenter]], [[Performers/Peter Rogers|Peter Rogers]]
+Flex Cast: [[Performers/Amy Averett|Amy Averett]], [[Performers/Kevin Miller|Kevin Miller]], [[Performers/Kimberly Cox|Kimberly Cox]], [[Performers/Mark Carpenter|Mark Carpenter]], [[Talk/Peter Rogers|Peter Rogers]]
 
 Musician:  Vinh Ngo
 
 Tech Crew: Anne Wolfe Andersen, [[Performers/Jen Kaplan|Jen Kaplan]]
 
-Assistant Director: [[Performers/Peter Rogers|Peter Rogers]]
+Assistant Director: [[Talk/Peter Rogers|Peter Rogers]]
 
 ## Media
 ### Videos

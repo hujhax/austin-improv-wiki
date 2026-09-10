@@ -4,7 +4,7 @@ description: "Rachel Posey Austin, performing with Camp Madeupponaspotta in Thea
 ![[File/Rachel Posey Austin.jpg]]
 
 ## Summary
-[[Performers/Rachel Posey Austin|Rachel Posey Austin]], performing with *[[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]* in *[[Shows/TheatreSports|TheatreSports]]* on 5/31/14.
+[[Performers/Rachel Posey Austin|Rachel Posey Austin]], performing with *[[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]]* in *[[Shows/TheatreSports|TheatreSports]]* on 5/31/14.
 
 Photo by [[Performers/Dave alley|Dave alley]], from [this photoset](http://www.facebook.com/Doccerz/media_set?set=a.10152058138020793.1073741869.666390792&type=3).
 ## Licensing

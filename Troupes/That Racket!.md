@@ -82,10 +82,10 @@ That Racket! formed in January of 2014, primarily from people who met in the mus
 
 ## Media
 ### Photos
-* [http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Racket Publicity photos by [[Steve Rogers]].]
+* [Publicity photos by [[Steve Rogers](http://www.steve-rogers-photography.com/Headshots/Cast-Photos/Racket)].]
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152430621782107.1073741833.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their 6/25/14 championship match in *[[Shows/The Cagematch|The Cagematch]]*.
 * [Photoset](http://www.facebook.com/chriscurl/media_set?set=a.10152626911067107.1073741857.549002106&type=3) by [[Performers/Chris Curl|Chris Curl]] of their 9/17/14 performance in [[Shows/The Cagematch|The Cagematch]].
-* [Photoset](http://www.facebook.com/media/set/?set=a.10152877931967265.1073741862.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 10/31/14 performance in [[Shows/Mister Morbid|Mister Morbid]].
+* [Photoset](http://www.facebook.com/media/set/?set=a.10152877931967265.1073741862.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 10/31/14 performance in [[Shows/Mister Morbid|Mister Morbid]].
 
 ## More Information
 * [The troupe's facebook page.](http://www.facebook.com/thatracketaustin)

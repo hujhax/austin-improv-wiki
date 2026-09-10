@@ -4,7 +4,7 @@ description: "Photo of Dana Yanoshak taken during the Apocalypse photo shoot."
 ![[File/Dana Yanoshak Pic.jpg]]
 
 ## Summary
-Photo of [[Performers/Dana Yanoshak|Dana Yanoshak]] taken during the Apocalypse photo shoot.
+Photo of [[User/Dana Yanoshak|Dana Yanoshak]] taken during the Apocalypse photo shoot.
 
 Photo by [[Performers/Heidi Rogers|Heidi Rogers]]
 ## Licensing

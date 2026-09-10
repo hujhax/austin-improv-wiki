@@ -1,5 +1,5 @@
 ## Summary
-Publicity photo of [[Pretty Jack Jaybird]].
+Publicity photo of [[Troupes/Pretty Jack Jaybird]].
 
 Photo by: unknown.
 ## Licensing

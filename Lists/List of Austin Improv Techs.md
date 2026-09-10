@@ -8,7 +8,7 @@ This is a list of Austin's technical improvisors:
 * [[Performers/Chris Albano|Chris Albano]]
 * [[Performers/Rachel Posey Austin|Rachel Posey Austin]]
 * [[Performers/Nichole Bennett|Nichole Bennett]]
-* [[Performers/Thedward Blevins|Thedward Blevins]]
+* [[Talk/Thedward Blevins|Thedward Blevins]]
 * [[Performers/Kelly Campbell|Kelly Campbell]]
 * [[Performers/Brent Chismark|Brent Chismark]]
 * [[Performers/Cortney DeAngelo|Cortney DeAngelo]]

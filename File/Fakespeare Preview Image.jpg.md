@@ -6,7 +6,7 @@ description: "Preview image for Fakespeare, featuring director Andy Crouch."
 ## Summary
 Preview image for *[[Shows/Fakespeare|Fakespeare]]*, featuring director [[Performers/Andy Crouch|Andy Crouch]].
 
-Artwork by [[Performers/Kaci Beeler|Kaci Beeler]].
+Artwork by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Photo by: unknown.
 

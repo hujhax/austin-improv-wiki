@@ -194,7 +194,7 @@ For the remaining shows, they just let the title and table-read dictate the genr
 * [[Performers/John Ratliff|John Ratliff]]
 * [[Performers/Jon Bolden|Jon Bolden]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Michael Joplin|Michael Joplin]]
@@ -257,7 +257,7 @@ The show is returning in 2016 as a Hideout mainstage show.
   * Note that this photoset is locked to Anna's friends.
 
 ### Other
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set/process-set.jpg?disposition=download ], [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set-actors/process-set-actors.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/kaci-kareem-sword-fight/kaci-kareem-sword-fight.jpg?disposition=download).
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s 2011 set design: [http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set/process-set.jpg?disposition=download ], [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/process-set-actors/process-set-actors.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/kaci-kareem-sword-fight/kaci-kareem-sword-fight.jpg?disposition=download).
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/process)

@@ -208,7 +208,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 
 ### Casts
 #### [[Troupes/Improv For Evil|Improv For Evil]] Runs
-* [[Performers/Bob Apthorpe|Bob Apthorpe]]
+* [[User/Bob Apthorpe|Bob Apthorpe]]
 * [[Performers/Eric Heiberg|Eric Heiberg]]
 * [[Performers/Jason Vines|Jason Vines]]
 * [[Performers/Marc Majcher|Marc Majcher]]
@@ -249,7 +249,7 @@ It returned in 2014 for a June/July run as one of the first [[Hideout Student Ma
 * [Video of the 1/31/09 performance: "Tag You're It".](http://youtu.be/tR3RSQkm1yM)
 
 ### Other
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s 2008 set design.
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/3066392555_88d13bf6de_o/3066392555_88d13bf6de_o.jpg?disposition=download) of [[Talk/Kaci Beeler|Kaci Beeler]]'s 2008 set design.
 
 ## More Information
 * [The announcement of the dates](http://forum.austinimprov.com/viewtopic.php?p=72523) for Frontera Fest on [[The Austin Improv Forums]].

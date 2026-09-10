@@ -42,7 +42,7 @@ In 2013 Cody became the Artistic Director as well as the Education Director for 
 
 Throughout his life as a performer Cody has been involved in a number of shows in every aspect from performer, to director, to tech, to marketing... 
 
-Cody subbed in for [[Performers/Roy Janik|Roy Janik]] as part of "Substitute Parallelogramophonograph" on 2/1/13.
+Cody subbed in for [[User/Roy Janik|Roy Janik]] as part of "Substitute Parallelogramophonograph" on 2/1/13.
 
 A post from him about the first improv show he ever saw:
 > I saw Four Day Weekend in Fort Worth in 2002. I still remember laughing at the first scene.

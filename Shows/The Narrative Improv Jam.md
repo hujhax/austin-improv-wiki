@@ -47,7 +47,7 @@ Due to poor attendance, the show was quickly replaced with *[[Shows/The TV Set|T
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150623993402265.445112.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/20/12 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150623993402265.445112.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/20/12 show.
 
 ## More Information
 * [The show's web page.](http://www.hideouttheatre.com/shows/TheNarrativeImprovJam)

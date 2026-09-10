@@ -59,7 +59,7 @@ A post from him about the first improv show he ever saw:
 * *[[Shows/Start Trekkin'|Start Trekkin']]*
 * *Slumber Party Slaughter*
 * *[[Shows/False Matters|False Matters]]*
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]*
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]*
 * *[[Shows/Cover to Cover|Cover to Cover]]*
 * *[[Shows/Steam|Steam]]*
 * *[[Shows/Not This American Life|Not This American Life]]*

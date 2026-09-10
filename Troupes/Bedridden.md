@@ -78,6 +78,6 @@ description: "An improv and sketch troupe."
 ## History
 [[Troupes/Bedridden|Bedridden]] was one of the first troupes of the [[Austin Improv Collective]] era, and one of the first troupes to play an [[Austin Improv Collective]]-branded show.
 
-They performed a sketch show written by [[Performers/Peter Rogers|Peter Rogers]] and [[Performers/Ceej Allen|Ceej Allen]] in Frontera Fest.
+They performed a sketch show written by [[Talk/Peter Rogers|Peter Rogers]] and [[Performers/Ceej Allen|Ceej Allen]] in Frontera Fest.
 
 [[Category/Troupes|Category:Troupes]]

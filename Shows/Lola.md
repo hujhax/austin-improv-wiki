@@ -151,7 +151,7 @@ The show improvised the same narrative three times, with three radically differe
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 6/27/09 performance during [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129974577264.120565.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 6/27/09 performance during [[Festivals/The 40-Hour Improv Marathon|The 40-Hour Improv Marathon]].
 
 ### Publicity
 * [Trailer for the show.](http://youtu.be/xyBEnvbJx_Y)

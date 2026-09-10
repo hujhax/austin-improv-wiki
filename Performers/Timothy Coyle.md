@@ -107,17 +107,17 @@ Born and raised in Chicago, relocating to Austin in August 2000.  It only took T
 * KNOCK-OUT 2015 - current
 
 ## Free Fringes
-* *All Stars and Me* Produced by ([[Performers/Tim Coyle|Tim Coyle]])
+* *All Stars and Me* Produced by ([[User/Tim Coyle|Tim Coyle]])
 * *Ceej Character Explosion* Produced by ([[Performers/Ceej Allen|Ceej Allen]])
-* *Hug Day* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
+* *Hug Day* Produced by ([[User/Tim Coyle|Tim Coyle]]) 
 * *PLANK-A-THON!* Produced by ([[Performers/Joy Parks|Joy Parks]]) 
 * *Hideout Action News Team* Produced by ([[Performers/Sushant Sethi|Sushant Sethi]]) 
-* *Take me out to the Ballgame* Produced by ([[Performers/Tim Coyle|Tim Coyle]]) 
+* *Take me out to the Ballgame* Produced by ([[User/Tim Coyle|Tim Coyle]]) 
 * *Tim In A Cup* Produced by (Angie Alegria Smith)
 * *[[Troupes/You Bet Your Life|You Bet Your Life]]* Produced by ([[Performers/Robert Slack|Robert Slack]])
 * *Sinistral* Produced by ([[Performers/Ellen Pizarek|Ellen Pizarek]])
 * *An Apply for Teacher* Produced by ([[Performers/Joy Parks|Joy Parks]])
-* *WaffleFest Volunteer Appreciation Show / Improv Derby* Produced by ([[Performers/Tim Coyle|Tim Coyle]])
+* *WaffleFest Volunteer Appreciation Show / Improv Derby* Produced by ([[User/Tim Coyle|Tim Coyle]])
 * *Bronze* Produced by ([[Performers/Mitchell Deane|Mitchell Deane]])
 
 ## Production

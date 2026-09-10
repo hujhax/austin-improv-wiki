@@ -4,9 +4,9 @@ description: "Head shot of Ryan Austin."
 ![[File/Ryan Austin Pic.jpg]]
 
 ## Summary
-Head shot of [[Performers/Ryan Austin|Ryan Austin]].
+Head shot of [[User/Ryan Austin|Ryan Austin]].
 
-(Copyright owned by [[Performers/Ryan Austin|Ryan Austin]].)
+(Copyright owned by [[User/Ryan Austin|Ryan Austin]].)
 
 ## Licensing
 The owner of this file's copyright has given permission to use this file on [[Main Page|the AIC Wiki]].

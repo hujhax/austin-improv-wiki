@@ -6,7 +6,7 @@ description: "Promo image for ¡Escándalo!, featuring the cast."
 ## Summary
 Promo image for [[Shows/¡Escándalo!|¡Escándalo!]], featuring the cast.
 
-Design by [[Performers/Kaci Beeler|Kaci Beeler]].
+Design by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Photos by [[Steve Rogers]].
 ## Licensing

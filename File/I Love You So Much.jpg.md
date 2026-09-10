@@ -6,7 +6,7 @@ description: "Publicity poster for I Love You So Much."
 ## Summary
 Publicity poster for *[[Shows/I Love You So Much|I Love You So Much]]*.
 
-Art by [[Performers/Kaci Beeler|Kaci Beeler]].
+Art by [[Talk/Kaci Beeler|Kaci Beeler]].
 
 Photos by [[Performers/Jon Bolden|Jon Bolden]].
 

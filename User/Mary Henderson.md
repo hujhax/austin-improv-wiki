@@ -1,7 +1,7 @@
 ---
 redirect: "Performers/Mary Henderson"
 ---
-#REDIRECT [[Performers/Mary Henderson]]
+#REDIRECT [[User/Mary Henderson]]
 
 <script>
   (function() {

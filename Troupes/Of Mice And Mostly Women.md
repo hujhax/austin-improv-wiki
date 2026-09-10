@@ -12,12 +12,12 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>Of Mice And Mostly Women is a troupe consisting of seniors and juniors in high school. They originate from St. Stephen's Episcopal School in Austin, but have branched out from the school. The group met around 2 years ago in an improv club and has been working hard and having fun since. They mainly focus on long for narrative improv, but are pretty much down for most. They work well as a pretty darn good dance troupe as well. </blockquote>
+Their press blurb, taken from a 2014 application to perform at [[Theatres/The Hideout Theatre]]:> Of Mice And Mostly Women is a troupe consisting of seniors and juniors in high school. They originate from St. Stephen's Episcopal School in Austin, but have branched out from the school. The group met around 2 years ago in an improv club and has been working hard and having fun since. They mainly focus on long for narrative improv, but are pretty much down for most. They work well as a pretty darn good dance troupe as well.
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[The Hideout Theatre]]:<blockquote>We do long form narrative.
-
-It kind of goes off from its own from there. We sometimes do "Bat" like openings or organic openings and see where the tides take us. </blockquote>
+Their answer to the "What's Your Deal?" question on a 2014 application to perform at [[Theatres/The Hideout Theatre]]:> We do long form narrative.
+> 
+> It kind of goes off from its own from there. We sometimes do "Bat" like openings or organic openings and see where the tides take us.
 
 [[Category/Troupes]]
 [[Category/Auto-Generated Troupe Pages]]

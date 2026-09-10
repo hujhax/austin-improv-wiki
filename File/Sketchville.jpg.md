@@ -6,7 +6,7 @@ description: "Opening title card for Sketchville."
 ## Summary
 Opening title card for *[[Shows/Sketchville|Sketchville]]*.
 
-Photo (of a building exterior on South Congress) by [[Performers/Peter Rogers|Peter Rogers]].
+Photo (of a building exterior on South Congress) by [[Talk/Peter Rogers|Peter Rogers]].
 
 Art by Howard des Chenes.
 ## Licensing

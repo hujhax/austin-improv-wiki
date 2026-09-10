@@ -197,7 +197,7 @@ image: "File/The%20Sicks.jpg"
 
 (The Sicks were presented as a group of Mormon orphaned circus children who performed their Brady Bunch style variety show to keep from starving.)
 
-[[Performers/Bob Apthorpe|Bob Apthorpe]] directed their second show run, The Revenge of the Sicks, which had the following members:
+[[User/Bob Apthorpe|Bob Apthorpe]] directed their second show run, The Revenge of the Sicks, which had the following members:
 * Ben Sterling (Density Lad)
 * Jonathan Hunt (Doe Boy)
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]] (Avatar)

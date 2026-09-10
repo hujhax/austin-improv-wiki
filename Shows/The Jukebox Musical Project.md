@@ -286,7 +286,7 @@ Set during the Salem Witch Trials and featuring music by Radiohead (July 2015)
 ### Renaissance Queen
 Set during the Italian Renaissance and featuring music by Queen (October 2015)
 #### Cast
-* [[Performers/Peter Rogers|Peter Rogers]] - Leonardo
+* [[Talk/Peter Rogers|Peter Rogers]] - Leonardo
 * [[Performers/Bryan Curry|Bryan Curry]] - Michelangelo
 * Nicholaus Weindel - Rafael 
 * Kim Stacy - Chorus/Teacher
@@ -327,7 +327,7 @@ The story of Annie Oakley and Calamity Jane as told through the music of Beyonc√
 
 ### Other
 * Promos for "Renaissance Queen":
-  * [Video](http://vimeo.com/142341649) by [[Performers/Peter Rogers|Peter Rogers]].
+  * [Video](http://vimeo.com/142341649) by [[Talk/Peter Rogers|Peter Rogers]].
   * [Video](http://www.facebook.com/groups/217905648309669/permalink/682285508538345/) by [[Performers/Tom Booker|Tom Booker]].
 
 ## More Information

@@ -91,7 +91,7 @@ At the start of the show, the troupe got a suggestion from the audience that the
 ## Media
 ### Videos
 * [Video](http://vimeo.com/45799415) by [[Performers/Paul Normandin|Paul Normandin]] of their 7/14/12 show at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
-* [Video](http://vimeo.com/50120574) by [[Performers/Peter Rogers|Peter Rogers]] of their 9/21/12 show.
+* [Video](http://vimeo.com/50120574) by [[Talk/Peter Rogers|Peter Rogers]] of their 9/21/12 show.
 
 ### Photos
 * [Rehearsal and publicity photos](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10101751599242950.3370973.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]].

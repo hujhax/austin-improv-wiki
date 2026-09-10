@@ -1,7 +1,7 @@
 ---
 redirect: "Performers/Dana Yanoshak"
 ---
-#REDIRECT [[Performers/Dana Yanoshak]]
+#REDIRECT [[User/Dana Yanoshak]]
 
 <script>
   (function() {

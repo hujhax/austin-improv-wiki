@@ -16,7 +16,7 @@ description: "Pages in category \"The Hideout Theatre\"."
 * [[Shows/Boy, Howdy!|Boy, Howdy!]]
 * [[Shows/Boys of Summer|Boys of Summer]]
 * [[Shows/Buddy Cop|Buddy Cop]]
-* [[Shows/Camp Madeupponaspotta|Camp Madeupponaspotta]]
+* [[Talk/Camp Madeupponaspotta|Camp Madeupponaspotta]]
 * [[Shows/Charles Dickens Unleashed|Charles Dickens Unleashed]]
 * [[Shows/Click Click Whir|Click Click Whir]]
 * [[Shows/Close Up|Close Up]]

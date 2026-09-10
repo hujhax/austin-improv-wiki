@@ -135,9 +135,9 @@ This is their bio from their web site:
 * [Video](http://vimeo.com/125266916) of their 4/11/15 show at [[Festivals/The 2015 Improvised Play Festival|The 2015 Improvised Play Festival]].
 
 ### Photos
-* [Photoset](http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/25/09 show.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242737852264.168272.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 12/11/09 performance ("Asylum").
+* [Photoset](http://www.facebook.com/media/set/?set=a.129961227264.120554.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/25/09 show.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.217721897264.161767.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] that includes their 11/15/09 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.242737852264.168272.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 12/11/09 performance ("Asylum").
 * [Photoset](https://www.facebook.com/MadelineChauvin/media_set?set=a.10100417741200160.3101439.7944448&type=3) by [[Performers/Jo Chauvin|Jo Chauvin]] of their 3/25/10 "Women With Confidence" show (featuring guest performer [[Performers/Shana Merlin|Shana Merlin]]).
 * [Photoset](http://www.facebook.com/tylerbryce/media_set?set=a.414116062703.206133.505207703&type=3) by [[Performers/Tyler Bryce|Tyler Bryce]] of their April 2010 show at the Red Dirt Improv Festival in Oklahoma.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes their 5/21/10 show.
@@ -167,7 +167,7 @@ This is their bio from their web site:
 * [Photoset of the 5/5/12 show](http://www.facebook.com/media/set/?set=a.356294337767422.86509.221927764537414&type=3) which they shared with [[Troupes/Girls Girls Girls|Girls Girls Girls]] (photos by [[Steve Rogers]]).
 * [Photoset](http://www.facebook.com/Heidi.N.Rogers/media_set?set=a.10103380530371910.1073741835.7909117&type=3) by [[Performers/Heidi Rogers|Heidi Rogers]] that includes their July 2013 "UN" show, as well as their 100th show.
 * [Photoset](http://www.facebook.com/media/set/?set=a.415265488536973.100822.221927764537414&type=3) by [[Steve Rogers]] that includes their 8/31/12 show at [[Festivals/The 2012 Out of Bounds Comedy Festival|The 2012 Out of Bounds Comedy Festival]].
-* [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291684187265.521166.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] from after their 9/27/12 show at Improvaganza in Honolulu.
+* [Casual photos](http://www.facebook.com/hujhax/media_set?set=a.10151291684187265.521166.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] from after their 9/27/12 show at Improvaganza in Honolulu.
 * [Photoset](http://www.facebook.com/media/set/?set=a.525065577556963.1073741857.221927764537414&type=3) by [[Steve Rogers]] of their 4/13/13 at [[Festivals/The 2013 Improvised Play Festival|The 2013 Improvised Play Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.4771818696130.1073741835.1315383518&type=3) by [[Michael Yew]] of their 5/18/13 show with special guest Joe Bill.
 * [Photoset](http://www.facebook.com/media/set/?set=a.530515880350429.1073741857.118587218209966&type=3) by [[Roy Moore]] of the 8/31/13 show at [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].

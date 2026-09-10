@@ -1,7 +1,7 @@
 ---
 redirect: "Talk/Lindsey McGowen"
 ---
-#REDIRECT [[Talk/Lindsey McGowen]]
+#REDIRECT [[Performers/Lindsey McGowen]]
 
 <script>
   (function() {

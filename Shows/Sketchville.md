@@ -213,7 +213,7 @@ The series was projected to eventually zero in on a botched robbery in the middl
 * Phone Company Employee #1: Miguel Jimenez
 * Phone Company Employee #2: Chibbi Orduna
 * Ruthven: Andy Fleming
-* Ted: [[Performers/Bob Apthorpe|Bob Apthorpe]]
+* Ted: [[User/Bob Apthorpe|Bob Apthorpe]]
 * Tiffany: [[Performers/Kacey Samiee|Kacey Samiee]]
 
 ### Crew
@@ -226,17 +226,17 @@ The series was projected to eventually zero in on a botched robbery in the middl
 * Assistant Cameraman: Kyle Osburn
 * Grip/Electric: Chris Chang
 * Sound Engineers: Nick Fang, Martin Pederson
-* Props: [[Performers/Peter Rogers|Peter Rogers]]
+* Props: [[Talk/Peter Rogers|Peter Rogers]]
 * Locations Manager: Brandy Retzolk
 * Crafts/Catering: Karin L. Kross
-* Editor: Amy Leland & [[Performers/Peter Rogers|Peter Rogers]]
+* Editor: Amy Leland & [[Talk/Peter Rogers|Peter Rogers]]
 * Music: Jonathan Van Matre
 * Sound Mixer: Greg Armstrong
 * Title Graphics: Howard Des Chenes
-* Written by [[Performers/Peter Rogers|Peter Rogers]] & Karin L. Kross
+* Written by [[Talk/Peter Rogers|Peter Rogers]] & Karin L. Kross
 
 ## History
-The series was written and shot in 2006-2008, completing primary filming on fourteen episodes out of a projected thirty.  After that, the project went dormant in post-production until 2014, when [[Performers/Peter Rogers|Peter Rogers]] completed the editing process and put all the completed episodes online.
+The series was written and shot in 2006-2008, completing primary filming on fourteen episodes out of a projected thirty.  After that, the project went dormant in post-production until 2014, when [[Talk/Peter Rogers|Peter Rogers]] completed the editing process and put all the completed episodes online.
 
 ## Media
 ### Videos

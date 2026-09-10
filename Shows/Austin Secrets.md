@@ -165,13 +165,13 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Curtis Luciani|Curtis Luciani]]
 * [[Performers/John Ratliff|John Ratliff]]
 * [[Performers/Jon Bolden|Jon Bolden]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Kristin Firth|Kristin Firth]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Meghan Wolff|Meghan Wolff]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 
@@ -182,15 +182,15 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/John Ratliff|John Ratliff]]
 * [[Performers/Jon Bolden|Jon Bolden]]
 * [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
 * [[Performers/Kristin Firth|Kristin Firth]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Mike Sullivan|Mike Sullivan]]
-* [[Performers/Peter Rogers|Peter Rogers]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[Talk/Peter Rogers|Peter Rogers]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Stacy Kaplowitz|Stacy Kaplowitz]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 
@@ -201,14 +201,14 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/Jayme Ramsay|Jayme Ramsay]]
 * [[Performers/Jon Bolden|Jon Bolden]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Nicole Oliver|Nicole Oliver]]
 * [[Performers/Paul Normandin|Paul Normandin]]
-* [[Performers/Peter Rogers|Peter Rogers]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[Talk/Peter Rogers|Peter Rogers]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Valerie Ward|Valerie Ward]]
 
 #### Crew
@@ -228,7 +228,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Jeanette Jones|Jeanette Jones]]
 * [[Performers/John Ratliff|John Ratliff]]
 * [[Performers/Jon Bolden|Jon Bolden]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Karen Jane Dewitt|Karen Jane Dewitt]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Michael Joplin|Michael Joplin]]
@@ -249,7 +249,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Heather Hasselle|Heather Hasselle]]
 * [[Performers/John Ratliff|John Ratliff]]
 * [[Performers/Jon Bolden|Jon Bolden]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Quinn Buckner|Quinn Buckner]]
 * [[Performers/Shannon Dale Stott|Shannon Dale Stott]]
@@ -271,7 +271,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/Heather Hasselle|Heather Hasselle]]
 * [[Performers/Jon Bolden|Jon Bolden]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Lisa Michelle Jackson|Lisa Michelle Jackson]]
 * [[Performers/Luke Wallens|Luke Wallens]]
@@ -295,7 +295,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [[Performers/Chuy Zarate|Chuy Zarate]]
 * [[Performers/Courtney Hopkin|Courtney Hopkin]]
 * [[Performers/J. R. Zambrano|J. R. Zambrano]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Lisa Jackson|Lisa Jackson]]
 * [[Performers/Margaret Rose Hunsicker|Margaret Rose Hunsicker]]
@@ -306,7 +306,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * Stage Management: Bonnie Dilber
 * Technical Direction: [[Performers/Lindsey McGowen|Lindsey McGowen]]
 * Technical Improvisers: Biz Gilmore and [[Performers/Cindy Page|Cindy Page]]
-* Scenic and Visual Design: [[Performers/Kaci Beeler|Kaci Beeler]]
+* Scenic and Visual Design: [[Talk/Kaci Beeler|Kaci Beeler]]
 
 ## Media
 ### Videos
@@ -322,7 +322,7 @@ During this final segment, a secret is shown to the audience and to *only one* p
 ### Photos
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1150515485813.21655.1315383518&type=3) by [[Michael Yew]] that includes the 2/6/10 show.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1294236478748.36180.1315383518&type=3) by [[Michael Yew]] that includes its 6/5/10 performance at [[Festivals/The 41-Hour Improv Marathon|The 41-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.482845292264.261205.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 9/2/10 show from [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.482845292264.261205.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 9/2/10 show from [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.408278745907477.91540.118587218209966&type=3) by [[Roy Moore]] of the show from the 2012 [[Festivals/Wafflefest|Wafflefest]].
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.493316100689890.111453.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 11/17/12 performance.
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.505047759516724.113636.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 12/15/12 performance.
@@ -344,18 +344,18 @@ During this final segment, a secret is shown to the audience and to *only one* p
 * [Slideshows of secrets from the 12/8/12 and 12/15/12 shows.](http://www.hideouttheatre.com/the-austin-secrets-from-dec-8-and-dec-1th-2012)
 * [A slideshow of the secrets from 12/22/12.](http://www.hideouttheatre.com/austin-secrets-from-dec-22-2012)
 * [A slideshow of the secrets from 12/29/12.](http://www.hideouttheatre.com/secrets-from-dec-29-2012-the-last-austin-secrets-show-of-season-3)
-* Photos of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design for the 2011 run: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_2/photo%203_2.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_1/photo%202_1.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_2/photo%204_2.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201/photo%201.jpg?disposition=download).
-* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/austin-secrets-set-2012/austin-secrets-set-2012.jpg?disposition=download) of [[Performers/Kaci Beeler|Kaci Beeler]]'s set design for the 2012 run.
+* Photos of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design for the 2011 run: [1](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%203_2/photo%203_2.jpg?disposition=download), [2](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%202_1/photo%202_1.jpg?disposition=download), [3](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%204_2/photo%204_2.jpg?disposition=download), [4](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/photo%201/photo%201.jpg?disposition=download).
+* [Photo](http://kacibeeler.com/Kaci_Beeler/Artwork/Pages/Set_Design_files/Media/austin-secrets-set-2012/austin-secrets-set-2012.jpg?disposition=download) of [[Talk/Kaci Beeler|Kaci Beeler]]'s set design for the 2012 run.
 
 ## More Information
 * [The first audition announcement.](http://www.hideouttheatre.com/nov2009auditions)
-* [A 2/25/10 post](http://www.hideouttheatre.com/death-to-secrets) by [[Performers/Roy Janik|Roy Janik]], looking back on the initial run.
+* [A 2/25/10 post](http://www.hideouttheatre.com/death-to-secrets) by [[User/Roy Janik|Roy Janik]], looking back on the initial run.
 * [An announcement of their 2010 holiday show](http://www.hideouttheatre.com/austin-holiday-secrets).
 * [An announcement of the auditions for the 2011 run](http://www.hideouttheatre.com/austin-secrets-auditions-tuesday-nov-23rd-from-7-10pm).
 * [A post about preparing for the 2011 run](http://www.hideouttheatre.com/honor-the-secret-by-jordan-t-maxwell) by [[Performers/Jordan T. Maxwell|Jordan T. Maxwell]].
-* [A 5/23/11 post about curating the show](http://www.hideouttheatre.com/the-curators-secret) by [[Performers/Roy Janik|Roy Janik]].
+* [A 5/23/11 post about curating the show](http://www.hideouttheatre.com/the-curators-secret) by [[User/Roy Janik|Roy Janik]].
 * [A call for secrets for the 2011 run.](http://www.hideouttheatre.com/desperately-seeking-secrets)
-* [2013 interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2199716) with director [[Performers/Roy Janik|Roy Janik]] and cast members [[Performers/Alex Dobrenko|Alex Dobrenko]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Paul Normandin|Paul Normandin]], [[Performers/Jayme Ramsay|Jayme Ramsay]], and [[Performers/Peter Rogers|Peter Rogers]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
+* [2013 interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2199716) with director [[User/Roy Janik|Roy Janik]] and cast members [[Performers/Alex Dobrenko|Alex Dobrenko]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Paul Normandin|Paul Normandin]], [[Performers/Jayme Ramsay|Jayme Ramsay]], and [[Talk/Peter Rogers|Peter Rogers]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 ## Notes
 

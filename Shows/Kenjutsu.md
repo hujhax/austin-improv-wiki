@@ -216,8 +216,8 @@ It was featured on the April 18th, 2014 episode of the Yo, Is This Racist? podca
 * [Initial show announcement](http://www.hideouttheatre.com/announcing-the-2014-season-and-schedule) on the Hideout's web site.
 * [Hideout blog post about the show](http://www.hideouttheatre.com/zen-and-the-art-of-improvising-kurosawa) by [[Performers/Kareem Badr|Kareem Badr]].
 * [Interview with the directors](http://www.austinchronicle.com/daily/arts/2014-03-28/kenjutsu-the-art-of-the-sword/) by Wayne Allen Brenner for *The Austin Chronicle*.
-* [http://www.earwolf.com/episode/improvised-samurai-stories](http://www.earwolf.com/episode/improvised-samurai-stories) Discussion of the show on the Yo, Is This Racist? podcast 04/18/14
-* [http://earwolf.com/episode/left-wing-racism](http://earwolf.com/episode/left-wing-racism) Further discussion of the show on the Yo, Is This Racist? podcast 02/05/15
+* [http://www.earwolf.com/episode/improvised-samurai-stories](http://www.earwolf.com/episode/improvised-samurai-stories)(http://www.earwolf.com/episode/improvised-samurai-stories) Discussion of the show on the Yo, Is This Racist? podcast 04/18/14
+* [http://earwolf.com/episode/left-wing-racism](http://earwolf.com/episode/left-wing-racism)(http://earwolf.com/episode/left-wing-racism) Further discussion of the show on the Yo, Is This Racist? podcast 02/05/15
 
 Category:Shows
 Category:The Hideout Theatre

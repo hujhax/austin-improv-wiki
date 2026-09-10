@@ -217,9 +217,9 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
-* [[Performers/Roy Janik|Roy Janik]]
+* [[User/Roy Janik|Roy Janik]]
 * [[Performers/Sean Hill|Sean Hill]]
 * [[Performers/Troy Miller|Troy Miller]]
 * Wesley Bain
@@ -233,9 +233,9 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Jon Clinkenbeard|Jon Clinkenbeard]]
-* [[Performers/Justin Davis|Justin Davis]]
+* [[User/Justin Davis|Justin Davis]]
 * [[Performers/Kacey Samiee|Kacey Samiee]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Marc Majcher|Marc Majcher]]
 * [[Performers/Michael Brockman|Michael Brockman]] (musical improvisor)
 * [[Performers/Sean Hill|Sean Hill]]
@@ -250,7 +250,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Aden Kirschner|Aden Kirschner]]
 * [[Performers/David Lampe|David Lampe]]
 * [[Performers/Jay Michael|Jay Michael]]
-* [[Performers/Kaci Beeler|Kaci Beeler]]
+* [[Talk/Kaci Beeler|Kaci Beeler]]
 * [[Performers/Kareem Badr|Kareem Badr]]
 * [[Performers/Roy Danger|Roy Danger]]
 * [[Performers/Troy Miller|Troy Miller]]
@@ -264,7 +264,7 @@ Start Trekkin' has had several special performances outside of regular season ru
 * [[Performers/Jay Michael|Jay Michael]]
 * [[Performers/Lauren Buck|Lauren Buck]]
 * [[Performers/Nicole Beckley|Nicole Beckley]]
-* [[Performers/Peter Rogers|Peter Rogers]]
+* [[Talk/Peter Rogers|Peter Rogers]]
 * [[Performers/Ruby Willmann|Ruby Willmann]]
 * [[Performers/Sean Hill|Sean Hill]] (co-director)
 * [[Performers/Steve Harwood|Steve Harwood]]
@@ -301,14 +301,14 @@ Start Trekkin' has had several special performances outside of regular season ru
 ### Photos
 * [Photoset](http://www.facebook.com/happywaffle/media_set?set=a.132316345323.219868.503270323&type=3) by [[Performers/Kevin Miller|Kevin Miller]] of their 2005 trip to Las Vegas.
 * [A photoset from season 5.](http://www.facebook.com/media/set/?set=a.32637481057.53505.32635751057&type=1)
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of their 6/26/09 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.129962042264.120555.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of their 6/26/09 performance.
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 9/3/10 performance at [[Festivals/The 2010 Out of Bounds Comedy Festival|The 2010 Out of Bounds Comedy Festival]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1384780142283.49789.1315383518&type=3) by [[Michael Yew]] that includes their 11/6/10 performance at [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 * [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1364756881714.46801.1315383518&type=3) by [[Michael Yew]] that includes their 11/28/10 performance at [[Theatres/The Highball|The Highball]].
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1449103279464.2057829.1589679282&type=3) by [[Roy Moore]] which includes their 12/5/10 performance at [[Theatres/The Highball|The Highball]].
 * [Photoset](http://www.facebook.com/media/set/?set=a.562193507177503.1073741894.221927764537414&type=3) by [[Steve Rogers]] of their 6/4/11 performance in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
-* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/5/12 dress rehearsal.
-* [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 1/8/12 performance.
+* [A photoset](http://www.facebook.com/hujhax/media_set?set=a.10150587412602265.439518.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/5/12 dress rehearsal.
+* [A photoset](http://www.facebook.com/media/set/?set=a.10150596276207265.440883.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 1/8/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.275926565804200.69816.221927764537414&type=3) by [[Steve Rogers]] of the 1/14/12 performance.
 * [Photoset](http://www.facebook.com/photo.php?fbid=2715196921871&set=a.2704965146083.112288.1315383518&type=3) by [[Michael Yew]] that includes the 2/25/12 performance.
 * [A photoset](http://www.facebook.com/media/set/?set=a.322531471143709.79166.221927764537414&type=3) from [[Steve Rogers]], [and another](http://www.facebook.com/media/set/?set=a.2757850428182.113501.1315383518&type=3)  from [[Michael Yew]], of the 3/8/12 *[[Shows/Free Fringe|Free Fringe]]* performance, which included a *Start Trekkin*' adventure with an all-female cast.

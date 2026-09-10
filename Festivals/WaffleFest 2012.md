@@ -9,7 +9,7 @@ image: "File/Wafflefest%20ad.jpg"
 ## Summary
 The festival ran from 11/8/12 to 11/10/12.
 
-It included an all-star *[[Shows/Maestro|Maestro]]*, a teen improv showcase, and a "Ladies' Night", which featured local improvisors [[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Amy Averett|Amy Averett]], [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Erika McNichol|Erika McNichol]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]], [[Performers/Kaci Beeler|Kaci Beeler]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Lauren Zinn|Lauren Zinn]], and [[Performers/Shana Merlin|Shana Merlin]].
+It included an all-star *[[Shows/Maestro|Maestro]]*, a teen improv showcase, and a "Ladies' Night", which featured local improvisors [[Performers/Aden Kirschner|Aden Kirschner]], [[Performers/Amy Averett|Amy Averett]], [[Performers/Courtney Hopkin|Courtney Hopkin]], [[Performers/Emma Holder|Emma Holder]], [[Performers/Erika McNichol|Erika McNichol]], [[Performers/Halyn Lee Erickson|Halyn Lee Erickson]], [[Talk/Kaci Beeler|Kaci Beeler]], [[Performers/Kayla Lane Freeman|Kayla Lane Freeman]], [[Performers/Lauren Zinn|Lauren Zinn]], and [[Performers/Shana Merlin|Shana Merlin]].
 
 The festival also included several acts from *[[Shows/The Free Fringe|The Free Fringe]]*.
 

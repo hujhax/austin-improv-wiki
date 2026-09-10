@@ -4,7 +4,7 @@ description: "Poster for Cascade by Ryan Austin."
 ![[File/Cascade.jpg]]
 
 ## Summary
-Poster for Cascade by [[Performers/Ryan Austin|Ryan Austin]]
+Poster for Cascade by [[User/Ryan Austin|Ryan Austin]]
 ## Licensing
 This file has been uploaded either without identifying the copyright holder or without obtaining that person's permission to use their work.
 

@@ -9,7 +9,7 @@ image: "File/Hideout%20Text%20Adventure%20Gamplay.jpg"
 ## History
 The game originated in a facebook discussion on January 9th, 2012 about setting up a possible text-adventure-themed show at the Hideout, a production that could be paired with *[[Shows/Pick Your Own Path|Pick Your Own Path]]*.
 
-[[Performers/Brad Hawkins|Brad Hawkins]] then jokingly wrote out a walk-through of a (nonexistent) text-adventure game set at the Hideout, and [[Performers/Peter Rogers|Peter Rogers]] ran with the idea, quickly coding up more and more complicated iterations of a Hideout-themed game in Inform 7.  Eventually, Peter met with [[Performers/Kevin Miller|Kevin Miller]] and [[Performers/Marc Majcher|Marc Majcher]] to plan out the rest of the game, and quickly completed the code on his own on January 21st.
+[[Performers/Brad Hawkins|Brad Hawkins]] then jokingly wrote out a walk-through of a (nonexistent) text-adventure game set at the Hideout, and [[Talk/Peter Rogers|Peter Rogers]] ran with the idea, quickly coding up more and more complicated iterations of a Hideout-themed game in Inform 7.  Eventually, Peter met with [[Performers/Kevin Miller|Kevin Miller]] and [[Performers/Marc Majcher|Marc Majcher]] to plan out the rest of the game, and quickly completed the code on his own on January 21st.
 
 ## Gameplay
 As with most interactive fiction games, the player interacts with the game engine via text -- the player reads prose descriptions of places, items, and events, and types text commands such as "CLIMB THE STAIRS", "PICK UP THE TICKET", or "TALK TO [[Performers/Kareem Badr|KAREEM]]".  The game is based around a fairly simple storyline: the beloved [[The Skull on a Stick|Skull on a Stick]] has gone missing at the Hideout, and it's up to you to find it.

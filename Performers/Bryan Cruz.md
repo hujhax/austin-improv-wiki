@@ -91,7 +91,7 @@ Bryan Cruz is a notable performer known in the Austin Improv Community before mo
 * *[[Shows/Live TV Tuesdays -  Beverly Hills, 90210|Live TV Tuesdays -  Beverly Hills, 90210]]* (Dylan McKay)
 * *[[Shows/Live TV Tuesdays -  Buffy|Live TV Tuesdays -  Buffy]]* (Oz)
 * *[[Shows/Live TV Tuesdays -  Saved by the Bell|Live TV Tuesdays -  Saved by the Bell]]* (A. C. Slater)
-* *[[Shows/Totally Improvised, 90210|Totally Improvised, 90210]]* (Dylan McKay)
+* *[[Talk/Totally Improvised, 90210|Totally Improvised, 90210]]* (Dylan McKay)
 
 ## Media
 * [Photoset from the Bryan's farewell show](http://www.facebook.com/media/set/?set=a.3388496233933.126439.1315383518&type=3) by [[Michael Yew]].

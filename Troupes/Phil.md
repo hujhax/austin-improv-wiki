@@ -87,7 +87,7 @@ Phil was formed in 2010 when Keegan, Jason, and Tim completed classes at [[Theat
 
 ### Photos
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.354216507933184.82495.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] that includes one of their shows. 
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198541347265.346700.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] that includes their 3/31/11 performance in *[[Shows/The Threefer|The Threefer]]*.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10150198541347265.346700.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] that includes their 3/31/11 performance in *[[Shows/The Threefer|The Threefer]]*.
 * [Photoset](http://www.facebook.com/roy.moore/media_set?set=a.1855667683320.2087941.1589679282&type=3) by [[Roy Moore]] that includes their 8/14/11 performance in *[[Shows/The Weekender|The Weekender]]*.
 
 ## More Information

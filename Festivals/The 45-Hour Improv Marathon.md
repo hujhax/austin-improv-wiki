@@ -17,7 +17,7 @@ image: "File/The%2045-Hour%20Cover%20Photo.jpg"
 * [[Performers/Troy Miller|Troy Miller]]
 
 ## Staff
-* [[Performers/Roy Janik|Roy Janik]] - Artistic Director
+* [[User/Roy Janik|Roy Janik]] - Artistic Director
 * [[Performers/Ryan Hill|Ryan Hill]] - Producer
 * [[Performers/Jessie Pascarelli|Jessie Pascarelli]] - Assistant Producer
 
@@ -68,9 +68,9 @@ image: "File/The%2045-Hour%20Cover%20Photo.jpg"
 
 ## Media
 ### Videos
-* [Video](http://vimeo.com/99388847) by [[Performers/Peter Rogers|Peter Rogers]] of hour 29 ([[Troupes/The Professor|The Professor]]).
-* [Video](http://vimeo.com/99443000) by [[Performers/Peter Rogers|Peter Rogers]] of hour 33 ([[Puppet Improv Project]]).
-* [Video](http://vimeo.com/99422633) by [[Performers/Peter Rogers|Peter Rogers]] of hour 35 (*[[Shows/Tech Nightmare|Tech Nightmare]]*).
+* [Video](http://vimeo.com/99388847) by [[Talk/Peter Rogers|Peter Rogers]] of hour 29 ([[Troupes/The Professor|The Professor]]).
+* [Video](http://vimeo.com/99443000) by [[Talk/Peter Rogers|Peter Rogers]] of hour 33 ([[Puppet Improv Project]]).
+* [Video](http://vimeo.com/99422633) by [[Talk/Peter Rogers|Peter Rogers]] of hour 35 (*[[Shows/Tech Nightmare|Tech Nightmare]]*).
 
 ### Photos
 * [Cast-photo collages](http://www.facebook.com/media/set/?set=a.755064164557102.1073742021.221927764537414&type=3) by [[Steve Rogers]].

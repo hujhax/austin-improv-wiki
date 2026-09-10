@@ -1,7 +1,7 @@
 ---
 redirect: "Performers/Roy Janik"
 ---
-#REDIRECT [[Performers/Roy Janik]]
+#REDIRECT [[User/Roy Janik]]
 
 <script>
   (function() {

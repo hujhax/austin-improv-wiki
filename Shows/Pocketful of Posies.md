@@ -145,9 +145,9 @@ image: "File/Posies.jpg"
 * [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.453977811290386.101756.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of the 8/3/12 performance.
 * [Photoset](http://www.facebook.com/media/set/?set=a.407668889296633.98272.221927764537414&type=3) by [[Steve Rogers]] of the 8/10/12 performance.
   * [Another photoset](http://www.facebook.com/michael.yew/media_set?set=a.3471523349559.128816.1315383518&type=3) by [[Michael Yew]] of the same performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151211225352265.507819.588952264&type=3) by [[Performers/Peter Rogers|Peter Rogers]] of the 8/18/12 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151211225352265.507819.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/18/12 performance.
 
 ## More Information
-* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2035639) with cast members [[Performers/Kristin Firth|Kristin Firth]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Ruby Willmann|Ruby Willmann]], and [[Performers/Ryan Austin|Ryan Austin]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
+* [Interview](http://directory.libsyn.com/episode/index/show/thetheftforum/id/2035639) with cast members [[Performers/Kristin Firth|Kristin Firth]], [[Performers/Brad Hawkins|Brad Hawkins]], [[Performers/Ruby Willmann|Ruby Willmann]], and [[User/Ryan Austin|Ryan Austin]] on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 Pocketful
