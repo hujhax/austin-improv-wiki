@@ -2,9 +2,9 @@
 	<table class="infobox infobox-show">
 		<tr><th colspan="2" class="infobox-header">Bad Girls in Plaid Skirts</th></tr>
 		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/Bad Girls in Plaid Skirts.jpg.md"><img src="../File/Bad%20Girls%20in%20Plaid%20Skirts.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
-		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category">[[Theatres/The Institution Theater|The Institution Theater]]</td></tr>
-		<tr class=""><th scope="row" class="category-header">Director</th><td class="category">[[Performers/Tom Booker|Tom Booker]]</td></tr>
-		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>Adriane Shown</li><li>Brandon Martin</li><li>Clifton Highfield</li><li>Jason Vines</li><li>Jeanette Jones</li><li>Juanita Butler</li><li>Roxy Castillo</li><li>[[Performers/Tom Booker|Tom Booker]]</li><li>Valerie Lara</li></ul></div></td></tr>
+		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td></tr>
+		<tr class=""><th scope="row" class="category-header">Director</th><td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td></tr>
+		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>Adriane Shown</li><li>Brandon Martin</li><li>Clifton Highfield</li><li>Jason Vines</li><li>Jeanette Jones</li><li>Juanita Butler</li><li>Roxy Castillo</li><li><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li><li>Valerie Lara</li></ul></div></td></tr>
 		<tr class=""><th scope="row" class="category-header">Run</th><td class="category">Mar 2013</td></tr>
 	</table>
 </div>

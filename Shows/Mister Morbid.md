@@ -2,9 +2,9 @@
 	<table class="infobox infobox-show">
 		<tr><th colspan="2" class="infobox-header">Mister Morbid's Moonlight Movie Mayhem Madness Massacre</th></tr>
 		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/Mister Morbid.jpg.md"><img src="../File/Mister%20Morbid.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
-		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category">[[Theatres/The Institution Theater|The Institution Theater]]</td></tr>
-		<tr class=""><th scope="row" class="category-header">Director</th><td class="category">[[Performers/Tom Booker|Tom Booker]]</td></tr>
-		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>[[Talk/Thedward Blevins|Thedward Blevins]]</li><li>[[Performers/Tom Booker|Tom Booker]]</li></ul></div></td></tr>
+		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category"><a class="internal-link" href="Theatres/The Institution Theater">The Institution Theater</a></td></tr>
+		<tr class=""><th scope="row" class="category-header">Director</th><td class="category"><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></td></tr>
+		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li><a class="internal-link" href="Performers/Thedward Blevins">Thedward Blevins</a></li><li><a class="internal-link" href="Performers/Tom Booker">Tom Booker</a></li></ul></div></td></tr>
 		<tr class=""><th scope="row" class="category-header">Run</th><td class="category">Oct 2013</td></tr>
 		<tr class=""><th scope="row" class="category-header">Subsequent Runs</th><td class="category"><div class="plainlist"><ul><li>Oct 2014</li><li>Oct 2015</li></ul></div></td></tr>
 	</table>
@@ -14,7 +14,7 @@
 ***Mister Morbid's Moonlight Movie Mayhem Madness Massacre*** was an improv show.
 
 ## Summary
-In the world of the show, [[Performers/Tom Booker]] plays Mister Morbid, a quaint small-town mortician who hosts a "fright night" where he plays old B-horror movies.  ([[Talk/Thedward Blevins]] plays his sidekick, Montgomery.)  But technical difficulties prevent him from playing the movie successfully, and he has to call on friends to re-create the movie for him.
+In the world of the show, [[Performers/Tom Booker]] plays Mister Morbid, a quaint small-town mortician who hosts a "fright night" where he plays old B-horror movies.  ([[Performers/Thedward Blevins]] plays his sidekick, Montgomery.)  But technical difficulties prevent him from playing the movie successfully, and he has to call on friends to re-create the movie for him.
 
 In practical terms, the host presents a short segment or trailer of a 70s horror film, and then an improv troupe uses that segment as the inspiration for an improvised narrative.  Then the host presents a second segment/trailer, and the second visiting troupe improvises off of that.
 

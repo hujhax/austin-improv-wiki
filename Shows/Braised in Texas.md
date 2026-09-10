@@ -2,7 +2,7 @@
 	<table class="infobox infobox-show">
 		<tr><th colspan="2" class="infobox-header">Braised in Texas</th></tr>
 		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/Braised in Texas.jpg.md"><img src="../File/Braised%20in%20Texas.jpg" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
-		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category">[[Category/ColdTowne Theater|ColdTowne Theater]]</td></tr>
+		<tr class=""><th scope="row" class="category-header">Theater</th><td class="category"><a class="internal-link" href="Category/ColdTowne Theater">ColdTowne Theater</a></td></tr>
 		<tr class=""><th scope="row" class="category-header">Director</th><td class="category">Erika May McNichol</td></tr>
 		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>Andy Buck</li><li>Arthur Simone</li><li>Calan Lambert</li><li>Carlos LaRotta</li><li>Cortnie Jones</li><li>Emma Holder</li><li>Jericho Thorp</li><li>John Ratliff</li><li>Katie Thornton</li><li>Nicole McCracken</li><li>Taylor Overstreet</li><li>Valerie Ward</li></ul></div></td></tr>
 		<tr class=""><th scope="row" class="category-header">Run</th><td class="category">May/Jun 2013</td></tr>

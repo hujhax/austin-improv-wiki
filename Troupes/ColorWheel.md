@@ -2,7 +2,7 @@
 	<table class="infobox infobox-troupe">
 		<tr><th colspan="2" class="infobox-header">ColorWheel</th></tr>
 		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/ColorWheel.png.md"><img src="../File/ColorWheel.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
-		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>Christine Giordano.</li><li>[[Performers/Jay Byrd|Jay Byrd]]</li><li>[[Performers/John Buseman|John Buseman]]</li></ul></div></td></tr>
+		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>Christine Giordano.</li><li><a class="internal-link" href="Performers/Jay Byrd">Jay Byrd</a></li><li><a class="internal-link" href="Performers/John Buseman">John Buseman</a></li></ul></div></td></tr>
 		<tr class=""><th scope="row" class="category-header">Years</th><td class="category">2010</td></tr>
 	</table>
 </div>

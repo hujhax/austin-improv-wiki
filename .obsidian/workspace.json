@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Shows/Mister Morbid.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mister Morbid"
             }
           }
         ]
@@ -76,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4ab52d8da0b0b1c9",
@@ -93,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shows/Mister Morbid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -183,32 +187,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "File/Townsville-communitycenter-planning.jpg.md",
-    "File/Topping Haggerty Pic3.jpg.md",
-    "File/TrekInVegas.jpg.md",
-    "File/Troy Miller Pic.jpg.md",
-    "File/Tom Booker Pic.jpg.md",
-    "File/Turn of the Century Paris.jpg.md",
-    "File/Topping Haggerty Pic2.jpg.md",
-    "File/Trash.jpg.md",
-    "File/Twelve-Inch Integrity.png.md",
-    "File/Total Panic.jpg.md",
-    "File/Todd Hart Pic.jpg.md",
-    "File/TheeHotChicks.jpg.md",
-    "File/Theo Daley Pic.jpg.md",
-    "File/Things We Don't Speak Of.jpg.md",
-    "File/There's Waldo.jpg.md",
-    "File/Toby Keith and the French Guy.gif.md",
-    "File/Theatredome.png.md",
-    "File/Thinning the Herd.jpg.md",
-    "File/Tno-poster-small.jpg.md",
-    "File/Tiny Luddite.jpg.md",
-    "File/Three Blondes.jpg.md",
-    "File/Then Say I Love You.jpg.md",
-    "File/Tim Honker.jpg.md",
-    "File/Tim Honker headshot.jpg.md",
-    "File/Tight.jpg.md",
-    "File/Timcoyle.jpg.md",
+    "Shows/After School Improv.md",
+    "Shows/Mister Morbid.md",
+    "index (DESKTOP-VE9H8DU's conflicted copy 2026-09-10).md",
+    "File/¡ZARZAMORA!.jpg.md",
+    "File/Yew in Booth.jpg.md",
+    "File/You're Fat.jpg.md",
+    "File/Worst First Date.jpg.md",
+    "File/Wu Yun.jpg.md",
+    "File/Zac GranthamPic.jpg.md",
+    "File/Your Terrific Neighbors.jpg.md",
+    "File/You Can't Stay Here Poster.jpg.md",
+    "File/Wyatt Tall Pic.jpg.md",
+    "File/ZA.jpg.md",
+    "File/YNMRD.jpg.md",
+    "File/You Can't Stay Here.jpg.md",
+    "File/You Me & Greg.jpg.md",
+    "File/Your Dad's Friends.jpg.md",
+    "File/We Invented Dinosaurs.jpg.md",
+    "File/Well Hung Jury.jpg.md",
+    "File/Wooden Nickel.jpg.md",
+    "File/Whirled News Tonight.jpg.md",
+    "File/Wish You Were Beer.jpg.md",
+    "File/Wellmadeplay.jpg.md",
+    "File/Whalehouse.jpg.md",
+    "File/Wink Planet.jpg.md",
+    "File/What the F@$.jpg.md",
     "User talk",
     "User",
     "Troupes",

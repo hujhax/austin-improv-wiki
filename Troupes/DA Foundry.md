@@ -2,7 +2,7 @@
 	<table class="infobox infobox-troupe">
 		<tr><th colspan="2" class="infobox-header">DA Foundry</th></tr>
 		<tr class=""><td colspan="2" class="infobox-picture"><a class="internal-link" href="../File/DA Foundry.png.md"><img src="../File/DA%20Foundry.png" alt="" style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a></td></tr>
-		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li>[[Performers/Chelsea Gilman|Chelsea Gilman]]</li><li>[[Performers/David Rosenbaum|David Rosenbaum]]</li><li>[[Performers/Susannah Raulino|Susannah Raulino]]</li><li>[[Troupes/Topping Haggerty|Topping Haggerty]]</li></ul></div></td></tr>
+		<tr class=""><th scope="row" class="category-header">Cast</th><td class="category"><div class="plainlist"><ul><li><a class="internal-link" href="Performers/Chelsea Gilman">Chelsea Gilman</a></li><li><a class="internal-link" href="Performers/David Rosenbaum">David Rosenbaum</a></li><li><a class="internal-link" href="Performers/Susannah Raulino">Susannah Raulino</a></li><li><a class="internal-link" href="Troupes/Topping Haggerty">Topping Haggerty</a></li></ul></div></td></tr>
 		<tr class=""><th scope="row" class="category-header">Years</th><td class="category">2011-2013</td></tr>
 	</table>
 </div>
