@@ -9,13 +9,13 @@
 	</table>
 </div>
 
-***Maestro Raw*** (usually stylized as ***Maestro RAW***) is a student-cast version of *[[Shows/Maestro]]*.
+***Maestro Raw*** (usually stylized as ***Maestro RAW***) is a student-cast version of *[[Shows/Maestro|Maestro]]*.
 
 ## Summary
-The show runs on the fourth Friday of each month as part of *[[Shows/The Wheel]]*.  It is cast exclusively from students of [[Theatres/The Hideout Theatre]].
+The show runs on the fourth Friday of each month as part of *[[Shows/The Wheel|The Wheel]]*.  It is cast exclusively from students of [[Theatres/The Hideout Theatre|The Hideout Theatre]].
 
 ## History
-The show began in July 2012, with that month's revamp of *[[Shows/The Wheel]]*.
+The show began in July 2012, with that month's revamp of *[[Shows/The Wheel|The Wheel]]*.
 
 ## More Information 
 * [The show's web page.](http://www.hideouttheatre.com/shows/maestroraw)

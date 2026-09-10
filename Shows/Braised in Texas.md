@@ -15,23 +15,23 @@
 <a class="internal-link" href="../File/Braised Cast.jpg.md"><img src="../File/Braised%20Cast.jpg" alt="A performance of *Braised in Texas*." style="max-width: 100%; height: auto; display: block; margin: 1em 0;" /></a>
 
 ## Summary
-[[Performers/John Ratliff]] (as "The Stranger") narrated the show.
+[[Performers/John Ratliff|John Ratliff]] (as "The Stranger") narrated the show.
 
 ## History
-[[Troupes/McNichol & May]] first experimented with the show concept in their slot in [[Festivals/The 42-Hour Improv Marathon]].
+[[Troupes/McNichol & May|McNichol & May]] first experimented with the show concept in their slot in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
 
-The show had several performances after its run, including [[Festivals/The 2013 Out of Bounds Comedy Festival]].
+The show had several performances after its run, including [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## Media
 ### Photos
-* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes McNichol and May's first experiment with the format in [[Festivals/The 42-Hour Improv Marathon]].
-* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.585498514804981.1073741842.100000345135257&type=3) by [[Performers/Claudio Fox]] of their 6/16/13 performance.
-* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151909102032265.1073741838.588952264&type=3) by [[Talk/Peter Rogers]] of the 8/30/13 show in [[Festivals/The 2013 Out of Bounds Comedy Festival]].
+* [Photoset](http://www.facebook.com/michael.yew/media_set?set=a.1602508305351.75968.1315383518&type=3) by [[Michael Yew]] that includes McNichol and May's first experiment with the format in [[Festivals/The 42-Hour Improv Marathon|The 42-Hour Improv Marathon]].
+* [Photoset](http://www.facebook.com/claudio.fox.5/media_set?set=a.585498514804981.1073741842.100000345135257&type=3) by [[Performers/Claudio Fox|Claudio Fox]] of their 6/16/13 performance.
+* [Photoset](http://www.facebook.com/hujhax/media_set?set=a.10151909102032265.1073741838.588952264&type=3) by [[Talk/Peter Rogers|Peter Rogers]] of the 8/30/13 show in [[Festivals/The 2013 Out of Bounds Comedy Festival|The 2013 Out of Bounds Comedy Festival]].
 
 ## More Information 
 * [The audition announcement](http://forum.austinimprov.com/viewtopic.php?f=3&t=14677) on [[The Austin Improv Forums]].
 * [The show's web page.](http://www.coldtownetheater.com/blog/live-bbq-delicious-comedy)
-* [Thoughts on the show's debut](http://yesandrew.com/2013/05/06/the-debut-of-braised-in-texas/) by [[Performers/Andrew Buck]] on his blog.
-* [Interview](http://castroller.com/podcasts/TheTheftForum/3597341) with [[Performers/Erika May McNichol]], [[Performers/Taylor Overstreet]], and [[Jerico Thorp]] about the show on *[[Troupes/The Theft Forum]]*.
+* [Thoughts on the show's debut](http://yesandrew.com/2013/05/06/the-debut-of-braised-in-texas/) by [[Performers/Andrew Buck|Andrew Buck]] on his blog.
+* [Interview](http://castroller.com/podcasts/TheTheftForum/3597341) with [[Performers/Erika May McNichol|Erika May McNichol]], [[Performers/Taylor Overstreet|Taylor Overstreet]], and Jerico Thorp about the show on *[[Troupes/The Theft Forum|The Theft Forum]]*.
 
 [[Category/Shows]]

@@ -12,14 +12,14 @@
 
 ## Summary
 ### Press Blurb
-Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre]]:> <p>DA Foundry performs improvised theater with improvised music and songs.</p> 
+Their press blurb, taken from a 2013 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:> <p>DA Foundry performs improvised theater with improvised music and songs.</p> 
 > 
 > <p>This dynamic troupe creates rich fictional worlds, and populates them with strong characters, background music, and improvised singing.</p> 
 > 
 > <p>Also, quite funny.</p>
 
 ### "What's Your Deal?"
-Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre]]:> <p>We do improv, musical improv, plays, and films under the DA Foundry umbrella.</p> 
+Their answer to the "What's Your Deal?" question on a 2012 application to perform at [[Theatres/The Hideout Theatre|The Hideout Theatre]]:> <p>We do improv, musical improv, plays, and films under the DA Foundry umbrella.</p> 
 > 
 > <p>Topping and Susannah also teach Singing Improv, Creative Writing, and coach writers and improvisers.</p> 
 > 
@@ -31,7 +31,7 @@ Their answer to the "What's Your Deal?" question on a 2012 application to perfor
 
 ## Media
 ### Videos
-* [Video of a 2012 performance](http://vimeo.com/31770462) in *[[Shows/The Saturday Night Special]]*.
+* [Video of a 2012 performance](http://vimeo.com/31770462) in *[[Shows/The Saturday Night Special|The Saturday Night Special]]*.
 * [Video of their 2013 Frontera Fest show.](http://vimeo.com/62018435)
 
 ## More Information

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shows/Mister Morbid.md",
+                "file": "Performers/Jeanette Jones.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mister Morbid"
+              "title": "Jeanette Jones"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shows/Mister Morbid.md",
+                "file": "Performers/Jeanette Jones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -187,8 +187,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Shows/After School Improv.md",
+    "GEMINI.md",
+    "Shows/Bad Girls in Plaid Skirts.md",
+    "Juanita Butler.md",
+    "index (DESKTOP-VE9H8DU's conflicted copy 2026-09-10 1).md",
+    "index.md",
     "Shows/Mister Morbid.md",
+    "Shows/After School Improv.md",
     "index (DESKTOP-VE9H8DU's conflicted copy 2026-09-10).md",
     "File/¡ZARZAMORA!.jpg.md",
     "File/Yew in Booth.jpg.md",
@@ -208,11 +213,6 @@
     "File/Well Hung Jury.jpg.md",
     "File/Wooden Nickel.jpg.md",
     "File/Whirled News Tonight.jpg.md",
-    "File/Wish You Were Beer.jpg.md",
-    "File/Wellmadeplay.jpg.md",
-    "File/Whalehouse.jpg.md",
-    "File/Wink Planet.jpg.md",
-    "File/What the F@$.jpg.md",
     "User talk",
     "User",
     "Troupes",

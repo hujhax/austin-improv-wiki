@@ -13,7 +13,7 @@
 
 ***The Trouble With Terry*** was an improvised longform narrative show inspired by fantastical television sitcoms such as *Alf*, *Bewitched*, *I Dream of Genie*, and *My Mother the Car*.
 
-It was a [[Theatres/Merlin Works]] 601 graduation show that opened [[Shows/The Saturday Night Special]] for a three-week run at [[Theatres/Salvage Vanguard Theater]].
+It was a [[Theatres/Merlin Works|Merlin Works]] 601 graduation show that opened [[Shows/The Saturday Night Special|The Saturday Night Special]] for a three-week run at [[Theatres/Salvage Vanguard Theater|Salvage Vanguard Theater]].
 
 
 ## Media
