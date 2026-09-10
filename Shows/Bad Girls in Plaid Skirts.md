@@ -25,7 +25,7 @@ It was written and directed by Tom Booker, partly inspired by cast improvisation
 * Grace -- Valerie Lara
 * Juanita -- Roxy Castillo
 * Mary Jane -- [[Performers/Jeanette Jones|Jeanette Jones]]
-* Virginia -- [[Juanita Butler]]
+* Virginia -- Juanita Butler
 * Rico -- [[Performers/Brandon Martin|Brandon Martin]]
 * The Bishop -- [[Performers/Tom Booker|Tom Booker]]
 * The Spawn Of Satan -- [[Performers/Jason Vines|Jason Vines]]
