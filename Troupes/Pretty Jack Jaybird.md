@@ -1,17 +1,6 @@
----
-redirect: "Troupes/Pretty Jack Jaybird"
----
-#REDIRECT [[Troupes/Pretty Jack Jaybird]]
+#  Summary ==
+Publicity photo of [[Pretty Jack Jaybird]].
 
-<script>
-  (function() {
-    const link = document.querySelector(".center article a.internal, .center article a.internal-link");
-    if (link && link.href) {
-      if (window.spaNavigate) {
-        window.spaNavigate(new URL(link.href));
-      } else {
-        window.location.replace(link.href);
-      }
-    }
-  })();
-</script>
+Photo by: unknown.
+#  Licensing ==
+{{No license}}

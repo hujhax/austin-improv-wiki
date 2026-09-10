@@ -1,17 +1,6 @@
----
-redirect: "Shows/Cereal for Adults"
----
-#REDIRECT [[Shows/Cereal for Adults]]
+#  Summary ==
+[[Baby Kick Baby]] performing in the 4/16/09 *[[Threefer]]*.
 
-<script>
-  (function() {
-    const link = document.querySelector(".center article a.internal, .center article a.internal-link");
-    if (link && link.href) {
-      if (window.spaNavigate) {
-        window.spaNavigate(new URL(link.href));
-      } else {
-        window.location.replace(link.href);
-      }
-    }
-  })();
-</script>
+Photo by [[Peter Rogers]], from [http://www.facebook.com/hujhax/media_set?set=a.104471242264.104199.588952264&type=3 this photoset].
+#  Licensing ==
+{{AIC-Wiki-only license}}

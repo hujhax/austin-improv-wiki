@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troupes/Girls Girls Girls.md",
+                "file": "Festivals/The 2012 Ladies Are Funny Festival.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Girls Girls Girls"
+              "title": "The 2012 Ladies Are Funny Festival"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4ab52d8da0b0b1c9",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troupes/Girls Girls Girls.md",
+                "file": "Festivals/The 2012 Ladies Are Funny Festival.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,44 +176,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "File/Secret Life of Soccer Moms Poster.jpg.md",
+    "Festivals/The Ladies Are Funny Festival.md",
+    "Main Page.md",
+    "Festivals/LAFF.md",
+    "Festivals/Ladies Are Funny Festival.md",
+    "Shows/Live Nude Improv.md",
+    "Festivals/The 46-Hour Improv Marathon.md",
+    "Festivals/46-Hour Improv Marathon.md",
+    "Festivals/Improv Wins!.md",
+    "Troupes/First Round Draft.md",
+    "Festivals/The 2002 Out of Bounds Comedy Festival.md",
+    "File/2002 Out of Bounds Schedule.jpg.md",
+    "File/2003 Out of Bounds Schedule.jpg.md",
+    "File/2003 Out of Bounds Schedule.jpg",
+    "File/710 Split.jpg.md",
+    "File/710 Split.jpg",
+    "File/183 Dewberry Lane Poster.jpg.md",
+    "File/183 Dewberry Lane Placeholder Image.jpg.md",
+    "File/183 Dewberry Lane Poster.jpg",
+    "File/183 Dewberry Lane Placeholder Image.jpg",
+    "Shows/A Deed So Dark.md",
+    "Shows/A Bedtime Gorey.md",
+    "File/Chelsea Gilman Pic.jpg.md",
+    "Performers/Chelsea Adland.md",
+    "Performers/Chelsea Gilman.md",
     "Troupes/Girls Girls Girls.md",
+    "File/Secret Life of Soccer Moms Poster.jpg.md",
     "Performers/Sarah Marie Curry.md",
     "Shows/Bad Girls in Plaid Skirts.md",
     "Shows/Bad Company.md",
     "Shows/Austin Secrets.md",
-    "Shows/Apocalypse! (Show).md",
-    "Shows/Back In Townsville.md",
-    "Shows/BBW presents, Big Beautiful Warriors.md",
-    "Shows/183 Dewberry Lane.md",
-    "Shows/183 Dewberry LaneN.md",
-    "Shows/After School Improv.md",
-    "File/After School Improv Pic.jpg.md",
-    "Main Page.md",
-    "File/Yew in Booth.jpg.md",
-    "Michael Yew.md",
-    "Shows/Breaking Beckett.md",
-    "Shows/After School Special.md",
-    "Shows/' ' or Bust!.md",
-    "Shows/America -  Have it Your Way.md",
-    "File/A Penny Dreadful.jpg.md",
-    "Shows/A Penny Dreadful.md",
-    "Shows/False Matters.md",
-    "Performers/Courtney Hopkin.md",
-    "File/Courtney Hopkin Pic.jpg.md",
-    "Troupes/Parallelogramophonograph.md",
     "Shows/Showdown Episodes",
     "Shows/Steam Episodes",
     "Lists",
